@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw -B clean deploy -Pdocumentation,307.78959138143955,27271707,True,##[error]The process '/usr/bin/sudo' failed with exit code 100
+##[group]Installed distributions,183.0266837503728,27018631,False,
+##[group]GITHUB_TOKEN Permissions,78.56683605615575,2822233,False,
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---,46.23489438670934,5673915,False,
+##[group]Run ts-graphviz/setup-graphviz@v1,41.06531598273945,2977392,False,
+##[group]Fetching the repository,37.26690984145409,446353,False,
+##[group]Run actions/checkout@v4,10.491620475829004,161311,False,
+##[group]Getting Git version info,10.230533139058895,29310,False,
+##[group]Setting up auth,9.969445802288789,57976,False,
+##[group]Checking out the ref,8.664009118438253,51550,False,
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---,5.377856113016825,145941,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ spring-hateoas ---,5.2852186259700105,185300,False,
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---,2.723667114150968,69552,False,
+##[group]==END_FILE==,0.6232908762742564,4276830,False,

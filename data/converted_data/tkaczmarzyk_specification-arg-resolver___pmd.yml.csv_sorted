@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 74.57164341031262, , , , 11543518, False, 
+##[group]Run github/codeql-action/upload-sarif@v2, 28.66458544627841, , , , 1887372, True, ##[error]Cannot read properties of undefined (reading 'browser_download_url')
+##[group]==END_FILE==, 12.496215658606957, , , , 4722355, False, 
+##[group]Run pmd/pmd-github-action@v1.4.0, 7.513636969459572, , , , 441057, False, 
+##[group]Fetching the repository, 5.994093747851475, , , , 423919, False, 
+##[group]Run actions/checkout@v3, 2.9930902085807536, , , , 170396, False, 
+##[group]Checking out the ref, 1.4997598948831763, , , , 18901, False, 
+##[group]Cleaning the repository, 1.4972869790425616, , , , 41056, False, 

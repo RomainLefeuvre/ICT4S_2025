@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 138.20122743103815, , , , 3914021, False, 
+##[group]Run actions/dependency-review-action@9129d7d40b8c12c1ed0f60400d00c92d437adcce, 32.819631165603994, , , , 484682, True, ##[error]Both a base ref and head ref must be provided, either via the `base_ref`/`head_ref` config options, `base-ref`/`head-ref` workflow action options, or by running a `pull_request`/`pull_request_target` workflow.
+##[group]Fetching the repository, 30.66227043921804, , , , 475567, False, 
+##[group]Run step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142, 16.32629596620031, , , , 233141, False, 
+##[group]Setting up auth, 5.873570800677294, , , , 61635, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 5.700981942566418, , , , 131635, False, 
+##[group]Run step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142__dup_4, 5.61468751351098, , , , 55795, False, 
+##[group]==END_FILE==, 0.2324368391400067, , , , 4317420, False, 

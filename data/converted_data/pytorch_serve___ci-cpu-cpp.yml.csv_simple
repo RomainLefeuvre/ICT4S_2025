@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed versions,197.49649845144543,17658828,True,##[error]WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+##[group]GITHUB_TOKEN Permissions,120.77718604170784,4055951,False,
+Requested labels: self-hosted,57.15247861355893,4570572,False,
+##[group]Run python ts_scripts/print_env_info.py,54.58995116726768,3285276,False,
+##[group]Removing previously created refs_ to avoid conflicts,51.012185183124245,8602895,False,
+##[group]Installed distributions,34.19500739005119,585640,False,
+##[group]Run cd test && pytest pytest/test_cpp_backend.py,22.361917214139066,1610336,True,##[error]Process completed with exit code 127.
+##[group]Fetching the repository,17.048568961472768,1336533,False,
+##[group]Cleaning the repository,10.85557738533548,823679,False,
+##[group]Run sudo apt update && python ts_scripts/install_dependencies.py --environment=dev --cpp,10.853287849363213,1810036,True,##[error]Process completed with exit code 100.
+##[group]Run actions/checkout@v3,8.13758297808137,138152,False,
+##[group]Run cd cpp && rm -rf _build && sudo mkdir /mnt/_build && sudo chmod 777 /mnt/_build && mkdir build && sudo mount --bind /mnt/_build build,6.243997762851186,346325,True,##[error]Process completed with exit code 127.
+##[group]Getting Git version info,3.544517040259997,207962,False,
+##[group]Persisting credentials for submodules,1.675587408719787,180870,False,
+##[group]Disabling automatic garbage collection,1.2809318965802383,8460,False,
+##[group]Run python ts_scripts/install_from_src.py,1.2786624387794736,75921,True,##[error]Process completed with exit code 1.
+##[group]Fetching submodules,0.7599494820830807,156413,False,
+##[group]Setting up auth for fetching submodules,0.7080533338985389,30112,False,

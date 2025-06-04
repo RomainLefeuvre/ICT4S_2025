@@ -1,0 +1,24 @@
+Requested labels: self-hosted, 0.0, , , , 4882188, False, 
+Requested labels: self-hosted__dup_2, 78.49463239658559, , , , 28216561, False, 
+##[group]GITHUB_TOKEN Permissions, 24.92463258599441, , , , 2676397, False, 
+##[group]Run actions/checkout@v4, 7.997503423616141, , , , 260860, False, 
+##[group]Setting up auth, 2.4641742969160907, , , , 63504, False, 
+##[group]Fetching the repository, 1.7337121593927345, , , , 2983161, False, 
+##[group]Checking out the ref, 3.202558160396024, , , , 402547, False, 
+##[group]Run docker/login-action@v3, 1.8380949627478167, , , , 173901, True, ##[error]Username and password required
+##[group]Run docker/build-push-action@v2, 1.99597221778102, , , , 127410, False, 
+##[group]Docker info, 24.28592712201917, , , , 5123130, True, ##[error]buildx failed with: ERROR: invalid tag "springcloud/spring-cloud-dataflow-grafana-prometheus:": invalid reference format
+##[group]Run docker/build-push-action@v2__dup_11, 0.3744303422475346, , , , 137372, False, 
+##[group]Docker info__dup_12, 2.0901492949427967, , , , 601023, True, ##[error]buildx failed with: ERROR: invalid tag "springcloud/spring-cloud-dataflow-grafana-influxdb:": invalid reference format
+##[group]Run docker/build-push-action@v2__dup_13, 0.3148369104218542, , , , 129558, False, 
+##[group]Docker info__dup_14, 1.7325887039887142, , , , 651554, True, ##[error]buildx failed with: ERROR: invalid tag "springcloud/spring-cloud-dataflow-prometheus-local:": invalid reference format
+##[group]Removing temp folder /tmp/docker-build-push-1AS4hc, 0.8570919768640741, , , , 410575, False, 
+##[group]GITHUB_TOKEN Permissions__dup_16, 36.90458783700539, , , , 2124519, False, 
+##[group]Run actions/checkout@v4__dup_17, 2.2715827890033595, , , , 140381, False, 
+##[group]Getting Git version info, 2.35232470250875, , , , 5861, False, 
+##[group]Cleaning the repository, 2.4330666160141408, , , , 69413, False, 
+##[group]Setting up auth__dup_20, 2.513808529519532, , , , 91519, False, 
+##[group]Fetching the repository__dup_21, 10.862653253132033, , , , 443766, False, 
+##[group]Checking out the ref__dup_22, 2.9175180970464845, , , , 25251, False, 
+##[group]Installed distributions, 6.400229588630703, , , , 161632, False, 
+##[group]Run echo "Input version: ", 92.96503405179944, , , , 9697702, True, [ERROR] [ERROR] Some problems were encountered while processing the POMs:

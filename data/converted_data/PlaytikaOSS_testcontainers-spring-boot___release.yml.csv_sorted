@@ -1,0 +1,14 @@
+##[group]Run ./mvnw --batch-mode --no-transfer-progress versions:set -DnewVersion= versions:commit, 252.98753814866583, , , , 14371111, False, 
+##[group]Installed distributions, 108.77250185303816, , , , 19431085, False, 
+##[group]Run ./mvnw --batch-mode --no-transfer-progress -Dgib.disable=true -P ossrh -DskipTests deploy, 61.3709722835073, , , , 15042205, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project testcontainers-spring-boot: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]GITHUB_TOKEN Permissions, 60.52139731870592, , , , 2766402, False, 
+##[group]Run actions-js/push@master, 48.428725079127055, , , , 7475113, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.0:sign (sign-artifacts) on project testcontainers-spring-boot: Exit code: 2 -> [Help 1]
+[INFO] --- versions:2.16.2:set (default-cli) @ testcontainers-spring-boot ---, 47.04760574349861, , , , 12943097, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project testcontainers-spring-boot: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+[INFO] --- spotless:2.43.0:check (default) @ testcontainers-spring-boot ---, 39.12095955432471, , , , 1566459, False, 
+[INFO] --- source:3.3.0:jar (attach-sources) @ testcontainers-spring-boot ---, 19.25885008817565, , , , 661223, False, 
+[INFO] --- javadoc:3.6.3:jar (attach-javadocs) @ testcontainers-spring-boot ---, 14.323366540008696, , , , 2061332, False, 
+[INFO] --- jacoco:0.8.11:prepare-agent (prepare-agent) @ testcontainers-spring-boot ---, 8.872967811053726, , , , 454636, False, 
+[INFO] --- enforcer:3.4.1:enforce (enforce) @ testcontainers-spring-boot ---, 6.416566937939339, , , , 304420, False, 
+##[group]==END_FILE==, 6.166345199491368, , , , 4154108, False, 
+[INFO] --- exec:3.2.0:exec (docker-cleanup) @ testcontainers-spring-boot ---, 5.29839237917794, , , , 235415, False, 
+##[group]Run actions/checkout@v4, 2.7303886008760223, , , , 129278, False, 

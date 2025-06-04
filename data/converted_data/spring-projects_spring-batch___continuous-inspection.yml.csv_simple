@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -P test-coverage verify,1424.631706570413,129497201,True,"[ERROR[m] Tests run: 33[m, Failures: 1[m, Errors: 0, Skipped: 0, Time elapsed: 0.154 s <<< FAILURE![m -- in org.springframework.batch.item.file.FlatFileItemWriterTests[m"
+##[group]Fetching the repository,0.3299288215318032,1879881,False,
+##[group]GITHUB_TOKEN Permissions,0.2328909328459786,2095496,False,
+##[group]Installed distributions,0.1463269750024337,2098763,False,
+##[group]==END_FILE==,0.0812882192882417,5544267,False,
+##[group]Checking out the ref,0.0646919257905496,302607,False,
+##[group]Run actions/checkout@v3,0.0298815085794443,192050,False,
+##[group]Setting up auth,0.0154028394739403,63074,False,

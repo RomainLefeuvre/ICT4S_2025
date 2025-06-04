@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run curl -f -k --retry 10 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/health,415.0590635666607,300329138,True,##[error]Process completed with exit code 7.
+##[group]Run curl -f -k --retry 10 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8444/fineract-provider/actuator/health,403.290088718477,300310684,True,##[error]Process completed with exit code 7.
+##[group]Run (( $(curl -f -k --retry 5 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/info | wc --chars) > 100 )),217.12684434782372,150162921,True,##[error]Process completed with exit code 1.
+##[group]Run (( $(curl -f -k --retry 5 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8444/fineract-provider/actuator/info | wc --chars) > 100 )),214.37625923141,150155286,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,116.72255219251502,2229859,False,
+##[group]Installed distributions,115.39949181103904,1475751,False,
+##[group]Run docker compose -f docker-compose-postgresql-activemq.yml up --scale fineract-worker=1 -d,51.5224389858774,1447824,True,##[error]Process completed with exit code 18.
+##[group]Fetching the repository,34.42568863953244,415527,False,
+##[group]Run ./gradlew --no-daemon --console=plain :fineract-provider:clean :fineract-provider:build :fineract-provider:jibDockerBuild -x test -x cucumber,9.097658360962894,120459,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"
+Requested labels: self-hosted,8.277717521593074,4175148,False,
+##[group]Cleaning the repository,6.583430368853339,64817,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,6.382292129484576,136348,False,
+"##[group]Run ./gradlew --no-daemon --console=plain :integration-tests:cleanTest :integration-tests:test --tests ""org.apache.fineract.integrationtests.investor.externalassetowner.InitiateExternalAssetOwnerTransferTest.saleActiveLoanToExternalAssetOwnerAndBuybackADayLater"" -PcargoDisabled",1.352784500560121,582220,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew publish,4694.815117521624,82241375,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,105.49204649594732,5391569,False,
+##[group]Fetching the repository,51.27656113882818,1056537,False,
+##[group]Run ./gradlew publishPlugin,47.45827901364719,3052427,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,13.67462964058,2289193,False,
+##[group]Run actions/checkout@v3,7.565226660167305,193395,False,
+##[group]Setting up auth,5.820328139430616,77185,False,
+##[group]Installed distributions,1.956504351091277,25585,False,

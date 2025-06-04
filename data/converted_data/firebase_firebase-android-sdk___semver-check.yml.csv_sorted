@@ -1,0 +1,12 @@
+##[group]Installed distributions, 2035.4315611082336, , , , 222670567, False, 
+##[group]Run ./gradlew semverCheckForRelease, 151.3695590965619, , , , 16874781, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar, 116.8978007998555, , , , 5206983, False, 
+Requested labels: self-hosted, 89.15840870000342, , , , 3872553, False, 
+##[group]GITHUB_TOKEN Permissions, 13.893141718250227, , , , 2580175, False, 
+> Task :buildSrc:classes, 7.0697486262631575, , , , 201534, False, 
+##[group]Fetching the repository, 3.69344299441569, , , , 484127, False, 
+> Task :buildSrc:compileGroovy NO-SOURCE, 3.4944248916597416, , , , 99741, False, 
+##[group]Setting up auth, 0.7101764601387122, , , , 99130, False, 
+##[group]Cleaning the repository, 0.7006724138905701, , , , 69000, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.6911683676424281, , , , 92968, False, 
+##[group]Run actions/checkout@v4.1.1, 0.681664321394286, , , , 159882, False, 

@@ -1,0 +1,18 @@
+Requested labels: self-hosted__dup_2, 1698.468167862205, , , , 174882188, False, 
+##[group]Run cd example/android && ./gradlew assembleDebug, 852.2355598264606, , , , 34158006, True, ##[error]Process completed with exit code 1.
+##[group]Run yarn install, 625.7156521459929, , , , 78778968, False, 
+##[group]Run yarn install__dup_17, 557.3544519958693, , , , 40282178, False, 
+##[group]Run actions/setup-node@v1, 42.43911671627963, , , , 6079068, False, 
+##[group]Run npm install -g yarn, 37.36139381776772, , , , 2298765, False, 
+##[group]Run cd example/ios && xcodebuild -scheme RNFBSDKExample -workspace RNFBSDKExample.xcworkspace ONLY_ACTIVE_ARCH=NO -sdk iphonesimulator -configuration Debug, 32.86796791451378, , , , 3316980, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v1__dup_13, 28.1947842082254, , , , 1781694, False, 
+##[group]GITHUB_TOKEN Permissions, 26.6687894240871, , , , 3015896, False, 
+##[group]Run actions/checkout@v1, 19.820507695432635, , , , 1482209, False, 
+##[group]GITHUB_TOKEN Permissions__dup_12, 14.494064851679362, , , , 2291138, False, 
+##[group]Run echo "::set-output name=dir::$(yarn cache dir)"__dup_16, 12.29976764472154, , , , 227133, False, 
+##[group]Run npm install -g yarn__dup_15, 12.297758877691148, , , , 751773, False, 
+##[group]Run actions/setup-node@v1__dup_14, 11.780690420173883, , , , 299306, False, 
+##[group]Run echo "::set-output name=dir::$(yarn cache dir)", 7.728809086168486, , , , 498076, False, 
+Requested labels: self-hosted, 4.400836640252535, , , , 5296097, False, 
+##[group]Run actions/setup-ruby@v1, 1.6974374215119656, , , , 79403, True, ##[error]Version 2.x not found
+##[group]Run actions/cache@v1, 1.5176737423673508, , , , 61606, False, 

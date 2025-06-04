@@ -1,0 +1,10 @@
+##[group]==END_FILE==, 0.2264842733168438, , , , 4279082, False, 
+##[group]GITHUB_TOKEN Permissions, 82.95160241139962, , , , 1899482, False, 
+##[group]Run actions/checkout@v2, 12.33222841930503, , , , 192439, False, 
+##[group]Setting up auth, 6.526162289357759, , , , 62589, False, 
+##[group]Fetching the repository, 27.544841476252017, , , , 450984, False, 
+##[group]Run wget -q https://raw.githubusercontent.com/dapr/cli/v1.13.0/install//install.sh -O - | /bin/bash -s 1.13.0, 72.70345485700841, , , , 5400670, False, 
+##[group]Run export GITHUB_TOKEN=***, 37.39276652420157, , , , 23381923, False, 
+##[group]Run echo "PATH=$PATH:$HOME/.local/bin" >> $GITHUB_ENV, 297.6871472030016, , , , 23499220, False, 
+##[group]Run variants=("http" "sdk"), 598.5608806695434, , , , 162372567, False, 
+##[group]Run make validate, 49.65130101560565, , , , 3809062, True, ##[error]Process completed with exit code 2.

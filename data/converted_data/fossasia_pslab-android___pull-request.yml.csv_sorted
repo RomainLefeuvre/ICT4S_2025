@@ -1,0 +1,8 @@
+##[group]Run bash ./gradlew build --stacktrace, 760.8985729759542, , , , 61416569, True, ##[error]Process completed with exit code 1.
+Requested labels: self-hosted, 88.8956926527436, , , , 4077495, False, 
+##[group]Run actions/upload-artifact@v3, 15.901245857599983, , , , 591377, False, 
+##[group]Fetching the repository, 8.243268140537976, , , , 4618036, False, 
+##[group]GITHUB_TOKEN Permissions, 5.206710481649023, , , , 2688122, False, 
+##[group]Checking out the ref, 1.0947943185136495, , , , 145671, False, 
+##[group]Setting up auth, 0.2866557322229192, , , , 67162, False, 
+##[group]Run actions/checkout@v3, 0.2762318874148129, , , , 178141, False, 

@@ -1,0 +1,7 @@
+##[group]Run sudo apt install rustc, 103.72678693638068, , , , 1576725, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 50.89048458976997, , , , 1226922, False, 
+##[group]Fetching the repository, 26.67699304759584, , , , 472101, False, 
+##[group]Run cd rust, 22.56348482286965, , , , 298792, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v2, 9.687203869891514, , , , 191469, False, 
+Requested labels: self-hosted, 5.912244565607381, , , , 3677478, False, 
+##[group]Setting up auth, 5.007534159803561, , , , 66888, False, 

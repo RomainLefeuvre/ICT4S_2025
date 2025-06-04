@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,63.33828115650069,4178949,False,
+##[group]Run actions/setup-dotnet@v3,53.46572863907018,15861450,False,
+##[group]changed-files,14.333113896219984,965251,False,
+##[group]changed-files-patterns,10.804117688554506,589394,False,
+##[group]GITHUB_TOKEN Permissions,9.714275477727917,3110478,False,
+##[group]Fetching the repository,7.141239643624809,675039,False,
+##[group]Setting up sparse checkout,5.31580795104225,372917,False,
+##[group]Cleaning the repository,2.10292245356208,121849,False,
+##[group]Checking out the ref,1.3983246780054432,44139,False,
+##[group]Setting up auth,1.0930848409279683,89363,False,
+##[group]Getting Git version info,1.0098376126341118,22953,False,
+##[group]Run actions/checkout@v4,0.9820885365361596,140042,False,

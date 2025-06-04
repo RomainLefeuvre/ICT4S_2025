@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ant -noinput -buildfile loader/build.xml quick,567.2359818458598,47019202,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,34.698930105753334,2961115,False,
+##[group]Run actions/cache@v2__dup_9,9.95804061282834,590745,False,
+##[group]Run actions/cache@v2,9.524957242631288,594634,False,
+##[group]Fetching the repository,5.916888124890472,443038,False,
+Requested labels: self-hosted,4.50815188986419,4982922,False,
+##[group]Run actions/setup-java@v2,3.054684811377914,243587,False,
+##[group]Cleaning the repository,2.862203313512557,179470,False,
+##[group]Run actions/checkout@v2,2.8140829390462176,167521,False,
+##[group]Setting up auth,1.4491467971811556,64775,False,

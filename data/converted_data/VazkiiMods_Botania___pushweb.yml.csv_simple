@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions__dup_4,101.15436113029028,2543935,False,
+##[group]Run actions/checkout@v3,22.15366716380289,208789,False,
+##[group]Getting Git version info,20.45059020675049,175233,False,
+##[group]Run rsync -rl web/_site/ customer@botaniaweb.playat.ch:/var/www/botaniamod_net,19.02920990456888,1177717,False,
+##[group]==END_FILE==,17.911494671715694,7943994,False,
+##[group]Run sudo apt-get install bundler,14.810553640567008,3860840,False,
+##[group]Fetching the repository,12.660404704652716,4033495,False,
+##[group]Setting up auth,9.5866412444806,67646,False,
+##[group]Run DEFAULT_BRANCH=$(gh api \\,5.180388350946469,3465978,False,
+##[group]Run actions/cache@v3,4.375745962106353,1958850,False,
+##[group]Checking out the ref,3.4427917916553823,548221,False,
+##[group]GITHUB_TOKEN Permissions,0.5405622627074577,148371,False,

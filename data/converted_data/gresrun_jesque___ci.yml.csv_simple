@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean test jacoco:report -Dgithub=true,688.0897536007094,110988532,False,
+##[group]Run codecov/codecov-action@v3,67.36562930843871,7243227,True,##[error]Codecov: Failed to properly upload: The process '/home/power/actions-runner/_work/_actions/codecov/codecov-action/v3/dist/codecov' failed with exit code 255
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/supercharge/redis-github-action/1.4.0/Dockerfile'.,61.727514604457504,15699877,False,
+##[group]Run supercharge/redis-github-action@1.4.0,39.744376923402335,17980698,False,
+##[group]GITHUB_TOKEN Permissions,29.98741450134538,3291904,False,
+Requested labels: self-hosted,9.382709999737406,5848177,False,
+##[group]Fetching the repository,6.362892029172356,948754,False,
+##[group]Checking out the ref,1.669028696163542,315631,False,
+##[group]Installed distributions,1.4902741950542473,1834097,False,
+##[group]Run actions/checkout@v3,0.7531338013576234,164099,False,
+##[group]Getting Git version info,0.7408343699428457,32733,False,
+##[group]Initializing the repository,0.728534938528068,139613,False,
+##[group]Disabling automatic garbage collection,0.7162355071132904,98978,False,
+##[group]Setting up auth,0.7039360756985127,92229,False,

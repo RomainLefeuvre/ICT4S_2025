@@ -1,0 +1,6 @@
+##[group]Run ./gradlew :app:assembleDebug, 53.04109294003321, , , , 34278217, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 12.422954859189476, , , , 971633, False, 
+##[group]GITHUB_TOKEN Permissions, 6.76276839220957, , , , 1228721, False, 
+##[group]Run actions/checkout@v2, 2.5904388366599425, , , , 191830, False, 
+##[group]Checking out the ref, 1.1937818812088423, , , , 87918, False, 
+Requested labels: self-hosted, 1.060406614313367, , , , 5204333, False, 

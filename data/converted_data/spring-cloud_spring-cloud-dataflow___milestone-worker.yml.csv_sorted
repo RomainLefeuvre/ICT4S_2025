@@ -1,0 +1,13 @@
+##[group]Run jfrog rt mvn build-helper:parse-version versions:set \\, 59.68643190960136, , , , 5697942, True, [Error] Server ID repo.spring.io: URL is required.
+##[group]GITHUB_TOKEN Permissions, 44.33235245989245, , , , 5194960, False, 
+##[group]Run actions/cache@v3, 10.178873466898382, , , , 590447, False, 
+##[group]Run find ~/.m2/repository -type d -name '*SNAPSHOT' | xargs rm -fr, 7.458809048615695, , , , 1052581, False, 
+##[group]Run jvalkeal/build-zoo-handler@v0.0.4, 7.177961047925278, , , , 1058132, False, 
+##[group]Fetching the repository, 7.061485823059792, , , , 494935, False, 
+##[group]Pack Feature, 5.071170642910169, , , , 1445512, False, 
+##[group]Run actions/checkout@v4, 2.669586103839677, , , , 157091, False, 
+##[group]Cleanup JFrog CLI servers configuration, 1.997952969742372, , , , 477744, False, 
+##[group]Run docker/login-action@v3, 1.6712976422869452, , , , 176634, True, ##[error]Username and password required
+##[group]Setup JFrog CLI, 1.5500822538423933, , , , 22795, True, [Error] unexpected end of JSON input
+##[group]Cleaning the repository, 1.360627756150545, , , , 44793, False, 
+Requested labels: self-hosted, 0.0288130884085289, , , , 4967867, False, 

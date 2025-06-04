@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run mvn -B -V -e -ntp ""-Dstyle.color=always""     ",227.5739556360125,15650031,True,"[ERROR[m] No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1][m"
+##[group]Run actions/cache@v4,35.32396751556495,2034895,False,
+##[group]GITHUB_TOKEN Permissions,33.93673637777292,4234506,False,
+##[group]Fetching the repository,19.43947769181725,2579697,False,
+##[group]Installed distributions,8.8823095935319,302163,False,
+##[group]Checking out the ref,8.409323822615635,251806,False,
+##[group]Run ip -br addr,4.68747313232437,552874,False,
+##[group]Run actions/checkout@v4,2.1884310429641274,220062,False,
+##[group]Initializing the repository,1.0872244741809816,80911,False,
+##[group]Setting up auth,1.0825637759802604,70256,False,
+##[group]Run git log -n1,0.4958260575533968,49912,False,
+##[group]==END_FILE==,0.1631634969274928,5314373,False,

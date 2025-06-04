@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn install,326.87393938326426,27485171,False,
+##[group]Installed distributions,168.32945326341013,26554766,False,
+##[group]GITHUB_TOKEN Permissions,108.06514634310771,2938002,False,
+##[group]Fetching the repository,62.49930136316681,467702,False,
+##[group]Run actions/checkout@v3,28.56574319587079,168089,False,
+##[group]Cleaning the repository,13.688534489501384,28277,False,
+Requested labels: self-hosted,0.0198075575512908,3907351,False,

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run JetBrains/qodana-action@32840fdb87f8dd110e0a6b09323c7142b667b25d,4578.260982360508,334417230,False,
+##[group]GITHUB_TOKEN Permissions,103.49150790712152,13327068,False,
+##[group]Waiting for processing to finish,34.24013731498042,7094718,False,
+##[group]Uploading results,23.306227229480708,2204002,False,
+##[group]Fetching the repository,19.032582878397783,4978634,False,
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29,2.429300640326112,177345,False,
+##[group]Cleaning the repository,1.1870213205143751,17896,False,
+##[group]==END_FILE==,0.0,4004516,False,

@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 18.647935132006054, , , , 5239305, False, 
+##[group]GITHUB_TOKEN Permissions, 11.282170886405517, , , , 3617431, False, 
+##[group]Fetching the repository, 6.902033954036314, , , , 1370176, False, 
+##[group]Run actions/upload-artifact@v2, 4.136795991682021, , , , 524479, False, 
+##[group]Run ./gradlew DungeoneerAndroid:assembleDebug, 3.1708061968329218, , , , 487426, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-5.1.1-all/97z1ksx6lirer3kbvdnh7jtjg/gradle-5.1.1-all.zip.lck
+##[group]Run actions/setup-java@v2, 1.2019567676366658, , , , 237332, False, 
+##[group]Run actions/checkout@v2, 0.9364939232506536, , , , 176752, False, 
+##[group]Run ./gradlew DungeoneerAndroid:assembleRelease, 0.6562831430654188, , , , 133889, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-5.1.1-all/97z1ksx6lirer3kbvdnh7jtjg/gradle-5.1.1-all.zip.lck
+##[group]Checking out the ref, 0.5825434640693044, , , , 118679, False, 
+##[group]Setting up auth, 0.479307913474744, , , , 63121, False, 

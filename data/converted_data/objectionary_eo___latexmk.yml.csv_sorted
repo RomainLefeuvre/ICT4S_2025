@@ -1,0 +1,8 @@
+##[group]Run yegor256/latexmk-action@0.11.1, 4230.070679608193, , , , 163090736, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/yegor256/latexmk-action/0.11.1/Dockerfile'., 1577.5481686952187, , , , 618059559, False, 
+##[group]GITHUB_TOKEN Permissions, 159.3738078381387, , , , 1903208, False, 
+##[group]Getting Git version info, 31.580521197842295, , , , 532050, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 31.572335057081656, , , , 1524387, False, 
+##[group]Fetching the repository, 22.38891853151639, , , , 686368, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 13.844239017430905, , , , 1008617, False, 
+##[group]==END_FILE==, 0.2659743961897876, , , , 4668473, False, 

@@ -1,0 +1,9 @@
+##[group]Run cat $HOME/.m2/settings.xml, 1588.700452482747, , , , 25736921, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/setup-java@v1, 209.23209199770363, , , , 17658145, False, 
+Requested labels: self-hosted, 100.04025702836104, , , , 5912773, False, 
+##[group]Fetching the repository, 95.6053354682907, , , , 7112770, False, 
+##[group]GITHUB_TOKEN Permissions, 50.33165482905622, , , , 3174851, False, 
+##[group]Run actions/checkout@v2, 31.422778016423315, , , , 1815930, False, 
+##[group]Setting up auth, 10.697330604330732, , , , 136934, False, 
+##[group]Checking out the ref, 6.19417122571726, , , , 588527, False, 
+##[group]Run git config --global user.name "GitHub Actions Bot", 1.4469607891980214, , , , 60771, False, 

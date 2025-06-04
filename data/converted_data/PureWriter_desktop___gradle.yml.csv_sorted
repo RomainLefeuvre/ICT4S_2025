@@ -1,0 +1,5 @@
+##[group]Run actions/setup-java@v1, 307.16452939072883, , , , 30547141, False, 
+##[group]Run actions/checkout@v1, 72.39504588988304, , , , 2660585, False, 
+##[group]GITHUB_TOKEN Permissions, 60.40374003796893, , , , 1763811, False, 
+Requested labels: self-hosted, 48.47519860083954, , , , 5458953, False, 
+##[group]Run ./gradlew jfxNative --scan, 7.32576173634187, , , , 282230, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-5.6.4-all/ankdp27end7byghfw1q2sw75f/gradle-5.6.4-all.zip.lck

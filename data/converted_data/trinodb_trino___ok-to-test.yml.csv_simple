@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run trinodb/github-actions/github-app-token@2c3f458fcad343199d0e92badaaa6e9dd7993b2e,96.70417354212768,1286632,False,
+##[group]GITHUB_TOKEN Permissions,69.02498254616985,1349890,False,
+##[group]Run trinodb/github-actions/slash-command-dispatch@2c3f458fcad343199d0e92badaaa6e9dd7993b2e,26.987211221058885,291256,True,##[error]Error: Input required and not supplied: app_id
+##[group]==END_FILE==,0.0158631349449436,4907004,False,

@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 3.377782248016254, , , , 4366910, False, 
+##[group]GITHUB_TOKEN Permissions, 7.622255854225517, , , , 3163732, False, 
+##[group]Run actions/checkout@v4, 2.9749912871161914, , , , 187954, False, 
+##[group]Cleaning the repository, 1.485479887524259, , , , 87923, False, 
+##[group]Setting up auth, 1.4841360501683678, , , , 78602, False, 
+##[group]Fetching the repository, 22.96298926018899, , , , 4688403, False, 
+##[group]Installed distributions, 221.794375303118, , , , 28044170, False, 
+##[group]Run skymatic/semver-validation-action@v3, 6.079807376794567, , , , 607881, False, 

@@ -1,0 +1,7 @@
+##[group]Run wget -q https://github.com/spring-io/backport-bot/releases/download/latest/backport-bot-0.0.1-SNAPSHOT.jar, 1.1814491890312893, , , , 3371704, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==, 0.1143666834709448, , , , 5525158, False, 
+##[group]GITHUB_TOKEN Permissions, 0.0107489539999016, , , , 749054, False, 
+##[group]Run actions/checkout@v4, 0.0, , , , 252059, False, 
+##[group]Initializing the repository, 0.0, , , , 14926, False, 
+##[group]Fetching the repository, 0.0, , , , 463773, False, 
+##[group]Checking out the ref, 0.0, , , , 67560, False, 

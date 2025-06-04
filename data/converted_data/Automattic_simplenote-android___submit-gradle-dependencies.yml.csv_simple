@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew :Simplenote:dependencies :Wear:dependencies,1121.8334274565575,132227254,False,
+##[group]Caching Gradle state,247.76799694409945,26030650,False,
+##[group]Restore Gradle state from cache,24.31133005810265,431781,False,
+##[group]Fetching the repository,13.723310478304631,427796,False,
+> Task :Wear:dependencies,8.723025984326771,2400640,False,
+##[group]Run actions/checkout@v4,5.096985309185977,141024,False,
+##[group]Checking out the ref,3.982286972690637,17148,False,
+##[group]GITHUB_TOKEN Permissions,3.367654270018776,3890983,False,
+##[group]Cleaning the repository,2.879368266461677,11968,False,

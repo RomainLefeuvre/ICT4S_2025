@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew antora,510.2438842026342,49663357,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808,21.27074520076949,847997,True,##[error]No files were found with the provided path: docs/build. No artifacts will be uploaded.
+##[group]Run gem install asciidoctor-pdf rouge,18.552713791741823,4830095,False,
+##[group]Extracting  Ruby,15.876480303351324,557268,False,
+##[group]Fetching the repository,12.356544734662627,992665,False,
+##[group]Downloading Ruby,10.112004000033709,1742773,False,
+##[group]GITHUB_TOKEN Permissions,7.7629030635835745,4317404,False,
+##[group]Run actions/checkout@44c2b7a8a4ea60a981eaca3cf939b5f4305c123b,1.7606993616701587,184051,False,
+##[group]Checking out the ref,1.5148225248193363,82505,False,
+##[group]Setting up auth,0.95648642211319,60247,False,
+Requested labels: self-hosted,0.0,5882161,False,

@@ -1,0 +1,8 @@
+##[group]Run python3 -m pip install defusedxml, 86.53301710704646, , , , 10722547, False, 
+##[group]GITHUB_TOKEN Permissions, 17.149287191748826, , , , 2364279, False, 
+##[group]Fetching the repository, 6.896995935812027, , , , 608169, False, 
+##[group]Run mkdir -p "$HOME/.gradle", 6.407719782875049, , , , 483316, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 1.2841253694304675, , , , 28233, False, 
+##[group]Setting up auth, 1.0770083743610377, , , , 120322, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 1.035584975347151, , , , 159045, False, 
+Requested labels: self-hosted, 0.1198248399956223, , , , 4026034, False, 

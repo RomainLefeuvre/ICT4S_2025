@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.3011883986853647, , , , 4930006, False, 
+##[group]GITHUB_TOKEN Permissions, 94.2700545107592, , , , 3370151, False, 
+##[group]Run actions/checkout@v2, 4.1391004872042165, , , , 190077, False, 
+##[group]Getting Git version info, 4.20917493977463, , , , 10737, False, 
+##[group]Cleaning the repository, 4.279249392345044, , , , 72056, False, 
+##[group]Fetching the repository, 22.447363750281426, , , , 432906, False, 
+##[group]Run actions/setup-java@v1, 9.46946666810546, , , , 111334, False, 
+##[group]Run ant -f tlatools/org.lamport.tlatools/customBuild.xml info compile compile-test dist, 35.35047859433715, , , , 768431, True, ##[error]Process completed with exit code 1.
+##[group]Run dawidd6/action-download-artifact@v2, 33.03331387396368, , , , 580151, True, ##[error]no matching workflow run found with any artifacts?
+##[group]Run wget https://github.com/tlaplus/CommunityModules/releases/latest/download/CommunityModules-deps.jar --output-document=tlatools/org.lamport.tlatools/dist/CommunityModules-deps.jar, 5.750812896323728, , , , 16150, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2, 23.70399611099905, , , , 437990, False, 

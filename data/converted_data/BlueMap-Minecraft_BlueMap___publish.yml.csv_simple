@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,20.351904631145217,2443552,False,
+Requested labels: self-hosted,20.30959596947181,5177834,False,
+##[group]Run ./gradlew clean :BlueMapCore:publish :BlueMapCommon:publish,13.874934635321855,1695443,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3-bin.zip.lck"
+##[group]Fetching the repository,11.407451165342636,1457759,False,
+##[group]Fetching submodules,8.152282730099364,953001,False,
+##[group]Installed distributions,4.0793766800037385,1261331,False,
+##[group]Run actions/checkout@v3,1.629067727893253,168885,False,
+##[group]Persisting credentials for submodules,0.8154018752757638,142932,False,
+##[group]Checking out the ref,0.8150546707441089,83712,False,
+##[group]Setting up auth,0.8145812100191251,64062,False,

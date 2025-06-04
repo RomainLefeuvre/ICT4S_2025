@@ -1,0 +1,11 @@
+##[group]GITHUB_TOKEN Permissions, 77.06965686435656, , , , 4763652, False, 
+Requested labels: self-hosted, 66.9707086817815, , , , 4417143, False, 
+##[group]📦 Download JReleaser, 58.80293906034364, , , , 3357617, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar release", 50.10125248401225, , , , 4718260, True, [ERROR] == JReleaser ==
+##[group]Fetching the repository, 13.29456550796016, , , , 2381982, False, 
+##[group]Installed distributions, 11.146796061415191, , , , 546474, False, 
+##[group]Run actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744, 4.798811152335612, , , , 177022, False, 
+##[group]Run ./gradlew --no-daemon clean build installDist publish --build-cache --scan -s, 4.297635716075206, , , , 204077, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run export PATH=`pwd`/build/install/jbang/bin:$PATH, 4.226043401190372, , , , 221347, True, ##[error]Process completed with exit code 18.
+##[group]Checking out the ref, 2.3367476846102875, , , , 22562, False, 
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32, 2.018775913599093, , , , 1839570, False, 

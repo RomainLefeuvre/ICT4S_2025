@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/repo-sync/pull-request/v2/Dockerfile'.,139.59651549184724,40610704,False,
+##[group]GITHUB_TOKEN Permissions,19.05545753515416,2929657,False,
+##[group]Installed distributions,18.363332731977746,609923,False,
+##[group]Gather Inputs,13.643387911686066,3527652,False,
+Requested labels: self-hosted,7.258118703104056,5820596,False,
+##[group]Run actions/checkout@v4,2.770193552817961,136064,True,##[error]Input required and not supplied: token

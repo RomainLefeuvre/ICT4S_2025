@@ -1,0 +1,17 @@
+##[group]GITHUB_TOKEN Permissions, 171.24746961225787, , , , 12621433, False, 
+##[group]Augmented user configuration file contents, 123.9968718425215, , , , 3753817, False, 
+##[group]Run github/codeql-action/upload-sarif@v3, 99.7687106707721, , , , 4421177, True, ##[error]Path does not exist: sarif-results/java.sarif
+##[group]Validating workflow, 59.11965177213045, , , , 1526529, False, 
+##[group]Attempting to automatically build java code, 50.2809887897051, , , , 2256182, True, [2024-04-15 13:10:21] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir-8/init.gradle, clean])
+##[group]Run github/codeql-action/analyze@v3, 43.5243633887215, , , , 1489364, False, 
+##[group]Finalizing java, 37.77790727411254, , , , 1285565, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.17.0/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.
+##[group]Waiting for processing to finish, 37.35302841546772, , , , 6320262, False, 
+##[group]Run unset LD_PRELOAD, 29.041427018611884, , , , 1845252, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 25.464562373452672, , , , 3090120, False, 
+##[group]Load language configuration, 20.61093022759068, , , , 1012427, False, 
+##[group]Checking out the ref, 19.497279032686794, , , , 660510, False, 
+##[group]Setup CodeQL tools, 18.91521840843968, , , , 1428540, False, 
+##[group]Run github/codeql-action/autobuild@v3, 9.707925831784886, , , , 1493943, False, 
+##[group]Uploading results, 6.65896285214573, , , , 335672, False, 
+##[group]Run actions/checkout@v4, 3.1350571267901604, , , , 141493, False, 
+Requested labels: self-hosted, 0.2922822520674842, , , , 5720475, False, 

@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 71.79341051225694, , , , 4699356, False, 
+##[group]GITHUB_TOKEN Permissions, 0.0468370194365452, , , , 1245247, False, 
+##[group]Run actions/checkout@v4, 0.0092473089656768, , , , 173519, False, 
+##[group]Cleaning the repository, 0.0048037968652866, , , , 14364, False, 
+##[group]Fetching the repository, 0.0204161366774684, , , , 417012, False, 
+##[group]Determining the checkout info, 0.0054042714734475, , , , 7617, False, 
+##[group]Run sudo apt-get install clang-format, 0.0742186615686793, , , , 1197930, False, 
+##[group]Run find ios -type f \\( -name "*.h" -o -name "*.cpp" -o -name "*.m" -o -name "*.mm" \\) -print0 | while read -d $'\\0' file; do, 0.0069655054546656, , , , 58967, False, 
+##[group]Run git diff --exit-code HEAD, 0.02161708589379, , , , 276632, True, ##[error]Process completed with exit code 100.

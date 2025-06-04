@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/pixta-dev/repository-mirroring-action/v1/Dockerfile'.,91.09297948029524,32684105,False,
+##[group]GITHUB_TOKEN Permissions,15.749587672007156,1833308,False,
+##[group]Fetching the repository,14.231556577309926,3532403,False,
+##[group]Run pixta-dev/repository-mirroring-action@v1,9.70258271760185,5578595,False,
+Requested labels: self-hosted,2.824657290031104,5980985,False,
+##[group]Run actions/checkout@v3,1.2184463499848444,170396,False,
+##[group]Setting up auth,0.713548993750604,87242,False,
+##[group]Initializing the repository,0.6718186662473313,136427,False,

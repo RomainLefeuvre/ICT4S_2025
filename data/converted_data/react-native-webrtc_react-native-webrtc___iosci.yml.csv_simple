@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Environment details,424.51151767195904,48435657,False,
+##[group]Run npm install__dup_11,299.2419645803678,43384549,False,
+##[group]==END_FILE==,106.00049967739,5369376,False,
+##[group]Run npm install,88.68350603326562,10973175,False,
+##[group]GITHUB_TOKEN Permissions,27.99002823720832,3437686,False,
+##[group]Run set -o pipefail && \\,25.87563908602197,4196715,True,##[error]Process completed with exit code 127.
+##[group]Run actions/cache@v3,13.2540498608345,587618,False,
+##[group]Fetching the repository,4.32455691811095,452244,False,
+##[group]Cleaning the repository,2.572002191412889,394056,False,
+##[group]Run actions/setup-node@v3,1.7434619429165892,284379,False,
+##[group]Run actions/checkout@v3,1.7040598798635411,166017,False,
+##[group]Disabling automatic garbage collection,0.8603649917314539,4933,False,

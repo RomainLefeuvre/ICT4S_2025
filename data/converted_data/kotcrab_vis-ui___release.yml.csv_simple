@@ -1,0 +1,26 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew check,695.4023226526818,28950299,False,
+##[group]Run actions/setup-java@v1,334.2637268723469,19728083,False,
+##[group]GITHUB_TOKEN Permissions,57.8243631334243,2202162,False,
+##[group]Run ./gradlew releaseRepository,51.13143991157857,2189588,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,43.06298728947277,1121041,False,
+Requested labels: self-hosted,42.967518540317485,5597370,False,
+> Task :check UP-TO-DATE,41.47592081799554,2300322,False,
+> Task :usl:check,40.05778858559955,1491735,False,
+> Task :closeRepository FAILED,39.354352528794735,1759129,True,##[error]Process completed with exit code 1.
+> Task :ui:signArchives FAILED,38.69392117269568,2028653,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew closeRepository,38.69392117269568,2110382,True,##[error]Process completed with exit code 1.
+> Task :ui:classes,35.9473718312611,1999749,False,
+##[group]Run actions/checkout@v2,34.30448542346201,200969,False,
+> Task :usl:testClasses,33.004273577415965,1199987,False,
+> Task :ui:testClasses,31.304959256452378,998330,False,
+##[group]Run ./gradlew :ui:uploadArchives,26.58563943235657,1125318,True,##[error]Process completed with exit code 1.
+> Task :ui:compileJava,20.453664656328503,599742,False,
+> Task :ui:compileTestJava,10.927465646962483,301589,False,
+##[group]Checking out the ref,10.79733157421684,63514,False,
+##[group]Setting up auth,5.457427640169787,61731,False,
+> Task :testClasses UP-TO-DATE,4.346551546187095,97564,False,
+> Task :ui:classes UP-TO-DATE,3.1542434565835635,97656,False,
+> Task :ui:javadocJar,2.856414480051057,90654,False,
+> Task :ui:check,2.790303489167569,100695,False,
+> Task :usl:classes,2.7849771748054044,99013,False,

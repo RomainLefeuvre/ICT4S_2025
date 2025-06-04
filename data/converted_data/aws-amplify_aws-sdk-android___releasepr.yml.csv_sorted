@@ -1,0 +1,16 @@
+##[group]Run cd build-support, 427.7056724116492, , , , 41903986, False, 
+##[group]Run cd build-support__dup_13, 80.8035988142882, , , , 4273821, False, 
+##[group]Fetching the repository, 80.3289243819929, , , , 13684904, False, 
+##[group]Run cd build-support__dup_15, 73.7679349526662, , , , 4982408, False, 
+##[group]GITHUB_TOKEN Permissions, 62.27729841085472, , , , 1883912, False, 
+##[group]Run sudo add-apt-repository -y ppa:git-core/ppa, 57.85322803194154, , , , 16680495, False, 
+##[group]Run cat gradle.properties, 15.198302738222198, , , , 738638, True, ##[error]Process completed with exit code 1.
+##[group]Run branch_name=bump_version, 8.40817021085337, , , , 454262, False, 
+##[group]Run actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5, 7.5957679290174465, , , , 175696, True, ##[error]Process completed with exit code 100.
+##[group]Downloading Ruby, 5.377410753163889, , , , 1875384, False, 
+##[group]Checking out the ref, 4.318496387628522, , , , 1142885, False, 
+##[group]Setting up auth, 3.689426825319707, , , , 60624, False, 
+##[group]Extracting  Ruby, 1.0498782192514355, , , , 563963, False, 
+##[group]Determining the checkout info, 0.429113568062145, , , , 5634, False, 
+##[group]Installing Bundler, 0.1917141501659656, , , , 709, False, 
+##[group]==END_FILE==, 0.0734362365554945, , , , 4713401, False, 

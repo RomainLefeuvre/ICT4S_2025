@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,66.01219083132155,28267473,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions,2.7176417080573363,1369147,False,
+##[group]Run gh workflow run deploy-docs.yml -r $(git rev-parse --abbrev-ref HEAD) -f build-refname=main,1.5831679214245211,321044,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v3,0.4991586810717556,158472,False,
+##[group]Initializing the repository,0.2588230198149844,65362,False,
+Requested labels: self-hosted,0.0662081016521977,5499433,False,

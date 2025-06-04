@@ -1,0 +1,17 @@
+##[group]Run pip3 install -r ion-test-driver/requirements.txt && pip3 install -e ion-test-driver, 112.43745777327948, , , , 29638540, False, 
+##[group]Fetching the repository, 90.41500918710489, , , , 1846500, False, 
+##[group]GITHUB_TOKEN Permissions, 80.05381975695863, , , , 2900763, False, 
+##[group]Fetching the repository__dup_8, 53.746942498643264, , , , 885546, False, 
+##[group]Run python3 ion-test-driver/amazon/iontest/ion_test_driver.py -o output -i ion-java__ --replace ion-java_https://github.com/amazon-ion/ion-java.git_$main, 8.424985328240764, , , , 821408, False, 
+##[group]Checking out the ref, 6.328705383905456, , , , 75969, False, 
+##[group]Setting up auth, 5.6150596157930455, , , , 67599, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633__dup_6, 5.543695038981804, , , , 100759, False, 
+##[group]Run echo 'Implementation behavior changed_ Refer to the analysis report in the previous step for the reason.' && exit 1, 5.461625153806053, , , , 430094, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@1eb3cb2b3e0f29609092a73eb033bb759a334595, 4.4199854452798775, , , , 298360, False, 
+##[group]Initializing the repository, 4.04503892594574, , , , 21579, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 3.9736743491345, , , , 143953, False, 
+##[group]Run actions/upload-artifact@1eb3cb2b3e0f29609092a73eb033bb759a334595__dup_16, 3.784979693615296, , , , 285521, False, 
+##[group]Run cd ion-java && echo `git rev-parse --short=7 HEAD` && echo "main=`git rev-parse --short=7 HEAD`" >> $GITHUB_ENV, 1.6458998995466256, , , , 123175, False, 
+##[group]Run cat output/results/ion-test-driver-results.ion, 1.3886610482046815, , , , 52371, True, ##[error]Process completed with exit code 1.
+##[group]Run python3 ion-test-driver/amazon/iontest/ion_test_driver.py -R ion-java_$main ion-java_$cur output/results/ion-test-driver-results.ion, 1.346327331427043, , , , 152559, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==, 0.5999360066373998, , , , 4679228, False, 

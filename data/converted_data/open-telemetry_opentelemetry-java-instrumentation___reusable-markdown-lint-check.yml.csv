@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0208530604058371, , , , 3883134, False, 
+##[group]GITHUB_TOKEN Permissions, 34.48446804876138, , , , 1336480, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 6.913308962334182, , , , 147868, False, 
+##[group]Cleaning the repository, 7.480840557252415, , , , 277933, False, 
+##[group]Disabling automatic garbage collection, 3.8823031773557664, , , , 4789, False, 
+##[group]Setting up auth, 3.976891776508805, , , , 142297, False, 
+##[group]Fetching the repository, 21.30328786983961, , , , 474205, False, 
+##[group]Checking out the ref, 4.54442337142704, , , , 47847, False, 
+##[group]Run npm install -g markdownlint-cli, 115.95001715085752, , , , 8618941, False, 
+##[group]Run markdownlint -c .markdownlint.yml -p .gitignore **/*.md -i licenses/licenses.md, 34.68592333184435, , , , 378665, True, ##[error]Process completed with exit code 1.

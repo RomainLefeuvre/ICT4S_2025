@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gradle/wrapper-validation-action@v1,146.86430043611148,1307380,False,
+##[group]GITHUB_TOKEN Permissions,133.6040497028886,3256999,False,
+##[group]Fetching the repository,59.484018697177184,444018,False,
+##[group]Run actions/setup-java@v1,43.592288741484914,17016492,False,
+##[group]Run actions/checkout@v2,33.50385229026587,190360,False,
+##[group]Run actions/cache@v2,20.680990291472444,1210747,False,
+##[group]Cleaning the repository,16.187649703881345,50392,False,
+##[group]Setting up auth,15.811465409713616,71941,False,
+"##[group]Run ./gradlew :app:assemble --build-cache --no-daemon --stacktrace --gradle-user-home ""$GRADLE_HOME""",11.223087660460564,4482419,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.2-bin/2dnblmf4td7x66yl1d74lt32g/gradle-7.2-bin.zip.lck"
+"##[group]Run ls -lhrt ""$GRADLE_HOME/caches"" || true",1.7905012216633207,85096,False,

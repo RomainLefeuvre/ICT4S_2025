@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,749.6295454400209,88619381,False,
+##[group]GITHUB_TOKEN Permissions,406.3208710367469,2408445,False,
+##[group]Fetching the repository,206.5632817650675,4589154,False,
+##[group]Run mvn source:jar  javadoc:jar  package  gpg:sign -Dgpg.passphrase= -Dserver.username= -Dserver.password= nexus-staging:deploy   -pl kafka-ui-serde-api  -s settings.xml,90.11831335069242,15301266,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.4:sign[m (default-cli)[m on project kafka-ui-serde-api[m: Exit code: 2[m -> [Help 1][m
+##[group]Run actions/checkout@v3,49.25962209785813,165012,False,
+##[group]Setting up auth,25.399788524502192,67339,False,
+"##[group]Run cat <(echo -e """") | gpg --batch --import",3.749483978029581,295093,True,##[error]Process completed with exit code 2.
+Requested labels: self-hosted,1.8456956069684571,3909481,False,

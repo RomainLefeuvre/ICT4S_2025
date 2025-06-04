@@ -1,0 +1,12 @@
+##[group]Run sed -i 's#<input .*/>##' build.xml, 2201.3613459584712, , , , 150331226, False, 
+##[group]Run xvfb-run --auto-servernum --server-args "-screen 0 1024x768x24" ant test -Drunning-from-github-action=1, 1501.847978906103, , , , 77736168, False, 
+##[group]Run actions/setup-java@v1, 91.70643815667825, , , , 17799269, False, 
+##[group]Run actions/upload-artifact@v1, 75.30474639656728, , , , 8713489, False, 
+##[group]GITHUB_TOKEN Permissions, 31.64775458911135, , , , 3008869, False, 
+##[group]Fetching the repository, 18.2250060476066, , , , 4840154, False, 
+Requested labels: self-hosted, 6.633531796421746, , , , 5183852, False, 
+##[group]Run sudo apt-get install -y xvfb, 4.823741649355929, , , , 562241, True, ##[error]Process completed with exit code 100.
+##[group]Run bcomnes/cleanup-xvfb@v1, 3.084536232970414, , , , 590086, False, 
+##[group]Checking out the ref, 2.729099974434713, , , , 325409, False, 
+##[group]Run actions/checkout@v2, 1.8566842507441808, , , , 184821, False, 
+##[group]Setting up auth, 1.8269000089563483, , , , 117115, False, 

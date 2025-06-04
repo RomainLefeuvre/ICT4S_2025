@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,154.60849879911063,3071311,False,
+Requested labels: self-hosted,38.31478455038389,4005957,False,
+##[group]Installed distributions,17.06235438916425,647877,False,
+##[group]Fetching the repository,13.499757574030989,440015,False,
+##[group]Run ./gradlew clean JUnitJava17,9.562507446104192,573506,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3-bin.zip.lck"
+##[group]Run gradle/wrapper-validation-action@v2,5.849916999762011,150645,False,
+##[group]Run actions/checkout@v4,3.7124250637278022,137380,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.637428248123345,54811,False,
+##[group]Setting up auth,3.5624314325188884,68437,False,
+##[group]Setting up auth for fetching submodules,3.1874473544966047,15308,False,
+##[group]Fetching submodules,3.112450538892148,95686,False,
+##[group]Persisting credentials for submodules,3.0374537232876904,124946,False,

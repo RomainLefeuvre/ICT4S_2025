@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,1382.510306867443,4638197,False,
+##[group]Fetching the repository,69.39684050817638,1047183,False,
+##[group]Cleaning the repository,24.98969577368013,313496,False,
+##[group]Run actions/checkout@v4,23.68082989146544,254712,False,
+##[group]GITHUB_TOKEN Permissions,20.675115963156166,2957020,False,
+##[group]Run actions/create-release@v1,12.3811400761755,1721417,True,##[error]Parameter token or opts.auth is required
+##[group]Setting up auth,9.767391636400156,70605,False,
+##[group]Removing previously created refs_ to avoid conflicts,6.89240554605326,87334,False,
+##[group]Run metcalfc/changelog-generator@v4.3.1,2.4762280152351,123837,True,##[error]Parameter token or opts.auth is required

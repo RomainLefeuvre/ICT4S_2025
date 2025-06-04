@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run repo-sync/github-sync@v2,5035.994854207051,550457909,False,
+##[group]==END_FILE==,172.0740439733757,6579181,False,
+##[group]Pull down action image 'ghcr.io/repo-sync/github-sync:v2.3.0',82.16404813899666,18217055,False,
+##[group]GITHUB_TOKEN Permissions,36.88851395008231,1791371,False,
+##[group]Fetching the repository,21.287942510609405,6071940,False,
+##[group]Checking out the ref,5.65211202532677,735704,False,
+##[group]Run actions/checkout@v4,0.1085481893734297,166138,False,

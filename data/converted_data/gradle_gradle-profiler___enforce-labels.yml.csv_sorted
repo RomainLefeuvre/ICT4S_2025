@@ -1,0 +1,2 @@
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/yogevbd/enforce-label-action/2.2.2/Dockerfile'., 183.01872873302395, , , , 68947837, False, 
+##[group]Run yogevbd/enforce-label-action@2.2.2, 19.956856720861968, , , , 9623303, True, ##[error]Cannot read property 'labels' of undefined

@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw -B verify -Dmaven.javadoc.skip=true -Dmaven.surefire.skip=true -Dtest.mysql.password= -Dtest.mysql.version=5.6 -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN,428.4097488636905,55326931,True,"[ERROR] Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.129 s <<< FAILURE! - in dev.miku.r2dbc.mysql.TextTimeZoneIntegrationTest"
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ r2dbc-mysql ---,95.29177373086196,3166990,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ r2dbc-mysql ---,59.897068011617264,2234077,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/mirromutth/mysql-action/v1.1/Dockerfile'.,52.63550107093104,14221752,False,
+[INFO] --- maven-javadoc-plugin:3.3.1:jar (attach-javadocs) @ r2dbc-mysql ---,34.175336972482995,6939043,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ r2dbc-mysql ---,33.43604299084376,6528666,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ r2dbc-mysql ---,30.61602834505529,1694360,False,
+##[group]GITHUB_TOKEN Permissions,30.57615503919429,2636637,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ r2dbc-mysql ---,24.091674901757116,915850,False,
+[INFO] --- maven-failsafe-plugin:2.22.2:integration-test (default) @ r2dbc-mysql ---,17.92816978334798,2209098,True,"[ERROR] Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.129 s <<< FAILURE! - in dev.miku.r2dbc.mysql.TextTimeZoneIntegrationTest"
+##[group]Run mirromutth/mysql-action@v1.1,12.6135478268304,2892087,False,
+##[group]Run sudo service mysql stop,12.547355253298722,3691291,True,##[error]Process completed with exit code 5.
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-javadocs) @ r2dbc-mysql ---,6.34530602167048,173342,False,
+##[group]Run actions/setup-java@v2,1.2295954475351007,2170295,False,
+##[group]Fetching the repository,0.7206582518648172,703010,False,
+##[group]Run actions/checkout@v2,0.1323975715259532,194105,False,
+##[group]Setting up auth,0.0803343215609975,95530,False,
+##[group]Initializing the repository,0.0746801072417891,58118,False,
+Requested labels: self-hosted,0.0,5937281,False,

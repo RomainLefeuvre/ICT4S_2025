@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]Attempting to automatically build java code,1177.365850144237,68521008,True,"[2024-05-21 12:46:16] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir-4/init.gradle, testClasses])"
+##[group]Fetching the repository,106.9795536084926,10309860,False,
+##[group]Finalizing java,91.25752340814785,5081620,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.17.3/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]GITHUB_TOKEN Permissions,52.42123026216826,13496927,False,
+##[group]Validating workflow,34.47906203571676,2710424,False,
+[2024-05-21 12:46:14] [autobuild] > Task :genFiles,26.52005215338613,1599350,False,
+##[group]Run github/codeql-action/analyze@v3,26.302537884659102,1449757,False,
+##[group]Load language configuration,20.946796479050263,1012972,False,
+##[group]Waiting for processing to finish,20.51666841827638,6090407,False,
+##[group]Augmented user configuration file contents,16.751366057438275,4267211,False,
+[2024-05-21 12:46:12] [autobuild] > Task :genBuildInfo,14.722734701091062,1998623,False,
+##[group]Setup CodeQL tools,13.198725588611229,3586260,False,
+##[group]Run github/codeql-action/autobuild@v3,11.299451260589672,1633065,False,
+##[group]Run actions/checkout@v4,11.135171432618067,193578,False,
+##[group]Uploading results,9.701546712536812,408307,False,
+##[group]Checking out the ref,8.58575904222296,460829,False,
+Requested labels: self-hosted,7.7766359564655,5723852,False,
+[2024-05-21 12:46:16] [autobuild] > Task :compileJava FAILED,2.7992432752645238,122540,False,

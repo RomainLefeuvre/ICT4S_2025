@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run PROPERTIES=""$(./gradlew properties --console=plain -q)""",691.4607422420274,68602982,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,71.75930450646344,3494932,False,
+##[group]Run codecov/codecov-action@v3,54.81524507210353,2354039,False,
+##[group]GITHUB_TOKEN Permissions,34.66126813421483,6342785,False,
+##[group]Run gradle/wrapper-validation-action@v1.0.6,32.586586030249485,1724743,False,
+##[group]Run ./gradlew check,14.112109824742449,1233573,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted__dup_15,14.00140822205809,4262412,False,
+##[group]Run actions/cache@v3,13.04509229724242,1342614,False,
+##[group]Run ./gradlew runPluginVerifier -Pplugin.verifier.home.dir=,12.697519207772782,1182855,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,10.140927822285724,563678,False,
+##[group]GITHUB_TOKEN Permissions__dup_16,7.598305916202609,1298060,False,
+##[group]Run gh release create v \\,7.44529447143172,682735,False,
+##[group]Run actions/upload-artifact@v3,7.059040722447032,862975,False,
+##[group]Setting up auth,6.631159188449985,70548,False,
+##[group]Fetching the repository__dup_19,6.4341954321216,427728,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.280133229493746,208422,False,
+##[group]Run actions/checkout@v3__dup_17,2.6911495444900986,172085,False,
+##[group]Disabling automatic garbage collection,1.6550930214370976,4618,False,
+##[group]Getting Git version info,1.6250402080566488,4667,False,
+##[group]Run actions/checkout@v3,1.615022603596499,169449,False,

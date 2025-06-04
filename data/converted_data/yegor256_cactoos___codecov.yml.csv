@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 47.88295238600364, , , , 4090902, False, 
+##[group]Run actions/checkout@v4, 9.42055484624788, , , , 135644, False, 
+##[group]Fetching the repository, 46.87986618702105, , , , 431324, False, 
+##[group]Run actions/cache@v4, 55.553679085137446, , , , 604808, False, 
+##[group]Run mvn install -Pjacoco, 1150.946671135409, , , , 138729102, False, 
+##[group]Run codecov/codecov-action@v4, 86.0386407226491, , , , 9548181, True, ##[error]Codecov: Failed to properly create commit: The process '/home/power/actions-runner/_work/_actions/codecov/codecov-action/v4/dist/codecov' failed with exit code 1

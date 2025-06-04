@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean package,288.21446189007185,39398693,True,[Error: unable to resolve method: org.jeasy.rules.mvel.Person.setBlah(java.lang.Boolean) [arglength=1]]
+##[group]Run actions/setup-java@v1,116.29097580945572,22417171,False,
+##[group]GITHUB_TOKEN Permissions,33.407774953625584,1695403,False,
+##[group]Run actions/checkout@v1,26.48537181820143,1876448,False,
+Requested labels: self-hosted,13.681391152502464,5214563,False,

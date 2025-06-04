@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0, , , , 4068364, False, 
+##[group]GITHUB_TOKEN Permissions, 1.2611560097522745, , , , 2324273, False, 
+##[group]Run actions/checkout@v1, 0.8653312295175253, , , , 1035147, False, 
+##[group]Run actions/setup-java@v1, 75.96443276203844, , , , 19529280, False, 
+##[group]Run actions/cache@v1, 1.1634067645909445, , , , 71218, False, 
+##[group]Run actions/cache@v1__dup_6, 1.1759032886144454, , , , 74909, False, 
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final, 72.3965647071932, , , , 31891154, True, ##[error]Process completed with exit code 1.

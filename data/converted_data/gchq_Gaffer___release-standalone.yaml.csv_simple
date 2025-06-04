@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn deploy -P quick_ossrh-release --settings cd/mvnsettings.xml -B,141.73474009810442,30870399,True,##[error]Process completed with exit code 2.
+##[group]==END_FILE==,73.63012124084595,5096090,False,
+##[group]GITHUB_TOKEN Permissions,46.37538216454946,2348822,False,
+[INFO] --- maven-javadoc-plugin:3.5.0:jar (attach-javadocs) @ gaffer2 ---,22.137262993842725,4610146,False,
+[INFO] --- maven-source-plugin:3.2.1:jar-no-fork (attach-sources) @ gaffer2 ---,15.0665750962393,1010257,False,
+##[group]Fetching the repository,12.080738626727944,445270,False,
+[INFO] --- maven-enforcer-plugin:3.1.0:enforce (enforce-banned-dependencies) @ gaffer2 ---,7.799636389743514,2643251,False,
+[INFO] --- maven-jar-plugin:3.2.2:test-jar (default) @ gaffer2 ---,6.672749694683339,5625985,False,
+[INFO] --- maven-failsafe-plugin:3.1.2:integration-test (integration-test) @ gaffer2 ---,6.420893869391605,701160,False,
+##[group]Checking out the ref,3.1438070506015805,36330,False,
+##[group]Setting up auth,2.8965622627623926,59954,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.847113305194555,8143,False,
+##[group]Run actions/checkout@v4,2.7976643476267173,114093,False,
+##[group]Installed distributions,2.74821539005888,38839,False,

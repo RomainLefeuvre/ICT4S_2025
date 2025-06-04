@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.0297300968387522, , , , 4659151, False, 
+##[group]GITHUB_TOKEN Permissions, 8.333918859905374, , , , 3090901, False, 
+##[group]Run actions/checkout@v3, 0.7932597553726396, , , , 174001, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.555039314709427, , , , 579629, False, 
+##[group]Cleaning the repository, 0.451398642871166, , , , 60536, False, 
+##[group]Fetching the repository, 2.8617443997445657, , , , 537915, False, 
+##[group]Run jitterbit/get-changed-files@v1, 2.141509664618387, , , , 378926, False, 
+##[group]Run ok=1, 2.877705886450753, , , , 558935, True, ##[error]This action only supports pull requests and pushes, repository_dispatch events are not supported. Please submit an issue on this action's GitHub repo if you believe this in correct.

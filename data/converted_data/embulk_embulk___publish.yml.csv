@@ -1,0 +1,24 @@
+##[group]==END_FILE==, 0.0155927187866154, , , , 6254876, False, 
+##[group]GITHUB_TOKEN Permissions, 460.76843664712993, , , , 3811338, False, 
+##[group]Run actions/checkout@v4, 33.94886365478267, , , , 148119, False, 
+##[group]Fetching the repository, 90.06745912174259, , , , 437694, False, 
+##[group]Run ./gradlew executable embulk-core:jar embulk-deps:jar embulk-junit4:jar embulk-ruby:gem, 430.2800918463961, , , , 41451755, False, 
+> Task :embulk-core:classes, 3.099855712449014, , , , 99918, False, 
+> Task :classes UP-TO-DATE, 53.504809717369376, , , , 2002351, False, 
+> Task :embulk-deps:compileJava, 3.359085048558444, , , , 97349, False, 
+> Task :embulk-deps:classes, 3.3149279626604824, , , , 99820, False, 
+> Task :embulk-deps:jar, 26.860304024528062, , , , 700149, False, 
+> Task :executableJar, 10.189238638304747, , , , 510111, False, 
+> Task :embulk-junit4:classes, 1.9302484412808447, , , , 75072, False, 
+> Task :embulk-ruby:gemContents, 87.17649326001278, , , , 6700197, False, 
+> Task :embulk-ruby:gem, 43.36433681632772, , , , 3007824, True, [Error: ENOENT: no such file or directory, open '/home/power/actions-runner/_work/embulk/embulk/build/executable/embulk-aster.jar'] {
+##[group]Run actions/github-script@v6, 4.635371299973915, , , , 132866, False, 
+##[group]Run ./gradlew --stacktrace embulk-core:publishMavenPublicationToMavenCentralRepository embulk-deps:publishMavenPublicationToMavenCentralRepository embulk-junit4:publishMavenPublicationToMavenCentralRepository, 102.13778182724742, , , , 4245417, True, [Error: ENOENT: no such file or directory, open '/home/power/actions-runner/_work/embulk/embulk/build/executable/embulk-aster.jar'] {
+> Task :embulk-core:jar UP-TO-DATE, 59.732980972812825, , , , 2310536, False, 
+> Task :embulk-core:javadoc, 16.99221763219622, , , , 588485, False, 
+> Task :embulk-core:javadocJar, 2.5903750586568366, , , , 99754, False, 
+> Task :embulk-core:signMavenPublication FAILED, 10.258313734009493, , , , 1050330, True, ##[error]Process completed with exit code 1.
+##[group]Run mkdir -p $HOME/.gem, 255.09068635748764, , , , 11489709, True, ##[error]Process completed with exit code 1.
+> Task :embulk-ruby:gemContents UP-TO-DATE, 115.16383953997033, , , , 4399008, False, 
+> Task :embulk-ruby:gem__dup_23, 104.53089870989773, , , , 4698559, False, 
+> Task :embulk-ruby:gemPush, 25.13763437361005, , , , 917383, False, 

@@ -1,0 +1,9 @@
+##[group]Run mvn clean install -DskipTests -Dcheckstyle.skip=true -Denforcer.skip=true -DskipFormatting=true, 1151.2242383767193, , , , 128061021, True, [ERROR[m] Failed to execute goal on project resteasy-core-spi[m: Could not resolve dependencies for project org.jboss.resteasy:resteasy-core-spi:jar:7.0.0.Alpha2-SNAPSHOT: Could not find artifact jakarta.ws.rs:jakarta.ws.rs-api:jar:4.0.0 in jboss-public-repository-group (https://repository.jboss.org/nexus/content/groups/public/)[m -> [Help 1][m
+##[group]Run actions/upload-artifact@v4, 58.264918291785705, , , , 6821280, False, 
+##[group]Fetching the repository, 16.635170294828153, , , , 2177991, False, 
+##[group]GITHUB_TOKEN Permissions, 15.555928904622954, , , , 3323829, False, 
+##[group]Installed distributions, 10.554924799228184, , , , 1132062, False, 
+##[group]Checking out the ref, 2.607423169266583, , , , 325367, False, 
+##[group]Setting up auth, 0.6521869083674925, , , , 60920, False, 
+##[group]Run actions/checkout@v4, 0.6431471521985466, , , , 143110, False, 
+Requested labels: self-hosted, 0.1874174443958545, , , , 4655242, False, 

@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run trask/component-owners@main,140.92523351426476,2028365,True,"##[error]This action only supports pull requests and pushes, repository_dispatch events are not supported. Please submit an issue on this action's GitHub repo if you believe this in correct."
+##[group]GITHUB_TOKEN Permissions,47.37740210469056,1943564,False,
+Requested labels: self-hosted,0.9749327241083494,5813334,False,

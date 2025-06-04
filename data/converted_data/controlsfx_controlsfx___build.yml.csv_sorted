@@ -1,0 +1,10 @@
+##[group]Run release-drafter/release-drafter@v5, 410.2744946514559, , , , 129539956, False, 
+##[group]Installed distributions, 42.78939234541838, , , , 771245, False, 
+##[group]GITHUB_TOKEN Permissions, 22.78605051320014, , , , 4363392, False, 
+##[group]Fetching the repository, 22.08662978696107, , , , 474356, False, 
+##[group]Run ./gradlew publish -PsonatypeUsername=$SONATYPE_USERNAME -PsonatypePassword=$SONATYPE_PASSWORD -Ptransifex.api=$TRANSIFEX_API, 13.0344319909778, , , , 207461, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.4.1-bin/58kw26xllvsiedyf3nujyarhn/gradle-7.4.1-bin.zip.lck (Aucun fichier ou dossier de ce type)
+##[group]Removing previously created refs_ to avoid conflicts, 10.545535619106218, , , , 119332, False, 
+##[group]Run export DISPLAY=:90, 6.423882381543716, , , , 125985, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.4.1-bin/58kw26xllvsiedyf3nujyarhn/gradle-7.4.1-bin.zip.lck (Aucun fichier ou dossier de ce type)
+##[group]Setting up auth, 5.366101423498293, , , , 57845, False, 
+##[group]Run actions/checkout@v4, 5.179434195607924, , , , 143762, False, 
+Requested labels: self-hosted, 1.047850340476593, , , , 4164398, False, 

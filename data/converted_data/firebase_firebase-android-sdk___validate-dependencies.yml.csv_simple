@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,2053.644851146308,205229889,False,
+##[group]Run ./gradlew validatePomForRelease,181.71441355748112,17663597,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar,102.75729832518724,5499852,False,
+##[group]GITHUB_TOKEN Permissions,47.05450412508622,2820454,False,
+##[group]Fetching the repository,35.60954105416854,501598,False,
+> Task :buildSrc:classes,17.534415232082655,199058,False,
+##[group]Run actions/checkout@v4.1.1,7.719036718881585,141867,False,
+##[group]Removing previously created refs_ to avoid conflicts,7.619515300873608,98020,False,
+##[group]Cleaning the repository,7.519993882865625,67386,False,
+##[group]Setting up auth,7.420472464857647,105763,False,
+Requested labels: self-hosted,0.1445807282653556,4929027,False,

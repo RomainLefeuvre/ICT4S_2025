@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 104.2255793902048, , , , 2290316, False, 
+##[group]Run actions/setup-java@v1, 55.88592150137386, , , , 16750170, False, 
+Requested labels: self-hosted, 37.9911131847469, , , , 4160221, False, 
+##[group]Run actions/checkout@v1, 28.1785245314828, , , , 895354, False, 
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final, 12.9729806008911, , , , 666087, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.8.3-bin/7ykxq50lst7lb7wx1nijpicxn/gradle-6.8.3-bin.zip.lck
+##[group]Run actions/cache@v1, 2.454418192374061, , , , 66537, False, 

@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean install,1343.375974680127,155009751,False,
+##[group]GITHUB_TOKEN Permissions__dup_5,47.16152924440253,2478305,False,
+##[group]Installed distributions,37.14375513797843,76285,False,
+##[group]Fetching the repository,34.6116788609392,705810,False,
+##[group]GITHUB_TOKEN Permissions,34.33665079446318,1334194,False,
+##[group]Run styfle/cancel-workflow-action@0.12.1,18.57150583835148,2650172,False,
+Requested labels: self-hosted__dup_4,12.130160034943746,4378225,False,
+##[group]Run actions/checkout@v4,5.985268212216577,144004,False,
+##[group]Setting up auth,3.524968136686776,96663,False,
+Requested labels: self-hosted,0.0,5240812,False,

@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn package -DskipTests -Dskip.unit.tests -Dskip.performance.tests -Dskip.cluster.tests --file pom.xml,4447.730133705409,321594095,True,[ERROR[m] COMPILATION ERROR : 
+##[group]Run actions/setup-java@v1,351.3326028904089,24265291,False,
+##[group]Run actions/checkout@v1,334.7439491800059,36484669,False,
+Requested labels: self-hosted,45.38124228707279,6032663,False,
+##[group]GITHUB_TOKEN Permissions,39.60813875881468,1650935,False,

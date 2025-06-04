@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./tooling/fossa/fossa.sh,16.123271704658166,3394694,False,
+##[group]==END_FILE==,8.226859690665345,5409579,False,
+##[group]GITHUB_TOKEN Permissions,5.252830600612615,1704728,False,
+##[group]Run actions/checkout@v1,3.3216428797991533,941999,False,
+##[group]Run actions/setup-java@v1,0.394820600699641,137796,False,

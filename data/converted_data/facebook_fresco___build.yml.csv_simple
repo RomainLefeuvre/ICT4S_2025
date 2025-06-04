@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./ci/build-and-test.sh,2460.2024792509465,114285391,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:inspectClassesForKotlinIC,1052.070747904996,46298259,False,
+##[group]Run nttld/setup-ndk@v1,633.6478319690161,79022585,False,
+##[group]Run actions/upload-artifact@v4,621.067164175963,58843393,False,
+> Task :buildSrc:compileKotlin,88.61503415315885,3698736,False,
+"##[group]Run echo ""Printing env PATH var""",46.02267014366427,5938983,False,
+##[group]GITHUB_TOKEN Permissions,32.6346342614723,4020212,False,
+> Task :buildSrc:processResources NO-SOURCE,30.05311588392427,1597271,False,
+##[group]Installed distributions,28.371900707424388,2102587,False,
+##[group]Fetching the repository,24.567499562282944,8657840,False,
+##[group]Run actions/checkout@v4,11.356318750213998,3780077,False,
+##[group]Checking out the ref,4.944087164513325,413280,False,
+> Task :buildSrc:classes UP-TO-DATE,3.032685126052684,98144,False,
+Requested labels: self-hosted,0.2329363478479408,6437024,False,

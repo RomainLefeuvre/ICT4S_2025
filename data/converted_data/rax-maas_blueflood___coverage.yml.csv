@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 83.06918280550717, , , , 3956825, False, 
+##[group]Run actions/checkout@v3, 13.648464425038467, , , , 173027, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 13.276097336416251, , , , 110451, False, 
+##[group]Setting up auth, 13.089913792105142, , , , 69701, False, 
+##[group]Fetching the repository, 194.04245218618797, , , , 1727774, False, 
+##[group]Checking out the ref, 9.7386099945052, , , , 19926, False, 
+##[group]Installed distributions, 126.79295374597028, , , , 12968367, False, 
+##[group]Run mvn test jacoco:report coveralls:report -D repoToken=, 312.5982681054871, , , , 44125792, True, ErrorResponse{errors=[ErrorData{tenantId='tenant', timestamp='0', metricName='', source='null', message='No valid metrics'}]}

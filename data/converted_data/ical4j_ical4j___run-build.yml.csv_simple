@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Restore Gradle state from cache,353.6684188376155,35890424,False,
+##[group]Run ./gradlew check --console=plain --warning-mode all,120.37899475242212,18018491,False,
+> Task :classes,52.01984213155873,1699850,False,
+##[group]Caching Gradle state,30.172827348345173,3203349,False,
+> Task :compileGroovy FROM-CACHE,17.575853771868093,699182,False,
+> Task :testClasses,17.12722615668739,200429,False,
+> Task :revapi,10.52797737374369,298913,False,
+> Task :jar,7.1654425623390265,200159,False,
+> Task :compileTestJava FROM-CACHE,6.913800882607769,200136,False,
+> Task :revapiAnalyze FROM-CACHE,3.5512660712031066,100946,False,
+> Task :check,2.737608569442574,88289,False,

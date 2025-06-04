@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 0.0, , , , 5189841, False, 
+##[group]GITHUB_TOKEN Permissions, 178.1570508596914, , , , 1295947, False, 
+##[group]Run actions/checkout@v3, 30.900490296743197, , , , 176804, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 30.3091253123438, , , , 19186, False, 
+##[group]Setting up auth, 29.71776032794442, , , , 74484, False, 
+##[group]Fetching the repository, 112.95739146778384, , , , 450412, False, 
+##[group]Checking out the ref, 197.52926368439708, , , , 737829, False, 
+##[group]Run actions/checkout@v3__dup_8, 35.18955629551401, , , , 125427, False, 
+##[group]Cleaning the repository, 16.707730671157925, , , , 37314, False, 
+##[group]Setting up auth__dup_10, 16.116365686758538, , , , 76971, False, 
+##[group]Fetching the repository__dup_11, 58.55181290304029, , , , 421106, False, 
+##[group]Removing auth, 37.704527341086674, , , , 235982, False, 
+##[group]Installed distributions, 10.352226950739794, , , , 195597, False, 
+##[group]Run actions/cache@v3, 428.6851877631983, , , , 52781206, False, 
+##[group]Run ./gradlew spotlessApply || true, 61.62019471917782, , , , 7895905, False, 
+##[group]Run ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df, 3.046829804961296, , , , 385601, False, 
+##[group]Run peter-evans/create-or-update-comment@v2, 0.7603001425049859, , , , 110124, True, ##[error]Parameter token or opts.auth is required
+##[group]Run peter-evans/create-or-update-comment@v2__dup_18, 12.110118283506637, , , , 1610353, True, ##[error]Parameter token or opts.auth is required

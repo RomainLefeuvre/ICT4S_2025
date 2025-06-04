@@ -1,0 +1,115 @@
+Requested labels: self-hosted, 9066.180087187531, , , , 611125835, False, 
+Requested labels: self-hosted__dup_2, 9519.017582031212, , , , 639212571, False, 
+Requested labels: self-hosted__dup_3, 113.88957362612678, , , , 6705674, False, 
+Requested labels: self-hosted__dup_4, 10012.705693163673, , , , 669742303, False, 
+Requested labels: self-hosted__dup_5, 10325.858493453115, , , , 687558730, False, 
+Requested labels: self-hosted__dup_6, 13533.032106749642, , , , 857485650, False, 
+Requested labels: self-hosted__dup_7, 13808.077802070426, , , , 874536165, False, 
+Requested labels: self-hosted__dup_8, 17256.782872721444, , , , 1058031033, False, 
+Requested labels: self-hosted__dup_9, 14088.4753959829, , , , 892359439, False, 
+##[group]GITHUB_TOKEN Permissions, 103.21201265970252, , , , 2527861, False, 
+##[group]Run actions/checkout@v4, 3.520121895768791, , , , 228264, False, 
+##[group]Fetching the repository, 182.7696841407282, , , , 10802011, False, 
+##[group]Checking out the ref, 14.885511303757657, , , , 927873, False, 
+##[group]Installed versions, 17.58633059227623, , , , 196935, False, 
+##[group]Run pip install -U pipenv, 229.36958637399417, , , , 25508794, False, 
+##[group]Run cd python, 6086.716479000741, , , , 424306762, False, 
+##[group]Run cd python__dup_17, 114.78813824277871, , , , 12719750, False, 
+##[group]Run cd python__dup_18, 41.04706288858108, , , , 1833154, False, 
+##[group]Run cd python__dup_19, 996.2618895039892, , , , 58376879, False, 
+##[group]Run cd python__dup_20, 922.3121362992364, , , , 49664774, False, 
+##[group]Run cd python__dup_21, 156.972385079339, , , , 7347467, False, 
+##[group]GITHUB_TOKEN Permissions__dup_22, 40.86671800744944, , , , 2421808, False, 
+##[group]Run actions/checkout@v4__dup_23, 3.918139591703708, , , , 148464, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 4.15476442965328, , , , 257203, False, 
+##[group]Setting up auth, 10.830582645288644, , , , 60036, False, 
+##[group]Fetching the repository__dup_26, 8.557149566242732, , , , 647678, False, 
+##[group]Installed versions__dup_27, 9.52358312693146, , , , 12548, False, 
+##[group]Run pip install -U pipenv__dup_28, 176.04727951956346, , , , 10715110, False, 
+##[group]Run cd python__dup_29, 24.53245240379166, , , , 1249152, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_30, 12.6510517767467, , , , 537747, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_31, 22.709694289635923, , , , 538250, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_32, 12.101308369749908, , , , 639271, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_33, 23.55467227290116, , , , 1011851, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_34, 34.03958535804274, , , , 2151714, False, 
+##[group]Run actions/checkout@v4__dup_35, 11.212054719417893, , , , 152205, False, 
+##[group]Setting up auth__dup_36, 2.1958049674488955, , , , 57943, False, 
+##[group]Fetching the repository__dup_37, 10.8236715824622, , , , 447583, False, 
+##[group]Checking out the ref__dup_38, 2.5647745941995845, , , , 21255, False, 
+##[group]Installed versions__dup_39, 2.964814871906729, , , , 10868, False, 
+##[group]Run pip install -U pipenv__dup_40, 205.75120132706337, , , , 12563720, False, 
+##[group]Run cd python__dup_41, 40.80836989226077, , , , 1888253, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_42, 8.664502468150612, , , , 506116, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_43, 22.65648948262449, , , , 517954, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_44, 12.521176706741183, , , , 595612, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_45, 11.169808512174283, , , , 599009, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_46, 23.013935362120776, , , , 1023243, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_47, 42.855240920887006, , , , 2196393, False, 
+##[group]Run actions/checkout@v4__dup_48, 4.523551868093832, , , , 147264, False, 
+##[group]Cleaning the repository, 2.496758783189687, , , , 18227, False, 
+##[group]Setting up auth__dup_50, 12.483793915948436, , , , 58570, False, 
+##[group]Fetching the repository__dup_51, 10.196666700665457, , , , 440587, False, 
+##[group]Run pip install -U pipenv__dup_52, 51.19041268691629, , , , 1910991, False, 
+##[group]Run cd python__dup_53, 40.87855102330801, , , , 1215103, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_54, 11.742983538607437, , , , 540053, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_55, 12.082039242008644, , , , 527993, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_56, 11.892082157605444, , , , 642296, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_57, 23.34777790640988, , , , 976135, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_58, 40.07226171682908, , , , 2340666, False, 
+##[group]Run actions/checkout@v4__dup_59, 4.664023492743952, , , , 139214, False, 
+##[group]Disabling automatic garbage collection, 2.4144762163763005, , , , 9308, False, 
+##[group]Setting up auth__dup_61, 2.4694525297125165, , , , 104062, False, 
+##[group]Fetching the repository__dup_62, 12.622144215243663, , , , 430698, False, 
+##[group]Run pip install -U pipenv__dup_63, 95.56966227599057, , , , 4869487, False, 
+##[group]Run cd python__dup_64, 850.0206161307816, , , , 45288567, False, 
+##[group]Run cd python__dup_65, 46.327871269477, , , , 1569012, False, 
+##[group]Run cd python__dup_66, 22.89637007110637, , , , 1252684, False, 
+##[group]Run cd python__dup_67, 943.5169322039396, , , , 49048497, False, 
+##[group]Run cd python__dup_68, 954.6831732262518, , , , 49984041, False, 
+##[group]Run cd python__dup_69, 126.60747044634468, , , , 6433165, False, 
+##[group]GITHUB_TOKEN Permissions__dup_70, 45.35056467961161, , , , 2177326, False, 
+##[group]Run actions/checkout@v4__dup_71, 2.4714364480089124, , , , 137765, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_72, 2.6261993172711877, , , , 21233, False, 
+##[group]Setting up auth__dup_73, 13.130996586355938, , , , 132279, False, 
+##[group]Fetching the repository__dup_74, 7.520120514033585, , , , 452495, False, 
+##[group]Run pip install -U pipenv__dup_75, 34.344156657808405, , , , 1185649, False, 
+##[group]Run cd python__dup_76, 26.70309695934016, , , , 1156457, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_77, 12.671706902513256, , , , 501251, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_78, 12.390336633778348, , , , 518458, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_79, 25.19868946165574, , , , 608102, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_80, 11.6312205348242, , , , 614233, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_81, 23.40165648229101, , , , 945557, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_82, 43.01286321172324, , , , 2198648, False, 
+##[group]Run actions/checkout@v4__dup_83, 2.254223222507504, , , , 145466, False, 
+##[group]Getting Git version info, 2.410650380263468, , , , 8436, False, 
+##[group]Setting up auth__dup_85, 2.567077538019432, , , , 58490, False, 
+##[group]Fetching the repository__dup_86, 12.83538769009716, , , , 421368, False, 
+##[group]Run pip install -U pipenv__dup_87, 48.43315454960658, , , , 1949190, False, 
+##[group]Run cd python__dup_88, 12.74471775022397, , , , 1167524, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_89, 12.129651776757422, , , , 548009, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_90, 12.05032201180239, , , , 527952, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_91, 12.046048686716984, , , , 631151, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_92, 23.10432246968165, , , , 995100, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_93, 42.5813828243773, , , , 2173510, False, 
+##[group]Run actions/checkout@v4__dup_94, 4.593442083348803, , , , 143870, False, 
+##[group]Setting up auth__dup_95, 12.553719008773266, , , , 58594, False, 
+##[group]Fetching the repository__dup_96, 8.42332083521474, , , , 456866, False, 
+##[group]Checking out the ref__dup_97, 1.7009166158527171, , , , 21047, False, 
+##[group]Run pip install -U pipenv__dup_98, 75.41204187069147, , , , 2785003, False, 
+##[group]Run cd python__dup_99, 827.5306146101034, , , , 43979538, False, 
+##[group]Run cd python__dup_100, 35.04257560679996, , , , 1512518, False, 
+##[group]Run cd python__dup_101, 35.8676260851224, , , , 1237574, False, 
+##[group]Run cd python__dup_102, 911.2994378220696, , , , 46629573, False, 
+##[group]Run cd python__dup_103, 978.364532263972, , , , 51018413, False, 
+##[group]Run cd python__dup_104, 141.88601091056353, , , , 6279205, False, 
+##[group]GITHUB_TOKEN Permissions__dup_105, 41.43579784490126, , , , 2703218, False, 
+##[group]Run actions/checkout@v4__dup_106, 10.038158678034126, , , , 146887, False, 
+##[group]Cleaning the repository__dup_107, 2.214496109953632, , , , 20222, False, 
+##[group]Fetching the repository__dup_108, 12.623963357369204, , , , 434077, False, 
+##[group]Run pip install -U pipenv__dup_109, 21.620820715452773, , , , 1174925, False, 
+##[group]Run cd python__dup_110, 40.85072686363065, , , , 1188377, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_111, 10.899641464044564, , , , 517615, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_112, 12.505209998887452, , , , 485040, True, ##[error]Process completed with exit code 127.
+##[group]Run cd python__dup_113, 12.176639136859198, , , , 606562, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_114, 12.177680049634851, , , , 601310, True, ##[error]Process completed with exit code 1.
+##[group]Run cd python__dup_115, 23.947268168137988, , , , 931415, True, ##[error]Process completed with exit code 127.

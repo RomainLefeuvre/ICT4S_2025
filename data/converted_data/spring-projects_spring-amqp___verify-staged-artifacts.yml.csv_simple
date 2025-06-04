@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,439.05813466413167,4515599,False,
+##[group]Run mvn versions:set -DnewVersion= -DgenerateBackupPoms=false -DprocessAllModules=true -B -ntp,369.926949102852,33642145,True,"[ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project spring-amqp-samples: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]"
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/namoshek/rabbitmq-github-action/v1/Dockerfile'.,109.39702286969283,12440296,False,
+##[group]Cleanup JFrog CLI servers configuration,31.003516809555496,3051987,False,
+##[group]Setup JFrog CLI,28.885489021822643,1433605,False,
+##[group]Run namoshek/rabbitmq-github-action@v1,27.28346068765153,20720646,False,
+##[group]Fetching the repository,9.866881008261023,1103320,False,
+##[group]Installed distributions,7.589834139139262,537150,False,
+##[group]Run jf mvnc --repo-resolve-releases=libs-release-staging --repo-resolve-snapshots=snapshot,5.954012376303058,295820,True,18:21:39 [Error] [Resolution]: server ID must be set. Use the --server-id-resolve/deploy flag or configure a default server using 'jfrog c add' and 'jfrog c use' commands. 
+##[group]Determining the checkout info,1.2074780051985183,5113,False,
+##[group]Initializing the repository,0.5865003599398498,12674,False,
+##[group]Run actions/checkout@v4,0.5347522228349609,137165,False,
+Requested labels: self-hosted,0.0,4891484,False,

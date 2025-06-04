@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean install -Pgwttest,2347.602681254089,138747761,True,"[ERROR[m] mars 27, 2024 10:08:52 PM java.util.prefs.FileSystemPreferences$1 run"
+##[group]Fetching the repository,20.06697553539271,722758,False,
+##[group]GITHUB_TOKEN Permissions,10.892340700924642,2013468,False,
+##[group]Run actions/setup-java@v2,10.772472283592077,348130,False,
+##[group]Run actions/checkout@v2,4.752820842456849,194512,False,
+Requested labels: self-hosted,0.0,4994958,False,

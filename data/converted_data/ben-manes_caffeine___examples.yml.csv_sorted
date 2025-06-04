@@ -1,0 +1,29 @@
+##[group]Restore Gradle state from cache, 874.6290030813028, , , , 96765715, False, 
+##[group]Caching Gradle state, 368.1344669702089, , , , 37870905, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_28, 253.31203104039784, , , , 37039923, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 86.59708051668933, , , , 5764958, False, 
+##[group]Run ./gradlew simulator:run -Dcaffeine.simulator.report.output=$(pwd)/simulation.md -Dcaffeine.simulator.files.paths.0="corda:trace_vaultservice.gz" -Dcaffeine.simulator.files.paths.1="lirs:loop.trace.gz" -Dcaffeine.simulator.files.paths.2="corda:trace_vaultservice.gz", 51.40775227014733, , , , 2988612, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json", 33.64418661646363, , , , 4060529, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43, 25.63399891365154, , , , 620226, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6, 24.96463508217704, , , , 879913, False, 
+##[group]Successfully set up 'graalvm-jdk-21.0.3+7.1', 17.430236819745417, , , , 2373210, False, 
+##[group]Fetching the repository, 14.158962314359238, , , , 452849, False, 
+##[group]Run timeout 1m ./gradlew -q caffeine:stress --workload=read || ([[ $? -eq 124 ]] && echo "Timeout reached_ but that's OK"), 14.08565095146461, , , , 846868, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build__dup_19, 13.066715276344045, , , , 2775394, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -q simulator:simulate --maximumSize=100_200_300, 13.057689930387127, , , , 842119, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build__dup_17, 12.87715051102279, , , , 908960, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -q caffeine:memoryOverhead, 12.797272327059598, , , , 787587, True, ##[error]Process completed with exit code 1.
+##[group]Run timeout 1m ./gradlew -q caffeine:stress --workload=write || ([[ $? -eq 124 ]] && echo "Timeout reached_ but that's OK"), 12.243884919988597, , , , 811398, True, ##[error]Process completed with exit code 1.
+##[group]Run timeout 1m ./gradlew -q caffeine:stress --workload=refresh || ([[ $? -eq 124 ]] && echo "Timeout reached_ but that's OK"), 11.983467316661065, , , , 795715, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build, 11.723049713333538, , , , 837735, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build__dup_18, 11.169662306262536, , , , 768292, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 8.011871705506552, , , , 187848, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_23, 7.800138481936652, , , , 536558, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_27, 7.234716068112434, , , , 489844, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29, 6.413487908374667, , , , 155635, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338, 3.4552305496460325, , , , 297493, False, 
+##[group]Setting up auth, 3.3732422663885715, , , , 72819, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338__dup_25, 2.890252355211641, , , , 252155, False, 
+##[group]Run {, 1.6505218540323578, , , , 78264, True, ##[error]Process completed with exit code 1.
+##[group]Successfully set up 'graalvm-jdk-21.0.3+7.1'__dup_26, 1.4457318562780426, , , , 73908, False, 
+##[group]Run echo "JDK_CI=$JAVA_HOME" >> $GITHUB_ENV, 1.283054277806409, , , , 63571, False, 

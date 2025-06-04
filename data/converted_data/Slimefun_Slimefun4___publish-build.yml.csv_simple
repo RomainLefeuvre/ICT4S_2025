@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean package,1692.313487837523,149495137,False,
+##[group]GITHUB_TOKEN Permissions,125.75599268318872,2853161,False,
+##[group]Fetching the repository,28.594247018517024,440719,False,
+##[group]Run WalshyDev/blob-builds/gh-action@f3da5ce7b7e2b70eb963e0c0014677b3d78c10fa,12.207932692587114,516388,False,
+##[group]Checking out the ref,7.464904171493331,102994,False,
+##[group]Setting up auth,6.832219337765181,69490,False,
+##[group]Run actions/checkout@v4,6.579145404273921,162716,False,
+Requested labels: self-hosted,1.3722320734866498,4644684,False,

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,247.33657084367488,2502837,False,
+##[group]Run cd ${GITHUB_WORKSPACE}/junit5-jupiter-starter-gradle && ./gradlew test --console plain --build-file build-SNAPSHOT.gradle,183.037882668402,19425774,False,
+##[group]Fetching the repository,61.00968747477314,429712,False,
+##[group]Run cd ${GITHUB_WORKSPACE}/junit5-jupiter-starter-maven && ./mvnw test --batch-mode --file pom-SNAPSHOT.xml,49.815922104905695,11697631,False,
+[INFO] --- compiler:3.11.0:compile (default-compile) @ junit5-jupiter-starter-maven-snapshot ---,33.066414134756734,1246672,False,
+[INFO] --- resources:3.3.1:resources (default-resources) @ junit5-jupiter-starter-maven-snapshot ---,22.42136625782049,825322,False,
+##[group]Installed distributions,16.763923134960187,27652,False,
+##[group]Setting up auth,14.565375838571963,59726,False,
+##[group]Run actions/checkout@v4,14.015739014474908,160058,False,
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ junit5-jupiter-starter-maven-snapshot ---,5.863431147384947,165420,False,
+##[group]==END_FILE==,0.0211826564386153,4860934,False,

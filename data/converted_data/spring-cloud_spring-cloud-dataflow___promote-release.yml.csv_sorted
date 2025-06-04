@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 13.227114196752977, , , , 2748970, False, 
+##[group]Fetching the repository, 3.5788653579528384, , , , 540666, False, 
+##[group]Cleanup JFrog CLI servers configuration, 1.6466227284766095, , , , 237633, False, 
+##[group]Run actions/checkout@v4, 1.3070281201153346, , , , 155317, False, 
+##[group]Run jvalkeal/build-zoo-handler@v0.0.4, 0.7950118135415319, , , , 87498, False, 
+##[group]Setting up auth, 0.6818136107544401, , , , 59570, False, 
+Requested labels: self-hosted, 0.2735861571079571, , , , 4648312, False, 

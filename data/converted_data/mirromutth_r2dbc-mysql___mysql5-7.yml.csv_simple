@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v2,160.68967250492005,14867417,False,
+##[group]GITHUB_TOKEN Permissions,94.36553045035431,2914430,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/mirromutth/mysql-action/v1.1/Dockerfile'.,80.72960053739536,5503210,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ r2dbc-mysql ---,66.17265483483247,2927738,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ r2dbc-mysql ---,35.1500948929726,2360434,False,
+##[group]Run ./mvnw -B verify -Dmaven.javadoc.skip=true -Dmaven.surefire.skip=true -Dtest.mysql.password= -Dtest.mysql.version=5.7 -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN,32.49878497315254,11190076,True,"[ERROR] Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.082 s <<< FAILURE! - in dev.miku.r2dbc.mysql.TextTimeZoneIntegrationTest"
+[INFO] --- maven-failsafe-plugin:2.22.2:integration-test (default) @ r2dbc-mysql ---,32.49878497315254,1519211,True,"[ERROR] Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.082 s <<< FAILURE! - in dev.miku.r2dbc.mysql.TextTimeZoneIntegrationTest"
+##[group]Run sudo service mysql stop,11.42457142940864,1190154,True,##[error]Process completed with exit code 5.
+[INFO] --- maven-javadoc-plugin:3.3.1:jar (attach-javadocs) @ r2dbc-mysql ---,10.970536641942957,344107,False,
+##[group]Run mirromutth/mysql-action@v1.1,10.30628090139675,4986932,False,
+##[group]Fetching the repository,8.880846745290881,450607,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ r2dbc-mysql ---,7.959462981794888,329104,False,
+##[group]Run actions/checkout@v2,4.593006514117629,182303,False,
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-javadocs) @ r2dbc-mysql ---,2.806548327072008,197108,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ r2dbc-mysql ---,2.602022993995948,116280,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ r2dbc-mysql ---,2.4173883248305827,121678,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.273615785837986,24670,False,
+##[group]Setting up auth,2.2583574716907675,97829,False,
+##[group]Checking out the ref,2.182065900954673,36878,False,
+Requested labels: self-hosted,0.3182468797795245,3970319,False,

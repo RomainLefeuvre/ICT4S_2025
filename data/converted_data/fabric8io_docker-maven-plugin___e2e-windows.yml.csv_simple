@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn ${MAVEN_ARGS} clean install -DskipTests,616.8609778966177,75319295,False,
+##[group]GITHUB_TOKEN Permissions,380.10435732869615,1980417,False,
+##[group]Fetching the repository,151.50258830253244,447025,False,
+[INFO] --- maven-plugin-plugin:3.6.0:helpmojo (help-goal) @ docker-maven-plugin ---,93.00628960785396,16837163,False,
+##[group]Run cd it/windows-build,61.37431744622352,7792281,True,[m[ERROR[m] DOCKER> Unable to pull 'mcr.microsoft.com/windows/nanoserver:ltsc2022' from registry 'mcr.microsoft.com' : no matching manifest for linux/amd64 in the manifest list entries  [no matching manifest for linux/amd64 in the manifest list entries ][m
+[INFO] --- plexus-component-metadata:2.1.0:generate-metadata (default) @ docker-maven-plugin ---,55.4514843516568,1902521,False,
+##[group]Run actions/checkout@v2,55.15072787832462,179700,True,##[error]cmd: command not found
+##[group]Run actions/setup-java@v1,32.722876523923546,121587,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (default-descriptor) @ docker-maven-plugin ---,32.192233406900534,1393868,False,
+##[group]Cleaning the repository,28.483748512943706,24904,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (mojo-descriptor) @ docker-maven-plugin ---,28.389167342115176,1142182,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ docker-maven-plugin ---,20.130389057088003,1221828,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ docker-maven-plugin ---,16.7310458325615,2049970,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ docker-maven-plugin ---,10.836418627287504,5987762,False,
+[INFO] --- sortpom-maven-plugin:3.0.1:sort (default) @ docker-maven-plugin ---,9.958652235729666,755045,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ docker-maven-plugin ---,7.075615843874519,763879,False,
+[INFO] --- maven-surefire-plugin:3.0.0-M2:test (default-test) @ docker-maven-plugin ---,4.921845631001404,1128451,False,
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ docker-maven-plugin ---,3.1436096975131527,16781,False,
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ docker-maven-plugin ---,2.053717681681348,207607,False,
+##[group]==END_FILE==,0.2006234496107306,4724119,False,

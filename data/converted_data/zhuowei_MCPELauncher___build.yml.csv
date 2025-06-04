@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.0, , , , 5976713, False, 
+##[group]GITHUB_TOKEN Permissions, 5.167989240577538, , , , 2532856, False, 
+##[group]Run actions/checkout@v2, 1.645812808360347, , , , 203352, False, 
+##[group]Initializing the repository, 0.7928076264751258, , , , 135540, False, 
+##[group]Setting up auth, 0.7727417746717605, , , , 69039, False, 
+##[group]Fetching the repository, 6.051712640894413, , , , 908648, False, 
+##[group]Run actions/setup-java@v1, 60.26419875145405, , , , 18598553, False, 
+##[group]Run tools/ci/ci_build.sh, 1515.0818333834775, , , , 168083709, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/upload-artifact@v1, 16.231318920715488, , , , 2284044, True, ##[error]Path does not exist /home/power/actions-runner/_work/MCPELauncher/MCPELauncher/MCPELauncherApp-release.apk

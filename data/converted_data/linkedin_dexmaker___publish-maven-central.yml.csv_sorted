@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 280.99855805205027, , , , 2113992, False, 
+##[group]Run ./gradlew build, 262.13924636410275, , , , 29114694, False, 
+##[group]Fetching the repository, 104.07664477732352, , , , 448310, False, 
+##[group]Run actions/checkout@v2, 37.694775137499775, , , , 181260, False, 
+##[group]Run ./gradlew publishAllPublicationsToMavenCentralRepository, 30.824570886343118, , , , 1539637, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 22.564610188100087, , , , 114693, False, 
+##[group]Disabling automatic garbage collection, 19.50336803098816, , , , 4103, False, 
+##[group]==END_FILE==, 1.3063723599944306, , , , 4132515, False, 

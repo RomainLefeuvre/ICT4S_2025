@@ -1,0 +1,42 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,503.14757757073,73227738,False,
+##[group]==END_FILE==__dup_24,374.7477051443398,44527878,False,
+##[group]Run mvn deploy -P quick_ossrh-release --settings cd/mvnsettings.xml -B,199.24872876389267,32307659,True,##[error]Input required and not supplied: token
+##[group]Run git checkout develop,194.87564158094256,12052913,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_39,129.8426868301678,31337280,True,##[error]Process completed with exit code 1.
+[INFO] --- maven-enforcer-plugin:3.1.0:enforce (enforce-banned-dependencies) @ gaffer2 ---,89.19064286427574,2686618,False,
+##[group]Pull down action image 'decathlon/release-notes-generator-action:2.1.0',77.26895605207378,14599011,True,##[error]Input required and not supplied: token
+[INFO] --- maven-gpg-plugin:3.1.0:sign (sign-artifacts) @ gaffer2 ---,73.09505910841685,15481280,False,
+##[group]GITHUB_TOKEN Permissions,52.49143362791367,2602607,False,
+##[group]==END_FILE==,43.094498968625366,19328399,False,
+[INFO] --- maven-jar-plugin:3.2.2:test-jar (default) @ gaffer2 ---,31.093756664724776,5066729,False,
+##[group]==END_FILE==__dup_5,28.503680279462408,9595497,False,
+##[group]Run docker://decathlon/release-notes-generator-action:2.1.0,28.49223818630973,13523397,False,
+[INFO] --- maven-javadoc-plugin:3.5.0:jar (attach-javadocs) @ gaffer2 ---,27.969455774828926,4422623,False,
+[INFO] --- maven-source-plugin:3.2.1:jar-no-fork (attach-sources) @ gaffer2 ---,23.49182684881387,874000,False,
+##[group]GITHUB_TOKEN Permissions__dup_35,19.70012998439398,1949701,False,
+[INFO] --- maven-failsafe-plugin:3.1.2:integration-test (integration-test) @ gaffer2 ---,16.429311753707843,697668,False,
+##[group]Run git tag $artifactId-$RELEASE_VERSION,13.837856090378326,1081198,False,
+##[group]Run softprops/action-gh-release@v1,12.404989047767016,2060323,False,
+##[group]Installed distributions__dup_32,12.096559817315114,52969,False,
+##[group]Run git remote set-branches --add origin gh-pages,11.868432241293297,843549,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_30,11.543307957371264,2562978,False,
+##[group]Run actions/checkout@v4__dup_31,9.59161836223158,144463,True,##[error]Input required and not supplied: token
+##[group]Run actions/checkout@v4__dup_26,8.532645737156866,145527,True,##[error]Input required and not supplied: token
+##[group]Fetching the repository,8.34982046719722,575829,False,
+##[group]GITHUB_TOKEN Permissions__dup_8,6.799314136027358,2333026,False,
+##[group]GITHUB_TOKEN Permissions__dup_25,6.656647270425078,2109885,False,
+##[group]==END_FILE==__dup_6,6.388100515216003,5394668,False,
+##[group]Run gpg --batch --fast-import cd/codesigning.asc,2.7982259207492213,276761,False,
+##[group]Cleaning the repository,2.7708131293295053,210850,True,##[error]Process completed with exit code 1.
+##[group]Run git checkout ,2.0586104171092514,92143,False,
+##[group]Installed distributions__dup_27,1.999930205496272,51211,False,
+"##[group]Run echo ""RELEASE_VERSION=$(echo  | cut -c 2-)"" >> $GITHUB_ENV",1.8684524906567683,152558,False,
+##[group]Run actions/checkout@v4,1.5070134403859412,101541,False,
+"##[group]Run openssl aes-256-cbc -K ""$CODE_SIGNING_KEY"" -iv ""$CODE_SIGNING_IV"" -in cd/codesigning.asc.enc -out cd/codesigning.asc -d",1.395997870440552,108281,False,
+##[group]Setting up auth,1.3872756186251878,67825,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.3835375107043175,53132,False,
+##[group]Run actions/checkout@v4__dup_10,1.382291474730694,100711,False,
+##[group]Installed distributions,1.3810454387570703,28836,True,##[error]Input required and not supplied: token
+##[group]Run actions/checkout@v4__dup_37,1.3283954625019874,165804,False,
+##[group]Setting up auth__dup_38,1.1220357040239912,64276,False,

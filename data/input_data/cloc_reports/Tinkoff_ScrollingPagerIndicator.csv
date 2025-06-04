@@ -1,0 +1,40 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2562.2 files/s 189871.7 lines/s)"
+Java,/tmp/clone_directory/scrollingpagerindicator/src/main/java/ru/tinkoff/scrollingpagerindicator/ScrollingPagerIndicator.java,87,175,468
+Java,/tmp/clone_directory/scrollingpagerindicator/src/main/java/ru/tinkoff/scrollingpagerindicator/RecyclerViewAttacher.java,44,43,222
+XML,/tmp/clone_directory/demo/src/main/res/drawable/ic_launcher_background.xml,0,0,170
+Text,/tmp/clone_directory/LICENSE.txt,33,0,169
+XML,/tmp/clone_directory/demo/src/main/res/layout/activity_main.xml,17,0,136
+Markdown,/tmp/clone_directory/README.md,14,0,134
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+Gradle,/tmp/clone_directory/gradle/publish-lib.gradle,10,15,90
+Java,/tmp/clone_directory/demo/src/main/java/ru/tinkoff/scrollingpagerindicator/demo/MainActivity.java,19,6,75
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+Java,/tmp/clone_directory/scrollingpagerindicator/src/main/java/ru/tinkoff/scrollingpagerindicator/ViewPagerAttacher.java,15,3,58
+Java,/tmp/clone_directory/scrollingpagerindicator/src/main/java/ru/tinkoff/scrollingpagerindicator/ViewPager2Attacher.java,15,0,53
+Java,/tmp/clone_directory/demo/src/main/java/ru/tinkoff/scrollingpagerindicator/demo/DemoPagerAdapter.java,11,3,47
+Java,/tmp/clone_directory/demo/src/main/java/ru/tinkoff/scrollingpagerindicator/demo/DemoRecyclerViewAdapter.java,12,3,44
+XML,/tmp/clone_directory/demo/src/main/res/drawable-v24/ic_launcher_foreground.xml,0,0,34
+Gradle,/tmp/clone_directory/build.gradle,7,0,33
+Gradle,/tmp/clone_directory/scrollingpagerindicator/build.gradle,7,0,26
+Gradle,/tmp/clone_directory/demo/build.gradle,3,0,25
+XML,/tmp/clone_directory/demo/src/main/AndroidManifest.xml,3,0,23
+XML,/tmp/clone_directory/demo/src/main/res/layout/demo_page.xml,3,0,23
+XML,/tmp/clone_directory/scrollingpagerindicator/src/main/res/values/attrs.xml,2,0,21
+Markdown,/tmp/clone_directory/changelog.md,6,0,16
+Properties,/tmp/clone_directory/gradle.properties,6,12,15
+Java,/tmp/clone_directory/scrollingpagerindicator/src/main/java/ru/tinkoff/scrollingpagerindicator/AbstractViewPagerAttacher.java,2,1,14
+XML,/tmp/clone_directory/scrollingpagerindicator/src/main/res/values/styles.xml,0,0,13
+YAML,/tmp/clone_directory/.github/workflows/publish.yml,2,0,9
+YAML,/tmp/clone_directory/.github/workflows/merge_request.yml,2,0,8
+XML,/tmp/clone_directory/demo/src/main/res/values/colors.xml,1,0,8
+XML,/tmp/clone_directory/demo/src/main/res/values/strings.xml,3,0,8
+XML,/tmp/clone_directory/demo/src/main/res/values/styles.xml,0,0,7
+XML,/tmp/clone_directory/demo/src/main/res/drawable/baseline_accessibility_new_24.xml,0,0,5
+XML,/tmp/clone_directory/demo/src/main/res/drawable/baseline_free_breakfast_24.xml,0,0,5
+XML,/tmp/clone_directory/demo/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml,0,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/demo/src/main/res/values/dimen.xml,1,0,4
+Properties,/tmp/clone_directory/scrollingpagerindicator/gradle.properties,0,0,3
+XML,/tmp/clone_directory/scrollingpagerindicator/src/main/AndroidManifest.xml,0,0,1
+Gradle,/tmp/clone_directory/settings.gradle,1,0,1
+SUM,,369,284,2163

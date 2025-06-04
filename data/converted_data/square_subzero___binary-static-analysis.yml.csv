@@ -1,0 +1,13 @@
+##[group]==END_FILE==, 0.0145733803032276, , , , 4958676, False, 
+##[group]GITHUB_TOKEN Permissions, 5.603208223640998, , , , 2291259, False, 
+##[group]Run actions/checkout@v2, 0.6497100718433977, , , , 200860, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.333881401151448, , , , 27166, False, 
+##[group]Setting up auth, 0.3398989779712807, , , , 76618, False, 
+##[group]Fetching the repository, 1.4197716800834508, , , , 436003, False, 
+##[group]Checking out the ref, 0.3699868620704447, , , , 48069, False, 
+##[group]Fetching submodules, 0.3760044388902774, , , , 98393, False, 
+##[group]Persisting credentials for submodules, 0.3820220157101102, , , , 132628, False, 
+##[group]Run actions/setup-python@v2, 0.7941319155193842, , , , 174316, False, 
+##[group]Run scripts/ubuntu_install_protobuf.sh, 111.13893908749164, , , , 44355830, False, 
+##[group]Run scripts/build_core.sh, 1.4117087796080277, , , , 27995, True, ##[error]Process completed with exit code 100.
+##[group]Run scripts/bsa_check_core.sh core/build, 10.183774592436103, , , , 703262, True, ##[error]Process completed with exit code 127.

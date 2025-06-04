@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,132.95371280479142,3188390,False,
+##[group]Fetching the repository,114.10819148335372,3536428,False,
+##[group]📦 Download JReleaser,74.75506070955129,3437256,False,
+"##[group]Run echo ""☕ java -jar jreleaser-cli.jar template eval --changelog --input-file src/jreleaser/templates/wiki-release-page.md.tpl --target-directory wiki/Releases """,60.991072961298464,5178280,True,[ERROR] == JReleaser ==
+Requested labels: self-hosted,25.145561154082323,4411331,False,
+##[group]Run actions/checkout@v4,7.450820346841994,134419,False,
+##[group]Disabling automatic garbage collection,3.6896273941102686,3418,False,
+##[group]Run sh .github/scripts/update-wiki.sh,2.88662909549,569132,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref,2.8308406906528,22729,False,
+##[group]Run actions/checkout@v4__dup_7,2.8069855044456475,109061,True,##[error]Input required and not supplied: token
+##[group]Run curl -sL https://github.com/jreleaser/jreleaser/releases/download//checksums_sha256.txt --output checksums_sha256.txt,2.783130318238496,5898,False,

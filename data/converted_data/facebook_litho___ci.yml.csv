@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 4184.332167305781, , , , 305710636, False, 
+##[group]GITHUB_TOKEN Permissions, 56.1618566686553, , , , 5303257, False, 
+##[group]Run actions/checkout@v3, 3.470690789229454, , , , 168277, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 31.967620717356773, , , , 1525895, False, 
+##[group]Cleaning the repository, 2.7658729181305723, , , , 171029, False, 
+##[group]Setting up auth, 6.281255256966206, , , , 88164, False, 
+##[group]Fetching the repository, 6.070895217898356, , , , 446603, False, 
+##[group]Checking out the ref, 5.930655191853124, , , , 108796, False, 
+##[group]Run nttld/setup-ndk@v1, 988.6517811719074, , , , 103647644, False, 
+##[group]Run actions/cache@v3, 567.7407056192901, , , , 55412301, False, 
+##[group]Run actions/cache@v3__dup_11, 629.3878926849255, , , , 62203468, False, 
+##[group]Run (rm -rf buck && mkdir buck && \\, 25.65133415093521, , , , 1861588, False, 
+##[group]Run BUCK_PATH=`realpath buck/buck` ./gradlew assemble --stacktrace --no-daemon, 662.8307682408283, , , , 36475746, True, ##[error]Process completed with exit code 1.

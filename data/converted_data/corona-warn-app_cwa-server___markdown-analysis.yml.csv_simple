@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gaurav-nelson/github-action-markdown-link-check@v1,214.28874795531075,38359671,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/gaurav-nelson/github-action-markdown-link-check/v1/Dockerfile'.,25.34490948295799,9508912,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/nosborn/github-action-markdown-cli/v1.1.1/Dockerfile'.,22.228471177962252,17461321,False,
+##[group]GITHUB_TOKEN Permissions,10.579163619139614,2362322,False,
+##[group]Run nosborn/github-action-markdown-cli@v1.1.1,5.758677272554245,2737188,False,
+##[group]Fetching the repository,3.517218882476406,424304,False,
+##[group]Setting up auth,0.8200806480339388,65601,False,
+##[group]Getting Git version info,0.7963910189998737,8279,False,
+##[group]Run actions/checkout@v3,0.7727013899658087,159348,False,
+Requested labels: self-hosted,0.0128654414070192,4039144,False,

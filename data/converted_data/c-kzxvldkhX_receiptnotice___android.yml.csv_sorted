@@ -1,0 +1,8 @@
+##[group]Run ./gradlew assembleDebug, 793.5436925773269, , , , 84339002, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 72.6033896313078, , , , 17465620, False, 
+##[group]Run actions/upload-artifact@v1, 23.929573275557203, , , , 800644, True, ##[error]Path does not exist /home/power/actions-runner/_work/receiptnotice/receiptnotice/app/build/outputs/apk/debug/app-debug.apk
+##[group]GITHUB_TOKEN Permissions, 9.786602354196512, , , , 2480372, False, 
+Requested labels: self-hosted, 9.356176073951492, , , , 5418617, False, 
+##[group]Fetching the repository, 4.111792086630604, , , , 684288, False, 
+##[group]Setting up auth, 1.0908256924584023, , , , 156396, False, 
+##[group]Run actions/checkout@v2, 1.0535047828677744, , , , 190780, False, 

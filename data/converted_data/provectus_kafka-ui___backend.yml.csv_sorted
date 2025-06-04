@@ -1,0 +1,8 @@
+##[group]Installed distributions, 791.197684015665, , , , 83189969, False, 
+Requested labels: self-hosted, 65.15700186367684, , , , 4377814, False, 
+##[group]Cleaning the repository, 40.79747018675102, , , , 1580432, False, 
+##[group]Fetching the repository, 36.35355025337927, , , , 5082852, False, 
+##[group]GITHUB_TOKEN Permissions, 7.264843780063969, , , , 4289008, False, 
+##[group]Run actions/cache@v3, 6.891896777762598, , , , 1267168, False, 
+##[group]Run actions/checkout@v3, 4.087185498889282, , , , 179114, False, 
+##[group]Setting up auth, 3.027966071831054, , , , 71786, False, 

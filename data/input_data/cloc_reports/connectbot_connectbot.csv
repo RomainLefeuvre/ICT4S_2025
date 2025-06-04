@@ -1,0 +1,323 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.17 s (1873.9 files/s 691075.6 lines/s)"
+Java,/tmp/clone_directory/app/src/main/java/de/mud/terminal/vt320.java,158,350,2620
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/ConsoleActivity.java,204,101,1043
+Java,/tmp/clone_directory/app/src/main/java/de/mud/terminal/Precomposer.java,7,21,1024
+PO File,/tmp/clone_directory/app/locale/fortune/el.po,279,316,989
+PO File,/tmp/clone_directory/app/locale/fortune/es.po,279,316,985
+PO File,/tmp/clone_directory/app/locale/fortune/fr.po,279,316,982
+PO File,/tmp/clone_directory/app/locale/fortune/de.po,279,316,979
+PO File,/tmp/clone_directory/app/locale/fortune/it.po,279,316,979
+PO File,/tmp/clone_directory/app/locale/fortune/pt.po,279,316,967
+PO File,/tmp/clone_directory/app/locale/fortune/eu.po,279,316,966
+PO File,/tmp/clone_directory/app/locale/fortune/ca.po,279,316,965
+PO File,/tmp/clone_directory/app/locale/fortune/gl.po,279,316,964
+PO File,/tmp/clone_directory/app/locale/fortune/pt_BR.po,279,316,962
+PO File,/tmp/clone_directory/app/locale/fortune/cs.po,279,316,960
+PO File,/tmp/clone_directory/app/locale/fortune/ru.po,279,316,960
+PO File,/tmp/clone_directory/app/locale/fortune/vi.po,279,316,958
+PO File,/tmp/clone_directory/app/locale/fortune/nl.po,279,316,956
+PO File,/tmp/clone_directory/app/locale/fortune/pl.po,279,316,954
+PO File,/tmp/clone_directory/app/locale/fortune/en_GB.po,279,316,951
+PO File,/tmp/clone_directory/app/locale/fortune/id.po,279,316,949
+PO File,/tmp/clone_directory/app/locale/fortune/fi.po,279,316,948
+PO File,/tmp/clone_directory/app/locale/fortune/hu.po,279,316,948
+PO File,/tmp/clone_directory/app/locale/fortune/tr.po,279,316,946
+PO File,/tmp/clone_directory/app/locale/fortune/nb.po,279,316,945
+PO File,/tmp/clone_directory/app/locale/fortune/sr.po,279,316,945
+PO File,/tmp/clone_directory/app/locale/fortune/sv.po,279,316,945
+PO File,/tmp/clone_directory/app/locale/fortune/da.po,279,316,944
+PO File,/tmp/clone_directory/app/locale/fortune/sk.po,279,316,944
+PO File,/tmp/clone_directory/app/locale/fortune/mk.po,279,316,943
+PO File,/tmp/clone_directory/app/locale/fortune/he.po,279,316,940
+PO File,/tmp/clone_directory/app/locale/fortune/is.po,279,316,939
+PO File,/tmp/clone_directory/app/locale/fortune/uk.po,279,316,937
+PO File,/tmp/clone_directory/app/locale/fortune/zh_CN.po,279,316,937
+PO File,/tmp/clone_directory/app/locale/fortune/sl.po,279,316,936
+PO File,/tmp/clone_directory/app/locale/fortune/fa.po,279,316,934
+PO File,/tmp/clone_directory/app/locale/fortune/hr.po,279,316,933
+PO File,/tmp/clone_directory/app/locale/fortune/zh_TW.po,279,316,932
+PO File,/tmp/clone_directory/app/locale/fortune/ja.po,279,316,931
+PO File,/tmp/clone_directory/app/locale/fortune/ko.po,279,316,929
+PO File,/tmp/clone_directory/app/locale/fortune/ar.po,279,316,925
+PO File,/tmp/clone_directory/app/locale/fortune/be.po,279,316,921
+PO File,/tmp/clone_directory/app/locale/fortune/ro.po,279,316,921
+PO File,/tmp/clone_directory/app/locale/fortune/af.po,279,316,920
+PO File,/tmp/clone_directory/app/locale/fortune/bg.po,279,316,920
+PO File,/tmp/clone_directory/app/locale/fortune/lt.po,279,316,920
+PO File,/tmp/clone_directory/app/locale/fortune/en_CA.po,279,316,918
+PO File,/tmp/clone_directory/app/locale/fortune/ka.po,279,316,914
+PO File,/tmp/clone_directory/app/locale/fortune/lv.po,279,316,914
+PO File,/tmp/clone_directory/app/locale/fortune/ne.po,279,316,914
+PO File,/tmp/clone_directory/app/locale/fortune/ta.po,279,316,914
+PO File,/tmp/clone_directory/app/locale/fortune/th.po,279,316,914
+PO File,/tmp/clone_directory/app/locale/fortune/zh_HK.po,279,316,914
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/transport/SSH.java,172,75,745
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/HostDatabase.java,148,103,690
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/TerminalBridge.java,190,226,683
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/PubkeyListActivity.java,106,62,598
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/HostEditorFragment.java,101,66,595
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/UberColorPickerDialog.java,155,283,576
+Java,/tmp/clone_directory/app/src/main/java/de/mud/telnet/TelnetProtocolHandler.java,70,169,527
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/TerminalKeyListener.java,70,69,526
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/TerminalManager.java,129,108,504
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/TerminalView.java,107,108,496
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/HostListActivity.java,110,52,468
+XML,/tmp/clone_directory/app/src/main/res/layout/fragment_host_editor.xml,72,16,432
+Java,/tmp/clone_directory/app/src/main/java/de/mud/terminal/VDUBuffer.java,88,365,412
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/PortForwardListActivity.java,83,31,348
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/GeneratePubkeyActivity.java,90,26,338
+Java,/tmp/clone_directory/app/src/main/java/org/apache/harmony/niochar/charset/additional/IBM437.java,26,72,330
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/PubkeyUtils.java,68,33,323
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/util/PubkeyUtilsTest.java,38,27,292
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/bean/HostBean.java,48,28,291
+XML,/tmp/clone_directory/app/src/main/res/values-es/strings.xml,0,0,286
+XML,/tmp/clone_directory/app/src/main/res/values-fr/strings.xml,0,0,286
+XML,/tmp/clone_directory/app/src/main/res/values-it/strings.xml,0,0,286
+XML,/tmp/clone_directory/app/src/main/res/values-pt-rBR/strings.xml,0,0,286
+XML,/tmp/clone_directory/app/src/main/res/values/strings.xml,125,265,286
+XML,/tmp/clone_directory/app/src/main/res/values-de/strings.xml,0,0,285
+XML,/tmp/clone_directory/app/src/main/res/values-el/strings.xml,0,0,285
+XML,/tmp/clone_directory/app/src/main/res/values-en-rGB/strings.xml,0,0,285
+XML,/tmp/clone_directory/app/src/main/res/values-eu/strings.xml,0,0,285
+XML,/tmp/clone_directory/app/src/main/res/values-cs/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-gl/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-ja/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-pt/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-ru/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rCN/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rTW/strings.xml,0,0,284
+XML,/tmp/clone_directory/app/src/main/res/values-ca/strings.xml,0,0,283
+XML,/tmp/clone_directory/app/src/main/res/values-vi/strings.xml,0,0,281
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/TerminalTextViewOverlay.java,62,52,275
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/ColorsActivity.java,72,34,261
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/transport/Telnet.java,56,39,254
+XML,/tmp/clone_directory/app/src/main/res/values-pl/strings.xml,0,0,254
+XML,/tmp/clone_directory/app/src/main/res/values-fi/strings.xml,0,0,230
+XML,/tmp/clone_directory/.idea/codeStyles/Project.xml,0,0,225
+XML,/tmp/clone_directory/app/src/main/res/layout-sw500dp/act_hints.xml,24,16,221
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/EditHostActivity.java,48,35,216
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/PubkeyDatabase.java,63,37,211
+XML,/tmp/clone_directory/app/src/main/res/values-sl/strings.xml,0,0,211
+Java,/tmp/clone_directory/app/src/androidTest/java/org/connectbot/StartupTest.java,43,27,210
+XML,/tmp/clone_directory/app/src/main/res/values-in/strings.xml,0,0,210
+XML,/tmp/clone_directory/app/src/main/res/values-sr/strings.xml,0,0,210
+XML,/tmp/clone_directory/app/src/main/res/values-nb/strings.xml,0,0,209
+XML,/tmp/clone_directory/app/src/main/res/values-tr/strings.xml,0,0,206
+XML,/tmp/clone_directory/app/src/main/res/values-fa/strings.xml,0,0,204
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/mock/BeanAssertions.java,22,14,198
+XML,/tmp/clone_directory/app/src/main/res/values-iw/strings.xml,0,0,196
+XML,/tmp/clone_directory/app/src/main/res/values-nl/strings.xml,0,0,195
+XML,/tmp/clone_directory/app/src/main/res/values-ko/strings.xml,0,0,193
+XML,/tmp/clone_directory/app/src/main/res/values-hu/strings.xml,0,0,191
+XML,/tmp/clone_directory/app/src/main/res/values-sk/strings.xml,0,0,188
+Gradle,/tmp/clone_directory/app/build.gradle,42,18,186
+XML,/tmp/clone_directory/app/src/main/res/values-da/strings.xml,0,0,186
+XML,/tmp/clone_directory/app/src/main/res/values-sv/strings.xml,0,0,186
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/transport/Local.java,42,24,166
+XML,/tmp/clone_directory/app/src/main/res/layout/act_generatepubkey.xml,28,18,160
+XML,/tmp/clone_directory/app/src/main/res/xml/preferences.xml,31,18,160
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/bean/PubkeyBean.java,41,25,157
+XML,/tmp/clone_directory/app/src/main/res/values-is/strings.xml,0,0,156
+C++,/tmp/clone_directory/app/src/main/cpp/com_google_ase_Exec.cpp,29,16,155
+XML,/tmp/clone_directory/app/src/main/res/layout/act_hints.xml,24,16,149
+XML,/tmp/clone_directory/app/src/main/AndroidManifest.xml,35,16,147
+Java,/tmp/clone_directory/app/src/androidTest/java/org/connectbot/PubkeyListActivityTest.java,27,19,142
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/views/CheckableMenuItem.java,34,21,139
+XML,/tmp/clone_directory/app/src/main/res/layout/inc_keyboard.xml,27,16,138
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/bean/SelectionArea.java,36,28,137
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,21,0,129
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/EntropyView.java,31,20,128
+Java,/tmp/clone_directory/app/src/androidTest/java/org/connectbot/ConnectbotMatchers.java,17,6,117
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/HostBeanTest.java,22,20,116
+XML,/tmp/clone_directory/app/src/main/res/layout-large/act_console.xml,16,18,115
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/bean/PortForwardBean.java,34,92,114
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/ConnectionNotifier.java,31,21,108
+Bourne Shell,/tmp/clone_directory/gradlew,28,109,103
+XML,/tmp/clone_directory/app/src/main/res/values-ar/strings.xml,0,0,102
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/AppCompatPreferenceActivity.java,21,16,98
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/ConnectivityReceiver.java,31,40,97
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/Relay.java,29,20,95
+XML,/tmp/clone_directory/app/src/main/res/layout/act_console.xml,14,18,95
+XML,/tmp/clone_directory/app/src/main/res/values-mk/strings.xml,0,0,94
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/SelectionAreaTest.java,36,22,93
+XML,/tmp/clone_directory/app/src/main/res/values-uk/strings.xml,0,0,90
+XML,/tmp/clone_directory/app/src/main/res/values/arrays.xml,16,18,90
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/transport/AbsTransport.java,39,127,88
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/RobustSQLiteOpenHelper.java,24,21,88
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/Encryptor.java,31,90,84
+Markdown,/tmp/clone_directory/CHANGELOG.md,16,0,82
+XML,/tmp/clone_directory/app/src/main/res/values-hr/strings.xml,0,0,82
+XML,/tmp/clone_directory/app/src/main/res/layout/dia_portforward.xml,14,18,80
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/PromptHelper.java,26,59,74
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/transport/TransportFactory.java,18,35,74
+XML,/tmp/clone_directory/app/src/main/res/values/styles.xml,18,19,74
+XML,/tmp/clone_directory/app/src/main/res/layout/dia_changepassword.xml,12,18,73
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/Colors.java,2,20,69
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,68
+Gradle,/tmp/clone_directory/translations/build.gradle,17,17,67
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/AppCompatListActivity.java,15,24,66
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/mock/NullTransport.java,29,44,65
+XML,/tmp/clone_directory/app/src/main/res/layout/act_eula.xml,10,16,61
+Java,/tmp/clone_directory/app/src/androidTest/java/org/connectbot/ScrollToAction.java,8,16,57
+Gradle,/tmp/clone_directory/build.gradle,7,1,57
+XML,/tmp/clone_directory/app/src/main/res/layout/act_help.xml,8,18,53
+XML,/tmp/clone_directory/app/src/main/res/layout/dia_keyboard_shortcuts.xml,6,16,53
+XML,/tmp/clone_directory/app/src/main/res/layout/item_host.xml,7,16,51
+XML,/tmp/clone_directory/app/src/main/res/values-bg/strings.xml,0,0,51
+YAML,/tmp/clone_directory/.github/workflows/translations-import.yml,11,2,50
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/HelpActivity.java,11,20,50
+XML,/tmp/clone_directory/app/src/main/res/layout/item_pubkey.xml,7,18,49
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/PreferenceConstants.java,23,21,48
+XML,/tmp/clone_directory/app/src/main/res/values-ro/strings.xml,0,0,47
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,13,0,46
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/VolumePreferenceFragment.java,14,19,46
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/XmlBuilder.java,12,20,46
+XML,/tmp/clone_directory/app/src/main/res/layout/view_checkablemenuitem.xml,6,16,44
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/VolumePreference.java,15,20,42
+XML,/tmp/clone_directory/app/src/main/res/layout/act_colors.xml,6,18,42
+XML,/tmp/clone_directory/app/src/main/res/layout/act_hostlist.xml,7,20,42
+Java,/tmp/clone_directory/app/src/main/java/org/keyczar/jce/EcCore.java,17,622,40
+XML,/tmp/clone_directory/app/src/main/res/layout/volume_preference_dialog_layout.xml,6,16,40
+Markdown,/tmp/clone_directory/README.md,19,0,39
+Bourne Again Shell,/tmp/clone_directory/ci/check-lint-count.bash,13,7,39
+Gradle,/tmp/clone_directory/settings.gradle,4,0,38
+Dockerfile,/tmp/clone_directory/ci/builder/Dockerfile,8,3,37
+YAML,/tmp/clone_directory/.github/dependabot.yml,1,0,36
+XML,/tmp/clone_directory/app/src/main/res/layout/act_portforwardlist.xml,5,20,36
+Java,/tmp/clone_directory/app/src/androidTest/java/org/connectbot/EditHostActivityTest.java,8,19,33
+XML,/tmp/clone_directory/app/src/main/res/layout/dia_resize.xml,4,18,33
+XML,/tmp/clone_directory/app/src/main/res/values-af/strings.xml,0,0,33
+PO File,/tmp/clone_directory/app/locale/playstore/vi.po,2,7,32
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/HostListActivityTest.java,9,16,32
+XML,/tmp/clone_directory/config/checkstyle/checkstyle.xml,1,0,32
+PO File,/tmp/clone_directory/app/locale/playstore/de.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/el.po,2,7,31
+PO File,/tmp/clone_directory/app/locale/playstore/en_GB.po,2,7,31
+PO File,/tmp/clone_directory/app/locale/playstore/es.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/eu.po,2,7,31
+PO File,/tmp/clone_directory/app/locale/playstore/gl.po,2,7,31
+PO File,/tmp/clone_directory/app/locale/playstore/it.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/pt_BR.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/ru.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/sl.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/tr.po,2,2,31
+PO File,/tmp/clone_directory/app/locale/playstore/ar.po,2,2,30
+PO File,/tmp/clone_directory/app/locale/playstore/cs.po,2,2,30
+PO File,/tmp/clone_directory/app/locale/playstore/fr.po,2,2,30
+PO File,/tmp/clone_directory/app/locale/playstore/ja.po,2,2,29
+PO File,/tmp/clone_directory/app/locale/playstore/zh_CN.po,2,7,29
+PO File,/tmp/clone_directory/app/locale/playstore/zh_TW.po,2,2,29
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/SwitchCompatPreference.java,8,16,29
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/TerminalViewPager.java,9,23,29
+XML,/tmp/clone_directory/app/src/main/res/layout/item_portforward.xml,4,18,29
+XML,/tmp/clone_directory/app/src/main/res/values-ta/strings.xml,0,0,29
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/SettingsFragment.java,7,26,26
+PO File,/tmp/clone_directory/app/locale/playstore/af.po,2,7,25
+PO File,/tmp/clone_directory/app/locale/playstore/da.po,2,2,25
+PO File,/tmp/clone_directory/app/locale/playstore/pt_PT.po,2,7,25
+PO File,/tmp/clone_directory/app/locale/playstore/uk.po,2,2,25
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/BackupAgent.java,8,21,25
+XML,/tmp/clone_directory/translations/translations.iml,0,0,25
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,10,7,24
+XML,/tmp/clone_directory/app/src/main/res/layout/dia_gatherentropy.xml,3,18,24
+Java,/tmp/clone_directory/app/src/google/java/org/connectbot/util/ProviderLoader.java,9,19,23
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/EntropyDialog.java,12,16,23
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/data/HostStorage.java,17,60,22
+XML,/tmp/clone_directory/connectbot.iml,0,0,22
+XML,/tmp/clone_directory/app/src/main/res/values-v11/styles.xml,4,18,21
+YAML,/tmp/clone_directory/.github/workflows/export-po-files.yml,2,0,20
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/bean/AbstractBean.java,9,20,20
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_launcher_foreground.xml,0,0,20
+XML,/tmp/clone_directory/app/src/main/res/layout/act_pubkeylist.xml,3,18,20
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/Version.java,5,16,19
+C/C++ Header,/tmp/clone_directory/app/src/main/cpp/com_google_ase_Exec.h,5,22,18
+XML,/tmp/clone_directory/app/src/main/res/values-th/strings.xml,0,0,18
+Java,/tmp/clone_directory/app/src/androidTest/java/org/connectbot/ConnectbotJUnitRunner.java,5,16,16
+XML,/tmp/clone_directory/app/src/main/res/layout/dia_password.xml,4,18,16
+XML,/tmp/clone_directory/app/src/main/res/layout/item_terminal.xml,3,18,16
+XML,/tmp/clone_directory/app/src/main/res/menu/pubkey_list_activity_menu.xml,4,16,16
+YAML,/tmp/clone_directory/.github/workflows/gradle-wrapper-validation.yml,2,0,15
+Java,/tmp/clone_directory/app/src/main/java/com/google/ase/Exec.java,7,47,15
+Java,/tmp/clone_directory/app/src/main/java/de/mud/terminal/VDUInput.java,12,73,15
+Java,/tmp/clone_directory/app/src/oss/java/org/connectbot/util/ProviderLoader.java,5,19,14
+XML,/tmp/clone_directory/app/src/main/res/layout/switch_compat_preference_layout.xml,1,16,13
+XML,/tmp/clone_directory/app/src/main/res/values/colors.xml,3,16,13
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/EulaActivity.java,6,16,12
+XML,/tmp/clone_directory/app/src/main/res/drawable/connected.xml,4,18,12
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_launcher_monochrome.xml,0,0,12
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,8,5,11
+XML,/tmp/clone_directory/app/src/main/res/drawable/keyboard_button_border.xml,0,16,11
+XML,/tmp/clone_directory/app/src/main/res/drawable/keyboard_keyboard_border.xml,0,16,11
+XML,/tmp/clone_directory/app/src/main/res/menu/edit_host_activity_add_menu.xml,3,16,11
+XML,/tmp/clone_directory/app/src/main/res/menu/edit_host_activity_edit_menu.xml,3,16,11
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/HintsActivity.java,4,16,10
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/SettingsActivity.java,3,16,10
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_settings.xml,2,16,10
+XML,/tmp/clone_directory/config/checkstyle/suppressions.xml,1,16,10
+Gradle,/tmp/clone_directory/config/quality.gradle,4,1,10
+Gradle,/tmp/clone_directory/spotless.gradle,2,0,10
+Java,/tmp/clone_directory/app/src/main/java/de/mud/terminal/VDUDisplay.java,4,27,9
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/annotation/KeepForTesting.java,2,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_add_box.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_android.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_code.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_folder_open.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_format_size.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard_arrow_down.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard_arrow_left.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard_arrow_right.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard_arrow_up.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard_hide.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_keyboard_tab.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_laptop.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_launcher_background.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_palette.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_person.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_sync.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_sync_disabled.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_vpn_key.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_vpn_lock.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_zip.xml,0,0,9
+XML,/tmp/clone_directory/app/src/main/res/drawable/pubkey.xml,3,18,9
+XML,/tmp/clone_directory/app/src/main/res/values/dimens.xml,1,16,9
+XML,/tmp/clone_directory/app/src/main/res/anim/fade_out_delayed.xml,1,18,8
+XML,/tmp/clone_directory/app/src/main/res/drawable/keyboard_button_selector.xml,0,18,8
+XML,/tmp/clone_directory/app/src/main/res/values-en-rCA/strings.xml,0,0,8
+XML,/tmp/clone_directory/app/src/main/res/values-ka/strings.xml,0,0,8
+XML,/tmp/clone_directory/app/src/main/res/values/attrs.xml,1,16,8
+Java,/tmp/clone_directory/app/src/test/java/org/connectbot/mock/NullOutputStream.java,4,21,8
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/support-question.md,2,1,7
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/data/ColorStorage.java,5,19,7
+Java,/tmp/clone_directory/app/src/main/java/org/openintents/intents/FileManagerIntents.java,9,50,7
+XML,/tmp/clone_directory/app/src/main/res/color/blue.xml,1,18,7
+XML,/tmp/clone_directory/app/src/main/res/color/green.xml,1,18,7
+XML,/tmp/clone_directory/app/src/main/res/color/red.xml,1,18,7
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_edit_host.xml,1,16,7
+XML,/tmp/clone_directory/app/src/main/res/values-lt/strings.xml,0,0,7
+Properties,/tmp/clone_directory/gradle.properties,0,0,7
+Text,/tmp/clone_directory/plugins.txt,0,0,7
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/OnKeyGeneratedListener.java,4,19,6
+XML,/tmp/clone_directory/app/src/main/res/anim/keyboard_fade_in.xml,1,18,6
+XML,/tmp/clone_directory/app/src/main/res/anim/keyboard_fade_out.xml,1,18,6
+XML,/tmp/clone_directory/app/src/main/res/mipmap-anydpi-v26/icon.xml,0,0,6
+XML,/tmp/clone_directory/.idea/codeStyles/codeStyleConfig.xml,0,0,5
+CMake,/tmp/clone_directory/app/CMakeLists.txt,2,0,5
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/ProviderLoaderListener.java,3,19,5
+XML,/tmp/clone_directory/app/src/main/res/mipmap-anydpi-v26/icon_round.xml,0,0,5
+XML,/tmp/clone_directory/app/src/main/res/values-be/strings.xml,0,0,5
+XML,/tmp/clone_directory/app/src/main/res/values-lv/strings.xml,0,0,5
+XML,/tmp/clone_directory/app/src/main/res/values/notrans.xml,1,18,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/app/lint.xml,0,0,4
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/BridgeDisconnectedListener.java,2,16,4
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/FontSizeChangedListener.java,3,24,4
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/service/OnHostStatusChangedListener.java,2,20,4
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/OnDbWrittenListener.java,2,20,4
+Java,/tmp/clone_directory/app/src/main/java/org/connectbot/util/OnEntropyGatheredListener.java,2,16,4
+XML,/tmp/clone_directory/app/src/main/res/values/viewpager.xml,1,18,4
+YAML,/tmp/clone_directory/.linthub.yml,0,0,3
+YAML,/tmp/clone_directory/.stickler.yml,0,0,3
+Java,/tmp/clone_directory/app/src/test/java/android/net/http/AndroidHttpClient.java,2,20,3
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rHK/strings.xml,0,0,2
+SUM,,18024,21831,78529

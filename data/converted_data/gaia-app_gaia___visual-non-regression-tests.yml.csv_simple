@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,65.89496076711987,18019607,False,
+##[group]GITHUB_TOKEN Permissions,19.635879395333628,7309800,False,
+##[group]Run percy/exec-action@v0.3.1,4.079506294634374,6842360,True,##[error]The process '/usr/bin/npx' failed with exit code 1
+##[group]==END_FILE==,3.219171761380667,5171543,False,
+##[group]Installed distributions,1.595186721103976,190372,False,
+##[group]Run actions/checkout@v2,0.7269199006619674,189009,False,
+##[group]Initializing the repository,0.384102882495324,44829,False,

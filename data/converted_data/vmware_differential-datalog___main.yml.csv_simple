@@ -1,0 +1,31 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,333.1055643893394,48121416,False,
+Requested labels: self-hosted__dup_2,333.1055643893394,48121416,False,
+Requested labels: self-hosted__dup_3,333.1055643893394,48121416,False,
+##[group]GITHUB_TOKEN Permissions,58.25812104964721,1986984,False,
+##[group]GITHUB_TOKEN Permissions__dup_5,58.25812104964721,1986984,False,
+##[group]GITHUB_TOKEN Permissions__dup_6,58.25812104964721,1986984,False,
+##[group]Run ./tools/install-flatbuf.sh,32.45452390078555,6322784,True,##[error]Process completed with exit code 127.
+##[group]Run ./tools/install-flatbuf.sh__dup_26,32.45452390078555,6322784,True,##[error]Process completed with exit code 127.
+##[group]Run ./tools/install-flatbuf.sh__dup_27,32.45452390078555,6322784,True,##[error]Process completed with exit code 127.
+##[group]Removing previously created refs_ to avoid conflicts,30.055787605151146,718408,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_11,30.055787605151146,718408,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_12,30.055787605151146,718408,False,
+##[group]Fetching the repository,23.273518315381533,424065,False,
+##[group]Fetching the repository__dup_20,23.273518315381533,424065,False,
+##[group]Fetching the repository__dup_21,23.273518315381533,424065,False,
+##[group]Run actions/checkout@v2,7.937532392116131,170172,False,
+##[group]Run actions/checkout@v2__dup_8,7.937532392116131,170172,False,
+##[group]Run actions/checkout@v2__dup_9,7.937532392116131,170172,False,
+##[group]Setting up auth,4.654703663076306,65636,False,
+##[group]Setting up auth__dup_17,4.654703663076306,65636,False,
+##[group]Setting up auth__dup_18,4.654703663076306,65636,False,
+##[group]Cleaning the repository,4.5824997191796495,50403,False,
+##[group]Cleaning the repository__dup_14,4.5824997191796495,50403,False,
+##[group]Cleaning the repository__dup_15,4.5824997191796495,50403,False,
+"##[group]Run echo ""${PATH}""",2.8922228423618472,14926,False,
+"##[group]Run echo ""${PATH}""__dup_23",2.8922228423618472,14926,False,
+"##[group]Run echo ""${PATH}""__dup_24",2.8922228423618472,14926,False,
+##[group]Run stack --no-terminal install,2.487678477057727,364577,True,##[error]Process completed with exit code 127.
+##[group]Run stack --no-terminal install__dup_29,2.487678477057727,364577,True,##[error]Process completed with exit code 127.
+##[group]Run stack --no-terminal install__dup_30,2.487678477057727,364577,True,##[error]Process completed with exit code 127.

@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0163966765718135, , , , 4082067, False, 
+##[group]GITHUB_TOKEN Permissions, 25.6208454020978, , , , 1292876, False, 
+##[group]Run actions/checkout@v3, 2.582472480848054, , , , 174126, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.650432282975633, , , , 17388, False, 
+##[group]Setting up auth, 2.718392085103214, , , , 66281, False, 
+##[group]Fetching the repository, 11.55316636168866, , , , 425544, False, 
+##[group]Run curl https://raw.githubusercontent.com/praiskup/copr-ci-tooling/main/copr-gh-actions-submit > submit, 23.31021212976006, , , , 696537, True, ##[error]Process completed with exit code 1.

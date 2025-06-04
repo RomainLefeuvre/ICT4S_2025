@@ -1,0 +1,13 @@
+##[group]==END_FILE==, 698.2699657228659, , , , 15953260, False, 
+##[group]GITHUB_TOKEN Permissions, 161.18332299327994, , , , 2423308, False, 
+##[group]Change detection in last commit, 62.62358856467587, , , , 1911645, False, 
+##[group]Filter codechange = true, 19.320065619418084, , , , 1087111, True, ##[error]Process completed with exit code 127.
+Requested labels: self-hosted, 9.572755683054464, , , , 2658375, False, 
+##[group]GITHUB_TOKEN Permissions__dup_6, 29.03882784839458, , , , 1312084, False, 
+##[group]Run actions/checkout@v4, 6.925357161608372, , , , 224163, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 21.42871811393615, , , , 411678, False, 
+##[group]Cleaning the repository, 96.37882839010165, , , , 6694711, False, 
+##[group]Setting up auth, 15.679794024580568, , , , 98773, False, 
+##[group]Fetching the repository, 22.08406003780779, , , , 1431986, False, 
+##[group]Checking out the ref, 3.6064374947461504, , , , 73715, False, 
+##[group]Run presto-ui/bin/check_webui.sh, 63.62547435880055, , , , 540865, True, ##[error]Process completed with exit code 127.

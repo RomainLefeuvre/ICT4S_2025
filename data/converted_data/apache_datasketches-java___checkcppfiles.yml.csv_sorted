@@ -1,0 +1,16 @@
+Requested labels: self-hosted, 404.0883052641939, , , , 5412301, False, 
+##[group]Run mvn test -P check-cpp-files, 360.7031348391313, , , , 39680306, True, [ERROR[m] Tests run: 27[m, Failures: 27[m, Errors: 0, Skipped: 0, Time elapsed: 1.843 s <<< FAILURE![m -- in TestSuite[m
+##[group]Fetching the repository, 122.38420927838877, , , , 1386071, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 86.57240559079712, , , , 861542, False, 
+##[group]Fetching the repository__dup_12, 68.055671492115, , , , 949141, False, 
+##[group]GITHUB_TOKEN Permissions, 53.54187914809445, , , , 3122574, False, 
+##[group]Determining the default branch, 31.820282383965274, , , , 392571, False, 
+##[group]Cleaning the repository, 18.572678121204905, , , , 201176, False, 
+##[group]Run actions/checkout@v3, 9.921717191439583, , , , 165544, False, 
+##[group]Setting up auth, 9.195570756197148, , , , 70216, False, 
+##[group]Run actions/checkout@v3__dup_8, 8.227375509207233, , , , 122749, False, 
+##[group]Initializing the repository, 8.166863306270365, , , , 57201, False, 
+##[group]Setting up auth__dup_10, 8.106351103333495, , , , 68114, False, 
+##[group]Checking out the ref, 7.259180262217317, , , , 96619, False, 
+##[group]Run cd cpp && cmake --build build --config Release, 7.138155856343578, , , , 15540, True, ##[error]Process completed with exit code 127.
+##[group]Run cp cpp/build/*/test/*_cpp.sk serialization_test_data/cpp_generated_files, 7.017131450469838, , , , 22947, True, ##[error]Process completed with exit code 1.

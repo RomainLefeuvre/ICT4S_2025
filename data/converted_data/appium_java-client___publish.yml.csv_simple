@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,25.61272594469222,2243592,False,
+##[group]Installed distributions,18.971644353507063,1193838,False,
+##[group]Run ./gradlew publish,14.04196206395722,870816,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-all/aan3ydargesu18aqyqjwhr3pc/gradle-8.7-all.zip.lck"
+##[group]Fetching the repository,5.626781870359436,425900,False,
+##[group]==END_FILE==,3.1395767445731666,4993338,False,
+##[group]Run actions/checkout@v4,2.654959212268448,150284,False,
+##[group]Setting up auth,1.3670875368620414,74810,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.3512443645709142,107611,False,

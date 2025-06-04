@@ -1,0 +1,27 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew zipAll,2218.788492975332,115892145,True,##[error]Process completed with exit code 1.
+##[group]Run echo 'org.gradle.caching=true' >> ~/.gradle/gradle.properties,1190.3222379156216,89026050,True,##[error]Process completed with exit code 1.
+##[group]Caching Gradle state,527.0089035875246,54015426,False,
+##[group]Fetching submodules,190.65696454820505,15257392,False,
+##[group]ccache stats,25.01803984900305,1405894,False,
+##[group]Restore cache,7.633010367607888,483498,False,
+##[group]Run actions/upload-artifact@v3__dup_21,6.136586945468279,94575,False,
+##[group]Configure ccache_ linux,3.0343934302293007,156018,False,
+##[group]Fetching the repository,2.8745365140653547,786213,False,
+##[group]Fetching the repository__dup_12,1.6027467575248249,673211,False,
+##[group]Run actions/upload-artifact@v3,1.5161862328229063,168952,False,
+"##[group]Run riruReleaseName=`ls magisk-loader/release/LSPosed-v*-riru-release.zip | awk -F '(/|.zip)' '{print $3}'` && echo ""riruReleaseName=$riruReleaseName"" >> $GITHUB_OUTPUT",1.444344218646253,449949,True,##[error]Process completed with exit code 9.
+##[group]Run actions/upload-artifact@v3__dup_24,1.385452047294767,83573,False,
+##[group]Persisting credentials for submodules,1.3572795679629857,313882,False,
+##[group]Run actions/upload-artifact@v3__dup_23,1.3327404945610632,86771,False,
+##[group]Run actions/upload-artifact@v3__dup_22,1.2800289418273596,83572,False,
+##[group]Determining the default branch,1.2008556778574382,312780,False,
+##[group]Run actions/upload-artifact@v3__dup_20,1.0396276800207749,95825,False,
+##[group]Restore Gradle state from cache,0.8697044477273501,1482545,False,
+##[group]Determining the default branch__dup_11,0.7986228175860303,347324,False,
+##[group]Checking out the ref,0.6441465617994112,237631,False,
+##[group]Setting up auth__dup_10,0.5696589950824839,133735,False,
+##[group]Run actions/checkout@v3,0.4300802526392503,124505,False,
+##[group]Getting Git version info,0.4226314959675575,15136,False,
+##[group]Setting up auth,0.4151827392958648,113260,False,
+##[group]Run actions/checkout@v3__dup_9,0.3034513892204738,126313,False,

@@ -1,0 +1,12 @@
+##[group]Run gradle/gradle-build-action@v2, 1434.859925081299, , , , 96104444, True, ##[error]Gradle build failed: see console output for details
+##[group]Caching Gradle state, 200.51598623838976, , , , 18616803, False, 
+##[group]Run ./gradlew publish -PmavenCentralUsername="" -PmavenCentralPassword="", 38.209046667968536, , , , 1771503, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v3, 7.021791078883303, , , , 565798, False, 
+##[group]GITHUB_TOKEN Permissions, 1.9379107427126456, , , , 5984790, False, 
+##[group]Run actions/checkout@v1, 1.2164943552867975, , , , 2121474, False, 
+##[group]Install Android SDK, 1.1784956000936349, , , , 18184, False, 
+##[group]Terminate Emulator, 0.8838284526488667, , , , 1314, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Run gradle/wrapper-validation-action@v1, 0.8205514207972804, , , , 1205202, False, 
+##[group]Run actions/setup-java@v2, 0.4425244561941665, , , , 604949, False, 
+##[group]Restore Gradle state from cache, 0.4359552672358185, , , , 1291980, False, 
+Requested labels: self-hosted, 0.0, , , , 5062164, False, 

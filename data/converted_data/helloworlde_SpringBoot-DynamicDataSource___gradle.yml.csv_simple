@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew clean build -x test,661.8741746877945,83833887,False,
+##[group]Run actions/setup-java@v1,68.39387952837656,17246386,False,
+Requested labels: self-hosted,17.52423864629793,6045185,False,
+##[group]GITHUB_TOKEN Permissions,14.152180765677429,1921674,False,
+##[group]Run actions/checkout@v1,7.617666163579677,1342819,False,

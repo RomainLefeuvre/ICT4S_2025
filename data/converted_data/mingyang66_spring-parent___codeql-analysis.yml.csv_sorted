@@ -1,0 +1,20 @@
+##[group]Attempting to automatically build java code, 968.3089895679304, , , , 86176406, True, [2024-03-20 15:03:35] [autobuild] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project oceansky-logger: Fatal error compiling: error: invalid target release: 17 -> [Help 1]
+[2024-03-20 15:03:02] [autobuild] [INFO] --- maven-javadoc-plugin:3.5.0:jar (attach-javadocs) @ emily-sdk ---, 282.48915293269937, , , , 25316116, False, 
+[2024-03-20 15:03:27] [autobuild] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ oceansky-logger ---, 63.37359674516214, , , , 5945099, False, 
+##[group]Finalizing java, 55.06370777571493, , , , 3875924, True, ##[error]No code found during the build. Please see:
+##[group]Load language configuration, 45.21761653362317, , , , 3319407, False, 
+##[group]Fetching the repository, 44.85564055999976, , , , 7004847, False, 
+[2024-03-20 15:02:58] [autobuild] [INFO] --- maven-source-plugin:3.3.0:jar-no-fork (attach-sources) @ emily-sdk ---, 44.02951585467059, , , , 3858640, False, 
+##[group]GITHUB_TOKEN Permissions, 38.98319520455526, , , , 10897113, False, 
+##[group]Waiting for processing to finish, 34.26972583288276, , , , 6211067, False, 
+##[group]Run github/codeql-action/autobuild@v1, 17.704487073123317, , , , 1101383, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+[2024-03-20 15:02:57] [autobuild] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ emily-sdk ---, 16.062745638417056, , , , 904870, False, 
+##[group]Run github/codeql-action/analyze@v1, 12.64000529011858, , , , 1270554, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Uploading results, 12.467776314284864, , , , 448662, False, 
+##[group]Setup CodeQL tools, 11.008087183468588, , , , 2667660, False, 
+##[group]Augmented user configuration file contents, 10.99879498653055, , , , 2630507, False, 
+##[group]Run actions/checkout@v2, 9.919968068862271, , , , 201005, False, 
+Requested labels: self-hosted, 9.3581767566855, , , , 5657691, False, 
+##[group]Run github/codeql-action/init@v1, 5.611959571274612, , , , 374624, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Setting up auth, 4.650610436507525, , , , 58906, False, 
+##[group]Checking out the ref, 2.8949981988999265, , , , 277784, False, 

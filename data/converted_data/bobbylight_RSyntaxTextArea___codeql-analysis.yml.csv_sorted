@@ -1,0 +1,16 @@
+##[group]GITHUB_TOKEN Permissions, 159.0888988387606, , , , 12963036, False, 
+##[group]Finalizing java, 90.65390585284791, , , , 4750265, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.16.5/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.
+Requested labels: self-hosted, 53.24153395547458, , , , 5570133, False, 
+##[group]Run hankolsen/xvfb-action@master, 46.80763546302564, , , , 5185424, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.2.1-bin/5hap6b9n41hkg4jeh2au2pllh/gradle-8.2.1-bin.zip.lck
+##[group]Fetching the repository, 40.14700321310918, , , , 1179618, False, 
+##[group]Setup CodeQL tools, 36.666106911846256, , , , 1390570, False, 
+##[group]Run github/codeql-action/analyze@v2, 36.0040222733574, , , , 1476319, False, 
+##[group]Augmented user configuration file contents, 29.082774994660166, , , , 3423610, False, 
+##[group]Load language configuration, 27.799848652862146, , , , 959217, False, 
+##[group]Run github/codeql-action/init@v2, 15.71753490239765, , , , 362248, False, 
+##[group]Waiting for processing to finish, 15.53706127953945, , , , 6405812, False, 
+##[group]Uploading results, 10.249767965535154, , , , 392804, False, 
+##[group]Run actions/checkout@v3, 6.963867736730651, , , , 155476, False, 
+##[group]Validating workflow, 5.592326790984967, , , , 1524012, False, 
+##[group]Checking out the ref, 3.783962521998334, , , , 93028, False, 
+##[group]Setting up auth, 3.515492607657882, , , , 60255, False, 

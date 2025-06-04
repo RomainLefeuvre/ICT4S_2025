@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,100.68849510502552,3921598,False,
+##[group]GITHUB_TOKEN Permissions,57.60445526018638,1484586,False,
+##[group]Run wow-actions/potential-duplicates@4d4ea0352e0383859279938e255179dd1dbb67b5,9.4124609087794,178095,False,

@@ -1,0 +1,11 @@
+##[group]GITHUB_TOKEN Permissions, 117.51700898125078, , , , 2737672, False, 
+##[group]Run echo "Cleaning up previous run", 63.555808990074574, , , , 528175, False, 
+##[group]Run curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64, 27.057785129420296, , , , 7348751, False, 
+##[group]Run actions/checkout@v3, 0.419256683105245, , , , 130862, False, 
+##[group]Getting Git version info, 32.92233737604572, , , , 9069652, False, 
+##[group]Run actions/checkout@v4, 0.9463032578574614, , , , 147907, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Getting Git version info__dup_7, 0.9092273968890806, , , , 28694, False, 
+##[group]Setting up auth, 0.8721515359206998, , , , 69332, False, 
+##[group]Fetching the repository, 20.750096987596372, , , , 3487222, False, 
+##[group]Checking out the ref, 6.653542943916079, , , , 387208, False, 
+##[group]Run ./kubernetes/kserve/tests/scripts/test_mnist.sh, 13.537335088335736, , , , 883724, True, ##[error]Process completed with exit code 127.

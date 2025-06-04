@@ -1,0 +1,12 @@
+##[group]Run actions/cache@v3, 200.6757211569761, , , , 29593569, False, 
+##[group]GITHUB_TOKEN Permissions, 91.78709793091386, , , , 7736587, False, 
+##[group]Run JamesIves/github-pages-deploy-action@v4, 82.60476922397304, , , , 11751514, True, ##[error]Process completed with exit code 1.
+##[group]Run oven-sh/setup-bun@v1, 66.77790300749133, , , , 8367444, False, 
+##[group]Cleaning the repository, 12.83801629125638, , , , 517874, False, 
+##[group]Fetching the repository, 11.61874959472091, , , , 441794, False, 
+##[group]Run actions/cache@v3__dup_10, 10.23874224243858, , , , 574908, False, 
+##[group]Checking out the ref, 6.483543078218359, , , , 289186, False, 
+##[group]Run actions/checkout@v3, 5.500986525463193, , , , 157501, False, 
+##[group]Setting up auth, 2.445676588597729, , , , 155754, False, 
+##[group]Run bun --cwd docs build, 2.0709959941684506, , , , 156317, False, 
+##[group]==END_FILE==, 0.0, , , , 4704830, False, 

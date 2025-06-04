@@ -1,0 +1,5 @@
+##[group]Run actions/setup-java@v1, 105.0785204809398, , , , 19786250, False, 
+##[group]Run actions/checkout@v1, 52.524420729453325, , , , 1587439, False, 
+##[group]GITHUB_TOKEN Permissions, 35.51651306467795, , , , 1618588, False, 
+##[group]Run ./gradlew build, 2.9085707899020914, , , , 276622, True, ##[error]Process completed with exit code 126.
+Requested labels: self-hosted, 0.0961685733009355, , , , 6334453, False, 

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,248.15836776636917,3654948,False,
+##[group]Fetching the repository,95.46166658781236,41341100,True,##[error]The process '/usr/bin/git' failed with exit code 1
+Requested labels: self-hosted,21.016314276270585,4518145,False,
+##[group]Disabling automatic garbage collection,8.610311775290251,3696,False,
+##[group]Run actions/checkout@v4,8.530450204044671,134805,False,
+##[group]Run actions/upload-artifact@v4,4.769966698128148,784761,False,
+##[group]Installed distributions,1.282800170677243,299127,False,

@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 92.35065626950492, , , , 5211738, False, 
+##[group]GITHUB_TOKEN Permissions, 6.79849824142194, , , , 2398597, False, 
+##[group]Fetching the repository, 1.006570546128713, , , , 429383, False, 
+##[group]Run ./gradlew githubRelease, 0.842231905481896, , , , 599287, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Run ./gradlew publishEmbeddedPublicationToSonatypeRepository closeAndReleaseSonatypeStagingRepository, 0.3311788305453529, , , , 208602, False, 
+##[group]Run ./gradlew pushReleaseToDockerHub, 0.314367209861557, , , , 181371, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 0.2223286350804875, , , , 134089, False, 
+##[group]Getting Git version info, 0.2181257299095385, , , , 7539, False, 
+##[group]Installed distributions, 0.1760966782000488, , , , 27231, False, 

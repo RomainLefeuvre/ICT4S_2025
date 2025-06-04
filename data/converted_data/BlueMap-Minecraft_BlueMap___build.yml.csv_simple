@@ -1,0 +1,27 @@
+name,energy,seconds,has_error,error_msg
+##[group]Buildx version__dup_24,146.78566670969602,54554625,True,##[error]buildx failed with: ERROR: failed to solve: lstat /tmp/buildkit-mount2911265528/build/release: no such file or directory
+Requested labels: self-hosted,90.60502188073391,4482697,False,
+##[group]GITHUB_TOKEN Permissions__dup_12,47.81940835227782,4620406,False,
+##[group]Fetching the repository__dup_15,40.765164232777146,14441124,False,
+##[group]Booting builder,19.029144313057216,8556338,False,
+##[group]Removing builder,8.26433689678947,3704074,False,
+##[group]Run docker/login-action@v2,5.0090855608113,951125,False,
+Requested labels: self-hosted__dup_11,4.862311070448854,4654329,False,
+##[group]GITHUB_TOKEN Permissions,3.851061951994109,2705534,False,
+##[group]Docker info,3.2457180175545832,544036,False,
+##[group]Run actions/download-artifact@v3,2.3543761047382743,501651,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/checkout@v3__dup_13,2.310671336985405,169774,False,
+##[group]Creating a new builder instance,2.27593646286803,385878,False,
+##[group]Installed distributions,2.1741731140387164,761501,False,
+##[group]Cleaning up certificates,1.5576201118238755,452759,False,
+##[group]Run actions/upload-artifact@v2,1.522692163200874,558308,False,
+##[group]Setting up auth,1.1634475183886717,72438,False,
+##[group]Fetching the repository,1.1179258919702617,456312,False,
+##[group]Buildx version,0.558973004005849,77260,False,
+##[group]Fetching submodules,0.4741547748701455,104779,False,
+##[group]Persisting credentials for submodules__dup_17,0.4548574422098013,136249,False,
+##[group]Fetching submodules__dup_16,0.4508529975253379,111782,False,
+##[group]Run actions/checkout@v3,0.4124761049683381,171317,False,
+##[group]Run ./gradlew clean spotlessCheck test build,0.2891187651647229,151095,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3-bin.zip.lck"
+##[group]Run actions/setup-java@v3,0.2467146796072302,547,False,
+##[group]Persisting credentials for submodules,0.2428597627383672,134936,False,

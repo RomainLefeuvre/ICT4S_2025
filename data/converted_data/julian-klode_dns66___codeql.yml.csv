@@ -1,0 +1,16 @@
+Requested labels: self-hosted, 0.0648089699379165, , , , 6025773, False, 
+##[group]GITHUB_TOKEN Permissions, 54.66221399010954, , , , 11585871, False, 
+##[group]Run actions/checkout@v3, 1.1970990628809592, , , , 180478, False, 
+##[group]Setting up auth, 1.1946665551221332, , , , 56707, False, 
+##[group]Fetching the repository, 7.116916667797455, , , , 570015, False, 
+##[group]Run github/codeql-action/init@v2, 4.6862309256531445, , , , 389879, False, 
+##[group]Setup CodeQL tools, 86.73794702155678, , , , 3698517, False, 
+##[group]Validating workflow, 20.726481288854767, , , , 2726381, False, 
+##[group]Load language configuration, 29.572797517614955, , , , 1027576, False, 
+##[group]Augmented user configuration file contents, 18.517320613468705, , , , 5336555, False, 
+##[group]Run github/codeql-action/autobuild@v2, 9.41387188397546, , , , 1642054, False, 
+##[group]Attempting to automatically build java code, 332.7431201040329, , , , 35219048, True, [2024-04-20 12:16:03] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir/init.gradle, assemble])
+##[group]Run github/codeql-action/analyze@v2, 14.997196997265346, , , , 1499145, False, 
+##[group]Finalizing java, 100.83410163725836, , , , 5436872, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.17.0/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.
+##[group]Uploading results, 4.899847240634179, , , , 469155, False, 
+##[group]Waiting for processing to finish, 33.09417333470301, , , , 6558299, False, 

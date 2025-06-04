@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 43.203527382550845, , , , 5305951, False, 
+##[group]GITHUB_TOKEN Permissions, 35.65444462663706, , , , 1486669, False, 
+##[group]Run actions/checkout@v4, 6.3618714922038695, , , , 155850, True, ##[error]Process completed with exit code 1.
+##[group]Cleaning the repository, 10.067137306344586, , , , 246909, False, 
+##[group]Setting up auth, 3.495533786925203, , , , 65951, False, 
+##[group]Fetching the repository, 127.6510150789221, , , , 14020513, False, 
+##[group]Run commit=$(gh pr view $NUMBER --json mergeCommit --jq .mergeCommit.oid), 13.103825877855394, , , , 1792325, True, ##[error]Process completed with exit code 4.

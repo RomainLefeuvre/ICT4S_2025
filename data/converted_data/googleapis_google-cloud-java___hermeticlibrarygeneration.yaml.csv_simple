@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,2903.987676639452,237045168,False,
+##[group]Removing previously created refs_ to avoid conflicts,85.37335295327946,30147421,False,
+##[group]GITHUB_TOKEN Permissions,28.07660633799309,1434210,False,
+##[group]Run set -x,8.50568437170377,449201,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref,8.038152043118924,357759,False,
+##[group]Run actions/checkout@v4,4.969882041437858,165209,False,
+##[group]Cleaning the repository,4.454375072965853,1278363,False,
+##[group]Determining the checkout info,4.430277536811432,222714,False,
+##[group]Setting up auth,0.3082581869356631,130410,False,
+##[group]==END_FILE==,0.0,4424888,False,

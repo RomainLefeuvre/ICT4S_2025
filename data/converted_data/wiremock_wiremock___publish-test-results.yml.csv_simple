@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Pull down action image 'ghcr.io/enricomi/publish-unit-test-result-action:v1.40',131.88247664801668,30332187,False,
+##[group]Run EnricoMi/publish-unit-test-result-action@v1,47.36101854753114,25477431,False,
+##[group]Run mkdir -p artifacts && cd artifacts,19.510637217766835,4565494,False,

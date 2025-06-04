@@ -1,0 +1,12 @@
+##[group]Run (cd tools/cldr-apps/js && npm run build), 2069.5802985965192, , , , 99431043, False, 
+##[group]Run (cd tools/cldr-apps/js && npm t), 164.71956590321224, , , , 15369923, True, ##[error]Process completed with exit code 1.
+##[group]Run (cd tools/cldr-apps/js && npm ci), 144.76857469216284, , , , 21569117, False, 
+##[group]GITHUB_TOKEN Permissions, 108.59134065885348, , , , 2848180, False, 
+##[group]Run actions/cache@v3__dup_9, 54.96930496759073, , , , 578522, False, 
+##[group]Run actions/cache@v3, 50.86008045305639, , , , 587226, False, 
+##[group]Run nodenv/actions/node-version@v3, 46.66665160875153, , , , 774870, False, 
+##[group]Fetching the repository, 29.90896881556772, , , , 485176, False, 
+##[group]Setting up auth, 5.688277726361089, , , , 62409, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.590439047443604, , , , 29045, False, 
+##[group]Run actions/checkout@v4, 5.492600368526119, , , , 144700, False, 
+Requested labels: self-hosted, 0.0681717457349284, , , , 4640451, False, 

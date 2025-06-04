@@ -1,0 +1,11 @@
+##[group]Run ./mvnw verify -pl '!p2-repository_!org.eclipse.collections:org.eclipse.collections' --no-transfer-progress, 3250.9641652066744, , , , 418018350, True, 03:47:40:767 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.12.1:compile (default-compile) on project eclipse-collections-code-generator: Fatal error compiling: Error while executing the external compiler. Error while executing process. Cannot run program "javac" (in directory "/home/power/actions-runner/_work/eclipse-collections/eclipse-collections/eclipse-collections-code-generator"): error=2, Aucun fichier ou dossier de ce nom -> [Help 1]
+##[group]Run mvn -N wrapper:wrapper -Dmaven=3.6.3 --no-transfer-progress, 87.79101658548956, , , , 15497449, False, 
+03:47:33:549 [INFO] --- maven-dependency-plugin:3.1.2:analyze-only (analyze) @ eclipse-collections-parent ---, 57.04088117578414, , , , 5422520, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 36.7925508113676, , , , 2606575, False, 
+##[group]GITHUB_TOKEN Permissions, 19.605828537213497, , , , 3055296, False, 
+03:47:32:876 [INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce) @ eclipse-collections-parent ---, 18.213079714312286, , , , 671725, False, 
+03:47:38:979 [INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ eclipse-collections-code-generator ---, 16.799916733518504, , , , 797413, False, 
+##[group]Fetching the repository, 14.498826426310304, , , , 1365923, False, 
+##[group]Checking out the ref, 3.510075754243062, , , , 253045, False, 
+##[group]Run actions/checkout@v4, 1.8182824853060904, , , , 156307, False, 
+##[group]==END_FILE==, 0.686181197780808, , , , 5918155, False, 

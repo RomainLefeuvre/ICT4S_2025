@@ -1,0 +1,2 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run git config user.name ""GitHub Actions Bot""",57.79314046919895,9873217,True,##[error]Process completed with exit code 1.

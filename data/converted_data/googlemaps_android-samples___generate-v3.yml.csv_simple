@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,92.932313656853,4126731,False,
+##[group]Run actions/setup-java@v1,86.79303413175923,19533999,False,
+##[group]Fetching the repository,52.05805838368675,455536,False,
+##[group]Run actions/checkout@v2,30.156398181064787,209106,False,
+##[group]Run cd ApiDemos/java,27.580132775761577,12090910,True,##[error]Process completed with exit code 1.
+##[group]Setting up auth,14.04635684322704,72322,False,
+##[group]Checking out the ref,11.982672348616331,39723,False,
+"##[group]Run sudo ${ANDROID_HOME}/tools/bin/sdkmanager --install ""ndk;20.0.5594570""",1.4248998366449674,58850,False,
+##[group]Run ${ANDROID_HOME}/tools/bin/sdkmanager --uninstall 'ndk-bundle',0.8821266912629834,459512,True,##[error]Process completed with exit code 1.
+##[group]==END_FILE==,0.0131985052850342,4914749,False,

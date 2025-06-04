@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,153.55789421293778,17122068,False,
+Requested labels: self-hosted,51.43485019293081,6001420,False,
+##[group]Run mvn -B package --file pom.xml,25.107308537832115,1480400,True,[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Fetching the repository,23.92645906101795,1448332,False,
+##[group]GITHUB_TOKEN Permissions,21.48919641790972,1912162,False,
+##[group]Run actions/checkout@v2,14.488412432283088,1768965,False,
+##[group]Checking out the ref,7.258383558946994,86526,False,
+##[group]Setting up auth,1.801708286696928,80486,False,
+##[group]Initializing the repository,1.748240455348164,61741,False,

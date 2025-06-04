@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,215.7095198641902,11944521,False,
+##[group]Waiting for processing to finish,51.11278547620073,6227470,False,
+##[group]Finalizing java,43.023812123106175,4848287,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.16.5/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]Run github/codeql-action/autobuild@v2,37.85873524288236,1711778,False,
+##[group]Fetching the repository,28.32225011193329,4681024,False,
+##[group]Setup CodeQL tools,26.8707305032194,3581304,False,
+##[group]Load language configuration,18.39413699232413,984311,False,
+##[group]Run github/codeql-action/analyze@v2,16.400765213071416,1765822,False,
+##[group]Augmented user configuration file contents,13.879700607184288,3954594,False,
+##[group]Attempting to automatically build java code,13.266165475415509,2670816,True,"[2024-04-03 17:02:44] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir/init.gradle, clean])"
+##[group]Uploading results,10.217680898789002,401891,False,
+##[group]Validating workflow,6.798647171004342,2599342,False,
+##[group]Run github/codeql-action/init@v2,3.657064645248121,383957,False,
+##[group]Checking out the ref,3.3007283557265565,289054,False,
+##[group]Setting up auth,2.0454687197150627,58123,False,
+##[group]Run actions/checkout@v3,2.007337280968766,172152,False,
+Requested labels: self-hosted,0.0,5262577,False,

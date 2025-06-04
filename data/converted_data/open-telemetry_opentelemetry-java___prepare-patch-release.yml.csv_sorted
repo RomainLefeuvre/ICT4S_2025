@@ -1,0 +1,9 @@
+##[group]Run message="Prepare release $VERSION", 71.44759533904136, , , , 1475093, True, ##[error]Process completed with exit code 4.
+##[group]GITHUB_TOKEN Permissions, 31.52765903749706, , , , 1236996, False, 
+##[group]Fetching the repository, 18.38843828152472, , , , 433657, False, 
+##[group]Cleaning the repository, 6.603885443634478, , , , 222718, False, 
+##[group]Run actions/checkout@v4, 6.269889946312072, , , , 167229, False, 
+##[group]Run .github/scripts/use-cla-approved-github-bot.sh, 4.095182027957948, , , , 5416, False, 
+##[group]Run if [[ ! $GITHUB_REF_NAME =~ ^release/v[0-9]+\\.[0-9]+\\.x$ ]]; then, 3.928184279296747, , , , 32728, True, ##[error]Process completed with exit code 1.
+##[group]Disabling automatic garbage collection, 3.4271910333131403, , , , 4370, False, 
+Requested labels: self-hosted, 0.018685928792488, , , , 4207624, False, 

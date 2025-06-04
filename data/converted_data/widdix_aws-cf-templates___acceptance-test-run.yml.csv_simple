@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B -q surefire-report:report -Dtest= -Dsurefire.reportNameSuffix=us-east-1,916.697192863754,169672619,True,"[ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.063 s <<< FAILURE! -- in de.widdix.awscftemplates.vpc.TestVPCVpnBastion"
+##[group]Run aws-actions/configure-aws-credentials@v4,182.4226582421643,53079204,True,##[error]Could not assume role with OIDC: Not authorized to perform sts:AssumeRoleWithWebIdentity
+##[group]GITHUB_TOKEN Permissions,11.941362189681897,4422406,False,
+##[group]Installed distributions,10.490667086982167,7244076,False,
+##[group]Fetching the repository,2.15607928424812,439645,False,
+##[group]Run actions/checkout@v4,0.8016192210666085,187647,False,
+Requested labels: self-hosted,0.5449046542067193,5434361,False,
+##[group]Setting up auth,0.4146306315861769,63897,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.4091022231650278,77392,False,

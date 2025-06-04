@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,20.608323203711496,2298116,False,
+##[group]Run lucasbento/auto-close-issues@v1.0.2,6.125679132386605,412909,False,
+##[group]Fetching the repository,5.584908297696079,431449,False,
+##[group]Run actions/checkout@v2,2.522068731502776,184890,False,
+##[group]Checking out the ref,1.4638234287603356,72002,False,
+##[group]Setting up auth,1.328630720087704,67759,False,
+##[group]Cleaning the repository,1.3015921783531776,68454,False,
+##[group]==END_FILE==,0.0187108754795678,4013430,False,

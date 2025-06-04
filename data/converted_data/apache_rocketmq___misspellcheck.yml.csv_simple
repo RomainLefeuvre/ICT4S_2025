@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run curl -L -o ./install-misspell.sh https://git.io/misspell,149.39048278407577,3766019,False,
+##[group]GITHUB_TOKEN Permissions,85.5819292060024,1363494,False,
+##[group]==END_FILE==,65.93605413961168,5786961,False,
+##[group]Fetching the repository,27.830297082201167,444093,False,
+##[group]Run find . -type f -print0 | xargs -0 bin/misspell -error -i transfered_derivate,21.876155107205044,1023123,False,
+##[group]Run actions/checkout@v3,11.786011201729446,152496,False,
+##[group]Cleaning the repository,5.784023539389893,30801,False,

@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ossf/scorecard-action@0864cf19026789058feabb7e87baa5f140aac736,172.0065683083243,53506941,False,
+Requested labels: self-hosted,71.07136307835303,4892765,False,
+##[group]Waiting for processing to finish,37.28514784051938,6419835,False,
+##[group]GITHUB_TOKEN Permissions,21.080899088381045,12047792,False,
+##[group]Pull down action image 'gcr.io/openssf/scorecard-action:v2.3.1',13.60033076326791,1738963,False,
+##[group]Run actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808,12.34266553340535,1464113,False,
+##[group]Uploading results,7.930375177709494,672963,False,
+##[group]Fetching the repository,3.1966025659882207,428815,False,
+##[group]Run actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b,0.7994202737898781,145155,False,
+##[group]Getting Git version info,0.7993603555025841,6947,False,
+##[group]Setting up auth,0.7993004372152901,62427,False,
+##[group]Removing auth,0.79900084577882,64915,False,

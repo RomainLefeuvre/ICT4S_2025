@@ -1,0 +1,23 @@
+Requested labels: self-hosted, 2854.59147127875, , , , 189986478, False, 
+Requested labels: self-hosted__dup_2, 69.13938513305405, , , , 3323993, False, 
+##[group]GITHUB_TOKEN Permissions, 384.4980812355707, , , , 4405217, False, 
+##[group]Run actions/checkout@v3, 12.824125605558564, , , , 171127, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.266654680743369, , , , 36588, False, 
+##[group]Cleaning the repository, 12.242493117414917, , , , 249705, False, 
+##[group]Setting up auth, 5.975838436671545, , , , 78339, False, 
+##[group]Fetching the repository, 22.933966266446763, , , , 435207, False, 
+##[group]Checking out the ref, 5.491144696551838, , , , 32728, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 103.3500556054164, , , , 2418745, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v3, 458.0456574991008, , , , 51349183, False, 
+##[group]Run mvn --version, 2.0181077534648195, , , , 246587, False, 
+##[group]Run mvn -T 8 test, 2271.348135848054, , , , 116973852, True, [ERROR[m] Tests run: 2[m, Failures: 1[m, Errors: 0, Skipped: 0, Time elapsed: 0.673 s <<< FAILURE![m -- in org.integration.ClusterTest[m
+##[group]GITHUB_TOKEN Permissions__dup_14, 8.307696529037193, , , , 4177122, False, 
+##[group]Run actions/checkout@v3__dup_15, 1.2754595822736732, , , , 179608, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_16, 1.2943325497675615, , , , 25707, False, 
+##[group]Cleaning the repository__dup_17, 2.6452840020167883, , , , 243558, False, 
+##[group]Setting up auth__dup_18, 1.3509514522492267, , , , 72711, False, 
+##[group]Fetching the repository__dup_19, 6.849122098715576, , , , 460268, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_20, 6.9835965021867965, , , , 543941, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v3__dup_21, 513.660983265533, , , , 66946586, False, 
+##[group]Run mvn --version__dup_22, 18.352702905693427, , , , 202863, False, 
+##[group]Run mvn -T 8 test__dup_23, 2853.8127396458767, , , , 111713820, False, 

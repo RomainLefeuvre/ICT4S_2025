@@ -1,0 +1,12 @@
+##[group]Run ./gradlew --info --stacktrace -Psigning.secretKeyRingFile=$HOME/.gnupg/secring.gpg -Psigning.*** -P signing.keyId= publish, 841.1048106721348, , , , 57630200, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 114.08823555216377, , , , 1248780, False, 
+##[group]Fetching the repository, 67.3791016566248, , , , 483401, False, 
+##[group]Checking out the ref, 29.144881694882876, , , , 121159, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 24.131759335493275, , , , 207355, False, 
+##[group]Run actions/checkout@v2, 22.87847874564587, , , , 189247, False, 
+> Task :classes, 12.656144214623586, , , , 696825, False, 
+##[group]Cleaning the repository, 12.53585988893941, , , , 32299, False, 
+##[group]Run echo "Now go to https://s01.oss.sonatype.org/index.html#stagingRepositories_ select the repo_ Close it and then Release it", 6.819875884464076, , , , 331273, False, 
+> Task :generatePomFileForCustomPublication, 2.467778453044744, , , , 95256, False, 
+> Task :javadoc FAILED, 2.4466283230847528, , , , 54703, False, 
+Requested labels: self-hosted, 0.0286729579165825, , , , 4494958, False, 

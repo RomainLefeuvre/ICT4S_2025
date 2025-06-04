@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,59.17754910327959,4815907,False,
+##[group]GITHUB_TOKEN Permissions,4.113606395967994,1254088,False,
+##[group]Run actions/stale@v4,2.6105579051335344,557980,False,

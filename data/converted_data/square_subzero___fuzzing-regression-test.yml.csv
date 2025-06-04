@@ -1,0 +1,12 @@
+##[group]==END_FILE==, 0.0540607587712964, , , , 3882445, False, 
+##[group]GITHUB_TOKEN Permissions, 41.23948662903768, , , , 2730170, False, 
+##[group]Run actions/checkout@v2, 4.360717440095233, , , , 189609, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.243549396794025, , , , 33789, False, 
+##[group]Setting up auth, 2.285676514624964, , , , 67511, False, 
+##[group]Fetching the repository, 12.060289340588904, , , , 485805, False, 
+##[group]Fetching submodules, 2.538439221610598, , , , 103444, False, 
+##[group]Persisting credentials for submodules, 5.203259796714013, , , , 140849, False, 
+##[group]Run actions/setup-python@v2, 5.371768268037768, , , , 174495, False, 
+##[group]Run scripts/ubuntu_install_protobuf.sh, 117.87382466150392, , , , 37129634, False, 
+##[group]Run New-Variable os -Value 'Linux' -Option Constant, 0.8426629562326696, , , , 25075, False, 
+##[group]Run cd /home/power/actions-runner/_work/subzero/subzero, 4.125044223022351, , , , 457725, True, ##[error]Process completed with exit code 127.

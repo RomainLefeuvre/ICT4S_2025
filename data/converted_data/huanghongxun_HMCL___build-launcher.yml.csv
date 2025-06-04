@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 0.0134249290662027, , , , 4034525, False, 
+##[group]GITHUB_TOKEN Permissions, 56.45049149490556, , , , 3952187, False, 
+##[group]Run actions/checkout@v4, 4.283596119319305, , , , 191007, False, 
+##[group]Setting up auth, 4.482833148124854, , , , 111490, False, 
+##[group]Fetching the repository, 9.364140353860805, , , , 452897, False, 
+##[group]Run actions/upload-artifact@v4, 21.9160731686104, , , , 821913, False, 

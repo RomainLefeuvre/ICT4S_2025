@@ -1,0 +1,20 @@
+Requested labels: self-hosted, 2.0830272144955977, , , , 5964056, False, 
+##[group]GITHUB_TOKEN Permissions, 32.24488520314823, , , , 3813887, False, 
+##[group]Run actions/checkout@v2, 2.4526553408052454, , , , 178449, False, 
+##[group]Setting up auth, 1.2533118175307267, , , , 61629, False, 
+##[group]Fetching the repository, 6.896189187309398, , , , 1441438, False, 
+##[group]Checking out the ref, 1.2229683135403284, , , , 60428, False, 
+##[group]Run actions/setup-java@v2, 61.46936830979763, , , , 13451220, False, 
+##[group]Run actions/cache@v2, 4.260304804498743, , , , 1601962, False, 
+##[group]Run VERSION=, 176.5518789442458, , , , 18842926, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.8.1:set (default-cli) on project formsfx: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+[INFO] --- versions-maven-plugin:2.8.1:set (default-cli) @ formsfx ---, 295.4697501563341, , , , 24612432, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.8.1:set (default-cli) on project formsfx: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]Run export GPG_TTY=$(tty), 177.56106132796705, , , , 20207279, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (default) on project formsfx: Exit code: 2 -> [Help 1]
+[INFO] --- maven-enforcer-plugin:3.0.0-M3:enforce (default) @ formsfx ---, 36.09138822906185, , , , 1395366, False, 
+[INFO] --- git-commit-id-plugin:3.0.1:revision (resolve-git-properties) @ formsfx ---, 29.51955309520593, , , , 1722374, False, 
+[INFO] --- directory-maven-plugin:0.3.1:highest-basedir (resolve-rootdir) @ formsfx ---, 15.329422898939509, , , , 1142458, False, 
+[INFO] --- copy-rename-maven-plugin:1.0.1:copy (copy-license-file) @ formsfx ---, 17.418177525726545, , , , 1328613, False, 
+[INFO] --- maven-javadoc-plugin:3.2.0:jar (attach-javadocs) @ formsfx ---, 6.65197079144578, , , , 2604538, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ formsfx ---, 2.020974589548316, , , , 90646, False, 
+[INFO] --- maven-gpg-plugin:1.6:sign (default) @ formsfx ---, 30.422825734351825, , , , 3865351, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (default) on project formsfx: Exit code: 2 -> [Help 1]
+##[group]Run ./mvnw -B --file pom.xml -Prelease -pl :formsfx jreleaser:full-release, 190.9160164239735, , , , 22920220, False, 
+##[group]Run actions/upload-artifact@v2, 36.62831173117651, , , , 7575689, False, 

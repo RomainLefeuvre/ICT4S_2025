@@ -1,0 +1,9 @@
+##[group]GITHUB_TOKEN Permissions, 57.075748994459175, , , , 2869975, False, 
+##[group]Run actions/cache@v2, 44.050484481899694, , , , 1652827, False, 
+##[group]Run ./gradlew clean test, 23.078560978815645, , , , 2855050, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4-bin/c0gwcg53nkjbqw7r0h0umtfvt/gradle-7.4-bin.zip.lck
+##[group]Fetching the repository, 21.5484923259364, , , , 697625, False, 
+##[group]Run actions/setup-java@v2, 16.65340156337005, , , , 619095, False, 
+##[group]Run actions/checkout@v2, 5.601598707679017, , , , 180069, False, 
+##[group]Checking out the ref, 3.2802154594516764, , , , 35514, False, 
+##[group]Initializing the repository, 2.8764966336730087, , , , 36684, False, 
+Requested labels: self-hosted, 0.0137668263310695, , , , 6104159, False, 

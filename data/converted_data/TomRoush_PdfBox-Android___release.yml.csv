@@ -1,0 +1,6 @@
+##[group]==END_FILE==, 1.437288617903696, , , , 4831606, False, 
+##[group]GITHUB_TOKEN Permissions, 79.9256763944859, , , , 2138773, False, 
+##[group]Run actions/checkout@v4, 9.931202687681736, , , , 145131, False, 
+##[group]Disabling automatic garbage collection, 5.119364734592685, , , , 3270, False, 
+##[group]Fetching the repository, 27.1344575804816, , , , 440659, False, 
+##[group]Run ./gradlew publish, 45.16386551442572, , , , 637052, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5-bin.zip.lck (Aucun fichier ou dossier de ce type)

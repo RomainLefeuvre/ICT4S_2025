@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.0270476561343614, , , , 6083587, False, 
+##[group]GITHUB_TOKEN Permissions, 2.728292149276749, , , , 2099917, False, 
+##[group]Run actions/checkout@v2, 0.3476202352360336, , , , 201863, False, 
+##[group]Setting up auth, 0.1790770908791688, , , , 61125, False, 
+##[group]Fetching the repository, 6.16235871554787, , , , 2745728, False, 
+##[group]Checking out the ref, 0.2773939250873399, , , , 92988, False, 
+##[group]Setting up auth for fetching submodules, 0.2809052405947746, , , , 30343, False, 
+##[group]Persisting credentials for submodules, 0.5723444277118533, , , , 110606, False, 
+##[group]Run actions/setup-java@v1, 1.4923090906597405, , , , 471575, False, 
+##[group]Run chmod +x gradlew, 0.3089957646542521, , , , 85969, False, 
+##[group]Run ./gradlew build, 567.5182117743251, , , , 68450870, True, ##[error]Process completed with exit code 1.

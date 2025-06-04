@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/g4s8/xcop-action/master/Dockerfile'.,166.31336728386665,64075302,False,
+##[group]GITHUB_TOKEN Permissions,97.81282367223976,1856350,False,
+##[group]Run g4s8/xcop-action@master,19.64715324275704,6422459,False,
+##[group]Fetching the repository,3.885594926682269,466952,False,
+##[group]Run actions/checkout@v4,1.4741561317925964,160485,False,
+##[group]Setting up auth,0.7552784838236418,99610,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.7479983166527043,25313,False,
+Requested labels: self-hosted,0.0340296116129558,4014390,False,

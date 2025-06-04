@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,78.7900481304238,2756818,False,
+##[group]Fetching the repository,74.23741569217636,765071,False,
+"##[group]Run cat <(echo -e """") | gpg --batch --import;",53.19736887276648,773939,True,##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v3,24.43110552726619,184247,False,
+##[group]Cleaning the repository,23.572328106065783,165594,False,
+##[group]Installed distributions,17.560886157662964,258256,False,
+##[group]Setting up auth,11.464122520082745,78005,False,
+##[group]Checking out the ref,9.746567677681934,27903,False,
+Requested labels: self-hosted,0.0,5124708,False,

@@ -1,0 +1,12 @@
+##[group]Run aquasecurity/trivy-action@master, 3629.053961763345, , , , 311687958, False, 
+##[group]==END_FILE==, 93.28034035576128, , , , 4438047, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/aquasecurity/trivy-action/master/Dockerfile'., 51.78367956474512, , , , 33324227, False, 
+##[group]GITHUB_TOKEN Permissions, 41.573155889823646, , , , 12870711, False, 
+##[group]Run github/codeql-action/upload-sarif@v3, 14.742446252271206, , , , 1453169, True, ##[error]Path does not exist: trivy-results.sarif
+##[group]Fetching the repository, 2.44053031937434, , , , 498797, False, 
+##[group]Run actions/checkout@v4, 0.7275051095349385, , , , 149916, False, 
+##[group]Checking out the ref, 0.5378474675178276, , , , 43102, False, 
+##[group]Setting up auth, 0.4383646602319084, , , , 140319, False, 
+##[group]Cleaning the repository, 0.421784192350922, , , , 113481, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.4052037244699354, , , , 50398, False, 
+##[group]Getting Git version info, 0.388623256588949, , , , 123760, False, 

@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,29.12610969740982,9876458,False,
+##[group]Fetching the repository,11.98698922485056,768647,False,
+##[group]Run suisei-cn/actions-download-file@v1.6.0,9.387477580758071,1723096,True,##[error]cmd: command not found
+##[group]Run cd mcaselector-wiki,8.841968444451997,845986,True,##[error]Process completed with exit code 126.
+##[group]Fetching the repository__dup_16,8.311556198491932,2431893,False,
+##[group]==END_FILE==,6.5993846616824055,6535106,False,
+##[group]Run suisei-cn/actions-download-file@v1.6.0__dup_10,5.95048064368286,667897,True,##[error]cmd: command not found
+##[group]Run suisei-cn/actions-download-file@v1.6.0__dup_8,5.695247681830746,426005,False,
+##[group]Determining the default branch,4.118124507558397,1348939,False,
+##[group]Run actions/upload-artifact@v4.3.3,3.295434965791046,310285,True,##[error]cmd: command not found
+##[group]Run AButler/upload-release-assets@v3.0,2.1053388370544748,180108,False,
+##[group]Run gradlew build shadowJar --stacktrace --warning-mode all,1.7561765199771202,97214,False,
+##[group]Setting up auth,1.361889782410014,55438,False,
+##[group]Run actions/checkout@v4.1.3,1.3315600333663904,162517,False,
+##[group]Run 7z x winrun4J-0.4.5.zip -owr4j,1.3275760062195805,18351,True,##[error]Process completed with exit code 126.
+##[group]Checking out the ref,1.094606997056482,59491,False,
+##[group]Run actions/checkout@v4.1.3__dup_13,1.0251840764853704,102543,True,##[error]Cannot read properties of undefined (reading 'id')
+##[group]Setting up auth__dup_14,1.006860515124126,62022,False,

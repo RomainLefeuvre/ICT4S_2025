@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.0, , , , 4106179, False, 
+##[group]GITHUB_TOKEN Permissions, 75.43076275253998, , , , 1929561, False, 
+##[group]Run actions/checkout@v4, 5.4136911066416245, , , , 161356, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.533995353455883, , , , 77623, False, 
+##[group]Cleaning the repository, 5.774603847084399, , , , 53967, False, 
+##[group]Setting up auth, 5.894908093898658, , , , 75247, False, 
+##[group]Fetching the repository, 24.78267484373721, , , , 453325, False, 
+##[group]Checking out the ref, 6.496429327969949, , , , 17376, False, 
+##[group]Run renovatebot/github-action@v40.1.2, 20.2111134647954, , , , 333774, True, ##[error]Error: 'token' MUST be passed using its input or the 'RENOVATE_TOKEN' environment variable

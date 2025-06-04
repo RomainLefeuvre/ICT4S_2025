@@ -1,0 +1,10 @@
+##[group]==END_FILE==, 0.0, , , , 5854070, False, 
+##[group]GITHUB_TOKEN Permissions, 23.11106523073594, , , , 1945011, False, 
+##[group]Run actions/checkout@v2, 3.457661303018883, , , , 194326, False, 
+##[group]Initializing the repository, 3.3606153244248573, , , , 8597, False, 
+##[group]Fetching the repository, 120.54553640627746, , , , 17963126, False, 
+##[group]Checking out the ref, 26.013325063873936, , , , 2303433, False, 
+##[group]Run actions/setup-java@v1, 336.7831433388378, , , , 36864820, False, 
+##[group]Run brew install autoconf automake pkg-config libtool cmake, 6.44980573304448, , , , 433919, False, 
+##[group]Run cd compiler/libhfscompressor, 2.0997949780189806, , , , 167019, True, ##[error]Process completed with exit code 127.
+##[group]Run git checkout -b "", 12.660429028334423, , , , 373954, True, ##[error]Process completed with exit code 2.

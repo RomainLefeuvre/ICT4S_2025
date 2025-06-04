@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,11.287832055485758,1240990,False,
+##[group]Fetching the repository,5.072125716228314,416886,False,
+##[group]Run set -ex,4.2926613106312255,297088,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4,2.2399616317747686,171730,False,
+##[group]Setting up auth,1.1940061224722314,59265,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.1643959998382925,82787,False,
+Requested labels: self-hosted,0.1960566987430892,4132456,False,

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run aws-actions/configure-aws-credentials@v4,375.3587661649177,120278430,True,##[error]Could not assume role with OIDC: Not authorized to perform sts:AssumeRoleWithWebIdentity
+##[group]GITHUB_TOKEN Permissions,12.597577424420434,2095230,False,
+##[group]Fetching the repository,4.649899762697954,456425,False,
+##[group]Run VERSION=${GITHUB_REF_NAME:1},2.773753572735437,699521,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4,1.705622206115346,197078,False,
+##[group]Setting up auth,0.8785340528849789,63854,False,
+Requested labels: self-hosted,0.2002200674133209,4538751,False,

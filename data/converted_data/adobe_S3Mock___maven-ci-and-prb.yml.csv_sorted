@@ -1,0 +1,8 @@
+##[group]Run ./mvnw -B -V -Dstyle.color=always clean verify, 15998.360596891856, , , , 1486225012, True, [ERROR[m] Tests run: 19[m, Failures: 0, Errors: 5[m, Skipped: 0, Time elapsed: 171.5 s <<< FAILURE![m -- in com.adobe.testing.s3mock.its.MultiPartUploadV2IT[m
+##[group]GITHUB_TOKEN Permissions, 547.4860145842813, , , , 3145032, False, 
+##[group]Installed distributions, 423.1831330512154, , , , 49330934, False, 
+##[group]Fetching the repository, 143.62048370159027, , , , 1736873, False, 
+##[group]Run step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142, 71.16193117629297, , , , 238911, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 24.792812228621077, , , , 126320, False, 
+##[group]Run step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142__dup_4, 24.43542272755771, , , , 62502, False, 
+Requested labels: self-hosted, 1.2621015914491538, , , , 4846553, False, 

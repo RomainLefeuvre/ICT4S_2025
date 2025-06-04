@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B package --file pom.xml,30.13790891896389,8859286,True,[ERROR] Plugin org.apache.maven.plugins:maven-shade-plugin:3.3.0-SNAPSHOT or one of its dependencies could not be resolved: Could not find artifact org.apache.maven.plugins:maven-shade-plugin:jar:3.3.0-SNAPSHOT in apache.snapshots (https://repository.apache.org/snapshots/) -> [Help 1]
+##[group]Run actions/upload-artifact@v2,27.837046799733205,2109364,False,
+##[group]Run actions/setup-java@v2,20.41500267234224,1439546,False,
+##[group]GITHUB_TOKEN Permissions,19.97554855979154,4500430,False,
+##[group]Fetching the repository,7.826595178441809,635908,False,
+Requested labels: self-hosted,7.60019046397322,4662127,False,
+##[group]Run SpraxDev/Action-SpigotMC@v3,2.8056220974487687,172212,False,
+##[group]Run actions/checkout@v2,2.559675799988562,195721,False,
+##[group]Checking out the ref,1.3216487705625162,32612,False,
+##[group]Setting up auth,1.2872162889180871,72802,False,

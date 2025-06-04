@@ -1,0 +1,25 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,4099.968263895868,287845877,False,
+##[group]Run mvn verify --no-transfer-progress__dup_24,2217.6325299503087,113534544,True,"[ERROR[m] Tests run: 7[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.879 s <<< FAILURE![m - in org.biojava.nbio.core.sequence.io.ABITracerTest[m"
+##[group]Run mvn verify --no-transfer-progress__dup_16,1927.3226509017568,109222599,True,"[ERROR[m] Tests run: 7[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.879 s <<< FAILURE![m - in org.biojava.nbio.core.sequence.io.ABITracerTest[m"
+##[group]Run mvn verify --no-transfer-progress,1819.9039953325148,134807829,True,"[ERROR[m] Tests run: 7[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.879 s <<< FAILURE![m - in org.biojava.nbio.core.sequence.io.ABITracerTest[m"
+##[group]Installed distributions__dup_23,173.08768880798243,9982337,False,
+##[group]Installed distributions__dup_15,142.38881150415202,8732411,False,
+##[group]GITHUB_TOKEN Permissions,30.50386884237143,2390034,False,
+##[group]GITHUB_TOKEN Permissions__dup_9,29.99537167631709,2709893,False,
+##[group]GITHUB_TOKEN Permissions__dup_17,27.753236017097077,2238178,False,
+##[group]Fetching the repository,16.340492885145014,3978468,False,
+##[group]Cleaning the repository,14.880298886028926,49595,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_19,13.426064211629756,20314,False,
+##[group]Checking out the ref,10.648220346360082,482289,False,
+##[group]Removing previously created refs_ to avoid conflicts,9.293640433697464,548067,False,
+##[group]Fetching the repository__dup_14,5.677843254233776,455515,False,
+##[group]Run actions/checkout@v4__dup_18,5.053642663479613,159334,False,
+##[group]Fetching the repository__dup_22,3.82673039014442,442528,False,
+##[group]Run actions/checkout@v4__dup_10,3.5212225701545576,160387,False,
+##[group]Run actions/checkout@v4,2.8640510338425664,154824,False,
+##[group]Installed distributions,2.7331976638113726,27647,False,
+##[group]Setting up auth__dup_13,2.6079615519339794,68289,False,
+##[group]Cleaning the repository__dup_20,2.3012394894665382,46280,False,
+##[group]Setting up auth__dup_21,1.9172661366071249,56568,False,
+##[group]Setting up auth,1.4492788364022626,61127,False,

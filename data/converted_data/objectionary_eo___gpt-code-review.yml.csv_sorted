@@ -1,0 +1,7 @@
+##[group]Environment details, 141.64557909165683, , , , 5224382, False, 
+##[group]GITHUB_TOKEN Permissions, 22.903201358172687, , , , 2211478, False, 
+##[group]Run actions/setup-node@v4, 8.856733225344934, , , , 556904, False, 
+##[group]Fetching the repository, 6.40170892779318, , , , 430164, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 2.890091894586242, , , , 132219, False, 
+##[group]Setting up auth, 1.522736589620708, , , , 57135, False, 
+Requested labels: self-hosted, 0.0, , , , 3900478, False, 

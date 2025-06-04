@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,22.022530321601508,2038233,False,
+##[group]Run dawidd6/action-download-artifact@268677152d06ba59fcec7a7f0b5d961b6ccd7e1e,14.89892638240228,968357,True,##[error]no matching workflow run found with any artifacts?
+##[group]🚀 Publish results,9.95690783456073,531184,False,
+##[group]📦 Process test results,1.8905979762519107,63324,False,
+Requested labels: self-hosted,0.3906195711426235,4083264,False,

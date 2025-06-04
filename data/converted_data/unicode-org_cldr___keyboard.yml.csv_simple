@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run npm install -g @keymanapp/kmc@beta,77.93803638212526,14159193,False,
+Requested labels: self-hosted,39.23832183623031,4923430,False,
+##[group]GITHUB_TOKEN Permissions,29.01541950904316,2698638,False,
+##[group]Run cd docs/charts/keyboard && npm ci && npm run build,15.567293266278172,6013843,False,
+##[group]Run actions/cache@v3,6.615563250480816,556493,False,
+##[group]Fetching the repository,6.16380419030888,462672,False,
+##[group]Setting up auth,1.2101728850531792,132545,False,
+##[group]Cleaning the repository,1.2026435673836469,46982,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.1951142497141147,34948,False,
+##[group]Run actions/checkout@v4,1.1875849320445822,134657,False,
+##[group]Run kmc --error-reporting build keyboards/3.0/*.xml,0.7884582038534405,96474,True,##[error]Process completed with exit code 1.

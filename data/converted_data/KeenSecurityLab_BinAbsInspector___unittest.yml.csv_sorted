@@ -1,0 +1,11 @@
+##[group]GITHUB_TOKEN Permissions, 119.47414901378352, , , , 9382427, False, 
+##[group]Run er28-0652/setup-ghidra@0.0.6, 90.6672247208306, , , , 10639496, False, 
+##[group]Run pavpanchekha/setup-z3@0.2.0, 22.448668607695424, , , , 2233883, False, 
+##[group]Run actions/cache@v3, 10.564021245947014, , , , 1483806, False, 
+##[group]Run gradle/gradle-build-action@0d13054264b0bb894ded474f08ebb30921341cee, 9.555587389842442, , , , 2236327, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'
+##[group]Run cp $CPATH/../bin/com.microsoft.z3.jar $GITHUB_WORKSPACE/lib/com.microsoft.z3.jar, 8.058206404158788, , , , 1056243, False, 
+##[group]Fetching the repository, 2.665192462298274, , , , 472986, False, 
+##[group]Installed distributions, 2.4175366208444182, , , , 372317, False, 
+##[group]Run actions/checkout@v3, 0.9804621896175696, , , , 155202, False, 
+##[group]Setting up auth, 0.5045002273590748, , , , 63409, False, 
+Requested labels: self-hosted, 0.2053088671568354, , , , 4220936, False, 

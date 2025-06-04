@@ -1,0 +1,6 @@
+##[group]Run git config user.name 'diversepwmeasurement', 2677.2237205950773, , , , 223319282, True, [INFO[m] [ERROR[m] Tests run: 10[m, Failures: 1[m, Errors: 0, Skipped: 0, Time elapsed: 0.081 s <<< FAILURE![m -- in Files assertHasDigest AlgorithmString[m
+##[group]GITHUB_TOKEN Permissions, 312.23443140327663, , , , 2163410, False, 
+##[group]Fetching the repository, 80.80100145689414, , , , 429346, False, 
+##[group]Run actions/checkout@v4, 37.06284727870865, , , , 136986, False, 
+##[group]Setting up auth, 19.365837001788933, , , , 62897, False, 
+Requested labels: self-hosted, 0.0372349665306759, , , , 4564963, False, 

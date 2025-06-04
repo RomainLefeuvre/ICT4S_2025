@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew publishPlugin,2627.781398547059,154655000,True,##[error]Process completed with exit code 1.
+> Task :compileJava,531.9065508206317,17500686,False,
+> Task :verifyPluginConfiguration,216.02012205490297,7998954,False,
+> Task :patchChangelog,64.24673756597434,1500180,False,
+##[group]GITHUB_TOKEN Permissions,28.74352288885215,2089966,False,
+> Task :classes,26.17514496561804,2398646,False,
+##[group]Run gh release upload  ./build/distributions/*,21.351157696227435,1844179,True,##[error]Process completed with exit code 1.
+> Task :jar,16.647848361279213,100302,False,
+##[group]Installed distributions,9.091478752315684,388363,False,
+> Task :jarSearchableOptions SKIPPED,9.076267369101997,299338,False,
+##[group]Fetching the repository,8.058186749006557,429089,False,
+> Task :publishPlugin FAILED,6.39156702105474,202886,False,
+##[group]Run actions/checkout@v3,3.733867087843529,185234,False,
+> Task :classpathIndexCleanup,3.402927877001512,99827,False,
+> Task :instrumentedJar,3.3295696722558423,100123,False,
+> Task :buildPlugin,2.822657645774992,99963,False,
+##[group]Setting up auth,1.922288472670468,66535,False,
+Requested labels: self-hosted,1.1236866218845174,4591253,False,

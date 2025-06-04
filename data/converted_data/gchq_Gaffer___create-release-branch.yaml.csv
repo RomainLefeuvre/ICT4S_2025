@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 91.06809689251448, , , , 5005292, False, 
+##[group]GITHUB_TOKEN Permissions, 19.853120997359174, , , , 1967237, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/actions-ecosystem/action-get-latest-tag/v1/Dockerfile'., 17.1357484298244, , , , 6036416, False, 
+##[group]Run actions/checkout@v4, 0.2670730731789576, , , , 149115, False, 
+##[group]Run actions-ecosystem/action-get-latest-tag@v1, 10.383610599710575, , , , 5886149, True, ##[error]Input required and not supplied: token
+##[group]Run echo "RELEASE_VERSION=$(echo v0.0.0 | sed -r 's/([0-9]+)\\.([0-9]+)\\.([0-9]+)/echo \\1.$((\\2+1)).0/' | sh)" >> $GITHUB_ENV, 0.1572154592903739, , , , 19757, False, 
+##[group]Run mvn versions:set -DnewVersion=$RELEASE_VERSION -DgenerateBackupPoms=false, 37.93544756269613, , , , 14389082, False, 
+##[group]Run git checkout -b $BRANCH_NAME, 2.081238500425041, , , , 133555, False, 

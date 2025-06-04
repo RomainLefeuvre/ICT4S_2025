@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 813.596896006077, , , , 4112827, False, 
+##[group]Run actions/cache@v2, 483.90485626758, , , , 1224081, False, 
+##[group]Run mvn -B -ntp -q versions:set -DremoveSnapshot -DgenerateBackupPoms=false, 358.87736048230823, , , , 18427479, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java, 175.7437106418845, , , , 496846, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 162.2393735273068, , , , 464433, False, 
+##[group]Run actions/checkout@v2, 60.84444827654943, , , , 191614, False, 
+##[group]Setting up auth, 31.097440994003595, , , , 63042, False, 
+Requested labels: self-hosted, 0.3519964887766846, , , , 4199800, False, 

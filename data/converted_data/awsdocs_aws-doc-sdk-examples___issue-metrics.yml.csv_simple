@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run github/issue-metrics@v2,135.94108861832444,38112918,False,
+##[group]GITHUB_TOKEN Permissions,51.75256729660869,1879979,False,
+##[group]Pull down action image 'ghcr.io/github/issue_metrics:v2',48.01636663586627,18440605,False,
+Requested labels: self-hosted,16.983932425660917,4667737,False,
+##[group]Run peter-evans/create-issue-from-file@v5,0.4618654587741624,463301,True,##[error]Issues are disabled for this repo

@@ -1,0 +1,13 @@
+##[group]Installed distributions, 2024.3969817316968, , , , 217071415, False, 
+##[group]Run ./gradlew :firebase-config:test-app:deviceCheck withErrorProne -PtargetBackend="prod", 189.4745074182477, , , , 25957946, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar, 142.75770050235587, , , , 15403646, False, 
+##[group]GITHUB_TOKEN Permissions, 89.02335927208476, , , , 3945892, False, 
+##[group]Run google-github-actions/setup-gcloud@v2, 39.09900294922085, , , , 7377658, True, ##[error]google-github-actions/auth failed with: the GitHub Action workflow must specify exactly one of "workload_identity_provider" or "credentials_json"! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot.
+##[group]Fetching the repository, 18.649832934446323, , , , 484126, False, 
+> Task :buildSrc:classes, 10.880199106305533, , , , 300010, False, 
+##[group]Setting up auth, 3.574896978052461, , , , 114924, False, 
+##[group]Cleaning the repository, 3.523207108440193, , , , 72588, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.471517238827925, , , , 87954, False, 
+##[group]Run actions/checkout@v4.1.1, 3.419827369215657, , , , 161763, False, 
+##[group]Run google-github-actions/auth@v2, 1.3500556127740422, , , , 135453, False, 
+##[group]==END_FILE==, 0.1113470514261224, , , , 4482381, False, 

@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 282.43629554208195, , , , 2028307, False, 
+##[group]Run aws-actions/configure-aws-credentials@v4, 240.57203030913325, , , , 45112134, True, ##[error]Could not assume role with OIDC: Not authorized to perform sts:AssumeRoleWithWebIdentity
+##[group]Fetching the repository, 95.1138568819552, , , , 445284, False, 
+##[group]Run actions/checkout@v4, 35.09490653356872, , , , 186929, False, 
+##[group]Cleaning the repository, 18.039225969986585, , , , 17995, False, 
+##[group]Run sed -i "s/__VERSION__/latest/g" ./*/*.yaml, 8.185673508136516, , , , 680192, True, ##[error]Process completed with exit code 127.
+Requested labels: self-hosted, 0.0378009295247886, , , , 4306913, False, 

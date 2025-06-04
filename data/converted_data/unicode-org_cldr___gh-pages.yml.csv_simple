@@ -1,0 +1,22 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gem install bundler github-pages kramdown-parser-gfm  # should pull in jekyll_ etc.,865.8044548391664,65102589,False,
+##[group]GITHUB_TOKEN Permissions,87.96454668731502,6160088,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/Cecilapp/GitHub-Pages-deploy/v3/Dockerfile'.,66.69296585298159,33261999,False,
+##[group]Publish HTML,44.02171365300472,4287143,True,##[error]Process completed with exit code 255.
+##[group]Run npx markdownlint-cli *.md {specs_docs}/*.md $(find .github -name '*.md') || (echo Warning_ please fix these ; true),39.42261354325614,4094621,False,
+##[group]Fetching the repository,33.645959983970535,1055004,False,
+##[group]Downloading Ruby,20.622023875241474,1755257,False,
+##[group]Run actions/cache@v3,18.284211738253656,612147,False,
+##[group]Run cd tools/scripts/tr-archive/ && npm ci && npm run build,17.936516310562517,9717733,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4,16.633175628335103,155882,False,
+##[group]Run cd tools/scripts/tr-archive/ && npm run extract-link-targets || (echo Warning_ please fix these ; true),16.495500442973995,536861,False,
+##[group]Extracting  Ruby,15.86030234893497,506889,False,
+##[group]Run cd docs/charts/keyboard && npm ci && npm run build,14.549776037740806,1607828,False,
+##[group]Removing previously created refs_ to avoid conflicts,10.338984546896896,708480,False,
+##[group]Cleaning the repository,9.977007394582555,1203551,False,
+##[group]Run nodenv/actions/node-version@v3,9.066686646162266,283897,False,
+##[group]Run git status ; git diff,7.396094862250202,206041,False,
+##[group]Checking out the ref,3.4574694434026245,70162,False,
+##[group]Run actions/upload-artifact@v3,3.2283464738590464,102157,False,
+##[group]Run cp -vr tools/scripts/tr-archive/dist/* ./_site/ldml/ && cp tools/scripts/tr-archive/reports-v2.css ./_site/,3.0463211261355574,194917,False,
+Requested labels: self-hosted,2.806371655428377,5175042,False,

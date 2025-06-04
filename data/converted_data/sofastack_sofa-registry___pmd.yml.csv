@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 3.8760040106097127, , , , 5608127, False, 
+##[group]GITHUB_TOKEN Permissions, 6.4902844368101, , , , 2224170, False, 
+##[group]Run actions/checkout@v2, 2.026394564704799, , , , 259118, False, 
+##[group]Initializing the repository, 0.9790141297512448, , , , 11323, False, 
+##[group]Fetching the repository, 9.265096712812898, , , , 1080652, False, 
+##[group]Checking out the ref, 1.3883090494832486, , , , 147740, False, 
+##[group]Run actions/setup-java@v1, 80.98328192447835, , , , 17749514, False, 
+##[group]Run mvn install -Dmaven.test.skip=true && mvn pmd:check, 2373.493563640579, , , , 130739254, False, 

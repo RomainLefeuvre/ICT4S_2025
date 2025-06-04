@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 61.94734503788948, , , , 3726512, False, 
+##[group]Run actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c, 8.793138716104004, , , , 163879, True, ##[error]Input required and not supplied: token
+##[group]Installed distributions, 168.33723416777934, , , , 22334812, False, 
+##[group]Run mvn --version, 10.31104383508104, , , , 1167934, False, 
+##[group]Run CURRENT_TZDB=$(mvn help:evaluate -Dexpression=tz.database.version -q -DforceStdout), 25.54054678695727, , , , 6262542, False, 
+##[group]Run git clone https://github.com/JodaOrg/global-tz.git tz, 4.9791809339812, , , , 2554381, False, 
+##[group]Run echo "current: $CURRENT_TZDB", 7.348253721289184, , , , 1259992, False, 

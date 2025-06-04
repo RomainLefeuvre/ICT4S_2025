@@ -1,0 +1,14 @@
+##[group]Installed distributions, 542.2219827367248, , , , 52763563, False, 
+##[group]GITHUB_TOKEN Permissions, 62.852426266423656, , , , 2139947, False, 
+##[group]Run mvn org.apache.maven.plugins:maven-enforcer-plugin:enforce -Drules=requireReleaseDeps, 38.02598438237612, , , , 2978718, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (default-cli)[m on project spring-batch-infrastructure[m: [m
+##[group]Run mvn versions:set -DgenerateBackupPoms=false -DnewVersion=$RELEASE_VERSION, 30.036836278274027, , , , 9996039, False, 
+##[group]Fetching the repository, 21.14869124667148, , , , 524651, False, 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ spring-batch ---, 10.757703294716505, , , , 801274, False, 
+##[group]Run actions/checkout@v3, 7.64321122248127, , , , 181038, False, 
+##[group]Run mvn -P artifactory-staging -s settings.xml --batch-mode -Dmaven.test.skip=true deploy, 6.841217149279664, , , , 4405187, True, [ERROR[m] To see the full stack trace of the errors, re-run Maven with the -e[m switch.
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (generate-javadocs) @ spring-batch ---, 6.643560797942159, , , , 445345, False, 
+##[group]Setting up auth, 4.007120446737754, , , , 67204, False, 
+[INFO] --- spring-javaformat-maven-plugin:0.0.39:validate (default) @ spring-batch ---, 2.6442472290876964, , , , 149471, False, 
+[INFO] --- maven-failsafe-plugin:3.2.5:integration-test (default) @ spring-batch ---, 1.33624192535367, , , , 105369, False, 
+[INFO] --- maven-source-plugin:3.3.1:jar (generate-sources) @ spring-batch ---, 1.3343594839123605, , , , 96223, False, 
+##[group]==END_FILE==, 0.0, , , , 4525222, False, 

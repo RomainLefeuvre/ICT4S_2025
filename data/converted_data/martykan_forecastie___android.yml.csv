@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 15.511689661012012, , , , 5437090, False, 
+##[group]GITHUB_TOKEN Permissions, 20.08859593483459, , , , 2318239, False, 
+##[group]Run actions/checkout@v1, 16.425226189234273, , , , 2028003, False, 
+##[group]Run actions/setup-java@v1, 62.031088165779465, , , , 17880070, False, 
+##[group]Run ./gradlew build, 141.43612723458185, , , , 26880132, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v1, 9.267405372022504, , , , 801736, True, ##[error]Path does not exist /home/power/actions-runner/_work/forecastie/forecastie/forecastie.apk

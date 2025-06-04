@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,77.11208136428203,31334040,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run gh workflow run deploy-docs.yml -r $(git rev-parse --abbrev-ref HEAD) -f build-refname=main,15.18495137017246,2749517,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,4.003584747150452,1298160,False,
+##[group]Run actions/checkout@v4,0.7880011955282951,184959,False,
+##[group]Setting up auth,0.4294257614133976,78662,False,
+##[group]Cleaning the repository,0.4193042860850405,70931,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.4091828107566833,35330,False,
+Requested labels: self-hosted,0.021618988111983,4145883,False,

@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching submodules,244.1369938363724,19625130,False,
+##[group]Fetching the repository,81.9285152221807,11486140,False,
+##[group]GITHUB_TOKEN Permissions,25.1769367935311,4325924,False,
+##[group]Run actions/cache@v3.0.6,18.58185353786855,1726682,True,##[error]The process 'sudo' failed with exit code 100
+##[group]Run zip -r QtScrcpy-ubuntu-22.04-gcc_64.zip output/x64/Release,9.363710900707504,520576,True,##[error]Process completed with exit code 100.
+##[group]Run jurplel/install-qt-action@v2.13.0,6.193951179289518,705234,False,
+##[group]Run sudo apt install zip -y,3.3619728460122102,134092,False,
+##[group]Run sudo apt-get install -y libglew-dev libglfw3-dev,2.300610438021821,167385,False,
+##[group]Run actions/upload-artifact@v3.1.0__dup_14,1.5988053842337926,80911,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3.1.0,1.544018025052251,73795,True,##[error]Process completed with exit code 1.
+##[group]Persisting credentials for submodules,1.4892306658707095,138097,False,
+##[group]Checking out the ref,1.3524854493439626,162386,False,
+##[group]Setting up auth,1.1915982268728404,94299,False,
+##[group]Getting Git version info,1.1798002246265749,11303,False,
+##[group]Run actions/checkout@v2,1.168002222380309,164811,True,##[error]Process completed with exit code 100.
+##[group]==END_FILE==,0.0,5486027,False,

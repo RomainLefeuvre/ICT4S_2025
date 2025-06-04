@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.0625526466580393, , , , 4950003, False, 
+##[group]GITHUB_TOKEN Permissions, 91.08840846991004, , , , 1344881, False, 
+##[group]Run actions/checkout@v2, 33.08363037961038, , , , 192455, False, 
+##[group]Setting up auth, 16.155076765764388, , , , 64409, False, 
+##[group]Fetching the repository, 199.09938503784505, , , , 1421234, False, 
+##[group]Checking out the ref, 24.31755943468548, , , , 177345, False, 
+##[group]Run sudo npm install -g markdown-link-check, 28.227896419902255, , , , 10726163, False, 
+##[group]Run for file in $(find . -name "*.md"); do, 2.702924821565284, , , , 471288, True, ##[error]Process completed with exit code 1.

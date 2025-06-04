@@ -1,0 +1,1606 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.98 s (1633.1 files/s 413772.4 lines/s)"
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_conductor.c,917,27,4964
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleAgent.java,457,51,3188
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_context.c,579,18,2626
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/AeronArchive.java,431,1123,2387
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/MediaDriver.java,395,1702,2262
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveConductor.java,312,33,2259
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DriverConductor.java,310,31,2230
+C,/tmp/clone_directory/aeron-driver/src/main/c/agent/aeron_driver_agent.c,376,15,2120
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModule.java,450,1979,2103
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ClusterTest.java,512,17,2074
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_client_conductor.c,429,23,2038
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/cluster/TestCluster.java,332,15,2026
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/Archive.java,341,1584,1781
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/DriverConductorTest.java,475,15,1605
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/AeronArchive.h,318,656,1508
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ClientConductor.java,219,19,1453
+C++,/tmp/clone_directory/aeron-archive/src/test/cpp/AeronArchiveTest.cpp,345,15,1416
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/AeronCluster.java,244,589,1386
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveTool.java,132,218,1362
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveToolTests.java,174,19,1301
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/Election.java,172,35,1289
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ReplicateRecordingTest.java,218,17,1286
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/RecordingLog.java,212,434,1281
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ElectionTest.java,244,19,1266
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/CatalogTest.java,145,15,1257
+C++,/tmp/clone_directory/aeron-driver/src/test/c/agent/aeron_driver_agent_test.cpp,353,15,1241
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/Catalog.java,186,70,1164
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ChannelUriStringBuilder.java,184,900,1160
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterTool.java,157,261,1112
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/PubAndSubTest.java,172,34,1111
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_math_test.cpp,14,17,1090
+Gradle,/tmp/clone_directory/build.gradle,205,18,1086
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusteredServiceAgent.java,179,15,1069
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/Configuration.java,280,1073,1052
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_publication_test.cpp,133,19,1043
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_network_publication.c,172,17,1040
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusteredServiceContainer.java,213,849,1022
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ArchiveProxy.h,170,721,1017
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver.c,155,17,996
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterBackup.java,206,798,993
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/cluster/TestNode.java,157,18,989
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/MigrateSegmentsTest.java,205,15,987
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ArchiveProxy.java,142,539,979
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ControlSessionDemuxer.java,144,33,962
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_name_resolver.c,179,17,960
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveContextTest.java,148,15,944
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/RecordingLogTest.java,171,15,941
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_publication_image.c,184,22,935
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterBackupAgent.java,167,34,925
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_client_conductor_test.cpp,243,25,920
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/ClientConductor.cpp,208,15,909
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_receive_channel_endpoint.c,166,18,909
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ClientConductorTest.cpp,279,19,908
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/NetworkPublication.java,142,99,899
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/Aeron.java,169,797,870
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_client.c,149,15,862
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_pub_sub_test.cpp,237,16,856
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/UdpChannel.java,154,308,844
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_exclusive_publication.c,137,15,843
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ControlSession.java,107,35,838
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/PublicationImage.java,161,138,836
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ReplicationSession.java,122,40,815
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_test.h,175,17,802
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_spsc_rb_test.cpp,223,18,794
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ArchiveEventDissector.java,124,16,788
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveTest.java,113,15,778
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ArchiveEventDissectorTest.java,127,15,777
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ClusterEventLoggerTest.java,142,15,757
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_publication.c,122,15,754
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterMember.java,137,496,754
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_mpsc_rb_test.cpp,212,15,753
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ExclusivePublication.java,130,137,746
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/SendChannelEndpoint.java,112,159,746
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_fileutil.c,146,18,732
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ArchiveProxy.cpp,122,15,716
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/ClientConductorTest.java,145,18,696
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ImageTest.cpp,154,15,690
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ClusterEventLogger.java,44,220,685
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_image_test.cpp,200,20,683
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ConsensusModuleContextTest.java,125,15,678
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_image.c,137,15,666
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveSystemTest.java,119,15,657
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ReplaySessionTest.java,117,15,642
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/ReceiveChannelEndpoint.java,101,357,638
+AsciiDoc,/tmp/clone_directory/aeron-samples/src/docs/asciidoc/Cluster-Tutorial.asciidoc,213,55,638
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,14,0,632
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/DriverEventDissectorTest.java,120,15,632
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DriverEventDissector.java,131,20,618
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport.c,86,18,617
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/BasicArchiveTest.java,162,15,617
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeronc.h,282,1610,616
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/SystemTestWatcher.java,68,19,615
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ClusterEventEncoder.java,169,15,613
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_netutil.c,139,15,601
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/Image.h,109,213,599
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_name_resolver_test.cpp,124,17,592
+Java,/tmp/clone_directory/aeron-samples/src/test/java/io/aeron/cluster/ConsensusModuleSnapshotPendingServiceMessagesPatchTest.java,73,20,592
+XML,/tmp/clone_directory/aeron-cluster/src/main/resources/cluster/aeron-cluster-codecs.xml,74,61,591
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/UdpChannelTest.java,100,15,586
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_network_test.cpp,181,15,584
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/Publication.h,115,284,582
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_conductor.h,155,15,581
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_subscription.c,135,29,577
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MultiDestinationSubscriptionTest.java,184,19,577
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ConcurrentPublication.java,94,97,575
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_spy_test.cpp,94,15,575
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/ExclusivePublication.h,134,286,569
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/CommonContext.java,151,483,556
+C,/tmp/clone_directory/aeron-client/src/main/c/uri/aeron_uri.c,109,15,552
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/PublicationTest.java,85,15,551
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_data_packet_dispatcher.c,99,19,549
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_loss_detector_test.cpp,123,15,548
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_c_system_test.cpp,155,17,547
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusPublisher.java,102,15,546
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_flow_control_test.cpp,147,15,539
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/ReceiverTest.java,97,16,538
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ClusterEventDissector.java,96,15,535
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ResponseChannelsTest.java,85,15,529
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/PubSubTest.cpp,111,22,525
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/Image.java,93,229,523
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterNodeRestartTest.java,146,15,521
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/driver/CTestMediaDriver.java,69,15,521
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_timestamps_test.cpp,133,16,519
+C,/tmp/clone_directory/aeron-samples/src/main/c/raw/ping_pong_raw.c,78,17,519
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_receiver.c,92,15,514
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/Aeron.h,116,368,513
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_min_flow_control.c,82,15,513
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_send_channel_endpoint.c,90,18,511
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/PriorityHeapTimerServiceTest.java,96,15,507
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/Tests.java,75,247,502
+XML,/tmp/clone_directory/aeron-archive/src/main/resources/archive/aeron-archive-codecs.xml,65,69,499
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/ImageTest.java,139,18,497
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/ManyToOneRingBufferTest.cpp,126,15,490
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ClusterBackupTest.java,155,15,479
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/ClientConductor.h,111,15,478
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ChannelUriStringBuilder.h,92,15,478
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_udp_channel_test.cpp,122,15,478
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ReplaySession.java,78,48,477
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_socket.c,103,28,476
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/client/AeronArchiveTest.java,111,15,470
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ExclusivePublicationTest.java,61,15,470
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_uri_test.cpp,118,17,460
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MultiDestinationCastTest.java,99,17,454
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/ConfigProcessor.java,79,24,452
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_data_packet_dispatcher_test.cpp,110,17,447
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_flow_control.c,65,16,443
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DriverNameResolver.java,96,39,443
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/BufferBuilderTest.java,92,15,442
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/driver/DriverNameResolverTest.java,81,15,442
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_ipc_publication.c,82,15,440
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel.c,81,20,438
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeronmd.h,244,445,436
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_context.c,107,15,435
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/IndexedReplicatedRecording.java,73,35,435
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ReplayMerge.java,68,107,434
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_fragment_assembler.c,76,15,433
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_distinct_error_log_test.cpp,86,15,433
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ClusterNetworkTopologyTest.java,64,16,429
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/SenderTest.java,114,16,424
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DriverEventLogger.java,42,149,423
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ChannelUri.java,85,211,423
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ChannelValidationTest.java,115,15,422
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/IpcPublication.java,62,54,421
+C,/tmp/clone_directory/aeron-driver/src/main/c/uri/aeron_driver_uri.c,81,15,413
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/cluster/ConsensusModuleSnapshotPendingServiceMessagesPatch.java,56,44,413
+C,/tmp/clone_directory/aeron-samples/src/main/c/response/response_server.c,97,16,411
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/launcher/RemoteLaunchServer.java,46,17,410
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/AuthenticationTest.java,76,15,409
+YAML,/tmp/clone_directory/.github/workflows/ci-low-cadence.yml,11,0,408
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_publication_image_test.cpp,123,15,402
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/TaggedFlowControlSystemTest.java,91,23,401
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/StandbySnapshotReplicatorTest.java,82,15,400
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/OneToOneRingBufferTest.cpp,97,15,398
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_bindings.h,57,16,398
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/PublicationParams.java,52,15,397
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_agent.c,82,15,396
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_parse_util.c,76,15,396
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_congestion_control.c,73,21,395
+XSD,/tmp/clone_directory/aeron-cluster/src/main/resources/cluster/fpl/sbe.xsd,0,1,387
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ConsensusModuleAgentTest.java,84,15,384
+CMake,/tmp/clone_directory/aeron-driver/src/main/c/CMakeLists.txt,44,13,380
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DataPacketDispatcher.java,58,96,380
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/TimestampingSystemTest.java,87,16,380
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_bindings.c,67,19,377
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveTruncateRecordingTest.java,58,18,376
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/NameReResolutionTest.java,96,20,373
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_counters_manager.c,100,15,370
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterSession.java,57,16,369
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_congestion_control_test.cpp,65,16,366
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ServiceIpcIngressMessageTest.java,56,17,366
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_client_conductor.h,62,15,365
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/Context.h,74,227,364
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/DriverEventLoggerTest.java,76,15,360
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/PublicationTest.cpp,65,15,360
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/Publication.java,69,332,359
+C,/tmp/clone_directory/aeron-samples/src/main/c/response/response_client.c,78,15,358
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ClusterToolTest.java,69,17,355
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_http_util.c,75,15,353
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_controlled_fragment_assembler_test.cpp,48,15,349
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_controlled_image_fragment_assembler_test.cpp,48,15,349
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/LogBufferDescriptor.java,106,463,347
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_sender.c,62,15,343
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ManageRecordingHistoryTest.java,71,15,343
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ClusterInterceptor.java,24,15,342
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MinFlowControlSystemTest.java,81,22,342
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_mpsc_rb.c,78,16,340
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/BacklogStat.java,74,80,339
+C,/tmp/clone_directory/aeron-samples/src/main/c/cping.c,63,15,338
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/RecordingWriterTest.java,59,16,337
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_error.c,76,15,332
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ChannelUriStringBuilderTest.cpp,101,15,331
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/Subscription.java,68,239,330
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/AtomicBuffer.h,71,84,328
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/AtomicBuffer.h,71,84,328
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_ipc_test.cpp,72,26,326
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/util/MemoryMappedFile.cpp,72,15,325
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterMemberTest.java,47,15,325
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/BufferBuilderTest.cpp,77,15,324
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/AbstractMinMulticastFlowControl.java,44,95,321
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveAuthenticationTest.java,66,15,321
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/DataCollector.java,45,92,317
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_position.c,35,15,314
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_fragment_assembler_test.cpp,44,15,312
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_context.h,65,15,312
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/Subscription.h,74,216,311
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_image_fragment_assembler_test.cpp,44,15,311
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_destination_tracker.c,61,15,311
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_int64_counter_map.h,64,15,309
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/LogBufferDescriptor.h,75,91,309
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_errors_test.cpp,75,15,308
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/RemoteEchoTest.java,50,18,306
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_properties_util.c,67,20,305
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/Publication.h,72,315,305
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_receiver_proxy.c,33,15,305
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusAdapter.java,49,15,302
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterNodeTest.java,48,15,297
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DriverEventEncoder.java,59,18,296
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ReplayMergeTest.java,45,15,296
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ExclusivePublication.h,73,307,295
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_fileutil_test.cpp,63,15,294
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/UdpChannelTransport.java,55,168,294
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ArchiveConfiguration.h,79,293,293
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_spsc_rb.c,68,17,293
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/RetransmitHandlerTest.java,60,15,293
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/ChannelUri.h,51,15,289
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ChannelUri.h,51,15,289
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/SelectorAndTransportTest.java,50,15,289
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SessionSpecificSubscriptionTest.java,44,15,288
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/ExclusivePingPong.cpp,64,16,286
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/PingPong.cpp,64,16,286
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/DedicatedModeArchiveConductor.java,52,66,285
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/tutorial/SingleNodeCluster.java,45,70,285
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusterMarkFile.java,46,164,284
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/AtomicArrayUpdaterTest.cpp,57,15,283
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/ClusterConfig.java,44,171,282
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/DriverProxy.java,59,133,280
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/client/AeronClusterAsyncConnectTest.java,49,15,280
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/DualReplayMergeTest.java,37,15,280
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/LogPublisher.java,52,18,279
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/Receiver.java,49,31,279
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_publication_image.h,68,16,275
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ImageTest.cpp,73,15,274
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ReplayMerge.cpp,47,15,272
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_thread.c,58,17,272
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/ringbuffer/ManyToOneRingBuffer.h,65,15,268
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_uri_test.cpp,55,18,265
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/agent/aeron_driver_agent.h,56,16,265
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/MultiModuleSharedDriverTest.java,38,15,265
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/DataLossAndRecoverySystemTest.java,45,18,264
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp_shared/ControlledFragmentAssemblerTestFixture.h,42,3,262
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp_shared/ImageControlledFragmentAssemblerTestFixture.h,42,3,262
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ClusterEventEncoderTest.java,25,15,259
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/ExclusiveThroughput.cpp,52,15,259
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/DriverProxy.h,93,15,258
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/ChannelUriTest.java,44,16,257
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_network_publication.h,52,15,257
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/DataPacketDispatcherTest.java,54,15,257
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp_shared/FragmentAssemblerTestFixture.h,39,3,256
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp_shared/ImageFragmentAssemblerTestFixture.h,39,3,256
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterTimerTest.java,56,15,255
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_receive_channel_endpoint.h,52,15,255
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_loss_reporter_test.cpp,41,15,255
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/LossDetectorTest.java,77,15,255
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_transport_poller.c,49,15,253
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ClientCommandAdapter.java,48,21,253
+CMake,/tmp/clone_directory/CMakeLists.txt,77,40,251
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DriverComponentLogger.java,47,30,251
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_multi_gap_loss.c,56,15,250
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_int64_to_tagged_ptr_hash_map.h,55,15,248
+C,/tmp/clone_directory/aeron-samples/src/main/c/basic_publisher.c,45,15,248
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/CatalogIndexTest.java,57,15,247
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SubscriberEndOfStreamTest.java,49,15,247
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/CountersManagerTest.cpp,62,15,246
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveMigrationUtils.java,53,20,245
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/Subscription.h,62,231,243
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/service/ClusteredServiceContainerContextTest.java,37,15,243
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/BroadcastReceiverTest.cpp,43,15,242
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/EmbeddedReplayThroughput.java,43,26,242
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/Image.h,58,200,241
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/CatalogWithJumboRecordingsAndGapsTest.java,29,15,241
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_network_publication_test.cpp,53,15,240
+Java,/tmp/clone_directory/aeron-samples/src/test/java/io/aeron/samples/archive/RecordingReplicatorTest.java,29,15,240
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/StandbySnapshotReplicator.java,37,15,239
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/NodeStateFile.java,46,107,238
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SpySimulatedConnectionTest.java,55,18,236
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ExtendRecordingTest.java,48,15,236
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/LogAdapter.java,44,15,235
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ResolvedEndpointSystemTest.java,48,15,235
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_executor.c,54,22,234
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/Throughput.cpp,49,15,234
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/ResolutionEntryFlyweight.java,55,182,233
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveMarkFile.java,45,119,232
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/AsyncResourceTest.java,45,17,232
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ArchiveEventLoggerTest.java,35,15,231
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/test/cpp/TestArchive.h,36,17,230
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_array_to_ptr_hash_map.h,54,21,230
+C,/tmp/clone_directory/aeron-samples/src/main/c/streaming_exclusive_publisher.c,42,15,230
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_int64_to_tagged_ptr_hash_map_test.cpp,55,16,229
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ConsensusModuleSnapshotTakerTest.java,35,15,229
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/Ping.cpp,53,16,229
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_fixed_loss.c,45,15,228
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/test/c/aeron_receiver_test.h,45,16,228
+C,/tmp/clone_directory/aeron-samples/src/main/c/cpong.c,46,15,227
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/PriorityHeapTimerService.java,41,50,226
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MdsAndMdcInteractionTest.java,50,15,226
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_conductor_proxy.c,21,15,225
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_str_to_ptr_hash_map.h,53,15,224
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/PendingServiceMessageTracker.java,44,15,224
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/BroadcastTransmitterTest.cpp,35,15,223
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/ChannelUriStringBuilderTest.java,44,15,223
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/StopStartSecondSubscriberTest.java,41,18,223
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/AeronCounters.java,84,310,222
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/client/EgressAdapterTest.java,37,15,220
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_int64_to_ptr_hash_map.h,52,15,219
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SpecifiedPositionPublicationTest.java,35,15,219
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/docgen/ConfigDocGenerator.java,29,16,218
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/AeronArchive.cpp,36,15,218
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveMigration_2_3Test.java,35,19,217
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/RecordingReplication.java,30,18,217
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ServiceProxy.java,39,15,217
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_logbuffer_unblocker_test.cpp,61,15,217
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_counters_manager_test.cpp,54,15,216
+C,/tmp/clone_directory/aeron-samples/src/main/c/streaming_publisher.c,43,15,216
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_dlopen.c,49,16,213
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/AeronStat.java,42,59,213
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ConcurrentPublicationTermRotationRaceTest.java,30,15,212
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/RecordingSession.java,35,34,211
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/StressMdcClient.java,36,49,211
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/DriverEventEncoderTest.java,33,15,210
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_c_cnc_test.cpp,44,15,210
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ControlResponsePoller.java,41,116,209
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ImageAvailabilityTest.java,45,15,209
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/RecordingWriter.java,32,32,208
+CMake,/tmp/clone_directory/aeron-client/src/main/c/CMakeLists.txt,19,14,208
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_distinct_error_log.c,52,15,208
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/BoundedLogAdapter.java,35,19,208
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/NetworkUtil.java,36,68,207
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/Context.h,53,226,206
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/RetransmitHandler.java,32,59,205
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/CommonContextTest.java,41,15,204
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/SubscriptionTest.java,44,15,204
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/DriverEventsAdapter.java,32,18,203
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ChannelEndpointStatusTest.java,52,15,203
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ClusterComponentLogger.java,38,30,202
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/StreamingPublisher.cpp,43,15,202
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/SocketAddressParser.java,24,27,201
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/AgentTests.java,32,15,200
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_bit_set_test.cpp,51,15,200
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_counters_test.cpp,65,16,200
+C,/tmp/clone_directory/aeron-samples/src/main/c/basic_mds_subscriber.c,40,15,200
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/TermReaderTest.cpp,42,15,199
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ControlResponseProxy.java,33,15,198
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/StreamStat.java,45,115,197
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ArchiveEventLogger.java,21,92,196
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/CountersReader.h,42,69,196
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/ringbuffer/OneToOneRingBuffer.h,48,15,196
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MultiDriverTest.java,38,15,196
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MemoryOrderingTest.java,38,15,195
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/LogBuffers.java,41,71,194
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingDescriptorPoller.java,28,70,193
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_executor_test.cpp,53,15,193
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/MediaDriverContextTest.java,43,15,193
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/cluster/ClusterTests.java,28,15,192
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ListRecordingsForUriSessionTest.java,30,15,191
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_retransmit_handler.c,29,16,191
+Bourne Again Shell,/tmp/clone_directory/cppbuild/cppbuild,14,2,191
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ClusterLoggingAgentTest.java,31,15,190
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/tutorial/BasicAuctionClusteredService.java,47,72,190
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/StatusMessageFlyweight.java,47,171,189
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/RecordingSessionTest.java,33,15,188
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/Exceptions.h,26,22,188
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_parse_util_test.cpp,61,15,188
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/TimeTrackingNameResolverTest.java,30,15,188
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_int64_to_ptr_hash_map_test.cpp,51,16,187
+Java,/tmp/clone_directory/aeron-samples/src/test/java/io/aeron/samples/security/SimpleAuthorisationServiceTest.java,45,15,187
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/CountersReader.h,47,71,186
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_mpsc_concurrent_array_queue_test.cpp,48,15,186
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ExclusivePublicationTest.cpp,50,15,186
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/AeronCountersTest.java,28,15,186
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/security/SimpleAuthorisationServiceTest.java,45,15,186
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/status/RecordingPosTest.java,18,15,185
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/security/SimpleAuthorisationService.java,35,91,185
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_strutil.c,43,39,184
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/SimpleAuthorisationService.java,35,91,184
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/buffer/FileStoreLogFactoryTest.java,29,15,184
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/EventLogAgent.java,30,42,183
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/PendingServiceMessageTrackerTest.java,52,15,183
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_int64_counter_map_test.cpp,40,15,182
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_subscribable_test.cpp,39,15,182
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveResponseClientFailuresTest.java,36,15,182
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingSignalPoller.java,32,108,181
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/BufferBuilder.java,35,100,181
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/status/LocalSocketAddressStatus.java,34,76,181
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermUnblockerTest.java,48,15,181
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/buffer/MappedRawLog.java,30,18,181
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_c_local_addresses_test.cpp,59,15,181
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_port_manager_test.cpp,46,15,181
+C++,/tmp/clone_directory/aeron-driver/src/test/c/media/aeron_udp_channel_transport_loss_test.cpp,49,15,181
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/StressUnicastClient.java,29,48,181
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/command/CommandTest.cpp,48,15,179
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DriverNameResolverCache.java,37,18,179
+C,/tmp/clone_directory/aeron-samples/src/main/c/basic_subscriber.c,37,15,179
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/IngressAdapter.java,31,15,178
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/media/NetworkUtilTest.java,49,15,178
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/SystemTest.cpp,39,19,177
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_csv_table_name_resolver.c,34,16,177
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SubscriptionLink.java,34,45,177
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/UntetheredSubscriptionTest.java,34,15,177
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveSystemTests.java,31,15,177
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_broadcast_receiver_test.cpp,70,15,176
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/CubicCongestionControl.java,34,79,176
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingSubscriptionDescriptorPoller.java,27,71,175
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/EgressPoller.java,32,97,175
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_loss.c,33,15,175
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/CommonEventEncoderTest.java,33,15,174
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_counters_manager.h,40,15,174
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/CncFileDescriptor.java,46,260,174
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/MultipleRecordingReplication.java,25,18,174
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_retransmit_handler_test.cpp,40,17,174
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedPingPong.java,34,24,174
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/DriverLoggingAgentTest.java,21,15,173
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_logbuffer_descriptor.h,35,15,173
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/TermBlockScannerTest.cpp,43,15,173
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/media/SocketAddressParserTest.java,25,15,173
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/RecordingDescriptor.java,25,114,173
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ControlSessionDemuxerTest.java,40,15,172
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/TermScannerTest.cpp,48,15,172
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermScannerTest.java,42,15,172
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DriverConductorProxy.java,17,68,172
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/DataTransportPoller.java,29,58,172
+C,/tmp/clone_directory/aeron-samples/src/main/c/rate_subscriber.c,35,15,172
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/PongTest.java,36,18,172
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/Sender.java,34,31,171
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_counter_test.cpp,48,15,171
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/validation/Validator.java,24,29,170
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/SystemTest.cpp,38,15,169
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_name_resolver.c,27,15,169
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_context_config_test.cpp,38,15,169
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ClientContextTest.java,19,17,169
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/CounterTest.java,35,15,169
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/MediaDriverTest.java,20,15,168
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SessionSpecificPublicationTest.java,39,15,168
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/CollectingEventLogReaderAgent.java,31,47,167
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/protocol/aeron_udp_protocol.h,38,15,167
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_ipc_publication.h,41,15,167
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/RecordingReader.java,36,18,166
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_spsc_concurrent_array_queue_test.cpp,42,15,165
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/RecordingReplicationTest.java,28,15,165
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_port_manager.c,31,15,165
+PowerShell,/tmp/clone_directory/cppbuild/cppbuild.ps1,19,16,165
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ConsensusModuleProxy.java,38,34,163
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_position_test.cpp,28,15,163
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ReplicationParams.java,29,155,162
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ReceiverProxy.java,18,18,162
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/test/c/aeron_test_base.h,35,15,162
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_windows.c,43,18,161
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/Aeron.h,44,262,160
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/ConcurrentTest.cpp,47,15,160
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleSnapshotAdapter.java,28,16,159
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/response/ResponseServer.java,32,65,159
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/tutorial/BasicAuctionClusterClient.java,28,53,159
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/ClientCommandAdapterTest.java,20,15,158
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/Pong.cpp,35,15,158
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/status/RecordingPos.java,23,115,157
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/BufferBuilder.h,36,15,157
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/driver/RedirectingNameResolver.java,24,15,157
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/CommonEventEncoder.java,33,33,156
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/EventLogReaderAgent.java,27,34,156
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveToolCliTest.java,31,15,156
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/CommandOption.h,37,15,156
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleSnapshotTaker.java,23,15,156
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_properties_test.cpp,33,15,156
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/TaggedMulticastFlowControlTest.java,26,15,156
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/FileReceiver.java,25,73,156
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/Provisioning.java,28,40,155
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ArchiveEventCode.java,29,44,154
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingDescriptorPoller.cpp,22,15,154
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/DistinctErrorLogTest.cpp,31,15,154
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/Exceptions.h,24,22,153
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermReaderTest.java,29,15,153
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_flow_control.h,26,15,153
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/ReceiveDestinationTransport.java,24,81,153
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/BasicPublisher.cpp,33,17,153
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/LogInspector.java,33,48,153
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ListRecordingsSessionTest.java,28,15,152
+CMake,/tmp/clone_directory/aeron-client/src/main/cpp/CMakeLists.txt,13,18,152
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/MultiRcvDestination.java,28,15,151
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MaxFlowControlStrategySystemTest.java,32,17,151
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveTests.java,16,15,150
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/FragmentAssemblerTest.java,38,15,150
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_cnc.c,28,17,149
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/StringUtil.h,34,15,149
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/command/aeron_control_protocol.h,23,16,148
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/StringUtil.h,36,15,148
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_subscription_test.cpp,38,15,148
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_sender_proxy.c,17,15,148
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_ipc_publication_test.cpp,33,15,148
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MultiSubscriberTest.java,26,15,148
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ControlSessionDemuxerV6Test.java,32,15,147
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterControlAdapter.java,19,15,147
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/NodeStateFileTest.java,21,33,146
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ClusterBackupContextTest.java,27,15,146
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/StartFromTruncatedRecordingLogTest.java,31,15,146
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/tutorial/BasicAuctionClusteredServiceNode.java,21,43,145
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/Aeron.cpp,26,16,144
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_error_test.cpp,36,15,144
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingSubscriptionDescriptorPoller.cpp,22,15,143
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/RateSubscriber.cpp,31,17,143
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/CatalogIndex.java,26,56,142
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/test/c/aeron_test_udp_bindings.h,31,15,142
+CMake,/tmp/clone_directory/aeron-samples/src/main/cpp/CMakeLists.txt,24,15,142
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ReplayMerge.h,34,76,141
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/DriverListenerAdapter.h,29,15,141
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/AgentRunner.h,23,46,141
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/AgentRunner.h,23,46,141
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/DataHeaderFlyweight.java,47,200,141
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/SamplesUtil.java,22,93,141
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/StreamSessionLimitsTest.java,25,15,141
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/EgressAdapter.java,17,35,140
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_bit_set.h,34,15,139
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_send_channel_endpoint.h,28,15,139
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/ControlTransportPoller.java,22,47,139
+Java,/tmp/clone_directory/aeron-samples/src/test/java/io/aeron/samples/archive/RecordingDescriptorCollectorTest.java,26,16,139
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveMigration_1_2.java,22,24,138
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/BufferBuilder.h,33,15,138
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_httputil_test.cpp,27,15,138
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel.h,28,15,138
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/ArchiveCreator.java,26,25,138
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/StressUtil.java,23,35,138
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/BitUtil.h,32,34,137
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/IngressAdapterTest.java,11,15,137
+C,/tmp/clone_directory/aeron-samples/src/main/c/error_stat.c,28,15,137
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SpySubscriptionTest.java,22,15,137
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/BitUtil.h,33,34,136
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/SnapshotReplicationTest.java,37,15,136
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ControlResponsePoller.h,30,113,135
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveCountersTest.java,17,15,135
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/CountersManager.h,35,15,135
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_array_to_ptr_hash_map_test.cpp,34,15,135
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_strutil_test.cpp,34,15,135
+C,/tmp/clone_directory/aeron-samples/src/main/c/aeron_stat.c,27,15,135
+XML,/tmp/clone_directory/config/checkstyle/checkstyle.xml,58,0,135
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveMigration_0_1.java,20,24,133
+C,/tmp/clone_directory/aeron-client/src/main/c/reports/aeron_loss_reporter.c,26,16,133
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_c_multi_destination_test.cpp,36,15,133
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_term_scanner_test.cpp,42,15,133
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/Ping.java,23,28,133
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/EgressPublisher.java,23,15,132
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/SnapshotTaker.java,21,93,132
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_data_packet_dispatcher.h,24,19,132
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/EmbeddedRecordingThroughput.java,27,26,132
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/WildcardPortManagerSystemTest.java,32,15,132
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveResponseClientTest.java,21,42,132
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/atomic/Atomic64_gcc_x86_64.h,32,20,131
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/MultiDestinationTest.cpp,50,18,131
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/test/c/EmbeddedMediaDriver.h,28,15,131
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/BufferClaimMessageTest.java,24,15,131
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SystemTests.java,24,15,131
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/FlyweightTest.java,25,16,130
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeronmd.c,27,15,130
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ClientProxy.java,26,21,130
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/StreamCounter.java,31,97,130
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/cluster/TestBackupNode.java,24,15,130
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/RecordingReplicator.java,27,113,129
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermBlockScannerTest.java,28,15,128
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/MinMulticastFlowControlTest.java,23,15,128
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/RecordingSignalCapture.java,13,103,128
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ControlResponseAdapter.java,18,44,127
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedDualExclusiveThroughput.java,26,25,127
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterControl.java,38,105,126
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/RecoveryState.java,30,97,126
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SubscriptionParams.java,25,18,126
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/BasicSubscriber.cpp,28,17,126
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/MediaDriverTestUtil.java,18,15,126
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveMigration_2_3.java,32,28,125
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/Header.java,28,147,125
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/NameResolutionClusterNodeTest.java,17,15,125
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_receiver_proxy.h,22,15,125
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_receive_destination.c,24,16,125
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ArchiveComponentLogger.java,23,30,124
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/CounterProcessor.java,23,22,124
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_broadcast_transmitter_test.cpp,45,15,124
+C++,/tmp/clone_directory/aeron-driver/src/test/c/media/aeron_udp_channel_transport_multi_gap_loss_test.cpp,29,15,124
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/TwoBufferOfferMessageTest.java,27,15,124
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/ArchiveDeleteAndRestartTest.java,32,15,124
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/aeron/build/AsciidoctorPreprocessTask.java,29,54,124
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/errors/DistinctErrorLog.h,37,15,123
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermGapFillerTest.java,25,15,123
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_common.h,28,15,123
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_conductor_proxy.h,22,15,123
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ArchiveLoggingAgentTest.java,21,15,122
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/PublishFromArbitraryPositionTest.java,23,15,122
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_spsc_concurrent_array_queue.h,31,15,121
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/Header.h,28,98,121
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ChannelUriStringBuilderTest.cpp,38,15,121
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/service/ServiceSnapshotTakerTest.java,14,15,121
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_clock.c,33,15,120
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusterCounters.java,19,60,120
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterWithNoServicesTest.java,20,15,120
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_name_resolver_cache.c,26,15,120
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_term_gap_filler_test.cpp,31,15,120
+Java,/tmp/clone_directory/aeron-test-support/src/test/java/io/aeron/test/DataCollectorTest.java,25,15,120
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp/ClientConductorFixture.h,23,16,119
+C,/tmp/clone_directory/aeron-samples/src/main/c/loss_stat.c,19,15,119
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ChannelEndpointInterceptor.java,12,15,118
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/CreateReplayPublicationSession.java,12,30,118
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_symbol_table.c,29,15,118
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/CncFileDescriptor.h,31,63,118
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/FrameDescriptor.java,40,223,118
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/response/ResponseClient.java,21,88,118
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/uri/aeron_uri.h,23,15,117
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/SetupFlyweight.java,41,155,117
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingEventsPoller.java,23,61,116
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/CounterMessageFlyweight.java,24,128,116
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp_shared/EmbeddedMediaDriver.h,22,15,116
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/LossStat.cpp,23,16,116
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ClusterEventDissectorTest.java,15,15,115
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/RecordingEventsProxy.java,18,18,115
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/PublicationGroupTest.java,23,15,115
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/service/ClusteredServiceAgentTest.java,23,15,115
+C,/tmp/clone_directory/aeron-samples/src/main/c/driver_tool.c,25,15,115
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/SendSelectReceiveUdpPing.java,27,26,115
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ControlledMessageTest.java,22,15,115
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/CmdInterceptor.java,28,15,114
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_mpsc_concurrent_array_queue.h,26,15,114
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/ImageBuffersReadyFlyweight.h,28,48,114
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleAdapter.java,23,15,114
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ConsensusModuleContextCloseTests.java,19,15,114
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/buffer/FileStoreLogFactory.java,25,47,114
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/StressMdcServer.java,25,41,114
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_deque.c,25,3,113
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/LogBufferUnblockerTest.java,34,15,113
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_alloc.c,18,16,112
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/TermGapScannerTest.cpp,29,15,112
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/media/WildcardPortManagerTest.java,24,15,112
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/GapFillLossTest.java,25,15,112
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_bitutil.h,31,20,111
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/ControlledFragmentAssembler.h,20,46,111
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/util/CommandOption.cpp,21,15,111
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_position.h,18,15,111
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/ReceiveChannelEndpointThreadLocals.java,25,70,111
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/WildcardPortManager.java,24,40,111
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ConfigOptionTest.java,20,15,110
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/Context.cpp,24,15,110
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/ErrorLogReaderTest.cpp,35,15,110
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/HeaderTest.java,21,15,110
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/InterfaceSearchAddress.java,26,15,110
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/UdpNameResolutionTransport.java,18,70,110
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/BurstSendReceiveUdpPing.java,22,26,110
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ArchiveEventEncoder.java,17,15,109
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/version/VersionProcessor.java,10,24,109
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ControlResponsePoller.cpp,26,15,109
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ContainerClientSession.java,20,18,109
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/StreamingPublisher.java,23,30,109
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/CounterReferencesTest.java,23,15,109
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/PublicationUnblockTest.java,20,15,109
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/atomic/Atomic64_gcc_cpp11.h,27,23,108
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/HeaderFlyweight.java,43,154,108
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/RecordedBasicPublisher.java,20,32,108
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/AbstractListRecordingsSession.java,18,30,107
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/AtomicArrayUpdater.h,36,19,107
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/LocalAddressesTest.cpp,27,15,107
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ServiceSnapshotLoader.java,22,15,107
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/SendHackSelectReceiveUdpPing.java,24,26,107
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/MultiNodeTest.java,30,15,107
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/aeron/build/DeduplicateTask.java,13,33,107
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveMarkFileTest.java,15,15,106
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_image.h,25,15,106
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleStateExport.java,12,15,106
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/driver/DriverSpaceTest.java,13,15,106
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/CommonEventDissector.java,21,15,105
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DriverEventCode.java,37,28,105
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ControlledFragmentAssembler.java,19,79,105
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermReader.java,15,62,105
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_str_to_ptr_hash_map_test.cpp,30,15,105
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/FileSender.java,21,73,105
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/security/SimpleAuthenticator.java,19,54,105
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DriverInterceptor.java,11,15,104
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/NodeControl.java,28,81,104
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/PublicationGroup.java,20,15,104
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/SendReceiveUdpPing.java,22,26,104
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/FragmentedMessageTest.java,22,15,104
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MultipleMulticastsSubscriptionsTest.java,18,15,104
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/protocol/SetupFlyweight.h,25,20,103
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/FragmentAssembler.java,17,77,103
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/ImageBuffersReadyFlyweight.java,30,152,103
+C,/tmp/clone_directory/aeron-samples/src/main/c/sample_util.c,19,15,103
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MultiGapLossAndRecoverySystemTest.java,19,19,103
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/validation/Validator.java,16,18,102
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingPos.h,20,75,102
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/SimpleAuthenticator.java,19,54,102
+Bourne Shell,/tmp/clone_directory/gradlew,28,115,102
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingSignalAdapter.java,17,45,101
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SenderProxy.java,12,18,101
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/MultiplePublishersWithFragmentation.java,9,28,101
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MdsEosPositionTest.java,24,15,101
+CMake,/tmp/clone_directory/aeron-archive/src/main/cpp/CMakeLists.txt,14,16,100
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/util/UtilTest.cpp,18,17,100
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/MultiClusteredServicesTest.java,20,15,100
+C,/tmp/clone_directory/aeron-client/src/main/c/aeronc.c,19,15,99
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/PublicationBuffersReadyFlyweight.h,23,43,99
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/SampleAuthenticator.java,18,50,99
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/aeron/build/TutorialPublishTask.java,24,54,99
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/FragmentAssembler.h,20,46,98
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/BackOffIdleStrategy.h,15,15,98
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/broadcast/BroadcastReceiver.h,25,15,98
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/BackOffIdleStrategy.h,15,15,98
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/EchoPair.java,15,63,98
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/WriteReceiveUdpPing.java,19,25,98
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_receiver.h,22,15,97
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_loss_detector.c,19,15,97
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/MultipleSubscribersWithFragmentAssembly.java,19,51,97
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/CRC64.java,16,44,97
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/RacingCatchupClusterTest.java,24,15,97
+DOS Batch,/tmp/clone_directory/cppbuild/cppbuild.cmd,10,0,97
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveCounters.java,16,51,96
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_exclusive_publication.h,23,15,96
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_linked_queue.c,25,16,96
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/MemoryMappedFile.h,23,15,96
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/IpcPublicationTest.java,18,15,96
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MinPositionSubscriptionTest.java,18,15,96
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/driver/TestMediaDriver.java,17,15,96
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_subscription.h,26,15,95
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/CountersTest.cpp,28,15,95
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermRebuilderTest.java,21,15,95
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/validation/Grep.java,21,52,94
+C,/tmp/clone_directory/aeron-client/src/main/c/status/aeron_local_sockaddr.c,23,15,94
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/logbuffer/FrameDescriptor.h,28,42,94
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ResponseChannelsTest.cpp,26,15,94
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/UntetheredSubscriptionTest.java,19,15,94
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/AtomicCounter.h,23,15,93
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/PublicationBuffersReadyFlyweight.java,28,140,93
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/DebugReceiveChannelEndpoint.java,14,48,93
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedExclusiveVectoredIpcThroughput.java,18,24,93
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_deque_test.cpp,27,15,92
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/StressUnicastServer.java,18,41,92
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/SubscriptionReconnectTest.java,21,15,92
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_cnc_file_descriptor.c,19,15,91
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_blocking_linked_queue.c,37,15,91
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/atomic/Atomic64_msvc.h,26,19,91
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedExclusiveSpiedThroughput.java,20,25,91
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/driver/JavaTestMediaDriver.java,16,15,91
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_logbuffer_descriptor.c,10,15,90
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/ImageControlledFragmentAssembler.h,17,38,90
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/FrameDescriptor.h,28,42,90
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_loss_detector.h,19,15,90
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_system_counters.c,11,15,90
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/TimeTrackingNameResolver.java,13,30,90
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/ProvisioningServerMain.java,14,41,90
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ListRecordingSubscriptionsSession.java,14,30,89
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/SessionWorker.java,19,45,89
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_atomic64_gcc_x86_64.h,13,21,89
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingSignalAdapter.cpp,12,15,88
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_fragment_assembler.h,19,15,88
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/CounterMessageFlyweight.h,24,40,88
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/AtomicCounter.h,21,15,88
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/AgentInvoker.h,16,47,88
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleSnapshotPrinter.java,11,15,88
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedThroughput.java,19,24,88
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingDescriptorPoller.h,18,67,87
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_cnc_file_descriptor.h,20,15,87
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_unblocker.c,14,15,87
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/Subscription.cpp,22,15,87
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/AgentInvoker.h,16,47,87
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/DirectBufferVector.java,20,86,87
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermUnblocker.java,17,52,87
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/LogReplay.java,12,15,87
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_destination_tracker.h,18,16,87
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DynamicLoggingAgent.java,14,23,86
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingEventsAdapter.cpp,10,15,86
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/broadcast/BroadcastTransmitter.h,20,15,86
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/SnapshotReplication.java,13,18,86
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/LossDetector.java,20,62,86
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedBufferClaimIpcThroughput.java,18,25,86
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedExclusiveBufferClaimIpcThroughput.java,18,25,86
+YAML,/tmp/clone_directory/.github/workflows/codeql.yml,12,2,85
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ConfigOption.java,23,63,85
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/EventConfigurationTest.java,10,15,85
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/checksum/ChecksumsTest.java,15,15,85
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/WheelTimerService.java,22,30,85
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/MultiGapLossGenerator.java,18,33,85
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedExclusiveIpcThroughput.java,17,24,85
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedIpcThroughput.java,17,24,85
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ClientErrorHandlerTest.java,18,15,85
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ClusterEventCode.java,38,107,84
+Markdown,/tmp/clone_directory/aeron-archive/README.md,30,0,84
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ControlResponseAdapter.cpp,9,15,84
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingEventsPoller.cpp,14,15,84
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/protocol/NakFlyweight.h,21,20,84
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ControlledFragmentAssembler.h,16,46,84
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/RttMeasurementFlyweight.java,29,114,84
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ChannelUriTest.cpp,26,15,84
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/PendingSetupMessageFromSource.java,17,15,84
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/reports/LossReportReader.java,15,49,84
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_config_test.cpp,21,15,84
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/EmbeddedExclusiveThroughput.java,19,24,84
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/ClusterInstrumentor.java,12,15,84
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/protocol/DataHeaderFlyweight.h,21,20,83
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/protocol/StatusMessageFlyweight.h,22,43,83
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/NakFlyweight.java,28,113,83
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/FailedFirstElectionClusterTest.java,18,15,83
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/EventConfiguration.java,16,33,82
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/status/HeartbeatTimestamp.java,13,61,82
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/DebugSendChannelEndpoint.java,12,46,82
+CMake,/tmp/clone_directory/aeron-driver/src/test/c/CMakeLists.txt,17,14,82
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/CncFileReader.java,19,52,82
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/SelectReceiveSendUdpPong.java,20,26,82
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ArchiveException.java,28,131,81
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_agent.h,25,15,81
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ImageControlledFragmentAssembler.h,15,38,81
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterBackupMediaDriver.java,18,55,81
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SystemCounterDescriptor.java,47,160,81
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/RecordingDescriptorCollector.java,10,79,81
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ArchiveEventEncoderTest.java,15,15,80
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_counter.c,18,15,80
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/AeronCounters.h,77,253,80
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/CommandOptionParser.h,17,15,80
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusteredMediaDriver.java,17,55,80
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_congestion_control.h,19,15,80
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_name_resolver_cache_test.cpp,19,15,80
+CMake,/tmp/clone_directory/aeron-samples/src/main/c/CMakeLists.txt,24,15,80
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/StalledLeaderLogReplicationClusterTest.java,16,15,80
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_counters.h,69,21,79
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/status/StatusIndicatorReader.h,17,15,79
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/BufferClaim.java,20,105,79
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/BasicPublisher.java,15,38,79
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/DriverTool.java,13,25,79
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ArchiveInterceptor.java,7,18,78
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingEventsAdapter.java,13,33,78
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/ExclusivePublication.cpp,15,15,78
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/status/LocalSocketAddressStatus.h,15,15,78
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/status/StatusIndicatorReader.h,17,15,78
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/logbuffer/Header.h,22,82,78
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/ReceiveSendUdpPong.java,17,26,78
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingSubscriptionDescriptorPoller.h,18,59,77
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/protocol/HeaderFlyweight.h,21,25,77
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ServiceAdapter.java,15,15,77
+C/C++ Header,/tmp/clone_directory/aeron-samples/src/main/cpp/RateReporter.h,23,15,77
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/RateReporter.java,15,46,77
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/MaxPositionPublicationTest.java,16,15,77
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/utility/Processor.java,19,24,76
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_thread.h,38,16,76
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_blocking_linked_queue_test.cpp,21,15,76
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_socket.h,31,17,75
+CMake,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/CMakeLists.txt,8,16,75
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ImageControlledFragmentAssembler.java,14,65,75
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_sender.h,16,15,75
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport.h,15,15,75
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/reports/LossReport.java,25,108,75
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/ImageRateSubscriber.java,16,34,75
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/Pong.java,15,27,75
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ErrorHandlerTest.java,20,15,75
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/DeleteSegmentsSession.java,12,30,74
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/CatalogViewTest.java,17,15,74
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ControlSessionTest.java,13,15,74
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_broadcast_transmitter.c,16,15,74
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_fileutil.h,29,15,74
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/Flyweight.h,19,15,74
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/AeronException.java,17,109,74
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/DriverProxyTest.java,15,15,74
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/MaxMulticastFlowControl.java,16,54,74
+Java,/tmp/clone_directory/aeron-samples/src/test/java/io/aeron/samples/security/SimpleAuthenticatorTest.java,19,15,74
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchivingMediaDriver.java,15,49,73
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ReplayParams.java,15,97,73
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_atomic64_msvc.h,12,15,73
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ImageFragmentAssembler.java,12,61,73
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/UnicastFlowControl.java,14,51,73
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/security/SimpleAuthenticatorTest.java,19,15,73
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/launcher/FileResolveUtil.java,17,15,73
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/Publication.cpp,14,15,72
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/Cluster.java,31,263,72
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/AeronClient.java,15,27,72
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/StatusUtil.java,13,40,72
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/ReceiverLivenessTrackerTest.java,20,15,72
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/Common.java,18,33,72
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/HackSelectReceiveSendUdpPong.java,18,26,72
+Python,/tmp/clone_directory/aeron-system-tests/scripts/provisioning/fabfile.py,19,0,72
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/SingleNodeTest.java,15,15,72
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/launcher/RemoteLaunchClient.java,16,15,72
+XML,/tmp/clone_directory/config/ide/clion/aeron_cpp.xml,0,0,72
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_broadcast_receiver.c,20,15,71
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_mpsc_rb.h,22,15,71
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_spsc_rb.h,23,15,71
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/BufferClaim.h,24,79,71
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/SubscriptionMessageFlyweight.java,20,101,71
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ServiceAck.java,16,18,71
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/service/ClusterMarkFileTest.java,8,15,71
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/CommonEventDissectorTest.java,20,15,70
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_atomic64_c11.h,11,25,70
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/ImageFragmentAssembler.h,16,38,70
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/ImageMessageFlyweight.h,17,36,69
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/TestUtil.h,7,3,69
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/NetworkPublicationThreadLocals.java,17,15,69
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/ReplayedBasicSubscriber.java,18,25,69
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/logbuffer/BufferClaim.h,23,77,68
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/ImageMessageFlyweight.java,22,99,68
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_name_resolver.h,18,20,68
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/buffer/TestLogFactory.java,17,15,68
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/ErrorStat.java,11,25,68
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/SimplePublisher.java,13,38,68
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/ReceiveWriteUdpPong.java,15,26,68
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/cluster/StubClusteredService.java,12,15,68
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_broadcast_receiver.h,23,15,67
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/util/CommandOptionParser.cpp,14,15,67
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/logbuffer/LogBufferDescriptor.h,18,91,67
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/status/ReadableCounter.java,16,81,67
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/LogBuffersTest.java,9,15,67
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/TermGapScannerTest.java,21,15,67
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ArchiveException.h,11,28,66
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingEventsPoller.h,18,59,66
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/SharedModeArchiveConductor.java,14,15,66
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/validation/ValidationReport.java,9,15,65
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/MemoryMappedFile.h,19,15,65
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_publication.h,16,15,64
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/HeaderWriter.java,12,35,64
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/status/ChannelEndpointStatus.java,20,56,64
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/logbuffer/LogBufferDescriptorTest.java,14,15,64
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_system_counters.h,10,16,64
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/NetworkSubscriptionLink.java,14,15,64
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/TerminateDriverTest.java,12,15,64
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/LifecycleTest.java,14,15,64
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/RecoverAfterFailedCatchupClusterTest.java,13,15,64
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/validation/ValidationReport.java,9,15,63
+C,/tmp/clone_directory/aeron-client/src/main/c/protocol/aeron_udp_protocol.c,18,15,63
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_strutil.h,18,37,63
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/SubscriptionMessageFlyweight.h,15,39,63
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ServiceSnapshotTaker.java,7,15,63
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/uri/aeron_driver_uri.h,12,15,63
+Markdown,/tmp/clone_directory/README.md,20,0,62
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/TermReader.h,17,25,62
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/TerminateDriverFlyweight.java,13,80,62
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/SampleConfiguration.java,8,23,62
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/checksum/Crc32.java,9,18,61
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_arrayutil.h,14,15,61
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/CommandOption.h,27,15,61
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/DestinationMessageFlyweight.java,17,89,61
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/PublicationMessageFlyweight.java,17,89,61
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/reports/LossReportReaderTest.java,17,15,61
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/driver/ExperimentalDriverFeaturesTest.java,9,15,61
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/ArchiveToolSeparateMarkFileTest.java,11,15,60
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusteredArchive.java,13,49,60
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/StaticWindowCongestionControl.java,13,58,60
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/DebugChannelEndpointConfiguration.java,24,70,60
+C++,/tmp/clone_directory/aeron-samples/src/main/cpp/raw/TimeTests.cpp,25,15,60
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/EchoService.java,10,15,60
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/CatalogView.java,8,35,59
+C++,/tmp/clone_directory/aeron-client/src/test/c/collections/aeron_linked_queue_test.cpp,13,15,59
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterTermination.java,12,15,59
+XML,/tmp/clone_directory/aeron-cluster/src/main/resources/cluster/aeron-cluster-mark-codecs.xml,2,0,59
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_retransmit_handler.h,15,15,59
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/CommandProxy.java,11,18,59
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/aeron/build/GithubUtil.java,14,15,59
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_distinct_error_log.h,14,15,58
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/Counter.java,14,41,58
+C++,/tmp/clone_directory/aeron-client/src/test/c/aeron_version_test.cpp,14,15,58
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/ext/FixedLossGeneratorTest.java,12,15,58
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/reports/LossReportTest.java,11,15,58
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/InterruptingTestCallback.java,12,15,58
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/ErrorResponseFlyweight.h,14,33,57
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/reports/LossReportReader.h,16,22,57
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultMulticastFlowControlSupplier.java,11,25,57
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/EchoServiceNode.java,10,23,57
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/checksum/Crc32c.java,9,24,56
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/status/UnsafeBufferPosition.h,15,15,56
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/ErrorResponseFlyweight.java,14,89,56
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/util/MemoryMappedFileTest.cpp,19,15,56
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/StandbySnapshotEntry.java,9,15,56
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_sender_proxy.h,14,15,56
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultCongestionControlSupplier.java,5,22,56
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/TaggedMulticastFlowControl.java,11,33,56
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/ext/CubicCongestionControlTest.java,11,15,56
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/status/UnsafeBufferPosition.h,15,15,55
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/CncFileReader.h,13,15,55
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ErrorCode.java,27,72,55
+CMake,/tmp/clone_directory/aeron-client/src/test/c/CMakeLists.txt,7,15,55
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/FixedLossGenerator.java,9,32,55
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ImageRangeTest.java,8,15,55
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/ReentrantClientTest.java,12,15,55
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/driver/SystemCountersTest.java,9,15,55
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/cluster/TestClusterClock.java,14,15,55
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/validation/Validation.java,13,15,54
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_http_util.h,15,15,54
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/DestinationMessageFlyweight.h,14,37,54
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/PublicationMessageFlyweight.h,16,36,54
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_symbol_table_test.cpp,13,15,54
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ElectionState.java,28,90,54
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/status/DutyCycleStallTrackerTest.java,10,15,54
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/SegmentInspector.java,11,32,54
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ArchiveEventCodeTest.java,8,15,53
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ControlSessionProxy.java,11,27,53
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/TermScanner.h,16,15,53
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/RegistrationException.java,13,59,53
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermScanner.java,11,48,53
+CMake,/tmp/clone_directory/aeron-client/src/test/cpp/CMakeLists.txt,6,15,53
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/MockAtomicBuffer.h,13,15,53
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/FailControlResponseListener.java,4,15,52
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_rb.h,14,15,52
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/reports/aeron_loss_reporter.h,13,15,52
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/LogBuffers.cpp,17,15,52
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermGapScanner.java,10,41,52
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusterClock.java,15,59,52
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/TerminateDriverFlyweight.h,15,36,51
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/broadcast/CopyBroadcastReceiver.h,18,16,51
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/FlowControl.java,12,97,51
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/DefaultMulticastFlowControlSupplierTest.java,8,15,51
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/RateSubscriber.java,14,25,51
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/RegistrationAndOwnerTest.java,13,15,51
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ControlRequestDecoders.java,2,15,50
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_gap_scanner.h,14,15,50
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/RecordingExtent.java,4,20,50
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/SnapshotDurationTracker.java,11,49,50
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/DutyCycleStallTracker.java,10,47,50
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/AdjustableClock.java,9,15,50
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/HeartbeatTimestamp.h,13,46,49
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/HeartbeatTimestamp.h,13,46,49
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/ScopeUtils.h,16,15,49
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/ResponseSetupFlyweight.java,19,76,49
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ToggleApplication.java,13,15,49
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_name_resolver_cache.h,11,15,49
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/test/driver/TestMediaDriverTest.java,8,15,49
+Java,/tmp/clone_directory/aeron-test-support/src/test/java/io/aeron/test/launcher/RemoteLauncherTest.java,6,15,49
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/validation/Validation.java,12,15,48
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterBackupAgentTest.java,10,15,48
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/PublicationLink.java,9,27,48
+Java,/tmp/clone_directory/aeron-samples/src/test/java/io/aeron/samples/LogInspectorAsciiFormatBytesTest.java,9,15,48
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/checksum/Crc32cTest.java,7,15,47
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_context.h,22,15,47
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/Counter.h,14,17,47
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/FragmentAssembler.h,15,47,47
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/setup-namespaces,13,20,47
+C/C++ Header,/tmp/clone_directory/aeron-samples/src/main/c/sample_util.h,14,15,47
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/DefaultType.java,10,32,46
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/errors/ErrorLogReader.h,15,15,46
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/c/aeron_client_test_utils.h,16,15,46
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/client/AeronClusterContextTest.java,9,15,46
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_transport_poller.h,12,15,46
+Markdown,/tmp/clone_directory/aeron-samples/scripts/archive/README.md,25,0,46
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/CountersAnswer.java,6,28,46
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/ControlResponseAdapter.h,11,46,45
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingSignalAdapter.h,11,40,45
+XML,/tmp/clone_directory/aeron-archive/src/main/resources/archive/aeron-archive-mark-codecs.xml,2,0,45
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/Counter.h,16,19,45
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/CorrelatedMessageFlyweight.h,12,26,45
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/CounterUpdateFlyweight.h,11,27,45
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/SubscriptionReadyFlyweight.h,11,27,45
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/CorrelatedMessageFlyweight.java,13,66,45
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/exceptions/StorageSpaceExceptionTest.java,8,15,45
+XML,/tmp/clone_directory/aeron-cluster/src/main/resources/cluster/aeron-cluster-node-state-codecs.xml,6,3,45
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_receive_destination.h,10,15,45
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/SimpleSubscriber.java,14,47,45
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/cluster/AppointedLeaderTest.java,10,15,45
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/RecordingEventsAdapter.h,11,54,44
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ListRecordingsForUriSession.java,6,15,44
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/TermBlockScanner.h,17,24,44
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/TermGapScanner.h,14,15,44
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/ringbuffer/RecordDescriptor.h,16,32,44
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ImageFragmentAssembler.h,13,38,44
+CMake,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/CMakeLists.txt,14,15,44
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/LivenessTimeoutTest.cpp,10,17,44
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ActiveLogEvent.java,3,18,44
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/OptimalMulticastDelayGenerator.java,10,80,44
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/ext/MultiGapLossGeneratorTest.java,7,15,44
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/FlowControlTests.java,8,15,44
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/TermBufferLengthTest.java,7,15,44
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/archive/TestRecordingSignalConsumer.java,6,15,44
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/MigrationUtils.java,11,15,43
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/MacroUtil.h,13,15,43
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/command/CounterMessageFlyweightTest.java,12,15,43
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/LogSourceValidatorTest.java,12,15,43
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SessionKey.java,9,27,43
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/ShutdownBarrier.java,7,17,43
+YAML,/tmp/clone_directory/.github/workflows/release.yml,4,0,42
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/CleanupInterceptor.java,6,15,42
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/checksum/Checksums.java,6,40,42
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_version.c,12,15,42
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_netutil.h,34,17,42
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/DataFrameHeader.h,12,15,42
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/ClientConductor.h,18,15,42
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_port_manager.h,11,15,42
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/RemoveMessageFlyweight.h,10,32,41
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterSessionProxy.java,11,18,41
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/ControlledEgressListener.java,5,61,41
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_scanner.h,10,15,40
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/CncFileReader.h,11,15,40
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/EgressListener.java,5,58,40
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/IngressSessionDecorator.java,8,58,40
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusteredService.java,12,111,40
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_termination_validator.c,7,15,40
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/ClusterEventCodeTest.java,7,15,39
+CMake,/tmp/clone_directory/aeron-archive/src/test/cpp/CMakeLists.txt,7,15,39
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/LogBufferUnblocker.java,9,27,39
+Markdown,/tmp/clone_directory/aeron-cluster/README.md,14,0,39
+C,/tmp/clone_directory/aeron-driver/src/main/c/concurrent/aeron_logbuffer_unblocker.c,12,15,39
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/CounterLink.java,8,27,39
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SubscriberPosition.java,8,21,39
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/basic-auction-cluster-ns,11,17,39
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleSnapshotListener.java,9,15,38
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/ClusterException.java,10,66,38
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_duty_cycle_tracker.h,11,15,38
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DutyCycleTracker.java,8,36,38
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/driver/DriverShouldStartIfAeronDirectoryExistsTest.java,6,15,38
+XML,/tmp/clone_directory/config/ide/idea/aeron.xml,0,0,38
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/TimeoutException.java,8,60,37
+C/C++ Header,/tmp/clone_directory/aeron-client/src/test/cpp/util/TestUtils.h,12,15,37
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/CongestionControl.java,14,92,37
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultUnicastFlowControlSupplier.java,8,25,37
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/CubicCongestionControlSupplier.java,3,24,37
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/StaticWindowCongestionControlTest.java,11,15,37
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/BasicSubscriber.java,11,38,37
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_dlopen.h,14,15,36
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_error.h,9,15,36
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/broadcast/RecordDescriptor.h,15,27,36
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/status/ReadablePosition.h,12,15,36
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/status/ReadablePosition.h,12,15,36
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/CounterUpdateFlyweight.java,12,62,36
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/RemoveMessageFlyweight.java,10,61,36
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/SubscriptionReadyFlyweight.java,12,62,36
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermBlockScanner.java,10,33,36
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ControlledFragmentAssemblerTest.cpp,8,15,36
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/FragmentAssemblerTest.cpp,8,15,36
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ImageControlledFragmentAssemblerTest.cpp,8,15,36
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ImageFragmentAssemblerTest.cpp,8,15,36
+Markdown,/tmp/clone_directory/aeron-driver/src/main/c/README.md,15,0,36
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/UntetheredSubscription.java,6,17,36
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/Config.java,22,81,35
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/ConfigInfo.java,24,21,35
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/validation/Entry.java,5,15,35
+C,/tmp/clone_directory/aeron-client/src/main/c/aeron_log_buffer.c,9,15,35
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/ClientTimeoutFlyweight.h,9,25,35
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/ControlProtocolEvents.h,7,44,35
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/command/OperationSucceededFlyweight.h,9,25,35
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/reports/LossReportDescriptor.h,10,48,35
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/StaticDelayGenerator.java,7,51,35
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/agent-ns,10,15,35
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/basic-auction-cluster,8,17,35
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ControlInterceptor.java,5,15,34
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_multi_gap_loss.h,10,15,34
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_configuration_test.cpp,8,15,34
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/ImageRateReporter.java,9,28,34
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_mpsc_concurrent_array_queue.c,11,15,33
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_spsc_concurrent_array_queue.c,12,15,33
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/security/AuthorisationServiceTest.java,7,15,33
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/ImageConnection.java,10,36,33
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SubscriberPos.java,6,38,33
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/ProvisioningClientMain.java,7,25,33
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/checksum/Crc32Test.java,4,15,32
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/HeaderWriter.h,10,18,32
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ControlledFragmentAssemblerTest.cpp,8,15,32
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/FragmentAssemblerTest.cpp,8,15,32
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ImageControlledFragmentAssemblerTest.cpp,8,15,32
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ImageFragmentAssemblerTest.cpp,8,15,32
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/command/TerminateDriverFlyweightTest.java,7,15,32
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/WheelTimerServiceSupplier.java,6,32,32
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ReceiverLivenessTracker.java,7,15,32
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_executor.h,13,16,31
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/BusySpinIdleStrategy.h,12,15,31
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/SleepingIdleStrategy.h,10,15,31
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermGapFiller.java,7,30,31
+C++,/tmp/clone_directory/aeron-client/src/test/cpp_wrapper/ExceptionsTest.cpp,8,15,31
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SystemCounters.java,7,35,31
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/SetControllableIdleStrategy.java,4,26,31
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/Samples.java,8,29,31
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/CountingFragmentHandler.java,6,15,31
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_parse_util.h,12,15,30
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_properties_util.h,11,15,30
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/Counter.cpp,7,15,30
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/LangUtil.h,10,22,30
+C,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_timestamps.c,4,15,30
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/FlowControlReceivers.java,5,35,30
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveMigrationPlanner.java,7,26,29
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_hashing.h,11,15,29
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/logbuffer/DataFrameHeader.h,12,15,29
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/DefaultAuthenticatorSupplier.java,9,33,29
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/PerImageIndicator.java,4,34,29
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SenderBpe.java,5,36,29
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/java-common.cmd,7,15,29
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/TestContexts.java,5,15,29
+Bourne Shell,/tmp/clone_directory/run-ci-tests.sh,5,0,29
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_broadcast_descriptor.h,8,15,28
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_rebuilder.h,8,15,28
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/LogBuffers.h,12,15,28
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/ControlProtocolEvents.java,26,92,28
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/MinMulticastFlowControl.java,6,28,28
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/FlowControlTest.java,8,15,28
+Markdown,/tmp/clone_directory/aeron-samples/README.md,14,0,28
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/basic-auction-client-ns,7,17,28
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/java-common,9,15,28
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/LossStat.java,7,23,28
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/ProvisioningMessage.java,4,28,28
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/utility/ElementIO.java,3,28,27
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ListRecordingsSession.java,3,15,27
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/RecordingSummary.java,10,48,27
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_counter.h,8,15,27
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_platform.h,9,19,27
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/ringbuffer/RingBufferDescriptor.h,11,17,27
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/YieldingIdleStrategy.h,11,15,27
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/StorageSpaceException.java,4,30,27
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/AuthenticationException.java,7,47,27
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/NanosecondClusterClock.java,7,33,27
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_name_resolver.h,7,15,27
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_fixed_loss.h,9,15,27
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_udp_channel_transport_loss.h,9,15,27
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/NetworkInterfaceShim.java,7,15,27
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/DefaultNameResolverTest.java,9,15,27
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/LowLatencyMediaDriver.java,6,24,27
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/HideStdErrExtension.java,5,15,27
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/aeron/build/AsciidocUtil.java,6,15,27
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,9,0,26
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/LogUtilTest.java,5,15,26
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_gap_filler.c,7,15,26
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_symbol_table.h,8,15,26
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/errors/ErrorLogDescriptor.h,11,46,26
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_driver_conductor_clock_test.cpp,5,15,26
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/basic-auction-client,6,17,26
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/RandomWatcher.java,7,15,26
+Java,/tmp/clone_directory/aeron-archive/src/test/java/io/aeron/archive/FailRecordingEventsListener.java,5,15,25
+Markdown,/tmp/clone_directory/aeron-client/src/main/c/README.md,11,0,25
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_math.h,9,15,25
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/ClientTimeoutFlyweight.java,9,49,25
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/OperationSucceededFlyweight.java,9,49,25
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/AeronContextTest.java,6,15,25
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/VerifyBuildTimePropertiesTest.java,7,15,25
+C++,/tmp/clone_directory/aeron-driver/src/test/c/aeron_c_terminate_test.cpp,9,15,25
+C++,/tmp/clone_directory/aeron-archive/src/main/cpp/client/AeronArchiveVersion.cpp,7,15,24
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingDescriptorConsumer.java,2,38,24
+C++,/tmp/clone_directory/aeron-client/src/main/cpp/AeronVersion.cpp,7,15,24
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/CommandOptionParser.h,11,15,24
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver.h,6,15,24
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/NameResolver.java,7,57,24
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SpySubscriptionLink.java,6,15,24
+Java,/tmp/clone_directory/aeron-system-tests/src/test/java/io/aeron/PrintEnvInfoTest.java,3,15,24
+C++,/tmp/clone_directory/aeron-archive/src/test/cpp/client/AeronArchiveVersionTest.cpp,8,15,23
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_int64_counter_map.c,19,15,23
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_blocking_linked_queue.h,13,15,23
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleExtension.java,9,68,23
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/LogSourceValidator.java,5,15,23
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultNameResolver.java,5,32,23
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/ReceiveLocalSocketAddress.java,3,30,23
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SendLocalSocketAddress.java,3,30,23
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/dynamic-logging.cmd,6,15,23
+YAML,/tmp/clone_directory/.github/codeql/codeql-config.yml,2,0,22
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/LogUtil.java,3,24,22
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/status/Position.h,8,15,22
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/status/Position.h,8,15,22
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/AeronEvent.java,5,42,22
+C++,/tmp/clone_directory/aeron-client/src/test/c/concurrent/aeron_atomic_test.cpp,7,15,22
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/MillisecondClusterClock.java,6,30,22
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusterNodeControlProperties.java,6,45,22
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/RandomLossGenerator.java,6,32,22
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/reports/LossReportUtil.java,6,40,22
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/SampleAuthorisationService.java,5,26,22
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/CreateEchoPair.java,2,15,22
+Gradle,/tmp/clone_directory/buildSrc/build.gradle,4,0,22
+Dockerfile,/tmp/clone_directory/cppbuild/rocky/Dockerfile,7,2,22
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_env.c,5,15,21
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/Platform.h,9,19,21
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/ControlProtocolException.java,6,38,21
+Java,/tmp/clone_directory/aeron-client/src/test/java/io/aeron/protocol/HeaderFlyweightTest.java,6,15,21
+C,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_version.c,5,15,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/CongestionControlSupplier.java,3,34,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/PublisherLimit.java,4,36,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/PublisherPos.java,4,37,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/ReceiverHwm.java,4,36,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/ReceiverPos.java,4,36,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SenderLimit.java,4,35,21
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SenderPos.java,4,35,21
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/embedded-recording-throughput,2,15,21
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/embedded-recording-throughput.cmd,2,15,21
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/dynamic-logging,5,15,21
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_clock.h,11,58,20
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/broadcast/BroadcastBufferDescriptor.h,8,15,20
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/NoOpIdleStrategy.h,9,15,20
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_netutil_test.cpp,6,15,20
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/TimerService.java,8,71,20
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClusterTerminationException.java,6,31,20
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/MdcDestinations.java,4,33,20
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/ReceiveChannelStatus.java,4,33,20
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/SendChannelStatus.java,4,33,20
+Java,/tmp/clone_directory/aeron-driver/src/test/java/io/aeron/driver/OptimalMulticastDelayGeneratorTest.java,6,15,20
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/embedded-replay-throughput,2,15,20
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/embedded-replay-throughput.cmd,2,15,20
+C/C++ Header,/tmp/clone_directory/aeron-samples/src/main/c/samples_configuration.h,5,15,20
+C/C++ Header,/tmp/clone_directory/aeron-samples/src/main/cpp/Configuration.h,6,15,20
+Markdown,/tmp/clone_directory/aeron-system-tests/scripts/provisioning/README.md,4,0,20
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/CounterInfo.java,9,23,19
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ReplicationCredentialsSupplier.java,5,15,19
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/concurrent/logbuffer/TermRebuilder.h,7,15,19
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/ClientSession.java,11,104,19
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/LossGenerator.java,4,38,19
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/EventCodeType.java,8,38,18
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_windows.h,9,15,18
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_linked_queue.h,12,16,18
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_unblocker.h,5,15,18
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_deque.h,8,14,18
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/util/Index.h,7,18,18
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/TermRebuilder.java,5,29,18
+C++,/tmp/clone_directory/aeron-client/src/test/c/util/aeron_bitutil_test.cpp,4,15,18
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/DebugReceiveChannelEndpointSupplier.java,2,27,18
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/EventLogExtension.java,5,24,18
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/NetworkTestingUtil.java,2,21,18
+Bourne Again Shell,/tmp/clone_directory/cppbuild/rocky-docker-build,4,0,18
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/AeronVersion.h,5,15,17
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp/util/Export.h,3,15,17
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/IpcSubscriptionLink.java,2,15,17
+Properties,/tmp/clone_directory/aeron-samples/scripts/archive/high-throughput-archive.properties,0,0,17
+C/C++ Header,/tmp/clone_directory/aeron-archive/src/main/cpp/client/AeronArchiveVersion.h,5,15,16
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_log_buffer.h,6,15,16
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_array_to_ptr_hash_map.c,12,15,16
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_int64_to_tagged_ptr_hash_map.c,6,15,16
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_broadcast_transmitter.h,6,15,16
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ConsensusModuleControl.java,10,63,16
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/stress/SimpleReservedValueSupplier.java,3,15,16
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ArchiveEvent.java,4,30,15
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_client.h,5,15,15
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_bit_set.c,9,15,15
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/CncFileDescriptor.h,5,63,15
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/Atomic64.h,4,19,15
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/CounterProvider.java,2,32,15
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/ChannelEndpointException.java,4,33,15
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/RawBlockHandler.java,3,30,15
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/ClusterEvent.java,4,30,15
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_driver_version.h,5,15,15
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultReceiveChannelEndpointSupplier.java,2,21,15
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/exceptions/InvalidChannelException.java,4,30,15
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/UdpTransportPoller.java,7,42,15
+CMake,/tmp/clone_directory/aeron-system-tests/CMakeLists.txt,1,0,15
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/driver/DriverOutputConsumer.java,4,15,15
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_int64_to_ptr_hash_map.c,6,15,14
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_str_to_ptr_hash_map.c,11,15,14
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/cpp_wrapper/concurrent/logbuffer/TermReader.h,8,25,14
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/ControlledFragmentHandler.java,6,49,14
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/NullCredentialsSupplier.java,4,27,14
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/CubicCongestionControlConfiguration.java,9,47,14
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/DebugSendChannelEndpointSupplier.java,2,26,14
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/ClientHeartbeatTimestamp.java,3,32,14
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/low-latency-c-media-driver.cmd,4,15,14
+Java,/tmp/clone_directory/aeron-agent/src/test/java/io/aeron/agent/DriverEventCodeTest.java,3,15,13
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/ExpectedCConfig.java,9,18,13
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingEventsListener.java,3,42,13
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingSignalConsumer.java,2,28,13
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_common.h,10,15,13
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_atomic.h,4,15,13
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterMembership.java,9,39,13
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ReceiveChannelEndpointSupplier.java,2,28,13
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/buffer/RawLog.java,9,51,13
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-dual-exclusive-throughput,2,15,13
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-dual-exclusive-throughput.cmd,2,15,13
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-spied-throughput,2,15,13
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-spied-throughput.cmd,2,15,13
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-throughput,2,15,13
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-throughput.cmd,2,15,13
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-throughput,2,15,13
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-throughput.cmd,2,15,13
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/low-latency-c-media-driver,3,15,13
+Bourne Shell,/tmp/clone_directory/aeron-samples/scripts/show_thread_affinity.sh,4,0,13
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/InterruptAfter.java,3,15,13
+Markdown,/tmp/clone_directory/aeron-agent/README.md,3,0,12
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/AeronCounter.java,3,24,12
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ControlEventListener.java,2,28,12
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_csv_table_name_resolver.h,4,15,12
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultSendChannelEndpointSupplier.java,2,21,12
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/ControlMode.java,2,35,12
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/script-common,5,15,12
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/BindingsTest.java,3,15,12
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/SlowTest.java,3,15,12
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/TopologyTest.java,3,15,12
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/ComponentLogger.java,6,44,11
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/ExpectedConfig.java,4,17,11
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/RecordingSubscriptionDescriptorConsumer.java,1,27,11
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_concurrent_array_queue.h,4,15,11
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_gap_filler.h,4,15,11
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/RethrowingErrorHandler.java,3,24,11
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/ClusterBackupEventsListener.java,6,46,11
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultAllowTerminationValidator.java,3,21,11
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DefaultDenyTerminationValidator.java,3,21,11
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/DriverManagedResource.java,4,39,11
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/PreferredMulticastFlowControl.java,5,28,11
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-ping-pong,2,15,11
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-ping-pong.cmd,2,15,11
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/run-java-logging.cmd,3,15,11
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/api/ProvisioningMBean.java,2,30,11
+Gradle,/tmp/clone_directory/settings.gradle,2,0,11
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/version/Versioned.java,2,18,10
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/status/aeron_local_sockaddr.h,4,15,10
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/AppVersionValidator.java,3,31,10
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/media/aeron_timestamps.h,4,15,10
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/PreferredMulticastFlowControlSupplier.java,2,24,10
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/exceptions/ActiveDriverException.java,3,23,10
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/exceptions/UnknownSubscriptionException.java,3,23,10
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/PortManager.java,3,31,10
+Properties,/tmp/clone_directory/aeron-driver/src/main/resources/low-latency.properties,0,0,10
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/logging-archiving-media-driver,2,15,10
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/run-java-logging,3,15,10
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/run-java.cmd,3,15,10
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/SampleAuthenticatorSupplier.java,2,21,10
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/api/ProvisioningConstants.java,2,24,10
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/DisableJavaUtilLogging.java,3,19,10
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/IgnoreStdErr.java,2,15,10
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/CollectingEventLogReaderAgentMBean.java,5,44,9
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/docgen/GenerateConfigDocTask.java,2,26,9
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/config/validation/ValidateConfigExpectationsTask.java,2,26,9
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/counter/validation/ValidateCounterExpectationsTask.java,2,26,9
+Java,/tmp/clone_directory/aeron-annotations/src/main/java/io/aeron/version/Version.java,6,33,9
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/Session.java,5,20,9
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/aeron_alloc.h,4,15,9
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_map.h,5,15,9
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_arrayutil.c,5,15,9
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/ClientTimeoutException.java,2,26,9
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/ConductorServiceTimeoutException.java,2,26,9
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/ConfigurationException.java,2,23,9
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/DriverTimeoutException.java,2,23,9
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/concurrent/MockAtomicBuffer.cpp,5,15,9
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/PriorityHeapTimerServiceSupplier.java,2,21,9
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/ClusterTestConstants.java,1,15,9
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/WheelTimerServiceClusterTimeTest.java,2,15,9
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/FeedbackDelayGenerator.java,2,29,9
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/MaxMulticastFlowControlSupplier.java,2,21,9
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/MinMulticastFlowControlSupplier.java,2,21,9
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/SendChannelEndpointSupplier.java,2,26,9
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/TaggedMulticastFlowControlSupplier.java,2,21,9
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/logging-archiving-media-driver.cmd,2,15,9
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/ping,2,15,9
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/ping.cmd,2,15,9
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/run-java,3,15,9
+XML,/tmp/clone_directory/config/checkstyle/suppressions.xml,0,0,9
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveMigrationStep.java,3,15,8
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/CatalogTool.java,1,24,8
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_gap_scanner.c,2,15,8
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/MappedLogBuffersFactory.java,1,18,8
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/Authenticator.java,4,58,8
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/AuthorisationService.java,3,38,8
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/SessionProxy.java,4,40,8
+Java,/tmp/clone_directory/aeron-cluster/src/test/java/io/aeron/cluster/PriorityHeapTimerServiceClusterTimeTest.java,1,15,8
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/aeron_termination_validator.h,4,15,8
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/Subscribable.java,4,39,8
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/TerminationValidator.java,3,27,8
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ThreadingMode.java,4,34,8
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-vectored-ipc-throughput,2,15,8
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-vectored-ipc-throughput.cmd,2,15,8
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/throughput-c-media-driver,3,15,8
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/api/EchoMonitorMBean.java,4,38,8
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/NullOutputStream.java,2,15,8
+Properties,/tmp/clone_directory/gradle.properties,2,1,8
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/DissectFunction.java,2,28,7
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/ArchiveThreadingMode.java,3,29,7
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/SimpleFragmentHandler.java,2,25,7
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/AvailableCounterHandler.java,2,28,7
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/ReservedValueSupplier.java,2,33,7
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/UnavailableCounterHandler.java,2,28,7
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/BlockHandler.java,2,28,7
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/FragmentHandler.java,2,30,7
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/TimerServiceSupplier.java,2,25,7
+C/C++ Header,/tmp/clone_directory/aeron-driver/src/main/c/concurrent/aeron_logbuffer_unblocker.h,4,15,7
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/FlowControlSupplier.java,2,26,7
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/buffer/LogFactory.java,3,37,7
+Properties,/tmp/clone_directory/aeron-driver/src/main/resources/aeron-throughput.properties,0,0,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/archiving-media-driver,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/archiving-media-driver.cmd,3,15,7
+Properties,/tmp/clone_directory/aeron-samples/scripts/archive/lightweight-archive.properties,0,0,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/recorded-basic-publisher,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/recorded-basic-publisher.cmd,2,15,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/replayed-basic-subscriber,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/replayed-basic-subscriber.cmd,2,15,7
+Properties,/tmp/clone_directory/aeron-samples/scripts/archive/standard-archive.properties,0,0,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-claim-ipc-throughput,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-claim-ipc-throughput.cmd,2,15,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-ipc-throughput,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-exclusive-ipc-throughput.cmd,2,15,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-ipc-throughput,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-ipc-throughput.cmd,2,15,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/ipc-c-media-driver,3,15,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/linux-qdisc-basic,2,15,7
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/pong,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/pong.cmd,2,15,7
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/streaming-publisher.cmd,2,15,7
+Java,/tmp/clone_directory/aeron-test-support/src/main/java/io/aeron/test/SystemTestConfig.java,1,15,7
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_atomic.c,6,15,6
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_bitutil.c,2,15,6
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/AvailableImageHandler.java,1,26,6
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/UnavailableImageHandler.java,1,26,6
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/AuthenticatorSupplier.java,2,18,6
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/AuthorisationServiceSupplier.java,2,18,6
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/CredentialsSupplier.java,2,33,6
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/LossHandler.java,1,25,6
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/RetransmitSender.java,1,25,6
+Properties,/tmp/clone_directory/aeron-driver/src/main/resources/high-stream-count.properties,0,0,6
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/cluster/remove-namespaces,3,15,6
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/embedded-claim-ipc-throughput,2,15,6
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/embedded-claim-ipc-throughput.cmd,2,15,6
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/rate-subscriber,2,15,6
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/rate-subscriber.cmd,2,15,6
+DOS Batch,/tmp/clone_directory/cppbuild/vsr.cmd,3,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,6
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/EventCode.java,1,23,5
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/checksum/Checksum.java,1,28,5
+Markdown,/tmp/clone_directory/aeron-client/README.md,3,0,5
+C/C++ Header,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_env.h,4,15,5
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/LogBuffersFactory.java,2,24,5
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/ConcurrentConcludeException.java,1,19,5
+Markdown,/tmp/clone_directory/aeron-driver/README.md,2,0,5
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/logging-media-driver,2,15,5
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/logging-media-driver.cmd,2,15,5
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/loss-rate-c-media-driver,3,15,5
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/raw/hack-select-receive-send-udp-pong,2,15,5
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/raw/hack-select-receive-send-udp-pong.cmd,2,15,5
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/raw/receive-send-udp-pong,2,15,5
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/raw/receive-send-udp-pong.cmd,2,15,5
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/raw/send-hack-select-receive-udp-ping,2,15,5
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/raw/send-hack-select-receive-udp-ping.cmd,2,15,5
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/raw/send-receive-udp-ping,2,15,5
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/raw/send-receive-udp-ping.cmd,2,15,5
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/ControlResponseListener.java,1,18,4
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_hashing.c,4,15,4
+C,/tmp/clone_directory/aeron-client/src/main/c/util/aeron_math.c,2,15,4
+Properties,/tmp/clone_directory/aeron-driver/src/main/resources/aeron-ipc.properties,0,0,4
+Properties,/tmp/clone_directory/aeron-driver/src/main/resources/debug-loss-10.properties,0,0,4
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/recording-replicator,2,15,4
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/recording-replicator.cmd,2,15,4
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/logging-c-media-driver,3,15,4
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/low-latency-media-driver,2,15,4
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/low-latency-media-driver.cmd,2,15,4
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/echo/RemoveAllEchoPairs.java,1,18,4
+Markdown,/tmp/clone_directory/aeron-system-tests/README.md,2,0,4
+Markdown,/tmp/clone_directory/aeron-all/README.md,1,0,3
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_scanner.c,2,15,3
+C++,/tmp/clone_directory/aeron-client/src/test/cpp/ClientConductorFixture.cpp,3,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/aeron-stat,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/aeron-stat.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/archive/segment-inspector,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/archive/segment-inspector.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/backlog-stat,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/backlog-stat.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/basic-publisher,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/basic-publisher.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/basic-subscriber,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/basic-subscriber.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/error-stat,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/error-stat.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/file-receiver,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/file-receiver.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/file-sender,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/file-sender.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/log-inspector,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/log-inspector.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/loss-stat,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/loss-stat.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/media-driver,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/media-driver.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/stream-stat,2,15,3
+DOS Batch,/tmp/clone_directory/aeron-samples/scripts/stream-stat.cmd,2,15,3
+Bourne Again Shell,/tmp/clone_directory/aeron-samples/scripts/streaming-publisher,2,15,3
+Markdown,/tmp/clone_directory/aeron-test-support/README.md,1,0,3
+C,/tmp/clone_directory/aeron-client/src/main/c/collections/aeron_map.c,2,15,2
+C,/tmp/clone_directory/aeron-client/src/main/c/concurrent/aeron_term_rebuilder.c,2,15,2
+Java,/tmp/clone_directory/aeron-agent/src/main/java/io/aeron/agent/package-info.java,0,26,1
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/checksum/package-info.java,1,23,1
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/client/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/package-info.java,1,34,1
+Java,/tmp/clone_directory/aeron-archive/src/main/java/io/aeron/archive/status/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/command/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/exceptions/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/logbuffer/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/package-info.java,0,22,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/protocol/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/security/package-info.java,0,26,1
+Java,/tmp/clone_directory/aeron-client/src/main/java/io/aeron/status/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/client/package-info.java,1,18,1
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/package-info.java,1,63,1
+Java,/tmp/clone_directory/aeron-cluster/src/main/java/io/aeron/cluster/service/package-info.java,1,19,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/buffer/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/exceptions/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/ext/package-info.java,0,19,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/media/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/package-info.java,0,19,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/reports/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-driver/src/main/java/io/aeron/driver/status/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/archive/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/cluster/tutorial/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/package-info.java,0,18,1
+Java,/tmp/clone_directory/aeron-samples/src/main/java/io/aeron/samples/raw/package-info.java,0,18,1
+DOS Batch,/tmp/clone_directory/cppbuild/vs-helper.cmd,0,1,1
+Text,/tmp/clone_directory/version.txt,0,0,1
+SUM,,56714,65652,284045

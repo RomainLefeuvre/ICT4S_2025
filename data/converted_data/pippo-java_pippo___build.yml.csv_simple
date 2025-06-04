@@ -1,0 +1,182 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B verify -Pcoverage,3806.3689046052295,224250842,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-hazelcast ---,217.86553859145164,26698630,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-weld ---,148.04972253859793,4935114,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-pac4j ---,133.5994193344214,4098968,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-mongodb ---,133.46759029213942,8767793,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-metrics-librato ---,125.26426403802644,12326036,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-jetty ---,114.52535436163086,4306609,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-ehcache3 ---,81.79607005788307,4609209,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-jdbc ---,67.66545028436917,2031219,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-jedis ---,59.899846587297326,3691367,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-jackson ---,58.74352566143093,1995579,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-hazelcast ---,58.62932294063349,3686597,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-ehcache2 ---,55.22353586723749,3964525,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-controller ---,50.9534572674146,1932399,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-metrics ---,50.84248840175336,1570906,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-jaxb ---,48.51587149052123,1693248,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session ---,46.30509131116974,1473882,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-groovy ---,46.06529549470869,1457442,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-pebble ---,45.49920858474696,1547247,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-infinispan ---,45.00142992135108,1342600,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-jade ---,44.75493763936144,1370635,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-metrics-prometheus ---,43.574613442032685,1449203,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-metrics-parent/pippo-metrics/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-metrics-librato ---,42.93226496091628,1303928,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-metrics-parent/pippo-metrics/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-trimou ---,42.78410204503294,1523317,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-guice ---,42.73323972912036,1353154,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-controller-parent/pippo-controller/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-jetty ---,42.54179843449612,1581575,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-sasscompiler ---,41.65573783984188,1293488,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-metrics-influxdb ---,41.467626744642224,1297161,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-metrics-parent/pippo-metrics/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-undertow ---,39.6161751648381,1614229,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-pac4j ---,39.15248286502741,1517062,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-test ---,37.95239201055391,1474610,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-core ---,37.83261711955382,2192511,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-csv ---,37.73547217613376,1340574,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-mongodb ---,36.77190574921258,1334404,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-core ---,35.621792212251094,6729226,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-ehcache3 ---,35.403260878286,1328366,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-spymemcached ---,35.32825291457309,1340511,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-parent ---,35.1978685125103,4987700,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-jedis ---,34.73569415595681,1294916,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-test/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-xmemcached ---,34.04639499741084,1291928,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-gson ---,33.79292560647485,1394474,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-freemarker ---,33.7640073647378,1423490,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-weld ---,33.688919946823404,1201214,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-test/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-spymemcached ---,33.479749195691134,1295450,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-core ---,33.13223015282412,3410572,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-session-xmemcached ---,33.11407578165011,1248592,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-fastjson ---,32.91887468803264,1447539,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session ---,32.15846465357711,1561097,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+##[group]Fetching the repository,31.984589393818727,1370078,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-controller ---,31.567811971931064,1141352,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-tomcat ---,30.855666632210493,1374823,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ pippo-csv ---,30.57374617976418,1096673,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-cookie ---,30.34733099357975,1270300,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-jcache ---,29.94207973197255,1207638,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-snakeyaml ---,29.11587776709553,1240141,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-metrics-graphite ---,29.030519932962505,1289179,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-metrics-parent/pippo-metrics/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-jdbc ---,28.241981991106933,1234045,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-less4j ---,28.124202613517312,1263604,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-velocity ---,27.801253547598563,1360863,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-fastjson ---,27.00865185689019,1300059,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- jacoco-maven-plugin:0.8.5:prepare-agent (prepare-agent) @ pippo-parent ---,26.572677607778456,6012870,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-pebble ---,25.97745152627324,1467834,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-controller-parent ---,25.40089703281145,2304406,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-spring ---,25.37785962212124,1289911,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-controller-parent/pippo-controller/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-archetype-plugin:2.3:jar (default-jar) @ pippo-quickstart ---,25.26577534692793,2757075,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-xstream ---,25.080696856257145,1251609,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-infinispan ---,24.97356642627209,1323663,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ pippo-parent ---,23.48407685401653,2459363,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-hazelcast ---,23.26600231562232,1277264,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-tomcat ---,22.81422935842565,819670,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-jaxb ---,22.65651045105616,1267248,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-session-ehcache2 ---,22.33042214676533,1276703,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-session-parent/pippo-session/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-xstream ---,22.236551984301677,1569921,False,
+##[group]GITHUB_TOKEN Permissions,20.11911885148997,3123147,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-spring ---,19.907810705317758,1063471,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-groovy ---,19.58861113312168,829467,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-core ---,18.858337651331368,3634657,False,
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ pippo-core ---,17.387380321278588,534979,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-quickstart ---,17.30258411832851,164006,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-velocity ---,16.680849434981972,61394,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-undertow ---,16.329047254290302,8535,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-velocity ---,16.097512305141148,320681,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-infinispan ---,15.971996046591691,76578,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-jaxb ---,15.813464607998304,92227,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-metrics-graphite ---,15.752869495142894,387936,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo ---,15.439140274281623,737216,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-less4j ---,15.054997526639443,413503,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-controller ---,14.940342135443188,552349,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-metrics-prometheus ---,14.762060470869464,308403,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-controller ---,14.364855233406754,245119,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-core ---,13.862948950693662,610822,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-template-parent ---,13.453028897331036,371742,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-csv ---,13.354212376114306,197934,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-metrics-influxdb ---,12.768227341515216,1069330,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-jdbc ---,12.72272260469166,420453,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-server-parent ---,12.070793890467613,1035791,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-snakeyaml ---,12.014080117536604,305354,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-fastjson ---,11.84689292686866,655763,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-jcache ---,11.714362114631236,536800,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-jedis ---,11.516941039849296,741180,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ pippo-core ---,11.384462642251757,1271222,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-metrics ---,11.244212122299086,142953,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-jackson ---,11.10502469040872,1377898,True,[ERROR] Error fetching link: /home/power/actions-runner/_work/pippo/pippo/pippo-core/target/apidocs/package-list. Ignored it.
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-mongodb ---,10.90123526947378,78322,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-csv ---,10.724807088381809,393794,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-less4j ---,10.245626980724126,78787,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-fastjson ---,10.188399786879526,89821,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-ehcache2 ---,10.00467492093172,806348,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-cookie ---,9.23711050816023,792813,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-ehcache3 ---,9.092107477477745,562876,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-css-parent ---,9.072547409979894,851782,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-spymemcached ---,8.97344922494902,69465,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-metrics ---,8.102625009828522,365804,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-guice ---,8.034739015100959,294569,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-metrics-parent ---,8.02358874208565,243445,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-jackson ---,7.819571485897762,65270,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-mongodb ---,7.522259824692129,766230,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-metrics-graphite ---,7.1618009306514,82788,False,
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ pippo-fastjson ---,7.132623794044907,6868,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-xmemcached ---,7.050874255302447,68537,False,
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ pippo-session-jdbc ---,6.697000728915095,4927,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-freemarker ---,6.583778850462961,171348,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-jade ---,6.54470810227995,146822,False,
+[INFO] --- maven-javadoc-plugin:3.0.1:jar (default) @ pippo-quickstart ---,6.496501143585789,179766,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-parent ---,6.223002341572939,2876804,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-controller ---,6.007012547214443,192105,False,
+##[group]Run actions/setup-java@v1,5.959722054513749,359938,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-weld ---,5.867518997280948,85104,False,
+##[group]Run actions/checkout@v2,5.726130381195744,189222,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-jetty ---,5.698204459203627,204445,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-csv ---,5.451416947606796,192128,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session-spymemcached ---,5.314180848544035,348658,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-trimou ---,3.85974338683637,114497,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-jdbc ---,3.689876277232621,86830,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-pac4j ---,3.6372178171968734,93349,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-jdbc ---,3.4204755063713463,86446,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session ---,3.359925338737731,153784,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-security-parent ---,3.3583967076348387,884954,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-gson ---,3.335284501002087,80327,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-content-type-parent ---,3.3132735936140425,138105,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session ---,3.3096295962737448,37041,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-freemarker ---,3.2912626862259984,15861,False,
+[INFO] --- maven-source-plugin:3.0.1:jar (default) @ pippo-session ---,3.118374644868697,12963,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-pebble ---,3.0830444836643136,131569,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-snakeyaml ---,3.078066578970531,59874,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-jetty ---,3.0355065659625087,111009,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-infinispan ---,3.0236399662972167,69160,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-jaxb ---,2.928993128664221,48770,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-groovy ---,2.926335405290198,121234,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-jedis ---,2.829730931131816,83517,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-hazelcast ---,2.798849025058305,66572,False,
+##[group]Setting up auth,2.7919983387794973,63706,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-ehcache3 ---,2.7741823319739467,59243,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-infinispan ---,2.756164041900357,152022,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-jedis ---,2.7346687944006547,55144,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-ehcache3 ---,2.677526413500496,82137,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-sasscompiler ---,2.607067086723015,49379,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-test ---,2.5881598120086293,183192,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-session-ehcache2 ---,2.583938157336684,90598,False,
+[INFO] --- jacoco-maven-plugin:0.8.5:prepare-agent (prepare-agent) @ pippo-server-parent ---,2.4721591227318918,1290,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-session-mongodb ---,2.453088984889581,70147,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-metrics-influxdb ---,2.4379585403923487,92941,False,
+[INFO] --- jacoco-maven-plugin:0.8.5:prepare-agent (prepare-agent) @ pippo-quickstart ---,2.313232290896741,74103,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-fastjson ---,2.260626268617278,33680,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-metrics-prometheus ---,2.2437965597560607,100658,False,
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ pippo-quickstart ---,2.227166094901232,149234,False,
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ pippo-quickstart ---,2.141099898905722,2024,False,
+##[group]Checking out the ref,2.128707721807999,64516,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-guice ---,2.1118983760438863,41328,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-less4j ---,2.0816437222285007,579,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-tomcat ---,1.9335693097844904,490,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-pac4j ---,1.925491667861893,109832,False,
+##[group]Run actions/cache@v1,1.8918182157467496,63952,False,
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ pippo-jackson ---,1.885159527342752,37597,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-undertow ---,1.852733362010356,118856,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-metrics-librato ---,1.825663055002934,85081,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-spring ---,1.7212889106599416,39217,False,
+##[group]Run actions/cache@v1__dup_9,1.7023066108977505,62092,False,
+Requested labels: self-hosted,1.6790054653259956,6353363,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-jade ---,1.4924708183515607,113624,False,
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ pippo-weld ---,1.1735037994561897,29640,False,

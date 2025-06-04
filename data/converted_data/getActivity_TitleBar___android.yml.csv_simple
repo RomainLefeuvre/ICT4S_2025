@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,250.2196483064221,2039508,False,
+##[group]Fetching the repository,117.46253762048948,697958,False,
+##[group]Run actions/setup-java@v1,82.81623660706806,19049460,False,
+##[group]Run actions/checkout@v2,58.99757049753916,192797,False,
+##[group]Getting Git version info,26.563764618410325,82158,False,
+##[group]Setting up auth,24.607084198170817,75983,False,
+Requested labels: self-hosted,0.0,5473589,False,

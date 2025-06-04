@@ -1,0 +1,15 @@
+Requested labels: self-hosted, 1.118861870123293, , , , 4318571, False, 
+##[group]GITHUB_TOKEN Permissions, 39.71909993072376, , , , 1227705, False, 
+##[group]Run actions/checkout@v4, 7.962024262013282, , , , 193018, False, 
+##[group]Setting up auth, 4.2532758815125815, , , , 72621, False, 
+##[group]Fetching the repository, 22.89996191059856, , , , 557089, False, 
+##[group]Checking out the ref, 4.90670888272684, , , , 26535, False, 
+##[group]Run swift build --package-path codes/swift, 20.715890532931123, , , , 374906, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==, 59.62161570418877, , , , 7519816, False, 
+##[group]GITHUB_TOKEN Permissions__dup_9, 11.423818069545426, , , , 1193523, False, 
+##[group]Run actions/checkout@v4__dup_10, 1.2305066885294549, , , , 174745, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.2632739649295337, , , , 31845, False, 
+##[group]Setting up auth__dup_12, 1.2960412413296123, , , , 70658, False, 
+##[group]Fetching the repository__dup_13, 6.971715352649243, , , , 501480, False, 
+##[group]Checking out the ref__dup_14, 1.4926448997300847, , , , 28484, False, 
+##[group]Run swift build --package-path codes/swift__dup_15, 4.674538357590727, , , , 315253, True, ##[error]Process completed with exit code 127.

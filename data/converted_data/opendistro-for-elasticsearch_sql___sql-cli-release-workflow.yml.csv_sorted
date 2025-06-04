@@ -1,0 +1,11 @@
+##[group]Run python -m pip install --upgrade pip, 166.94996619915742, , , , 36909447, False, 
+##[group]Run actions/setup-python@v2, 39.17378877344242, , , , 12846518, True, ##[error]WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+##[group]Run python setup.py sdist bdist_wheel, 24.96689937997133, , , , 594635, False, 
+##[group]GITHUB_TOKEN Permissions, 23.18690644798686, , , , 3023418, False, 
+##[group]Run aws-actions/configure-aws-credentials@v1, 19.419605679515264, , , , 6710467, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Fetching the repository, 15.21000663255725, , , , 3994033, False, 
+##[group]Run tarball=`ls ./dist/*.tar.gz`, 14.23910420012446, , , , 587309, True, ##[error]Process completed with exit code 127.
+##[group]Checking out the ref, 4.216425786241513, , , , 383805, False, 
+##[group]Run actions/checkout@v2, 2.194645466270361, , , , 190961, False, 
+##[group]Setting up auth, 1.125948543564794, , , , 62913, False, 
+Requested labels: self-hosted, 0.0383460786784329, , , , 5481420, False, 

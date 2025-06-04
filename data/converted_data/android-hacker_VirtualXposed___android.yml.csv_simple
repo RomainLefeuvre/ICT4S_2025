@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run srt32/git-actions@v0.0.3,470.1218915728448,50092430,False,
+##[group]Run cd VirtualApp && ./gradlew assembleRelease,322.8875222531187,29038067,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v1,118.17277172979466,14818820,False,
+##[group]Run actions/setup-java@v1,106.1856149707692,16396573,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/srt32/git-actions/v0.0.3/Dockerfile'.,68.53898087957177,23797845,False,
+##[group]GITHUB_TOKEN Permissions,6.623865796352732,2798138,False,
+##[group]Run actions/upload-artifact@v1,6.022561621104652,676634,True,##[error]Path does not exist /home/power/actions-runner/_work/VirtualXposed/VirtualXposed/VirtualApp/app/build/
+Requested labels: self-hosted,0.0,5118026,False,

@@ -1,0 +1,25 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run helm repo add bitnami https://charts.bitnami.com/bitnami,3912.815062845028,586968366,False,
+##[group]Run pushd tutorials/pub-sub,2645.910038605759,370164192,True,##[error]Process completed with exit code 2.
+##[group]Run pushd tutorials/distributed-calculator,2073.73321510409,340374939,True,##[error]Process completed with exit code 2.
+##[group]Run pushd tutorials/hello-kubernetes__dup_18,981.465442385029,173234830,True,##[error]Process completed with exit code 2.
+##[group]Run pushd tutorials/hello-kubernetes,698.4939838648631,140532881,True,##[error]Process completed with exit code 2.
+##[group]Run helm/kind-action@v1.2.0,654.597644768776,226140572,False,
+##[group]Run export GITHUB_TOKEN=***,388.70145950252737,39905523,False,
+##[group]Run pushd tutorials/hello-world,310.2141498676715,22373532,True,##[error]Process completed with exit code 2.
+##[group]Run kubectl cluster-info --context kind-kind,271.6105782071085,90177285,False,
+##[group]Run make validate,226.01586545206985,39383925,False,
+"##[group]Run echo ""PATH=$PATH:$HOME/.local/bin"" >> $GITHUB_ENV",212.74336435352103,15272501,False,
+##[group]Run pushd tutorials/secretstore,182.47315204194408,13180479,True,##[error]Process completed with exit code 2.
+##[group]Run pushd tutorials/observability,140.47797583430258,9930726,True,##[error]Process completed with exit code 2.
+##[group]Run wget -q https://raw.githubusercontent.com/dapr/cli/v1.13.0/install//install.sh -O - | /bin/bash -s 1.13.0,120.3602930862664,39251349,False,
+##[group]Run pushd tutorials/bindings,75.53796606680623,5167632,True,##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions,59.726928854829865,4015043,False,
+##[group]Run actions/setup-go@v2,47.62835739169317,6376473,False,
+##[group]go env,30.41543146431925,8380667,False,
+##[group]Fetching the repository,12.196946024756638,588379,False,
+##[group]Cleaning the repository,5.820215405645087,306307,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.795823116874533,184851,False,
+##[group]Run actions/checkout@v2,3.728366727363447,175808,False,
+Requested labels: self-hosted,3.6586928310333136,4733760,False,
+##[group]Setting up auth,1.973799996637239,75578,False,

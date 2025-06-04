@@ -1,0 +1,11 @@
+##[group]GITHUB_TOKEN Permissions, 68.10882905066305, , , , 1677903, False, 
+##[group]Run actions/checkout@v3, 24.19653828889513, , , , 150987, False, 
+##[group]Initializing the repository, 5.418322225674688, , , , 71217, False, 
+##[group]Setting up auth, 5.183938123261603, , , , 74222, False, 
+##[group]Determining the default branch, 14.145509755306309, , , , 327771, False, 
+##[group]Fetching the repository, 29.34533714222277, , , , 16560115, False, 
+##[group]Checking out the ref, 19.902413913091276, , , , 16246321, False, 
+##[group]Run mkdir -p "${WORKSPACE}", 142.99438302173482, , , , 39063525, False, 
+##[group]Run .kokoro/sync_with_googleapis.sh, 3.508459823117937, , , , 312396, False, 
+##[group]Run git remote add origin_with_auth \\, 8.330689538267283, , , , 1905253, True, ##[error]Process completed with exit code 127.
+##[group]Run gh pr create --title='chore: googleapis change propagation via hermetic build' \\, 84.04408688058908, , , , 23244413, True, ##[error]Process completed with exit code 1.

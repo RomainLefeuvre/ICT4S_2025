@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v2,188.40731476722144,14773403,False,
+##[group]Run ./mvnw -B test -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN,68.57236805269412,12377006,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ r2dbc-mysql ---,17.21777223527338,3250044,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ r2dbc-mysql ---,14.056934905217783,2177972,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ r2dbc-mysql ---,0.6819258958177685,111416,False,

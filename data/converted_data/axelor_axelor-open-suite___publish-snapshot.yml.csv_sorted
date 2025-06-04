@@ -1,0 +1,16 @@
+##[group]==END_FILE==, 440.58371716557537, , , , 90805328, False, 
+##[group]Run actions/setup-java@v1__dup_14, 178.48487555001105, , , , 28518531, False, 
+##[group]Run actions/setup-java@v1, 161.915377917675, , , , 27951251, False, 
+Requested labels: self-hosted, 72.20906967317208, , , , 5473850, False, 
+##[group]Fetching the repository, 65.94911858317175, , , , 37341355, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Fetching the repository__dup_13, 60.75702213003131, , , , 28307424, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 35.52400363202249, , , , 2180582, False, 
+##[group]GITHUB_TOKEN Permissions, 32.34877212713697, , , , 2020531, False, 
+##[group]Run cd open-suite-webapp && ./gradlew publish -PmavenRepository=https://repository.axelor.com/nexus/repository/maven-snapshots/ -PmavenUsername=${NEXUS_DEPLOYMENT_USERNAME} -PmavenPassword=${NEXUS_DEPLOYMENT_PASSWORD}__dup_16, 9.73119191632594, , , , 476022, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3, 9.694181066042752, , , , 212568, False, 
+##[group]Run cd open-suite-webapp && ./gradlew publish -PmavenRepository=https://repository.axelor.com/nexus/repository/maven-snapshots/ -PmavenUsername=${NEXUS_DEPLOYMENT_USERNAME} -PmavenPassword=${NEXUS_DEPLOYMENT_PASSWORD}, 9.245979060899472, , , , 638361, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Run actions/checkout@v3__dup_11, 4.447587690068165, , , , 143613, False, 
+##[group]Setting up auth__dup_12, 2.257758373885644, , , , 59670, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Setting up auth, 2.0720830825618157, , , , 66568, False, 
+##[group]Run git clone -b wip https://github.com/axelor/open-suite-webapp.git open-suite-webapp, 0.0, , , , 78153, False, 
+##[group]Run git clone -b dev https://github.com/axelor/open-suite-webapp.git open-suite-webapp, 0.0, , , , 51596, False, 

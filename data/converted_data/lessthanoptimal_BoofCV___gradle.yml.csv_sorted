@@ -1,0 +1,13 @@
+##[group]Fetching submodules, 212.87808474681705, , , , 25716164, False, 
+##[group]Fetching the repository, 22.248061248044287, , , , 7810946, False, 
+Requested labels: self-hosted, 18.969330499794964, , , , 5676730, False, 
+##[group]GITHUB_TOKEN Permissions, 12.905586680336326, , , , 1975904, False, 
+##[group]Checking out the ref, 7.905265641945585, , , , 422352, False, 
+##[group]Run ./gradlew test, 7.119422686728259, , , , 430548, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.3.3-bin/6a41zxkdtcxs8rphpq6y0069z/gradle-7.3.3-bin.zip.lck
+##[group]Run actions/checkout@v2, 4.604148883041927, , , , 190678, False, 
+##[group]Run ./gradlew spotlessJavaCheck, 3.8337008543636473, , , , 173815, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.3.3-bin/6a41zxkdtcxs8rphpq6y0069z/gradle-7.3.3-bin.zip.lck
+##[group]Persisting credentials for submodules, 2.1822935986320693, , , , 120828, False, 
+##[group]Run actions/setup-java@v1, 2.0306117863747857, , , , 107387, False, 
+##[group]Run ./gradlew autogenerate, 1.8030890679888607, , , , 103107, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.3.3-bin/6a41zxkdtcxs8rphpq6y0069z/gradle-7.3.3-bin.zip.lck
+##[group]Run ./gradlew assemble, 1.727248161860219, , , , 103658, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.3.3-bin/6a41zxkdtcxs8rphpq6y0069z/gradle-7.3.3-bin.zip.lck
+##[group]Run ./gradlew -q --console plain dependencyInfo, 1.651407255731577, , , , 110332, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.3.3-bin/6a41zxkdtcxs8rphpq6y0069z/gradle-7.3.3-bin.zip.lck

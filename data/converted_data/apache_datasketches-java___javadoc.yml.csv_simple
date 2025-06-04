@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn javadoc:javadoc,105.26484302061922,17124563,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.3.1:javadoc[m (default-cli)[m on project datasketches-java[m: An error has occurred in Javadoc report generation: Unable to find javadoc command: The environment variable JAVA_HOME is not correctly set.[m -> [Help 1][m
+##[group]GITHUB_TOKEN Permissions,57.301602449031606,2786238,False,
+##[group]Fetching the repository,47.61966826649001,434992,False,
+##[group]Run actions/checkout@v3,23.5557789464929,157738,False,
+##[group]Checking out the ref,11.968430863310529,21968,False,
+##[group]Setting up auth,11.841403269934478,66158,False,
+##[group]Run JamesIves/github-pages-deploy-action@5dc1d5a192aeb5ab5b7d5a77b7d36aea4a7f5c92,1.484236547865852,367846,True,##[error]The directory you're trying to deploy named /home/power/actions-runner/_work/datasketches-java/datasketches-java/target/site/apidocs doesn't exist. Please double check the path and any prerequisite build scripts and try again. ❗
+Requested labels: self-hosted,0.2824782870127834,4994626,False,

@@ -1,0 +1,35 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2339.4 files/s 139231.2 lines/s)"
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/RxWebSocketUtil.java,38,67,276
+Java,/tmp/clone_directory/demo/src/main/java/com/dhh/rxwebsocket/MainActivity.java,45,19,215
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+Markdown,/tmp/clone_directory/readme.md,24,0,121
+Gradle,/tmp/clone_directory/websocket/bintray.gradle,10,1,82
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/WebSocketInfo.java,17,3,56
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/WebSocketSubscriber2.java,10,8,51
+XML,/tmp/clone_directory/demo/src/main/res/layout/activity_main.xml,5,0,50
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/Config.java,15,18,48
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/WebSocketSubscriber.java,13,15,41
+Gradle,/tmp/clone_directory/demo/build.gradle,2,0,35
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/RxWebSocket.java,13,43,33
+Gradle,/tmp/clone_directory/websocket/build.gradle,6,0,31
+Java,/tmp/clone_directory/websocket/src/main/java/com/dhh/websocket/WebSokcetAction1.java,7,5,23
+XML,/tmp/clone_directory/demo/src/main/AndroidManifest.xml,3,0,19
+Gradle,/tmp/clone_directory/build.gradle,4,3,18
+Markdown,/tmp/clone_directory/ChangeLog.md,2,0,17
+Java,/tmp/clone_directory/demo/src/androidTest/java/com/dhh/rxwebsocket/ExampleInstrumentedTest.java,5,6,15
+Java,/tmp/clone_directory/websocket/src/androidTest/java/com/dhh/websocket/ExampleInstrumentedTest.java,5,6,15
+YAML,/tmp/clone_directory/.github/workflows/android.yml,4,0,13
+Java,/tmp/clone_directory/demo/src/main/java/com/dhh/rxwebsocket/ActivityEvent.java,2,3,9
+Java,/tmp/clone_directory/demo/src/test/java/com/dhh/rxwebsocket/ExampleUnitTest.java,3,5,9
+XML,/tmp/clone_directory/websocket/src/main/AndroidManifest.xml,4,0,9
+Java,/tmp/clone_directory/websocket/src/test/java/com/dhh/websocket/ExampleUnitTest.java,3,5,9
+XML,/tmp/clone_directory/demo/src/main/res/values/styles.xml,2,2,7
+XML,/tmp/clone_directory/demo/src/main/res/values/colors.xml,0,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/demo/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/websocket/src/main/res/values/strings.xml,0,0,3
+Properties,/tmp/clone_directory/gradle.properties,4,12,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/websocket/proguard-rules.pro,4,21,0
+SUM,,293,265,1406

@@ -1,0 +1,3 @@
+##[group]GITHUB_TOKEN Permissions, 14.42378658632953, , , , 1251555, False, 
+Requested labels: self-hosted, 5.759103685475017, , , , 4503743, False, 
+##[group]Run actions/github-script@v5, 4.313112748373719, , , , 282569, True, ##[error]Unhandled error: Error: Input required and not supplied: github-token

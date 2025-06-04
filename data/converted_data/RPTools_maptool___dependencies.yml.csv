@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 0.2294076657110071, , , , 4894555, False, 
+##[group]GITHUB_TOKEN Permissions, 129.2176802609207, , , , 2075135, False, 
+##[group]Run actions/checkout@v3, 33.09583295136614, , , , 149316, False, 
+##[group]Setting up auth, 15.080187068867108, , , , 63144, False, 
+##[group]Fetching the repository, 59.19296507849042, , , , 11016695, False, 
+##[group]Checking out the ref, 6.516535576942507, , , , 719530, False, 
+##[group]🔨 Processing gradle dependencies for root module - ':', 189.1968757543624, , , , 46053122, False, 
+##[group]📄 Parsing gradle dependencies graph - ':', 1.2440331425714604, , , , 54091, False, 
+##[group]📦️ Preparing Dependency Snapshot - ':', 36.3644532537724, , , , 2629285, True, ##[error]HTTP Status 404 for request POST https://api.github.com/repos/diversepwmeasurement/maptool/dependency-graph/snapshots

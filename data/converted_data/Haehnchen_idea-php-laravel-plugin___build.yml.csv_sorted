@@ -1,0 +1,41 @@
+##[group]Run actions/cache@v2__dup_25, 2757.3873856968853, , , , 261950501, False, 
+##[group]Run actions/cache@v2__dup_38, 2483.844547289167, , , , 269654460, False, 
+Requested labels: self-hosted__dup_7, 2435.10105072702, , , , 253452753, False, 
+##[group]Run ./gradlew check__dup_27, 1611.939664232682, , , , 91624495, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew check, 1154.257073809203, , , , 110956907, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew verifyPlugin, 1082.0042792366892, , , , 101347120, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew buildPlugin, 471.9519067006655, , , , 16802820, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v2__dup_39, 439.61133560788016, , , , 44543678, False, 
+##[group]Run actions/cache@v2__dup_26, 407.8848111230641, , , , 44516298, False, 
+##[group]Run actions/setup-java@v1__dup_19, 156.40556069461772, , , , 18547311, False, 
+##[group]Run ./gradlew verifyPlugin__dup_29, 142.56434488381444, , , , 8144454, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1__dup_32, 139.84589083147972, , , , 19327195, False, 
+> Task :compileJava FAILED__dup_28, 111.85210024714064, , , , 7583852, True, ##[error]Process completed with exit code 1.
+> Task :compileJava FAILED, 107.73218325717949, , , , 6894651, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 93.19046022758482, , , , 19082800, False, 
+##[group]Run actions/cache@v2, 46.29638065751129, , , , 1843541, False, 
+##[group]GITHUB_TOKEN Permissions__dup_18, 40.65521548343666, , , , 3197169, False, 
+##[group]GITHUB_TOKEN Permissions__dup_31, 37.17658982491656, , , , 3314336, False, 
+##[group]Run actions/upload-artifact@v1, 28.54719448186742, , , , 1798068, True, ##[error]Path does not exist /home/power/actions-runner/_work/idea-php-laravel-plugin/idea-php-laravel-plugin/build/distributions/
+Requested labels: self-hosted__dup_30, 18.88471554310144, , , , 4513658, False, 
+##[group]Run actions/cache@v2__dup_14, 15.378136272769082, , , , 583253, False, 
+Requested labels: self-hosted__dup_6, 14.147076931527415, , , , 5193725, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 13.765648176841903, , , , 2576427, False, 
+##[group]Fetching the repository__dup_12, 11.434392298433064, , , , 424708, False, 
+##[group]Run gradle/wrapper-validation-action@v1.0.3, 11.28270762752102, , , , 1509997, False, 
+##[group]Fetching the repository__dup_37, 7.9886802862502, , , , 487270, False, 
+##[group]GITHUB_TOKEN Permissions, 7.643124521869079, , , , 2015649, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.215913803375096, , , , 196935, False, 
+##[group]Fetching the repository__dup_24, 6.404957436536449, , , , 478824, False, 
+##[group]Fetching the repository, 4.804249699460564, , , , 752278, False, 
+##[group]Run actions/checkout@v2__dup_10, 4.214758782952695, , , , 155163, False, 
+##[group]Setting up auth, 2.2868784596866125, , , , 69472, False, 
+##[group]Setting up auth__dup_36, 1.588919271665808, , , , 78354, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_35, 1.5801024860815758, , , , 91004, False, 
+##[group]Getting Git version info, 1.5712857004973435, , , , 25800, False, 
+##[group]Run actions/checkout@v2__dup_33, 1.5624689149131117, , , , 152523, False, 
+##[group]Run actions/checkout@v2__dup_20, 1.4713578270665828, , , , 154616, False, 
+##[group]Cleaning the repository, 1.4107445060014732, , , , 51073, False, 
+##[group]Setting up auth__dup_23, 1.3783062513279272, , , , 85261, False, 
+##[group]Run actions/checkout@v2, 1.0797429880100762, , , , 190290, False, 
+Requested labels: self-hosted, 0.0, , , , 5371396, False, 

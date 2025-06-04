@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 0.0, , , , 6007760, False, 
+##[group]GITHUB_TOKEN Permissions, 7.527526918826245, , , , 2062864, False, 
+##[group]Run actions/checkout@v3, 0.9884631307549616, , , , 160382, False, 
+##[group]Setting up auth, 0.5105249136866286, , , , 65097, False, 
+##[group]Fetching the repository, 4.4752396689125735, , , , 842131, False, 
+##[group]Checking out the ref, 0.6082850035415148, , , , 100402, False, 
+##[group]Installed distributions, 11.631665429716318, , , , 5726003, False, 
+##[group]Installed distributions__dup_8, 35.71373998669748, , , , 9725740, False, 
+##[group]Run mvn clean deploy -Prelease, 242.61750629352352, , , , 26158155, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign[m (sign-artifacts)[m on project qmq-parent[m: Exit code: 2[m -> [Help 1][m

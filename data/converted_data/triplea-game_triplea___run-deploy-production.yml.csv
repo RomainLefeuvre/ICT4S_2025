@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 1.4575282995360344, , , , 4130067, False, 
+##[group]GITHUB_TOKEN Permissions, 1.0331564928113657, , , , 1756500, False, 
+##[group]Run actions/checkout@v4, 0.1310886732814421, , , , 145359, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.482139696645304, , , , 676854, False, 
+##[group]Setting up auth, 0.0718395554141236, , , , 84485, False, 
+##[group]Fetching the repository, 0.2947643613899093, , , , 424325, False, 
+##[group]Checking out the ref, 0.075542625280831, , , , 103987, False, 
+##[group]Run webfactory/ssh-agent@v0.9.0, 0.077023853227514, , , , 56555, True, ##[error]The ssh-private-key argument is empty. Maybe the secret has not been configured, or you are using a wrong secret name in your workflow file.
+##[group]Run pip install ansible==2.9.13, 1.7885827456196768, , , , 2139044, True, ##[error]Process completed with exit code 1.

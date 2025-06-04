@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew build,276.3674184459324,29921364,True,##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1,109.6804938689977,17780598,False,
+##[group]Run actions/checkout@v1,12.401668781619165,4310127,False,
+Requested labels: self-hosted,8.810226199787326,5408566,False,
+##[group]GITHUB_TOKEN Permissions,5.770776020729812,2241188,False,

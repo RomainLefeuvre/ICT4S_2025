@@ -1,0 +1,16 @@
+##[group]Run bash dev/ci-before_install.sh, 5942.562222126503, , , , 296466214, False, 
+##[group]Run EXTRA_JAVA_TEST_ARGS=$(mvn help:evaluate -Dexpression=extraJavaTestArgs -q -DforceStdout), 210.12065682274624, , , , 20360246, False, 
+[INFO] --- apache-rat-plugin:0.15:check (default) @ parquet ---, 194.35368521414773, , , , 8478289, True, [ERROR] Failed to execute goal org.apache.rat:apache-rat-plugin:0.15:check (default) on project parquet: Too many files with unapproved license: 3 See RAT report in: /home/power/actions-runner/_work/parquet-mr/parquet-mr/target/rat.txt -> [Help 1]
+##[group]Run EXTRA_JAVA_TEST_ARGS=$(mvn help:evaluate -Dexpression=extraJavaTestArgs -q -DforceStdout)__dup_13, 137.30850059210604, , , , 4591558, True, [ERROR] Failed to execute goal org.apache.rat:apache-rat-plugin:0.15:check (default) on project parquet: Too many files with unapproved license: 3 See RAT report in: /home/power/actions-runner/_work/parquet-mr/parquet-mr/target/rat.txt -> [Help 1]
+[INFO] --- buildnumber-maven-plugin:3.2.0:create (default) @ parquet ---, 40.52692210169999, , , , 3495934, False, 
+[INFO] --- maven-remote-resources-plugin:3.1.0:process (process-resource-bundles) @ parquet ---, 38.18062444774596, , , , 1046351, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-banned-dependencies) @ parquet ---, 17.885468927824412, , , , 745159, False, 
+[INFO] --- buildnumber-maven-plugin:3.2.0:create (default) @ parquet ---__dup_15, 12.977187911215328, , , , 219141, False, 
+##[group]Fetching the repository, 4.695991034049107, , , , 1518093, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-banned-dependencies) @ parquet ---__dup_14, 4.679129934452272, , , , 156760, False, 
+##[group]GITHUB_TOKEN Permissions, 4.633879889546253, , , , 2323766, False, 
+[INFO] --- maven-remote-resources-plugin:3.1.0:process (process-resource-bundles) @ parquet ---__dup_16, 3.972328673024614, , , , 159695, False, 
+##[group]Run actions/checkout@master, 1.8628686274939288, , , , 205732, False, 
+##[group]Disabling automatic garbage collection, 0.9336082038045646, , , , 16589, False, 
+##[group]Cleaning the repository, 0.932987092359536, , , , 166760, False, 
+##[group]==END_FILE==, 0.0649011737874187, , , , 4517591, False, 

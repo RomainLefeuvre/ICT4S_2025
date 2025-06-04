@@ -1,0 +1,11 @@
+##[group]==END_FILE==, 23.594410348962757, , , , 4023780, False, 
+Requested labels: self-hosted, 34.797711688703274, , , , 12942514, False, 
+##[group]GITHUB_TOKEN Permissions, 40.54531506649368, , , , 1197344, False, 
+##[group]Run actions/upload-artifact@v2, 35.81624631256387, , , , 1400947, False, 
+##[group]GITHUB_TOKEN Permissions__dup_5, 342.45026557149805, , , , 2733258, False, 
+##[group]Run actions/checkout@v1, 135.80111947993063, , , , 4459668, False, 
+##[group]Run actions/setup-java@v1, 165.8229651744103, , , , 747063, False, 
+##[group]Run actions/cache@v1, 17.61544165526024, , , , 63755, False, 
+##[group]Run actions/cache@v1__dup_9, 16.785460590849294, , , , 62608, False, 
+##[group]Run ./gradlew --info --stacktrace build --warning-mode=all, 231.17490962815137, , , , 1867366, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5-bin/f1w0cc9nuo0eivz97x2xlu9sv/gradle-7.5-bin.zip.lck
+##[group]Run actions/upload-artifact@v3, 70.33183084020672, , , , 982404, False, 

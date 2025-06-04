@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/limitusus/json-syntax-check/v2/Dockerfile'.,246.1819179310898,85217788,False,
+##[group]GITHUB_TOKEN Permissions,84.82172233484779,1801350,False,
+##[group]==END_FILE==,41.11033930209927,4259576,False,
+##[group]Run limitusus/json-syntax-check@v2,19.527409998322558,5528569,False,
+##[group]Fetching the repository,6.778857727165254,940797,False,
+##[group]Run actions/checkout@v4,1.5023933702728487,166677,False,
+##[group]Checking out the ref,0.7545462334581716,63295,False,
+##[group]Setting up auth,0.7518665948007738,99507,False,
+##[group]Initializing the repository,0.751598630935034,80498,False,

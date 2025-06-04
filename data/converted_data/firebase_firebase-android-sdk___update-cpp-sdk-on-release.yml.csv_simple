@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,221.17261430653372,1340042,False,
+##[group]Fetching the repository,203.0431924375364,7522571,False,
+##[group]Run actions/checkout@v4.1.1,40.91349033352138,164823,False,
+##[group]Setting up auth,22.268462334208355,111608,False,
+##[group]Cleaning the repository,21.750828857794737,67656,False,
+##[group]Removing previously created refs_ to avoid conflicts,21.23319538138112,85065,False,
+##[group]==END_FILE==,17.63815263157164,4453106,False,
+##[group]Run # Query the git history for all gradle.properties files changed by this push.,4.2007684189448815,435275,False,
+Requested labels: self-hosted,0.0511142421138376,4110310,False,

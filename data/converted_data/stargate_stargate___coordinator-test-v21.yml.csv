@@ -1,0 +1,43 @@
+##[group]==END_FILE==, 258.01229598487373, , , , 43658219, False, 
+Requested labels: self-hosted, 484.1014120326751, , , , 78175662, False, 
+##[group]GITHUB_TOKEN Permissions, 4.309030488965428, , , , 3416717, False, 
+##[group]Run actions/checkout@v4, 8.707005665102102, , , , 133563, True, ##[error]Process completed with exit code 1.
+##[group]Cleaning the repository, 4.904823369618099, , , , 33379, False, 
+##[group]Fetching the repository, 30.037322218760966, , , , 444653, False, 
+##[group]Installed versions, 41.0637329601019, , , , 76677, False, 
+##[group]Installed distributions, 181.0584677171842, , , , 14570056, False, 
+##[group]Run python -m pip install --upgrade pip setuptools, 53.36812425266877, , , , 2977748, False, 
+##[group]Run cd coordinator/, 8.621631488297169, , , , 9384138, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.3.0:enforce (enforce) on project stargate: 
+[INFO] --- clean:3.1.0:clean (default-clean) @ stargate ---, 0.954722965120127, , , , 90616, False, 
+##[group]GITHUB_TOKEN Permissions__dup_12, 25.927596062784097, , , , 3033569, False, 
+##[group]Run sudo killall mono, 1.3917692259566286, , , , 45741, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4__dup_14, 1.377282199778531, , , , 125349, False, 
+##[group]Getting Git version info, 1.3627951736004336, , , , 61128, False, 
+##[group]Cleaning the repository__dup_16, 1.3483081474223362, , , , 33725, False, 
+##[group]Fetching the repository__dup_17, 5.24836232790837, , , , 420744, False, 
+##[group]Checking out the ref, 1.2758730165318486, , , , 24883, False, 
+##[group]Installed distributions__dup_19, 120.45946929294507, , , , 15322387, False, 
+##[group]Run python -m pip install --upgrade pip setuptools__dup_20, 10.86575112070696, , , , 2207623, False, 
+##[group]Run cd coordinator/__dup_21, 19.270609051707886, , , , 4852089, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.3.0:enforce (enforce) on project stargate: 
+[INFO] --- clean:3.1.0:clean (default-clean) @ stargate ---__dup_22, 1.9960465550339384, , , , 94116, False, 
+[INFO] --- enforcer:3.3.0:enforce (enforce) @ stargate ---, 718.4272597979119, , , , 71935801, False, 
+##[group]==END_FILE==__dup_24, 368.3541095569957, , , , 43826377, False, 
+##[group]GITHUB_TOKEN Permissions__dup_25, 14.242890353871712, , , , 3210810, False, 
+##[group]Run actions/checkout@v4__dup_26, 2.19795241915675, , , , 135374, False, 
+##[group]Cleaning the repository__dup_27, 2.172872427388463, , , , 33498, False, 
+##[group]Fetching the repository__dup_28, 10.488162260418012, , , , 459100, False, 
+##[group]Installed distributions__dup_29, 144.19418301634948, , , , 16630303, False, 
+##[group]Run python -m pip install --upgrade pip setuptools__dup_30, 29.935493954368848, , , , 2215503, False, 
+##[group]Run cd coordinator/__dup_31, 75.05979333925623, , , , 4618899, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.3.0:enforce (enforce) on project stargate: 
+[INFO] --- clean:3.1.0:clean (default-clean) @ stargate ---__dup_32, 3.2142919084170614, , , , 90237, False, 
+##[group]GITHUB_TOKEN Permissions__dup_33, 37.625825576616506, , , , 3131160, False, 
+##[group]Run sudo killall mono__dup_34, 1.9700575685168475, , , , 49540, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4__dup_35, 2.064093313425844, , , , 138523, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.1581290583348403, , , , 23972, False, 
+##[group]Setting up auth, 2.252164803243837, , , , 99045, False, 
+##[group]Fetching the repository__dup_38, 9.949016662065311, , , , 425942, False, 
+##[group]Checking out the ref__dup_39, 2.722343527788819, , , , 23408, False, 
+##[group]Installed distributions__dup_40, 178.1585620329042, , , , 16992722, False, 
+##[group]Run python -m pip install --upgrade pip setuptools__dup_41, 29.935849545100663, , , , 2170644, False, 
+##[group]Run cd coordinator/__dup_42, 89.7440370802135, , , , 4310147, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.3.0:enforce (enforce) on project stargate: 
+[INFO] --- clean:3.1.0:clean (default-clean) @ stargate ---__dup_43, 3.535125838766486, , , , 72187, False, 

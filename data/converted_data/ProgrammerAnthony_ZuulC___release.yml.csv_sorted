@@ -1,0 +1,12 @@
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final, 503.0069980124739, , , , 66439228, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 52.39764565189995, , , , 3695340, False, 
+##[group]Run actions/cache@v2.1.6, 47.67212241551133, , , , 1523290, False, 
+##[group]Run gradle/wrapper-validation-action@v1.0.3, 28.263222852000503, , , , 1230611, False, 
+##[group]Run actions/cache@v2.1.6__dup_11, 20.100522089284425, , , , 559151, False, 
+##[group]Fetching the repository, 16.695597743283635, , , , 816234, False, 
+##[group]Run actions/setup-java@v2, 12.813029332846344, , , , 512185, False, 
+Requested labels: self-hosted, 4.7023301172384375, , , , 5723568, False, 
+##[group]Run actions/checkout@v2, 3.832402713706888, , , , 192775, False, 
+##[group]Checking out the ref, 2.196716521447104, , , , 57973, False, 
+##[group]Setting up auth, 1.977182914373805, , , , 63790, False, 
+##[group]Initializing the repository, 1.9527902913656607, , , , 56655, False, 

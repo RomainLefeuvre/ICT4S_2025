@@ -1,0 +1,15 @@
+##[group]GITHUB_TOKEN Permissions, 80.69201770633941, , , , 12312811, False, 
+##[group]Augmented user configuration file contents, 35.9025135655577, , , , 2641872, False, 
+##[group]Run github/codeql-action/analyze@v1, 25.840806972749053, , , , 1514502, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Load language configuration, 24.29201260174941, , , , 3640293, False, 
+##[group]Waiting for processing to finish, 20.900690938455146, , , , 6224009, False, 
+##[group]Setup CodeQL tools, 13.85886618036852, , , , 3243499, False, 
+##[group]Finalizing java, 11.784271870721184, , , , 3841406, True, ##[error]No code found during the build. Please see:
+Requested labels: self-hosted, 7.723355952068332, , , , 4429591, False, 
+##[group]Run make TwitchRecover.CLI.CLI, 6.323674318464715, , , , 686772, True, ##[error]Process completed with exit code 2.
+##[group]Fetching the repository, 5.740294920187909, , , , 427328, False, 
+##[group]Run github/codeql-action/init@v1, 4.736133413299669, , , , 376704, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Removing previously created refs_ to avoid conflicts, 4.41636124185669, , , , 407539, False, 
+##[group]Uploading results, 4.308269481464293, , , , 508805, False, 
+##[group]Run actions/checkout@v2, 2.1602147952118997, , , , 179182, False, 
+##[group]Cleaning the repository, 1.1240760711793587, , , , 10568, False, 

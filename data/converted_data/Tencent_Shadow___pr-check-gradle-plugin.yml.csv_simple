@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v2,1100.343767395501,122933106,False,
+##[group]Run ./gradlew --stop,368.7322250997124,36926629,False,
+##[group]Run ./test_JDK11.sh,165.62544446145893,9088331,True,##[error]Process completed with exit code 1.
+##[group]Run ./test_JDK17.sh,41.63912521082168,12838094,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,21.63776671741289,3779128,False,
+##[group]Installed distributions__dup_12,10.51331248913973,864512,False,
+##[group]Installed distributions,10.15744212369357,881590,False,
+##[group]Run echo 'distributionUrl=https\\://services.gradle.org/distributions/gradle-7.5-bin.zip' >  gradle/wrapper/gradle-wrapper.properties,6.817251838323624,11331,False,
+##[group]Fetching the repository,4.873370882300202,490867,False,
+##[group]Cleaning the repository,2.729087694088113,338192,False,
+##[group]Setting up auth,0.9356872094016389,81289,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.8837045866571034,37701,False,
+##[group]Run actions/checkout@v2,0.8707089309709695,158948,False,
+Requested labels: self-hosted,0.0664329795197568,4848411,False,

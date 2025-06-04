@@ -1,0 +1,700 @@
+##[group]==END_FILE==, 87007.92331187535, , , , 4518237677, False, 
+Requested labels: self-hosted, 565.2559283750286, , , , 185859882, False, 
+##[group]GITHUB_TOKEN Permissions, 1.456862152019691, , , , 2216855, False, 
+##[group]Run actions/checkout@v4, 0.163191406208104, , , , 159498, False, 
+##[group]Setting up auth, 0.0833697065110596, , , , 50424, False, 
+##[group]Fetching the repository, 49.75263910405148, , , , 29300982, False, 
+##[group]Run ./mvnw -B verify -P__ --file pom.xml, 0.944531040982988, , , , 456438, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]==END_FILE==__dup_8, 41395.73702757698, , , , 2802566334, False, 
+##[group]GITHUB_TOKEN Permissions__dup_9, 36.746437406071465, , , , 2311031, False, 
+##[group]Run actions/checkout@v4__dup_10, 1.7427260479379223, , , , 135166, False, 
+##[group]Initializing the repository, 1.8567537071051992, , , , 7412, False, 
+##[group]Fetching the repository__dup_12, 72.52225577689141, , , , 30305721, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-next_jackson-next --file pom.xml, 5.024179816617311, , , , 478978, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_14, 8.68444752331137, , , , 2106370, False, 
+##[group]Run actions/checkout@v4__dup_15, 1.3303933426836436, , , , 143727, False, 
+##[group]Getting Git version info, 1.301357902542313, , , , 73465, False, 
+##[group]Initializing the repository__dup_17, 4.915077208755945, , , , 397819, False, 
+##[group]Setting up auth__dup_18, 1.1561807018356591, , , , 82374, False, 
+##[group]Fetching the repository__dup_19, 73.42262507202962, , , , 34293026, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions, 0.7035864525701929, , , , 44699, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -P__jackson-next --file pom.xml, 3.7262131808666217, , , , 449915, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_22, 994.3371083752324, , , , 190324546, False, 
+##[group]GITHUB_TOKEN Permissions__dup_23, 19.237201501282343, , , , 2639177, False, 
+##[group]Run actions/checkout@v4__dup_24, 4.116866083631815, , , , 157817, False, 
+##[group]Initializing the repository__dup_25, 1.9482630263739509, , , , 7909, False, 
+##[group]Fetching the repository__dup_26, 72.68317829032134, , , , 35331292, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort, 2.7875784512158392, , , , 25198, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-next_jackson-next --file pom.xml, 16.013466907425073, , , , 447064, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_29, 12871.96726831875, , , , 1617251658, False, 
+##[group]GITHUB_TOKEN Permissions__dup_30, 34.86218208324611, , , , 2164142, False, 
+##[group]Run actions/checkout@v4__dup_31, 11.861825183145656, , , , 138293, False, 
+##[group]Setting up auth__dup_32, 2.0608265639846746, , , , 57176, False, 
+##[group]Fetching the repository__dup_33, 94.07780732261465, , , , 30417311, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_34, 2.278950282052913, , , , 55948, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -P_kotlin-2-next_jackson-next --file pom.xml, 12.225320063118511, , , , 453343, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_36, 1599.1891972907383, , , , 273116308, False, 
+##[group]GITHUB_TOKEN Permissions__dup_37, 50.7907869296635, , , , 2154060, False, 
+##[group]Run actions/checkout@v4__dup_38, 5.1035733449505045, , , , 147640, False, 
+##[group]Setting up auth__dup_39, 2.725225572475728, , , , 57863, False, 
+##[group]Fetching the repository__dup_40, 109.71328574180204, , , , 35356950, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_41, 2.2699542977122413, , , , 46095, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-2-next_jackson-next --file pom.xml, 14.626079682014144, , , , 447983, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_43, 860.2499364968053, , , , 132668259, False, 
+##[group]GITHUB_TOKEN Permissions__dup_44, 32.02181814242972, , , , 2447128, False, 
+##[group]Run actions/checkout@v4__dup_45, 2.50515957653075, , , , 134042, False, 
+##[group]Setting up auth__dup_46, 13.351387915471935, , , , 57413, False, 
+##[group]Fetching the repository__dup_47, 86.42747405134332, , , , 29283440, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_48, 2.2203096656263503, , , , 58263, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-2-next_jackson-next --file pom.xml, 13.587427592439504, , , , 456155, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_50, 47.32541397016004, , , , 2252023, False, 
+##[group]Run actions/checkout@v4__dup_51, 2.514010559829753, , , , 136353, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.668268528822777, , , , 9170, False, 
+##[group]Setting up auth__dup_53, 2.822526497815802, , , , 57480, False, 
+##[group]Fetching the repository__dup_54, 100.3755304217575, , , , 28372311, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_55, 2.301982969610161, , , , 23199, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -P_kotlin-next_jackson-next --file pom.xml, 12.598964286045504, , , , 453917, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_57, 76365.95326568175, , , , 3830558454, False, 
+##[group]GITHUB_TOKEN Permissions__dup_58, 38.06324297322208, , , , 2222378, False, 
+##[group]Run actions/checkout@v4__dup_59, 13.21347957365826, , , , 134743, False, 
+##[group]Initializing the repository__dup_60, 2.399804652844982, , , , 40106, False, 
+##[group]Fetching the repository__dup_61, 94.82728131759325, , , , 28273512, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run actions/setup-java@v4, 1.4921299302387383, , , , 844, False, 
+##[group]Installed distributions__dup_63, 2.2873057641557857, , , , 49008, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-61-next__jackson-next --file pom.xml, 11.40986972214448, , , , 509648, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_65, 57994.8984064144, , , , 3119867745, False, 
+##[group]GITHUB_TOKEN Permissions__dup_66, 32.88432105546329, , , , 2175517, False, 
+##[group]Run actions/checkout@v4__dup_67, 2.3588536213266345, , , , 144964, False, 
+##[group]Fetching the repository__dup_68, 86.70297633723766, , , , 33311895, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_69, 1.6398611683502862, , , , 78388, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next__jackson-next --file pom.xml, 8.293444738966508, , , , 457586, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_71, 3989.303166463905, , , , 673305370, False, 
+##[group]GITHUB_TOKEN Permissions__dup_72, 49.374564041057965, , , , 2258771, False, 
+##[group]Run actions/checkout@v4__dup_73, 4.957961423358317, , , , 143221, False, 
+##[group]Setting up auth__dup_74, 12.649818988330436, , , , 57659, False, 
+##[group]Fetching the repository__dup_75, 99.53735324249506, , , , 34347323, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -P_kotlin-2-next_ --file pom.xml, 14.516346043075268, , , , 491153, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_77, 52931.51103262718, , , , 2859284902, False, 
+##[group]GITHUB_TOKEN Permissions__dup_78, 36.16345743126645, , , , 2118161, False, 
+##[group]Run actions/checkout@v4__dup_79, 2.513836803140053, , , , 140477, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_80, 2.6151499670605864, , , , 9229, False, 
+##[group]Setting up auth__dup_81, 13.075749835302933, , , , 74969, False, 
+##[group]Fetching the repository__dup_82, 86.64729372814453, , , , 32275627, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_83, 2.6325616331838355, , , , 24839, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-2-next_ --file pom.xml, 14.390301458775792, , , , 475672, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_85, 48116.87887855166, , , , 2646692411, False, 
+##[group]GITHUB_TOKEN Permissions__dup_86, 33.50080593461099, , , , 2144743, False, 
+##[group]Run actions/checkout@v4__dup_87, 5.354331865808492, , , , 151641, False, 
+##[group]Getting Git version info__dup_88, 2.430294238416605, , , , 114346, False, 
+##[group]Initializing the repository__dup_89, 2.265713108758179, , , , 8504, False, 
+##[group]Fetching the repository__dup_90, 92.1289107935276, , , , 23535351, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_91, 2.500942365764491, , , , 50695, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-2-next_ --file pom.xml, 13.958349242333796, , , , 468501, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_93, 2186.356935278114, , , , 373760508, False, 
+##[group]GITHUB_TOKEN Permissions__dup_94, 40.9828240487989, , , , 2446771, False, 
+##[group]Run actions/checkout@v4__dup_95, 15.354666633120594, , , , 141144, False, 
+##[group]Setting up auth__dup_96, 2.874511822439448, , , , 56967, False, 
+##[group]Fetching the repository__dup_97, 104.3134462310693, , , , 36312968, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_98, 2.59633357388152, , , , 49914, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_99, 12.9816678694076, , , , 24747, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -P_kotlin-next_ --file pom.xml, 12.348619034290898, , , , 465372, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_101, 70265.36742028905, , , , 3399257383, False, 
+##[group]GITHUB_TOKEN Permissions__dup_102, 37.318144543294, , , , 2196728, False, 
+##[group]Run actions/checkout@v4__dup_103, 11.865969848370424, , , , 145530, False, 
+##[group]Cleaning the repository, 2.2233846258591616, , , , 10554, False, 
+##[group]Fetching the repository__dup_105, 100.80048726139984, , , , 29274151, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_106, 2.496477825121701, , , , 50085, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-next_ --file pom.xml, 12.577924812921498, , , , 455827, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_108, 1396.431038195778, , , , 238769899, False, 
+##[group]GITHUB_TOKEN Permissions__dup_109, 39.96747018309569, , , , 2411437, False, 
+##[group]Run actions/checkout@v4__dup_110, 11.558260331767846, , , , 137837, False, 
+##[group]Fetching the repository__dup_111, 99.22617649483688, , , , 32319569, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_112, 11.563408454895264, , , , 48322, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_113, 2.391609430993403, , , , 25409, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-next_ --file pom.xml, 13.536601955254016, , , , 471128, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_115, 57.38758950222736, , , , 3252770, False, 
+##[group]Run actions/checkout@v4__dup_116, 2.5904985391360347, , , , 142592, False, 
+##[group]Initializing the repository__dup_117, 2.672826326186472, , , , 7179, False, 
+##[group]Fetching the repository__dup_118, 103.4259015991736, , , , 32287649, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_119, 1.877044707347411, , , , 52767, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-61-next__ --file pom.xml, 13.153984566633982, , , , 465344, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_121, 33069.05383991125, , , , 1923872684, False, 
+##[group]GITHUB_TOKEN Permissions__dup_122, 41.06736969821342, , , , 2605726, False, 
+##[group]Run actions/checkout@v4__dup_123, 2.595012404267926, , , , 141654, False, 
+##[group]Initializing the repository__dup_124, 13.9421487425255, , , , 8534, False, 
+##[group]Setting up auth__dup_125, 2.524536217183585, , , , 58751, False, 
+##[group]Fetching the repository__dup_126, 83.1505945040914, , , , 36316542, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_127, 2.430296165802037, , , , 53458, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next__ --file pom.xml, 12.79940277529788, , , , 453096, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_129, 1136.675154410219, , , , 182760155, False, 
+##[group]GITHUB_TOKEN Permissions__dup_130, 38.79381784273336, , , , 2149977, False, 
+##[group]Run actions/checkout@v4__dup_131, 1.929740710966804, , , , 142414, False, 
+##[group]Cleaning the repository__dup_132, 1.849179984758203, , , , 12208, False, 
+##[group]Fetching the repository__dup_133, 98.8157942979354, , , , 30344453, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -P__ --file pom.xml__dup_134, 13.06610495187052, , , , 460267, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_135, 27963.871290736337, , , , 1663591176, False, 
+##[group]GITHUB_TOKEN Permissions__dup_136, 43.6888290236592, , , , 2402381, False, 
+##[group]Run actions/checkout@v4__dup_137, 12.72033058250175, , , , 150223, False, 
+##[group]Setting up auth__dup_138, 2.447139058425764, , , , 56923, False, 
+##[group]Fetching the repository__dup_139, 97.88799434352563, , , , 32345046, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -P__jackson-next --file pom.xml__dup_140, 10.261159022838475, , , , 458658, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_141, 77895.66267213137, , , , 3463449815, False, 
+##[group]GITHUB_TOKEN Permissions__dup_142, 30.319262435623504, , , , 2158174, False, 
+##[group]Run actions/checkout@v4__dup_143, 2.5626003477620056, , , , 153931, False, 
+##[group]Fetching the repository__dup_144, 116.12109738033188, , , , 31350580, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_145, 2.003833842363973, , , , 50466, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-next_jackson-next --file pom.xml__dup_146, 12.46048535966812, , , , 472140, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_147, 47.9809359872398, , , , 2857513, False, 
+##[group]Run actions/checkout@v4__dup_148, 6.092729630707642, , , , 139515, False, 
+##[group]Getting Git version info__dup_149, 15.931879009333132, , , , 14700, False, 
+##[group]Setting up auth__dup_150, 2.9165364147966404, , , , 57899, False, 
+##[group]Fetching the repository__dup_151, 93.02127976574911, , , , 28311858, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_152, 2.5774422237876404, , , , 26119, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-next_jackson-next --file pom.xml__dup_153, 13.13888901969365, , , , 488189, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_154, 46.98833304617701, , , , 2139503, False, 
+##[group]Run actions/checkout@v4__dup_155, 5.40475660416072, , , , 163003, False, 
+##[group]Disabling automatic garbage collection, 2.7807797683236903, , , , 2860, False, 
+##[group]Fetching the repository__dup_157, 100.06045685825364, , , , 23248664, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -P_kotlin-2-next_jackson-next --file pom.xml__dup_158, 13.982004522902272, , , , 478932, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_159, 36.52569054943431, , , , 2274941, False, 
+##[group]Run actions/checkout@v4__dup_160, 2.57894076931348, , , , 143714, False, 
+##[group]Fetching the repository__dup_161, 104.2748161467782, , , , 27324227, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_162, 2.3021297344367126, , , , 24500, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-2-next_jackson-next --file pom.xml__dup_163, 12.779910334194062, , , , 469720, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_164, 12357.280701665168, , , , 917495926, False, 
+##[group]GITHUB_TOKEN Permissions__dup_165, 34.64700977483916, , , , 2239257, False, 
+##[group]Run actions/checkout@v4__dup_166, 2.467123635669684, , , , 142361, False, 
+##[group]Fetching the repository__dup_167, 122.77136688751855, , , , 41321683, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_168, 9.022967177071594, , , , 50241, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_169, 1.980038456120496, , , , 25095, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-2-next_jackson-next --file pom.xml__dup_170, 13.409092694726024, , , , 467784, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_171, 58372.320652719, , , , 2578381309, False, 
+##[group]GITHUB_TOKEN Permissions__dup_172, 44.07307913002538, , , , 2222712, False, 
+##[group]Run actions/checkout@v4__dup_173, 5.02734595009973, , , , 152714, False, 
+##[group]Setting up auth__dup_174, 2.742461865021242, , , , 57993, False, 
+##[group]Fetching the repository__dup_175, 108.56297796514468, , , , 29298506, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_176, 2.231885517769192, , , , 58400, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -P_kotlin-next_jackson-next --file pom.xml__dup_177, 12.810170938687632, , , , 457463, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_178, 39843.99832985573, , , , 1864610849, False, 
+##[group]GITHUB_TOKEN Permissions__dup_179, 45.34812372227805, , , , 2337047, False, 
+##[group]Run actions/checkout@v4__dup_180, 11.663532829710608, , , , 153617, False, 
+##[group]Setting up auth__dup_181, 2.3012007946311908, , , , 57438, False, 
+##[group]Fetching the repository__dup_182, 109.3028024872194, , , , 38340828, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -Pspring-61-next__jackson-next --file pom.xml__dup_183, 13.9787361641478, , , , 456238, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_184, 40.33878350981151, , , , 2988570, False, 
+##[group]Run actions/checkout@v4__dup_185, 2.15353773850638, , , , 157241, False, 
+##[group]Cleaning the repository__dup_186, 11.485702646727358, , , , 11300, False, 
+##[group]Setting up auth__dup_187, 2.171295991980554, , , , 103868, False, 
+##[group]Fetching the repository__dup_188, 104.13361280468934, , , , 31353703, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_189, 13.009952554814426, , , , 25779, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -P_kotlin-2-next_ --file pom.xml__dup_190, 10.171657229777288, , , , 448894, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_191, 594.5550493447126, , , , 98433363, False, 
+##[group]GITHUB_TOKEN Permissions__dup_192, 43.44208918923572, , , , 2074945, False, 
+##[group]Run actions/checkout@v4__dup_193, 1.886566889243952, , , , 153931, False, 
+##[group]Fetching the repository__dup_194, 96.31441441859212, , , , 34222766, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -Pspring-next__jackson-next --file pom.xml__dup_195, 14.171845465070458, , , , 451549, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_196, 593.583201324022, , , , 104120606, False, 
+##[group]GITHUB_TOKEN Permissions__dup_197, 33.36557361546218, , , , 2255652, False, 
+##[group]Run actions/checkout@v4__dup_198, 11.206208994592997, , , , 149065, False, 
+##[group]Fetching the repository__dup_199, 102.9257485894093, , , , 30300792, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_200, 9.824101706591648, , , , 50854, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-2-next_ --file pom.xml__dup_201, 11.701181255186595, , , , 465389, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_202, 61642.93997206066, , , , 2516880989, False, 
+##[group]GITHUB_TOKEN Permissions__dup_203, 40.89946163348195, , , , 2316934, False, 
+##[group]Run actions/checkout@v4__dup_204, 4.380041883009033, , , , 161103, False, 
+##[group]Setting up auth__dup_205, 2.285672582830051, , , , 55571, False, 
+##[group]Fetching the repository__dup_206, 109.1513678122579, , , , 39315583, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_207, 1.992036405689194, , , , 53304, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-2-next_ --file pom.xml__dup_208, 12.525489930608032, , , , 507425, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_209, 20245.209763181032, , , , 957151636, False, 
+##[group]GITHUB_TOKEN Permissions__dup_210, 30.15490428547805, , , , 2264678, False, 
+##[group]Run actions/checkout@v4__dup_211, 12.315484256862636, , , , 154622, False, 
+##[group]Fetching the repository__dup_212, 105.49477702878244, , , , 30256847, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_213, 2.462461701296457, , , , 25232, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -P_kotlin-next_ --file pom.xml__dup_214, 12.312308506482283, , , , 472217, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_215, 29.781224432221517, , , , 2325092, False, 
+##[group]Run actions/checkout@v4__dup_216, 2.1329244956514564, , , , 144611, False, 
+##[group]Initializing the repository__dup_217, 2.259462611907178, , , , 7827, False, 
+##[group]Fetching the repository__dup_218, 111.26785069348064, , , , 38288362, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_219, 2.18670924428872, , , , 53223, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-next_ --file pom.xml__dup_220, 11.638083142525176, , , , 489378, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_221, 894.8443171395152, , , , 146319563, False, 
+##[group]GITHUB_TOKEN Permissions__dup_222, 33.56976097645972, , , , 2116821, False, 
+##[group]Run actions/checkout@v4__dup_223, 10.380515315615993, , , , 140270, False, 
+##[group]Initializing the repository__dup_224, 2.144714635762732, , , , 71861, False, 
+##[group]Fetching the repository__dup_225, 115.5773481439959, , , , 38345006, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_226, 2.3991695303725424, , , , 60659, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_227, 11.995847651862713, , , , 32054, True, ##[error]Process completed with exit code 127.
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-next_ --file pom.xml__dup_228, 13.673530931704112, , , , 465857, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_229, 361.77471471073136, , , , 54022148, False, 
+##[group]GITHUB_TOKEN Permissions__dup_230, 30.43709693866827, , , , 2086040, False, 
+##[group]Run actions/checkout@v4__dup_231, 2.0969855398083235, , , , 140129, False, 
+##[group]Fetching the repository__dup_232, 115.31560642348528, , , , 32517914, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./mvnw -B verify -Pspring-61-next__ --file pom.xml__dup_233, 12.38695509504466, , , , 493895, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_234, 39.95463347276868, , , , 2305699, False, 
+##[group]Run actions/checkout@v4__dup_235, 2.2885314341289305, , , , 143360, False, 
+##[group]Initializing the repository__dup_236, 11.442657170644653, , , , 9106, False, 
+##[group]Fetching the repository__dup_237, 101.79216411767712, , , , 29291003, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Installed distributions__dup_238, 2.123981825637458, , , , 55850, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -B verify -Pspring-next__ --file pom.xml__dup_239, 11.85441433359226, , , , 471772, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_240, 35.25309105526342, , , , 2102622, False, 
+##[group]Run actions/checkout@v4__dup_241, 2.2905185895903366, , , , 133575, False, 
+##[group]Cleaning the repository__dup_242, 2.229668019993712, , , , 11319, False, 
+##[group]Fetching the repository__dup_243, 9.627075860052916, , , , 884087, False, 
+##[group]Checking out the ref, 11.767647008084952, , , , 59157, False, 
+##[group]Installed distributions__dup_245, 25.246224272910624, , , , 1320255, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_246, 2224.2203703309724, , , , 90854352, True, ##[error]Process completed with exit code 127.
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---, 61.6747786773658, , , , 3284161, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---, 30.56167526819266, , , , 1786490, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---, 32.72582978444281, , , , 4912668, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---, 166.8580106711745, , , , 10013464, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---, 640.5480349421509, , , , 22833920, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---, 14.512280989482342, , , , 3047493, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---, 967.372053949205, , , , 28733645, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---, 20.34001199797272, , , , 862143, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---, 72.13827546529421, , , , 2714856, False, 
+##[group]Run ./mvnw -B verify -P__ --file pom.xml__dup_256, 2102.8716356173745, , , , 68103017, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_257, 17.49733174951796, , , , 155762, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_258, 3.402498560539694, , , , 86512, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_259, 3.3701759640850604, , , , 113217, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_260, 174.84612064355764, , , , 5570297, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---, 2.901921514102167, , , , 20766, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_262, 762.8024987493807, , , , 25209416, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_263, 106.7998912332862, , , , 3090413, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_264, 866.8686447440836, , , , 26034174, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_265, 14.356995449487489, , , , 348935, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_266, 14930.270592430705, , , , 589947235, False, 
+##[group]GITHUB_TOKEN Permissions__dup_267, 31.510926635038, , , , 2352165, False, 
+##[group]Run actions/checkout@v4__dup_268, 9.671471569115244, , , , 135990, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_269, 2.1022309324234736, , , , 35698, False, 
+##[group]Setting up auth__dup_270, 2.1861992417236857, , , , 60490, False, 
+##[group]Fetching the repository__dup_271, 11.77067930162055, , , , 597586, False, 
+##[group]Installed distributions__dup_272, 303.76743524182865, , , , 29422638, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_273, 2103.9791249350983, , , , 65157125, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_274, 3.4636733118512253, , , , 172627, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_275, 3.466946263579927, , , , 87736, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_276, 142.93278430301743, , , , 4152291, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_277, 203.2860539230964, , , , 5737373, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_278, 672.7833317193856, , , , 23398676, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_279, 103.55073606672175, , , , 3131687, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_280, 904.3352293437156, , , , 25951688, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_281, 11.987367969545256, , , , 342047, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_282, 78.53837662425454, , , , 2189776, False, 
+##[group]Run ./mvnw -B verify -P__jackson-next --file pom.xml__dup_283, 2061.0385091684934, , , , 64078386, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_284, 3.566340326139996, , , , 152961, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_285, 3.5696773539628395, , , , 83342, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_286, 17.865071908928414, , , , 112315, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_287, 180.97663315230463, , , , 5710035, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_288, 759.3204015429721, , , , 25997744, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_289, 102.91957407960668, , , , 3083298, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_290, 906.7823466383088, , , , 26011710, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_291, 14.4039536902554, , , , 345325, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_292, 23960.23410019411, , , , 916884001, False, 
+##[group]GITHUB_TOKEN Permissions__dup_293, 36.10954813403002, , , , 2285796, False, 
+##[group]Run actions/checkout@v4__dup_294, 10.304105612941331, , , , 138257, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_295, 2.099956303102316, , , , 20562, False, 
+##[group]Setting up auth__dup_296, 2.139091483616366, , , , 61104, False, 
+##[group]Fetching the repository__dup_297, 16.415396613081565, , , , 874871, False, 
+##[group]Installed distributions__dup_298, 300.8813758224602, , , , 28141894, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_299, 2062.702662353181, , , , 64538842, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_300, 7.067811876208928, , , , 168164, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_301, 3.5291422505881807, , , , 87912, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_302, 141.80084270015632, , , , 4002490, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_303, 184.0270608134768, , , , 5631967, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_304, 644.4599858609585, , , , 22943888, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_305, 106.96259720895958, , , , 3133437, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_306, 905.9490743894528, , , , 26051512, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_307, 9.945903244224796, , , , 312144, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_308, 525.1803418940269, , , , 34230306, False, 
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-next_jackson-next --file pom.xml__dup_309, 2597.932669845464, , , , 100497537, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_310, 5.082220400698157, , , , 166838, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_311, 2.7612702207558897, , , , 81627, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_312, 156.3566950221837, , , , 4348100, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:compile (compile) @ spring-hateoas ---, 241.66595413140357, , , , 9406237, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_314, 655.5689432698153, , , , 22566371, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:test-compile (test-compile) @ spring-hateoas ---, 106.04394109087664, , , , 2729847, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_316, 903.2989990007452, , , , 26278997, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_317, 8.80904169935046, , , , 329314, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_318, 46255.07271806554, , , , 1717990835, False, 
+##[group]GITHUB_TOKEN Permissions__dup_319, 38.03414095120269, , , , 2522673, False, 
+##[group]Run actions/checkout@v4__dup_320, 3.9126282480368486, , , , 160026, False, 
+##[group]Cleaning the repository__dup_321, 2.055308136957886, , , , 42629, False, 
+##[group]Fetching the repository__dup_322, 18.476556767981656, , , , 944405, False, 
+##[group]Installed distributions__dup_323, 291.113373364914, , , , 27138548, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_324, 2126.189287655523, , , , 65593357, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_325, 7.12188845259886, , , , 178408, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_326, 159.43062500649276, , , , 4094509, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_327, 183.682702940256, , , , 5810966, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_328, 685.1298604375938, , , , 23216527, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_329, 105.343989622594, , , , 3154217, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_330, 924.9263310884052, , , , 26630173, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_331, 13.2529640829871, , , , 287862, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_332, 63.97791164852063, , , , 2142492, False, 
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-next_jackson-next --file pom.xml__dup_333, 2004.107096229979, , , , 63054290, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_334, 7.065063267303701, , , , 159709, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_335, 3.555831545465161, , , , 89813, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_336, 17.779157727325803, , , , 118795, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:compile (compile) @ spring-hateoas ---__dup_337, 141.88985734314454, , , , 5732703, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_338, 753.7461285912747, , , , 25178548, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:test-compile (test-compile) @ spring-hateoas ---__dup_339, 89.23761142643997, , , , 2708876, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_340, 907.749724111408, , , , 26229066, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_341, 12.629711037451193, , , , 301009, False, 
+##[group]GITHUB_TOKEN Permissions__dup_342, 30.450175536683894, , , , 2284256, False, 
+##[group]Run actions/checkout@v4__dup_343, 4.436525020715673, , , , 145922, False, 
+##[group]Cleaning the repository__dup_344, 2.3381409052581663, , , , 40785, False, 
+##[group]Fetching the repository__dup_345, 12.489893825626362, , , , 586774, False, 
+##[group]Installed distributions__dup_346, 296.27041410842804, , , , 26059678, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_347, 2094.6156848038595, , , , 64505235, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_348, 7.074578117083556, , , , 168810, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_349, 17.67450199074093, , , , 93333, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_350, 141.35941796620537, , , , 4173009, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_351, 205.11236765522852, , , , 5870534, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_352, 673.8337870489588, , , , 22977672, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_353, 104.18565329483586, , , , 3129138, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_354, 886.636110208843, , , , 25532213, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_355, 15.151411890604308, , , , 328677, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_356, 66.81054635170364, , , , 2232848, False, 
+##[group]Run ./mvnw -B verify -P_kotlin-2-next_jackson-next --file pom.xml__dup_357, 2034.2871764359, , , , 63015539, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_358, 3.5760987302907936, , , , 154853, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_359, 3.5781267746464778, , , , 88410, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_360, 17.89063387323239, , , , 103551, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_361, 177.9037138757413, , , , 5611250, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_362, 743.5062845941533, , , , 24861125, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_363, 106.96519144785802, , , , 3180894, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_364, 908.2514402486204, , , , 26139075, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_365, 13.187736654488017, , , , 342616, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_366, 521.4843036023216, , , , 41585587, False, 
+##[group]GITHUB_TOKEN Permissions__dup_367, 31.666191397480063, , , , 2329264, False, 
+##[group]Run actions/checkout@v4__dup_368, 10.338651793641365, , , , 135451, False, 
+##[group]Cleaning the repository__dup_369, 2.1439482940329757, , , , 39700, False, 
+##[group]Fetching the repository__dup_370, 11.291375984950143, , , , 604163, False, 
+##[group]Checking out the ref__dup_371, 1.9086928793311424, , , , 17647, False, 
+##[group]Installed distributions__dup_372, 291.74034323179137, , , , 27104464, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_373, 2104.5609275332863, , , , 64975099, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_374, 7.145404521548527, , , , 156781, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_375, 3.5663231288975195, , , , 86577, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_376, 142.22503204644406, , , , 4016771, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_377, 200.0103782050201, , , , 5720903, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_378, 3.181395575139863, , , , 28486, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_379, 686.8143598210177, , , , 23194468, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_380, 106.83722570987707, , , , 3356430, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_381, 906.1648828038312, , , , 26041115, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_382, 14.586496147262618, , , , 315121, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_383, 66.33352864717341, , , , 2140126, False, 
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-2-next_jackson-next --file pom.xml__dup_384, 2040.282439582852, , , , 63608637, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_385, 7.119093559902418, , , , 160322, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_386, 3.5480672706531617, , , , 92694, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_387, 3.5404142644544647, , , , 99607, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_388, 200.6479329222117, , , , 5781284, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_389, 3.0938976506469342, , , , 15603, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_390, 753.1896974194107, , , , 25531330, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_391, 108.3107081586722, , , , 3102167, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_392, 882.9915697441912, , , , 26006114, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_393, 12.546046668119445, , , , 304444, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_394, 36918.30093046464, , , , 1383789408, False, 
+##[group]GITHUB_TOKEN Permissions__dup_395, 39.244087904634576, , , , 2336257, False, 
+##[group]Run actions/checkout@v4__dup_396, 10.808988247041109, , , , 165362, False, 
+##[group]Setting up auth__dup_397, 4.2024906979460654, , , , 170090, False, 
+##[group]Fetching the repository__dup_398, 10.20346524268922, , , , 639710, False, 
+##[group]Installed distributions__dup_399, 302.2554056714405, , , , 28315006, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_400, 2036.5790089318823, , , , 65396934, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_401, 6.669144002780567, , , , 166625, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_402, 17.68326129213174, , , , 113883, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_403, 124.09284494601744, , , , 4006998, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_404, 185.29619730110304, , , , 5856267, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_405, 646.9735206060996, , , , 23351554, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_406, 121.78947433127637, , , , 3184990, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_407, 867.9540232410845, , , , 26056897, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_408, 12.56501297431342, , , , 276259, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_409, 64.74979214038112, , , , 2046831, False, 
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-2-next_jackson-next --file pom.xml__dup_410, 2071.469125856926, , , , 63461420, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_411, 3.4920967094508755, , , , 161195, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_412, 3.5234039941590285, , , , 87596, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_413, 17.773556394335905, , , , 98330, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_414, 181.1582048818654, , , , 5750866, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_415, 765.3750252183034, , , , 25265864, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_416, 106.13593952998002, , , , 3209208, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_417, 906.036619888622, , , , 26051178, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_418, 14.83888903276172, , , , 341977, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_419, 18829.603841311786, , , , 711839700, False, 
+##[group]GITHUB_TOKEN Permissions__dup_420, 30.18059233496337, , , , 2301983, False, 
+##[group]Run actions/checkout@v4__dup_421, 2.098705587730125, , , , 131498, False, 
+##[group]Cleaning the repository__dup_422, 2.197510778329608, , , , 40248, False, 
+##[group]Fetching the repository__dup_423, 12.469631750640282, , , , 629055, False, 
+##[group]Installed distributions__dup_424, 280.4317317780987, , , , 26033740, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_425, 2077.934643819181, , , , 65254293, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_426, 3.527824172621048, , , , 160114, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_427, 17.840441187924267, , , , 87448, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_428, 140.45694872716462, , , , 4149759, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_429, 184.18205525956404, , , , 5699396, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_430, 685.5757024499786, , , , 23653581, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_431, 106.0038868581709, , , , 3143820, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_432, 896.8788254462753, , , , 25927237, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_433, 8.590604299109607, , , , 306872, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_434, 64.9463662656731, , , , 2121747, False, 
+##[group]Run ./mvnw -B verify -P_kotlin-next_jackson-next --file pom.xml__dup_435, 2015.3770317930532, , , , 63119511, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_436, 17.86202787000046, , , , 156905, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_437, 3.565628074638444, , , , 83421, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_438, 3.562239324957621, , , , 99302, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:compile (compile) @ spring-hateoas ---__dup_439, 160.8221483478777, , , , 5668015, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_440, 755.4163889162418, , , , 25289517, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:test-compile (test-compile) @ spring-hateoas ---__dup_441, 104.2696950096188, , , , 2675568, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_442, 887.346729838388, , , , 26204887, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_443, 11.83625498462028, , , , 370140, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_444, 32430.83841304645, , , , 1216518723, False, 
+##[group]GITHUB_TOKEN Permissions__dup_445, 42.16447858598568, , , , 2379257, False, 
+##[group]Run actions/checkout@v4__dup_446, 4.589219611667204, , , , 155225, False, 
+##[group]Cleaning the repository__dup_447, 2.269246546370462, , , , 41040, False, 
+##[group]Fetching the repository__dup_448, 9.820074010292632, , , , 654354, False, 
+##[group]Installed distributions__dup_449, 283.8881136554075, , , , 27242863, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_450, 2104.788154582368, , , , 65026915, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_451, 3.5532467630349585, , , , 164671, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_452, 17.794638275663523, , , , 94715, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_453, 140.44840446454486, , , , 4036487, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_454, 185.80831692480552, , , , 5781304, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_455, 671.1092776128463, , , , 22874157, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_456, 123.48946390133534, , , , 3180620, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_457, 905.9791422937308, , , , 26414602, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_458, 12.64239548634043, , , , 293752, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_459, 65.24815891073692, , , , 2186924, False, 
+##[group]Run ./mvnw -B verify -Pspring-61-next__jackson-next --file pom.xml__dup_460, 2033.334826405704, , , , 62863872, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_461, 3.540881713337034, , , , 164278, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_462, 17.69248011607185, , , , 91593, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_463, 3.5089174933920675, , , , 100235, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_464, 179.47121943747624, , , , 5688616, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_465, 768.5963234518508, , , , 25383811, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_466, 103.9066697394415, , , , 3053050, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_467, 886.439643637389, , , , 25503803, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_468, 8.572425842774877, , , , 308398, False, 
+##[group]GITHUB_TOKEN Permissions__dup_469, 40.01345418924102, , , , 2221684, False, 
+##[group]Run actions/checkout@v4__dup_470, 4.5195986782403015, , , , 148975, False, 
+##[group]Cleaning the repository__dup_471, 2.4608096990893977, , , , 40103, False, 
+##[group]Fetching the repository__dup_472, 20.54008274947033, , , , 591250, False, 
+##[group]Checking out the ref__dup_473, 1.7622025463252349, , , , 58354, False, 
+##[group]Installed distributions__dup_474, 302.96720017528105, , , , 27233514, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_475, 2093.522392259635, , , , 65078842, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_476, 7.1343782148358565, , , , 162100, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_477, 141.92606412264902, , , , 4028273, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_478, 198.4190398258137, , , , 5885854, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_479, 672.9661510980269, , , , 22881258, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_480, 122.53274505496344, , , , 3117954, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_481, 884.8282163805945, , , , 26427231, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_482, 9.451706539696232, , , , 325360, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_483, 79.43652542496096, , , , 2134801, False, 
+##[group]Run ./mvnw -B verify -Pspring-next__jackson-next --file pom.xml__dup_484, 2005.688358921248, , , , 63806104, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_485, 7.019112984968473, , , , 172850, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_486, 3.488455851884551, , , , 98356, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_487, 200.45969712619163, , , , 5773964, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_488, 756.8525533492966, , , , 25539103, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_489, 122.76493346608824, , , , 3241738, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_490, 833.119821335649, , , , 26059035, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_491, 11.23727799617788, , , , 300398, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_492, 9637.460404601945, , , , 377799355, False, 
+##[group]GITHUB_TOKEN Permissions__dup_493, 23.762566152757834, , , , 2338868, False, 
+##[group]Run actions/checkout@v4__dup_494, 2.110313587471835, , , , 136538, False, 
+##[group]Setting up auth__dup_495, 2.3379104307240204, , , , 60639, False, 
+##[group]Fetching the repository__dup_496, 12.258544261750568, , , , 557942, False, 
+##[group]Installed distributions__dup_497, 294.69294880612745, , , , 28367260, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_498, 2095.8046466136584, , , , 64532723, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_499, 3.5638408441491016, , , , 167594, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_500, 3.56235438670292, , , , 90437, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_501, 140.15201455175315, , , , 4125977, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_502, 204.8935433819131, , , , 5785466, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_503, 3.1749736199806997, , , , 32841, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_504, 686.5568190732299, , , , 23039727, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_505, 107.07704370484092, , , , 3119968, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_506, 878.0588479954178, , , , 25721252, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_507, 11.510112149169723, , , , 305607, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_508, 64.40046491220374, , , , 2126165, False, 
+##[group]Run ./mvnw -B verify -P_kotlin-2-next_ --file pom.xml__dup_509, 2046.6480726195712, , , , 63643530, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_510, 17.851176915372793, , , , 162173, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_511, 3.566383843036642, , , , 83342, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_512, 3.5644580730176827, , , , 98717, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_513, 199.1554264759297, , , , 5736604, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_514, 747.505310851358, , , , 25322002, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_515, 105.90260577825453, , , , 3191482, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_516, 898.398166198491, , , , 26199146, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_517, 14.619384028445351, , , , 324944, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_518, 27774.806075070694, , , , 1047145525, False, 
+##[group]GITHUB_TOKEN Permissions__dup_519, 30.164617876980405, , , , 2198306, False, 
+##[group]Run actions/checkout@v4__dup_520, 4.638748626532164, , , , 135789, False, 
+##[group]Cleaning the repository__dup_521, 2.290239983460126, , , , 39758, False, 
+##[group]Setting up auth__dup_522, 2.1690411448062137, , , , 75784, False, 
+##[group]Fetching the repository__dup_523, 9.027223144222386, , , , 604556, False, 
+##[group]Installed distributions__dup_524, 308.84266800970875, , , , 27364012, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_525, 1987.893025326456, , , , 64528042, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_526, 7.070716636668797, , , , 174612, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_527, 17.7166486486788, , , , 94719, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_528, 141.2049976763065, , , , 3998243, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_529, 186.9980590291442, , , , 5849708, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_530, 3.0821184331896863, , , , 30883, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_531, 684.5230570391969, , , , 23314857, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_532, 122.68843710634836, , , , 3174040, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_533, 775.9312101623564, , , , 25567886, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_534, 11.927435118853763, , , , 313929, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_535, 65.23781163295384, , , , 2105409, False, 
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-2-next_ --file pom.xml__dup_536, 2045.6906143683373, , , , 63900653, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_537, 7.121348457638067, , , , 156883, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_538, 17.826264168702703, , , , 89698, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_539, 3.516871149223006, , , , 107321, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_540, 182.71283332715217, , , , 5753965, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_541, 3.097084033367969, , , , 27433, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_542, 762.0398539869411, , , , 25899340, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_543, 122.71626769742804, , , , 3128510, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_544, 881.9721660397879, , , , 25816687, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_545, 14.42654379837372, , , , 403621, False, 
+##[group]GITHUB_TOKEN Permissions__dup_546, 42.48761740238017, , , , 2277374, False, 
+##[group]Run actions/checkout@v4__dup_547, 4.147924428676959, , , , 144855, False, 
+##[group]Getting Git version info__dup_548, 2.245308574571372, , , , 114370, False, 
+##[group]Cleaning the repository__dup_549, 11.7976974069665, , , , 41692, False, 
+##[group]Setting up auth__dup_550, 2.297908690330134, , , , 152012, False, 
+##[group]Fetching the repository__dup_551, 10.256927630387343, , , , 608879, False, 
+##[group]Installed distributions__dup_552, 286.1722879373903, , , , 26999298, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_553, 2088.086557775176, , , , 64604167, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_554, 7.070979748595249, , , , 193492, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_555, 3.5405875965398748, , , , 82444, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_556, 141.24846026874565, , , , 4022445, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_557, 186.2074524581327, , , , 5629903, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_558, 2.949347618675841, , , , 32105, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_559, 684.0836132482116, , , , 23025888, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_560, 104.36592402282828, , , , 3186402, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_561, 898.5497951554778, , , , 25989085, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_562, 9.1324168420509, , , , 302913, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_563, 80.4541408436283, , , , 2205614, False, 
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-2-next_ --file pom.xml__dup_564, 2017.4924992991068, , , , 63884217, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_565, 3.561276256229572, , , , 162477, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_566, 3.561539217362045, , , , 83871, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_567, 3.561802178494519, , , , 100260, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_568, 161.91036584260382, , , , 5692671, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_569, 741.6107813542752, , , , 25500036, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_570, 123.08808962141046, , , , 3199389, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_571, 895.3129462975598, , , , 26224879, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_572, 8.599483969334763, , , , 332171, False, 
+##[group]GITHUB_TOKEN Permissions__dup_573, 34.657309054343294, , , , 2188073, False, 
+##[group]Run actions/checkout@v4__dup_574, 2.0832398471032207, , , , 161922, False, 
+##[group]Getting Git version info__dup_575, 2.1970337286157537, , , , 4468, False, 
+##[group]Setting up auth__dup_576, 2.3108276101282867, , , , 59104, False, 
+##[group]Fetching the repository__dup_577, 19.957082032600795, , , , 609206, False, 
+##[group]Installed distributions__dup_578, 297.25386655571845, , , , 27127365, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_579, 2070.51401105117, , , , 64874105, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_580, 17.54562754956377, , , , 163148, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_581, 3.455484092524499, , , , 94553, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_582, 138.75510856688177, , , , 4076759, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_583, 184.4829149140662, , , , 5570324, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_584, 3.3767438217307517, , , , 29231, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_585, 650.6831182784856, , , , 22935744, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_586, 119.1690267331316, , , , 3183709, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_587, 901.5217061718836, , , , 26510625, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_588, 11.99059647835354, , , , 301091, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_589, 30.902551770513018, , , , 2197305, False, 
+##[group]Run ./mvnw -B verify -P_kotlin-next_ --file pom.xml__dup_590, 1936.2148659217837, , , , 61847301, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_591, 6.885180750726925, , , , 169294, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_592, 17.241698875109684, , , , 87192, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:compile (compile) @ spring-hateoas ---__dup_593, 181.44498482853584, , , , 5678672, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_594, 3.202731249292059, , , , 23580, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_595, 738.8291717192477, , , , 24937355, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:test-compile (test-compile) @ spring-hateoas ---__dup_596, 104.0385002643604, , , , 2593289, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_597, 833.0397437493307, , , , 25398738, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_598, 8.8444687031086, , , , 315813, False, 
+##[group]GITHUB_TOKEN Permissions__dup_599, 39.76002716569989, , , , 2580012, False, 
+##[group]Run actions/checkout@v4__dup_600, 10.71472343569453, , , , 148132, False, 
+##[group]Getting Git version info__dup_601, 2.1869631737678, , , , 86025, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_602, 2.230981660396694, , , , 21863, False, 
+##[group]Setting up auth__dup_603, 2.275000147025588, , , , 62224, False, 
+##[group]Fetching the repository__dup_604, 11.81518560141688, , , , 652117, False, 
+##[group]Checking out the ref__dup_605, 1.3901133395893472, , , , 20262, False, 
+##[group]Installed distributions__dup_606, 297.4659905555423, , , , 27992792, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_607, 2092.4082970478626, , , , 64728665, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_608, 7.077613556264714, , , , 167227, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_609, 17.72685919374401, , , , 95091, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_610, 139.77390439564252, , , , 4139945, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_611, 186.72541129104115, , , , 5730906, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_612, 3.2449696062592275, , , , 30344, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_613, 681.4800808257872, , , , 23065801, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_614, 105.28535067216768, , , , 3179919, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_615, 885.7298526901473, , , , 25888618, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_616, 11.284109691081431, , , , 304469, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_617, 65.61134600401908, , , , 2151883, False, 
+##[group]Run ./mvnw -B verify -Pspring-61-next_kotlin-next_ --file pom.xml__dup_618, 2035.4926949034736, , , , 63422536, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_619, 17.745426994695887, , , , 153449, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_620, 3.547208348197162, , , , 83585, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_621, 3.545331297455147, , , , 97437, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:compile (compile) @ spring-hateoas ---__dup_622, 176.90191314345742, , , , 5625326, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_623, 758.8970127894281, , , , 25287949, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:test-compile (test-compile) @ spring-hateoas ---__dup_624, 86.36475623767775, , , , 2629216, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_625, 918.7302493618648, , , , 26750267, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_626, 11.611569265469369, , , , 331476, False, 
+##[group]GITHUB_TOKEN Permissions__dup_627, 41.41791345021522, , , , 2301338, False, 
+##[group]Run actions/checkout@v4__dup_628, 11.004704042253648, , , , 161372, False, 
+##[group]Cleaning the repository__dup_629, 2.1368409286023016, , , , 42545, False, 
+##[group]Fetching the repository__dup_630, 9.40220704604295, , , , 615001, False, 
+##[group]Checking out the ref__dup_631, 2.032708592447188, , , , 33530, False, 
+##[group]Installed distributions__dup_632, 308.39603023997296, , , , 27997168, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_633, 2083.8597399947985, , , , 64458721, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_634, 3.5436926075512525, , , , 177047, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_635, 3.542419348034677, , , , 92066, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_636, 141.62663201733136, , , , 4225687, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_637, 199.8321672368762, , , , 5624721, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_638, 674.0854937534394, , , , 22956235, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_639, 105.2760717134436, , , , 3086666, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_640, 872.3958805058321, , , , 25844941, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_641, 12.20670554198174, , , , 342317, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_642, 65.71082783623697, , , , 2150398, False, 
+##[group]Run ./mvnw -B verify -Pspring-next_kotlin-next_ --file pom.xml__dup_643, 2049.8153844295307, , , , 62972402, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_644, 17.902983194897583, , , , 161447, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_645, 3.5610821402063304, , , , 97481, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:compile (compile) @ spring-hateoas ---__dup_646, 181.7426194971662, , , , 5725694, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_647, 782.5319485420598, , , , 25522270, False, 
+[INFO] --- kotlin-maven-plugin:2.0.0-Beta1:test-compile (test-compile) @ spring-hateoas ---__dup_648, 87.31075418585581, , , , 2698922, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_649, 890.2640216546249, , , , 25807403, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_650, 12.356287860987129, , , , 344044, False, 
+##[group]GITHUB_TOKEN Permissions__dup_651, 43.28843200695904, , , , 2658096, False, 
+##[group]Run actions/checkout@v4__dup_652, 10.83172018751786, , , , 148544, False, 
+##[group]Setting up auth__dup_653, 2.268376367491309, , , , 85419, False, 
+##[group]Fetching the repository__dup_654, 12.107124312364574, , , , 611939, False, 
+##[group]Installed distributions__dup_655, 271.81155681213687, , , , 26033370, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_656, 2047.5276486213063, , , , 64595790, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_657, 3.523113401766051, , , , 163249, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_658, 3.524167747412071, , , , 86296, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_659, 141.1586537769266, , , , 4220263, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_660, 183.2891482317553, , , , 5610840, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_661, 668.1963406963154, , , , 22938868, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_662, 124.768029259469, , , , 3205429, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_663, 852.7375668598455, , , , 25955221, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_664, 16.515242719047997, , , , 301845, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_665, 66.52973187203516, , , , 2093866, False, 
+##[group]Run ./mvnw -B verify -Pspring-61-next__ --file pom.xml__dup_666, 2054.69153233095, , , , 63220644, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_667, 7.06141545249088, , , , 161038, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_668, 17.737027304553553, , , , 102915, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_669, 3.526239611640753, , , , 105406, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_670, 183.36325456981143, , , , 5701201, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_671, 767.8556542536192, , , , 25139647, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_672, 105.91646459850448, , , , 3089706, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_673, 899.8784194824356, , , , 26106249, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_674, 8.316071599523237, , , , 330190, False, 
+##[group]GITHUB_TOKEN Permissions__dup_675, 34.311517075420085, , , , 2307789, False, 
+##[group]Run actions/checkout@v4__dup_676, 2.252691942989305, , , , 142831, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_677, 2.334368197368533, , , , 19297, False, 
+##[group]Setting up auth__dup_678, 2.4160444517477617, , , , 57519, False, 
+##[group]Fetching the repository__dup_679, 12.896984802531092, , , , 559126, False, 
+##[group]Determining the checkout info, 1.921520383374711, , , , 4714, False, 
+##[group]Installed distributions__dup_681, 284.6371850290723, , , , 27996976, True, ##[error]No file in /home/power/actions-runner/_work/spring-hateoas/spring-hateoas matched to [**/pom.xml], make sure you have checked out the target repository
+##[group]Run ./mvnw -D depedency:list -Dsort__dup_682, 2067.454412466714, , , , 64468119, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_683, 7.063969870654846, , , , 203012, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-hateoas ---__dup_684, 3.52573086001168, , , , 95064, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_685, 141.1755654050616, , , , 3976488, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_686, 202.8801152298888, , , , 5680408, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-hateoas ---__dup_687, 3.075572792644891, , , , 32748, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_688, 638.3937085787377, , , , 23107274, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_689, 104.82714861412774, , , , 3118734, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_690, 891.7828455692143, , , , 25768734, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_691, 11.481161445098603, , , , 307076, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ spring-hateoas ---__dup_692, 66.32475340262917, , , , 2205176, False, 
+##[group]Run ./mvnw -B verify -Pspring-next__ --file pom.xml__dup_693, 2042.8441433439723, , , , 63290334, False, 
+[INFO] --- build-helper-maven-plugin:3.3.0:add-source (add-kotlin-sources) @ spring-hateoas ---__dup_694, 17.728158720585967, , , , 177721, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-hateoas ---__dup_695, 3.5400384756142644, , , , 96557, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-hateoas ---__dup_696, 179.12926735350732, , , , 5626134, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-hateoas ---__dup_697, 769.4514262536048, , , , 25362380, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-hateoas ---__dup_698, 105.81231372591684, , , , 3381163, False, 
+[INFO] --- maven-surefire-plugin:3.0.0:test (default-test) @ spring-hateoas ---__dup_699, 891.9502472212192, , , , 25664001, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-hateoas ---__dup_700, 13.538062270040149, , , , 334350, False, 

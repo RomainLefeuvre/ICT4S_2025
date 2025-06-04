@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,31.278746109981096,1494982,False,
+##[group]Run ./gradlew assemble javadoc asciidoctorAllGuides,13.172431059256091,853083,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck"
+##[group]Run gradle/gradle-build-action@v2,11.49051620165836,505548,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'"
+##[group]GITHUB_TOKEN Permissions,10.439141501479146,3996872,False,
+##[group]Installed distributions,6.85720237863575,316132,False,
+##[group]Run ./gradlew classes,6.085489828398886,346110,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck"
+##[group]Run actions/checkout@v4,4.3941776167073385,208132,False,
+##[group]Run ./gradlew test,3.832321026544777,117755,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck"
+##[group]Checking out the ref,2.2651189360123243,35803,False,
+##[group]Setting up auth,2.2032733654135472,57453,False,
+##[group]Run ./gradlew integrationTest,1.8487588555560444,98482,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck"
+Requested labels: self-hosted,0.0262163807217412,5931510,False,

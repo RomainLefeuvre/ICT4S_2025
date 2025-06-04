@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,276.8601195135556,21891468,False,
+##[group]GITHUB_TOKEN Permissions,162.2452755903897,2728923,False,
+##[group]Fetching the repository,36.227296555800365,450855,False,
+##[group]Run mvn clean package,23.83099566265462,3395973,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn clean install -DskipTests -q -B,14.531031070287655,3070884,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce (enforce-versions) on project jooby-project: 
+##[group]Checking out the ref,9.464617890290326,25587,False,
+##[group]Setting up auth,8.649030387609853,65088,False,
+##[group]Run actions/checkout@v3,8.322795386537665,178204,False,
+Requested labels: self-hosted,0.0190142959842694,3905111,False,

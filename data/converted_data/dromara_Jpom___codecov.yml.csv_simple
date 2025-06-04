@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn cobertura:cobertura -Pcobertura,1084.2032264015377,77914626,True,[ERROR[m] SLF4J: Class path contains multiple SLF4J bindings.
+##[group]Run actions/setup-java@v2,583.0078499342399,1701556,False,
+##[group]GITHUB_TOKEN Permissions,560.361929464379,3023445,False,
+##[group]Run codecov/codecov-action@v2,152.76198765209085,39620314,False,
+##[group]Fetching the repository,115.86272179720898,419414,False,
+##[group]Cleaning the repository,54.224300753495456,124815,False,
+##[group]Run actions/checkout@v2,52.37077068094095,202307,False,
+##[group]Setting up auth,27.807224153955676,98528,False,
+Requested labels: self-hosted,0.0452855274769199,4786841,False,

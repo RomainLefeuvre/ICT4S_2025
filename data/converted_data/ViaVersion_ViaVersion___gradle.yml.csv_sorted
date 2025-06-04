@@ -1,0 +1,8 @@
+##[group]Installed distributions, 61.95873590153184, , , , 1748301, False, 
+##[group]GITHUB_TOKEN Permissions, 50.18616872497516, , , , 3163593, False, 
+##[group]Fetching the repository, 31.040471240609637, , , , 1181082, False, 
+##[group]Run ./gradlew build, 23.585869879675823, , , , 586142, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run gradle/wrapper-validation-action@v2, 2.932957912498548, , , , 164781, False, 
+##[group]Checking out the ref, 2.8514868593735883, , , , 93962, False, 
+##[group]Run actions/checkout@v4, 2.281189487498871, , , , 144040, False, 
+Requested labels: self-hosted, 0.0, , , , 4541601, False, 

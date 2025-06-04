@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run nikitasavinov/checkstyle-action@master,217.9016429970445,34581657,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/nikitasavinov/checkstyle-action/master/Dockerfile'.,89.21522065037314,36799039,False,
+##[group]GITHUB_TOKEN Permissions,44.35329020953487,1779097,False,
+##[group]Fetching the repository,2.4976779217956246,478664,False,
+##[group]Setting up auth,0.9129842557561014,165402,False,
+##[group]Checking out the ref,0.7643589409246192,23725,False,
+##[group]Run actions/checkout@v2,0.5771295506143903,197557,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.3725284515926229,24719,False,
+Requested labels: self-hosted,0.1086772515214118,4398081,False,

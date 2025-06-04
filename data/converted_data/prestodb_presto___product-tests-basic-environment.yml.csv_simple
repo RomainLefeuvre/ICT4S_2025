@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run presto-product-tests/bin/run_on_docker.sh multinode -x quarantine_big_query_storage_formats_profile_specific_tests_tpcds_cassandra_mysql_connector_postgresql_connector_mysql_kafka_avro,30138.459721714007,1666493602,False,
+##[group]Run actions/cache@v2,6564.3434928149945,793702550,False,
+"##[group]Run export MAVEN_OPTS=""${MAVEN_INSTALL_OPTS}""",5340.266200924743,303494412,False,
+##[group]Run ./mvnw de.qaware.maven:go-offline-maven-plugin:resolve-dependencies --no-transfer-progress && .github/bin/download_nodejs,2193.993020848128,142407891,True,[ERROR] Error downloading dependencies for project
+##[group]GITHUB_TOKEN Permissions__dup_5,378.8483886828378,2952995,False,
+##[group]GITHUB_TOKEN Permissions,354.4937899544796,1982375,False,
+##[group]Filter codechange = true,77.75356538395918,1115096,True,[ERROR] Error downloading dependencies for project
+##[group]Change detection in last commit,74.60484650836607,1926146,False,
+##[group]Run actions/setup-java@v2,31.94604671657597,538790,False,
+##[group]==END_FILE==,30.67926055226364,3146670,False,
+##[group]Cleaning the repository,28.37191419978457,1136911,False,
+##[group]Run df -h,26.025419673646443,3834663,False,
+##[group]Run actions/checkout@v4,17.97593302572361,171185,False,
+##[group]Fetching the repository,15.33382477263692,975016,False,
+##[group]Checking out the ref,14.374344894023157,90596,False,
+##[group]Removing previously created refs_ to avoid conflicts,6.625972278127455,194496,False,
+##[group]Getting Git version info,3.4823064187123243,5675,False,
+##[group]Setting up auth,1.901983808658756,88782,False,

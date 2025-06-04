@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run aws-actions/configure-aws-credentials@v4,227.09216444313364,115835885,False,
+##[group]GITHUB_TOKEN Permissions,117.91221671210296,12801513,False,
+##[group]Pull down action image 'public.ecr.aws/i6i1s7m3/codegurureviewer-actions-public:latest',27.56885220867376,32782625,False,
+##[group]==END_FILE==,0.0160856495526211,4185502,False,

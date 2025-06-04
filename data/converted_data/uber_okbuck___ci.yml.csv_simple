@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,2113.0221954667463,188730726,False,
+"##[group]Run ./gradlew publish -PmavenCentralUsername="""" -PmavenCentralPassword=""""",1003.9831654175044,37091865,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:generateTestRockerTemplateSource,279.79203154475715,10200836,False,
+> Task :plugin:generateTestRockerTemplateSource,272.81179027885605,7807402,False,
+> Task :buildSrc:build,189.20557664447657,5986693,False,
+> Task :plugin:javaSourcesJar,97.89374909637156,3799213,False,
+> Task :plugin:signMavenPublication SKIPPED,38.98901235280976,1300144,False,
+##[group]Run actions/checkout@v1,19.93230572585116,1821403,False,
+##[group]GITHUB_TOKEN Permissions,17.06466688422464,2101546,False,
+> Task :buildSrc:compileJava,17.0320415344783,498398,False,
+> Task :plugin:javadoc,6.763158292707994,200042,False,
+> Task :plugin:compileJava,3.444841602936481,95312,False,
+> Task :plugin:classes,3.3987964386695606,97140,False,
+> Task :plugin:generateMetadataFileForMavenPublication,3.35275127440264,99930,False,
+> Task :buildSrc:classes,3.323606567443622,98701,False,
+> Task :plugin:publishMavenPublicationToMavenCentralRepository FAILED,1.8257028466582528,105465,False,
+##[group]Run actions/setup-java@v1,1.4090380293097169,158475,False,
+##[group]Run ./tooling/ci/build_cmd.sh build,0.7726368991671541,180398,True,##[error]Process completed with exit code 123.

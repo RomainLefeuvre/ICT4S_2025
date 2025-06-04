@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew test,490.3071073036621,46302649,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew clean publishAllPublicationsToMavenCentral,223.22135995205548,11609026,False,
+##[group]Run actions/setup-java@v2,136.29490600403082,17792823,False,
+##[group]GITHUB_TOKEN Permissions__dup_10,33.14408489546171,2167386,False,
+##[group]==END_FILE==__dup_8,25.43884956577049,4993536,False,
+##[group]GITHUB_TOKEN Permissions,19.086568296716923,2308518,False,
+##[group]==END_FILE==__dup_9,17.973958284672115,5088845,False,
+##[group]Run actions/setup-java@v2__dup_14,11.739335197195128,231083,False,
+##[group]Run actions/checkout@v2__dup_11,9.70240637472198,198982,False,
+##[group]Fetching the repository__dup_13,6.981367883180978,479224,False,
+##[group]Fetching the repository,5.178462573454699,697698,False,
+##[group]==END_FILE==,4.986938808723693,5512143,False,
+##[group]Setting up auth__dup_12,1.613956655959476,69268,False,
+##[group]Run actions/checkout@v2,1.5317067724624294,203944,False,
+##[group]Setting up auth,0.7587425629780794,67197,False,

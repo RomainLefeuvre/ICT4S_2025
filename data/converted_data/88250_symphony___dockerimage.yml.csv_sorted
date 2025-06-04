@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 552.3921751269513, , , , 1468979, False, 
+##[group]Run actions/checkout@master, 352.74476754064085, , , , 2611982, False, 
+##[group]Fetching the repository, 23.57851896163967, , , , 455799, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 21.21883192109351, , , , 137680, False, 
+##[group]Getting Git version info, 12.573986683286362, , , , 118298, False, 
+##[group]Cleaning the repository, 8.644845237807148, , , , 59572, False, 
+Requested labels: self-hosted, 6.190348097871748, , , , 4928747, False, 
+##[group]Run docker login --username= --password=, 4.876816365360781, , , , 287926, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 18.62793224857394, , , , 6189175, False, 
+##[group]GITHUB_TOKEN Permissions, 45.75749930627933, , , , 2972467, False, 
+##[group]Pull down action image 'ghcr.io/pytooling/releaser', 4.841253374531409, , , , 9638242, False, 
+##[group]Run actions/checkout@v3, 1.9240182378472983, , , , 170919, False, 
+##[group]Setting up auth, 1.1387278135822554, , , , 66798, False, 
+##[group]Fetching the repository, 19.72738979452488, , , , 2774183, False, 
+##[group]Checking out the ref, 3.552872582122996, , , , 156657, False, 
+##[group]Installed distributions, 32.047685210173945, , , , 1232331, False, 
+##[group]Run ./gradlew build, 836.6922665563636, , , , 51874510, True, ##[error]Process completed with exit code 1.
+##[group]Run mv app/build/outputs/apk/debug/app-debug.apk app/build/outputs/apk/debug/Grocy-Android-master-$(date +'%Y%m%d').apk, 1.864093567377053, , , , 32715, True, ##[error]Process completed with exit code 1.
+##[group]Run pyTooling/Actions/releaser@r0, 26.432556472434765, , , , 7674541, False, 
+##[group]Run actions/checkout@v3__dup_12, 1.4070711352555951, , , , 128278, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.5275887139818105, , , , 119890, False, 
+##[group]Setting up auth__dup_14, 1.7686238714342402, , , , 67823, False, 
+##[group]Fetching the repository__dup_15, 201.6497535842486, , , , 36308831, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run ./gradlew build__dup_16, 25.605803046767576, , , , 1284002, True, ##[error]Process completed with exit code 1.
+##[group]Run pyTooling/Actions/releaser@r0__dup_17, 258.3589128476195, , , , 24662422, False, 

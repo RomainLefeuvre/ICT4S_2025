@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,72.51744662102996,4489787,False,
+##[group]GITHUB_TOKEN Permissions,2.323891933232473,1283139,False,
+##[group]Run amannn/action-semantic-pull-request@v5.5.2,0.637404363998767,218410,False,

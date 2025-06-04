@@ -1,0 +1,79 @@
+Requested labels: self-hosted__dup_5, 20449.976083462352, , , , 1452889695, False, 
+Requested labels: self-hosted__dup_6, 16412.02671178284, , , , 1207838395, False, 
+Requested labels: self-hosted__dup_4, 14298.444991799774, , , , 1067900395, False, 
+Requested labels: self-hosted__dup_2, 8468.964632599338, , , , 680979969, False, 
+Requested labels: self-hosted, 3357.6092638551445, , , , 320343095, False, 
+##[group]Run ant nsis__dup_77, 2216.0539688248364, , , , 151728561, True, ##[error]Process completed with exit code 1.
+##[group]Run ant pkgbuild__dup_38, 2143.03224496629, , , , 172053756, True, ##[error]Process completed with exit code 1.
+##[group]Run ant makeself__dup_64, 2125.0670203768123, , , , 146094248, True, ##[error]Process completed with exit code 1.
+##[group]Run ant nsis__dup_53, 1919.2724441985165, , , , 122797511, True, ##[error]Process completed with exit code 1.
+##[group]Run ant nsis__dup_44, 1786.7611913394987, , , , 93785384, True, ##[error]Process completed with exit code 1.
+##[group]Run ant pkgbuild, 1759.6602392179698, , , , 166397592, True, ##[error]Process completed with exit code 1.
+##[group]Run ant nsis__dup_67, 1703.1455259046977, , , , 79969506, True, ##[error]Process completed with exit code 1.
+##[group]Run ant makeself__dup_29, 1695.6576167899002, , , , 96966731, True, ##[error]Process completed with exit code 1.
+##[group]Run ant nsis, 1628.9970298681142, , , , 99042786, True, ##[error]Process completed with exit code 1.
+##[group]Run ant nsis__dup_30, 1500.4175233450562, , , , 81549526, True, ##[error]Process completed with exit code 1.
+##[group]Run ant makeself__dup_43, 1488.7959645980154, , , , 87170765, True, ##[error]Process completed with exit code 1.
+##[group]Run ant makeself, 1180.459101297111, , , , 166550570, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 220.48488683777117, , , , 22317309, False, 
+##[group]Installed distributions__dup_37, 206.12155019889343, , , , 16477351, False, 
+##[group]GITHUB_TOKEN Permissions, 127.99919761390844, , , , 2434153, False, 
+##[group]Fetching the repository, 81.69651960856638, , , , 8742878, False, 
+##[group]GITHUB_TOKEN Permissions__dup_31, 48.55926585534772, , , , 3331812, False, 
+##[group]Run sudo apt-get install nsis makeself__dup_63, 44.56324203703245, , , , 2626279, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_68, 43.646442237390936, , , , 3196805, False, 
+##[group]GITHUB_TOKEN Permissions__dup_56, 39.291087326414186, , , , 2930902, False, 
+##[group]GITHUB_TOKEN Permissions__dup_45, 36.10000877311295, , , , 2973669, False, 
+##[group]GITHUB_TOKEN Permissions__dup_18, 30.20997020878829, , , , 2703878, False, 
+##[group]Run sudo apt-get install nsis makeself, 27.98685972171068, , , , 2322838, True, ##[error]Process completed with exit code 1.
+##[group]Cleaning the repository__dup_48, 19.402016742644683, , , , 571619, False, 
+##[group]Run &'C:/Program Files/QZ Tray/qz-tray.exe' --wait --version|Out-Null__dup_79, 18.273472489758984, , , , 1117722, True, ##[error]Process completed with exit code 2.
+##[group]Run &'C:/Program Files/QZ Tray/qz-tray.exe' --wait --version|Out-Null, 16.417200242376733, , , , 885012, True, ##[error]Process completed with exit code 2.
+##[group]Cleaning the repository, 14.12592340623318, , , , 706326, False, 
+##[group]Run echo "Setting CA trust settings to 'allow' (https://github.com/actions/runner-images/issues/4519)"__dup_39, 12.25196002096985, , , , 1136489, False, 
+##[group]Cleaning the repository__dup_59, 11.778660568297264, , , , 605752, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_33, 11.576342824482746, , , , 321155, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_58, 11.40434313190696, , , , 222398, False, 
+##[group]Installed distributions__dup_75, 11.26973757869645, , , , 119961, False, 
+##[group]Setting up auth__dup_72, 11.195505695961185, , , , 71311, False, 
+##[group]Run actions/checkout@v3, 10.998072827279438, , , , 154506, False, 
+##[group]Fetching the repository__dup_50, 10.5760997709568, , , , 497206, False, 
+##[group]Initializing the repository, 10.085462408810544, , , , 63445, False, 
+##[group]Run sudo security authorizationdb write com.apple.trust-settings.admin allow, 10.065897349697424, , , , 143973, True, ##[error]Process completed with exit code 1.
+##[group]Checking out the ref, 9.941098052760733, , , , 440488, False, 
+##[group]Cleaning the repository__dup_34, 9.89529874529696, , , , 898858, False, 
+##[group]Fetching the repository__dup_60, 9.681168698481343, , , , 484296, False, 
+##[group]Run actions/checkout@v3__dup_19, 9.459654240878011, , , , 160184, False, 
+##[group]Cleaning the repository__dup_71, 9.451335654626876, , , , 497544, False, 
+##[group]Setting up auth, 9.172851990341655, , , , 69325, False, 
+##[group]Installed distributions__dup_51, 9.154869094653634, , , , 95586, False, 
+##[group]Fetching the repository__dup_35, 8.08666391236475, , , , 500136, False, 
+##[group]Fetching the repository__dup_23, 7.464583154914056, , , , 520087, False, 
+##[group]Run sudo out/qz-tray-*.run, 6.558553757760344, , , , 690397, True, ##[error]Process completed with exit code 1.
+##[group]Run sudo security authorizationdb write com.apple.trust-settings.admin allow__dup_41, 6.334132324470462, , , , 100631, True, ##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts, 5.971675827403661, , , , 361901, False, 
+##[group]Fetching the repository__dup_73, 5.934745495074844, , , , 525034, False, 
+##[group]Run sudo out/qz-tray-*.run__dup_65, 5.567948355014408, , , , 454720, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3__dup_32, 4.281878033734295, , , , 156123, False, 
+##[group]Run actions/checkout@v3__dup_57, 4.11838174762171, , , , 155128, False, 
+##[group]Run actions/checkout@v3__dup_69, 4.039329704919883, , , , 159601, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_70, 3.832293350464576, , , , 198069, False, 
+##[group]Run actions/checkout@v3__dup_46, 3.8113960845003896, , , , 177615, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_47, 3.224136997854917, , , , 224857, False, 
+##[group]Installed distributions__dup_24, 2.8319220545931856, , , , 156757, False, 
+##[group]Run Start-Process -Wait ./out/qz-tray-*.exe -ArgumentList "/S"__dup_78, 2.5820799922805726, , , , 492967, True, ##[error]Process completed with exit code 127.
+##[group]Setting up auth__dup_49, 2.2662348083518946, , , , 81609, False, 
+##[group]Run echo "Setting CA trust settings to 'allow' (https://github.com/actions/runner-images/issues/4519)", 2.0193924277557844, , , , 109637, False, 
+##[group]Checking out the ref__dup_36, 1.9077486920670597, , , , 16855, False, 
+##[group]Run /opt/qz-tray/qz-tray --version, 1.743440983640386, , , , 72399, True, ##[error]Process completed with exit code 127.
+##[group]Run choco install nsis__dup_76, 1.6833113271633715, , , , 44581, True, ##[error]Process completed with exit code 127.
+##[group]Run choco install nsis, 1.6704012302870967, , , , 89173, True, ##[error]Process completed with exit code 127.
+##[group]Disabling automatic garbage collection, 1.6359332218253697, , , , 8628, False, 
+##[group]Checking out the ref__dup_74, 1.6137484657046972, , , , 48438, False, 
+##[group]Checking out the ref__dup_61, 1.5302608528904038, , , , 9373, False, 
+##[group]Installed distributions__dup_62, 1.439395995802597, , , , 76846, False, 
+##[group]Run sudo security authorizationdb write com.apple.trust-settings.admin < /tmp/trust-settings-backup.xml, 1.3394153967210127, , , , 29925, True, ##[error]Process completed with exit code 1.
+##[group]Run Start-Process -Wait ./out/qz-tray-*.exe -ArgumentList "/S", 1.3077673344809078, , , , 54217, True, ##[error]Process completed with exit code 127.
+##[group]Run security authorizationdb read com.apple.trust-settings.admin > /tmp/trust-settings-backup.xml, 1.277982975245396, , , , 15652, True, ##[error]Process completed with exit code 127.
+##[group]Run brew install nsis makeself, 1.261557969565711, , , , 49618, True, ##[error]Process completed with exit code 127.
+Requested labels: self-hosted__dup_3, 0.3002034449092301, , , , 6815230, False, 

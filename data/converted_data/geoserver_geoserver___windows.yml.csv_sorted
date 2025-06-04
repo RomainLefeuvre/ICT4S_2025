@@ -1,0 +1,13 @@
+##[group]Run actions/cache@v3, 329.09669772205365, , , , 42490911, False, 
+##[group]GITHUB_TOKEN Permissions, 156.36080611821245, , , , 8143318, False, 
+##[group]Run cmd --% /c for /f %i in ('dir /a:d /s /b %userprofile%\\*SNAPSHOT*') do rd /s /q %i, 21.64895870571969, , , , 2947758, True, ##[error]Process completed with exit code 2.
+##[group]Cleaning the repository, 9.19937417101074, , , , 1476546, False, 
+##[group]Run mvn --% -B -ntp -U -T2 -Dall -Prelease_windows-github-build -f src/pom.xml clean install, 5.384864612668744, , , , 315345, True, ##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts, 4.366336509262288, , , , 707505, False, 
+##[group]Fetching the repository, 3.4376759337803784, , , , 484607, False, 
+##[group]Run actions/checkout@v4, 1.2214358326316133, , , , 197336, False, 
+##[group]Installed distributions, 0.71072530613427, , , , 67858, False, 
+##[group]Checking out the ref, 0.6991302464451729, , , , 100454, False, 
+##[group]Determining the checkout info, 0.6962314815228986, , , , 37634, False, 
+##[group]Setting up auth, 0.6788388919892528, , , , 96244, False, 
+Requested labels: self-hosted, 0.5927876123710611, , , , 4524080, False, 

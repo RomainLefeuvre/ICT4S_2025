@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 17.292440941854235, , , , 5291030, False, 
+##[group]Fetching the repository, 14.708338041089096, , , , 1085970, False, 
+##[group]Run actions/cache@v2, 10.859310580969469, , , , 1535518, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java, 6.705445207934969, , , , 3006697, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 6.664118109101791, , , , 5231901, False, 
+##[group]Run actions/upload-artifact@v2, 5.920801387794645, , , , 2183988, False, 
+##[group]Run actions/checkout@v2, 2.6717636542680268, , , , 179154, False, 
+##[group]Checking out the ref, 1.338113490471005, , , , 134426, False, 
+##[group]Setting up auth, 1.3361297897270124, , , , 63637, False, 

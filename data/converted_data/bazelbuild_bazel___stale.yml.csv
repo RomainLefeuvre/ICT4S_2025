@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 0.0854829850338523, , , , 3681904, False, 
+##[group]GITHUB_TOKEN Permissions, 178.98221659901208, , , , 2571221, False, 
+##[group]Run step-security/harden-runner@f086349bfa2bd1361f7909c78558e816508cdc10, 30.18337090042892, , , , 225562, False, 
+##[group]Run actions/stale@28ca1036281a5e5922ead5184a1bbf96e5fc984e, 61.57952606545958, , , , 2759967, False, 

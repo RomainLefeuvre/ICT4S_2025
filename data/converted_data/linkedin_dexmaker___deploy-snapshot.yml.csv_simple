@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v2,690.6773961241128,77905564,False,
+##[group]Run ./gradlew build,29.35018474851804,8297810,False,
+##[group]Run ./gradlew publishAllPublicationsToSonatypeSnapshotRepository,7.169845886802501,2166954,True,##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1,0.3631020345043544,125865,False,

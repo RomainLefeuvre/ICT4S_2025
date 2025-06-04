@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,4.999829660502156,1251002,False,
+##[group]Run etc/scripts/actions/assign-issue-to-project.sh $GITHUB_REPOSITORY  Backlog Triage,3.574549480702591,453638,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,3.158376330332351,484485,False,
+##[group]Run actions/checkout@v4,1.08300883363917,177930,False,
+##[group]Checking out the ref,0.6732925811034942,54295,False,
+##[group]Setting up auth,0.5900579510294462,78030,False,
+##[group]Cleaning the repository,0.5761855126837716,169759,False,
+Requested labels: self-hosted,0.037077702555554,3909373,False,

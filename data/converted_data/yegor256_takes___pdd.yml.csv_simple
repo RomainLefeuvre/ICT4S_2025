@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run volodya-lombrozo/pdd-action@master,277.2317471871352,16707304,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/volodya-lombrozo/pdd-action/master/Dockerfile'.,67.13282818472567,41564496,False,
+##[group]Fetching the repository,21.828328911025235,821697,False,
+##[group]Disabling automatic garbage collection,18.73742222638682,5528,False,
+##[group]GITHUB_TOKEN Permissions,11.930636215587452,1935556,False,
+##[group]Setting up auth,7.865877692711338,177786,False,
+##[group]Initializing the repository,6.755606111423359,192709,False,
+##[group]Run actions/checkout@v4,3.7981549948978777,145585,False,
+##[group]Checking out the ref,3.0874172811795293,93378,False,
+Requested labels: self-hosted,0.2461575479298292,4973107,False,

@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 20.43515273620036, , , , 2162634, False, 
+##[group]Run xvfb-run mvn -B license:check, 8.063017498120784, , , , 488836, True, ##[error]Process completed with exit code 127.
+##[group]Fetching the repository, 5.614143475235023, , , , 454299, False, 
+##[group]Run actions/setup-java@v2, 3.003841272502595, , , , 241470, False, 
+##[group]Run actions/checkout@v2, 2.6103022027324285, , , , 204875, False, 
+##[group]Setting up auth, 1.3420453891571675, , , , 62260, False, 
+Requested labels: self-hosted, 0.996855818875828, , , , 4845803, False, 

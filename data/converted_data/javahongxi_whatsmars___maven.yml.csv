@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.2035687166888043, , , , 5590410, False, 
+##[group]GITHUB_TOKEN Permissions, 3.998250907959093, , , , 1989319, False, 
+##[group]Run actions/checkout@master, 5.012732481620356, , , , 1505836, False, 
+##[group]Fetching the repository, 5.197726180346821, , , , 1321851, False, 
+##[group]Checking out the ref, 1.3426962004340235, , , , 268814, False, 
+##[group]Run actions/setup-java@v1, 57.41164371641596, , , , 16683415, False, 
+##[group]Run mvn clean package -Dmaven.test.skip --file pom.xml, 92.42494792501962, , , , 17880105, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile[m (default-compile)[m on project whatsmars-common[m: Fatal error compiling[m: invalid target release: 11 -> [Help 1][m

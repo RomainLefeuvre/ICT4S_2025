@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0213468732368993, , , , 5245750, False, 
+##[group]GITHUB_TOKEN Permissions, 53.60096027167999, , , , 12470650, False, 
+##[group]Run actions/checkout@v4, 6.573386952406479, , , , 2819974, False, 
+##[group]Setting up auth, 1.4786481894049823, , , , 67563, False, 
+##[group]Fetching the repository, 7.546963571015869, , , , 512762, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 6.304023405063687, , , , 327531, False, 
+##[group]Installed distributions, 1.6221226384632084, , , , 27052, False, 
+##[group]Run ./gradlew build, 116.1516566204346, , , , 32161882, True, ##[error]Process completed with exit code 1.

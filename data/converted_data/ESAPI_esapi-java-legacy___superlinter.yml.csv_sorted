@@ -1,0 +1,10 @@
+##[group]Run github/super-linter@v4, 27327.268781761308, , , , 1172549106, True, 2024-03-16 11:15:53 [ERROR]   Found errors in [shellcheck] linter!
+##[group]Pull down action image 'ghcr.io/github/super-linter:v4.10.0', 801.8828618574047, , , , 252208148, False, 
+##[group]Fetching the repository, 64.23135306385625, , , , 7659651, False, 
+##[group]Run actions/checkout@v2, 24.05949386831069, , , , 2521932, False, 
+##[group]Checking out the ref, 7.107341356730858, , , , 418025, False, 
+##[group]GITHUB_TOKEN Permissions, 6.797853296026015, , , , 2151635, False, 
+##[group]==END_FILE==, 1.3218865264168131, , , , 6498854, False, 
+##[group]Getting Git version info, 0.0, , , , 198157, False, 
+##[group]Initializing the repository, 0.0, , , , 324925, False, 
+##[group]Setting up auth, 0.0, , , , 293647, False, 

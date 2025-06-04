@@ -1,0 +1,9 @@
+##[group]Fetching the repository, 113.08145777147035, , , , 12733448, False, 
+##[group]GITHUB_TOKEN Permissions, 31.919833463913285, , , , 3023014, False, 
+##[group]Checking out the ref, 28.858042966622847, , , , 690337, False, 
+##[group]Installed distributions, 21.495023973236485, , , , 3239921, False, 
+##[group]Run ./gradlew --no-daemon --console=plain -Dsonar.verbose=true -Dsonar.login=$SONAR_TOKEN -Dsonar.host.url=$SONAR_HOST_URL -Dsonar.organization=$SONAR_ORGANIZATION -Dsonar.projectKey=$SONAR_PROJECT_KEY --info --stacktrace sonarqube, 11.454187890419488, , , , 3750571, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck
+##[group]Run gradle/wrapper-validation-action@b231772637bb498f11fdbc86052b6e8a8dc9fc92, 9.23749403901731, , , , 266991, False, 
+##[group]Setting up auth, 1.5262636444827749, , , , 57870, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 1.5012761203916578, , , , 142107, False, 
+Requested labels: self-hosted, 0.6624560910178005, , , , 5951882, False, 

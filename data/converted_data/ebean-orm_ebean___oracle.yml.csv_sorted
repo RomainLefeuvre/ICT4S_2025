@@ -1,0 +1,8 @@
+##[group]Run mvn -T 8 clean test -Dprops.file=testconfig/ebean-oracle.properties, 5256.239029880647, , , , 352501442, True, [ERROR[m] Tests run: 5[m, Failures: 1[m, Errors: 0, Skipped: 0, Time elapsed: 16.05 s <<< FAILURE![m -- in org.integration.IntegrationTest[m
+##[group]Run actions/cache@v3, 497.7279502309971, , , , 50662183, False, 
+##[group]GITHUB_TOKEN Permissions, 53.11755383961679, , , , 3929854, False, 
+##[group]Fetching the repository, 11.198572604363656, , , , 474004, False, 
+##[group]Cleaning the repository, 4.207031329747427, , , , 215737, False, 
+##[group]Run actions/checkout@v3, 4.085965679970523, , , , 178596, False, 
+##[group]Setting up auth, 2.148915283540053, , , , 73361, False, 
+Requested labels: self-hosted, 0.0161435301301018, , , , 4660461, False, 

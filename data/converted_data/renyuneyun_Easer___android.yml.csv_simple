@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,32.37616065238792,2686485,False,
+##[group]Fetching the repository,22.6166695919284,1046334,False,
+##[group]Run ./gradlew build,13.685972168320276,779416,True,"##[error]Exception in thread ""main"" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5-bin.zip.lck (Aucun fichier ou dossier de ce type)"
+##[group]Installed distributions,13.15790136999318,1193643,False,
+Requested labels: self-hosted,10.949222869862226,6072261,False,
+##[group]Run actions/checkout@v3,4.139720110438929,176676,False,
+##[group]Checking out the ref,2.412372383743349,94363,False,
+##[group]Setting up auth,2.1109615346423305,61498,False,

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gaurav-nelson/github-action-markdown-link-check@v1,227.4094162241249,30735719,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/gaurav-nelson/github-action-markdown-link-check/v1/Dockerfile'.,56.90835193680866,8576012,False,
+##[group]Fetching the repository,54.22279834646115,8947313,False,
+##[group]GITHUB_TOKEN Permissions,26.76307620570478,1806972,False,
+##[group]Checking out the ref,6.861851995811041,600439,False,
+##[group]Run actions/checkout@v3,1.2989157285674362,181524,False,
+##[group]Setting up auth,1.2784055901316396,59835,False,
+##[group]==END_FILE==,0.0,5931523,False,

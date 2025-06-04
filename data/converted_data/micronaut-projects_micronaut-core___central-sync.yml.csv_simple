@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run echo $GPG_FILE | base64 -d > secring.gpg,3664.824694740868,145893299,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar,1498.81653875115,66703108,False,
+> Task :buildSrc:generatePluginAdapters,758.9251947315893,29399969,False,
+Requested labels: self-hosted,433.140495253411,5676482,False,
+##[group]GITHUB_TOKEN Permissions,199.6034556308359,7725692,False,
+> Task :buildSrc:compileJava,177.48811804779024,8500219,False,
+##[group]Fetching the repository,152.23170357823648,35143381,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Cleaning the repository,98.66112729915504,3975151,False,
+##[group]Run gradle/actions/wrapper-validation@v3.4.2,71.72372213081434,541057,False,
+##[group]Run actions/checkout@v4,31.469920729485285,197440,False,
+> Task :buildSrc:compileGroovy,19.040833347811443,799784,False,
+##[group]Installed distributions,11.432728228909362,229414,False,
+##[group]Removing previously created refs_ to avoid conflicts,11.254575633466994,194461,False,
+##[group]Getting Git version info,5.849519926454684,148555,False,
+##[group]Setting up auth,2.3706478913406697,87094,False,

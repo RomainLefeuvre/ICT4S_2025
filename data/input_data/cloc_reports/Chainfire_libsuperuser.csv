@@ -1,0 +1,31 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.03 s (1008.7 files/s 231818.9 lines/s)"
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/Shell.java,287,1422,1918
+Markdown,/tmp/clone_directory/README.md,108,0,333
+Java,/tmp/clone_directory/libsuperuser_example/src/eu/chainfire/libsuperuser_example/PooledActivity.java,27,30,195
+Java,/tmp/clone_directory/libsuperuser_example/src/eu/chainfire/libsuperuser_example/InteractiveActivity.java,26,25,156
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/StreamGobbler.java,19,94,144
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/MarkerInputStream.java,19,34,133
+Bourne Shell,/tmp/clone_directory/gradlew,22,37,129
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/Policy.java,28,108,107
+Java,/tmp/clone_directory/libsuperuser_example/src/eu/chainfire/libsuperuser_example/MainActivity.java,19,26,106
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/Debug.java,32,144,85
+Gradle,/tmp/clone_directory/libsuperuser/build.gradle,11,0,78
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,74
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/Toolbox.java,14,50,58
+XML,/tmp/clone_directory/libsuperuser_example/res/layout/activity_main.xml,9,0,41
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/Application.java,12,35,40
+XML,/tmp/clone_directory/libsuperuser_example/AndroidManifest.xml,5,0,40
+Java,/tmp/clone_directory/libsuperuser_example/src/eu/chainfire/libsuperuser_example/BackgroundIntentService.java,13,62,40
+Gradle,/tmp/clone_directory/libsuperuser_example/build.gradle,4,0,24
+Text,/tmp/clone_directory/libsuperuser_example/proguard-project.txt,2,0,18
+Java,/tmp/clone_directory/libsuperuser/src/eu/chainfire/libsuperuser/HideOverlaysReceiver.java,5,40,17
+Gradle,/tmp/clone_directory/build.gradle,2,0,16
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,0,0,12
+Java,/tmp/clone_directory/libsuperuser_example/src/eu/chainfire/libsuperuser_example/HideOverlaysReceiver.java,2,2,11
+Java,/tmp/clone_directory/libsuperuser_example/src/eu/chainfire/libsuperuser_example/BootCompleteReceiver.java,5,29,10
+XML,/tmp/clone_directory/libsuperuser_example/res/values/strings.xml,0,0,9
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+XML,/tmp/clone_directory/libsuperuser/AndroidManifest.xml,1,0,5
+Properties,/tmp/clone_directory/gradle.properties,5,16,3
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,701,2156,3808

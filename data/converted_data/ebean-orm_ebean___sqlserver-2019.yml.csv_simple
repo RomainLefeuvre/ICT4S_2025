@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean test -Dprops.file=testconfig/ebean-sqlserver19.properties,77155.48274945543,21543627977,True,"[ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE![m -- in org.tests.cache.TestBeanCacheContactLazyLoad[m"
+##[group]Run actions/cache@v3,526.1396928712363,61813401,False,
+##[group]GITHUB_TOKEN Permissions,139.7124981372046,3892205,False,
+##[group]Fetching the repository,97.30116176680043,703711,False,
+##[group]Cleaning the repository,48.08337683676421,298920,False,
+##[group]Run actions/checkout@v3,35.03426139497269,172648,False,
+##[group]Checking out the ref,12.198064916897277,27709,False,
+Requested labels: self-hosted,0.0172895701931631,5080790,False,

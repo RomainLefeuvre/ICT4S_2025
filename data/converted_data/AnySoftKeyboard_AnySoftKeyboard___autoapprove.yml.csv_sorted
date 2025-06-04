@@ -1,0 +1,8 @@
+##[group]Removing previously created refs_ to avoid conflicts, 44.96129054985238, , , , 590281, False, 
+##[group]GITHUB_TOKEN Permissions, 42.75500044135505, , , , 2204087, False, 
+##[group]Run ./.github/actions/auto_approval, 39.96242814154586, , , , 631391, True, ##[error]Cannot read properties of undefined (reading 'user')
+##[group]Fetching the repository, 28.17973027127873, , , , 448989, False, 
+##[group]Run actions/checkout@v4.1.1, 15.499800686700182, , , , 144192, False, 
+##[group]Cleaning the repository, 7.26924049639754, , , , 94316, False, 
+##[group]Setting up auth, 7.205152516803866, , , , 76442, False, 
+##[group]Checking out the ref, 6.884712618835499, , , , 35022, False, 

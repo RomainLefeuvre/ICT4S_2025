@@ -1,0 +1,13 @@
+##[group]GITHUB_TOKEN Permissions, 51.2769322949961, , , , 3608551, False, 
+Requested labels: self-hosted, 36.863306944587656, , , , 4758562, False, 
+##[group]Run actions/setup-java@v2, 33.985357226106544, , , , 246318, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 32.39367767414947, , , , 980203, False, 
+##[group]Run python binaries/upload.py --upload-pypi-packages, 18.514612211197388, , , , 616162, True, ##[error]Process completed with exit code 127.
+##[group]Setting up auth, 17.49200208764794, , , , 139695, False, 
+##[group]Run actions/checkout@v3, 12.616413896091204, , , , 144805, False, 
+##[group]Fetching the repository, 11.858329433964585, , , , 892659, False, 
+##[group]Persisting credentials for submodules, 7.690167867474871, , , , 151690, False, 
+##[group]Run python binaries/upload.py --upload-conda-packages, 6.178241644624943, , , , 19216, True, ##[error]Process completed with exit code 127.
+##[group]Run conda --version, 5.455564014124135, , , , 94961, True, ##[error]Process completed with exit code 127.
+##[group]Fetching submodules, 5.066178968378095, , , , 245684, False, 
+##[group]Setting up auth for fetching submodules, 2.442190069281318, , , , 159275, False, 

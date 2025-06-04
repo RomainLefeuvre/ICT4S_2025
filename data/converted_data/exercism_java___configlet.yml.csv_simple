@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,2.158844305609453,6024017,False,
+##[group]Run configlet fmt,1.697822812150824,195060,False,
+##[group]Checking out the ref,1.610645229244,199162,False,
+##[group]Fetching the repository,0.577162644483096,730509,False,
+##[group]Run configlet lint,0.3395645624301648,38842,False,
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11,0.1813247663578288,193625,False,
+##[group]Disabling automatic garbage collection,0.1055244706095372,3317,False,
+##[group]GITHUB_TOKEN Permissions,0.0817597301290002,1064859,False,

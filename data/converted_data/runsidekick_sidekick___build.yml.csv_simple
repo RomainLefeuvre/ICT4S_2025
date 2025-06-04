@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -f sidekick -q clean install,4597.071118589325,421661372,False,
+##[group]Run actions/setup-java@v1,83.62390254106985,20605982,False,
+##[group]Run runforesight/foresight-workflow-kit-action@v1,51.32947679843068,1265085,True,##[error][Foresight Workflow Kit] Unable to start process tracer
+##[group]GITHUB_TOKEN Permissions,36.95068101707546,4284947,False,
+##[group]Run runforesight/foresight-test-kit-action@v1,33.153437232911166,1723333,True,##[error][Foresight Test Kit] getaddrinfo ENOTFOUND api-public.service.runforesight.com
+##[group]Fetching the repository,16.15596267719003,641637,False,
+##[group]Run actions/checkout@v2,6.501552755497687,168422,False,
+##[group]Cleaning the repository,3.111247394861218,65055,False,
+##[group]Setting up auth,3.018228072936133,97311,False,
+##[group]Checking out the ref,2.367092819460544,21337,False,
+Requested labels: self-hosted,0.3378647267442409,4544926,False,

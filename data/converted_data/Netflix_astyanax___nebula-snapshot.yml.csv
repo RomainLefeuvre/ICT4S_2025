@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.0, , , , 4749381, False, 
+##[group]GITHUB_TOKEN Permissions, 105.92926859228494, , , , 2778832, False, 
+##[group]Run actions/checkout@v2, 10.710844412392449, , , , 196706, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.502819147651166, , , , 11838, False, 
+##[group]Setting up auth, 5.601083775287794, , , , 63062, False, 
+##[group]Fetching the repository, 23.38698137751745, , , , 453040, False, 
+##[group]Checking out the ref, 6.092406913470934, , , , 25418, False, 
+##[group]Run actions/setup-java@v1, 12.47960770985175, , , , 122902, False, 
+##[group]Run actions/cache@v2, 77.82558508820935, , , , 1139340, False, 
+##[group]Run actions/cache@v2__dup_10, 48.05140291431108, , , , 576372, False, 
+##[group]Run ./gradlew build snapshot, 414.67672862657, , , , 4014567, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.8.3-bin/7ykxq50lst7lb7wx1nijpicxn/gradle-6.8.3-bin.zip.lck

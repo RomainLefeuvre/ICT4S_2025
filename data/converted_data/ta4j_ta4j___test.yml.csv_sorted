@@ -1,0 +1,8 @@
+##[group]Fetching the repository, 25.21360625471259, , , , 914827, False, 
+##[group]Run actions/setup-java@v2, 21.86039518259885, , , , 544822, False, 
+##[group]GITHUB_TOKEN Permissions, 21.51893834227301, , , , 2253394, False, 
+##[group]Run xvfb-run mvn -B test, 20.18378964654199, , , , 513515, True, ##[error]Process completed with exit code 127.
+Requested labels: self-hosted, 10.03546622887182, , , , 5615023, False, 
+##[group]Getting Git version info, 4.929039161328992, , , , 17341, False, 
+##[group]Run actions/checkout@v2, 4.900618638925611, , , , 181011, False, 
+##[group]Checking out the ref, 4.640335922288871, , , , 91162, False, 

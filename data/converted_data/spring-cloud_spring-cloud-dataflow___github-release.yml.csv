@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 14.27844256804408, , , , 4517922, False, 
+##[group]GITHUB_TOKEN Permissions, 31.06153429195652, , , , 2627700, False, 
+##[group]Run actions/checkout@v4, 1.7147658882552914, , , , 139983, False, 
+##[group]Setting up auth, 1.7818744679212029, , , , 95244, False, 
+##[group]Fetching the repository, 9.412686687100344, , , , 469391, False, 
+##[group]Run curl -sSL https://github.com/cbroglie/mustache/releases/download/v1.2.2/mustache_1.2.2_linux_amd64.tar.gz | sudo tar -C /usr/local/bin/ --no-same-owner -xzv mustache, 25.137076969570888, , , , 1109003, False, 
+##[group]Run gh issue list \\, 152.1953541447512, , , , 4652177, True, ##[error]Env BUILD_ZOO_HANDLER_spring_cloud_deployer_version not found
+##[group]Run jvalkeal/build-zoo-handler@v0.0.4, 16.589807604578265, , , , 339929, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,526.8692796178024,73014113,False,
+##[group]GITHUB_TOKEN Permissions,333.85279182524016,3153973,False,
+Requested labels: self-hosted,91.51539891352996,3600075,False,
+##[group]Fetching the repository,26.16809688020634,422080,False,
+##[group]Run actions/checkout@v4,14.49891226718941,139897,False,
+##[group]Setting up auth,6.984169166016034,57785,False,
+"##[group]Run bash --noprofile --norc ""${GITHUB_ACTION_PATH:?}/main.sh""",5.2343077487933645,1422783,False,
+##[group]Run just -f .build/justfile-for-release -d . deploy-to-maven-central,1.319603129033989,518579,True,##[error]Process completed with exit code 2.

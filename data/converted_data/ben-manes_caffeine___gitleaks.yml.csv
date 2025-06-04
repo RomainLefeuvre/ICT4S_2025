@@ -1,0 +1,3 @@
+##[group]Fetching the repository, 179.704303664356, , , , 3913740, False, 
+##[group]Checking out the ref, 20.298068065614835, , , , 20530, False, 
+##[group]Run gitleaks/gitleaks-action@44c470ffc35caa8b1eb3e8012ca53c2f9bea4eb5, 106.85665175676247, , , , 645873, True, ##[error]ERROR: The [repository_dispatch] event is not yet supported

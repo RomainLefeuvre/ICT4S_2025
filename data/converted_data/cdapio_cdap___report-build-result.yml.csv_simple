@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run echo '{ ""repository"": ""diversepwmeasurement/cdap""_ ""build_name"": """"_ ""branch"": """"_ ""conclusion"": """"_ ""started_at"": """"_ ""ended_at"": """"_ ""url"": """"_ ""run_id"": """"_ ""run_attempt"": """" }' | bq insert ",13.90815754788245,193965,True,##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions,6.2489301871732685,141164,False,
+Requested labels: self-hosted,0.0166420932853857,5397810,False,

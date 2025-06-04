@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 5.511914846020025, , , , 4827097, False, 
+##[group]GITHUB_TOKEN Permissions, 27.067322677075254, , , , 5668276, False, 
+##[group]Run actions/checkout@v4, 3.421050690531412, , , , 133572, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.137672373389647, , , , 369315, False, 
+##[group]Cleaning the repository, 9.2299769170775, , , , 204317, False, 
+##[group]Setting up auth, 1.710700005646261, , , , 69903, False, 
+##[group]Fetching the repository, 10.08076475075448, , , , 765605, False, 
+##[group]Checking out the ref, 1.169518494569305, , , , 40420, False, 
+##[group]Setup JFrog CLI, 5.452374828823137, , , , 2231725, True, [Error] unexpected end of JSON input
+##[group]Run jfrog rt download \\, 0.4109440759169329, , , , 51923, True, [Error] the --url option is mandatory
+##[group]Run jvalkeal/nexus-sync@v0, 0.8639388875408122, , , , 148991, True, ##[error]Input required and not supplied: username
+##[group]Run jvalkeal/build-zoo-handler@v0.0.4, 0.4529948116238792, , , , 117934, False, 
+##[group]Cleanup JFrog CLI servers configuration, 0.9760741827593356, , , , 248747, False, 

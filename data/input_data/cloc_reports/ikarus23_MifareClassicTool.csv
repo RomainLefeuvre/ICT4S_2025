@@ -1,0 +1,127 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.06 s (2075.8 files/s 415066.2 lines/s)"
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java,131,810,1250
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java,88,434,977
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java,60,306,674
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java,53,268,669
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java,53,203,655
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values/strings.xml,12,28,646
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java,50,435,635
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values-fr/strings.xml,11,27,624
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values-pt/strings.xml,20,32,611
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values-it/strings.xml,12,27,558
+Text,/tmp/clone_directory/LICENSE.txt,121,0,553
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values-ru/strings.xml,11,27,553
+HTML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/assets/help/help.html,63,18,533
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values-es/strings.xml,20,32,531
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_write_tag.xml,62,26,468
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values-zh/strings.xml,12,27,435
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java,41,196,425
+Text,/tmp/clone_directory/CHANGELOG.txt,66,0,408
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/CloneUidTool.java,42,142,317
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/Preferences.java,37,108,311
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java,34,137,281
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/AccessConditionTool.java,32,189,267
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_preferences.xml,47,23,262
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_clone_uid_tool.xml,41,20,240
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/FileChooser.java,34,130,236
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DiffTool.java,34,119,225
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/TagInfoTool.java,23,79,220
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/AccessConditionDecoder.java,24,94,183
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/AndroidManifest.xml,14,23,176
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_access_condition_tool.xml,28,19,172
+Markdown,/tmp/clone_directory/README.md,29,0,144
+SVG,/tmp/clone_directory/metadata/common/logo/mct_logo_donate.svg,1,1,141
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_data_conversion_tool.xml,24,21,131
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_value_block_tool.xml,20,19,123
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_create_key_map.xml,19,18,117
+Bourne Shell,/tmp/clone_directory/Mifare Classic Tool/gradlew,28,116,105
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_access_condition_decoder.xml,21,20,101
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ValueBlocksToInt.java,17,42,100
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_main_menu.xml,19,18,96
+Markdown,/tmp/clone_directory/COMPATIBLE_DEVICES.md,3,0,94
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java,14,62,92
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ReadTag.java,19,52,86
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_bcc_tool.xml,15,25,86
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_import_export_tool.xml,14,21,85
+Markdown,/tmp/clone_directory/README.zh-CN.md,27,0,84
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ValueBlockTool.java,15,57,83
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_diff_tool.xml,14,19,83
+SVG,/tmp/clone_directory/metadata/common/logo/mct_logo.svg,1,1,83
+Text,/tmp/clone_directory/tools/example-files/example-dump-file.txt,0,0,80
+Markdown,/tmp/clone_directory/INCOMPATIBLE_DEVICES.md,5,0,78
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/UidLogTool.java,14,53,75
+DOS Batch,/tmp/clone_directory/Mifare Classic Tool/gradlew.bat,21,2,69
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_value_blocks_to_int.xml,14,20,59
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_tag_info_tool.xml,11,18,56
+XML,/tmp/clone_directory/Mifare Classic Tool/app/lint.xml,14,35,53
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_dump_editor.xml,10,19,53
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/list_item_diff_block.xml,7,19,53
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/dialog_write_sectors.xml,9,18,51
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values/access_conditions.xml,6,21,51
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/BccTool.java,13,45,42
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCDiffUtils.java,11,43,42
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_file_chooser.xml,8,18,40
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/HexToAscii.java,8,29,39
+Text,/tmp/clone_directory/metadata/en-US/full_description.txt,4,0,37
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/dump_editor_functions.xml,2,18,36
+Gradle,/tmp/clone_directory/Mifare Classic Tool/app/build.gradle,6,0,33
+Text,/tmp/clone_directory/tools/mct-dump2prox-emulator/README.txt,14,0,31
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_key_editor.xml,7,19,29
+Python,/tmp/clone_directory/tools/dump-file-converter/mct2eml.py,9,32,29
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values/tag_type_list.xml,5,27,27
+Python,/tmp/clone_directory/tools/key-file-diff/key-file-diff.py,12,41,27
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/BasicActivity.java,10,41,26
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_read_tag.xml,5,18,26
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/dialog_save_file.xml,5,18,24
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,3,0,23
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/tools.xml,2,18,21
+Python,/tmp/clone_directory/tools/dump-file-converter/eml2mct.py,9,24,21
+Text,/tmp/clone_directory/tools/key-file-converter/README.txt,7,0,21
+Text,/tmp/clone_directory/tools/example-files/example-key-dump.txt,0,0,20
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/dialog_donate.xml,5,18,19
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/key_editor_functions.xml,4,18,18
+Text,/tmp/clone_directory/metadata/en-US/changelogs/58.txt,0,0,18
+Python,/tmp/clone_directory/tools/dump-file-converter/mfd2eml.py,9,24,18
+Python,/tmp/clone_directory/tools/dump-file-converter/eml2mfd.py,9,24,16
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_hex_to_ascii.xml,4,18,15
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/uid_log_tool_functions.xml,4,18,15
+Gradle,/tmp/clone_directory/Mifare Classic Tool/settings.gradle,2,0,14
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/HelpAndInfo.java,7,25,13
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_uid_log_tool.xml,4,18,13
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values/colors.xml,2,18,13
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/activity_help.xml,4,18,12
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/xml/file_provider_paths.xml,1,18,12
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/dump_file_types.xml,2,18,11
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/file_chooser_functions.xml,2,18,11
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/main_menu_functions.xml,4,18,11
+YAML,/tmp/clone_directory/.github/FUNDING.yml,1,1,10
+INI,/tmp/clone_directory/Mifare Classic Tool/.editorconfig,2,0,9
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/xml/layout_border.xml,2,18,9
+Text,/tmp/clone_directory/metadata/en-US/changelogs/64.txt,0,0,9
+Text,/tmp/clone_directory/metadata/en-US/changelogs/65.txt,0,0,9
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/menu/keys_file_types.xml,2,18,7
+Properties,/tmp/clone_directory/Mifare Classic Tool/gradle/wrapper/gradle-wrapper.properties,0,0,7
+Markdown,/tmp/clone_directory/PRIVACY_POLICY.md,3,0,7
+Text,/tmp/clone_directory/metadata/en-US/changelogs/63.txt,0,0,7
+Text,/tmp/clone_directory/metadata/en-US/changelogs/66.txt,1,0,7
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/IActivityThatReactsToSave.java,6,30,6
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/layout/list_item_small_text.xml,2,18,6
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/xml/nfc_tech_filter.xml,2,19,6
+Properties,/tmp/clone_directory/Mifare Classic Tool/gradle.properties,0,0,6
+Text,/tmp/clone_directory/metadata/en-US/changelogs/59.txt,1,0,6
+JSON,/tmp/clone_directory/renovate.json,0,0,6
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml,0,0,5
+Text,/tmp/clone_directory/metadata/en-US/changelogs/57.txt,0,0,5
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values/ic_launcher_background.xml,0,0,4
+XML,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/values/styles.xml,2,18,4
+Text,/tmp/clone_directory/metadata/en-US/changelogs/61.txt,0,0,4
+Text,/tmp/clone_directory/metadata/en-US/changelogs/60.txt,0,0,3
+Text,/tmp/clone_directory/metadata/en-US/changelogs/67.txt,0,0,2
+Bourne Shell,/tmp/clone_directory/tools/key-file-converter/prox-keys2mct-keys.sh,3,29,2
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/package-info.java,0,3,1
+Java,/tmp/clone_directory/Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/package-info.java,0,3,1
+Properties,/tmp/clone_directory/Mifare Classic Tool/app/src/main/res/resources.properties,0,0,1
+Text,/tmp/clone_directory/metadata/en-US/changelogs/62.txt,0,0,1
+Text,/tmp/clone_directory/metadata/en-US/short_description.txt,0,0,1
+Text,/tmp/clone_directory/metadata/en-US/title.txt,0,0,1
+SUM,,1917,5495,17582

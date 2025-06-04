@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 0.44006902864156, , , , 4930003, False, 
+##[group]GITHUB_TOKEN Permissions, 3.026887027503478, , , , 139066, False, 
+##[group]Run gh workflow run -R Graylog2/graylog-project-internal pr-build.yml --ref master -f caller_repo=diversepwmeasurement/graylog2-server -f caller_pr_nr= -f caller_base_branch=master -f caller_head_branch= -f head_sha= -f initial_actor="diversepwmeasurement/diversepwmeasurement", 45.40898821578718, , , , 1908114, True, ##[error]Process completed with exit code 4.
+##[group]Run sleep 20, 96.75163293881442, , , , 20072090, False, 

@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.0, , , , 4811059, False, 
+##[group]GITHUB_TOKEN Permissions, 14.710691634605586, , , , 2522699, False, 
+##[group]Run actions/checkout@v4, 0.8480281059949103, , , , 159508, False, 
+##[group]Getting Git version info, 0.8653348020356227, , , , 4300, False, 
+##[group]Cleaning the repository, 5.555449429068699, , , , 579233, False, 
+##[group]Setting up auth, 0.9864816743206096, , , , 78929, False, 
+##[group]Fetching the repository, 4.118993657689565, , , , 444054, False, 
+##[group]Checking out the ref, 1.0730151545241722, , , , 104295, False, 
+##[group]Run VERSION=$(cat VERSION), 2.232563789251907, , , , 224162, True, ##[error]Process completed with exit code 1.
+##[group]Run cd docs, 838.281866096232, , , , 76939441, False, 
+##[group]Run actions/upload-artifact@v4, 28.38511358591142, , , , 3214256, False, 

@@ -1,0 +1,705 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.59 s (1194.6 files/s 425032.3 lines/s)"
+Text,/tmp/clone_directory/done.txt,1093,0,12257
+Java,/tmp/clone_directory/core/src/processing/opengl/PGraphicsOpenGL.java,2457,1514,10612
+Text,/tmp/clone_directory/core/done.txt,734,0,6691
+JSON,/tmp/clone_directory/build/shared/lib/naming.json,0,0,5318
+Java,/tmp/clone_directory/core/src/processing/core/PApplet.java,1844,8367,4993
+Java,/tmp/clone_directory/core/src/processing/opengl/PShapeOpenGL.java,981,340,4506
+Java,/tmp/clone_directory/core/src/processing/core/PGraphics.java,1267,4273,3051
+Java,/tmp/clone_directory/core/src/processing/data/Table.java,710,1556,2767
+Java,/tmp/clone_directory/core/src/processing/opengl/PGL.java,661,330,2439
+Java,/tmp/clone_directory/core/src/processing/core/PShape.java,748,897,1982
+Java,/tmp/clone_directory/core/src/processing/core/PImage.java,434,931,1887
+Java,/tmp/clone_directory/app/src/processing/app/ui/Editor.java,563,519,1667
+Java,/tmp/clone_directory/core/src/processing/opengl/PJOGL.java,425,114,1447
+Java,/tmp/clone_directory/app/src/processing/app/Base.java,399,549,1413
+Java,/tmp/clone_directory/java/src/processing/mode/java/CompletionGenerator.java,174,242,1395
+Java,/tmp/clone_directory/app/src/processing/app/syntax/JEditTextArea.java,430,865,1366
+Java,/tmp/clone_directory/core/src/processing/core/PShapeSVG.java,344,391,1276
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaEditor.java,391,502,1271
+Java,/tmp/clone_directory/core/src/processing/awt/PGraphicsJava2D.java,776,1151,1144
+Java,/tmp/clone_directory/app/src/processing/app/Sketch.java,298,538,1081
+Java,/tmp/clone_directory/core/src/processing/opengl/PShader.java,279,124,1074
+Java,/tmp/clone_directory/core/src/processing/opengl/Texture.java,320,309,1040
+Java,/tmp/clone_directory/core/src/processing/opengl/PSurfaceJOGL.java,236,173,948
+Text,/tmp/clone_directory/java/keywords.txt,33,0,909
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/Debugger.java,243,472,899
+Ant,/tmp/clone_directory/build/build.xml,324,428,887
+Markdown,/tmp/clone_directory/LICENSE.md,177,0,832
+Java,/tmp/clone_directory/app/src/processing/app/syntax/InputHandler.java,186,165,832
+Text,/tmp/clone_directory/todo.txt,143,0,819
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/PdeParseTreeListener.java,243,544,777
+Java,/tmp/clone_directory/app/src/processing/app/ui/Toolkit.java,244,465,750
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/AppBundlerTask.java,196,67,742
+Markdown,/tmp/clone_directory/build/shared/revisions.md,765,0,737
+Java,/tmp/clone_directory/core/src/processing/data/JSONObject.java,212,1402,722
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaBuild.java,214,399,714
+Text,/tmp/clone_directory/core/todo.txt,91,0,699
+Objective-C,/tmp/clone_directory/build/macos/appbundler/native/main.m,195,148,693
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/SketchParser.java,173,163,675
+Java,/tmp/clone_directory/core/src/processing/awt/PSurfaceAWT.java,232,531,628
+Java,/tmp/clone_directory/core/src/processing/core/PFont.java,193,371,564
+Java,/tmp/clone_directory/java/src/processing/mode/java/AutoFormat.java,131,176,563
+Java,/tmp/clone_directory/app/src/processing/app/tools/CreateFont.java,115,70,559
+Java,/tmp/clone_directory/core/src/processing/data/JSONArray.java,200,699,557
+Java,/tmp/clone_directory/core/src/processing/awt/ShimAWT.java,159,238,555
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ListPanel.java,152,151,543
+Java,/tmp/clone_directory/core/src/processing/data/FloatList.java,144,217,537
+Java,/tmp/clone_directory/core/src/processing/data/DoubleList.java,142,203,532
+Java,/tmp/clone_directory/core/src/processing/core/PMatrix3D.java,181,172,524
+Java,/tmp/clone_directory/app/src/processing/app/ui/PreferencesFrame.java,230,248,521
+Java,/tmp/clone_directory/core/src/processing/data/DoubleDict.java,156,173,521
+Java,/tmp/clone_directory/java/src/processing/mode/java/PreprocService.java,140,323,519
+Java,/tmp/clone_directory/core/src/processing/data/FloatDict.java,155,215,518
+Java,/tmp/clone_directory/app/src/processing/app/Util.java,104,184,517
+Java,/tmp/clone_directory/java/src/processing/mode/java/runner/Runner.java,128,327,506
+HTML,/tmp/clone_directory/build/macos/appbundler/doc/appbundler.html,36,20,504
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ContributionManager.java,105,168,489
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/VariableInspector.java,155,191,488
+Java,/tmp/clone_directory/core/src/processing/opengl/LineStroker.java,93,105,487
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/PreprocessIssueMessageSimplifier.java,138,436,478
+INI,/tmp/clone_directory/core/.settings/org.eclipse.jdt.core.prefs,0,0,476
+Java,/tmp/clone_directory/core/src/processing/data/IntDict.java,152,208,475
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE.properties,76,108,473
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_ca.properties,76,108,473
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_es.properties,76,108,473
+Java,/tmp/clone_directory/core/src/processing/data/IntList.java,143,259,473
+INI,/tmp/clone_directory/app/.settings/org.eclipse.jdt.core.prefs,0,0,472
+Java,/tmp/clone_directory/core/src/processing/data/LongDict.java,151,194,471
+ANTLR Grammar,/tmp/clone_directory/java/src/processing/mode/java/preproc/JavaParser.g4,117,56,471
+Java,/tmp/clone_directory/core/src/processing/data/XML.java,187,565,469
+Java,/tmp/clone_directory/core/src/processing/data/LongList.java,140,247,468
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_uk.properties,77,109,466
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaTextArea.java,95,79,460
+Java,/tmp/clone_directory/app/src/processing/app/Mode.java,177,213,456
+Java,/tmp/clone_directory/app/src/processing/app/ui/ColorChooser.java,147,87,443
+Java,/tmp/clone_directory/core/src/processing/data/StringList.java,128,251,440
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_zh-TW.properties,72,127,436
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_ru.properties,71,106,429
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_ar.properties,72,106,419
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_ja.properties,72,105,419
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_it.properties,68,105,418
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_fr.properties,68,75,402
+Java,/tmp/clone_directory/java/test/processing/mode/java/ParserTests.java,92,5,400
+INI,/tmp/clone_directory/java/libraries/pdf/.settings/org.eclipse.jdt.core.prefs,0,0,387
+Text,/tmp/clone_directory/core/license.txt,71,0,385
+Java,/tmp/clone_directory/core/src/processing/core/PVector.java,141,520,380
+Java,/tmp/clone_directory/app/src/processing/app/contrib/LocalContribution.java,100,109,367
+Java,/tmp/clone_directory/core/src/processing/data/StringDict.java,118,152,363
+Java,/tmp/clone_directory/java/libraries/pdf/src/processing/pdf/PGraphicsPDF.java,133,218,356
+Java,/tmp/clone_directory/java/src/processing/mode/java/lsp/PdeAdapter.java,55,32,356
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/processing/app/tools/MovieMaker.java,62,85,355
+Java,/tmp/clone_directory/java/libraries/serial/src/processing/serial/Serial.java,97,300,354
+Java,/tmp/clone_directory/app/src/processing/app/tools/ThemeSelector.java,104,88,353
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorStatus.java,92,40,353
+Text,/tmp/clone_directory/core/api.txt,62,0,352
+Java,/tmp/clone_directory/core/src/processing/core/PShapeOBJ.java,57,63,349
+C,/tmp/clone_directory/java/libraries/io/src/native/impl.c,89,51,349
+Java,/tmp/clone_directory/core/src/processing/opengl/FrameBuffer.java,116,40,347
+Java,/tmp/clone_directory/java/libraries/net/src/processing/net/Client.java,89,248,346
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorHeader.java,94,89,339
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_el.properties,63,97,336
+Java,/tmp/clone_directory/core/src/processing/opengl/LinePath.java,106,185,332
+Java,/tmp/clone_directory/app/src/processing/app/Library.java,115,239,326
+Java,/tmp/clone_directory/java/src/processing/mode/java/RuntimePathBuilder.java,84,281,326
+Java,/tmp/clone_directory/app/src/processing/app/syntax/TextAreaPainter.java,118,168,324
+Java,/tmp/clone_directory/app/src/processing/app/ui/FindReplace.java,86,104,313
+Java,/tmp/clone_directory/app/src/processing/app/contrib/StatusPanel.java,76,76,310
+INI,/tmp/clone_directory/java/libraries/net/.settings/org.eclipse.jdt.core.prefs,0,0,299
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Environment_I2C_BME280/BME280.pde,57,53,297
+Java,/tmp/clone_directory/java/src/processing/mode/java/CompletionPanel.java,67,73,290
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_de.properties,55,81,289
+Java,/tmp/clone_directory/core/src/processing/opengl/PGraphics2D.java,168,160,287
+Text,/tmp/clone_directory/java/application/launch4j/bin/LICENSE.txt,59,0,281
+Java,/tmp/clone_directory/app/src/processing/app/ui/ExamplesFrame.java,60,55,276
+Java,/tmp/clone_directory/core/src/processing/core/PMatrix2D.java,131,127,276
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/GPIO.java,79,262,276
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/ColorControlBox.java,63,48,275
+Java,/tmp/clone_directory/java/src/processing/mode/java/Commander.java,76,69,274
+Java,/tmp/clone_directory/app/src/processing/app/ui/ExportPrompt.java,76,45,270
+XML,/tmp/clone_directory/build/formatter.xml,0,0,269
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/ColorSelector.java,96,67,267
+Java,/tmp/clone_directory/app/src/processing/app/Platform.java,111,200,264
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorFooter.java,90,69,264
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/agpalilik.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/armanty.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/bacubirito.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/bondoc.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/brahin.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/esquel.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/gancedo.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/hoba.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/imilac.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/jepara.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/mbozi.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/morito.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/omolon.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/seymchan.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/tagish.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/youxi.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/antimony.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/bauxite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/beryl.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/calcite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/feldspar.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/fluorite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/gabbro.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/galena.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/garnet.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/jasper.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/kyanite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/malachite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/olivine.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/orpiment.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/pyrite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/serandite.txt,88,0,259
+Text,/tmp/clone_directory/build/shared/lib/theme/theme.txt,88,0,259
+Java,/tmp/clone_directory/app/src/processing/app/platform/WindowsPlatform.java,134,346,256
+Java,/tmp/clone_directory/core/src/processing/data/JSONTokener.java,49,131,255
+Java,/tmp/clone_directory/app/src/processing/app/contrib/AvailableContribution.java,61,71,254
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaTextAreaPainter.java,74,47,254
+Java,/tmp/clone_directory/java/src/processing/mode/java/CompileErrorMessageSimplifier.java,58,49,253
+Java,/tmp/clone_directory/app/src/processing/app/WebServer.java,40,43,252
+Java,/tmp/clone_directory/java/src/processing/mode/java/CompletionCandidate.java,68,28,249
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/VariableNode.java,71,88,249
+Java,/tmp/clone_directory/java/src/processing/mode/java/Rename.java,54,17,248
+Java,/tmp/clone_directory/app/src/processing/app/platform/WindowsRegistry.java,67,174,245
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorConsole.java,80,100,245
+Java,/tmp/clone_directory/java/src/processing/mode/java/SourceUtil.java,56,66,244
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/FileTextFieldTransferHandler.java,34,87,242
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaInputHandler.java,54,127,240
+Java,/tmp/clone_directory/java/src/processing/mode/java/TextTransform.java,73,14,240
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ContributionListing.java,65,99,239
+Java,/tmp/clone_directory/core/src/processing/awt/PShapeJava2D.java,66,72,239
+Java,/tmp/clone_directory/java/src/processing/mode/java/ShowUsage.java,63,26,238
+Java,/tmp/clone_directory/core/src/processing/opengl/FontTexture.java,65,79,235
+Java,/tmp/clone_directory/app/src/processing/app/ui/Theme.java,82,67,231
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/PdePreprocessor.java,58,223,230
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ContributionTab.java,113,202,229
+Java,/tmp/clone_directory/app/src/processing/app/laf/SwingUtilities2.java,42,183,227
+Text,/tmp/clone_directory/build/shared/lib/defaults.txt,74,0,227
+Java,/tmp/clone_directory/java/src/processing/mode/java/ErrorChecker.java,60,49,227
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/Handle.java,70,28,227
+Markdown,/tmp/clone_directory/build/macos/appbundler/README.md,42,16,225
+Java,/tmp/clone_directory/app/src/processing/app/Language.java,76,150,222
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaMode.java,83,85,222
+Java,/tmp/clone_directory/app/src/processing/app/syntax/PdeTextAreaPainter.java,72,81,219
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_ko.properties,49,62,212
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_nl.properties,47,62,211
+Java,/tmp/clone_directory/java/libraries/net/src/processing/net/Server.java,53,114,210
+Java,/tmp/clone_directory/app/src/processing/app/Preferences.java,83,106,209
+Java,/tmp/clone_directory/app/src/processing/app/ui/Recent.java,50,51,201
+XML,/tmp/clone_directory/java/processing4-java.iml,0,0,201
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_zh-CN.properties,47,66,198
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/processing/app/tools/FFmpegEngine.java,65,54,198
+Java,/tmp/clone_directory/java/src/processing/mode/java/Compiler.java,57,73,197
+Java,/tmp/clone_directory/core/methods/src/PAppletMethods.java,55,27,196
+Java,/tmp/clone_directory/app/src/processing/app/contrib/Contribution.java,91,88,192
+Java,/tmp/clone_directory/app/src/processing/app/syntax/PdeTokenMarker.java,27,32,190
+Java,/tmp/clone_directory/app/src/processing/app/ui/ChangeDetector.java,48,46,189
+Java,/tmp/clone_directory/app/src/processing/app/contrib/StatusDetail.java,66,50,186
+Java,/tmp/clone_directory/core/src/processing/core/PConstants.java,128,217,183
+Java,/tmp/clone_directory/java/src/processing/mode/java/PreprocSketch.java,84,13,183
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ManagerTabs.java,73,36,182
+Java,/tmp/clone_directory/app/src/processing/app/Settings.java,65,52,179
+XML,/tmp/clone_directory/java/mode/plugin.xml,41,94,178
+Java,/tmp/clone_directory/core/src/processing/core/PSurfaceNone.java,114,123,177
+Java,/tmp/clone_directory/app/src/processing/app/SketchCode.java,105,85,176
+Java,/tmp/clone_directory/app/src/processing/app/SketchName.java,23,33,175
+Java,/tmp/clone_directory/app/src/processing/app/ui/ErrorTable.java,50,26,175
+Java,/tmp/clone_directory/app/src/processing/app/syntax/DefaultInputHandler.java,46,68,174
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_pt.properties,37,52,166
+Bourne Shell,/tmp/clone_directory/build/linux/install.sh,51,40,164
+Java,/tmp/clone_directory/java/libraries/dxf/src/processing/dxf/RawDXF.java,79,162,162
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorButton.java,70,38,158
+Ant,/tmp/clone_directory/build/macos/appbundler/build.xml,23,29,157
+Ant,/tmp/clone_directory/core/build.xml,31,40,157
+Ant,/tmp/clone_directory/java/build.xml,32,8,156
+Java,/tmp/clone_directory/java/libraries/svg/src/processing/svg/PGraphicsSVG.java,102,262,155
+Java,/tmp/clone_directory/app/src/processing/app/Messages.java,50,51,152
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ContributionType.java,50,47,152
+Java,/tmp/clone_directory/java/src/processing/mode/java/InspectMode.java,37,9,151
+Java,/tmp/clone_directory/app/src/processing/app/syntax/im/InputMethodSupport.java,57,63,150
+Java,/tmp/clone_directory/app/src/processing/app/Console.java,52,68,149
+Java,/tmp/clone_directory/core/src/processing/awt/PImageAWT.java,33,56,149
+Java,/tmp/clone_directory/java/src/processing/mode/java/ASTUtils.java,29,8,147
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_tr.properties,36,54,144
+Markdown,/tmp/clone_directory/build/windows/fenster/README.md,67,0,144
+ANTLR Grammar,/tmp/clone_directory/java/src/processing/mode/java/preproc/JavaLexer.g4,19,47,144
+Java,/tmp/clone_directory/app/src/processing/app/syntax/im/CompositionTextManager.java,22,50,143
+Java,/tmp/clone_directory/java/src/processing/mode/java/lsp/PdeTextDocumentService.java,30,0,143
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/TweakClient.java,30,17,141
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorToolbar.java,71,23,140
+Java,/tmp/clone_directory/app/src/processing/app/ui/MarkerColumn.java,47,34,138
+Java,/tmp/clone_directory/app/src/processing/app/ui/SketchbookFrame.java,43,35,137
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Light_I2C_TSL2561/TSL2561.pde,30,20,137
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/Complex3D/Complex3D.pde,38,19,137
+Markdown,/tmp/clone_directory/build/README.md,90,0,135
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1532.pde,38,0,133
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/BundleDocument.java,34,25,130
+Java,/tmp/clone_directory/app/src/processing/app/syntax/PdeInputHandler.java,56,94,129
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaToolbar.java,39,21,129
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/I2C.java,42,152,128
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/LineBreakpoint.java,46,82,126
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/LineID.java,44,107,126
+Ant,/tmp/clone_directory/app/build.xml,35,33,125
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ModeContribution.java,35,42,125
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/PdeIssueEmitter.java,55,177,125
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeComboBoxUI.java,26,39,124
+Java,/tmp/clone_directory/java/test/processing/mode/java/ImportStatementTest.java,27,0,120
+Java,/tmp/clone_directory/app/src/processing/app/platform/DefaultPlatform.java,62,160,118
+Java,/tmp/clone_directory/app/src/processing/app/syntax/Brackets.java,13,6,118
+Java,/tmp/clone_directory/app/src/processing/app/ui/WebFrame.java,35,51,118
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/PWM.java,33,81,116
+Java,/tmp/clone_directory/app/src/processing/app/tools/InstallCommander.java,30,20,114
+Markdown,/tmp/clone_directory/core/README.md,60,0,114
+Java,/tmp/clone_directory/java/src/processing/mode/java/ASTViewer.java,20,1,114
+Java,/tmp/clone_directory/app/src/processing/app/platform/LinuxPlatform.java,41,35,112
+Java,/tmp/clone_directory/app/src/processing/app/ui/Splash.java,29,41,110
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ManagerFrame.java,55,80,109
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Servo_I2C_PCA9685/PCA9685.pde,20,19,109
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/SPI.java,35,132,106
+Java,/tmp/clone_directory/java/test/processing/mode/java/RuntimePathBuilderTest.java,33,15,104
+Java,/tmp/clone_directory/app/src/processing/app/platform/MacPlatform.java,56,70,103
+Java,/tmp/clone_directory/app/src/processing/app/ui/Welcome.java,39,58,103
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/TexLightVert-brcm.glsl,31,26,103
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/TexLightVert-vc4.glsl,31,26,103
+Java,/tmp/clone_directory/app/src/processing/app/tools/Archiver.java,37,28,102
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/TexLightVert.glsl,31,24,102
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/LightVert-brcm.glsl,30,25,99
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/LightVert-vc4.glsl,30,25,99
+Java,/tmp/clone_directory/app/src/processing/app/SingleInstance.java,23,38,98
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/LightVert.glsl,30,23,98
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/LED.java,28,71,98
+Java,/tmp/clone_directory/java/src/processing/mode/java/lsp/PdeSymbolFinder.java,27,26,96
+Arduino Sketch,/tmp/clone_directory/java/test/resources/whitespace_test.pde,32,23,95
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorState.java,35,66,93
+Java,/tmp/clone_directory/app/src/processing/app/ui/ModeSelector.java,31,27,93
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/PreprocessorResult.java,32,104,93
+Java,/tmp/clone_directory/app/src/processing/app/syntax/TokenMarkerState.java,30,144,92
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/processing/app/tools/Chooser.java,33,118,92
+Java,/tmp/clone_directory/java/src/processing/mode/java/lsp/PdeLanguageServer.java,24,0,92
+ANTLR Grammar,/tmp/clone_directory/java/src/processing/mode/java/preproc/Processing.g4,24,29,91
+Java,/tmp/clone_directory/app/src/processing/app/UpdateCheck.java,38,82,90
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Display_I2C_SSD1306/SSD1306.pde,17,11,90
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Touch_I2C_MPR121/MPR121.pde,12,10,90
+Java,/tmp/clone_directory/app/src/processing/app/syntax/PdeTextArea.java,44,69,87
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/TypeDeclaration.java,30,25,86
+Ant,/tmp/clone_directory/build/shared/tools/MovieMaker/build.xml,23,16,85
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SyntaxDocument.java,17,68,83
+Java,/tmp/clone_directory/java/test/processing/mode/java/ProcessingTestUtil.java,20,2,83
+Java,/tmp/clone_directory/java/test/processing/mode/java/debug/VariableNodeTests.java,18,0,83
+Java,/tmp/clone_directory/app/src/processing/app/syntax/KeywordMap.java,25,71,80
+Java,/tmp/clone_directory/java/src/processing/mode/java/JavaProblem.java,43,33,80
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/PrintWriterWithEditGenTest.java,26,0,80
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ToolContribution.java,34,31,78
+Java,/tmp/clone_directory/app/src/processing/app/exec/StreamPump.java,15,18,78
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/JLink.java,26,36,78
+Java,/tmp/clone_directory/java/test/processing/mode/java/RuntimePathFactoryTestUtil.java,28,15,78
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeScrollBarUI.java,34,46,77
+Text,/tmp/clone_directory/core/src/font/ProcessingSansPro-LICENSE.txt,21,0,77
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/SoftwareServo.java,28,99,77
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/AnalogDigital_I2C_ADS1X15/ADS1X15.pde,17,14,76
+Text,/tmp/clone_directory/build/shared/lib/fonts/SourceCodePro-LICENSE.txt,19,0,74
+Java,/tmp/clone_directory/java/src/processing/mode/java/ImportStatement.java,28,97,74
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/Runtime.java,17,34,73
+Java,/tmp/clone_directory/app/src/processing/app/SketchException.java,48,42,72
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/LineHighlight.java,35,68,72
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ContribProgress.java,36,23,71
+Java,/tmp/clone_directory/app/src/processing/app/exec/ProcessHelper.java,23,42,70
+Java,/tmp/clone_directory/core/src/processing/core/ThinkDifferent.java,32,56,70
+XML,/tmp/clone_directory/java/application/Info.plist.tmpl,11,2,70
+Python,/tmp/clone_directory/build/examples.py,25,22,69
+XML,/tmp/clone_directory/app/processing4-app.iml,0,0,68
+Ant,/tmp/clone_directory/java/libraries/io/build.xml,10,3,67
+Markdown,/tmp/clone_directory/README.md,70,0,64
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeButtonUI.java,28,48,63
+Java,/tmp/clone_directory/core/src/processing/event/MouseEvent.java,23,27,63
+Java,/tmp/clone_directory/app/src/processing/app/syntax/im/CompositionTextPainter.java,18,75,62
+INI,/tmp/clone_directory/core/.settings/org.eclipse.jdt.ui.prefs,0,0,62
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/ColorMode.java,23,23,62
+Markdown,/tmp/clone_directory/build/shared/lib/icons/README.md,38,0,61
+HTML,/tmp/clone_directory/build/shared/lib/welcome/index.html,10,0,61
+Java,/tmp/clone_directory/core/src/processing/opengl/PGraphics3D.java,69,151,61
+Bourne Shell,/tmp/clone_directory/build/linux/processing,21,31,59
+Java,/tmp/clone_directory/java/test/processing/mode/java/CachedRuntimePathFactoryTest.java,23,15,59
+HTML,/tmp/clone_directory/build/shared/tools/MovieMaker/license.html,1,50,57
+Markdown,/tmp/clone_directory/app/src/processing/app/syntax/README.md,16,0,56
+Ant,/tmp/clone_directory/java/libraries/svg/build.xml,15,13,55
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/HProgressBar.java,20,17,55
+Java,/tmp/clone_directory/java/test/processing/mode/java/AutoFormatTests.java,9,1,54
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/util/IssueLocationFactoryTest.java,12,5,54
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/util/PreprocessIssueMessageSimplifierTest.java,12,0,54
+Java,/tmp/clone_directory/app/src/processing/app/ui/About.java,22,17,53
+Java,/tmp/clone_directory/java/test/processing/mode/java/ProblemFactoryTest.java,16,0,53
+Java,/tmp/clone_directory/app/src/processing/app/contrib/UpdateStatusPanel.java,25,17,51
+Java,/tmp/clone_directory/core/src/processing/opengl/VertexBuffer.java,18,19,51
+Java,/tmp/clone_directory/java/test/processing/mode/java/UTCompiler.java,4,6,50
+Java,/tmp/clone_directory/app/src/processing/app/syntax/PdeTextAreaDefaults.java,24,32,49
+Java,/tmp/clone_directory/core/src/processing/core/PMatrix.java,52,107,49
+Java,/tmp/clone_directory/app/src/processing/app/exec/ProcessResult.java,12,0,48
+Java,/tmp/clone_directory/core/src/processing/event/Event.java,39,38,48
+Java,/tmp/clone_directory/app/src/processing/app/contrib/ExamplesContribution.java,21,23,47
+Text,/tmp/clone_directory/build/library/ant-contrib-LICENSE.txt,0,0,47
+Java,/tmp/clone_directory/app/src/processing/app/syntax/HtmlSelection.java,14,0,46
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/PlainTextTransferable.java,6,21,45
+XML,/tmp/clone_directory/build/windows/config.xml,9,56,45
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/test/serial_latency/serial_latency.pde,3,5,45
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/examples/SerialCallResponse/SerialCallResponse.pde,25,81,44
+Java,/tmp/clone_directory/java/src/processing/mode/java/SyntaxProblem.java,19,26,44
+XML,/tmp/clone_directory/build/linux/processing-pde.xml,0,0,42
+Java,/tmp/clone_directory/java/src/processing/mode/java/lsp/PdeWorkspaceService.java,5,0,42
+XML,/tmp/clone_directory/.idea/inspectionProfiles/Project_Default.xml,0,0,41
+XML,/tmp/clone_directory/build/linux/appdata.xml,7,1,40
+C/C++ Header,/tmp/clone_directory/java/libraries/io/src/native/iface.h,16,77,40
+Java,/tmp/clone_directory/java/libraries/io/src/processing/io/NativeInterface.java,15,23,40
+Java,/tmp/clone_directory/app/src/processing/app/RunnerListenerEdtAdapter.java,13,1,39
+CSS,/tmp/clone_directory/build/shared/lib/welcome/style.css,8,4,39
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,38,0,38
+Java,/tmp/clone_directory/app/src/processing/app/contrib/UpdateContributionTab.java,19,32,38
+Arduino Sketch,/tmp/clone_directory/java/libraries/net/examples/ChatServer/ChatServer.pde,7,7,38
+Java,/tmp/clone_directory/app/src/processing/app/contrib/UpdateListPanel.java,23,49,37
+Java,/tmp/clone_directory/core/src/processing/core/PSurface.java,55,98,36
+Arduino Sketch,/tmp/clone_directory/java/libraries/dxf/examples/SimpleExport/SimpleExport.pde,6,6,36
+HTML,/tmp/clone_directory/java/mode/about.html,6,0,36
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeLabel.java,16,25,35
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeProgressBarUI.java,16,11,35
+Java,/tmp/clone_directory/app/src/processing/app/syntax/Token.java,31,77,35
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/StringTransferable.java,5,27,35
+Java,/tmp/clone_directory/core/src/processing/event/KeyEvent.java,19,16,35
+Java,/tmp/clone_directory/java/src/processing/mode/java/ProblemFactory.java,15,17,35
+Java,/tmp/clone_directory/java/src/processing/mode/java/runner/MessageSiphon.java,18,39,35
+Java,/tmp/clone_directory/java/test/processing/mode/java/JavaFxRuntimePathFactoryTest.java,17,15,35
+Java,/tmp/clone_directory/java/test/processing/mode/java/JavaRuntimePathFactoryTest.java,18,15,35
+Java,/tmp/clone_directory/app/src/processing/app/tools/ColorSelector.java,18,27,34
+XML,/tmp/clone_directory/build/windows/config-cmd.xml,6,10,34
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/BadParamMessageSimplifierStrategyTest.java,11,0,34
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingMethodNameMessageSimplifierStrategyTest.java,11,0,34
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeTextFieldUI.java,32,60,33
+Java,/tmp/clone_directory/app/src/processing/app/exec/StreamRedirectThread.java,12,50,32
+Ant,/tmp/clone_directory/core/methods/build.xml,9,0,32
+Java,/tmp/clone_directory/core/src/processing/core/PStyle.java,13,18,32
+Java,/tmp/clone_directory/core/src/processing/data/TableRow.java,29,166,32
+Java,/tmp/clone_directory/java/test/processing/mode/java/CodeFolderRuntimePathFactoryTest.java,16,15,32
+Java,/tmp/clone_directory/java/test/processing/mode/java/LibrarySearchRuntimePathFactoryTest.java,16,15,32
+Java,/tmp/clone_directory/java/test/processing/mode/java/ModeSearchRuntimePathFactoryTest.java,16,15,32
+Java,/tmp/clone_directory/java/test/processing/mode/java/ModeSketchRuntimePathFactoryTest.java,16,15,32
+Java,/tmp/clone_directory/core/src/processing/data/Sort.java,11,4,31
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/RandomBook/RandomBook.pde,8,6,31
+Java,/tmp/clone_directory/java/test/processing/mode/java/CoreLibraryRuntimePathFactoryTest.java,16,15,31
+Java,/tmp/clone_directory/java/test/processing/mode/java/LibrarySketchRuntimePathFactoryTest.java,16,15,31
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeMenuItemUI.java,12,5,30
+XML,/tmp/clone_directory/java/.classpath,0,0,30
+Java,/tmp/clone_directory/app/src/processing/app/exec/ProcessRegistry.java,6,5,29
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SyntaxStyle.java,17,22,29
+Arduino Sketch,/tmp/clone_directory/java/libraries/net/examples/SharedCanvasServer/SharedCanvasServer.pde,5,16,29
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/examples/SerialMultiple/SerialMultiple.pde,14,43,29
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/test/serial_throughput/serial_throughput.pde,2,1,29
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/AssignmentMessageSimplifierStrategyTest.java,10,0,29
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingClassNameMessageSimplifierStrategyTest.java,10,0,29
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug598.pde,6,1,29
+Java,/tmp/clone_directory/app/src/processing/app/exec/SystemOutSiphon.java,15,41,28
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/CompositeTransferable.java,8,39,28
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/LineVert.glsl,22,50,28
+Java,/tmp/clone_directory/core/test/processing/data/TableTest.java,11,0,28
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/LedCounter/LedCounter.pde,6,5,28
+XML,/tmp/clone_directory/java/libraries/serial/processing4-serial.iml,0,0,28
+Text,/tmp/clone_directory/java/mode/readme.txt,21,0,28
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/FieldNode.java,14,23,28
+XML,/tmp/clone_directory/core/methods/processing4-core-preproc.iml,0,0,27
+XML,/tmp/clone_directory/java/.project,0,0,27
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/SimpleResistorSensor/SimpleResistorSensor.pde,11,18,27
+Arduino Sketch,/tmp/clone_directory/java/libraries/net/examples/SharedCanvasClient/SharedCanvasClient.pde,5,14,27
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/RewriteResultBuilder.java,11,31,27
+YAML,/tmp/clone_directory/.github/workflows/lock.yml,3,0,26
+Java,/tmp/clone_directory/app/src/processing/app/syntax/TokenMarker.java,12,52,26
+Java,/tmp/clone_directory/app/src/processing/app/ui/ZoomTreeCellRenderer.java,14,21,26
+Ant,/tmp/clone_directory/java/libraries/dxf/build.xml,4,0,26
+Ant,/tmp/clone_directory/java/libraries/net/build.xml,4,0,26
+Ant,/tmp/clone_directory/java/libraries/pdf/build.xml,4,0,26
+Ant,/tmp/clone_directory/java/libraries/serial/build.xml,4,0,26
+Java,/tmp/clone_directory/build/windows/fenster/Fenster.java,5,3,25
+Java,/tmp/clone_directory/core/test/processing/core/PShapeSVGTest.java,7,0,25
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Servo_I2C_PCA9685/Servo_I2C_PCA9685.pde,7,9,25
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/LocalVariableNode.java,14,20,25
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/ExtraneousInputMessageSimplifierStrategyTest.java,9,0,25
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MismatchedInputMessageSimplifierStrategyTest.java,9,0,25
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingIdentifierMessageSimplifierStrategyTest.java,9,0,25
+Text,/tmp/clone_directory/java/application/launch4j/LICENSE.txt,6,0,24
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Compass_I2C_HMC6352/HMC6352.pde,5,9,24
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/ManyPDFs/ManyPDFs.pde,8,6,24
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/examples/SerialDuplex/SerialDuplex.pde,10,16,24
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/examples/SimpleWrite/SimpleWrite.pde,12,31,24
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/ArrayFieldNode.java,13,23,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/BadIdentifierMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/KnownMissingMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingChevMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingCurlyMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingDoubleQuoteMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingGenericTypeMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingParenMessageSimplifierStrategyTest.java,9,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingSingleQuoteMessageSimplifierStrategyTest.java,8,0,24
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MissingVariableNameMessageSimplifierStrategyTest.java,9,0,24
+Arduino Sketch,/tmp/clone_directory/java/test/resources/staticannotations.pde,10,0,24
+Java,/tmp/clone_directory/app/src/processing/app/syntax/TextAreaDefaults.java,7,15,23
+Text,/tmp/clone_directory/java/application/launch4j/lib/LICENSE.txt,5,0,23
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/SoftwareServoSweep/SoftwareServoSweep.pde,6,5,23
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/examples/SimpleRead/SimpleRead.pde,13,28,23
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/ColorScheme.java,12,15,23
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1390.pde,6,0,23
+Arduino Sketch,/tmp/clone_directory/java/test/resources/whitespace.pde,2,0,23
+XML,/tmp/clone_directory/build/macos/ffs.entitlements,0,0,22
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/MousePress/MousePress.pde,9,6,22
+XML,/tmp/clone_directory/java/libraries/pdf/processing4-pdf.iml,0,0,22
+YAML,/tmp/clone_directory/.travis.yml,6,0,21
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/Option.java,7,51,21
+Text,/tmp/clone_directory/core/src/processing/opengl/cursors/license.txt,6,0,21
+Java,/tmp/clone_directory/core/test/processing/core/Base64StringImageLoadTest.java,10,2,21
+Text,/tmp/clone_directory/java/application/launch4j/head/LICENSE.txt,5,0,21
+XML,/tmp/clone_directory/java/libraries/svg/processing4-svg.iml,0,0,21
+Objective-C,/tmp/clone_directory/core/different/different.m,6,0,20
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Environment_I2C_BME280/Environment_I2C_BME280.pde,6,3,20
+Properties,/tmp/clone_directory/java/mode/plugin.properties,0,14,20
+Java,/tmp/clone_directory/java/src/processing/mode/java/TabLine.java,8,27,20
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/PdePreprocessIssue.java,7,25,20
+XML,/tmp/clone_directory/.idea/modules.xml,0,0,19
+Java,/tmp/clone_directory/app/src/processing/app/laf/PdeLookAndFeel.java,12,5,19
+Python,/tmp/clone_directory/build/macos/language_gen.py,8,0,19
+XML,/tmp/clone_directory/build/shared/tools/MovieMaker/processing4-tools-moviemaker.iml,0,0,19
+Java,/tmp/clone_directory/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/AbstractTransferable.java,6,17,19
+Text,/tmp/clone_directory/java/application/launch4j/w32api/LICENSE.txt,6,0,19
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Touch_I2C_MPR121/Touch_I2C_MPR121.pde,5,2,19
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/MultipleFrames/MultipleFrames.pde,7,7,19
+Java,/tmp/clone_directory/java/src/processing/mode/java/runner/MessageStream.java,16,27,19
+Arduino Sketch,/tmp/clone_directory/java/test/resources/annotations.pde,7,0,19
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1516.pde,3,0,19
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1517.pde,3,0,19
+Text,/tmp/clone_directory/java/test/resources/preferences.txt,7,0,19
+SVG,/tmp/clone_directory/build/shared/lib/theme/mini.svg,2,0,18
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/AnalogDigital_SPI_MCP3008/MCP3008.pde,4,6,18
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/SimpleOutput/SimpleOutput.pde,3,4,18
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/ManyPages/ManyPages.pde,6,6,18
+Java,/tmp/clone_directory/java/src/processing/mode/java/SketchInterval.java,5,0,18
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/MessageSimplifierUtilTest.java,5,0,18
+XML,/tmp/clone_directory/app/.classpath,0,0,17
+XML,/tmp/clone_directory/app/.project,0,0,17
+XML,/tmp/clone_directory/build/macos/appbundler/.project,0,0,17
+SVG,/tmp/clone_directory/build/shared/lib/manager/list-downloading.svg,11,0,17
+XML,/tmp/clone_directory/build/shared/tools/MovieMaker/.project,0,0,17
+make,/tmp/clone_directory/build/windows/fenster/Makefile,6,6,17
+XML,/tmp/clone_directory/core/.project,0,0,17
+XML,/tmp/clone_directory/core/methods/.project,0,0,17
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/PointVert.glsl,14,25,17
+XML,/tmp/clone_directory/java/libraries/dxf/.project,0,0,17
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Interrupt/Interrupt.pde,4,4,17
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Light_I2C_TSL2561/Light_I2C_TSL2561.pde,5,5,17
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/SimpleI2C/SimpleI2C.pde,5,8,17
+XML,/tmp/clone_directory/java/libraries/net/.project,0,0,17
+Arduino Sketch,/tmp/clone_directory/java/libraries/net/examples/HTTPClient/HTTPClient.pde,5,12,17
+XML,/tmp/clone_directory/java/libraries/pdf/.project,0,0,17
+XML,/tmp/clone_directory/java/libraries/serial/.project,0,0,17
+XML,/tmp/clone_directory/java/libraries/svg/.project,0,0,17
+Java,/tmp/clone_directory/java/src/processing/mode/java/preproc/RewriteResult.java,9,19,17
+Java,/tmp/clone_directory/java/test/processing/mode/java/SourceUtilTest.java,6,0,17
+Arduino Sketch,/tmp/clone_directory/java/test/resources/customrootclass.pde,6,0,17
+Java,/tmp/clone_directory/app/src/processing/app/SketchReference.java,9,0,16
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/PlistEntry.java,5,25,16
+Text,/tmp/clone_directory/build/shared/lib/theme/Alloys/order.txt,0,0,16
+Text,/tmp/clone_directory/build/shared/lib/theme/Minerals/order.txt,0,0,16
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/DigitalAnalog_I2C_MCP4725/MCP4725.pde,4,7,16
+Java,/tmp/clone_directory/java/libraries/svg/src/WriteSVG.java,10,9,16
+Arduino Sketch,/tmp/clone_directory/java/test/resources/multilinestrclass.pde,4,0,16
+C++,/tmp/clone_directory/build/windows/fenster/processing_core_platform_Fenster.cpp,6,11,15
+INI,/tmp/clone_directory/java/libraries/svg/.settings/org.eclipse.jdt.core.prefs,0,0,15
+Arduino Sketch,/tmp/clone_directory/java/test/resources/sizeclass.pde,4,2,15
+Arduino Sketch,/tmp/clone_directory/java/test/resources/speicalmethods.pde,3,0,15
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/Architecture.java,5,26,14
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/Argument.java,5,29,14
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/JMod.java,5,26,14
+C++,/tmp/clone_directory/build/windows/fenster/fenster.cpp,4,10,14
+C/C++ Header,/tmp/clone_directory/build/windows/fenster/processing_core_platform_Fenster.h,3,12,14
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/MaskFrag.glsl,9,17,14
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/AnalogDigital_I2C_ADS1X15/AnalogDigital_I2C_ADS1X15.pde,8,16,14
+make,/tmp/clone_directory/java/libraries/io/src/native/Makefile,5,1,14
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1518a.pde,3,0,14
+Arduino Sketch,/tmp/clone_directory/java/test/resources/staticclass.pde,5,0,14
+Java,/tmp/clone_directory/app/src/processing/app/ui/EditorException.java,14,20,13
+XML,/tmp/clone_directory/build/macos/appbundler/processing4-appbundler.iml,0,0,13
+XML,/tmp/clone_directory/core/.classpath,0,0,13
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/AnalogDigital_SPI_MCP3001/MCP3001.pde,4,6,13
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/AnalogDigital_SPI_MCP3008/AnalogDigital_SPI_MCP3008.pde,5,4,13
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Display_I2C_SSD1306/Display_I2C_SSD1306.pde,5,4,13
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/SimpleInput/SimpleInput.pde,3,8,13
+XML,/tmp/clone_directory/java/libraries/net/processing4-net.iml,0,0,13
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/LargePage/LargePage.pde,9,9,13
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1518b.pde,2,0,13
+Markdown,/tmp/clone_directory/.github/issue_template.md,9,18,12
+Properties,/tmp/clone_directory/app/src/processing/app/laf/FlatLaf.properties,6,3,12
+XML,/tmp/clone_directory/core/processing4-core.iml,0,0,12
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/TexLightFrag.glsl,8,17,12
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/TexVert.glsl,9,17,12
+XML,/tmp/clone_directory/java/.externalToolBuilders/AutoBuild.launch,0,0,12
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/SimpleSPI/SimpleSPI.pde,4,9,12
+XML,/tmp/clone_directory/java/libraries/pdf/.classpath,0,0,12
+XML,/tmp/clone_directory/java/libraries/serial/.classpath,0,0,12
+XML,/tmp/clone_directory/java/libraries/svg/.classpath,0,0,12
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug136.pde,2,0,12
+Arduino Sketch,/tmp/clone_directory/java/test/resources/colorreturn.pde,2,0,12
+Arduino Sketch,/tmp/clone_directory/java/test/resources/expressionsizemethod.pde,4,2,12
+Arduino Sketch,/tmp/clone_directory/java/test/resources/multimultilinestr.pde,2,0,12
+Arduino Sketch,/tmp/clone_directory/java/test/resources/typeinference.pde,3,2,12
+Java,/tmp/clone_directory/app/src/processing/app/Problem.java,17,58,11
+XML,/tmp/clone_directory/build/macos/appbundler/.classpath,0,0,11
+make,/tmp/clone_directory/core/different/Makefile,5,1,11
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/TexFrag.glsl,9,17,11
+XML,/tmp/clone_directory/java/libraries/dxf/.classpath,0,0,11
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/AnalogDigital_SPI_MCP3001/AnalogDigital_SPI_MCP3001.pde,5,4,11
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/Compass_I2C_HMC6352/Compass_I2C_HMC6352.pde,4,4,11
+XML,/tmp/clone_directory/java/libraries/net/.classpath,0,0,11
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/test/serial_latency/arduino/serial_latency.ino,1,0,11
+Java,/tmp/clone_directory/java/test/processing/mode/java/preproc/PdePreprocessIssueException.java,6,15,11
+Arduino Sketch,/tmp/clone_directory/java/test/resources/nosmooth.pde,1,0,11
+Arduino Sketch,/tmp/clone_directory/java/test/resources/smoothnoparam.pde,1,0,11
+Arduino Sketch,/tmp/clone_directory/java/test/resources/smoothnoparamthis.pde,1,0,11
+Arduino Sketch,/tmp/clone_directory/java/test/resources/smoothparam.pde,1,0,11
+Arduino Sketch,/tmp/clone_directory/java/test/resources/specialmethodsprivate.pde,3,0,11
+Java,/tmp/clone_directory/app/src/processing/app/RunnerListener.java,17,18,10
+Properties,/tmp/clone_directory/build/shared/tools/MovieMaker/tool.properties,0,0,10
+Arduino Sketch,/tmp/clone_directory/java/test/resources/expressionsizevar.pde,3,2,10
+Arduino Sketch,/tmp/clone_directory/java/test/resources/fullscreen_export.pde,2,0,10
+Arduino Sketch,/tmp/clone_directory/java/test/resources/parampixeldensity.pde,1,1,10
+XML,/tmp/clone_directory/core/.idea/modules.xml,0,0,9
+Markdown,/tmp/clone_directory/core/different/README.md,5,0,9
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/LightFrag.glsl,7,17,9
+Arduino Sketch,/tmp/clone_directory/java/libraries/io/examples/DigitalAnalog_I2C_MCP4725/DigitalAnalog_I2C_MCP4725.pde,2,1,9
+Properties,/tmp/clone_directory/java/libraries/io/library.properties,0,0,9
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug427g.pde,4,0,9
+Arduino Sketch,/tmp/clone_directory/java/test/resources/expressionsize.pde,3,2,9
+Arduino Sketch,/tmp/clone_directory/java/test/resources/pdfwrite.pde,3,2,9
+Arduino Sketch,/tmp/clone_directory/java/test/resources/sizethis.pde,3,2,9
+XML,/tmp/clone_directory/build/linux/processing.sharedmimeinfo,0,0,8
+XML,/tmp/clone_directory/build/shared/tools/MovieMaker/.classpath,0,0,8
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/ColorFrag.glsl,7,17,8
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/ColorVert.glsl,9,17,8
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/LineFrag.glsl,7,17,8
+GLSL,/tmp/clone_directory/core/src/processing/opengl/shaders/PointFrag.glsl,7,17,8
+Arduino Sketch,/tmp/clone_directory/java/libraries/pdf/examples/OneFrame/OneFrame.pde,8,7,8
+Arduino Sketch,/tmp/clone_directory/java/libraries/serial/test/serial_throughput/arduino/serial_thoughput.ino,1,0,8
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug507.pde,0,0,8
+Arduino Sketch,/tmp/clone_directory/java/test/resources/multilinestr.pde,1,0,8
+Java,/tmp/clone_directory/app/src/processing/app/tools/Tool.java,14,23,7
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/IconContainer.java,3,22,7
+XML,/tmp/clone_directory/core/methods/.classpath,0,0,7
+Java,/tmp/clone_directory/core/src/processing/event/TouchEvent.java,14,36,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug16.pde,2,0,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug315g.pde,0,0,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug400g.pde,1,1,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug631.pde,0,0,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug763.pde,1,0,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/classinstatic.pde,4,0,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/pgraphics.pde,3,0,7
+Arduino Sketch,/tmp/clone_directory/java/test/resources/smoothparamstatic.pde,0,0,7
+XML,/tmp/clone_directory/.idea/misc.xml,0,0,6
+XML,/tmp/clone_directory/.idea/vcs.xml,0,0,6
+Java,/tmp/clone_directory/app/src/processing/app/contrib/IgnorableException.java,2,0,6
+SVG,/tmp/clone_directory/build/shared/lib/manager/foundation.svg,0,0,6
+SVG,/tmp/clone_directory/build/shared/lib/status/search.svg,0,0,6
+XML,/tmp/clone_directory/core/.idea/ant.xml,0,0,6
+XML,/tmp/clone_directory/core/.idea/misc.xml,0,0,6
+XML,/tmp/clone_directory/core/.idea/vcs.xml,0,0,6
+Markdown,/tmp/clone_directory/java/libraries/pdf/README.md,5,0,6
+Arduino Sketch,/tmp/clone_directory/java/test/resources/staticpixeldensity.pde,0,0,6
+SVG,/tmp/clone_directory/java/theme/completion/class.svg,0,0,6
+SVG,/tmp/clone_directory/java/theme/completion/field.svg,0,0,6
+SVG,/tmp/clone_directory/java/theme/completion/local.svg,0,0,6
+SVG,/tmp/clone_directory/java/theme/completion/method.svg,0,0,6
+Markdown,/tmp/clone_directory/build/shared/lib/fonts/ProcessingSans-LICENSE.md,3,0,5
+SVG,/tmp/clone_directory/build/shared/lib/manager/chevron.svg,0,0,5
+Java,/tmp/clone_directory/java/src/processing/mode/java/debug/ClassLoadListener.java,10,23,5
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug196.pde,0,0,5
+Arduino Sketch,/tmp/clone_directory/java/test/resources/lambdaexample.pde,1,0,5
+Arduino Sketch,/tmp/clone_directory/java/test/resources/mixing.pde,3,0,5
+Java,/tmp/clone_directory/app/src/processing/app/Formatter.java,8,19,4
+Java,/tmp/clone_directory/app/src/processing/app/exec/LineProcessor.java,1,0,4
+Text,/tmp/clone_directory/build/howto.txt,1,0,4
+Bourne Shell,/tmp/clone_directory/build/linux/uninstall.sh,2,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/close.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/list-incompatible.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/list-up-to-date.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/list-update-available.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/panel-install.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/panel-update.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/search-reset.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/manager/search.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/status/console-collapse.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/status/console-expand.svg,0,0,4
+SVG,/tmp/clone_directory/build/shared/lib/status/copy-to-clipboard.svg,0,0,4
+INI,/tmp/clone_directory/java/libraries/pdf/.settings/org.eclipse.jdt.ui.prefs,0,0,4
+Text,/tmp/clone_directory/java/libraries/serial/library/jssc.txt,2,0,4
+Java,/tmp/clone_directory/java/src/processing/mode/java/runner/MessageConsumer.java,10,28,4
+Java,/tmp/clone_directory/java/src/processing/mode/java/tweak/Settings.java,7,15,4
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug109.pde,0,0,4
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1515.pde,1,2,4
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug281.pde,0,0,4
+Arduino Sketch,/tmp/clone_directory/java/test/resources/colorimport.pde,1,0,4
+SVG,/tmp/clone_directory/java/theme/variables/array.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/boolean.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/byte.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/char.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/double.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/float.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/integer.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/long.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/object.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/short.svg,0,0,4
+SVG,/tmp/clone_directory/java/theme/variables/string.svg,0,0,4
+INI,/tmp/clone_directory/app/.settings/org.eclipse.jdt.ui.prefs,0,0,3
+Java,/tmp/clone_directory/build/macos/appbundler/src/com/oracle/appbundler/Environment.java,2,25,3
+Java,/tmp/clone_directory/core/src/processing/core/PSketch.java,2,1,3
+INI,/tmp/clone_directory/java/libraries/net/.settings/org.eclipse.jdt.ui.prefs,0,0,3
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1442.pde,0,0,3
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1525.pde,0,0,3
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug4.pde,0,0,3
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug405.pde,0,0,3
+Arduino Sketch,/tmp/clone_directory/java/test/resources/color.pde,0,0,3
+Arduino Sketch,/tmp/clone_directory/java/test/resources/custommain.pde,2,0,3
+INI,/tmp/clone_directory/app/.settings/org.eclipse.ltk.core.refactoring.prefs,0,0,2
+DOS Batch,/tmp/clone_directory/build/windows/processing.bat,1,0,2
+Text,/tmp/clone_directory/core/library-test/license.txt,0,0,2
+Text,/tmp/clone_directory/core/resource-test/test.txt,0,0,2
+Properties,/tmp/clone_directory/java/libraries/dxf/library.properties,0,0,2
+Properties,/tmp/clone_directory/java/libraries/net/library.properties,0,0,2
+Properties,/tmp/clone_directory/java/libraries/pdf/library.properties,0,0,2
+Properties,/tmp/clone_directory/java/libraries/serial/library.properties,1,0,2
+Properties,/tmp/clone_directory/java/libraries/svg/library.properties,0,0,2
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug420.pde,0,0,2
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug481.pde,0,0,2
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug820.pde,0,0,2
+Arduino Sketch,/tmp/clone_directory/java/test/resources/charspecial.pde,0,0,2
+Arduino Sketch,/tmp/clone_directory/java/test/resources/packageTest.pde,1,0,2
+SVG,/tmp/clone_directory/build/shared/lib/footer/console.svg,0,0,1
+SVG,/tmp/clone_directory/build/shared/lib/footer/error.svg,0,0,1
+SVG,/tmp/clone_directory/build/shared/lib/toolbar/continue.svg,0,0,1
+SVG,/tmp/clone_directory/build/shared/lib/toolbar/debug.svg,0,0,1
+SVG,/tmp/clone_directory/build/shared/lib/toolbar/run.svg,0,0,1
+SVG,/tmp/clone_directory/build/shared/lib/toolbar/step.svg,0,0,1
+SVG,/tmp/clone_directory/build/shared/lib/toolbar/stop.svg,0,0,1
+Text,/tmp/clone_directory/java/libraries/io/library/export.txt,0,0,1
+Markdown,/tmp/clone_directory/java/libraries/svg/README.md,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1145.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1362.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1511.pde,2,4,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1512.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1514a.pde,0,4,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1514b.pde,0,4,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1534.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1936.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug5a.pde,0,1,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug5b.pde,0,1,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug6.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/fullscreen.pde,1,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/fullscreen_arg.pde,0,0,1
+Arduino Sketch,/tmp/clone_directory/java/test/resources/fullscreen_noarg.pde,0,0,1
+Properties,/tmp/clone_directory/build/shared/lib/languages/PDE_en.properties,0,1,0
+Arduino Sketch,/tmp/clone_directory/java/test/resources/bug1064.pde,0,1,0
+SUM,,40214,53291,156612

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,12.681778798318357,4741061,False,
+##[group]Fetching the repository,8.058994460724097,1624741,False,
+##[group]Run ./.github/scripts/publish.sh,3.358014060345539,558874,False,
+##[group]Checking out the ref,1.5996994004677965,313613,False,
+##[group]Run actions/checkout@v2,0.9451722450768082,206803,False,
+##[group]Setting up auth,0.4772512772269319,68681,False,
+##[group]==END_FILE==,0.0,6239662,False,

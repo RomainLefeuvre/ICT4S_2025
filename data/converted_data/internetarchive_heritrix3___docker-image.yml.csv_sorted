@@ -1,0 +1,7 @@
+##[group]Run docker build . --file Dockerfile --tag heritrix:$(date +%s), 99.54507302718687, , , , 37882661, False, 
+##[group]Fetching the repository, 0.1578910701747957, , , , 880206, False, 
+##[group]GITHUB_TOKEN Permissions, 0.1520432527609144, , , , 1347006, False, 
+##[group]Run actions/checkout@v2, 0.0300187960579241, , , , 183915, False, 
+##[group]Checking out the ref, 0.0194927247129377, , , , 104211, False, 
+##[group]Disabling automatic garbage collection, 0.0155941797703502, , , , 4166, False, 
+Requested labels: self-hosted, 0.0, , , , 5255275, False, 

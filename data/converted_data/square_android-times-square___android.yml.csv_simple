@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew build,757.5713920070378,71966183,True,##[error]Process completed with exit code 1.
+##[group]Run gradle/wrapper-validation-action@v1.0.4,10.695873999886198,1196686,False,
+##[group]Fetching the repository,8.243424055689271,732302,False,
+##[group]GITHUB_TOKEN Permissions,6.954184329652751,3209889,False,
+Requested labels: self-hosted,5.91146715375807,5239838,False,
+##[group]Run actions/setup-java@v2,3.160406866817052,1936868,False,
+##[group]Run actions/checkout@v3,2.187315262683508,161508,False,

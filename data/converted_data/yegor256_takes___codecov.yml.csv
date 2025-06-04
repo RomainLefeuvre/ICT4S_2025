@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.8737716649230964, , , , 4242443, False, 
+##[group]GITHUB_TOKEN Permissions, 13.8738958718226, , , , 5085770, False, 
+##[group]Run actions/checkout@v4, 4.880403929973033, , , , 141394, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.100398212941677, , , , 42418, False, 
+##[group]Setting up auth, 5.320392495910322, , , , 95990, False, 
+##[group]Fetching the repository, 29.901876724081276, , , , 454727, False, 
+##[group]Run actions/cache@v4, 172.98505824837991, , , , 1776676, False, 
+##[group]Run mvn install -Pjacoco, 1771.6961351863274, , , , 253235215, True, [ERROR[m] Tests run: 3[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.228 s <<< FAILURE![m - in org.takes.rs.RsGzipTest[m
+##[group]Run codecov/codecov-action@v4, 125.8422939193986, , , , 8535147, True, ##[error]Codecov: Failed to properly create commit: The process '/home/power/actions-runner/_work/_actions/codecov/codecov-action/v4/dist/codecov' failed with exit code 1

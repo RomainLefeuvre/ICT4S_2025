@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 41.20021407599891, , , , 4605795, False, 
+##[group]GITHUB_TOKEN Permissions, 89.7617884762159, , , , 1250029, False, 
+##[group]Run actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744, 14.508981545554493, , , , 149258, False, 
+##[group]Setting up auth, 7.216881061626012, , , , 61098, False, 
+##[group]Fetching the repository, 28.616792838829145, , , , 432843, False, 
+##[group]Run curl -Ls https://sh.jbang.dev | bash -s - app setup, 67.36924769681112, , , , 12685920, False, 
+##[group]Run source ~/.zshrc, 39.68518111345531, , , , 2848260, False, 
+##[group]Run jbang init -t cli testcli.java, 4.1620960218735625, , , , 250022, True, ##[error]Process completed with exit code 127.

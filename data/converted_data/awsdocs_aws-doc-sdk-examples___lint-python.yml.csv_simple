@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,359.4226500051123,2936320,False,
+##[group]changed-files,231.5919471785034,999298,False,
+##[group]Run pip install black pylint,168.0413552229988,14885066,False,
+##[group]Fetching the repository,117.87582483947703,625930,False,
+##[group]Run actions/setup-python@v2,50.15099733890524,186271,False,
+##[group]Cleaning the repository,36.09810169382189,135220,False,
+##[group]Run actions/checkout@v2,34.82056572608705,179998,False,
+##[group]Setting up auth,18.528126834811516,91384,False,
+Requested labels: self-hosted,0.0192765132810093,4425494,False,

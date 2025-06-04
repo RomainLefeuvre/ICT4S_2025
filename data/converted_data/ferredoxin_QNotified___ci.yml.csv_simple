@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew :app:assembleCI,1393.1414058249657,107326568,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:build,388.07006949839615,24199511,False,
+##[group]Fetching submodules,24.334934339516185,1810301,False,
+##[group]GITHUB_TOKEN Permissions,23.315491447599523,2630106,False,
+##[group]Run actions/cache@v2,21.46523666330486,1662436,False,
+##[group]Fetching the repository,7.136079679978503,1828180,False,
+> Task :buildSrc:compileTestKotlin NO-SOURCE,2.898679520363252,98190,False,
+##[group]Persisting credentials for submodules,2.6338582078322155,164291,False,
+##[group]Run actions/setup-java@v1,2.6198535307427435,108717,False,
+##[group]Run actions/checkout@v2,2.4706903186347606,195642,False,
+##[group]Checking out the ref,1.3852019047272843,71622,False,
+##[group]Setting up auth,1.269204708142966,66634,False,
+Requested labels: self-hosted,0.5842113125447662,4363406,False,

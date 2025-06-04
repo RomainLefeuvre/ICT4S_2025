@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,428.4792617963533,41647752,False,
+##[group]Run ./mvnw -B -V -ntp -DperformRelease=true deploy,105.83339955009625,19992807,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.4:sign (sign-artifacts) on project metrics-parent: Secret key not found -> [Help 1]
+[INFO] --- cyclonedx:2.8.0:makeAggregateBom (default) @ metrics-parent ---,84.55249154847827,9310493,False,
+[INFO] --- dependency:3.6.1:analyze-only (analyze) @ metrics-parent ---,12.584763648902484,2376634,False,
+[INFO] --- source:3.3.1:jar-no-fork (attach-sources) @ metrics-parent ---,10.967220946065702,776240,False,
+[INFO] --- javadoc:3.7.0:jar (attach-javadocs) @ metrics-parent ---,8.696144352715496,1971919,False,
+[INFO] --- enforcer:3.5.0:enforce (enforce) @ metrics-parent ---,3.0070041500654763,222863,False,
+[INFO] --- jacoco:0.8.12:prepare-agent (prepare-agent) @ metrics-parent ---,1.5207503771432525,57747,False,

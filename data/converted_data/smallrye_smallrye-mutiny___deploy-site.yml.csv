@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0139936972220737, , , , 4103747, False, 
+##[group]GITHUB_TOKEN Permissions, 216.40185637324976, , , , 3582849, False, 
+##[group]Pull down action image 'mikefarah/yq:4-githubaction', 58.54026246068345, , , , 5948261, False, 
+##[group]Run actions/checkout@v4, 1.3576043792583254, , , , 139784, True, ##[error]Input required and not supplied: token
+##[group]Run bash --noprofile --norc "${GITHUB_ACTION_PATH:?}/main.sh", 8.980947869475997, , , , 1432848, False, 
+##[group]Installed versions, 0.8272504956975624, , , , 160992, False, 
+##[group]Run .build/install-mkdocs-deps.sh, 124.9457737438012, , , , 48164288, False, 
+##[group]Run .build/deploy-site.sh, 43.0732638886895, , , , 6097180, False, 

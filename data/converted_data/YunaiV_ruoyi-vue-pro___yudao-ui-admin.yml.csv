@@ -1,0 +1,22 @@
+Requested labels: self-hosted, 169.90254719450147, , , , 27454852, False, 
+Requested labels: self-hosted__dup_2, 9.559555151997287, , , , 5234647, False, 
+##[group]GITHUB_TOKEN Permissions, 45.4249136652137, , , , 2895482, False, 
+##[group]Run actions/checkout@v2, 10.10766798919763, , , , 194395, False, 
+##[group]Fetching the repository, 30.77635359163353, , , , 3523748, False, 
+##[group]Checking out the ref, 3.438309549340355, , , , 372547, False, 
+##[group]Run pnpm/action-setup@v2.0.1, 18.63780877744924, , , , 146910, False, 
+##[group]Running self-installer..., 17.979309341291508, , , , 4327164, False, 
+##[group]Run actions/setup-node@v2, 4.791670074990866, , , , 352652, True, ##[error]Unable to locate executable file: yarn. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]Run node --version && yarn --version && yarn install, 1.1142105013051158, , , , 107012, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/ruoyi-vue-pro/ruoyi-vue-pro/yudao-ui-admin'. No such file or directory
+##[group]Run yarn build:prod, 6.861954913778683, , , , 674691, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/ruoyi-vue-pro/ruoyi-vue-pro/yudao-ui-admin'. No such file or directory
+##[group]GITHUB_TOKEN Permissions__dup_12, 106.32795374521244, , , , 2614600, False, 
+##[group]Run actions/checkout@v2__dup_13, 10.841536498158757, , , , 181480, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 11.196531582577745, , , , 204082, False, 
+##[group]Cleaning the repository, 28.213200884206227, , , , 70358, False, 
+##[group]Setting up auth, 4.878077388415559, , , , 152320, False, 
+##[group]Fetching the repository__dup_17, 18.65616602888513, , , , 496053, False, 
+##[group]Checking out the ref__dup_18, 2.584389023138496, , , , 33347, False, 
+##[group]Run pnpm/action-setup@v2.0.1__dup_19, 2.2021076289256523, , , , 137070, False, 
+##[group]Running self-installer...__dup_20, 9.099131173564038, , , , 1119706, False, 
+##[group]Run actions/setup-node@v2__dup_21, 4.80560934028076, , , , 212940, True, ##[error]Unable to locate executable file: yarn. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]Run yarn build:prod__dup_22, 15.815976265868455, , , , 600461, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/ruoyi-vue-pro/ruoyi-vue-pro/yudao-ui-admin'. No such file or directory

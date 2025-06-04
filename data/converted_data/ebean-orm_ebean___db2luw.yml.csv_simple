@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -T 8 clean test -Dprops.file=testconfig/ebean-db2.properties,7878.40002276204,690616859,True,[ERROR[m] java.lang.NullPointerException
+##[group]Run actions/cache@v3,460.9285456354484,38670892,False,
+##[group]Cleaning the repository,76.83225901188555,838679,False,
+##[group]GITHUB_TOKEN Permissions,74.27304248838247,3614587,False,
+##[group]Removing previously created refs_ to avoid conflicts,49.00227916962563,505883,False,
+##[group]Fetching the repository,33.6593157260947,792111,False,
+##[group]Run actions/checkout@v3,20.864449833788093,159048,False,
+##[group]Setting up auth,7.634390406603112,85935,False,
+##[group]Checking out the ref,5.568320741442141,130510,False,

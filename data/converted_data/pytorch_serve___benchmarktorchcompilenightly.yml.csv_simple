@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run chmod +x benchmarks/benchmark_model_dependencies.sh,4731.685813196968,349028342,True,##[error]Process completed with exit code 100.
+##[group]Installed versions,457.3856728735136,33890952,True,##[error]WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+##[group]Installed distributions,316.72527619914365,26162749,False,
+##[group]==END_FILE==,228.38105948307344,5154877,False,
+##[group]GITHUB_TOKEN Permissions,92.48343989750312,6442237,False,
+##[group]Fetching the repository,46.16197490221539,8476307,False,
+##[group]Run python benchmarks/auto_benchmark.py --input benchmarks/benchmark_config_torch_compile_gpu.yaml --skip false --nightly True,35.455130132617064,2913402,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts,21.731738609126985,1976266,False,
+"##[group]Run echo ""Cleaning up previous run""",19.669664140891854,264598,False,
+##[group]Run sudo apt-get update -y,12.65675808146092,1294274,False,
+##[group]Fetching submodules,10.397139684336723,381974,False,
+##[group]Cleaning the repository,8.95798133813305,555044,False,
+##[group]Persisting credentials for submodules,3.647756909161445,205187,False,
+##[group]Setting up auth,3.403083536704417,175572,False,
+##[group]Getting Git version info,2.020330748235535,60266,False,
+##[group]Run actions/checkout@v3,1.829521393418318,144979,False,
+##[group]Checking out the ref,1.7269549501311705,100278,False,

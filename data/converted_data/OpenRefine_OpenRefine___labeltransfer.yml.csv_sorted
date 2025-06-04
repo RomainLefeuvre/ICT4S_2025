@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 62.37866968279423, , , , 4783678, False, 
+##[group]Run python -m pip install --upgrade pip setuptools, 51.258989282143126, , , , 15482889, False, 
+##[group]Fetching the repository, 20.805162219779973, , , , 2634121, False, 
+##[group]GITHUB_TOKEN Permissions, 11.274910295203393, , , , 2387988, False, 
+##[group]Run python .github/workflows/label_transfer/script.py , 7.375963289366547, , , , 776320, True, ##[error]Process completed with exit code 1.
+##[group]Checking out the ref, 5.858505258920665, , , , 607139, False, 
+##[group]Run actions/checkout@v4, 1.269986475881422, , , , 230113, False, 
+##[group]Installed versions, 1.048006510375469, , , , 78251, False, 
+##[group]Setting up auth, 0.6515137688381014, , , , 54300, False, 

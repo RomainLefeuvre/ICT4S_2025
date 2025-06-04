@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,54.87829820431503,2162410,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/articulate/actions-markdownlint/v1/Dockerfile'.,39.37951245796871,25474478,False,
+##[group]Run articulate/actions-markdownlint@v1,4.576816011226514,6938030,False,
+##[group]Fetching the repository,1.0284230242963377,426405,False,
+##[group]Run actions/checkout@cd7d8d697e10461458bc61a30d094dc601a8b017,0.4113443127130767,187070,False,
+##[group]Setting up auth,0.2356750895251069,83777,False,
+##[group]Cleaning the repository,0.2271028229055159,90618,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.2185305562859248,22217,False,
+Requested labels: self-hosted,0.0,4436032,False,

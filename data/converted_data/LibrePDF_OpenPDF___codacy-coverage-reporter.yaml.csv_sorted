@@ -1,0 +1,17 @@
+##[group]Run mvn -B verify --file pom.xml, 3437.526664842157, , , , 901167920, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 824.4 s <<< FAILURE! -- in com.lowagie.text.pdf.PdfPrinterGraphics2DTest
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ openpdf ---, 131.8355837478518, , , , 6602866, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:compile (compile-java-17) @ openpdf ---, 93.97491679590787, , , , 3179942, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:report (report) @ openpdf-parent ---, 37.10877537107166, , , , 6587645, False, 
+[INFO] --- maven-bundle-plugin:5.1.9:manifest (bundle-manifest) @ openpdf ---, 33.749856071798874, , , , 1561953, False, 
+##[group]Fetching the repository, 32.24206242697392, , , , 2040969, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ openpdf ---, 16.989614357136276, , , , 729806, False, 
+##[group]GITHUB_TOKEN Permissions, 12.87565701212774, , , , 3899460, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ openpdf ---, 11.935413372216924, , , , 1791960, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:compile (compile-java-17) @ openpdf-parent ---, 9.287623208604735, , , , 1123311, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (default) @ openpdf-parent ---, 6.721773865223461, , , , 669553, False, 
+Requested labels: self-hosted, 5.039372281616553, , , , 5907270, False, 
+##[group]Checking out the ref, 4.770839762428574, , , , 295988, False, 
+##[group]Run set -eux, 4.703861708254372, , , , 3569822, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 3.230924821818601, , , , 194571, False, 
+##[group]Run actions/checkout@v4, 2.965364017130055, , , , 199904, False, 
+[INFO] --- maven-bundle-plugin:5.1.9:manifest (bundle-manifest) @ openpdf-parent ---, 0.7670466981222926, , , , 12696, False, 

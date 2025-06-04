@@ -1,0 +1,43 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (1018.1 files/s 462767.2 lines/s)"
+C++,/tmp/clone_directory/svm.cpp,358,147,2807
+m4,/tmp/clone_directory/java/libsvm/svm.m4,325,0,2647
+Java,/tmp/clone_directory/java/libsvm/svm.java,330,136,2506
+HTML,/tmp/clone_directory/FAQ.html,141,112,2003
+Java,/tmp/clone_directory/java/svm_toy.java,55,9,423
+C,/tmp/clone_directory/matlab/svmtrain.c,53,20,422
+C++,/tmp/clone_directory/svm-toy/windows/svm-toy.cpp,54,6,422
+Python,/tmp/clone_directory/python/libsvm/svm.py,61,9,381
+Python,/tmp/clone_directory/tools/grid.py,75,44,381
+C++,/tmp/clone_directory/svm-toy/qt/svm-toy.cpp,49,8,380
+C,/tmp/clone_directory/svm-scale.c,64,7,334
+C,/tmp/clone_directory/svm-train.c,42,5,333
+C,/tmp/clone_directory/matlab/svmpredict.c,37,11,325
+C,/tmp/clone_directory/matlab/svm_model_matlab.c,49,29,322
+Java,/tmp/clone_directory/java/svm_scale.java,41,7,302
+Java,/tmp/clone_directory/java/svm_train.java,30,4,284
+C,/tmp/clone_directory/svm-predict.c,30,2,213
+Java,/tmp/clone_directory/java/svm_predict.java,16,2,182
+C,/tmp/clone_directory/matlab/libsvmread.c,32,5,175
+Python,/tmp/clone_directory/python/libsvm/svmutil.py,38,73,154
+Python,/tmp/clone_directory/python/libsvm/commonutil.py,21,25,132
+C,/tmp/clone_directory/matlab/libsvmwrite.c,17,4,98
+Python,/tmp/clone_directory/python/setup.py,22,6,95
+Python,/tmp/clone_directory/tools/subset.py,21,21,78
+C/C++ Header,/tmp/clone_directory/svm.h,20,8,77
+Python,/tmp/clone_directory/tools/checkdata.py,21,17,70
+Python,/tmp/clone_directory/tools/easy.py,15,2,62
+Java,/tmp/clone_directory/java/libsvm/svm_parameter.java,5,3,39
+YAML,/tmp/clone_directory/.github/workflows/wheel.yml,7,4,33
+make,/tmp/clone_directory/Makefile,3,3,22
+make,/tmp/clone_directory/matlab/Makefile,12,5,22
+Windows Module Definition,/tmp/clone_directory/svm.def,0,0,21
+make,/tmp/clone_directory/java/Makefile,6,2,18
+MATLAB,/tmp/clone_directory/matlab/make.m,0,4,18
+Java,/tmp/clone_directory/java/libsvm/svm_model.java,2,5,16
+make,/tmp/clone_directory/svm-toy/qt/Makefile,4,2,13
+Java,/tmp/clone_directory/java/libsvm/svm_problem.java,0,0,7
+Java,/tmp/clone_directory/java/libsvm/svm_node.java,0,0,6
+Java,/tmp/clone_directory/java/libsvm/svm_print_interface.java,0,0,5
+make,/tmp/clone_directory/python/Makefile,1,0,3
+C/C++ Header,/tmp/clone_directory/matlab/svm_model_matlab.h,0,0,2
+SUM,,2057,747,15833

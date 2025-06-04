@@ -1,0 +1,18 @@
+##[group]==END_FILE==, 76.84845320725586, , , , 22630102, False, 
+##[group]GITHUB_TOKEN Permissions, 90.7354878636012, , , , 3856817, False, 
+##[group]Run actions/checkout@v2, 7.087979956681733, , , , 198240, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 11.05665796088747, , , , 300095, False, 
+##[group]Cleaning the repository, 3.798802793859789, , , , 23966, False, 
+##[group]Setting up auth, 3.8554278639751054, , , , 105309, False, 
+##[group]Fetching the repository, 20.12651537160527, , , , 472701, False, 
+##[group]Run actions/setup-java@v2, 12.755410064346956, , , , 230172, False, 
+##[group]Run actions/cache@v3, 79.35386769958032, , , , 1627582, False, 
+##[group]Run ./gradlew clean build --info --stacktrace --debug --refresh-dependencies, 5.497554897319273, , , , 118474, False, 
+##[group]Run ./gradlew --stop, 11.164985004984496, , , , 129662, False, 
+##[group]Run actions/checkout@v2__dup_12, 11.39148528544576, , , , 141394, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Setting up auth__dup_13, 5.780680247895854, , , , 64213, False, 
+##[group]Determining the default branch, 17.68179116437946, , , , 318258, False, 
+##[group]Fetching the repository__dup_15, 36.89245922187246, , , , 661619, False, 
+##[group]Checking out the ref, 6.346930949049016, , , , 66208, False, 
+##[group]Run actions/setup-python@v2, 19.55041847818489, , , , 308146, False, 
+##[group]Run docker-compose up -d keycloak, 120.41196662931816, , , , 1744803, True, ##[error]Process completed with exit code 127.

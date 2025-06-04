@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,60.52057019250803,4624739,False,
+##[group]Run actions/upload-artifact@v4__dup_15,48.53179351562946,1058825,False,
+##[group]Fetching the repository,39.8696419208864,444370,False,
+##[group]Run gradle/actions/setup-gradle@v3,34.39968081168959,432746,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.setup-gradle'"
+##[group]Run actions/upload-artifact@v4,22.46650305785038,280600,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"
+##[group]Run actions/upload-artifact@v4__dup_12,20.41526764190158,307208,False,
+##[group]Run actions/upload-artifact@v4__dup_13,18.364032225952773,282177,False,
+##[group]Run actions/upload-artifact@v4__dup_14,16.825605663991173,283152,False,
+##[group]Run actions/checkout@v4,10.907560045864804,155952,False,
+##[group]Getting Git version info,10.736623761202402,62122,False,
+##[group]Removing previously created refs_ to avoid conflicts,10.565687476540004,42234,False,
+##[group]Setting up auth,10.394751191877605,65726,False,
+##[group]Run ./gradlew spotlessCheck,8.001643206603996,137966,False,
+##[group]Run ./gradlew assembleRelease,7.830706921941595,107291,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"
+##[group]==END_FILE==,3.835179709949606,4045923,False,

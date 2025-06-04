@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,50.59803337202443,2170261,False,
+##[group]Run xvfb-run mvn -B formatter:validate,25.60941937737241,518980,True,##[error]Process completed with exit code 127.
+##[group]Fetching the repository,18.24289195926461,499360,False,
+##[group]Run actions/setup-java@v2,7.953265435397881,238862,False,
+##[group]Run actions/checkout@v2,6.495246209415578,190427,False,
+##[group]Setting up auth,3.4298755079555776,116676,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.356974546656462,19243,False,
+Requested labels: self-hosted,0.0411926469845244,4708731,False,

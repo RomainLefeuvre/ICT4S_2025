@@ -1,0 +1,18 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (1200.8 files/s 258387.0 lines/s)"
+Java,/tmp/clone_directory/src/main/java/org/mitre/dsmiley/httpproxy/ProxyServlet.java,95,231,531
+Java,/tmp/clone_directory/src/test/java/org/mitre/dsmiley/httpproxy/ProxyServletTest.java,98,64,528
+Maven,/tmp/clone_directory/pom.xml,36,17,308
+Markdown,/tmp/clone_directory/README.md,50,0,204
+Java,/tmp/clone_directory/src/test/java/org/mitre/dsmiley/httpproxy/ChunkedTransferTest.java,26,48,176
+Text,/tmp/clone_directory/LICENSE.txt,33,0,169
+Java,/tmp/clone_directory/src/test/java/org/mitre/dsmiley/httpproxy/ParallelConnectionsTest.java,19,25,96
+Java,/tmp/clone_directory/src/test/java/org/mitre/dsmiley/httpproxy/AcceptEncodingTest.java,18,28,89
+Java,/tmp/clone_directory/src/main/java/org/mitre/dsmiley/httpproxy/URITemplateProxyServlet.java,14,48,86
+Java,/tmp/clone_directory/src/test/java/org/mitre/dsmiley/httpproxy/ModifyHeadersProxyServletTest.java,17,18,67
+Java,/tmp/clone_directory/src/test/java/org/mitre/dsmiley/httpproxy/URITemplateProxyServletTest.java,13,21,66
+Markdown,/tmp/clone_directory/CHANGES.md,26,0,56
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,10,30,27
+YAML,/tmp/clone_directory/.github/workflows/maven.yml,7,2,23
+XML,/tmp/clone_directory/src/test/resources/log4j2.xml,4,1,14
+Text,/tmp/clone_directory/NOTICE.txt,1,0,3
+SUM,,467,533,2443

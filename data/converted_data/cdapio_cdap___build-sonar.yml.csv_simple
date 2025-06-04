@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/upload-artifact@v3,770.1118804897776,1309957,False,
+##[group]Run actions/upload-artifact@v2.2.2,581.6624803709713,1294799,False,
+##[group]Run mvn clean verify -fae -T 2 -B -V -Dmaven.test.failure.ignore -Dmaven.repo.local=$HOME/.m2/repository11 -DcloudBuild -Pcoverage_templates -Dmaven.wagon.http.retryHandler.count=3 -Dmaven.wagon.httpconnectionManager.ttlSeconds=25,274.8307287398948,17186727,True,[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+##[group]GITHUB_TOKEN Permissions,188.3526468027744,5039078,False,
+##[group]Run mvn org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -fae -T 2 -B -V -Dmaven.repo.local=$HOME/.m2/repository11 -DcloudBuild -Pcoverage_templates -Dmaven.wagon.http.retryHandler.count=3 -Dmaven.wagon.httpconnectionManager.ttlSeconds=25 -Dsonar.pullrequest.key= -Dsonar.pullrequest.branch= -Dsonar.pullrequest.base= -Dsonar.branch.name=,93.31176033289351,122868,True,##[error]Process completed with exit code 1.
+##[group]📦 Process test results,17.155035928772563,5363706,False,
+##[group]Run actions/cache@v3,16.124563621227598,1871124,False,
+##[group]Fetching the repository,10.35007326381908,5964246,False,
+##[group]Checking out the ref,6.33973466778489,977615,False,
+##[group]Run actions/cache@v3__dup_12,5.541425806321464,581125,False,
+##[group]Setting up auth,2.174338348006072,211433,False,
+##[group]Fetching submodules,1.692156321518938,1145827,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run marocchino/action-workflow_run-status@54b6e87d6cb552fc5f36dbe9a722a6048725917a,1.133363366267221,164528,True,##[error]This is not workflow_run event: eventName=repository_dispatch
+##[group]Run actions/checkout@v3,1.1128326141498053,158170,False,
+##[group]Getting Git version info,1.1025672380910978,9572,False,
+##[group]Setting up auth for fetching submodules,0.5519217552607841,22645,False,
+Requested labels: self-hosted,0.0,6573319,False,

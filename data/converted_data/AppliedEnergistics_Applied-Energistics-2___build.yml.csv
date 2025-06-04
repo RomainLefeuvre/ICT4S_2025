@@ -1,0 +1,15 @@
+Requested labels: self-hosted, 0.1243407171918056, , , , 4092435, False, 
+##[group]GITHUB_TOKEN Permissions, 128.67828603702185, , , , 2322450, False, 
+##[group]Run actions/checkout@v3, 7.832591323992635, , , , 165197, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.992440126523096, , , , 37620, False, 
+##[group]Setting up auth, 8.152288929053558, , , , 65100, False, 
+##[group]Fetching the repository, 34.20764374151886, , , , 433820, False, 
+##[group]Checking out the ref, 96.70852553092948, , , , 1012374, False, 
+##[group]Run echo "TAG=${TAG}" >> $GITHUB_ENV, 12.94775300496742, , , , 6053, False, 
+##[group]Run gradle/gradle-build-action@v2, 41.24099105285918, , , , 295094, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'
+##[group]Run ./gradlew runData, 14.06669462268065, , , , 98860, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Run ./gradlew build, 14.386392227741576, , , , 105103, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Run ./gradlew runGametest, 14.546241030272036, , , , 99032, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Run npx junit-report-merger junit.xml "**/TEST-*.xml", 166.628936605106, , , , 9813334, False, 
+##[group]Run actions/upload-artifact@v4, 6.575519214317285, , , , 1334132, False, 
+##[group]Run actions/upload-artifact@v4__dup_15, 4.885571233470132, , , , 1054405, False, 

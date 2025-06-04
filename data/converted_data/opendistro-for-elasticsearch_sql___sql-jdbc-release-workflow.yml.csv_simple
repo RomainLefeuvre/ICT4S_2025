@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/checkout@v1,363.6238429367045,1992349,False,
+##[group]Run ./gradlew publishShadowPublicationToInternal-releasesRepository '-Dorg.gradle.jvmargs=--add-modules java.xml.bind' -Dbuild.snapshot=false,220.4540521953788,46784520,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,149.47643539525768,2736113,False,
+> Task :compileJava,68.17388643327531,1299842,False,
+> Task :classes,53.33609428980883,5299689,False,
+> Task :signShadowPublication SKIPPED,39.33225418321675,7100411,False,
+> Task :publishShadowPublicationToInternal-releasesRepository,39.12022823549711,9916902,False,
+> Task :javadocJar,37.91667381982429,2500379,False,
+##[group]Run aws-actions/configure-aws-credentials@v1__dup_12,20.533389656460223,5206256,True,"##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers"
+"##[group]Run jar=`ls -1t build/libs/*.jar | grep -v ""SNAPSHOT.jar"" | grep -v ""sources.jar"" | head -1`",5.078275805989024,399289,True,##[error]Process completed with exit code 127.
+> Task :shadowJar,3.300577697725809,99947,False,
+##[group]Run aws-actions/configure-aws-credentials@v1,3.1813599012054747,6610835,True,"##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers"
+##[group]Run actions/setup-java@v1,1.0184491426129698,415486,False,

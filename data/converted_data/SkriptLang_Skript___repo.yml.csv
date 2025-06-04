@@ -1,0 +1,12 @@
+##[group]==END_FILE==, 0.0548879805251584, , , , 4898267, False, 
+##[group]GITHUB_TOKEN Permissions, 1.6111644089734498, , , , 2980167, False, 
+##[group]Run actions/checkout@v4, 0.0773358916307256, , , , 139892, False, 
+##[group]Getting Git version info, 0.0787680377720353, , , , 5063, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.080200183913345, , , , 114672, False, 
+##[group]Setting up auth, 0.0816323300546548, , , , 150597, False, 
+##[group]Fetching the repository, 0.4296438423929199, , , , 463516, False, 
+##[group]Fetching submodules, 0.0902252069025132, , , , 94134, False, 
+##[group]Persisting credentials for submodules, 0.0916573530438229, , , , 122557, False, 
+##[group]Run gradle/wrapper-validation-action@v2, 0.0945216453264423, , , , 152458, False, 
+##[group]Installed distributions, 0.7318266782092737, , , , 656355, False, 
+##[group]Run ./gradlew publish, 0.8020018391334507, , , , 671003, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3-bin.zip.lck

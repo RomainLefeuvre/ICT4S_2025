@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run nev7n/wait_for_response@v1,1590.7477548002048,598156908,True,##[error]The operation was canceled.
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/nev7n/wait_for_response/v1/Dockerfile'.,286.029290520388,89202454,False,
+##[group]GITHUB_TOKEN Permissions,44.5813949449344,3612161,False,
+##[group]Fetching the repository,2.52733806064564,690409,False,
+##[group]Cleaning the repository,1.8828285776117328,823850,False,
+##[group]Setting up auth,0.3018978368831335,105392,False,
+##[group]Run actions/checkout@v3,0.2932557719184878,162879,False,
+Requested labels: self-hosted,0.2862307583435274,4607304,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.1688093075197995,69376,False,

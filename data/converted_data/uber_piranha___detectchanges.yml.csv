@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.5335029265162272, , , , 5479166, False, 
+##[group]GITHUB_TOKEN Permissions, 16.574663372632884, , , , 2365810, False, 
+##[group]Run actions/checkout@v2, 8.469919656542288, , , , 3669560, False, 
+##[group]Getting Git version info, 0.7130848751530433, , , , 53354, False, 
+##[group]Setting up auth, 0.7401048708032189, , , , 119785, False, 
+##[group]Fetching the repository, 5.186624114775754, , , , 1370823, False, 
+##[group]Checking out the ref, 1.3368996721774875, , , , 91753, False, 
+##[group]Filter legacy = true, 5.134104701116224, , , , 300902, False, 

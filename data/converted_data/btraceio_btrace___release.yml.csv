@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.0, , , , 5224573, False, 
+##[group]GITHUB_TOKEN Permissions, 12.037889422880186, , , , 2771924, False, 
+##[group]Run actions/checkout@v4, 0.6198371247553482, , , , 174101, False, 
+##[group]Getting Git version info, 0.6307114602773719, , , , 18811, False, 
+##[group]Fetching the repository, 5.4371677610118265, , , , 762901, False, 
+##[group]Determining the checkout info, 0.7285804799755847, , , , 76268, False, 
+##[group]Checking out the ref, 0.7394548154976084, , , , 68159, False, 
+##[group]Run echo ::set-output name=SOURCE_NAME::${GITHUB_REF#refs/*/}, 0.7503291510196322, , , , 36266, False, 
+##[group]Run ./gradlew :btrace-dist:build, 60.75998363689604, , , , 25660987, True, ##[error]Process completed with exit code 1.
+##[group]Run softprops/action-gh-release@v2, 26.36815389713597, , , , 909000, False, 
+##[group]Run ./gradlew :btrace-dist:publishAllPublicationsToMavenRepository, 32.84678245292779, , , , 1073113, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :btrace-dist:sdkMinorRelease, 30.260385844698963, , , , 1580594, True, ##[error]Process completed with exit code 1.

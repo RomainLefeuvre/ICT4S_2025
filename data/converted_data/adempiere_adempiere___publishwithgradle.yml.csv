@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.0, , , , 4499527, False, 
+##[group]GITHUB_TOKEN Permissions, 6.458359404872579, , , , 2100207, False, 
+##[group]Run actions/checkout@v3, 0.8745695027431616, , , , 177113, False, 
+##[group]Initializing the repository, 0.4517007321860286, , , , 146561, False, 
+##[group]Setting up auth, 0.4613113860623271, , , , 79348, False, 
+##[group]Fetching the repository, 379.2514946336784, , , , 51221850, False, 
+##[group]Checking out the ref, 61.50368506204229, , , , 5659999, False, 
+##[group]Installed distributions, 6.272130649786384, , , , 2036441, False, 
+##[group]Run gradle publish, 246.7011462798728, , , , 39732746, True, ##[error]Process completed with exit code 1.

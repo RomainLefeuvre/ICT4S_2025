@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,103.61973274458688,12432335,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/aquasecurity/trivy-action/595be6a0f6560a0a8fc419ddf630567fc623531d/Dockerfile'.,80.55687339608274,35398669,False,
+##[group]Waiting for processing to finish,28.855195263560912,6414856,False,
+##[group]Run aquasecurity/trivy-action@595be6a0f6560a0a8fc419ddf630567fc623531d,17.336246035526916,5050567,False,
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6,10.252093848820987,867345,False,
+##[group]Removing previously created refs_ to avoid conflicts,7.896217413609924,524503,False,
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_5,7.177722210245302,67778,False,
+##[group]Fetching the repository,4.742654586999751,438752,False,
+##[group]Uploading results,3.635092608529201,385241,False,
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29,1.3920869124318218,145212,False,
+##[group]Setting up auth,1.2399855587714863,66784,False,
+##[group]==END_FILE==,0.0,4993464,False,

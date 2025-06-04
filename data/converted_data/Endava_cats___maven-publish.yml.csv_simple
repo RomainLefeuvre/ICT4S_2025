@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,133.2632211122249,2208542,False,
+##[group]Run actions/setup-java@v1,112.2159713227208,18014721,False,
+##[group]Fetching the repository,47.50264015996982,431493,False,
+##[group]Run actions/checkout@v2,17.32603011724399,191098,False,
+##[group]Cleaning the repository,8.942186049745985,71817,False,
+##[group]Run mvn deploy -s $GITHUB_WORKSPACE/settings.xml,2.105969043954462,413359,True,##[error]Process completed with exit code 1.
+##[group]Run mvn -B clean --file pom.xml,0.5502545479005663,58601,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,0.0435716688917148,3695072,False,

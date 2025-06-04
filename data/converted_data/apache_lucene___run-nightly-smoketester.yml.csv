@@ -1,0 +1,20 @@
+Requested labels: self-hosted, 16916.34619139041, , , , 745379679, False, 
+##[group]GITHUB_TOKEN Permissions, 18.3163252082468, , , , 3279571, False, 
+##[group]Run actions/checkout@v4, 2.307329161386196, , , , 139706, False, 
+##[group]Cleaning the repository, 8.403964370601988, , , , 385274, False, 
+##[group]Fetching the repository, 9.178496449951565, , , , 452409, False, 
+##[group]Installed distributions, 71.43381714999941, , , , 16653026, False, 
+##[group]Run echo "All installed JDKs:", 0.7770665052457675, , , , 66199, False, 
+##[group]Run # Assemble an unsigned release_ in dev mode_ publish locally., 6195.882001670273, , , , 310463451, True, ##[error]Process completed with exit code 2.
+##[group]Run python3 -u dev-tools/scripts/smokeTestRelease.py \\, 10333.869479752471, , , , 394617354, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4, 129.63492557664966, , , , 5927446, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 32.863099344224125, , , , 3213102, False, 
+##[group]Run actions/checkout@v4__dup_12, 3.708040338717252, , , , 153215, False, 
+##[group]Cleaning the repository__dup_13, 37.072811306771, , , , 1283830, False, 
+##[group]Setting up auth, 2.4413404553892653, , , , 75815, False, 
+##[group]Fetching the repository__dup_15, 11.660400055814168, , , , 578918, False, 
+##[group]Installed distributions__dup_16, 627.1364209435135, , , , 54702075, False, 
+##[group]Run echo "All installed JDKs:"__dup_17, 1.0571068729533175, , , , 126695, False, 
+##[group]Run # Assemble an unsigned release_ in dev mode_ publish locally.__dup_18, 5.463639881684151, , , , 157025, True, ##[error]Process completed with exit code 2.
+##[group]Run python3 -u dev-tools/scripts/smokeTestRelease.py \\__dup_19, 18.57913168795776, , , , 888730, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_20, 121.32355027570551, , , , 5915220, False, 

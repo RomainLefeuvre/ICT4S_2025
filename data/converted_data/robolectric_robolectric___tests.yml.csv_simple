@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Restore Gradle state from cache,423.3088629141637,50513231,False,
+##[group]Run SKIP_ERRORPRONE=true SKIP_JAVADOC=true \\,259.6433285720312,20277703,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar,259.6433285720312,11248438,False,
+Requested labels: self-hosted,76.97847880983736,3935828,False,
+##[group]GITHUB_TOKEN Permissions,50.30329439706092,5343581,False,
+##[group]Caching Gradle state,14.395259218276546,3823490,False,
+##[group]Run gradle/actions/setup-gradle@v3,6.882712605130525,419839,False,
+##[group]Fetching the repository,6.820977305559133,450461,False,
+> Task :buildSrc:classes UP-TO-DATE,3.410740443781859,99704,False,
+##[group]Run actions/checkout@v4,3.3911963716635056,189283,False,
+##[group]Setting up auth,1.7004212561107683,68988,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.698492027999162,18580,False,

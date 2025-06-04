@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions__dup_6,32.61062880703312,8090225,False,
+##[group]==END_FILE==,26.527518280642504,6562843,False,
+##[group]Run dawidd6/action-download-artifact@v3.0.0__dup_7,18.373711448168816,929721,True,##[error]no matching workflow run found with any artifacts?
+##[group]Run scacap/action-surefire-report@v1.7.3__dup_8,18.352370979094864,1050435,False,
+##[group]Run scacap/action-surefire-report@v1.7.3,17.244543022455655,1343276,False,
+##[group]Run dawidd6/action-download-artifact@v3.0.0,12.103414831155636,986901,True,##[error]no matching workflow run found with any artifacts?
+Requested labels: self-hosted,6.330981435974489,5451833,False,
+##[group]GITHUB_TOKEN Permissions,5.476270936558898,8581388,False,

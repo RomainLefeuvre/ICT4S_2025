@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,75.69522410904379,16028065,False,
+"##[group]Run ./gradlew :app:assemble --build-cache --no-daemon --stacktrace --gradle-user-home ""$GRADLE_HOME""",40.948170004719685,4551526,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.6.1-bin/du4tvj86lhti6iga1v8h7pckb/gradle-6.6.1-bin.zip.lck"
+##[group]Run actions/cache@v2,16.999614532233476,1182323,False,
+"##[group]Run ls -lhrt ""$GRADLE_HOME/caches"" || true",1.30256887498264,57438,False,

@@ -1,0 +1,9 @@
+##[group]Building docker image, 356.21468513690473, , , , 108972872, False, 
+##[group]GITHUB_TOKEN Permissions, 58.64186008462143, , , , 2056486, False, 
+##[group]Fetching the repository, 33.984562390274, , , , 6184117, False, 
+##[group]Checking out the ref, 27.03374762132325, , , , 729791, False, 
+##[group]==END_FILE==, 15.360447571913095, , , , 5815490, False, 
+##[group]Run echo 'Below shows a list of changed file paths', 6.203000814512969, , , , 39230, False, 
+##[group]Run trilom/file-changes-action@master, 5.44303942275833, , , , 225370, False, 
+##[group]Run actions/checkout@v2, 5.408983510857555, , , , 162661, True, ##[error]There was an issue inferring inputs to the action.
+##[group]Setting up auth, 2.695977777453584, , , , 62029, False, 

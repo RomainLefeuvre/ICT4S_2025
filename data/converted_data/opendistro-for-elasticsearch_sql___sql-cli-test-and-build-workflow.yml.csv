@@ -1,0 +1,14 @@
+Requested labels: self-hosted, 0.0, , , , 5025332, False, 
+##[group]GITHUB_TOKEN Permissions, 49.51216471726204, , , , 4547639, False, 
+##[group]Run actions/checkout@v2, 16.806702852826135, , , , 169284, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 32.95926104367147, , , , 405536, False, 
+##[group]Cleaning the repository, 39.97255506337533, , , , 480071, False, 
+##[group]Setting up auth, 7.830974847179863, , , , 84690, False, 
+##[group]Fetching the repository, 38.33719340842332, , , , 485576, False, 
+##[group]Run actions/setup-python@v2, 22.348171383073183, , , , 227228, False, 
+##[group]Run python -m pip install --upgrade pip, 161.59787251418885, , , , 41009429, False, 
+##[group]Run sudo add-apt-repository ppa:openjdk-r/ppa, 107.52508726959316, , , , 21645843, True, ##[error]Process completed with exit code 100.
+##[group]Run tox, 271.3858288354333, , , , 31532561, False, 
+##[group]Run sudo systemctl stop elasticsearch.service, 1.896383113653492, , , , 35906, True, ##[error]Process completed with exit code 5.
+##[group]Run python setup.py sdist bdist_wheel, 9.525133380228898, , , , 567930, False, 
+##[group]Run actions/upload-artifact@v2, 18.365914662428004, , , , 1970633, False, 

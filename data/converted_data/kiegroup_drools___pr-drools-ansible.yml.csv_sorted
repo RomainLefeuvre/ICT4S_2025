@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 81.00029278741728, , , , 8303261, False, 
+##[group]==END_FILE==, 39.50811481570252, , , , 5424877, False, 
+##[group]Run actions/setup-java@v2, 23.310641053862145, , , , 1998727, False, 
+##[group]Run kiegroup/github-action-build-chain@v3, 6.236803506696087, , , , 875071, False, 
+##[group]Run actions/cache@v2, 4.763782516817038, , , , 1308317, False, 
+##[group]Run whelk-io/maven-settings-xml-action@v21, 0.8878119193752247, , , , 92211, False, 

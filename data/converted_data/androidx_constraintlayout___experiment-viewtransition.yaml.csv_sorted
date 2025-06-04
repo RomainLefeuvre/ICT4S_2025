@@ -1,0 +1,11 @@
+##[group]Run actions/setup-java@v1, 53.99960467012894, , , , 16484842, False, 
+##[group]Run actions/cache@v2, 31.837726946431296, , , , 1227268, False, 
+##[group]Run ./gradlew :app:assemble --build-cache --no-daemon --stacktrace --gradle-user-home "$GRADLE_HOME", 12.6405856356487, , , , 4405760, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.6.1-bin/du4tvj86lhti6iga1v8h7pckb/gradle-6.6.1-bin.zip.lck
+##[group]GITHUB_TOKEN Permissions, 6.7334900099177855, , , , 3408673, False, 
+##[group]Run gradle/wrapper-validation-action@v1, 4.7439730227659895, , , , 1332781, False, 
+##[group]Fetching the repository, 1.277563124503126, , , , 443185, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.8934715035411812, , , , 304748, False, 
+##[group]Run actions/checkout@v2, 0.5716843950140601, , , , 184402, False, 
+##[group]Checking out the ref, 0.3313724181324785, , , , 31297, False, 
+##[group]Setting up auth, 0.3074091441190846, , , , 71739, False, 
+##[group]==END_FILE==, 0.0678811625161163, , , , 4897235, False, 

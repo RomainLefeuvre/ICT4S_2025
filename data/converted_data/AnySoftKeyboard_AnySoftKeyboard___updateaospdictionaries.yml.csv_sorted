@@ -1,0 +1,9 @@
+##[group]Fetching the repository, 314.0371146526293, , , , 17336480, False, 
+##[group]Running self-installer..., 29.688037556743836, , , , 1964292, False, 
+##[group]Environment details, 27.08334038977164, , , , 2028185, False, 
+##[group]Checking out the ref, 17.34384350969977, , , , 1023361, False, 
+##[group]Running pnpm recursive install..., 17.05013566473497, , , , 1027630, False, 
+##[group]Run actions/setup-node@v4.0.2, 16.69983142960413, , , , 4815262, True, ##[error]Command pnpm recursive install (cwd: undefined) exits with status 1
+##[group]Running pnpm store prune..., 9.161859525583155, , , , 860572, True, ##[error]Input 'token' not supplied. Unable to continue.
+##[group]Run pnpm build, 8.109626632363497, , , , 712311, False, 
+##[group]Run peter-evans/create-pull-request@v6.0.4, 4.353004964138209, , , , 383986, True, ##[error]Process completed with exit code 1.

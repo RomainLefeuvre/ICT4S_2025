@@ -1,0 +1,13 @@
+##[group]Run tools/test-cli-fatjar/test.sh, 1129.2139980403897, , , , 62013948, False, 
+##[group]Run mvn install -D skipTests --no-transfer-progress, 236.60969731209613, , , , 49904058, True, [ERROR[m] MavenReportException: Error while generating Javadoc: Unable to find javadoc command: The environment variable JAVA_HOME is not correctly set.
+##[group]Run tools/test-cli-version/test.sh, 227.5476535437916, , , , 9681116, False, 
+##[group]Run actions/cache@v2, 166.72151786074514, , , , 1500391, False, 
+##[group]Run scripts/download_driver_for_all_platforms.sh, 155.24088866472445, , , , 17420921, False, 
+##[group]GITHUB_TOKEN Permissions, 154.70902994916358, , , , 2669745, False, 
+##[group]Run mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -f playwright/pom.xml  -D exec.args=-V, 50.7382838250884, , , , 12263226, False, 
+##[group]Fetching the repository, 35.90673600599218, , , , 483596, False, 
+##[group]Run actions/checkout@v2, 16.369602183822035, , , , 191787, False, 
+##[group]Checking out the ref, 9.372625456291557, , , , 24279, False, 
+##[group]Setting up auth, 8.58074254670453, , , , 62174, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 8.422365964787126, , , , 40193, False, 
+Requested labels: self-hosted, 0.1420356158233464, , , , 4091327, False, 

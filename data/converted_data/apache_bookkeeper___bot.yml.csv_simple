@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,117.73850014643833,2062400,False,
+##[group]==END_FILE==,36.9833004307247,4435697,False,
+##[group]Fetching the repository,23.135492506467884,455893,False,
+##[group]Run actions/github-script@v7,17.240809983818536,409388,True,##[error]Unhandled error: Error: Input required and not supplied: github-token
+##[group]Run actions/checkout@v4,4.915185778874434,164734,False,
+##[group]Getting Git version info,4.857568323358263,3012,False,
+##[group]Cleaning the repository,4.799950867842092,43110,False,

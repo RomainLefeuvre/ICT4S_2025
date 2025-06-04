@@ -1,0 +1,6 @@
+##[group]Restore Gradle state from cache, 70.15626802512642, , , , 2107118, True, ##[error]Error: Cannot locate Gradle Wrapper script at '/home/power/actions-runner/_work/ByteLegend/ByteLegend/gradlew'. Specify 'gradle-version' or 'gradle-executable' for projects without Gradle wrapper configured.
+##[group]Caching Gradle state, 63.36116024209296, , , , 1553026, False, 
+##[group]GITHUB_TOKEN Permissions, 49.1273413374543, , , , 2641496, False, 
+##[group]Run actions/checkout@v3, 5.160305828509618, , , , 161302, True, ##[error]Input required and not supplied: token
+##[group]Run gradle/gradle-build-action@v2, 2.653761471055618, , , , 973, False, 
+Requested labels: self-hosted, 0.3045574938908765, , , , 4460843, False, 

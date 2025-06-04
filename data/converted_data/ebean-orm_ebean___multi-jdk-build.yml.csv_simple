@@ -1,0 +1,27 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_3,8437.506165168554,491647210,False,
+##[group]Run mvn package__dup_26,4172.720191201349,163366127,True,"[ERROR[m] MavenInvocationException: Error when invoking Maven, consult the invoker log file: /home/power/actions-runner/_work/ebean/ebean/ebean-core/target/invoker/maven-javadoc-plugin1949176310.txt"
+Requested labels: self-hosted,3957.417835468744,258858813,False,
+##[group]Run mvn package__dup_18,3804.234721657901,157435029,True,"[ERROR[m] MavenInvocationException: Error when invoking Maven, consult the invoker log file: /home/power/actions-runner/_work/ebean/ebean/ebean-core/target/invoker/maven-javadoc-plugin568136027.txt"
+##[group]Run mvn package,3335.959863887746,177100860,True,"[ERROR[m] MavenInvocationException: Error when invoking Maven, consult the invoker log file: /home/power/actions-runner/_work/ebean/ebean/ebean-core/target/invoker/maven-javadoc-plugin1994818415.txt"
+##[group]Run actions/cache@v3__dup_16,555.1353567763107,58744920,False,
+##[group]Run actions/cache@v3__dup_24,544.6795765560972,58926536,False,
+##[group]Run actions/cache@v3,517.4718557472079,55626964,False,
+##[group]GITHUB_TOKEN Permissions,100.06850701580464,3418028,False,
+##[group]Run mvn --version__dup_25,23.93827371926031,1185522,False,
+##[group]Fetching the repository,23.479391930344114,436694,False,
+##[group]GITHUB_TOKEN Permissions__dup_19,18.40238319052239,3052952,False,
+##[group]Run mvn --version__dup_17,14.998716097764577,1698411,False,
+##[group]GITHUB_TOKEN Permissions__dup_11,14.502055909715144,3428027,False,
+##[group]Fetching the repository__dup_22,14.331091132295382,473474,False,
+##[group]Cleaning the repository,13.293965571828638,255302,False,
+##[group]Cleaning the repository__dup_13,8.134137375490504,289851,False,
+##[group]Cleaning the repository__dup_21,7.247062596806706,282710,False,
+##[group]Fetching the repository__dup_15,6.744649067032199,467662,False,
+##[group]Run actions/checkout@v3,4.232904460681756,180187,False,
+##[group]Run actions/checkout@v3__dup_20,2.7358750642655814,186163,False,
+##[group]Run actions/checkout@v3__dup_12,2.593802767594759,179858,False,
+##[group]Run mvn --version,2.1534037223475115,234397,False,
+##[group]Disabling automatic garbage collection,1.5712479427597683,5028,False,
+##[group]Installed distributions,1.0256461868548312,31873,False,
+Requested labels: self-hosted__dup_2,0.0230726142704973,5324632,False,

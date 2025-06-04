@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw -B versions:set -DnewVersion=3.0.5,419.64802130100577,38688305,True,"[ERROR] Failed to execute goal org.apache.maven.plugins:maven-release-plugin:3.0.1:prepare (default-cli) on project gctoolkit: Maven execution failed, exit code: 1 -> [Help 1]"
+##[group]GITHUB_TOKEN Permissions,315.55880596537213,5487134,False,
+##[group]Run release_version=$(./mvnw help:evaluate -Dexpression=project.version -q -DforceStdout),159.86765166435276,15995969,False,
+##[group]Fetching the repository,145.0295522366104,1318571,False,
+[INFO] --- versions:2.16.2:set (default-cli) @ gctoolkit ---,108.7710984477004,5435772,False,
+##[group]Run actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9,102.42380099347432,789612,False,
+##[group]Cleaning the repository,88.9302089538776,937120,False,
+##[group]Run export GPG_TTY=$(tty),35.457289615242054,14953418,True,[INFO] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.2:sign (default) on project gctoolkit: Exit code: 2 -> [Help 1]
+[INFO] [INFO] --- source:3.3.0:jar-no-fork (attach-sources) @ gctoolkit ---,23.82678716496134,620643,False,
+[INFO] [INFO] --- javadoc:3.6.3:jar (attach-javadocs) @ gctoolkit ---,21.15586019697591,3447569,False,
+[INFO] [INFO] --- enforcer:3.4.1:enforce (enforce-maven) @ gctoolkit ---,18.663339913808723,520575,False,
+##[group]Removing previously created refs_ to avoid conflicts,18.381034825592383,230653,False,
+[INFO] [INFO] --- clean:3.3.2:clean (default-clean) @ gctoolkit ---,18.14406485481556,570025,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,17.956039800723193,162118,False,
+[INFO] [INFO] --- gpg:3.2.2:sign (default) @ gctoolkit ---,17.60984867104464,3532854,True,[INFO] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.2:sign (default) on project gctoolkit: Exit code: 2 -> [Help 1]
+[INFO] --- release:3.0.1:prepare (default-cli) @ gctoolkit ---,14.30142941826614,4956632,False,
+##[group]Installed distributions,13.706089552031315,67772,False,
+##[group]Checking out the ref,11.899860696337266,20197,False,
+##[group]Setting up auth,10.412378109295108,88402,False,
+##[group]==END_FILE==,0.0155538099168546,4955869,False,

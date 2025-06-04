@@ -1,0 +1,23 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw ${MAVEN_ARGS} -Pjacoco_sonar clean install \\,970.7794033393988,134592786,True,[ERROR] DOCKER> containerPath of copy goal entry for example:latest image is not specified
+##[group]Fetching the repository,497.46377562596393,2492101,False,
+[INFO] --- maven-surefire-plugin:3.0.0-M2:test (default-test) @ docker-maven-plugin ---,305.03974500044967,42657390,True,[ERROR] DOCKER> containerPath of copy goal entry for example:latest image is not specified
+##[group]GITHUB_TOKEN Permissions,147.4503506565017,2213058,False,
+[INFO] --- maven-plugin-plugin:3.6.0:helpmojo (help-goal) @ docker-maven-plugin ---,84.18155505828015,16471326,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ docker-maven-plugin ---,73.52894420566948,2445740,False,
+[INFO] --- jacoco-maven-plugin:0.7.9:instrument (instrument) @ docker-maven-plugin ---,56.43570362329098,7795270,False,
+[INFO] --- jacoco-maven-plugin:0.7.9:report (restore) @ docker-maven-plugin ---,26.92038805419512,645717,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ docker-maven-plugin ---,25.174153508567308,6797417,False,
+##[group]Run actions/checkout@v3,24.39457560609877,186146,False,
+##[group]Removing previously created refs_ to avoid conflicts,24.09484063402809,8284,False,
+##[group]Setting up auth,23.795105661957404,62745,False,
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ docker-maven-plugin ---,22.21445296697298,1539331,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (default-descriptor) @ docker-maven-plugin ---,13.277553894941812,1353423,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ docker-maven-plugin ---,10.979515891629063,1201194,False,
+[INFO] --- sortpom-maven-plugin:3.0.1:sort (default) @ docker-maven-plugin ---,10.042605850012288,674549,False,
+[INFO] --- plexus-component-metadata:2.1.0:generate-metadata (default) @ docker-maven-plugin ---,9.982624238576394,1739536,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (mojo-descriptor) @ docker-maven-plugin ---,9.556821430131116,1092720,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ docker-maven-plugin ---,6.658610128946902,776890,False,
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ docker-maven-plugin ---,2.4846573886090124,212520,False,
+[INFO] --- maven-resources-plugin:3.0.2:copy-resources (copy-asciidoc) @ docker-maven-plugin ---,1.2406836156932388,18328,False,
+Requested labels: self-hosted,0.1824695243788013,4952610,False,

@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --update-snapshots -e -V verify -pl :sort-core_:sort-end-to-end-tests-v1.15 -am -Pv1.15,18124.44950946331,799952923,True,"[ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 1.461 s <<< FAILURE![m - in org.apache.inlong.sort.tests.Mongodb2StarRocksTest[m"
+##[group]Run mvn --update-snapshots -e -V clean install -U -pl :sort-core_:sort-end-to-end-tests-v1.15 -am -Pv1.15 -DskipTests -Dhttp.keepAlive=false -Dmaven.wagon.http.pool=false -Dmaven.wagon.httpconnectionManager.ttlSeconds=120 -Daether.connector.http.reuseConnections=false -Daether.connector.requestTimeout=60000,10553.046176905176,789914295,False,
+##[group]Run mvn clean,2130.406853765848,214826914,False,
+##[group]Cleaning the repository,110.72620898541932,2363294,False,
+##[group]GITHUB_TOKEN Permissions,101.63609191024146,5591210,False,
+##[group]Run actions/cache@v3,38.71945863812601,608287,False,
+##[group]Fetching the repository,38.34674256474435,691801,False,
+##[group]Removing previously created refs_ to avoid conflicts,17.015991598037214,405909,False,
+##[group]Run actions/checkout@v3,8.259024643526717,167351,False,
+##[group]Installed distributions,5.851562813915599,117235,False,
+##[group]Checking out the ref,5.6440868510056905,47856,False,
+##[group]Setting up auth,5.312125310349837,82963,False,
+Requested labels: self-hosted,2.1300331379109134,4956683,False,

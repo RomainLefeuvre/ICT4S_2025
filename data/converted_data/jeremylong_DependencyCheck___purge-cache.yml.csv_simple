@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v4,185.1978893009743,16514030,False,
+##[group]GITHUB_TOKEN Permissions,43.161016351315794,2497722,False,
+##[group]Fetching the repository,14.762785443547068,481450,False,
+##[group]Run rm -rf ~/.m2/repository/org/owasp/dependency-check-data,11.078517269158436,1188641,False,
+##[group]Run actions/cache@v4__dup_9,6.394261885924128,623151,False,
+##[group]Setting up auth,5.529334184310358,143597,False,
+##[group]Run actions/cache@v4__dup_8,5.440795085343788,635529,False,
+##[group]Run actions/checkout@v4,5.207237047360239,169962,False,
+##[group]Cleaning the repository,2.6841428079176493,113610,False,
+Requested labels: self-hosted,0.0167165335857677,4650302,False,

@@ -1,0 +1,10 @@
+##[group]Run ./gradlew build, 177.20420448024095, , , , 32673813, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 76.50040112047256, , , , 17169570, False, 
+##[group]Initializing the repository, 8.878306004939517, , , , 587789, False, 
+##[group]Fetching the repository, 8.292978924428729, , , , 507237, False, 
+##[group]GITHUB_TOKEN Permissions, 5.541007887569868, , , , 4966884, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 5.306023879080301, , , , 263933, False, 
+##[group]Getting Git version info, 2.7392776520311304, , , , 157715, False, 
+##[group]Run actions/checkout@v4, 2.629198810556776, , , , 163080, False, 
+##[group]Setting up auth, 1.5760366537799797, , , , 85605, False, 
+Requested labels: self-hosted, 0.0318200599829662, , , , 5556324, False, 

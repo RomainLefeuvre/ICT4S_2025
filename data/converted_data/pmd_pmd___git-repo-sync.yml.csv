@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 9.002108431126096, , , , 4774038, False, 
+##[group]GITHUB_TOKEN Permissions, 121.18449389169704, , , , 1387919, False, 
+##[group]Run actions/checkout@v4, 22.29797134995901, , , , 192932, False, 
+##[group]Cleaning the repository, 11.522928234529674, , , , 56821, False, 
+##[group]Fetching the repository, 134.93687099312095, , , , 9181850, False, 
+##[group]Checking out the ref, 1.4271888934969212, , , , 29309, False, 
+##[group]Run .ci/git-repo-sync.sh, 9.459591943712615, , , , 723558, True, [ERROR  ] Unsupported event: repository_dispatch

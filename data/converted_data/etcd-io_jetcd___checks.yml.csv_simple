@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run bash ./.github/workflows/scripts/precheck.sh,6.428898309128116,1059413,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck"
+##[group]Fetching the repository,6.30733234045582,1527857,False,
+##[group]GITHUB_TOKEN Permissions,5.784458394402381,2131166,False,
+##[group]Installed distributions,3.071556536088149,549921,False,
+##[group]Run ./gradlew check -x test,1.6209095163053229,289051,False,
+##[group]Run actions/checkout@v4,0.7085512592099454,145385,False,
+##[group]Checking out the ref,0.4709369698148312,38060,False,
+##[group]Setting up auth,0.3700406755792779,70145,False,
+##[group]Getting Git version info,0.3637346571895558,115025,False,
+##[group]==END_FILE==,0.3052288724144786,4167972,False,

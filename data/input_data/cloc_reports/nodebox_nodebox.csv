@@ -1,0 +1,561 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.21 s (2601.7 files/s 333085.2 lines/s)"
+SVG,/tmp/clone_directory/examples/02 Topics/Mapping/Geocoding/map-equirectangular.svg,0,1,10983
+CSV,/tmp/clone_directory/examples/02 Topics/Data Visualisation/02 Time Stamp/arrested.csv,0,0,1578
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeBoxDocument.java,238,375,1348
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NetworkView.java,185,76,1030
+Python,/tmp/clone_directory/libraries/corevector/pyvector.py,143,52,935
+Java,/tmp/clone_directory/src/main/java/nodebox/node/Node.java,142,369,905
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/AbstractGraphicsContext.java,197,193,811
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Path.java,143,254,765
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodeLibraryUpgrades.java,118,58,752
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ColorDialog.java,101,33,702
+Java,/tmp/clone_directory/src/test/java/nodebox/node/NodeLibraryTest.java,64,48,698
+Python,/tmp/clone_directory/src/main/python/svg/__init__.py,129,54,690
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodeLibrary.java,95,67,613
+Java,/tmp/clone_directory/src/test/java/nodebox/node/NodeContextTest.java,81,21,612
+Java,/tmp/clone_directory/src/main/java/nodebox/node/Port.java,103,126,582
+SVG,/tmp/clone_directory/artwork/corevector/scatter.svg,0,1,535
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeBoxMenuBar.java,112,26,528
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ExamplesBrowser.java,78,12,464
+CSV,/tmp/clone_directory/examples/02 Topics/Mapping/Earthquakes/quakes.csv,0,0,444
+Java,/tmp/clone_directory/src/main/java/nodebox/function/CoreVectorFunctions.java,63,206,417
+Java,/tmp/clone_directory/src/test/java/nodebox/node/NodeLibraryControllerTest.java,49,34,415
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PortAttributesEditor.java,50,25,399
+Java,/tmp/clone_directory/src/main/java/nodebox/client/Application.java,69,73,388
+CSV,/tmp/clone_directory/examples/02 Topics/Data Visualisation/04 Zipmap/Metallica_Dataset.csv,0,0,361
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodeContext.java,55,56,352
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodeLibraryController.java,75,34,345
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeSelectionDialog.java,53,5,333
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeAttributesEditor.java,56,59,315
+Java,/tmp/clone_directory/src/main/java/nodebox/function/MathFunctions.java,61,37,311
+Java,/tmp/clone_directory/src/main/java/nodebox/client/Viewer.java,68,21,310
+XML,/tmp/clone_directory/libraries/corevector/corevector.ndbx,0,0,296
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/DraggableNumber.java,59,51,295
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Contour.java,57,111,282
+Text,/tmp/clone_directory/src/main/python/svg/LICENSE.txt,59,0,281
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Geometry.java,58,100,280
+Java,/tmp/clone_directory/src/main/java/nodebox/function/DataFunctions.java,30,42,279
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Text.java,53,12,277
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Color.java,54,100,273
+Ant,/tmp/clone_directory/build.xml,28,11,265
+Java,/tmp/clone_directory/src/main/java/nodebox/function/StringFunctions.java,43,78,258
+Java,/tmp/clone_directory/src/main/java/nodebox/function/ListFunctions.java,27,154,255
+Java,/tmp/clone_directory/src/main/java/nodebox/localhistory/Repository.java,35,148,253
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Theme.java,55,16,244
+Text,/tmp/clone_directory/LICENSE.txt,42,0,236
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NDBXWriter.java,42,93,231
+Python,/tmp/clone_directory/src/main/python/nodebox1/graphics/__init__.py,52,28,230
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ZoomableView.java,41,14,225
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/OSCDeviceHandler.java,34,1,221
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/AudioPlayerDeviceHandler.java,36,0,219
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/NButton.java,31,23,219
+Java,/tmp/clone_directory/src/main/java/nodebox/function/DeviceFunctions.java,35,0,208
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/GraphicsContext.java,167,138,197
+XML,/tmp/clone_directory/examples/01 Basics/05 String/Name Generator/Name Generator.ndbx,0,0,196
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Transform.java,43,12,195
+Java,/tmp/clone_directory/src/main/java/nodebox/client/CodeLibrariesDialog.java,35,0,194
+Java,/tmp/clone_directory/src/main/java/nodebox/client/Console.java,38,2,191
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/PathTest.java,28,56,191
+Java,/tmp/clone_directory/src/test/java/nodebox/function/ListFunctionsTest.java,29,2,187
+SVG,/tmp/clone_directory/artwork/string/characters.svg,0,1,184
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PortView.java,27,29,183
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/ContourTest.java,26,42,182
+Java,/tmp/clone_directory/src/main/java/nodebox/util/FileUtils.java,29,50,181
+XML,/tmp/clone_directory/libraries/math/math.ndbx,0,0,180
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Canvas.java,42,47,175
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/SVGRenderer.java,27,1,174
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ExportRangeDialog.java,28,15,172
+Java,/tmp/clone_directory/src/main/java/nodebox/movie/Movie.java,26,30,171
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ViewerPane.java,38,0,170
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Image.java,39,12,169
+SVG,/tmp/clone_directory/artwork/string/trim.svg,0,1,168
+Java,/tmp/clone_directory/src/test/java/nodebox/function/DataFunctionsTest.java,25,2,168
+Java,/tmp/clone_directory/src/test/java/nodebox/node/NodeTest.java,34,3,168
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeSettingsEditor.java,34,8,167
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeAttributesDialog.java,43,10,161
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/CanvasContext.java,48,75,161
+Java,/tmp/clone_directory/src/main/java/nodebox/client/FileUtils.java,21,21,157
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ColorWell.java,41,33,154
+XML,/tmp/clone_directory/examples/02 Topics/Data Visualisation/04 Zipmap/04 Zipmap.ndbx,0,0,153
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ColorWell.java,40,33,153
+Java,/tmp/clone_directory/src/main/java/nodebox/client/DocumentPropertiesDialog.java,32,0,152
+Java,/tmp/clone_directory/src/dev/java/nodebox/Notarizer.java,19,7,150
+Java,/tmp/clone_directory/src/main/java/nodebox/function/PythonLibrary.java,31,42,150
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/GeometryTest.java,16,26,150
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/Updater.java,28,40,142
+Java,/tmp/clone_directory/src/main/java/nodebox/client/DataSheet.java,31,18,141
+XML,/tmp/clone_directory/examples/02 Topics/Generative Design/Invader/Invader.ndbx,0,0,135
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ExportMovieDialog.java,26,13,135
+Java,/tmp/clone_directory/src/main/java/nodebox/function/FunctionRepository.java,26,6,132
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/FourPointHandle.java,16,3,131
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/AddressBar.java,34,18,131
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/AudioInputDeviceHandler.java,28,1,130
+Java,/tmp/clone_directory/src/main/java/nodebox/function/NetworkFunctions.java,17,4,130
+Java,/tmp/clone_directory/src/test/java/nodebox/function/DeviceFunctionsTest.java,17,41,128
+Java,/tmp/clone_directory/src/test/java/nodebox/versioncheck/UpdaterTest.java,23,15,128
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/ScaleHandle.java,14,0,127
+SVG,/tmp/clone_directory/artwork/nodebox-icon.svg,0,1,126
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ExportDialog.java,23,6,124
+XML,/tmp/clone_directory/examples/02 Topics/Animation/02 Elastic/02 Elastic.ndbx,0,0,122
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Rect.java,33,18,122
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/TranslateHandle.java,19,7,122
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Platform.java,28,55,122
+XML,/tmp/clone_directory/pom.xml,25,0,121
+Java,/tmp/clone_directory/src/test/java/nodebox/versioncheck/MockAppcastServer.java,16,16,119
+SVG,/tmp/clone_directory/artwork/string/random_character.svg,0,1,117
+Java,/tmp/clone_directory/src/main/java/nodebox/function/ClojureLibrary.java,25,20,117
+Java,/tmp/clone_directory/src/test/java/nodebox/function/MathFunctionsTest.java,22,5,117
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/PathElement.java,24,18,114
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/CSVRenderer.java,15,2,112
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/RotateHandle.java,13,1,112
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Pane.java,16,9,112
+Java,/tmp/clone_directory/src/main/java/nodebox/client/DevicesDialog.java,23,0,111
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/CombinedHandle.java,20,0,110
+XML,/tmp/clone_directory/examples/02 Topics/Generative Design/Animated Logo/Animated Logo.ndbx,0,0,109
+Java,/tmp/clone_directory/src/main/java/nodebox/Icons.java,25,11,109
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Icons.java,25,11,109
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/Playground.java,26,3,109
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/AbstractHandle.java,41,18,107
+SVG,/tmp/clone_directory/artwork/string/change_case.svg,0,1,106
+Java,/tmp/clone_directory/src/main/java/nodebox/client/OSXAdapter.java,15,30,103
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/CircleScaleHandle.java,16,0,102
+Java,/tmp/clone_directory/src/main/java/nodebox/client/AnimationBar.java,21,4,99
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PortRow.java,31,19,99
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/UpdateAlert.java,17,9,98
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/UpdateCheckDialog.java,17,8,97
+XML,/tmp/clone_directory/libraries/string/string.ndbx,0,0,96
+Java,/tmp/clone_directory/src/main/java/nodebox/node/Device.java,27,2,95
+Java,/tmp/clone_directory/src/main/java/nodebox/NodeBox.java,9,1,93
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/ColorControl.java,16,3,92
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/MenuControl.java,21,3,92
+SVG,/tmp/clone_directory/artwork/math/convert_range.svg,0,1,91
+Java,/tmp/clone_directory/src/main/java/nodebox/function/JavaLibrary.java,21,0,90
+XML,/tmp/clone_directory/libraries/list/list.ndbx,0,0,89
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/FontControl.java,20,7,88
+Java,/tmp/clone_directory/src/main/java/nodebox/node/Version.java,20,0,88
+XML,/tmp/clone_directory/examples/02 Topics/Data Visualisation/02 Time Stamp/02 Time Stamp.ndbx,0,0,87
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NetworkPane.java,16,0,87
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodeRepository.java,17,27,87
+SVG,/tmp/clone_directory/artwork/math/even.svg,0,1,86
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Point.java,28,1,84
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/SaveDialog.java,20,7,84
+XML,/tmp/clone_directory/examples/01 Basics/04 Math/07 Sine Text/07 Sine Text.ndbx,0,0,83
+Markdown,/tmp/clone_directory/README.md,34,0,82
+SVG,/tmp/clone_directory/artwork/string/as_binary_string.svg,0,1,82
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/PaneMenu.java,20,27,82
+Java,/tmp/clone_directory/src/main/java/nodebox/client/UpgradeWarningsDialog.java,21,1,81
+SVG,/tmp/clone_directory/artwork/math/odd.svg,0,1,79
+SVG,/tmp/clone_directory/artwork/string/character_at.svg,0,1,79
+Java,/tmp/clone_directory/src/main/java/nodebox/localhistory/Commit.java,13,19,79
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ExceptionDialog.java,11,2,79
+Java,/tmp/clone_directory/src/test/java/nodebox/node/PortTest.java,17,9,79
+SVG,/tmp/clone_directory/artwork/string/string.svg,0,1,78
+SVG,/tmp/clone_directory/artwork/string/word_count.svg,0,1,78
+Java,/tmp/clone_directory/src/main/java/nodebox/util/AppDirs.java,24,0,77
+XML,/tmp/clone_directory/examples/02 Topics/Data Visualisation/03 Piechart/03 Piechart.ndbx,0,0,76
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ObjectsRenderer.java,10,4,76
+Java,/tmp/clone_directory/src/test/java/nodebox/function/PythonLibraryTest.java,16,0,75
+SVG,/tmp/clone_directory/artwork/corevector/resample.svg,0,1,74
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PreferencePanel.java,16,0,74
+SVG,/tmp/clone_directory/artwork/string/length.svg,0,1,73
+XML,/tmp/clone_directory/libraries/device/device.ndbx,0,0,73
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/AbstractGrob.java,26,4,73
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/Version.java,17,8,73
+Java,/tmp/clone_directory/src/test/java/nodebox/localhistory/RepositoryTest.java,12,18,73
+XML,/tmp/clone_directory/examples/01 Basics/03 Numbers/01 Create Numbers/01 Create Numbers.ndbx,0,0,72
+SVG,/tmp/clone_directory/artwork/core/frame.svg,0,1,71
+XML,/tmp/clone_directory/examples/02 Topics/Generative Design/Spider Text/Spider Text.ndbx,0,0,71
+XML,/tmp/clone_directory/platform/mac/res/Info.plist,0,0,71
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Size.java,21,0,71
+SVG,/tmp/clone_directory/artwork/math/degrees.svg,0,1,70
+XML,/tmp/clone_directory/examples/01 Basics/04 Math/03 Coordinates with range/03 Coordinates with range.ndbx,0,0,70
+Java,/tmp/clone_directory/src/test/java/nodebox/node/PublishedPortTest.java,13,0,69
+XML,/tmp/clone_directory/examples/01 Basics/07 Animation/03 Coriolise/03 Coriolise.ndbx,0,0,68
+SVG,/tmp/clone_directory/artwork/math/sample.svg,0,1,67
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/06 Transformations/06 Transformations.ndbx,0,0,66
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/05 Copy/05 Copy.ndbx,0,0,64
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/13 Tilling/13 Tilling.ndbx,0,0,64
+Java,/tmp/clone_directory/src/main/java/nodebox/client/MinimApplet.java,14,0,64
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/SwingUtils.java,12,24,63
+SVG,/tmp/clone_directory/artwork/math/generic.svg,0,1,61
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/10 Sorting/10 Sorting.ndbx,0,0,61
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ProgressDialog.java,13,1,61
+SVG,/tmp/clone_directory/artwork/math/add.svg,0,1,60
+SVG,/tmp/clone_directory/artwork/math/coordinates.svg,0,1,60
+SVG,/tmp/clone_directory/artwork/math/subtract.svg,0,1,60
+XML,/tmp/clone_directory/examples/02 Topics/Generative Design/Heatmap/Heatmap.ndbx,0,0,60
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/PointVisualizer.java,11,0,60
+Java,/tmp/clone_directory/src/main/java/nodebox/function/FunctionLibrary.java,22,19,60
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/PointHandle.java,13,1,60
+SVG,/tmp/clone_directory/artwork/math/divide.svg,0,1,59
+SVG,/tmp/clone_directory/artwork/math/multiply.svg,0,1,59
+Java,/tmp/clone_directory/src/main/java/nodebox/function/Functions.java,13,1,59
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/AppcastHandler.java,9,3,59
+Java,/tmp/clone_directory/src/test/java/nodebox/node/polygraph/Polygon.java,10,10,59
+SVG,/tmp/clone_directory/artwork/math/sum.svg,0,1,58
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/PDFRenderer.java,8,12,58
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/PaneHeader.java,13,0,58
+XML,/tmp/clone_directory/examples/01 Basics/06 Lists/Compare/Compare.ndbx,0,0,57
+XML,/tmp/clone_directory/examples/02 Topics/Data Visualisation/01 Read Csv/01 Read Csv.ndbx,0,0,57
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/FileControl.java,11,0,57
+Java,/tmp/clone_directory/src/main/java/nodebox/movie/AbstractVideoFormat.java,14,0,57
+Java,/tmp/clone_directory/src/main/java/nodebox/util/waves/AbstractWave.java,18,17,57
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/UpdateChecker.java,8,4,57
+Java,/tmp/clone_directory/src/test/java/nodebox/node/ConnectionTest.java,12,2,57
+SVG,/tmp/clone_directory/artwork/device/receive_osc.svg,0,1,56
+SVG,/tmp/clone_directory/artwork/device/send_osc.svg,0,1,56
+SVG,/tmp/clone_directory/artwork/math/wave.svg,0,1,56
+XML,/tmp/clone_directory/examples/01 Basics/03 Numbers/05 Make Numbers/05 Make Numbers.ndbx,0,0,56
+XML,/tmp/clone_directory/examples/02 Topics/Mapping/Geocoding/Geocoding.ndbx,0,0,55
+Python,/tmp/clone_directory/libraries/corevector/pyhandles.py,13,0,55
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PreferencesDialog.java,13,2,55
+SVG,/tmp/clone_directory/artwork/color/hsb_color.svg,0,1,54
+SVG,/tmp/clone_directory/artwork/color/rgb_color.svg,0,1,54
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/09 Binary Operation/09 Binary Operation.ndbx,0,0,54
+XML,/tmp/clone_directory/examples/01 Basics/07 Animation/02 Colorcycle/02 Colorcycle.ndbx,0,0,54
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ReplaceDialog.java,8,6,54
+SVG,/tmp/clone_directory/artwork/string/as_binary_list.svg,0,1,53
+XML,/tmp/clone_directory/libraries/data/data.ndbx,0,0,53
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/IntControl.java,11,0,53
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/FreehandHandle.java,11,7,53
+Java,/tmp/clone_directory/src/main/java/nodebox/util/ReflectionUtils.java,11,16,53
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/CSVRenderTest.java,10,0,52
+SVG,/tmp/clone_directory/artwork/math/running_total.svg,0,1,51
+SVG,/tmp/clone_directory/artwork/string/as_number_list.svg,0,1,51
+XML,/tmp/clone_directory/examples/02 Topics/Mapping/Earthquakes/Earthquakes.ndbx,0,0,51
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ProgressPanel.java,11,3,51
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/ColorVisualizer.java,12,3,51
+Java,/tmp/clone_directory/src/main/java/nodebox/util/StringUtils.java,12,18,51
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/AppcastItem.java,12,0,51
+Java,/tmp/clone_directory/src/test/java/nodebox/function/StringFunctionsTest.java,11,0,51
+SVG,/tmp/clone_directory/artwork/math/cos.svg,0,1,50
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/PointControl.java,12,0,50
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Borders.java,14,0,50
+SVG,/tmp/clone_directory/artwork/math/radians.svg,0,1,49
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/07 Template/07 Template.ndbx,0,0,49
+XML,/tmp/clone_directory/examples/01 Basics/03 Numbers/06 Convert Range/06 Convert Range.ndbx,0,0,49
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/FloatControl.java,11,0,49
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/RectTest.java,10,18,49
+XML,/tmp/clone_directory/examples/02 Topics/Animation/01 Blink/01 Blink.ndbx,0,0,48
+Java,/tmp/clone_directory/src/main/java/nodebox/client/FullScreenFrame.java,12,0,47
+Java,/tmp/clone_directory/src/main/java/nodebox/client/NodeLibraryUndoableEdit.java,13,9,47
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/StringControl.java,11,0,47
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/GrobVisualizer.java,11,5,47
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ActionHeader.java,14,0,47
+XML,/tmp/clone_directory/xml/example.ndbx,0,0,47
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/11 Spirograph/11 Spirograph.ndbx,0,0,46
+XML,/tmp/clone_directory/examples/01 Basics/06 Lists/02 List Matching B/02 List Matching B.ndbx,0,0,46
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/CanvasVisualizer.java,13,0,46
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/GraphicsContextTest.java,10,0,46
+SVG,/tmp/clone_directory/artwork/math/log.svg,0,1,45
+XML,/tmp/clone_directory/examples/01 Basics/07 Animation/01 Moiree/01 Moiree.ndbx,0,0,45
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/TextControl.java,9,4,45
+SVG,/tmp/clone_directory/artwork/math/sin.svg,0,1,44
+SVG,/tmp/clone_directory/artwork/string/concatenate.svg,0,1,44
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/12 TextFX/12 TextFX.ndbx,0,0,44
+XML,/tmp/clone_directory/examples/01 Basics/02 Color/01 Color/01 Color.ndbx,0,0,44
+Java,/tmp/clone_directory/src/dev/java/nodebox/PackageSigner.java,5,1,43
+XML,/tmp/clone_directory/examples/01 Basics/04 Math/02 Lissajous/02 Lissajous.ndbx,0,0,42
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ExportFormat.java,13,0,42
+Java,/tmp/clone_directory/src/test/java/nodebox/function/ClojureLibraryTest.java,9,0,42
+SVG,/tmp/clone_directory/artwork/math/mod.svg,0,1,41
+XML,/tmp/clone_directory/examples/01 Basics/03 Numbers/02 Sample/02 Sample.ndbx,0,0,41
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/LastResortVisualizer.java,11,3,41
+Java,/tmp/clone_directory/src/main/java/nodebox/node/Connection.java,13,40,41
+XML,/tmp/clone_directory/src/test/files/demo.ndbx,0,5,41
+Java,/tmp/clone_directory/src/main/java/nodebox/client/CustomSplitPane.java,7,3,40
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PortPane.java,12,0,40
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/AbstractTransformable.java,14,1,40
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/CustomSplitPane.java,7,3,40
+XML,/tmp/clone_directory/examples/01 Basics/03 Numbers/04 Random/04 Random.ndbx,0,0,39
+XML,/tmp/clone_directory/examples/01 Basics/08 Subnetworks/Mesh/Mesh.ndbx,0,0,39
+Java,/tmp/clone_directory/src/main/java/nodebox/client/WindowLayout.java,16,0,39
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/SVGRendererTest.java,12,0,39
+Java,/tmp/clone_directory/src/test/java/nodebox/util/FileUtilTest.java,9,0,39
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/08 SVG/08 SVG.ndbx,0,0,38
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PortNotesRow.java,13,0,38
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/AbstractGeometry.java,14,40,38
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/ContextTransformDelegate.java,9,0,38
+SVG,/tmp/clone_directory/artwork/math/average.svg,0,1,37
+XML,/tmp/clone_directory/examples/01 Basics/04 Math/04 Coordinates with sample/04 Coordinates with sample.ndbx,0,0,37
+Java,/tmp/clone_directory/src/main/java/nodebox/Log.java,11,2,37
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/SingleLineSplitPane.java,8,0,37
+Java,/tmp/clone_directory/src/test/java/nodebox/function/FunctionLibraryTest.java,9,0,37
+Java,/tmp/clone_directory/src/test/java/nodebox/util/WavesTest.java,6,0,37
+SVG,/tmp/clone_directory/artwork/corevector/to_points.svg,0,1,36
+SVG,/tmp/clone_directory/artwork/list/zip_map.svg,0,1,36
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/02 Lines/02 Lines.ndbx,0,0,36
+XML,/tmp/clone_directory/examples/01 Basics/03 Numbers/03 Range/03 Range.ndbx,0,0,36
+SVG,/tmp/clone_directory/artwork/corevector/distribute.svg,0,1,35
+SVG,/tmp/clone_directory/artwork/math/pow.svg,0,1,35
+SVG,/tmp/clone_directory/artwork/math/range.svg,0,1,35
+XML,/tmp/clone_directory/examples/01 Basics/06 Lists/01 List Matching A/01 List Matching A.ndbx,0,0,35
+Java,/tmp/clone_directory/src/main/java/nodebox/client/MinimInputApplet.java,7,0,35
+Java,/tmp/clone_directory/src/main/java/nodebox/client/PythonUtils.java,14,6,35
+XML,/tmp/clone_directory/src/test/files/upgrade-v12.ndbx,0,0,35
+SVG,/tmp/clone_directory/artwork/corevector/delete_bounding.svg,0,1,34
+SVG,/tmp/clone_directory/artwork/list/shift.svg,0,1,34
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/04 Grid/04 Grid.ndbx,0,0,34
+Java,/tmp/clone_directory/src/main/java/nodebox/util/ListUtils.java,7,7,34
+SVG,/tmp/clone_directory/artwork/corevector/freehand.svg,0,1,33
+SVG,/tmp/clone_directory/artwork/corevector/text_on_path.svg,0,1,33
+SVG,/tmp/clone_directory/artwork/math/max.svg,0,1,33
+Python,/tmp/clone_directory/convert_svg_files.py,10,15,33
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/01 Primitives/01 Primitives.ndbx,0,0,33
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/AbstractPortControl.java,11,0,33
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodePort.java,9,5,33
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/GrobTest.java,13,0,33
+SVG,/tmp/clone_directory/artwork/list/keys.svg,0,1,32
+SVG,/tmp/clone_directory/artwork/list/shuffle.svg,0,1,32
+Java,/tmp/clone_directory/src/main/java/nodebox/localhistory/LocalHistoryManager.java,7,0,32
+Java,/tmp/clone_directory/src/main/java/nodebox/node/UpgradeResult.java,11,25,32
+XML,/tmp/clone_directory/src/test/files/upgrade-v9.ndbx,0,0,32
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/TransformTest.java,9,0,32
+Java,/tmp/clone_directory/src/test/java/nodebox/node/polygraph/Rectangle.java,9,0,32
+Java,/tmp/clone_directory/src/test/java/nodebox/versioncheck/VersionTest.java,6,0,32
+SVG,/tmp/clone_directory/artwork/list/take_every.svg,0,1,31
+Java,/tmp/clone_directory/src/main/java/nodebox/node/MenuItem.java,11,0,31
+Java,/tmp/clone_directory/src/test/java/nodebox/function/TestFunctions.java,10,8,31
+SVG,/tmp/clone_directory/artwork/corevector/draw_path.svg,0,1,30
+XML,/tmp/clone_directory/libraries/color/color.ndbx,0,0,30
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ExportViewer.java,7,1,30
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/DataControl.java,7,16,30
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/MessageBar.java,8,0,30
+SVG,/tmp/clone_directory/artwork/math/round.svg,0,1,29
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/ToggleControl.java,9,0,29
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/LastResortHandler.java,8,6,29
+XML,/tmp/clone_directory/src/test/files/upgrade-v15.ndbx,0,0,29
+Java,/tmp/clone_directory/src/test/java/nodebox/node/VersionTest.java,6,1,29
+Java,/tmp/clone_directory/src/test/java/nodebox/util/Assertions.java,10,0,29
+SVG,/tmp/clone_directory/artwork/list/count.svg,0,1,28
+SVG,/tmp/clone_directory/artwork/math/compare.svg,0,1,28
+XML,/tmp/clone_directory/examples/01 Basics/04 Math/05 Spiral/05 Spiral.ndbx,0,0,28
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/InterruptibleProgressDialog.java,6,0,28
+SVG,/tmp/clone_directory/artwork/corevector/centroid.svg,0,1,27
+SVG,/tmp/clone_directory/artwork/list/cycle.svg,0,1,27
+SVG,/tmp/clone_directory/artwork/math/negate.svg,0,1,27
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/DeviceHandlerFactory.java,7,0,27
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/Handle.java,34,39,27
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/SnapHandle.java,5,0,27
+Java,/tmp/clone_directory/src/test/java/nodebox/util/SideEffects.java,10,25,27
+XML,/tmp/clone_directory/src/test/java/nodebox/versioncheck/appcast.xml,2,0,27
+SVG,/tmp/clone_directory/artwork/corevector/connect.svg,0,1,26
+XML,/tmp/clone_directory/examples/02 Topics/Web/Twitter API/Twitter API.ndbx,0,0,26
+Java,/tmp/clone_directory/src/main/java/nodebox/util/Geometry.java,9,16,26
+SVG,/tmp/clone_directory/artwork/corevector/shape_on_path.svg,0,1,25
+SVG,/tmp/clone_directory/artwork/corevector/wiggle.svg,0,1,25
+SVG,/tmp/clone_directory/artwork/math/pi.svg,0,1,25
+XML,/tmp/clone_directory/examples/01 Basics/02 Color/02 Color Range/02 Color Range.ndbx,0,0,25
+XML,/tmp/clone_directory/examples/01 Basics/02 Color/03 Gradient/03 Gradient.ndbx,0,0,25
+Java,/tmp/clone_directory/src/main/java/nodebox/client/DeviceRow.java,7,0,25
+Java,/tmp/clone_directory/src/main/java/nodebox/client/Divider.java,7,0,25
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/PasswordControl.java,6,0,25
+Java,/tmp/clone_directory/src/main/java/nodebox/movie/MP4VideoFormat.java,5,0,25
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Divider.java,7,0,25
+Java,/tmp/clone_directory/src/main/java/nodebox/util/LoadException.java,9,3,25
+XML,/tmp/clone_directory/src/test/files/upgrade-v11.ndbx,0,0,25
+XML,/tmp/clone_directory/src/test/files/upgrade-v4.ndbx,0,0,25
+SVG,/tmp/clone_directory/artwork/list/second.svg,0,1,24
+SVG,/tmp/clone_directory/artwork/math/abs.svg,0,1,24
+SVG,/tmp/clone_directory/artwork/math/angle.svg,1,1,24
+XML,/tmp/clone_directory/platform/mac/NodeBox.entitlements,0,0,24
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/MathUtils.java,11,52,24
+XML,/tmp/clone_directory/src/test/files/polynodes.ndbx,0,0,24
+XML,/tmp/clone_directory/src/test/files/upgrade-v20.ndbx,0,0,24
+Java,/tmp/clone_directory/src/test/java/nodebox/versioncheck/MockBox.java,7,5,24
+CSV,/tmp/clone_directory/examples/02 Topics/Data Visualisation/01 Read Csv/Debtris.csv,0,0,23
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ParameterLayout.java,9,0,23
+Java,/tmp/clone_directory/src/main/java/nodebox/function/ColorFunctions.java,9,0,23
+Java,/tmp/clone_directory/src/main/java/nodebox/util/waves/SawtoothWave.java,6,9,23
+Java,/tmp/clone_directory/src/main/java/nodebox/util/waves/SineWave.java,6,9,23
+Java,/tmp/clone_directory/src/main/java/nodebox/util/waves/SquareWave.java,6,9,23
+Java,/tmp/clone_directory/src/main/java/nodebox/util/waves/TriangleWave.java,6,9,23
+SVG,/tmp/clone_directory/artwork/coreimage/generator.svg,0,1,22
+SVG,/tmp/clone_directory/artwork/corevector/align.svg,0,1,22
+SVG,/tmp/clone_directory/artwork/corevector/ungroup.svg,0,1,22
+SVG,/tmp/clone_directory/artwork/list/distinct.svg,0,1,22
+Java,/tmp/clone_directory/src/main/java/nodebox/node/ProcessingError.java,7,21,22
+Java,/tmp/clone_directory/src/main/java/nodebox/util/MathUtils.java,9,52,22
+XML,/tmp/clone_directory/src/test/files/upgrade-v8.ndbx,0,0,22
+Java,/tmp/clone_directory/src/test/java/nodebox/util/ListUtilsTest.java,5,0,22
+Java,/tmp/clone_directory/src/test/java/nodebox/versioncheck/MockHost.java,8,3,22
+SVG,/tmp/clone_directory/artwork/math/ceil.svg,0,1,21
+SVG,/tmp/clone_directory/artwork/math/floor.svg,0,1,21
+SVG,/tmp/clone_directory/artwork/math/reflect.svg,0,1,21
+XML,/tmp/clone_directory/examples/01 Basics/01 Shape/03 Text/03 Text.ndbx,0,0,21
+Java,/tmp/clone_directory/src/main/java/nodebox/client/AnimationTimer.java,7,1,21
+Java,/tmp/clone_directory/src/main/java/nodebox/function/Function.java,11,15,21
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/GeometryContext.java,8,0,21
+Java,/tmp/clone_directory/src/main/java/nodebox/node/InvalidNameException.java,7,0,21
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/ShadowLabel.java,3,1,21
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/Appcast.java,8,3,21
+YAML,/tmp/clone_directory/appveyor.yml,0,0,20
+SVG,/tmp/clone_directory/artwork/corevector/grid.svg,0,1,20
+SVG,/tmp/clone_directory/artwork/list/combine.svg,0,1,20
+SVG,/tmp/clone_directory/artwork/math/e.svg,0,1,20
+SVG,/tmp/clone_directory/artwork/math/min.svg,0,1,20
+XML,/tmp/clone_directory/libraries/network/network.ndbx,0,0,20
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/IGeometry.java,19,88,20
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NotFoundException.java,6,0,20
+Java,/tmp/clone_directory/src/test/java/nodebox/node/polygraph/Point.java,7,3,20
+SVG,/tmp/clone_directory/artwork/list/last.svg,0,1,19
+SVG,/tmp/clone_directory/artwork/list/repeat.svg,0,1,19
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/AbstractDeviceControl.java,8,0,19
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/VisualizerFactory.java,7,0,19
+XML,/tmp/clone_directory/src/test/files/upgrade-v10.ndbx,0,0,19
+SVG,/tmp/clone_directory/artwork/corevector/line_angle.svg,0,1,18
+SVG,/tmp/clone_directory/artwork/math/distance.svg,0,1,18
+Java,/tmp/clone_directory/src/main/java/nodebox/client/SelectionChangedEvent.java,7,0,18
+Java,/tmp/clone_directory/src/main/java/nodebox/movie/WebmVideoFormat.java,4,0,18
+XML,/tmp/clone_directory/src/test/files/upgrade-v14.ndbx,0,0,18
+XML,/tmp/clone_directory/src/test/files/upgrade-v19.ndbx,0,0,18
+Java,/tmp/clone_directory/src/test/java/nodebox/ui/ExportFormatTest.java,6,0,18
+SVG,/tmp/clone_directory/artwork/list/first.svg,0,1,17
+SVG,/tmp/clone_directory/artwork/math/random_numbers.svg,0,1,17
+SVG,/tmp/clone_directory/artwork/network/json.svg,0,1,17
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/DefaultTransformDelegate.java,6,0,17
+XML,/tmp/clone_directory/src/test/files/upgrade-v18.ndbx,0,0,17
+XML,/tmp/clone_directory/src/test/files/upgrade-v7.ndbx,0,0,17
+Java,/tmp/clone_directory/src/test/java/nodebox/function/FunctionRepositoryTest.java,7,0,17
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/ColorTest.java,5,0,17
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/GraphicsTestCase.java,6,1,17
+Java,/tmp/clone_directory/src/test/java/nodebox/node/polygraph/PolygonTest.java,4,0,17
+SVG,/tmp/clone_directory/artwork/coreimage/filter.svg,0,1,16
+SVG,/tmp/clone_directory/artwork/corevector/copy.svg,0,1,16
+SVG,/tmp/clone_directory/artwork/corevector/generator.svg,0,1,16
+SVG,/tmp/clone_directory/artwork/list/switch.svg,0,1,16
+SVG,/tmp/clone_directory/artwork/math/integer.svg,0,1,16
+SVG,/tmp/clone_directory/artwork/math/or.svg,0,1,16
+Java,/tmp/clone_directory/src/main/java/nodebox/function/CoreFunctions.java,7,5,16
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Grob.java,19,22,16
+Java,/tmp/clone_directory/src/main/java/nodebox/node/VersionSpecifier.java,6,11,16
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/InsetLabel.java,6,0,16
+XML,/tmp/clone_directory/src/test/files/upgrade-v2.ndbx,2,0,16
+SVG,/tmp/clone_directory/artwork/corevector/fit_to.svg,0,1,15
+SVG,/tmp/clone_directory/artwork/corevector/group.svg,0,1,15
+SVG,/tmp/clone_directory/artwork/corevector/place.svg,0,1,15
+SVG,/tmp/clone_directory/artwork/list/slice.svg,0,1,15
+Java,/tmp/clone_directory/src/main/java/nodebox/client/UndoState.java,6,3,15
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/ImageControl.java,5,0,15
+Java,/tmp/clone_directory/src/main/java/nodebox/client/port/PortControl.java,12,3,15
+Java,/tmp/clone_directory/src/main/java/nodebox/node/ConnectionError.java,5,19,15
+Java,/tmp/clone_directory/src/main/java/nodebox/node/NodeRenderException.java,6,3,15
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/UpdateDelegate.java,5,5,15
+XML,/tmp/clone_directory/src/test/files/upgrade-v3.ndbx,0,0,15
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/CanvasTest.java,5,0,15
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/GraphicsTestUtils.java,6,0,15
+SVG,/tmp/clone_directory/artwork/corevector/merge.svg,0,1,14
+SVG,/tmp/clone_directory/artwork/corevector/point_on_path.svg,0,1,14
+SVG,/tmp/clone_directory/artwork/corevector/quad_curve.svg,0,1,14
+SVG,/tmp/clone_directory/artwork/corevector/skew.svg,0,1,14
+SVG,/tmp/clone_directory/artwork/corevector/snap.svg,0,1,14
+Java,/tmp/clone_directory/src/main/java/nodebox/node/ExpressionError.java,5,0,14
+Java,/tmp/clone_directory/src/main/java/nodebox/node/OutdatedLibraryException.java,6,7,14
+HTML,/tmp/clone_directory/src/main/java/nodebox/node/package.html,0,0,14
+Java,/tmp/clone_directory/src/main/java/nodebox/util/HumanizedObject.java,4,0,14
+Java,/tmp/clone_directory/src/test/java/nodebox/graphics/PointTest.java,5,0,14
+HTML,/tmp/clone_directory/src/test/java/nodebox/node/polygraph/package.html,3,0,14
+YAML,/tmp/clone_directory/.github/workflows/test.yml,3,0,13
+SVG,/tmp/clone_directory/artwork/corevector/geonet.svg,0,1,13
+SVG,/tmp/clone_directory/artwork/data/import_csv.svg,0,1,13
+SVG,/tmp/clone_directory/artwork/list/rest.svg,0,1,13
+SVG,/tmp/clone_directory/artwork/math/boolean.svg,0,1,13
+SVG,/tmp/clone_directory/examples/01 Basics/01 Shape/08 SVG/building.svg,0,1,13
+Java,/tmp/clone_directory/src/main/java/nodebox/movie/VideoFormat.java,9,0,13
+Java,/tmp/clone_directory/src/test/java/nodebox/function/NonUniqueFunctions.java,5,3,13
+SVG,/tmp/clone_directory/artwork/animation-icons.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/core/network.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/core/node.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/corevector/line.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/corevector/reflect.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/corevector/textpath.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/corevector/transform.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/device/mouse_position.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/list/cull.svg,0,1,12
+SVG,/tmp/clone_directory/artwork/list/sort.svg,0,1,12
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/DeviceHandler.java,2,0,12
+XML,/tmp/clone_directory/src/test/files/clojure-math.ndbx,0,1,12
+Java,/tmp/clone_directory/src/test/java/nodebox/function/FunctionsTest.java,6,0,12
+SVG,/tmp/clone_directory/artwork/corevector/null.svg,0,1,11
+SVG,/tmp/clone_directory/artwork/corevector/stack.svg,0,1,11
+SVG,/tmp/clone_directory/artwork/data/lookup.svg,0,1,11
+SVG,/tmp/clone_directory/artwork/data/make_table.svg,0,1,11
+SVG,/tmp/clone_directory/artwork/math/and.svg,0,1,11
+XML,/tmp/clone_directory/libraries/core/core.ndbx,0,1,11
+Java,/tmp/clone_directory/src/main/java/nodebox/client/visualizer/Visualizer.java,7,0,11
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/HandleDelegate.java,10,53,11
+Java,/tmp/clone_directory/src/test/java/nodebox/function/NetworkFunctionsTest.java,5,0,11
+SVG,/tmp/clone_directory/artwork/corevector/colorize.svg,0,1,10
+SVG,/tmp/clone_directory/artwork/corevector/make_point.svg,0,1,10
+SVG,/tmp/clone_directory/artwork/corevector/sort.svg,0,1,10
+YAML,/tmp/clone_directory/.travis.yml,0,0,9
+SVG,/tmp/clone_directory/artwork/corevector/arc.svg,0,1,9
+SVG,/tmp/clone_directory/artwork/corevector/edit.svg,0,1,9
+SVG,/tmp/clone_directory/artwork/corevector/filter.svg,0,1,9
+SVG,/tmp/clone_directory/artwork/corevector/translate.svg,0,1,9
+SVG,/tmp/clone_directory/artwork/device/audio_analysis.svg,0,1,9
+SVG,/tmp/clone_directory/artwork/list/reverse.svg,0,1,9
+SVG,/tmp/clone_directory/artwork/math/xor.svg,0,1,9
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Colorizable.java,7,0,9
+XML,/tmp/clone_directory/src/test/files/menus.ndbx,0,1,9
+XML,/tmp/clone_directory/src/test/files/upgrade-v13.ndbx,0,0,9
+XML,/tmp/clone_directory/src/test/files/upgrade-v5.ndbx,0,0,9
+SVG,/tmp/clone_directory/artwork/corevector/compound.svg,0,1,8
+SVG,/tmp/clone_directory/artwork/corevector/link.svg,0,1,8
+SVG,/tmp/clone_directory/artwork/corevector/rotate.svg,0,1,8
+SVG,/tmp/clone_directory/artwork/corevector/scale.svg,0,1,8
+SVG,/tmp/clone_directory/artwork/math/sqrt.svg,0,1,8
+Java,/tmp/clone_directory/src/main/java/nodebox/client/devicehandler/DeviceControl.java,3,0,8
+Java,/tmp/clone_directory/src/main/java/nodebox/handle/LineHandle.java,3,3,8
+HTML,/tmp/clone_directory/src/main/java/nodebox/handle/package.html,0,0,8
+Java,/tmp/clone_directory/src/main/java/nodebox/versioncheck/Host.java,7,3,8
+XML,/tmp/clone_directory/src/test/files/relative-import.ndbx,0,1,8
+XML,/tmp/clone_directory/src/test/files/upgrade-v16.ndbx,0,0,8
+SVG,/tmp/clone_directory/artwork/corevector/delete.svg,0,1,7
+SVG,/tmp/clone_directory/artwork/corevector/fit.svg,0,1,7
+SVG,/tmp/clone_directory/artwork/corevector/import.svg,0,1,7
+SVG,/tmp/clone_directory/artwork/corevector/star.svg,0,1,7
+SVG,/tmp/clone_directory/artwork/list/generic.svg,0,1,7
+Java,/tmp/clone_directory/src/main/java/nodebox/client/DocumentFocusListener.java,5,0,7
+HTML,/tmp/clone_directory/src/main/java/nodebox/ui/package.html,1,0,7
+XML,/tmp/clone_directory/src/test/files/relative-file.ndbx,0,1,7
+SVG,/tmp/clone_directory/artwork/corevector/polygon.svg,0,1,6
+Java,/tmp/clone_directory/src/main/java/nodebox/client/OutputView.java,5,3,6
+HTML,/tmp/clone_directory/src/main/java/nodebox/client/package.html,0,0,6
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/NodeBoxError.java,1,5,6
+HTML,/tmp/clone_directory/src/main/java/nodebox/graphics/package.html,0,0,6
+HTML,/tmp/clone_directory/src/main/java/nodebox/movie/package.html,0,0,6
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/Zoom.java,2,0,6
+HTML,/tmp/clone_directory/src/main/java/nodebox/util/package.html,0,0,6
+XML,/tmp/clone_directory/src/test/files/bad-corenode.ndbx,0,0,6
+CSV,/tmp/clone_directory/src/test/files/colors.csv,0,0,6
+XML,/tmp/clone_directory/src/test/files/upgrade-v1.ndbx,0,0,6
+Java,/tmp/clone_directory/src/test/java/nodebox/function/AbstractTestFunctions.java,3,3,6
+SVG,/tmp/clone_directory/artwork/corevector/ellipse.svg,0,1,5
+SVG,/tmp/clone_directory/artwork/corevector/rect.svg,0,1,5
+Java,/tmp/clone_directory/src/main/java/nodebox/client/Selectable.java,4,0,5
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/Drawable.java,2,0,5
+Java,/tmp/clone_directory/src/main/java/nodebox/graphics/TransformDelegate.java,2,0,5
+CSV,/tmp/clone_directory/src/test/files/mixed-input.csv,0,0,5
+Java,/tmp/clone_directory/src/main/java/nodebox/util/IOrderedFields.java,3,5,4
+Clojure,/tmp/clone_directory/src/test/clojure/strings.clj,1,1,4
+XML,/tmp/clone_directory/src/test/files/upgrade-v0.9.ndbx,0,0,4
+XML,/tmp/clone_directory/src/test/files/upgrade-v999.ndbx,0,0,4
+Python,/tmp/clone_directory/src/test/python/functions.py,1,0,4
+Properties,/tmp/clone_directory/platform/fa-ndbx.properties,0,2,3
+Java,/tmp/clone_directory/src/main/java/nodebox/client/ViewerEventListener.java,1,3,3
+Java,/tmp/clone_directory/src/main/java/nodebox/ui/PaneView.java,1,5,3
+CSV,/tmp/clone_directory/src/test/files/bad-headers.csv,0,0,3
+CSV,/tmp/clone_directory/src/test/files/duplicate-headers.csv,0,0,3
+CSV,/tmp/clone_directory/src/test/files/floats.csv,0,0,3
+CSV,/tmp/clone_directory/src/test/files/unicode.csv,0,0,3
+CSV,/tmp/clone_directory/src/test/files/whitespace.csv,0,0,3
+Clojure,/tmp/clone_directory/src/test/clojure/math.clj,1,1,2
+Clojure,/tmp/clone_directory/src/test/clojure/no-var-at-end.clj,2,1,2
+Python,/tmp/clone_directory/src/test/files/relative.py,0,0,2
+Java,/tmp/clone_directory/src/main/java/nodebox/node/TypeConversions.java,0,0,1
+Properties,/tmp/clone_directory/src/main/resources/version.properties,0,0,1
+XML,/tmp/clone_directory/src/test/files/upgrade-v6.ndbx,0,0,1
+Java,/tmp/clone_directory/src/test/java/nodebox/node/TypeConversionsTest.java,0,0,1
+XML,/tmp/clone_directory/src/test/java/nodebox/versioncheck/unreadable_appcast.xml,0,0,1
+SUM,,7105,5619,58843

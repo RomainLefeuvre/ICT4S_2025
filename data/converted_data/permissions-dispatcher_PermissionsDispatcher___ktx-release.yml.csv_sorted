@@ -1,0 +1,11 @@
+##[group]Run ./gradlew clean build, 534.9152090095624, , , , 57496497, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew ktx:uploadArchives --no-daemon --no-parallel -PSONATYPE_NEXUS_USERNAME= -PSONATYPE_NEXUS_PASSWORD= -Psigning.keyId= -Psigning.password= -Psigning.secretKeyRingFile=$(echo ~/.gradle/secring.gpg), 299.24407670082536, , , , 10397999, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 69.9551874158901, , , , 16771599, False, 
+##[group]Run ./gradlew closeAndReleaseRepository, 42.48871585436932, , , , 2132584, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 9.636120013459571, , , , 2350652, False, 
+Requested labels: self-hosted, 2.62267308168325, , , , 5035891, False, 
+##[group]Fetching the repository, 2.2578198643954672, , , , 715106, False, 
+##[group]Run actions/checkout@v2, 0.7001792774880978, , , , 218046, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.3445808499779668, , , , 126932, False, 
+##[group]Cleaning the repository, 0.340908324133912, , , , 14770, False, 
+##[group]Setting up auth, 0.3372357982898572, , , , 115347, False, 

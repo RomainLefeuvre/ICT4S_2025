@@ -1,0 +1,18 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (1608.4 files/s 181443.2 lines/s)"
+Java,/tmp/clone_directory/src/main/java/com/squareup/phrase/Phrase.java,60,144,214
+Text,/tmp/clone_directory/LICENSE.txt,33,0,169
+Java,/tmp/clone_directory/src/test/java/com/squareup/phrase/PhraseTest.java,33,15,156
+Java,/tmp/clone_directory/src/main/java/com/squareup/phrase/ListPhrase.java,28,88,134
+Java,/tmp/clone_directory/src/test/java/com/squareup/phrase/ListPhraseTest.java,33,16,132
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+XML,/tmp/clone_directory/checkstyle.xml,21,33,70
+Gradle,/tmp/clone_directory/build.gradle,10,3,63
+Markdown,/tmp/clone_directory/README.md,21,0,62
+YAML,/tmp/clone_directory/.github/workflows/android.yml,4,0,20
+Properties,/tmp/clone_directory/gradle.properties,3,0,17
+Markdown,/tmp/clone_directory/CHANGELOG.md,9,0,15
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,5,0,12
+Markdown,/tmp/clone_directory/RELEASING.md,1,0,11
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/src/main/AndroidManifest.xml,0,0,4
+SUM,,280,320,1205

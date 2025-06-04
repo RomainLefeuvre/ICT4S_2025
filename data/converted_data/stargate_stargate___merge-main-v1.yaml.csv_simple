@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,84.43770225335257,2214728,False,
+##[group]Fetching the repository,63.36998942766727,434819,False,
+##[group]Create or update the pull request branch,58.979139924395625,666786,False,
+##[group]Checking the base repository state,54.942904297393135,435049,False,
+##[group]Run actions/checkout@v4,27.66544418189229,156679,False,
+##[group]Restore git configuration,26.64542873073029,228455,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Setting up auth,13.30602927030401,139338,False,
+##[group]Run git config user.name github-actions,12.041966500762893,97069,False,
+##[group]==END_FILE==,0.0474925309510708,3893946,False,

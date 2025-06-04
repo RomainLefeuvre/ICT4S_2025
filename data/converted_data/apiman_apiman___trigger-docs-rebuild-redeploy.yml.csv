@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 0.3714964651690466, , , , 4253085, False, 
+##[group]GITHUB_TOKEN Permissions, 32.932068717913474, , , , 1164028, False, 
+##[group]Run peter-evans/repository-dispatch@v1.1.3, 7.142894804050692, , , , 212319, True, ##[error]Parameter token or opts.auth is required

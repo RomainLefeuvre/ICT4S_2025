@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.7203638678078852, , , , 4188465, False, 
+##[group]GITHUB_TOKEN Permissions, 88.95882045701974, , , , 3957652, False, 
+##[group]Run actions/checkout@v4, 32.103884148083225, , , , 146388, False, 
+##[group]Cleaning the repository, 30.557375688205603, , , , 186723, False, 
+##[group]Setting up auth, 14.69874717164869, , , , 61635, False, 
+##[group]Fetching the repository, 54.9287175369007, , , , 412407, False, 
+##[group]Environment details, 21.29907533737347, , , , 3649139, False, 
+##[group]Run actions/cache@v3, 3.9415659031252734, , , , 1568753, False, 
+##[group]Run actions/cache@v3__dup_9, 9.578423112831947, , , , 581229, False, 
+##[group]Run pod --version > version.txt, 2.317397768440516, , , , 38888, True, ##[error]Process completed with exit code 127.
+##[group]Run npx detox --version, 70.89129351015106, , , , 18580968, True, ##[error]Process completed with exit code 127.

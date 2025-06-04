@@ -1,0 +1,24 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2222.2 files/s 167372.2 lines/s)"
+Java,/tmp/clone_directory/jabel-javac-plugin/src/main/java/com/github/bsideup/jabel/RecordsRetrofittingTaskListener.java,53,16,426
+Java,/tmp/clone_directory/jabel-javac-plugin/src/main/java/com/github/bsideup/jabel/JabelCompilerPlugin.java,28,7,180
+Markdown,/tmp/clone_directory/README.md,37,2,157
+Bourne Shell,/tmp/clone_directory/gradlew,27,108,99
+Java,/tmp/clone_directory/example/src/test/java/com/example/RecordExampleTest.java,16,0,76
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Java,/tmp/clone_directory/example/src/main/java/com/example/JabelExample.java,15,12,57
+Gradle,/tmp/clone_directory/gradle/publishing.gradle,0,0,32
+Gradle,/tmp/clone_directory/jabel-javac-plugin/build.gradle,7,0,31
+Gradle,/tmp/clone_directory/example/build.gradle,6,0,23
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,22
+YAML,/tmp/clone_directory/.github/workflows/release.yml,2,0,21
+Gradle,/tmp/clone_directory/build.gradle,2,0,20
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,3,0,13
+Java,/tmp/clone_directory/example/src/main/java/com/example/RecordExample.java,4,0,11
+Java,/tmp/clone_directory/example/src/test/java/com/example/JabelExampleTest.java,7,0,11
+Java,/tmp/clone_directory/jabel-javac-plugin/src/main/java/com/github/bsideup/jabel/Desugar.java,3,0,11
+Java,/tmp/clone_directory/example/src/test/java/com/example/JDKCheck.java,3,0,8
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Gradle,/tmp/clone_directory/settings.gradle,1,0,3
+YAML,/tmp/clone_directory/jitpack.yml,0,0,2
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,0,1
+SUM,,235,147,1275

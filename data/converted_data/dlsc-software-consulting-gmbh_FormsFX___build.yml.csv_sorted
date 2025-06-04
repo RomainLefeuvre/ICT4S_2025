@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 100.47734983312644, , , , 2458365, False, 
+##[group]Fetching the repository, 87.6821005707234, , , , 453219, False, 
+##[group]Run mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar, 39.06015337359185, , , , 10500534, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.0.0-M3:enforce (default) on project formsfx: Some Enforcer rules have failed. Look above for specific messages explaining why the rule failed. -> [Help 1]
+##[group]Run actions/checkout@v2, 35.99409817518239, , , , 182900, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 17.843506096442354, , , , 44830, False, 
+##[group]Run actions/setup-java@v1, 17.126972137747785, , , , 128593, False, 
+##[group]Run actions/cache@v1, 17.024610143648562, , , , 62885, False, 
+##[group]Run actions/cache@v1__dup_7, 16.81988615545011, , , , 62194, False, 

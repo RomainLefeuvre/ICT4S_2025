@@ -1,0 +1,17 @@
+##[group]Installed distributions, 3534.8485086628543, , , , 450536509, False, 
+##[group]Run ./gradlew postReleaseCleanup, 219.411098516194, , , , 32192122, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 108.7655623260988, , , , 11524765, False, 
+> Task :buildSrc:jar, 85.34915669119002, , , , 4900530, False, 
+##[group]GITHUB_TOKEN Permissions, 30.751676933453748, , , , 3525317, False, 
+##[group]Restore persisted git credentials, 10.668310138343571, , , , 629342, False, 
+##[group]Checking the base repository state, 9.992382290182276, , , , 494104, False, 
+> Task :buildSrc:classes, 9.444362781031815, , , , 300388, False, 
+##[group]Create or update the pull request branch, 7.139927957539978, , , , 466909, True, ##[error]The process '/usr/bin/git' failed with exit code 128
+##[group]Run peter-evans/create-pull-request@v4, 4.423941853375832, , , , 226973, False, 
+##[group]Save persisted git credentials, 2.140806103804096, , , , 33001, False, 
+##[group]Setting up auth, 1.3514437925398712, , , , 98994, False, 
+##[group]Cleaning the repository, 1.330886207688391, , , , 60765, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.3103286228369104, , , , 102202, False, 
+##[group]Run actions/checkout@v4.1.1, 1.28977103798543, , , , 142181, False, 
+##[group]Checking out the ref, 1.223223718950336, , , , 29081, False, 
+Requested labels: self-hosted, 0.6517748775868695, , , , 4900521, False, 

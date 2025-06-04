@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 9.0679297048803, , , , 5040629, False, 
+##[group]GITHUB_TOKEN Permissions, 878.4969120219408, , , , 4580271, False, 
+##[group]Run actions/checkout@v2, 56.45823860706687, , , , 202215, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 28.77700092432552, , , , 19086, False, 
+##[group]Fetching the repository, 149.36382082954842, , , , 460413, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java, 162.14772531469703, , , , 531927, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v2, 439.5596498681445, , , , 1209268, False, 
+##[group]Run export DISPLAY=:90, 275.5920549101542, , , , 12818492, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project parent: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]Run actions/upload-artifact@v2, 8.47592169674357, , , , 828927, False, 

@@ -1,0 +1,8 @@
+##[group]Run gradle build --stacktrace, 52.71876034015395, , , , 23894009, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 13.36988194401332, , , , 2240202, False, 
+##[group]Fetching the repository, 3.739477697937908, , , , 723186, False, 
+Requested labels: self-hosted, 3.2934088286907297, , , , 5553998, False, 
+##[group]Run actions/checkout@v3, 1.0990294743244262, , , , 163045, False, 
+##[group]Initializing the repository, 0.5459831285183369, , , , 130457, False, 
+##[group]Setting up auth, 0.5436287227557525, , , , 80611, False, 
+##[group]Checking out the ref, 0.5247934766550784, , , , 39408, False, 

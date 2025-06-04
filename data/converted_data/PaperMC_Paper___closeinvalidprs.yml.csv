@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 0.0133899400854972, , , , 3916615, False, 
+##[group]GITHUB_TOKEN Permissions, 75.5025241207727, , , , 1506672, False, 
+##[group]Run superbrothers/close-pull-request@v3, 25.195773754553, , , , 1413289, True, ##[error]Ignoring this event (only listens for 'pull_request_target')

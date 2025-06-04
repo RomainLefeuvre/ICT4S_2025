@@ -1,0 +1,7 @@
+##[group]Run ./gradlew --info --stacktrace build, 223.8660706864137, , , , 22284034, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 211.6832413893006, , , , 2265415, False, 
+##[group]Run actions/checkout@v1, 142.35210115374966, , , , 911358, False, 
+##[group]Run actions/cache@v1__dup_6, 17.25416467009645, , , , 63452, False, 
+##[group]Run actions/cache@v1, 16.679125707292357, , , , 62595, False, 
+##[group]Run actions/setup-java@v1, 16.104086744488264, , , , 134466, False, 
+Requested labels: self-hosted, 0.0149789298683678, , , , 4108191, False, 

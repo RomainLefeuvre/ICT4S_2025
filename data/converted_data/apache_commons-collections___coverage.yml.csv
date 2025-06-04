@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 9.328045586487027, , , , 5523733, False, 
+##[group]GITHUB_TOKEN Permissions, 33.37444266006362, , , , 4285994, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 1.0146549433436318, , , , 148900, False, 
+##[group]Setting up auth, 1.0245926564286243, , , , 58100, False, 
+##[group]Fetching the repository, 9.668530996682296, , , , 935901, False, 
+##[group]Checking out the ref, 1.1239697872785523, , , , 80008, False, 
+##[group]Removing auth, 1.133907500363545, , , , 67822, False, 
+##[group]Run actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9, 18.499269468202097, , , , 1478575, False, 
+##[group]Run mvn --show-version --batch-mode --no-transfer-progress test jacoco:report, 190.1555481401949, , , , 27031868, True, [ERROR] Failed to execute goal org.apache.rat:apache-rat-plugin:0.16.1:check (rat-check) on project commons-collections4: Too many files with unapproved license: 4 See RAT report in: /home/power/actions-runner/_work/commons-collections/commons-collections/target/rat.txt -> [Help 1]
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-maven-version) @ commons-collections4 ---, 11.569233712385577, , , , 849963, False, 
+##[group]Run codecov/codecov-action@54bcd8715eee62d40e33596ef5e8f0f48dbbccab, 45.47841336031638, , , , 7685391, False, 

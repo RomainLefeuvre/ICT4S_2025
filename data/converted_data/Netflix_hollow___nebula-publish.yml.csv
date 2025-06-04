@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 1.4598436027183568, , , , 3706659, False, 
+##[group]GITHUB_TOKEN Permissions, 5.540104235422562, , , , 2210185, False, 
+##[group]Run actions/checkout@v1, 2.281303160695982, , , , 1010501, False, 
+##[group]Run git config --global user.name "Netflix OSS Maintainers", 0.21957465361431, , , , 45774, True, ##[error]Process completed with exit code 5.
+##[group]Run actions/setup-java@v1, 85.54207154710333, , , , 24027903, False, 
+##[group]Run actions/cache@v1, 0.9122412266414118, , , , 65512, False, 
+##[group]Run actions/cache@v1__dup_7, 0.915327549271084, , , , 65202, False, 
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final, 6.450501361712999, , , , 706170, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck

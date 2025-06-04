@@ -1,0 +1,5 @@
+##[group]Run mvn -B package --file pom.xml, 8.85175226503524, , , , 1515393, True, [ERROR] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 7.170236601784816, , , , 1990264, False, 
+##[group]Fetching the repository, 5.234907253515464, , , , 1049418, False, 
+##[group]GITHUB_TOKEN Permissions, 4.962057542120112, , , , 2278989, False, 
+Requested labels: self-hosted, 0.0143326282145861, , , , 4087353, False, 

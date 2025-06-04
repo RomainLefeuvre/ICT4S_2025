@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,64.03166301978892,17397007,False,
+##[group]Run ./gradlew build,5.335118736603185,384555,True,##[error]Process completed with exit code 127.
+##[group]Run cd android/canonical/,1.3884405835732814,78587,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,1.036757921500053,1949646,False,
+##[group]Fetching the repository,0.5469273672840861,696037,False,
+##[group]Run actions/checkout@v2,0.1397369372456593,200972,False,
+##[group]Initializing the repository,0.072122290191308,15312,False,
+Requested labels: self-hosted,0.0,6066032,False,

@@ -1,0 +1,10 @@
+##[group]Run ./gradlew check jacoco assemble, 572.625303330915, , , , 58548012, True, ##[error]Process completed with exit code 1.
+##[group]Run codecov/codecov-action@v3, 224.80738628520317, , , , 21176974, False, 
+##[group]GITHUB_TOKEN Permissions, 54.660017767433686, , , , 4916662, False, 
+##[group]Run actions/cache@v3, 30.06429290312355, , , , 1118413, False, 
+Requested labels: self-hosted, 25.900159238935046, , , , 5703299, False, 
+##[group]Run actions/setup-java@v2, 17.29814904742511, , , , 548221, False, 
+##[group]Fetching the repository, 14.87912300610878, , , , 553781, False, 
+##[group]Run actions/checkout@v3, 6.080141177806303, , , , 168803, False, 
+##[group]Setting up auth, 3.01865525967602, , , , 69988, False, 
+##[group]Checking out the ref, 2.9329939427674927, , , , 30649, False, 

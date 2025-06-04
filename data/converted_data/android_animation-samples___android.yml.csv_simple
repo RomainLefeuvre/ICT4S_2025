@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/upload-artifact@v1,190.27732737299803,2363292,False,
+##[group]Run .github/scripts/gradlew_recursive.sh assembleDebug,184.09303402650175,18451411,False,
+##[group]Run actions/checkout@v1,19.59603324766076,6146110,False,
+##[group]Run zip -r assemble.zip . -i '**/build/*.apk' '**/build/*.aab' '**/build/*.aar' '**/build/*.so',13.046772165407749,98948,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,8.503005728492644,2134333,False,
+##[group]==END_FILE==,6.956375216492813,6749696,False,
+##[group]Run actions/setup-java@v1,2.1777741752936794,250045,False,

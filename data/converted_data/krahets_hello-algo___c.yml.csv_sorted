@@ -1,0 +1,21 @@
+Requested labels: self-hosted__dup_3, 112.8478483649486, , , , 28282432, False, 
+Requested labels: self-hosted, 98.9931183537964, , , , 16781258, False, 
+Requested labels: self-hosted__dup_2, 70.09930587634511, , , , 4470878, False, 
+##[group]GITHUB_TOKEN Permissions, 24.29833635532394, , , , 1619564, False, 
+##[group]Cleaning the repository, 20.09631632474576, , , , 524217, False, 
+##[group]Fetching the repository, 18.156922464478907, , , , 483475, False, 
+##[group]Run ctest --build-config Release, 9.730517162527232, , , , 300393, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/hello-algo/hello-algo/codes/c/build'. No such file or directory
+##[group]Run actions/checkout@v4, 8.62034468797836, , , , 177498, False, 
+##[group]GITHUB_TOKEN Permissions__dup_16, 6.16030944784344, , , , 1213852, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 4.213202650975837, , , , 36389, False, 
+##[group]Setting up auth, 3.825323878922467, , , , 92202, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 3.3529408707052646, , , , 1174291, False, 
+##[group]Fetching the repository__dup_19, 2.8610861515637143, , , , 438998, False, 
+##[group]Run ctest --build-config Release__dup_21, 2.4020880663201387, , , , 315649, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/hello-algo/hello-algo/codes/c/build'. No such file or directory
+##[group]Fetching the repository__dup_14, 1.814735658213105, , , , 461521, False, 
+##[group]Run ctest --build-config Release__dup_15, 1.5879202771762622, , , , 318659, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/hello-algo/hello-algo/codes/c/build'. No such file or directory
+##[group]Run actions/checkout@v4__dup_17, 1.2752258317531582, , , , 192169, False, 
+##[group]Checking out the ref, 0.7541008488981032, , , , 27459, False, 
+##[group]Setting up auth__dup_18, 0.6764422268837538, , , , 71152, False, 
+##[group]Run actions/checkout@v4__dup_12, 0.6702040016737871, , , , 189642, False, 
+##[group]Cleaning the repository__dup_13, 0.3443837111054693, , , , 39284, False, 

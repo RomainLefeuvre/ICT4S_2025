@@ -1,0 +1,667 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.95 s (341.5 files/s 71440.9 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,13012
+YAML,/tmp/clone_directory/pnpm-lock.yaml,516,0,3207
+JSON,/tmp/clone_directory/src/main/resources/css/selection.json,0,0,1959
+JSON,/tmp/clone_directory/src/main/resources/repository.json,0,0,1887
+SCSS,/tmp/clone_directory/src/main/resources/scss/mobile-base.scss,406,139,1869
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/index.css,1,39,1793
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/highlight.pack.js,0,5,1612
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/AdminProcessor.java,409,517,1560
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ArticleQueryService.java,244,477,1414
+JavaScript,/tmp/clone_directory/src/main/resources/js/common.js,120,260,1410
+JavaScript,/tmp/clone_directory/src/main/resources/js/article.js,156,250,1365
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ArticleMgmtService.java,278,308,1222
+SCSS,/tmp/clone_directory/src/main/resources/scss/base.scss,227,77,1122
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/file-upload-9.10.1/jquery.fileupload.js,86,271,1111
+SCSS,/tmp/clone_directory/src/main/resources/scss/index.scss,229,63,1034
+JavaScript,/tmp/clone_directory/src/main/resources/js/m-article.js,131,168,1019
+Properties,/tmp/clone_directory/src/main/resources/lang_en_US.properties,15,36,1000
+Properties,/tmp/clone_directory/src/main/resources/lang_zh_CN.properties,15,36,1000
+HTML,/tmp/clone_directory/src/main/resources/emoji/index.html,3,0,958
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/ArticleProcessor.java,177,238,842
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/NotificationQueryService.java,142,262,833
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/SettingsProcessor.java,144,187,805
+Markdown,/tmp/clone_directory/README.md,41,0,693
+JavaScript,/tmp/clone_directory/src/main/resources/js/settings.js,38,103,670
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/UserProcessor.java,196,162,608
+Text,/tmp/clone_directory/src/test/resources/markdown_syntax.text,303,0,593
+HTML,/tmp/clone_directory/CHANGE_LOGS_2013-2019.html,3,0,591
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/jquery.bowknot.min.js,26,91,568
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/UserMgmtService.java,113,169,565
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/forward.ftl,86,14,547
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/forward.ftl,93,14,547
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/CommentQueryService.java,104,214,540
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/article.ftl,27,14,540
+HTML,/tmp/clone_directory/src/main/resources/halt.html,87,0,528
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/mathmaps/mathmaps_ie.js,1,0,517
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/InitMgmtService.java,101,94,500
+JavaScript,/tmp/clone_directory/src/main/resources/js/add-article.js,60,82,492
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/LoginProcessor.java,106,142,479
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/article.ftl,13,14,477
+Markdown,/tmp/clone_directory/README_en_US.md,37,0,468
+SCSS,/tmp/clone_directory/src/main/resources/scss/home.scss,98,42,465
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/NotificationMgmtService.java,110,327,461
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/user.ftl,11,14,460
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/NotificationProcessor.java,125,131,456
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/channel/GobangChannel.java,51,93,451
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/CommentMgmtService.java,114,144,449
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/sound-recorder/SoundRecorder.js,112,134,427
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/file-upload-9.10.1/vendor/jquery.ui.widget.js,69,68,426
+SCSS,/tmp/clone_directory/src/main/resources/scss/_common.scss,65,30,423
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/PointtransferQueryService.java,50,83,418
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Mails.java,67,137,407
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/UserQueryService.java,85,238,390
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/TagQueryService.java,79,199,362
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/jquery.pjax.js,8,32,359
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ActivityMgmtService.java,65,119,353
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Symphonys.java,180,523,338
+Maven,/tmp/clone_directory/pom.xml,43,6,331
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Markdowns.java,63,82,327
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/ant-design.css,79,65,325
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/IndexProcessor.java,56,106,324
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/CommentProcessor.java,70,136,318
+JavaScript,/tmp/clone_directory/src/main/resources/js/verify.js,34,58,309
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/ActivityProcessor.java,64,133,300
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/DataModelService.java,62,172,296
+JavaScript,/tmp/clone_directory/src/main/resources/js/eating-snake.js,13,39,295
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/article.ftl,10,14,284
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Sessions.java,75,152,283
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/nprogress/nprogress.js,96,107,272
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/user.ftl,68,18,269
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/FileUploadProcessor.java,47,55,261
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/FollowQueryService.java,45,196,259
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/graphviz/viz.js,58,19,256
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/CommentNotifier.java,59,76,248
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/statistic.ftl,7,14,238
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/TagMgmtService.java,64,105,222
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/VoteMgmtService.java,57,86,221
+Freemarker Template,/tmp/clone_directory/src/main/resources/mail_tpl/sym_weekly.ftl,10,35,218
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/BreezemoonQueryService.java,39,127,216
+JavaScript,/tmp/clone_directory/src/main/resources/js/channel.js,38,80,215
+JavaScript,/tmp/clone_directory/src/main/resources/js/gobang.js,8,39,215
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/DomainQueryService.java,44,108,212
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/RoleQueryService.java,58,135,211
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/index.ftl,8,14,211
+Properties,/tmp/clone_directory/src/main/resources/symphony.properties,27,60,210
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/statistic.ftl,7,14,206
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Tag.java,83,217,204
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/macro-admin.ftl,5,14,204
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/post.ftl,6,14,198
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/post.ftl,5,14,196
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/icons/material.js,0,0,195
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/diff2html/diff.min.js,9,213,193
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/channel/ArticleChannel.java,39,70,186
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/BreezemoonProcessor.java,36,85,178
+Freemarker Template,/tmp/clone_directory/src/main/resources/mail_tpl/sym_verifycode.ftl,5,14,178
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/cache/ArticleCache.java,34,95,175
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/icons/ant.js,0,0,174
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/macro-admin.ftl,5,14,174
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/FollowMgmtService.java,34,100,171
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Common.java,165,516,168
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/UserExt.java,114,374,168
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/AudioMgmtService.java,34,42,166
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/macro-home.ftl,6,14,166
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/article.ftl,38,14,165
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/CityProcessor.java,40,57,164
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/SearchMgmtService.java,33,61,163
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/macro-notifications.ftl,5,14,163
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/cache/TagCache.java,47,93,162
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ActivityQueryService.java,37,89,162
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/CharacterQueryService.java,49,91,162
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/ArticlePostValidationMidware.java,35,40,161
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/tango.css,12,10,161
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/verify/guide.ftl,7,14,159
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/Server.java,31,37,158
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/jquery.hotkeys.js,23,23,158
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ReportQueryService.java,17,76,157
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/TagProcessor.java,33,63,154
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/css/content-theme/ant-design.css,30,26,154
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/monokailight.css,15,12,153
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/github.css,20,3,151
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/domain.ftl,10,14,151
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/tag-articles.ftl,9,14,151
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/RevisionQueryService.java,30,57,150
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/friendly.css,26,8,149
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/CaptchaProcessor.java,34,58,148
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/xcode.css,22,4,148
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/pastie.css,26,8,146
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/UserRegisterValidationMidware.java,31,86,145
+JavaScript,/tmp/clone_directory/src/main/resources/emoji/script.js,26,6,145
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/file-upload-9.10.1/jquery.iframe-transport.js,6,66,145
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/verify/guide.ftl,7,14,145
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/OptionQueryService.java,31,82,144
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/PostExportService.java,28,45,144
+CSS,/tmp/clone_directory/src/main/resources/emoji/style.css,13,0,143
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/rainbow_dash.css,18,3,143
+SCSS,/tmp/clone_directory/src/main/resources/scss/responsive.scss,35,31,143
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/macro-notifications.ftl,5,14,143
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleAddNotifier.java,24,52,141
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/LinkMgmtService.java,30,65,141
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/solarized-light.css,13,9,141
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/VoteProcessor.java,46,132,139
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/side.ftl,9,14,138
+JavaScript,/tmp/clone_directory/src/main/resources/js/activity.js,20,54,137
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/abap.css,16,3,136
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/arduino.css,18,3,136
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/colorful.css,13,9,136
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/pygments.css,16,7,136
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/FollowProcessor.java,19,153,135
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/emacs.css,16,16,135
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/md5.js,12,28,134
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/trac.css,25,8,134
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/AnonymousViewCheckMidware.java,26,41,132
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/native.css,16,16,132
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/FeedProcessor.java,19,57,130
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/MailMgmtService.java,31,58,128
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/lovelace.css,10,8,128
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/borland.css,17,3,127
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/bw.css,20,3,127
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/vim.css,14,3,127
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/murphy.css,13,5,126
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/rrt.css,26,8,125
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/activities.ftl,5,14,125
+JavaScript,/tmp/clone_directory/src/main/resources/js/breezemoon.js,9,27,124
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/solarized-dark256.css,13,9,124
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/file-upload-9.10.1/jquery.fileupload-process.js,14,38,123
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/solarized-dark.css,14,9,123
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/dracula.css,15,3,122
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/macro-home.ftl,6,14,122
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/algol.css,19,3,121
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/manni.css,9,9,121
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/swapoff.css,18,5,121
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/tag.ftl,5,14,121
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/monokai.css,9,3,120
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/perldoc.css,9,12,120
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/autumn.css,11,9,118
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/home-side.ftl,9,14,118
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/DomainMgmtService.java,27,73,117
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/privacy.ftl,8,14,117
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/privacy.ftl,7,14,117
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/tag-articles.ftl,5,14,117
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/paraiso-dark.css,10,11,116
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/paraiso-light.css,9,11,116
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/home-side.ftl,9,14,115
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Article.java,96,315,114
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/UpdateProfilesValidationMidware.java,28,45,114
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/breezemoon.ftl,6,20,113
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/BeforeRequestHandler.java,20,32,112
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/index.ftl,6,14,112
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/SearchProcessor.java,27,47,111
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/StatisticProcessor.java,39,81,110
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/comment.ftl,7,14,110
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/feed/RSSChannel.java,54,176,109
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Links.java,27,46,109
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/mathmaps/en.js,1,0,109
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/SearchQueryService.java,20,49,108
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Permission.java,98,320,107
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/VerifycodeMgmtService.java,18,63,107
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/ChatroomProcessor.java,28,82,106
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/InvitecodeMgmtService.java,25,53,106
+JavaScript,/tmp/clone_directory/src/main/resources/js/chat-room.js,7,33,105
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/igor.css,16,3,105
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/CommentRepository.java,27,52,104
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/city.ftl,7,14,104
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/fruity.css,11,9,103
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/mathmaps/de.js,1,0,103
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/mathmaps/es.js,1,0,103
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/mathmaps/fr.js,1,0,103
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/mathmaps/nemeth.js,1,0,103
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/AvatarQueryService.java,22,55,101
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/CacheMgmtService.java,19,62,101
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/BreezemoonMgmtService.java,19,68,99
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/footer.ftl,10,14,99
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/domain.ftl,25,14,98
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/side.ftl,9,34,98
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleUpdateNotifier.java,20,53,97
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/vs.css,13,3,97
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/common/comment.ftl,6,14,97
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/common/comment.ftl,6,14,97
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/channel/UserChannel.java,19,59,96
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/function.ftl,6,14,96
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Geos.java,19,53,95
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/header.ftl,5,14,95
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/breezemoon.ftl,6,14,95
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/activities.ftl,5,14,95
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/SkinRenderer.java,22,59,94
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/chat-room.ftl,5,14,94
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/breezemoons.ftl,6,14,94
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/feed/RSSItem.java,44,146,93
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/domain-articles.ftl,6,14,92
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/TopProcessor.java,20,74,91
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/CronMgmtService.java,21,63,91
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/breezemoon.ftl,7,14,91
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/chat-room.ftl,5,14,90
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/sitemap/Sitemap.java,44,135,89
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ShortLinkQueryService.java,14,40,88
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/tags.ftl,5,14,87
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/DomainProcessor.java,26,53,86
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/Activity1A0001ValidationMidware.java,17,33,86
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/i18n/en_US.js,0,0,85
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/i18n/ja_JP.js,0,0,85
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/i18n/ko_KR.js,0,0,85
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/i18n/ru_RU.js,0,0,85
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/i18n/zh_CN.js,0,0,85
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/i18n/zh_TW.js,0,0,85
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/InvitecodeQueryService.java,14,101,84
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/qna.ftl,6,14,83
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/CommentUpdateNotifier.java,14,45,82
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/recent.ftl,7,14,81
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/macro-settings.ftl,5,14,81
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/PointTransferValidationMidware.java,15,30,80
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/styles/algol_nu.css,7,3,80
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/TagRepository.java,27,67,79
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/footer.ftl,6,14,79
+JavaScript,/tmp/clone_directory/gulpfile.js,12,27,78
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Operation.java,62,205,78
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Pointtransfer.java,75,246,78
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Pangu.java,26,41,77
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/PermissionMidware.java,14,33,76
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/ArticleRepository.java,19,38,76
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/file-upload-9.10.1/jquery.fileupload-validate.js,12,34,76
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/css/content-theme/dark.css,21,26,76
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/activity/eating-snake.ftl,5,15,76
+Java,/tmp/clone_directory/src/test/java/org/b3log/symphony/util/RedditScoreTest.java,15,27,76
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/MediaPlayers.java,23,70,75
+XML,/tmp/clone_directory/src/main/resources/static-resources.xml,13,20,75
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/UserRepository.java,18,56,74
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/OperationQueryService.java,10,63,73
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/solidity.min.js,0,0,73
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/tags.ftl,5,14,72
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/at.ftl,7,14,72
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleBaiduSender.java,13,37,71
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/RoleMgmtService.java,15,51,71
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/function.ftl,6,14,71
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/following-users.ftl,5,14,70
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/PointtransferMgmtService.java,16,45,69
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/at.ftl,6,14,69
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/watch.ftl,5,14,69
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/CommentAddValidationMidware.java,11,24,68
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ReportMgmtService.java,17,62,68
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/SitemapQueryService.java,13,48,68
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/followers.ftl,5,14,68
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/comment.ftl,18,14,68
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/breezemoons.ftl,6,14,68
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/pre-post.ftl,5,14,67
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/Router.java,12,55,66
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/account.ftl,14,14,66
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/VoteQueryService.java,16,51,65
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/graphviz/full.render.js,19,6,65
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/tag.ftl,21,14,65
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/activity/1A0001.ftl,8,14,64
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/articles.ftl,5,14,63
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/macro-settings.ftl,5,14,63
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/following-tags.ftl,5,14,62
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/articles.ftl,5,14,62
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/VisitMgmtService.java,12,39,61
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/invitecode.ftl,8,14,61
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/common/list-item.ftl,12,14,60
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/activity/1A0001.ftl,7,14,60
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/channel/ChatroomChannel.java,13,61,59
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/css/content-theme/light.css,16,26,59
+CSS,/tmp/clone_directory/src/main/resources/js/lib/nprogress/nprogress.css,12,3,58
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/css/content-theme/wechat.css,10,26,58
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/activity/character.ftl,5,14,58
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/domains.ftl,5,14,58
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/verify/register.ftl,10,14,58
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Liveness.java,21,69,57
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/ErrorProcessor.java,12,41,57
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Emotions.java,18,66,57
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/misc.ftl,7,14,57
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/breezemoon.ftl,14,14,57
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/domains.ftl,5,14,57
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/verify/register.ftl,10,14,57
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Comment.java,53,186,56
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/activity/gobang.ftl,5,14,56
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/add-article.ftl,5,14,56
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/verify/login.ftl,7,14,56
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/verify/register2.ftl,8,14,56
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/reserved-word.ftl,7,14,55
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/tags.ftl,5,14,55
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/following.ftl,8,14,55
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/qna.ftl,5,14,55
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/verify/login.ftl,7,14,55
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/verify/register2.ftl,8,14,55
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/home.ftl,5,14,54
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/following.ftl,7,14,54
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/invite.ftl,6,14,54
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/recent.ftl,5,14,54
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/users.ftl,5,14,53
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/common/person-info.ftl,9,14,53
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/following-articles.ftl,5,14,53
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/watching-articles.ftl,5,14,53
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/perfect.ftl,5,14,53
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/ChatMsgAddValidationMidware.java,9,33,52
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/OptionMgmtService.java,16,46,52
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/index.ftl,7,14,52
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/ReportProcessor.java,13,41,51
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/Activity1A0001CollectValidationMidware.java,12,30,51
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/verify/reset-pwd.ftl,6,14,51
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/macro-list.ftl,5,14,51
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/EmotionMgmtService.java,13,39,50
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/LivenessMgmtService.java,10,36,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/comments.ftl,6,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/top/macro-top.ftl,5,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/activity/character.ftl,5,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/followers.ftl,5,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/following-users.ftl,5,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/pre-post.ftl,5,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/top/balance.ftl,5,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/verify/reset-pwd.ftl,6,14,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/watch.ftl,5,14,50
+JSON,/tmp/clone_directory/package.json,0,0,49
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/charge-point.ftl,5,14,49
+Markdown,/tmp/clone_directory/CHANGE_LOGS.md,33,0,48
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/CommentUpdateValidationMidware.java,11,36,48
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/LivenessQueryService.java,12,42,48
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/top/balance.ftl,5,14,48
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/misc.ftl,7,14,48
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/top/consumption.ftl,6,14,48
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/cache/UserCache.java,15,65,47
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/ForwardProcessor.java,11,38,47
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/CSRFMidware.java,11,29,47
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/ReferralMgmtService.java,9,35,47
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/top/consumption.ftl,5,14,47
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/index.ftl,7,14,47
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/users.ftl,5,14,47
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/domain-articles.ftl,5,14,47
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/role-permissions.ftl,5,14,46
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleSearchAdder.java,10,35,45
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleSearchUpdater.java,10,35,45
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Notification.java,42,149,45
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/UserRegister2ValidationMidware.java,14,47,45
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/following-tags.ftl,5,14,45
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/top/checkin.ftl,5,14,45
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/channel/ArticleListChannel.java,12,56,44
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/RewardQueryService.java,13,45,44
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/top/checkin.ftl,5,14,44
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/verify/forget-pwd.ftl,6,14,44
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/reserved-word.ftl,9,14,44
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/TagTagRepository.java,11,84,43
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/lute/lute.min.js,4,0,43
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/invite.ftl,5,14,43
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/verify/forget-pwd.ftl,5,14,43
+JavaScript,/tmp/clone_directory/src/main/resources/js/symbol-defs.js,1,24,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/reports.ftl,5,14,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/reports.ftl,5,14,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/following-articles.ftl,5,14,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/home.ftl,5,14,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/avatar.ftl,7,14,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/watching-articles.ftl,5,14,42
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/OptionRepository.java,12,30,41
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/add-user.ftl,5,14,41
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/avatar.ftl,7,14,41
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/invitecode.ftl,10,14,41
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/role-permissions.ftl,7,14,41
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/city.ftl,5,14,41
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/common/person-info.ftl,6,14,41
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/FollowRepository.java,8,72,40
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/LinkQueryService.java,9,39,40
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Templates.java,9,45,40
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/charge-point.ftl,5,14,40
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/cache/DomainCache.java,10,42,39
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/PointtransferRepository.java,9,37,39
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/VerifycodeQueryService.java,6,44,39
+Java,/tmp/clone_directory/src/test/java/org/b3log/symphony/util/ElasticsearchTestCase.java,6,22,39
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/AfterRequestHandler.java,8,27,38
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/UserCheckMidware.java,8,27,38
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/tags.ftl,5,14,38
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/broadcast.ftl,6,14,38
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/top/macro-top.ftl,5,14,38
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/domains.ftl,5,14,37
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/broadcast.ftl,6,14,37
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/domains.ftl,5,14,37
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Headers.java,9,47,36
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/error/401.ftl,6,14,36
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/error/403.ftl,6,14,36
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/comments.ftl,6,14,36
+Markdown,/tmp/clone_directory/src/main/resources/CHANGE_LOGS.md,26,0,35
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/hot.ftl,6,15,35
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/search-articles.ftl,5,14,35
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/TagArticleRepository.java,9,66,34
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/ad.ftl,7,14,34
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/invitecodes.ftl,5,14,34
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/invitecodes.ftl,5,14,34
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Report.java,30,115,33
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/EmotionRepository.java,7,41,33
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Gravatars.java,10,39,33
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/comments.ftl,6,14,33
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/commented.ftl,8,14,33
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/reply.ftl,8,14,33
+XML,/tmp/clone_directory/src/assembly/bin.xml,0,0,32
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Character.java,13,55,32
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/breezemoons.ftl,6,14,32
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/commented.ftl,8,14,32
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/reply.ftl,8,14,32
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/header.ftl,6,14,32
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/UserForgetPwdValidationMidware.java,7,27,31
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/DomainTagRepository.java,8,73,31
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/NotificationRepository.java,8,50,31
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/UserTagRepository.java,8,77,31
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/VoteRepository.java,6,42,31
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/perfect.ftl,7,14,31
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Link.java,27,103,30
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/validate/UpdatePasswordValidationMidware.java,6,27,30
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/LinkRepository.java,5,36,30
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/highlight.js/yul.min.js,0,0,30
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/error/401.ftl,5,14,29
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/error/403.ftl,5,14,29
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/comments.ftl,5,14,29
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleAddAudioHandler.java,7,35,28
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/ArticleUpdateAudioHandler.java,7,35,28
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Option.java,25,98,28
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/EmotionQueryService.java,8,40,28
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/jquery.qrcode.min.js,0,0,28
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/breezemoons.ftl,5,14,28
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/help.ftl,6,14,28
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/i18n.ftl,7,14,28
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Domain.java,24,96,27
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/SitemapProcessor.java,5,36,27
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/processor/middleware/LoginCheckMidware.java,5,24,27
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/RewardMgmtService.java,6,42,27
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Networks.java,8,37,27
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Runes.java,11,39,27
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/i18n.ftl,7,14,27
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/profile.ftl,8,14,27
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Images.java,10,33,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/error/404.ftl,5,14,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/points.ftl,5,14,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/top/link.ftl,5,14,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/ad.ftl,9,14,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/add-article.ftl,11,14,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/hot.ftl,5,14,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/top/link.ftl,5,14,26
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/cache/CommentCache.java,7,43,25
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/cache/OptionCache.java,7,43,25
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Escapes.java,7,43,25
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/add-user.ftl,9,14,25
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/add-domain.ftl,5,14,24
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/reserved-words.ftl,5,14,24
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/common/domains.ftl,5,14,24
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/profile.ftl,8,14,24
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/auditlog.ftl,5,14,24
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/reserved-words.ftl,5,14,24
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/service/OperationMgmtService.java,5,35,23
+SCSS,/tmp/clone_directory/src/main/resources/scss/error.scss,6,27,23
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/roles.ftl,5,14,23
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/roles.ftl,5,14,23
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/points.ftl,6,14,23
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/add-reserved-word.ftl,5,14,22
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/add-tag.ftl,5,14,22
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/error/500.ftl,5,14,22
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/macro-list.ftl,5,14,22
+XML,/tmp/clone_directory/src/main/resources/log4j2.xml,8,19,21
+SCSS,/tmp/clone_directory/src/main/resources/scss/_variables.scss,5,44,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/auditlog.ftl,5,14,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/error/custom.ftl,5,14,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/error.ftl,5,14,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/error/404.ftl,5,14,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/error/500.ftl,5,14,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/macro-pagination-query.ftl,7,14,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/macro-pagination.ftl,7,14,21
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Verifycode.java,17,75,20
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/LivenessRepository.java,5,41,20
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/admin/error.ftl,5,14,20
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/add-domain.ftl,6,14,20
+Java,/tmp/clone_directory/src/test/java/org/b3log/symphony/util/XSSTestCase.java,7,24,20
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/DomainRepository.java,5,41,19
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/RolePermissionRepository.java,6,46,19
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Tesseracts.java,5,33,19
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/macro-pagination-query.ftl,5,14,19
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/macro-pagination.ftl,5,14,19
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/add-reserved-word.ftl,6,14,19
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/error/custom.ftl,5,14,19
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/point.ftl,5,14,19
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,0,0,18
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Breezemoon.java,18,71,18
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/sys-announce.ftl,6,14,18
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/point.ftl,6,14,18
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/admin/add-tag.ftl,6,14,18
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Role.java,14,65,17
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Vote.java,14,65,17
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/ReferralRepository.java,4,35,17
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/macro-head.ftl,5,14,17
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/feed/RSSCategory.java,8,40,16
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/common/sub-nav.ftl,5,14,16
+YAML,/tmp/clone_directory/.github/workflows/dockerimage.yml,0,0,15
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Reward.java,12,58,15
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/JSONs.java,6,39,15
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Languages.java,5,35,15
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/notifications/point.ftl,6,14,15
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/point.ftl,6,14,15
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/notifications/sys-announce.ftl,6,14,15
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/macro-head.ftl,5,14,15
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Emotion.java,11,52,14
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Follow.java,11,55,14
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Invitecode.java,12,58,14
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Visit.java,13,57,14
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/RewardRepository.java,4,33,14
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/common/title-icon.ftl,5,14,14
+Dockerfile,/tmp/clone_directory/Dockerfile,5,0,13
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Referral.java,11,55,13
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/VisitRepository.java,4,33,13
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/Results.java,5,37,13
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,11,18,12
+Text,/tmp/clone_directory/src/main/resources/etc/header.txt,3,0,12
+Text,/tmp/clone_directory/src/main/resources/robots.txt,0,0,12
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/home/settings/data.ftl,5,14,12
+Markdown,/tmp/clone_directory/.github/SECURITY.md,3,0,11
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/model/Revision.java,9,49,11
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/UserRoleRepository.java,3,27,11
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/home/settings/data.ftl,5,14,11
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/BreezemoonRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/InvitecodeRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/OperationRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/PermissionRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/ReportRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/RevisionRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/RoleRepository.java,3,27,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/VerifycodeRepository.java,3,27,10
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/sre-node.js,0,1,10
+Java,/tmp/clone_directory/src/test/java/org/b3log/symphony/util/PanguTestCase.java,4,24,10
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/event/EventTypes.java,6,39,9
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/repository/CharacterRepository.java,3,27,9
+Java,/tmp/clone_directory/src/test/java/org/b3log/symphony/RepositoryJSONGen.java,4,24,9
+Properties,/tmp/clone_directory/src/test/resources/log4j.properties,5,31,9
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,8,16,8
+Properties,/tmp/clone_directory/src/main/resources/docker/local.properties,4,24,8
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/compress/libs.min.js,0,0,8
+Properties,/tmp/clone_directory/src/main/resources/local.properties,5,26,8
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/common/ranking.ftl,5,14,7
+Java,/tmp/clone_directory/src/main/java/org/b3log/symphony/util/StatusCodes.java,4,33,6
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/compress/article-libs.min.js,0,0,6
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/common/ranking.ftl,5,14,6
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,5
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/file-upload-9.10.1/jquery.fileupload.min.js,0,0,5
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mermaid/mermaid.min.js,0,27,5
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/classic/other/kill-browser.ftl,5,14,5
+Freemarker Template,/tmp/clone_directory/src/main/resources/skins/mobile/other/kill-browser.ftl,5,14,5
+Properties,/tmp/clone_directory/src/main/resources/docker/latke.properties,3,28,4
+Properties,/tmp/clone_directory/src/main/resources/latke.properties,3,28,4
+Properties,/tmp/clone_directory/src/test/resources/latke.properties,3,28,4
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/algolia/algolia.min.js,1,6,3
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/jquery-3.1.0.min.js,0,1,3
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/flowchart.js/flowchart.min.js,1,5,3
+Properties,/tmp/clone_directory/src/main/resources/skins/classic/skin.properties,2,22,3
+Properties,/tmp/clone_directory/src/main/resources/skins/mobile/skin.properties,2,22,3
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/algolia/algoliasearch.min.js,0,1,2
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/aplayer/APlayer.min.js,0,1,2
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/isotope.pkgd.min.js,1,9,2
+CSS,/tmp/clone_directory/src/main/resources/css/base.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/css/error.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/css/home.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/css/index.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/css/mobile-base.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/css/responsive.css,0,0,1
+SVG,/tmp/clone_directory/src/main/resources/images/index-bg.svg,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/activity.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/add-article.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/article.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/breezemoon.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/channel.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/chat-room.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/common.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/eating-snake.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/gobang.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/algolia/autocomplete.jquery.min.js,0,5,1
+CSS,/tmp/clone_directory/src/main/resources/js/lib/compress/article.min.css,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/diff2html/diff2html-ui.min.js,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/js/lib/diff2html/diff2html.min.css,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/diff2html/diff2html.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/jquery/jquery.linkify-1.0-min.js,0,2,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/livephotoskit.js,0,65,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/reconnecting-websocket.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/ua-parser.min.js,0,0,1
+SVG,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/images/img-loading.svg,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/index.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/abcjs/abcjs_basic.min.js,0,2,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/echarts/echarts.min.js,3,19,1
+CSS,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/katex/katex.min.css,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/katex/katex.min.js,0,1,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/katex/mhchem.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/a11y/assistive-mml.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/a11y/complexity.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/a11y/explorer.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/a11y/semantic-enrich.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/asciimath.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/mml.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/mml/entities.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex-base.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex-full.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/action.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/all-packages.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/ams.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/amscd.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/autoload.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/bbox.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/boldsymbol.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/braket.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/bussproofs.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/cancel.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/color.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/colorV2.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/configMacros.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/enclose.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/extpfeil.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/html.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/mhchem.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/newcommand.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/noerrors.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/noundefined.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/physics.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/require.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/tagFormat.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/textmacros.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/unicode.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/input/tex/extensions/verb.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/tex-svg-full.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/plantuml/plantuml-encoder.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/method.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/m-article.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/settings.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/symbol-defs.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/js/verify.min.js,0,0,1
+Markdown,/tmp/clone_directory/upload/README.md,0,0,1
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,2,3,0
+JavaScript,/tmp/clone_directory/src/main/resources/js/lib/vditor/dist/js/mathjax/sre/sre_browser.js,2,1631,0
+SUM,,13267,26641,99202

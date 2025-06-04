@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,200.87578976403336,15499267,False,
+##[group]GITHUB_TOKEN Permissions,79.7075897505025,2228599,False,
+##[group]Run mvn test,27.257910691646916,16515486,False,
+##[group]Fetching the repository,22.106579235928937,435303,False,
+##[group]Setting up auth,5.2622597329272685,61886,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.156505702505282,38784,False,
+##[group]Run actions/checkout@v3,5.050751672083296,157838,False,
+Requested labels: self-hosted,0.9303313633595932,4048158,False,

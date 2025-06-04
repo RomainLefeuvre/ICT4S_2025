@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 52.607684155978944, , , , 5545697, False, 
+##[group]Fetching the repository, 32.70654977705907, , , , 2766080, False, 
+##[group]GITHUB_TOKEN Permissions, 32.10396365302258, , , , 1927091, False, 
+##[group]Run actions/create-release@v1.1.4, 28.35062294043085, , , , 888151, False, 
+##[group]Run actions/checkout@v4.1.7, 10.59584537875577, , , , 174906, False, 
+##[group]Checking out the ref, 8.442105083549874, , , , 309457, False, 

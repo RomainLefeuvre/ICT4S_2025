@@ -1,0 +1,9 @@
+##[group]Installed versions, 127.95902055789692, , , , 22502586, False, 
+##[group]Run echo "::set-output name=week_of_year::$(date +'%W' --utc)", 1.952396290091139, , , , 108437, False, 
+##[group]Installed distributions, 12.856672399211543, , , , 541138, False, 
+##[group]Run java -version, 3.7129684674494783, , , , 1027965, False, 
+##[group]Run actions/cache@v3, 123.42212948440806, , , , 14759213, False, 
+##[group]Run pip install --require-hashes -r generation/new_client/requirements.txt, 9.15552140951052, , , , 2917762, False, 
+##[group]Run python generation/new_client/new-client.py generate \\, 342.7749898003873, , , , 134448151, True, ##[error]Process completed with exit code 1.
+##[group]Run [ -z "`git config user.email`" ] && git config --global user.email "${USERNAME:-script}@google.com", 2055.293228910928, , , , 127099861, False, 
+##[group]Run mvn -B -ntp test -T 1C, 471.4700161954421, , , , 15760177, True, [ERROR] [ERROR] Some problems were encountered while processing the POMs:

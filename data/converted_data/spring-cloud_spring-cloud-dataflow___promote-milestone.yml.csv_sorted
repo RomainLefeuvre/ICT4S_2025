@@ -1,0 +1,9 @@
+##[group]GITHUB_TOKEN Permissions, 34.03524390573948, , , , 2815147, False, 
+Requested labels: self-hosted, 32.80863408899592, , , , 4239828, False, 
+##[group]Fetching the repository, 21.580815768502763, , , , 456918, False, 
+##[group]Run actions/checkout@v4, 9.728315983477936, , , , 157133, False, 
+##[group]Cleanup JFrog CLI servers configuration, 6.739253230541124, , , , 232321, False, 
+##[group]Cleaning the repository, 4.714704854092127, , , , 43023, False, 
+##[group]Setting up auth, 4.615069428994234, , , , 156289, False, 
+##[group]Run jfrog rt build-promote $BUILD_ZOO_HANDLER_spring_cloud_deployer_buildname $BUILD_ZOO_HANDLER_spring_cloud_deployer_buildnumber libs-milestone-local, 3.7183506031131897, , , , 53274, True, [Error] the --url option is mandatory
+##[group]Run jvalkeal/build-zoo-handler@v0.0.4, 3.618715178015296, , , , 90511, False, 

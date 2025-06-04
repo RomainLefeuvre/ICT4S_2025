@@ -1,0 +1,122 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.05 s (2574.8 files/s 399840.7 lines/s)"
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/package-lock.json,0,0,7042
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-install-directory/package-lock.json,0,0,1737
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-working-directory/src/main/frontend/package-lock.json,0,0,1412
+JavaScript,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-berry-integration/.yarn/releases/yarn-4.1.1.cjs,96,207,590
+Markdown,/tmp/clone_directory/README.md,125,51,407
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NodeInstaller.java,58,7,275
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/PnpmInstaller.java,49,10,212
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NPMInstaller.java,36,10,187
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/BunInstaller.java,38,4,173
+Maven,/tmp/clone_directory/pom.xml,11,2,173
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/YarnInstaller.java,38,7,163
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/Platform.java,28,12,160
+Maven,/tmp/clone_directory/frontend-maven-plugin/pom.xml,12,1,146
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/ArchiveExtractor.java,18,11,142
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/ProcessExecutor.java,29,1,133
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NodeTaskExecutor.java,21,0,119
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/FileDownloader.java,19,7,115
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/ProxyConfig.java,23,10,109
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/YarnTaskExecutor.java,19,0,94
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/BunTaskExecutor.java,19,0,93
+Maven,/tmp/clone_directory/frontend-plugin-core/pom.xml,12,0,90
+Markdown,/tmp/clone_directory/CHANGELOG.md,50,0,87
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/MojoUtils.java,16,2,87
+Java,/tmp/clone_directory/frontend-plugin-core/src/test/java/com/github/eirslett/maven/plugins/frontend/lib/DefaultArchiveExtractorTest.java,22,0,87
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/InstallNodeAndNpmMojo.java,15,23,84
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/InstallNodeAndPnpmMojo.java,15,29,80
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/FrontendPluginFactory.java,25,0,77
+Java,/tmp/clone_directory/frontend-plugin-core/src/test/java/com/github/eirslett/maven/plugins/frontend/lib/DefaultNpmRunnerTest.java,19,0,71
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/AbstractFrontendMojo.java,18,27,65
+XML,/tmp/clone_directory/frontend-maven-plugin/src/it/settings.xml,0,0,61
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/YarnMojo.java,17,10,61
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/BunMojo.java,15,10,59
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/InstallNodeAndYarnMojo.java,18,19,59
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/pom.xml,5,3,57
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NodeExecutorConfig.java,16,0,57
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NpmRunner.java,18,1,57
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/NpmMojo.java,15,10,56
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/NpxMojo.java,15,10,56
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/PnpmMojo.java,15,10,56
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/ArgumentsParser.java,14,18,51
+Java,/tmp/clone_directory/frontend-plugin-core/src/test/java/com/github/eirslett/maven/plugins/frontend/lib/ArgumentsParserTest.java,20,1,51
+Java,/tmp/clone_directory/frontend-plugin-core/src/test/java/com/github/eirslett/maven/plugins/frontend/lib/PlatformTest.java,13,1,51
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/pnpm-integration/pom.xml,8,1,50
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/EmberMojo.java,16,20,48
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/GruntMojo.java,15,20,48
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/GulpMojo.java,15,20,48
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/WebpackMojo.java,15,20,48
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/RepositoryCacheResolver.java,9,0,44
+XML,/tmp/clone_directory/frontend-maven-plugin/src/main/resources/META-INF/m2e/lifecycle-mapping-metadata.xml,0,0,43
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/YarnExecutorConfig.java,19,0,43
+YAML,/tmp/clone_directory/.github/workflows/main.yml,3,0,41
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-install-directory/pom.xml,7,2,41
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-working-directory/pom.xml,7,2,41
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/npx-integration/pom.xml,7,1,41
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-berry-integration/pom.xml,7,1,41
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-integration/pom.xml,7,1,41
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/BowerMojo.java,12,6,41
+Java,/tmp/clone_directory/frontend-plugin-core/src/test/java/com/github/eirslett/maven/plugins/frontend/lib/UtilsTest.java,11,0,41
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/bun-integration/pom.xml,8,2,40
+Maven,/tmp/clone_directory/frontend-maven-plugin/src/it/node-provided-npm/pom.xml,7,2,40
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NpxRunner.java,13,7,40
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/InstallBunMojo.java,10,10,39
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/PnpmRunner.java,14,1,39
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/InstallConfig.java,10,0,38
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/YarnRunner.java,14,2,38
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/BunRunner.java,13,0,34
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/BunExecutorConfig.java,14,0,32
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/Utils.java,6,0,31
+YAML,/tmp/clone_directory/appveyor.yml,1,2,29
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/CacheDescriptor.java,8,0,28
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/node-provided-npm/package-lock.json,0,0,27
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/JspmMojo.java,8,6,25
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/BunExecutor.java,6,0,25
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NodeExecutor.java,6,0,25
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/BowerRunner.java,8,0,24
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/DirectoryCacheResolver.java,7,0,23
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/YarnExecutor.java,7,0,23
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/KarmaRunMojo.java,7,6,21
+Java,/tmp/clone_directory/frontend-plugin-core/src/test/java/com/github/eirslett/maven/plugins/frontend/lib/DefaultNpxRunnerTest.java,8,0,21
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/package.json,0,0,17
+Java,/tmp/clone_directory/frontend-maven-plugin/src/main/java/com/github/eirslett/maven/plugins/frontend/mojo/YarnUtils.java,6,11,17
+HTML,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/index.html,0,0,14
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/bun-integration/package-lock.json,0,0,13
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/npx-integration/package-lock.json,0,0,12
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/node-provided-npm/package.json,0,0,10
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/pnpm-integration/package.json,0,0,10
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/FrontendException.java,3,0,9
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/InstallationException.java,1,0,9
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/TaskRunnerException.java,2,0,9
+XML,/tmp/clone_directory/settings-github.xml,0,0,9
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-install-directory/package.json,0,0,8
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-berry-integration/package.json,0,0,8
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/EmberRunner.java,4,0,8
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/GruntRunner.java,4,0,8
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/GulpRunner.java,3,0,8
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/JspmRunner.java,5,0,8
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/KarmaRunner.java,4,0,8
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/WebpackRunner.java,4,0,8
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-working-directory/src/main/frontend/package.json,0,0,7
+JavaScript,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/src/main/javascript/square.test.js,1,0,7
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-integration/package.json,0,0,7
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/node-provided-npm/verify.groovy,3,0,6
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE.md,5,4,5
+DOS Batch,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/helper-scripts/npm.cmd,0,0,5
+JSON,/tmp/clone_directory/frontend-maven-plugin/src/it/npx-integration/package.json,0,0,5
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-integration/verify.groovy,1,2,5
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/CacheResolver.java,2,0,5
+Java,/tmp/clone_directory/frontend-plugin-core/src/main/java/com/github/eirslett/maven/plugins/frontend/lib/NodeTaskRunner.java,2,0,5
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/bun-integration/verify.groovy,3,0,4
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/verify.groovy,1,0,4
+YAML,/tmp/clone_directory/frontend-maven-plugin/src/it/yarn-berry-integration/.yarnrc.yml,3,0,4
+Bourne Shell,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/helper-scripts/npm,0,0,3
+JavaScript,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/src/main/javascript/square.js,0,0,3
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,4,3,2
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-install-directory/verify.groovy,0,0,2
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/custom-working-directory/verify.groovy,0,0,2
+Groovy,/tmp/clone_directory/frontend-maven-plugin/src/it/npx-integration/verify.groovy,0,0,2
+Properties,/tmp/clone_directory/frontend-maven-plugin/src/it/bun-integration/invoker.properties,0,0,1
+Markdown,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/helper-scripts/README.md,0,0,1
+Properties,/tmp/clone_directory/frontend-maven-plugin/src/it/example project/invoker.properties,0,0,1
+SUM,,1406,666,16563

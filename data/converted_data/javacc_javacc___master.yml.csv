@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 0.0, , , , 5012920, False, 
+##[group]GITHUB_TOKEN Permissions, 9.43697713956492, , , , 2220968, False, 
+##[group]Run actions/checkout@v2, 3.304298539184795, , , , 179078, False, 
+##[group]Fetching the repository, 16.785687035273494, , , , 1102283, False, 
+##[group]Run actions/setup-java@v1, 91.42487045976765, , , , 25246760, False, 
+##[group]Run mvn -B package --file pom.xml, 147.46625776923509, , , , 15279855, True, [ERROR] No toolchain found for type jdk

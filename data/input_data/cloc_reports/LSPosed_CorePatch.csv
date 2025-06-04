@@ -1,0 +1,39 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (3042.0 files/s 177588.9 lines/s)"
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/CorePatchForR.java,42,42,469
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/CorePatchForQ.java,14,4,145
+Bourne Shell,/tmp/clone_directory/gradlew,28,109,103
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/SettingsActivity.java,12,3,102
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/CorePatchForT.java,13,8,94
+Gradle,/tmp/clone_directory/app/build.gradle.kts,7,0,90
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/MainHook.java,6,0,68
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,68
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/XposedHelper.java,10,0,64
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/CorePatchForU.java,6,1,45
+XML,/tmp/clone_directory/app/src/main/res/xml/prefs.xml,4,0,41
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.yml,0,0,39
+Markdown,/tmp/clone_directory/README.md,13,0,36
+YAML,/tmp/clone_directory/.github/workflows/android.yml,8,0,35
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/CorePatchForS.java,3,1,33
+XML,/tmp/clone_directory/app/src/main/AndroidManifest.xml,4,0,31
+XML,/tmp/clone_directory/app/src/main/res/values-in/strings.xml,0,0,25
+XML,/tmp/clone_directory/app/src/main/res/values-pt-rBR/strings.xml,0,0,25
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rCN/strings.xml,0,0,25
+XML,/tmp/clone_directory/app/src/main/res/values/strings.xml,0,0,25
+XML,/tmp/clone_directory/app/src/main/res/values-ja/strings.xml,0,0,24
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rTW/strings.xml,0,0,24
+XML,/tmp/clone_directory/app/src/main/res/values-ru/strings.xml,0,0,22
+Java,/tmp/clone_directory/app/src/main/java/toolkit/coderstory/ReturnConstant.java,4,0,20
+XML,/tmp/clone_directory/app/src/main/res/values-fr/strings.xml,0,0,20
+XML,/tmp/clone_directory/app/src/main/res/values-ko/strings.xml,0,0,18
+Gradle,/tmp/clone_directory/build.gradle.kts,3,1,16
+YAML,/tmp/clone_directory/.github/stale.yml,0,6,14
+XML,/tmp/clone_directory/app/src/main/res/values/styles.xml,2,0,7
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_settings.xml,0,0,6
+XML,/tmp/clone_directory/app/src/main/res/values-night/styles.xml,2,0,6
+XML,/tmp/clone_directory/app/src/main/res/values/array.xml,0,0,6
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+ProGuard,/tmp/clone_directory/app/proguard-rules.pro,1,0,4
+Properties,/tmp/clone_directory/gradle.properties,0,15,4
+Gradle,/tmp/clone_directory/settings.gradle.kts,0,0,1
+SUM,,203,192,1765

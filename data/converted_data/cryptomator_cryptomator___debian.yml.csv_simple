@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run curl -L https://download2.gluonhq.com/openjfx/21.0.1/openjfx-21.0.1_linux-x64_bin-jmods.zip -o openjfx-amd64.zip,1045.6267797862467,297653240,False,
+##[group]Run mvn -B clean package -Plinux -DskipTests,633.0552111405568,59449662,False,
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ cryptomator ---,248.36464888145724,15761918,False,
+##[group]Run actions/upload-artifact@v4,115.44118679035482,9404286,False,
+[INFO] --- license-maven-plugin:2.4.0:add-third-party (add-third-party) @ cryptomator ---,103.23336210099838,12582930,False,
+[INFO] --- maven-dependency-plugin:3.6.1:copy-dependencies (copy-mods) @ cryptomator ---,46.97608011220861,3762315,False,
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ cryptomator ---,33.47971348257749,834062,False,
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ cryptomator ---,19.644108528466084,2361553,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ cryptomator ---,10.396694607949124,635381,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ cryptomator ---,5.2481967496821,406107,False,
+##[group]Installed distributions,3.556563521744033,2518591,False,
+##[group]Run debuild -S -sa -d,1.0163692431957727,52159,True,##[error]Process completed with exit code 127.
+##[group]Run gpg --batch --quiet --passphrase-fd 0 --pinentry-mode loopback -u 615D449FE6E6A235 --detach-sign -a cryptomator_*_amd64.deb,0.9972808157206166,28416,True,##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions,0.5332319746095122,3252857,False,
+##[group]Fetching the repository,0.4622920223333021,1698286,False,
+##[group]Run sudo add-apt-repository ppa:coffeelibs/openjdk,0.2660248210357877,6303426,True,##[error]Process completed with exit code 100.
+Requested labels: self-hosted,0.1089214678424679,5776090,False,
+##[group]Run actions/checkout@v4,0.0468991906714944,176607,False,
+##[group]Checking out the ref,0.0311347568323366,143455,False,
+##[group]Determining the checkout info,0.0307406459863576,40500,False,

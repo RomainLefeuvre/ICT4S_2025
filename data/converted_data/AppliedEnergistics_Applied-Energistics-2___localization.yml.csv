@@ -1,0 +1,15 @@
+Requested labels: self-hosted, 0.0404794519493737, , , , 3905183, False, 
+##[group]GITHUB_TOKEN Permissions, 47.88265058999734, , , , 4848774, False, 
+##[group]Run actions/checkout@v3, 17.59996553135704, , , , 150945, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 8.588197124136443, , , , 68114, False, 
+##[group]Setting up auth, 8.447006696441726, , , , 73670, False, 
+##[group]Fetching the repository, 32.37612250881972, , , , 438775, False, 
+##[group]Checking out the ref, 7.741054557968138, , , , 29743, False, 
+##[group]Run gradle/gradle-build-action@v2, 21.10530725848364, , , , 325146, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'
+##[group]Run actions/setup-node@v2, 26.163743690252144, , , , 391442, False, 
+##[group]Run chmod +x gradlew, 6.046769425631522, , , , 144078, False, 
+##[group]Run ./gradlew downloadFromCrowdin --no-daemon --info, 5.764388570242087, , , , 167442, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Run ./gradlew spotlessJsonApply --no-daemon --info, 5.623198142547369, , , , 114993, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Checking the base repository state, 19.951364871684557, , , , 417507, False, 
+##[group]Create or update the pull request branch, 25.691334476685302, , , , 546855, False, 
+##[group]Restore persisted git credentials, 29.006647845634497, , , , 937798, False, 

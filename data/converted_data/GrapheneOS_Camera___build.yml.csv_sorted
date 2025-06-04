@@ -1,0 +1,7 @@
+##[group]Run ./gradlew build --no-daemon, 1181.8871581570247, , , , 86118826, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 130.4101015278307, , , , 1219241, False, 
+##[group]GITHUB_TOKEN Permissions, 118.8068104174199, , , , 2076565, False, 
+##[group]Fetching the repository, 34.992678510404225, , , , 440824, False, 
+##[group]Setting up auth, 16.43666983867636, , , , 143534, False, 
+##[group]Run actions/checkout@v4, 15.730223560992526, , , , 144980, False, 
+Requested labels: self-hosted, 0.0294847063180299, , , , 3748876, False, 

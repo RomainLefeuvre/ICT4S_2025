@@ -1,0 +1,29 @@
+##[group]Run ./gradlew kotlindoc, 3389.0002667592344, , , , 203916731, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar, 1352.123227541636, , , , 84806103, True, ##[error]Process completed with exit code 1.
+##[group]Run mshick/add-pr-comment@a65df5f64fc741e91c59b8359a4bc56e57aaf5b1, 1286.6422062256945, , , , 211692654, True, ##[error]no message, check your message inputs
+> Task :buildSrc:compileKotlin, 403.5140289975255, , , , 16999095, False, 
+> Task :buildSrc:processResources, 374.3494284869194, , , , 15400766, False, 
+> Task :buildSrc:compileJava, 286.1209141460288, , , , 14200147, False, 
+##[group]Run ./gradlew kotlindoc__dup_25, 203.06656941908875, , , , 10852992, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar__dup_28, 111.8764175084509, , , , 3554015, False, 
+##[group]Fetching submodules, 77.70726494818095, , , , 4974488, False, 
+##[group]GITHUB_TOKEN Permissions, 68.90783469313153, , , , 3521416, False, 
+##[group]Installed distributions, 43.88395045955056, , , , 2241436, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 43.274368299761925, , , , 5820438, False, 
+##[group]Fetching the repository, 37.30060072075444, , , , 5332875, False, 
+Requested labels: self-hosted, 33.278304297338714, , , , 4431997, False, 
+##[group]Fetching the repository__dup_23, 18.93454902961832, , , , 1278262, False, 
+##[group]Run mv build ~/diff/modified, 13.361805476954803, , , , 1264460, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:classes, 12.6097338271964, , , , 99936, False, 
+> Task :buildSrc:classes__dup_27, 9.000036933358091, , , , 247700, False, 
+##[group]Checking out the ref, 8.735220640939332, , , , 686694, False, 
+##[group]Run actions/checkout@v4.1.1__dup_18, 6.113579616500419, , , , 418726, False, 
+##[group]Persisting credentials for submodules, 3.6670746354907062, , , , 177141, False, 
+> Task :buildSrc:compileKotlin FROM-CACHE, 2.8003259989763736, , , , 62255, False, 
+> Task :buildSrc:compileGroovy NO-SOURCE, 2.495770490844058, , , , 99846, False, 
+##[group]Run actions/checkout@v4.1.1, 1.4959761766478792, , , , 154876, False, 
+##[group]Setting up auth__dup_22, 1.491722733389456, , , , 125950, False, 
+##[group]Setting up auth, 1.4822383818820093, , , , 53320, False, 
+##[group]Getting Git version info, 1.1563827360180572, , , , 85804, False, 
+##[group]Cleaning the repository, 1.0366725586548424, , , , 717752, False, 
+##[group]Checking out the ref__dup_24, 0.5834914664966129, , , , 61855, False, 

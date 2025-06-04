@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run mvn versions:set ""-DnewVersion=""",246.85543646008807,21854461,True,##[error]Input required and not supplied: distribution
+##[group]Fetching the repository,139.0997006360624,2072234,False,
+##[group]GITHUB_TOKEN Permissions,90.3600417517728,2179776,False,
+##[group]Run mvn --batch-mode clean deploy -P central-deploy -DskipTests=true,80.01289791120905,10518494,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:3.0.0:deploy (default-deploy) on project xdocreport-parent: Failed to deploy artifacts: Could not transfer artifact fr.opensagres.xdocreport:xdocreport-parent:pom:2.0.7-20240409.162258-1 from/to sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots/): Transfer failed for https://oss.sonatype.org/content/repositories/snapshots/fr/opensagres/xdocreport/xdocreport-parent/2.0.7-SNAPSHOT/xdocreport-parent-2.0.7-20240409.162258-1.pom 401 Unauthorized -> [Help 1]
+##[group]Checking out the ref,41.62038286748325,476557,False,
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-sources) @ xdocreport-parent ---,32.61689265113476,2456210,False,
+##[group]Run actions/setup-java@v4,26.286557600515728,266027,False,
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ xdocreport-parent ---,15.978687508886845,508819,False,
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ xdocreport-parent ---,14.045245751062089,1950548,False,
+##[group]Run actions/checkout@v3,11.281314303554666,158258,False,
+##[group]Setting up auth,5.804948136780557,59941,False,
+"##[group]Run echo ""Will start a Maven Central upload with version """,5.47636616677411,44408,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ xdocreport-parent ---,5.090178572391877,180726,False,
+##[group]==END_FILE==,0.0238790225067749,6678894,False,

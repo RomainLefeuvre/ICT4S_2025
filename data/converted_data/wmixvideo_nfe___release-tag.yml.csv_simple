@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,463.8036160060335,4020866,False,
+##[group]Fetching the repository,141.44308094258497,4857806,False,
+##[group]Run mvn clean package -DskipTests,103.58884731079104,30701039,False,
+##[group]Installed distributions,63.79780227551232,907034,False,
+##[group]Cleaning the repository,35.16630941644694,254288,False,
+##[group]Disabling automatic garbage collection,17.942438566707825,6688,False,
+##[group]Removing previously created refs_ to avoid conflicts,17.22387084973911,25168,False,
+##[group]Run actions/checkout@v3,16.984348277416206,170808,False,
+##[group]Run zip nfe.zip target/*.jar,7.968099669829911,303434,False,
+##[group]Run actions/upload-release-asset@v1,6.616860881712209,619199,True,##[error]Input required and not supplied: upload_url
+##[group]Run WyriHaximus/github-action-get-previous-tag@v1,5.856483629347639,103429,False,
+Requested labels: self-hosted,3.148312646976493,4664386,False,
+##[group]Run actions/create-release@v1,1.5043817908725372,112538,True,##[error]Input required and not supplied: tag_name

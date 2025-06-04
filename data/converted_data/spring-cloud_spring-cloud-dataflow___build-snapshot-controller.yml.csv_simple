@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,40.21133597405852,1188591,False,
+##[group]Run jvalkeal/build-zoo-handler@v0.0.4,4.3155081347097335,149074,False,
+Requested labels: self-hosted,0.1027424686869501,4532369,False,

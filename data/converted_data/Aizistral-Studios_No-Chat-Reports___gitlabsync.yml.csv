@@ -1,0 +1,6 @@
+##[group]==END_FILE==, 5.32998189579674, , , , 5684827, False, 
+##[group]GITHUB_TOKEN Permissions, 10.880404956742362, , , , 1853257, False, 
+##[group]Run actions/checkout@v3, 2.3167055790342213, , , , 160692, False, 
+##[group]Initializing the repository, 2.3249776136039717, , , , 10008, False, 
+##[group]Fetching the repository, 26.120708031247183, , , , 1081973, False, 
+##[group]Run /home/power/actions-runner/_work/_actions/wangchucheng/git-repo-sync/v0.1.0/entrypoint.sh, 9.812776597740385, , , , 417946, False, 

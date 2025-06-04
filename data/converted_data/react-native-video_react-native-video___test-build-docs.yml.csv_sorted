@@ -1,0 +1,11 @@
+##[group]Run bun --cwd docs build, 202.58237973317983, , , , 21818481, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 158.13817070950904, , , , 2283409, False, 
+##[group]Run oven-sh/setup-bun@v1, 119.46989682417404, , , , 3650356, False, 
+##[group]Run bun install, 67.93843426366449, , , , 3446170, False, 
+##[group]Fetching the repository, 53.715411246436496, , , , 459917, False, 
+##[group]Checking out the ref, 34.80758648769085, , , , 341535, False, 
+##[group]Run actions/checkout@v3, 19.552409693702884, , , , 190266, False, 
+##[group]Run actions/cache@v3__dup_10, 12.220750945879804, , , , 573650, False, 
+##[group]Cleaning the repository, 10.09849731433006, , , , 14595, False, 
+##[group]Run actions/cache@v3, 9.932758500838965, , , , 574718, False, 
+Requested labels: self-hosted, 0.0, , , , 4036861, False, 

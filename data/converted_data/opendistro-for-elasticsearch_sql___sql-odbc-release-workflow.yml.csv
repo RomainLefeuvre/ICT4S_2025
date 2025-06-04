@@ -1,0 +1,29 @@
+Requested labels: self-hosted, 60.26040266581066, , , , 4083045, False, 
+Requested labels: self-hosted__dup_2, 266.30688566854, , , , 45387718, False, 
+Requested labels: self-hosted__dup_3, 975.1016635861786, , , , 127446331, False, 
+##[group]GITHUB_TOKEN Permissions, 31.53147532989712, , , , 3712553, False, 
+##[group]Run actions/checkout@v1, 152.94953263485547, , , , 2722038, False, 
+##[group]Restore from cache using key '685782585' into /home/power/actions-runner/_work/_temp/685782585, 114.23029341596803, , , , 13112624, False, 
+##[group]Run aws-actions/configure-aws-credentials@v1, 8.854246296215273, , , , 6576561, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run .\\build_win_release32.ps1, 7.734877138336096, , , , 48605, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v1, 5.174667114034457, , , , 344455, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/build
+##[group]Run actions/upload-artifact@v1__dup_10, 3.121074388050028, , , , 362721, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/installer
+##[group]Run cd ci-output/installer, 0.8232364300712052, , , , 138046, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_12, 8.425794158334158, , , , 2356481, False, 
+##[group]Run actions/checkout@v1__dup_13, 3.7879493648254137, , , , 943900, False, 
+##[group]Run brew install cppcheck, 0.436034481177565, , , , 37678, True, ##[error]Process completed with exit code 127.
+##[group]Run aws-actions/configure-aws-credentials@v1__dup_15, 20.19375838424434, , , , 7860565, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run brew unlink unixodbc, 6.235747376296684, , , , 25637, True, ##[error]Process completed with exit code 127.
+##[group]Run ./build_mac_release64.sh, 618.2734616113012, , , , 59469019, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v1__dup_18, 10.25411854645384, , , , 1521396, False, 
+##[group]Run actions/upload-artifact@v1__dup_19, 7.691183535964353, , , , 1461929, False, 
+##[group]Run cd installer, 1.25406140546053, , , , 122860, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_21, 39.90434571744655, , , , 3609165, False, 
+##[group]Run actions/checkout@v1__dup_22, 51.557190462668686, , , , 2556625, False, 
+##[group]Restore from cache using key '685782585' into /home/power/actions-runner/_work/_temp/685782585__dup_23, 152.87461790168618, , , , 13343584, False, 
+##[group]Run microsoft/setup-msbuild@v1.0.2, 2.640829774287908, , , , 65597, True, ##[error]setup-msbuild can only be run on Windows runners
+##[group]Run aws-actions/configure-aws-credentials@v1__dup_25, 53.91702547846656, , , , 6575337, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run .\\scripts\\prepare_ci_output.ps1 $Env:ODBC_BIN_PATH $Env:ODBC_LIB_PATH $Env:ODBC_BUILD_PATH, 4.993727221057038, , , , 14418, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v1__dup_27, 4.503963767329736, , , , 388365, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/build
+##[group]Run actions/upload-artifact@v1__dup_28, 9.18185898410013, , , , 356914, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/installer
+##[group]Run cd ci-output/installer__dup_29, 2.354670776452623, , , , 116704, True, ##[error]Process completed with exit code 1.

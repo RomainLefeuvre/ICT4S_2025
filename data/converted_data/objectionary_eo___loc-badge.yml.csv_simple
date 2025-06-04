@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,190.1888614218157,3623916,False,
+##[group]Run JamesIves/github-pages-deploy-action@v4.5.0,154.55650304914138,2839052,False,
+##[group]Run shadowmoose/GHA-LoC-Badge@1.0.0,31.869450157833,641261,False,
+Requested labels: self-hosted,26.25896414862204,4900025,False,
+##[group]Fetching the repository,21.220512016776564,434539,False,
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11,10.60288798311816,138727,False,
+##[group]Checking out the ref,5.307430512091055,51752,False,
+##[group]Disabling automatic garbage collection,5.302825496297228,3232,False,

@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,977.759995247298,101753157,False,
+"##[group]Run /home/power/actions-runner/_work/_actions/advanced-security/delombok/main/delombok.sh ""/home/power/actions-runner/_work/Omni-Notes/Omni-Notes""",582.0557643363408,48782774,False,
+##[group]Run ./gradlew assembleDebug,253.73980824370264,9717526,True,##[error]Process completed with exit code 1.
+##[group]Augmented user configuration file contents,112.69823060521428,4321050,False,
+##[group]Finalizing java,111.08395218456464,5022230,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.17.1/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6831 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+Requested labels: self-hosted,103.71397693695128,3679500,False,
+##[group]Waiting for processing to finish,39.38838736956989,6453772,False,
+##[group]GITHUB_TOKEN Permissions,38.60455991957179,11953093,False,
+##[group]Setup CodeQL tools,28.582132676278047,3922813,False,
+##[group]Fetching the repository,11.679016895410887,447051,False,
+##[group]Uploading results,11.35467222690175,395109,False,
+##[group]Validating workflow,11.01477043013709,2812285,False,
+##[group]Load language configuration,10.87602441332145,1045688,False,
+##[group]Run github/codeql-action/analyze@v2,9.91088302271701,1613600,False,
+##[group]Run actions/checkout@v3,6.1670817160188856,159451,False,
+##[group]Run github/codeql-action/init@v2,5.1437624618128615,369334,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.0344048677624262,88224,False,
+##[group]Setting up auth,3.0016475409310823,66089,False,
+##[group]Checking out the ref,2.837860906774361,23283,False,

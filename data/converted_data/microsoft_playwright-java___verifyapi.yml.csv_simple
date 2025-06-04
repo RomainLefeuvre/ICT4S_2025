@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run scripts/update_readme.sh,7474.274164940379,1728328983,True,[ERROR[m] MavenReportException: Error while generating Javadoc: Unable to find javadoc command: The environment variable JAVA_HOME is not correctly set.
+##[group]Run scripts/download_driver_for_all_platforms.sh,229.1591308268209,45058550,False,
+##[group]Run microsoft/playwright-github-action@v1,116.677583418214,19005679,True,##[error]The process '/usr/bin/sudo' failed with exit code 100
+##[group]GITHUB_TOKEN Permissions,83.54567869156614,1877390,False,
+##[group]Run scripts/generate_api.sh,62.56515910159887,15068875,False,
+##[group]Fetching the repository,61.62069033175055,903719,False,
+##[group]Run actions/checkout@v2,11.924329461302218,194083,False,
+##[group]Checking out the ref,7.527188477535579,79515,False,
+##[group]Getting Git version info,6.166298262853431,12498,False,
+Requested labels: self-hosted,0.2114614839188265,4483189,False,

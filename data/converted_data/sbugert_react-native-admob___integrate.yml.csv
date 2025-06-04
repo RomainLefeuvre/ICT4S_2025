@@ -1,0 +1,14 @@
+##[group]==END_FILE==, 0.0, , , , 5614734, False, 
+##[group]GITHUB_TOKEN Permissions, 39.07001455500613, , , , 2840318, False, 
+##[group]Run actions/checkout@v1, 34.8864739765209, , , , 1589228, False, 
+##[group]Run actions/setup-node@v1, 17.017792183668732, , , , 3364585, False, 
+##[group]Run gem install xcpretty, 3.4995335095751336, , , , 23907, False, 
+##[group]Run sudo npm install -g react-native-cli, 21.1447203158484, , , , 9382943, True, ##[error]Process completed with exit code 127.
+##[group]Run react-native init ReactNativeAdMobExample, 440.5999856703569, , , , 44643296, False, 
+##[group]Run yarn add react-native-admob@next, 0.8083076174454653, , , , 10219, False, 
+##[group]Run cp ../../Example/ios/ExampleTests/ExampleTests.m ./ReactNativeAdMobExampleTests/ReactNativeAdMobExampleTests.m, 0.7783470943342912, , , , 31867, True, ##[error]Process completed with exit code 127.
+##[group]Run react-native start &, 0.748386571223117, , , , 138219, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/react-native-admob/react-native-admob/./ReactNativeAdMobExample/ios'. No such file or directory
+##[group]Run react-native run-ios --simulator "iPhone 11 Pro", 1.4518323577794725, , , , 138957, False, 
+##[group]Run sleep 30 && xcrun simctl io booted screenshot screenshot.png, 49.443679399951854, , , , 30041727, False, 
+##[group]Run actions/upload-artifact@master, 1.5041411259601365, , , , 303993, True, ##[error]Process completed with exit code 1.
+##[group]Run set -o pipefail && xcodebuild \\, 1.6830468438948252, , , , 145837, False, 

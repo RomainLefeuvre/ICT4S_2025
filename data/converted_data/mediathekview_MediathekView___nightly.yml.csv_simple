@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,52.23650701980586,29302370,False,
+##[group]==END_FILE==__dup_8,38.95051055157583,5237991,False,
+##[group]GITHUB_TOKEN Permissions,2.2285186673852424,3963631,False,
+##[group]Run actions/upload-artifact@v2,1.946341330053446,362121,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run marceloprado/has-changed-path@v1,0.5531556192818378,75851,False,
+##[group]==END_FILE==,0.253056195773856,6030422,False,
+##[group]Run actions/checkout@v2,0.161996422466386,195560,False,
+##[group]Setting up auth,0.0827222051796858,62816,False,

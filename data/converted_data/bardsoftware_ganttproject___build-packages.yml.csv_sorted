@@ -1,0 +1,58 @@
+Requested labels: self-hosted__dup_4, 3531.7314101463057, , , , 421643075, False, 
+Requested labels: self-hosted, 2209.431409995113, , , , 282353548, False, 
+Requested labels: self-hosted__dup_2, 2209.431409995113, , , , 282353548, False, 
+Requested labels: self-hosted__dup_3, 1006.3127176807652, , , , 145615715, False, 
+##[group]Installed distributions__dup_50, 971.48374849217, , , , 109792290, False, 
+##[group]Installed distributions__dup_28, 957.3672313367445, , , , 111541457, False, 
+##[group]Installed distributions__dup_29, 957.3672313367445, , , , 111541457, False, 
+##[group]Installed distributions, 928.9640862699353, , , , 109856001, False, 
+##[group]Run ./gradlew distbin, 224.19190333178204, , , , 9522329, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew distbin__dup_31, 224.19190333178204, , , , 9522329, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew distbin__dup_51, 220.7502327256133, , , , 9196210, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew distbin distzip, 191.0590215070442, , , , 9176258, True, ##[error]Process completed with exit code 1.
+##[group]Run gsutil cp build\\ganttproject-$env:VERSION.msi gs://dl.ganttproject.biz, 53.91628384757189, , , , 2734048, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew distwin, 50.30886626367416, , , , 1281912, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_44, 45.617877468750144, , , , 3508780, False, 
+##[group]GITHUB_TOKEN Permissions__dup_16, 36.03912289374898, , , , 3544686, False, 
+##[group]GITHUB_TOKEN Permissions__dup_17, 36.03912289374898, , , , 3544686, False, 
+##[group]Run gsutil cp build\\ganttproject-$env:VERSION.exe gs://dl.ganttproject.biz, 33.33037114396865, , , , 2021482, True, ##[error]Process completed with exit code 1.
+##[group]Run gcloud info__dup_55, 15.537725697008732, , , , 710673, False, 
+##[group]Run jpackage --type dmg --app-image build/GanttProject.app -n "ganttproject-silicon-$VERSION" --dest build/, 15.525291705097931, , , , 738731, True, ##[error]Process completed with exit code 1.
+##[group]Run jpackage --type dmg --app-image build/GanttProject.app -n "ganttproject-silicon-$VERSION" --dest build/__dup_35, 15.525291705097931, , , , 738731, True, ##[error]Process completed with exit code 1.
+##[group]Run #!/bin/sh__dup_42, 12.029091705180262, , , , 821483, True, ##[error]Process completed with exit code 1.
+##[group]Run #!/bin/sh__dup_43, 12.029091705180262, , , , 821483, True, ##[error]Process completed with exit code 1.
+##[group]Run google-github-actions/auth@v1, 10.92301339353661, , , , 1151721, True, ##[error]google-github-actions/auth failed with: retry function failed after 4 attempts: the GitHub Action workflow must specify exactly one of "workload_identity_provider" or "credentials_json"! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot.
+##[group]Run #!/bin/sh, 10.143659500683546, , , , 842957, True, ##[error]Process completed with exit code 1.
+##[group]Run gcloud info__dup_40, 9.627917227182571, , , , 645728, False, 
+##[group]Run gcloud info__dup_41, 9.627917227182571, , , , 645728, False, 
+##[group]Run gcloud info, 7.752267464457024, , , , 663831, False, 
+##[group]Fetching the repository, 6.917628999711452, , , , 458476, False, 
+##[group]GITHUB_TOKEN Permissions, 6.901203365367788, , , , 3498745, False, 
+##[group]Run google-github-actions/setup-gcloud@v1__dup_54, 6.360389104152171, , , , 279561, False, 
+##[group]Fetching the repository__dup_48, 6.200837594862979, , , , 424976, False, 
+##[group]Run google-github-actions/auth@v1__dup_36, 6.131341383205311, , , , 1146422, True, ##[error]google-github-actions/auth failed with: retry function failed after 4 attempts: the GitHub Action workflow must specify exactly one of "workload_identity_provider" or "credentials_json"! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot.
+##[group]Run google-github-actions/auth@v1__dup_37, 6.131341383205311, , , , 1146422, True, ##[error]google-github-actions/auth failed with: retry function failed after 4 attempts: the GitHub Action workflow must specify exactly one of "workload_identity_provider" or "credentials_json"! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot.
+##[group]Run git submodule sync --recursive__dup_26, 5.840604166322715, , , , 88623, True, ##[error]Process completed with exit code 1.
+##[group]Run git submodule sync --recursive__dup_27, 5.840604166322715, , , , 88623, True, ##[error]Process completed with exit code 1.
+##[group]Run google-github-actions/setup-gcloud@v1, 5.065302559216748, , , , 381289, False, 
+##[group]Fetching the repository__dup_24, 4.481826842595094, , , , 436715, False, 
+##[group]Fetching the repository__dup_25, 4.481826842595094, , , , 436715, False, 
+##[group]Run google-github-actions/auth@v1__dup_53, 4.402634002733251, , , , 1144371, True, ##[error]google-github-actions/auth failed with: retry function failed after 4 attempts: the GitHub Action workflow must specify exactly one of "workload_identity_provider" or "credentials_json"! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot.
+##[group]Run google-github-actions/setup-gcloud@v1__dup_38, 3.611830743892112, , , , 237096, False, 
+##[group]Run google-github-actions/setup-gcloud@v1__dup_39, 3.611830743892112, , , , 237096, False, 
+##[group]Run actions/checkout@v3, 2.766155656193108, , , , 162944, False, 
+##[group]Run actions/checkout@v3__dup_45, 1.6197081854509268, , , , 156713, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_46, 1.6042640106208863, , , , 48907, False, 
+##[group]Setting up auth__dup_47, 1.588819835790846, , , , 62259, False, 
+##[group]Run git submodule sync --recursive__dup_49, 1.4961547868106038, , , , 84047, True, ##[error]Process completed with exit code 1.
+##[group]Run git submodule sync --recursive, 1.383824447839448, , , , 93622, True, ##[error]Process completed with exit code 1.
+##[group]Setting up auth, 1.383227152045133, , , , 62332, False, 
+##[group]Setting up auth__dup_22, 1.0864109087803666, , , , 64842, False, 
+##[group]Setting up auth__dup_23, 1.0864109087803666, , , , 64842, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.072792588033004, , , , 49550, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_21, 1.072792588033004, , , , 49550, False, 
+##[group]Run actions/checkout@v3__dup_18, 1.0591742672856412, , , , 168687, False, 
+##[group]Run actions/checkout@v3__dup_19, 1.0591742672856412, , , , 168687, False, 
+##[group]Run build-bin/package-win.bat, 0.9377697943122788, , , , 94057, True, ##[error]Process completed with exit code 126.
+##[group]Run ./build-bin/package-mac.sh, 0.6769697703902704, , , , 88746, True, ##[error]Process completed with exit code 1.
+##[group]Run ./build-bin/package-mac.sh__dup_33, 0.6769697703902704, , , , 88746, True, ##[error]Process completed with exit code 1.

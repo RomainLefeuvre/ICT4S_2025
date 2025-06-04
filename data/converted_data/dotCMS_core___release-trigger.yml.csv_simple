@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,546.278468719564,74217671,False,
+"##[group]Run git config user.name """"",33.700197295005346,1566995,True,##[error]Process completed with exit code 1.
+##[group]Run curl -X POST \\,5.087853989351663,785078,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref,2.872378594948299,118507,False,
+##[group]Run echo '# df -h',2.79173477768404,34289,False,
+##[group]GITHUB_TOKEN Permissions,1.802372889036426,1265448,False,
+##[group]Run sed -i 's/dotcmsReleaseVersion=.*/dotcmsReleaseVersion=/' dotCMS/gradle.properties,1.420789884191629,84861,False,
+##[group]Cleaning the repository,0.36330395383485,166090,False,
+##[group]==END_FILE==,0.1883448939761284,3776075,False,
+##[group]Setting up auth,0.1872617041169912,77515,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.1760422497178587,69783,False,
+##[group]Run actions/checkout@v4,0.1723024315848146,135153,False,

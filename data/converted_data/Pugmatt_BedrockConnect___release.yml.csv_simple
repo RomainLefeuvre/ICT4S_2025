@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run echo ::set-env name=RELEASE_VERSION::$(echo $(python .github/assets/versionUp.py)),91.59025119909722,1010949,False,
+##[group]GITHUB_TOKEN Permissions,18.59586621129734,4097796,False,
+##[group]Fetching the repository,11.78383369943587,496221,False,
+##[group]Run actions/checkout@v3,5.508270606158187,157437,False,
+##[group]Checking out the ref,2.0161651142941013,33212,False,
+Requested labels: self-hosted,0.2486972293241976,6015416,False,

@@ -1,0 +1,1005 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.33 s (3075.8 files/s 359657.7 lines/s)"
+Text,/tmp/clone_directory/flyway-commandline/src/main/assembly/LICENSES-THIRD-PARTY.txt,2769,0,13225
+HTML,/tmp/clone_directory/documentation/Release notes and older versions/Release Notes for Flyway Engine.html,1629,0,9497
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/configuration/ClassicConfiguration.java,413,342,1471
+Maven,/tmp/clone_directory/flyway-commandline/pom.xml,304,7,889
+Maven,/tmp/clone_directory/pom.xml,800,12,778
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/ConfigUtils.java,87,110,681
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleSchema.java,97,148,655
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/Parser.java,103,62,578
+CSS,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/report.css,124,17,475
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/Main.java,58,20,427
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Migrations.md,127,0,417
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/AbstractFlywayTask.java,130,468,413
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/AbstractFlywayMojo.java,109,491,402
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/MigrationInfoServiceImpl.java,89,67,388
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/configuration/CommandLineArguments.java,81,20,360
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/DbMigrate.java,70,51,360
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/configuration/FluentConfiguration.java,88,541,351
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerSchema.java,48,145,339
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/Database.java,67,115,336
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/MigrationInfoImpl.java,97,37,316
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/configuration/ModernConfigurationManager.java,62,20,295
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerDatabase.java,48,49,295
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleParser.java,373,48,292
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/PeekingReader.java,40,154,279
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Callback concept.md,32,0,278
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/StringUtils.java,57,155,278
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/JdbcTemplate.java,52,75,277
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/schemahistory/JdbcTableSchemaHistory.java,58,44,275
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/ClassPathScanner.java,42,63,255
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/html/HtmlReportGenerator.java,47,21,246
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLSchema.java,48,92,244
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task.md,75,0,238
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/schemahistory/BaseAppliedMigration.java,50,19,236
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/Flyway.java,79,160,224
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/FlywayExecutor.java,77,44,216
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLDatabase.java,53,47,215
+Bourne Shell,/tmp/clone_directory/mvnw,30,63,215
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/component.xml,88,19,202
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/FirebirdSchema.java,33,25,201
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/SQL Server Database.md,64,0,198
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Oracle Database.md,72,0,195
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal.md,53,0,191
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/DriverDataSource.java,39,98,191
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleDatabase.java,41,107,189
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/FileUtils.java,39,64,185
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Schema.java,46,87,178
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/MigrationVersion.java,33,97,174
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/Location.java,40,106,172
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/PlaceholderReplacingReader.java,36,30,170
+DOS Batch,/tmp/clone_directory/mvnw.cmd,36,0,169
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/DefaultSqlScriptExecutor.java,89,34,167
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBSchema.java,24,29,167
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/DbRepair.java,39,56,163
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line.md,79,0,162
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleDatabaseType.java,107,25,160
+Markdown,/tmp/clone_directory/flyway-commandline/src/main/assembly/LICENSE.md,38,0,156
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/script/ScriptMigrationResolver.java,37,25,156
+Text,/tmp/clone_directory/flyway-commandline/src/main/assembly/flyway-community.txt,36,0,155
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/CommandResultFactory.java,25,19,154
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/clean/CleanExecutor.java,19,19,152
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/ClassUtils.java,22,80,151
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/API (Java).md,24,2,149
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/script/ScriptMigrationExecutor.java,31,20,147
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Java-based Migrations.md,36,0,143
+Maven,/tmp/clone_directory/flyway-core/pom.xml,9,2,141
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/H2Database.java,19,33,141
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQueryDatabase.java,24,24,141
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/configuration/LegacyConfigurationManager.java,73,40,140
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/FlywayEnvironmentModel.java,8,19,139
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/EnvironmentResolver.java,29,19,138
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASEDatabase.java,25,38,137
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Frequently Asked Questions.md,62,0,135
+Java,/tmp/clone_directory/flyway-experimental/flyway-experimental-scanners/src/main/java/org/flywaydb/scanners/BaseSqlMigrationScanner.java,17,20,135
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/utils/OperationsReportUtils.java,23,19,133
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/FlywayModel.java,6,19,132
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerDatabase.java,22,19,131
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLConnection.java,22,23,130
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/classpath/ClassPathResource.java,25,19,128
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/JdbcUtils.java,14,43,127
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLSchema.java,25,22,125
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/ParserSqlScript.java,40,36,124
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerSchema.java,35,19,124
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/Schema.java,29,89,123
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBJdbcTemplate.java,19,19,123
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Using Flyway Check with SQL Server.md,69,0,122
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/API (Java)/API Hooks.md,32,0,122
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/SnowflakeDatabase.java,21,32,121
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/JdbcConnectionFactory.java,17,33,120
+Java,/tmp/clone_directory/flyway-database/flyway-database-cassandra/src/main/java/org/flywaydb/database/cassandra/CassandraDatabase.java,21,20,119
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBDatabase.java,24,19,119
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/PostgreSQL Database.md,37,0,118
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/PropertyResolverContextImpl.java,23,21,118
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Flyway Community Database Support.md,31,0,117
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters.md,19,0,116
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQueryParser.java,19,22,116
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/BaseDatabaseType.java,36,97,115
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/sql/SqlMigrationResolver.java,39,28,115
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/clean/database/SQLServerCleanModePlugin.java,23,19,115
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Repeatable Migrations.md,50,0,114
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/TOML Configuration File.md,38,0,113
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Migrate.md,12,0,112
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/migration/ExperimentalMigrationScannerManager.java,16,19,112
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/SAP HANA (Including SAP HANA Cloud).md,21,0,110
+Maven,/tmp/clone_directory/flyway-gradle-plugin/pom.xml,44,0,110
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLParser.java,26,22,107
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQuerySchema.java,13,43,107
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLParser.java,24,40,107
+Java,/tmp/clone_directory/flyway-experimental/flyway-experimental-sqlite/src/main/java/org/flywaydb/experimental/sqlite/ExperimentalSqlite.java,8,19,107
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/DefaultCallbackExecutor.java,17,30,106
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/TomlUtils.java,13,21,106
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/H2Schema.java,23,41,106
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerParser.java,27,23,106
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/utils/TelemetryUtils.java,45,26,105
+Java,/tmp/clone_directory/flyway-database/flyway-database-cassandra/src/main/java/org/flywaydb/database/cassandra/CassandraSchema.java,32,24,105
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLDatabase.java,20,23,105
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/MySQL.md,31,0,103
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftSchema.java,18,52,103
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLDatabaseType.java,53,22,103
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/synapse/SynapseDatabase.java,21,19,103
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/MigrateResult.java,20,19,102
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - info.md,19,0,101
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - migrate.md,15,0,101
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/SqlScriptCallbackFactory.java,20,29,101
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/filesystem/FileSystemScanner.java,21,27,101
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBDatabaseType.java,38,21,101
+Text,/tmp/clone_directory/flyway-commandline/src/main/assembly/flyway-teams.txt,35,0,100
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBDatabase.java,19,20,100
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/SingleStoreParser.java,22,21,100
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/Connection.java,20,34,99
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/ResolvedMigrationImpl.java,14,31,98
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/filesystem/EncodingDetector.java,26,28,98
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Undo.md,10,0,97
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/DbValidate.java,14,37,97
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/schemahistory/SchemaHistory.java,22,109,96
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Sybase ASE.md,21,0,95
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Dry Runs.md,38,0,95
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/ExternalProcessRunner.java,14,19,95
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/DB2.md,19,0,94
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Error Overrides.md,23,0,94
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/InsertRowLock.java,15,25,94
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/CompositeMigrationResolver.java,23,20,94
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/Scanner.java,33,39,94
+Java,/tmp/clone_directory/flyway-database/flyway-database-derby/src/main/java/org/flywaydb/database/derby/DerbySchema.java,22,51,94
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerDatabaseType.java,45,19,94
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/configuration/Configuration.java,77,485,93
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/SnowflakeSchema.java,18,26,93
+Maven,/tmp/clone_directory/flyway-maven-plugin/pom.xml,68,0,93
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLAdvisoryLockTemplate.java,12,19,92
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/SnowflakeParser.java,14,19,92
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Undo Migrations.md,41,0,91
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/ResourceNameParser.java,18,30,91
+HTML,/tmp/clone_directory/documentation/_includes/contactpopup.html,13,0,90
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Validate.md,14,0,88
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/DatabaseTypeRegister.java,17,19,88
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/MigrationInfoDumper.java,14,34,87
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/EncryptionUtils.java,48,19,87
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Firebird.md,16,0,86
+HTML,/tmp/clone_directory/documentation/_includes/downloadpopup.html,18,0,86
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/JsonUtils.java,20,19,86
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Derby.md,23,0,85
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLDatabaseType.java,49,20,85
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Informix.md,21,0,84
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/configuration/ConfigurationManagerImpl.java,22,19,84
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayPermit.java,50,19,84
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Cherry Pick.md,28,0,83
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Ignore Migration Patterns.md,24,0,83
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/MariaDB.md,18,0,83
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Info.md,11,0,83
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineMigrationResolver.java,17,19,83
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Error Overrides.md,31,0,82
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Redshift.md,21,0,82
+HTML,/tmp/clone_directory/documentation/_includes/trialpopup.html,16,0,82
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/ParsingContext.java,15,20,82
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Secrets Management.md,30,0,81
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/plugin/PluginRegister.java,13,19,81
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/ErrorOutput.java,20,19,80
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/buffered/BufferedLog.java,15,19,80
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/MongoDB.md,20,0,79
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Snowflake.md,25,0,79
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - undo.md,15,0,79
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/MigrationInfoContext.java,11,19,79
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlScriptMetadata.java,26,20,79
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/SAPHANASchema.java,16,42,79
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerConnection.java,15,22,79
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Locations.md,25,0,78
+Java,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/src/main/java/org/flywaydb/database/hsqldb/HSQLDBParser.java,9,22,78
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/HSQLDB.md,19,0,77
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayMigrate.md,9,0,77
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Repair.md,11,0,77
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/logging/LogFactory.java,9,52,77
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/pattern/ValidatePattern.java,16,19,77
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/DbBaseline.java,16,49,77
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/FeatureDetector.java,20,24,77
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLConnection.java,18,20,77
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Dry Run Output.md,26,0,76
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/SQLiteSchema.java,18,19,76
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Database.java,17,20,76
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/InformixDatabase.java,16,22,76
+Maven,/tmp/clone_directory/flyway-database/flyway-database-oracle/pom.xml,3,0,76
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/SingleStoreSchema.java,18,19,76
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Error Codes.md,28,0,75
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/filesystem/FileSystemResource.java,13,26,75
+Text,/tmp/clone_directory/documentation/_vale_config/styles/config/vocabularies/flyway/accept.txt,7,0,74
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/clean/DbClean.java,13,19,74
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBConnection.java,9,23,74
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/FirebirdDatabase.java,17,32,74
+Maven,/tmp/clone_directory/flyway-database/flyway-singlestore/pom.xml,3,0,74
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute.md,25,0,73
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/PluginMetadata.java,17,40,73
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/ResourceName.java,14,56,73
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/AsciiTable.java,15,34,73
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBTable.java,12,29,73
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Using MongoDB with Flyway.md,29,0,72
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/command/version/VersionCommandExtension.java,16,19,72
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/JarFileClassPathLocationScanner.java,13,48,72
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/CockroachDB.md,19,0,71
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Google BigQuery.md,39,0,71
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftDatabaseType.java,13,24,71
+Maven,/tmp/clone_directory/flyway-database/flyway-firebird/pom.xml,3,0,71
+Maven,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/pom.xml,3,1,71
+Maven,/tmp/clone_directory/flyway-database/flyway-mysql/pom.xml,3,0,71
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/SingleStoreConnection.java,11,23,71
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Configuration Files.md,24,0,70
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/logging/console/ColorizedConsoleLog.java,15,19,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-db2/pom.xml,3,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-derby/pom.xml,4,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/pom.xml,4,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-informix/pom.xml,4,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-postgresql/pom.xml,3,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-redshift/pom.xml,3,0,70
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftDatabase.java,15,20,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-saphana/pom.xml,3,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-snowflake/pom.xml,4,0,70
+Maven,/tmp/clone_directory/flyway-database/flyway-database-sybasease/pom.xml,3,0,70
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Aurora PostgreSQL.md,21,0,69
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Azure Synapse.md,22,0,69
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - repair.md,15,0,69
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/ParserContext.java,17,22,69
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/InformixSchema.java,13,31,69
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/FlywayExtension.java,67,416,69
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASESchema.java,18,43,68
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQueryDatabaseType.java,19,21,68
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerDatabaseType.java,19,20,68
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/SingleStoreDatabase.java,13,19,68
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Auth.md,27,0,67
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/command/dbsupport/ListEnginesCommandExtension.java,14,24,67
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineAppliedMigration.java,6,19,67
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/SingleStoreDatabaseType.java,12,19,67
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - validate.md,16,0,66
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/DbSchemas.java,11,50,66
+Java,/tmp/clone_directory/flyway-database/flyway-database-derby/src/main/java/org/flywaydb/database/derby/DerbyDatabase.java,14,27,66
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Placeholders Configuration.md,22,0,65
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/Event.java,11,188,65
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/BooleanEvaluator.java,7,28,65
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/authentication/mysql/MySQLOptionFileReader.java,73,19,65
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/mariadb/MariaDBDatabaseType.java,28,22,65
+Maven,/tmp/clone_directory/flyway-experimental/flyway-experimental-sqlite/pom.xml,3,0,65
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Code Analysis Rules.md,35,0,64
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayUndo.md,8,0,64
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/DatabaseType.java,29,159,64
+Java,/tmp/clone_directory/flyway-database/flyway-database-derby/src/main/java/org/flywaydb/database/derby/DerbyDatabaseType.java,12,20,64
+Maven,/tmp/clone_directory/flyway-experimental/flyway-experimental-scanners/pom.xml,2,0,64
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/ErrorOverrides.md,18,0,63
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/What is TOML.md,27,0,63
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/MigrateHtmlRenderer.java,16,19,63
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/ArbitraryScriptCallback.java,11,19,63
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/Table.java,13,63,63
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/SAPHANADatabase.java,15,22,63
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/MavenVersionChecker.java,18,19,62
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/java/JavaMigrationExecutor.java,11,25,62
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Target.md,20,0,61
+Java,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/src/main/java/org/flywaydb/database/hsqldb/HSQLDBDatabase.java,13,27,61
+Java,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/src/main/java/org/flywaydb/database/hsqldb/HSQLDBSchema.java,15,35,61
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Encoding.md,19,0,60
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/License Key.md,18,0,60
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers.md,22,0,60
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/TiDB (Titanium DB).md,22,0,60
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayValidate.md,12,0,60
+HTML,/tmp/clone_directory/documentation/_includes/newsletter.html,13,2,60
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/logging/file/FileLog.java,14,19,60
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/SQLiteDatabase.java,12,23,60
+Maven,/tmp/clone_directory/flyway-database/flyway-database-cassandra/pom.xml,3,0,60
+Maven,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/pom.xml,3,0,60
+Maven,/tmp/clone_directory/flyway-database/flyway-sqlserver/pom.xml,3,0,60
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Environment Overrides.md,23,0,59
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Should Execute Concept.md,32,0,59
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Code/Code - Flyway Plugin Development.md,16,0,59
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayInfo.md,12,0,59
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/LicenseGuard.java,85,19,59
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/UnboundedReadAheadReader.java,16,19,59
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Check Changes concept.md,15,0,58
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Code/Code - Dev Environment Setup.md,23,0,58
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/FlywayTelemetryManager.java,11,19,58
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/JDBC Properties.md,15,0,57
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Placeholders.md,15,0,57
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Callbacks.md,24,0,57
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Parser.java,13,22,57
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/clean/CleanModeCommandExtension.java,11,19,57
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Loggers.md,16,0,56
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Skip Executing Migrations.md,17,0,56
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Provisioners.md,15,0,56
+HTML,/tmp/clone_directory/documentation/_includes/footer-javascript.html,9,1,56
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/TransactionalExecutionTemplate.java,6,34,56
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/EvolvingLog.java,13,19,56
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/DateUtils.java,12,49,56
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/SAPHANAParser.java,12,21,56
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/SnowflakeDatabaseType.java,12,21,56
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/FirebirdParser.java,10,22,56
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Provisioners/Docker Provisioner.md,12,0,55
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Aurora MySQL.md,17,0,55
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Percona XtraDB Cluster.md,17,0,55
+HTML,/tmp/clone_directory/documentation/_includes/nav-honeycomb.html,4,0,55
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/SimpleContext.java,8,19,55
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/schemahistory/SchemaHistoryFactory.java,10,19,55
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLCopyParsedStatement.java,13,30,55
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerTable.java,12,19,55
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Schemas.md,13,0,54
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Detect Encoding.md,15,0,54
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Baseline Migrations.md,22,0,54
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/MigrationInfoHelper.java,8,35,54
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Output Query Results.md,16,0,53
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayRepair.md,11,0,53
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineResolvedMigration.java,6,19,53
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/EnvironmentModel.java,6,19,53
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/TestContainersDatabaseType.java,12,19,53
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/multi/MultiLogger.java,12,22,53
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftConnection.java,12,22,53
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Creating Regular Expression Rules.md,16,0,52
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Driver.md,14,0,52
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Undo SQL Migration Prefix.md,13,0,52
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - clean.md,18,0,52
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Baseline.md,11,0,52
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/H2DatabaseType.java,11,19,52
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/SQLiteDatabaseType.java,10,19,52
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/OsgiClassPathLocationScanner.java,13,30,52
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Batch.md,16,0,51
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/PostgreSQL/PostgreSQL Transactional Lock.md,13,0,51
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Working Directory.md,12,0,51
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/MergeUtils.java,10,19,51
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Connect Retries.md,12,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Init SQL.md,13,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Password.md,12,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/URL.md,12,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/User.md,12,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Baseline Migration Prefix.md,13,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Dapr Secrets.md,12,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Vault Secrets.md,12,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/SSL support.md,22,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/YugabyteDB.md,17,0,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Maven Goal/Maven Goal - Clean.md,13,0,50
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/InfoHtmlRenderer.java,17,19,50
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/ResourceNameValidator.java,9,26,50
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/s3/AwsS3Resource.java,8,22,50
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/cloud/s3/AwsS3Scanner.java,8,32,50
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2DatabaseType.java,10,19,50
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/FirebirdDatabaseType.java,10,19,50
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLNamedLockTemplate.java,8,37,50
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Connect Retries Interval.md,12,0,49
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Oracle/Oracle SQLPlus.md,14,0,49
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/BaseJavaMigration.java,11,42,49
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/SAPHANADatabaseType.java,10,19,49
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASEJConnectDatabaseType.java,10,19,49
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASEJTDSDatabaseType.java,10,19,49
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerParser.java,10,20,49
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Baseline On Migrate.md,13,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Clean On Validation Error.md,13,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Dapr URL.md,11,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Default Schema.md,12,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Google Cloud Secret Manager Project.md,11,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Google Cloud Secret Manager Secrets.md,11,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Lock Retry Count.md,11,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Mixed.md,13,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/SQL Migration Suffixes.md,13,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Table.md,13,0,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Vault URL.md,11,0,48
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/FileSystemClassPathLocationScanner.java,10,42,48
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Callbacks.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Community DB Support Enabled.md,11,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Group.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Out Of Order.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Repeatable SQL Migration Prefix.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/SQL Migration Prefix.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/SQL Migration Separator.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/SQL Server/SQL Server Kerberos Login File.md,10,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Stream.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Validate Migration Naming.md,12,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Vault Token.md,10,0,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Google Cloud Spanner.md,28,0,47
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/windows.xml,2,19,47
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/HtmlTableRenderer.java,13,19,47
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/javautil/JavaUtilLog.java,15,25,47
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/sql/SqlMigrationExecutor.java,14,31,47
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Dry Runs.md,22,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Baseline Description.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Baseline Version.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Clean Disabled.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Clickhouse/Clickhouse Cluster Name.md,10,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Clickhouse/Clickhouse Zookeeper Path.md,10,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Create Schemas.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Installed By.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Oracle/Oracle SQLPlus Warn.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Placeholder Prefix.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Placeholder Replacement.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Placeholder Separator.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Placeholder Suffix.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Skip Default Callbacks.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Skip Default Resolvers.md,11,0,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Validate On Migrate.md,11,0,46
+Text,/tmp/clone_directory/documentation/_vale_config/styles/config/vocabularies/smells/accept.txt,0,0,46
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/PositionTracker.java,10,19,46
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Config File Encoding.md,14,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Config Files.md,13,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Fail On Missing Locations.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Oracle/Oracle Kerberos Cache File.md,10,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Oracle/Oracle Wallet Location.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Resolver.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Script Placeholder Prefix.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Script Placeholder Suffix.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Tablespace.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/H2.md,21,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/SingleStoreDB.md,11,0,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - baseline.md,14,0,45
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/authentication/postgres/PgpassFileReader.java,9,21,45
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/ParsedSqlStatement.java,17,28,45
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/Locations.java,11,35,45
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBSchema.java,10,24,45
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQueryConnection.java,11,29,45
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerApplicationLockTemplate.java,5,35,45
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/synapse/SynapseDatabaseType.java,10,20,45
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Kerberos Config File.md,10,0,44
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/SQL Server/SQL Server Clean Mode.md,9,0,44
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Integrating Dapr.md,22,0,44
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Integrating Vault.md,27,0,44
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/Delimiter.java,35,42,44
+Java,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/src/main/java/org/flywaydb/database/hsqldb/HSQLDBDatabaseType.java,9,19,44
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/InformixDatabaseType.java,9,19,44
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQueryTable.java,10,19,44
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/Recorder.java,11,20,43
+Java,/tmp/clone_directory/flyway-database/flyway-database-cassandra/src/main/java/org/flywaydb/database/cassandra/CassandraDatabaseType.java,13,19,43
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerConfigurationExtension.java,9,19,43
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Jar Dirs.md,15,0,42
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/SQLite.md,16,0,42
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/proprietaryStubs/CommandExtensionStub.java,8,19,42
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/Pair.java,6,19,42
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerTable.java,9,35,42
+Java,/tmp/clone_directory/flyway-experimental/flyway-verb-info/src/main/java/org/flywaydb/verb/info/InfoVerbExtension.java,6,19,42
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Script Configuration.md,30,0,41
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Integrating Google Cloud Secret Manager.md,22,0,41
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/configuration/CommandLineConfigurationUtils.java,10,21,41
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/DashboardRenderer.java,10,19,41
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/InfoOutput.java,3,19,41
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/PositionTrackingReader.java,6,19,41
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBDatabaseType.java,12,19,41
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration.md,11,0,40
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/AppliedMigration.java,18,61,40
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/ChecksumCalculator.java,34,25,40
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/strategy/RetryStrategy.java,12,44,40
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/FlywayDbWebsiteLinks.java,14,19,40
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/BigQueryJdbcTemplate.java,6,22,40
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/clean/CleanModeCleanExecutor.java,6,19,40
+Java,/tmp/clone_directory/flyway-experimental/flyway-experimental-scanners/src/main/java/org/flywaydb/scanners/ClasspathSqlMigrationScanner.java,6,19,40
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Snapshot.md,16,0,39
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Provisioners/Redgate Clone Provisioner.md,6,0,39
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Clickhouse Database.md,16,0,39
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Adding to the classpath.md,20,0,39
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayBaseline.md,11,0,39
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/logging/console/ConsoleLog.java,10,19,39
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineJavaMigration.java,6,19,39
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/proprietaryStubs/LicensingConfigurationExtensionStub.java,12,19,39
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleSqlScriptExecutor.java,292,19,39
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftParser.java,8,19,39
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations.md,4,0,38
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/MigrationState.java,5,98,38
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resolver/ResolvedMigration.java,11,43,38
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/DbInfo.java,7,19,38
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/ResolvedEnvironment.java,4,19,38
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/jboss/JBossVFSv3ClassPathLocationScanner.java,7,22,38
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/SAPHANAConnection.java,10,22,38
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Check Code.md,19,0,37
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Execute In Transaction.md,11,0,37
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/HtmlResult.java,8,19,37
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/SchemaObject.java,10,31,37
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/proprietaryStubs/AuthCommandExtensionStub.java,8,19,37
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/ExceptionUtils.java,10,28,37
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Filter File.md,14,0,36
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Environment.md,11,0,36
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/ConfigurationModel.java,8,19,36
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/FlywaySqlScriptException.java,9,42,36
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/TimeSpecifierUtils.java,4,19,36
+Java,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/src/main/java/org/flywaydb/database/hsqldb/HSQLDBConnection.java,8,22,36
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerJdbcTemplate.java,6,21,36
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/synapse/SynapseTable.java,9,19,36
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Check Command.md,18,0,35
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Check Changes.md,9,0,35
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Check Drift.md,11,0,35
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Flyway Open Source.md,17,0,35
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Cassandra Database.md,12,0,35
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Auth.md,17,0,35
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/linux-alpine.xml,2,19,35
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/linux.xml,2,19,35
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/macos-arm64.xml,2,19,35
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/macos.xml,2,19,35
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/SQLiteTable.java,7,34,35
+Maven,/tmp/clone_directory/flyway-database/pom.xml,25,0,35
+Markdown,/tmp/clone_directory/README.md,15,0,34
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Ignite.md,14,0,34
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Gradle Task/Gradle Task - flywayClean.md,11,0,34
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/logging/file/FileLogCreator.java,9,19,34
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/PlainExecutionTemplate.java,9,19,34
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachRetryingTransactionalExecutionTemplate.java,5,36,34
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Undo.md,15,0,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments.md,9,0,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Redgate Clone Resolver.md,5,0,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Provisioners/Backup Provisioner.md,8,0,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Code/Code - Submit your Changes.md,15,0,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/Databricks.md,11,0,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Personal Access Tokens.md,16,0,33
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resource/LoadableResourceMetadata.java,4,19,33
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/MigrationFilterImpl.java,9,19,33
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/StatementInterceptor.java,19,19,33
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/HtmlUtils.java,10,19,33
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleConfigurationExtension.java,7,19,33
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleConnection.java,9,19,33
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/SnowflakeConnection.java,15,20,33
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/SnowflakeTable.java,7,20,33
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/FirebirdTable.java,8,27,33
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/mariadb/MariaDBParser.java,10,19,33
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Environments/Provisioner.md,11,0,32
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Injecting Environments.md,21,0,32
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/Tier.java,10,19,32
+Maven,/tmp/clone_directory/flyway-experimental/flyway-verb-info/pom.xml,3,0,32
+YAML,/tmp/clone_directory/.github/workflows/build-release.yml,7,0,31
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Check Code concept.md,25,0,31
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Snapshot Filename.md,9,0,31
+XML,/tmp/clone_directory/flyway-commandline/src/main/assembly/no-jre.xml,2,19,31
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/ProgressLoggerJson.java,7,19,31
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/Plugin.java,7,22,31
+Maven,/tmp/clone_directory/flyway-database/flyway-database-mongodb/pom.xml,29,0,31
+YAML,/tmp/clone_directory/.github/workflows/build-pr.yml,6,0,30
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Configuration from Standard Input.md,9,0,30
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Rules Location.md,13,0,30
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/OutputType.md,5,0,30
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Report Filename.md,10,0,30
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Provisioners/Snapshot Provisioner.md,7,0,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/JavaMigration.java,8,62,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/RepairResult.java,5,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/ValidateResult.java,5,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/SQLiteParser.java,7,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/PreviewFeatureWarning.java,5,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/RecordingReader.java,6,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/ResolvedMigrationComparator.java,3,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/StringResource.java,9,19,30
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/ClasspathClassScanner.java,10,19,30
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/reportScript.html,1,0,30
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftTable.java,6,30,30
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Check Drift concept.md,9,0,29
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/logging/LoggingUtils.java,7,20,29
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/MigrationKey.java,9,19,29
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/ConfigurationValidator.java,6,19,29
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/cloud/CloudScanner.java,9,20,29
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/ObjectMapperFactory.java,3,19,29
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/ValidatePatternUtils.java,7,19,29
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/upgrade.svg,0,0,29
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/synapse/SynapseSchema.java,7,30,29
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Tutorials/Tutorial - Custom Validation Rules.md,16,0,28
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations/Community Plugins and Integrations (Dropwizard).md,9,0,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/MigrationPattern.java,7,19,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/ConfigurationExtension.java,5,20,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/NoopCallbackExecutor.java,9,22,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/clean/CleanModel.java,7,19,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/slf4j/Slf4jLog.java,10,19,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/json/CompositeResultDeserializer.java,7,19,28
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/CoreResourceTypeProvider.java,7,22,28
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLTable.java,6,30,28
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASEParser.java,6,20,28
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASETable.java,7,39,28
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Major Rules.md,11,0,27
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Major Tolerance.md,11,0,27
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Minor Rules.md,11,0,27
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Minor Tolerance.md,11,0,27
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Color.md,11,0,27
+Bourne Again Shell,/tmp/clone_directory/flyway-commandline/src/main/assembly/flyway,7,5,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/ProgressLoggerSynchronized.java,7,19,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/CoreErrorCode.java,2,21,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineMigrationType.java,6,25,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resolver/MigrationResolver.java,6,27,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/EventTelemetryModel.java,5,19,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/apachecommons/ApacheCommonsLog.java,10,19,27
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/UrlUtils.java,5,36,27
+Java,/tmp/clone_directory/flyway-database/flyway-database-hsqldb/src/main/java/org/flywaydb/database/hsqldb/HSQLDBTable.java,7,30,27
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBRetryingStrategy.java,5,24,27
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/SingleStoreTable.java,7,19,27
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Applied Migrations.md,10,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Build Environment.md,8,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Build Password.md,9,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Build Url.md,9,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Build User.md,9,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Deployed Snapshot.md,10,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Next Snapshot.md,9,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Report Enabled.md,9,0,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Script Configuration/Should Execute.md,8,0,26
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/FlywayException.java,9,54,26
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/InfoResult.java,3,19,26
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/ProvisionerMode.java,5,19,26
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/Results.java,7,22,26
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/java/ScanningJavaMigrationResolver.java,8,19,26
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/InformixParser.java,6,20,26
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBConnection.java,9,19,26
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/CockroachDBParser.java,6,19,26
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLConfigurationExtension.java,6,20,26
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Email.md,7,0,25
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Token.md,7,0,25
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/TestContainers.md,12,0,25
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/CoreMigrationType.java,4,54,25
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/H2Parser.java,6,21,25
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/InformixTable.java,7,30,25
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/InfoMojo.java,2,23,25
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Check/Fail On Drift.md,4,0,24
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Local Secret.md,9,0,24
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations/Community Plugins and Integrations (Spring Boot).md,8,0,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/RootTelemetryModel.java,4,19,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/ErrorImpl.java,5,19,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/TableLockingExecutionTemplate.java,4,19,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/WarningImpl.java,4,19,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/VersionPrinter.java,5,19,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/log4j2/Log4j2Log.java,10,19,24
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/AbbreviationUtils.java,8,34,24
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/SQLServerEngineEdition.java,5,24,24
+Text,/tmp/clone_directory/README.txt,12,0,23
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Vault Resolver.md,4,0,23
+INI,/tmp/clone_directory/documentation/_vale_config/_vale.ini,5,0,23
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/H2Connection.java,7,19,23
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/ExecutionTemplateFactory.java,8,38,23
+Java,/tmp/clone_directory/flyway-database/flyway-database-cassandra/src/main/java/org/flywaydb/database/cassandra/CassandraConnection.java,9,19,23
+Java,/tmp/clone_directory/flyway-experimental/flyway-experimental-scanners/src/main/java/org/flywaydb/scanners/FileSystemSqlMigrationScanner.java,6,19,23
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Baseline Migrations.md,13,0,22
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Supported Databases/TimescaleDB.md,9,0,22
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Welcome To Flyway.md,10,0,22
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineResourceTypeProvider.java,5,19,22
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/NoopCallback.java,6,22,22
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/java/FixedJavaMigrationResolver.java,8,22,22
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Clean.md,10,0,21
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Migrate.md,13,0,21
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/MigrationInfo.java,16,62,21
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/baseline/BaselineMigrationConfigurationExtension.java,5,19,21
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/clean/CleanModeConfigurationExtension.java,5,19,21
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/EnvironmentVariableResolver.java,4,19,21
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/H2Table.java,6,30,21
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/multi/MultiLogCreator.java,7,19,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Connection.java,6,22,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Table.java,6,30,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-derby/src/main/java/org/flywaydb/database/derby/DerbyConnection.java,6,22,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-derby/src/main/java/org/flywaydb/database/derby/DerbyParser.java,5,19,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-derby/src/main/java/org/flywaydb/database/derby/DerbyTable.java,6,30,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleTable.java,6,30,21
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/SAPHANATable.java,6,30,21
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/MySQLTable.java,6,30,21
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/mariadb/MariaDBDatabase.java,4,19,21
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/synapse/SynapseConnection.java,7,22,21
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayInfoTask.java,3,19,21
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/MigrateMojo.java,3,22,21
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Azure Active Directory Interactive Resolver.md,5,0,20
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Environment Variable Resolver.md,4,0,20
+DOS Batch,/tmp/clone_directory/flyway-commandline/src/main/assembly/flyway.cmd,7,0,20
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/ExperimentalDatabasePluginResolverImpl.java,5,19,20
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/DatabaseConstants.java,4,19,20
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayEditionUpgradeRequiredException.java,3,19,20
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/jboss/JBossVFSv2UrlResolver.java,5,22,20
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/DataUnits.java,7,34,20
+Java,/tmp/clone_directory/flyway-database/flyway-database-cassandra/src/main/java/org/flywaydb/database/cassandra/CassandraTable.java,7,25,20
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/InformixConnection.java,6,23,20
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBTable.java,7,25,20
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/SpannerConnection.java,5,19,20
+Maven,/tmp/clone_directory/flyway-experimental/pom.xml,6,0,20
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Git Resolver.md,5,0,19
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Local DB Resolver.md,4,0,19
+HTML,/tmp/clone_directory/documentation/_includes/teams-license-modal.html,0,0,19
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/logging/console/ConsoleLogCreator.java,5,19,19
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/BaseCallback.java,3,23,19
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/HtmlReportSummary.java,4,19,19
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/json/MigrateResultDeserializer.java,5,19,19
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/StopWatch.java,6,26,19
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/flyway-upgrade-icon.svg,0,0,19
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/UndoMojo.java,3,23,19
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/CLI Configuration Order.md,3,0,18
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/ProgressModel.java,3,19,18
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/schemahistory/SchemaHistoryItem.java,2,19,18
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/json/InfoResultDeserializer.java,5,19,18
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/LocationScannerCache.java,7,22,18
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/ResourceNameCache.java,6,22,18
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/BomStrippingReader.java,4,29,18
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Concepts/Check concept.md,14,0,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/ProgressLoggerEmpty.java,6,19,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/HoldingRenderer.java,4,19,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/DataSourceModel.java,3,19,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/EnvironmentProvisioner.java,8,19,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/exception/FlywaySqlException.java,6,22,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/TokenType.java,1,34,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/publishing/PublishingConfigurationExtension.java,5,19,17
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/CommandExtensionUtils.java,3,19,17
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/FirebirdConnection.java,6,20,17
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayValidateTask.java,3,31,17
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Validate.md,10,0,16
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Provisioners/Clean Provisioner.md,4,0,16
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Command-line/Command-line - auth.md,7,0,16
+Text,/tmp/clone_directory/flyway-commandline/src/main/assembly/README.txt,8,0,16
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/configuration/S3ClientFactory.java,4,23,16
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/SQLiteConnection.java,4,22,16
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/strategy/BackoffStrategy.java,5,25,16
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/BomFilter.java,5,31,16
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/FlywayUpgrade.svg,0,0,16
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/upgradeTabs/changes.html,2,0,16
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/upgradeTabs/drift.html,2,0,16
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/upgradeTabs/dryrun.html,2,0,16
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/SybaseASEConnection.java,4,23,16
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/FlywayPlugin.java,2,22,16
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/CleanMojo.java,2,23,16
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/RepairMojo.java,2,26,16
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/ValidateMojo.java,2,31,16
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Baseline.md,7,0,15
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Dapr Resolver.md,2,0,15
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Property Resolvers/Google Cloud Secret Manager Resolver.md,2,0,15
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Known Parser Limitations.md,9,0,15
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/OperationResultBase.java,4,19,15
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/CallbackExecutor.java,8,56,15
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/PropertyResolverContext.java,4,19,15
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/Statement.java,3,19,15
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/NoopResourceProvider.java,5,29,15
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/changes.html,2,0,15
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/code.html,2,0,15
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/drift.html,3,0,15
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/dryrun.html,2,0,15
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/migrate.html,2,0,15
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Function.java,4,31,15
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/BaselineMojo.java,2,22,15
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/List Engines.md,6,0,14
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/License Permits.md,4,0,14
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Reports/Reports - Change.md,5,0,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/ExperimentalDatabase.java,7,49,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/ExperimentalModeUtils.java,4,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/schemahistory/SchemaHistoryModel.java,5,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/CommandExtension.java,6,40,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/InfoTelemetryModel.java,3,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/ListDeserializer.java,4,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/Function.java,4,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayLicensingException.java,2,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/Token.java,2,19,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/IOUtils.java,3,24,14
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/LocalDateTimeSerializer.java,4,19,14
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/MavenLog.java,4,19,14
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Repair.md,4,0,13
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Reports/Reports - Code Analysis.md,4,0,13
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Reports/Reports - Drift.md,5,0,13
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Reports/Reports - Migration.md,6,0,13
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resource/LoadableResource.java,4,30,13
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/EnvironmentProvisionerNone.java,3,19,13
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayJWTValidationException.java,2,19,13
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/html/HoldingTabMetadata.java,3,19,13
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlScript.java,10,56,13
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/DB2Type.java,4,30,13
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/OracleResults.java,31,22,13
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/PostgreSQLType.java,4,30,13
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/RedshiftType.java,4,30,13
+Java,/tmp/clone_directory/flyway-maven-plugin/src/main/java/org/flywaydb/maven/MavenLogCreator.java,4,19,13
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Commands/Info.md,7,0,12
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway/Redgate Disable Telemetry.md,5,0,12
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Code/Code - How to Contribute.md,3,0,12
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Reports/Reports - Info.md,6,0,12
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/command/version/VersionResult.java,3,19,12
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/Context.java,7,42,12
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/MigrateOutput.java,3,19,12
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/HtmlRenderer.java,2,19,12
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/filesystem/DirectoryValidationResult.java,2,19,12
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlStatement.java,15,47,12
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayBaselineTask.java,3,19,12
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayCleanTask.java,3,19,12
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayMigrateTask.java,3,19,12
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayRepairTask.java,3,26,12
+Java,/tmp/clone_directory/flyway-gradle-plugin/src/main/java/org/flywaydb/gradle/task/FlywayUndoTask.java,3,19,12
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations/Community Plugins and Integrations (Grails).md,5,0,11
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations/Community Plugins and Integrations (Play).md,6,0,11
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Exit Codes.md,4,0,11
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/CleanResult.java,3,19,11
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/migration/ExperimentalMigrationScanner.java,2,19,11
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/FlywayInvalidLicenseKeyException.java,3,19,11
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/FlywayTrialExpiredException.java,2,19,11
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/clazz/NoopClassProvider.java,4,22,11
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayTrialExpiredException.java,2,19,11
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/clean/CleanModeSupportedDatabases.java,4,19,11
+Text,/tmp/clone_directory/LICENSE.txt,3,0,10
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations/Community Plugins and Integrations (Ant).md,3,0,10
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/Community Plugins and Integrations/Community Plugins and Integrations (SBT).md,3,0,10
+HTML,/tmp/clone_directory/documentation/_includes/download.html,0,0,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/exception/FlywayValidateException.java,4,22,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/executor/MigrationExecutor.java,5,47,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/logging/Log.java,8,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/BaselineResult.java,2,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/CompositeResult.java,4,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/ValidateOutput.java,3,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/CleanModePlugin.java,5,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/ConfigurationParameter.java,2,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/exception/FlywayDbUpgradeRequiredException.java,2,22,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayInvalidLicenseKeyException.java,2,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayTeamsUpgradeMessage.java,2,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/buffered/BufferedLogCreator.java,3,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/filesystem/FlywayEncodingDetectionException.java,3,19,10
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/CollectionsUtils.java,4,25,10
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/footer.html,1,0,10
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Environment Variables.md,2,0,9
+HTML,/tmp/clone_directory/documentation/_includes/contributor.html,0,0,9
+HTML,/tmp/clone_directory/documentation/_includes/plugin.html,0,0,9
+Text,/tmp/clone_directory/documentation/_vale_config/styles/config/vocabularies/db/accept.txt,1,0,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/Error.java,6,44,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/Warning.java,6,44,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/exception/FlywayBlockStatementExecutionException.java,4,22,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/DashboardResult.java,3,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/HoldingResult.java,2,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/MigrateErrorResult.java,2,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/OperationResultJsonBase.java,3,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/models/PropertyResolver.java,3,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/apachecommons/ApacheCommonsLogCreator.java,2,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/javautil/JavaUtilLogCreator.java,3,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/log4j2/Log4j2LogCreator.java,2,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/slf4j/Slf4jLogCreator.java,2,19,9
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/TimeFormat.java,2,28,9
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/Calendar.svg,0,0,9
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/ClockOutlined.svg,0,0,9
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/Database.svg,0,0,9
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/PipelineFilled.svg,0,0,9
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/ScriptOutlined.svg,0,0,9
+Java,/tmp/clone_directory/flyway-database/flyway-database-cassandra/src/main/java/org/flywaydb/database/cassandra/CassandraParser.java,2,19,9
+Java,/tmp/clone_directory/flyway-database/flyway-database-mongodb/src/main/java/org/flywaydb/database/mongodb/MongoDBParser.java,2,19,9
+Markdown,/tmp/clone_directory/ISSUE_TEMPLATE.md,24,0,8
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage/API (Java)/API Javadoc.md,0,0,8
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/JavaVersionPrinter.java,3,19,8
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/command/version/PluginVersionResult.java,2,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/MigrationInfoService.java,5,48,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/RepairOutput.java,2,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/FlywayExpiredLicenseKeyException.java,3,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/FlywayRedgateLicenseKeyException.java,2,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/clean/SchemaModel.java,3,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/resolvers/PropertyResolver.java,2,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/DefaultExecutionStrategy.java,3,22,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/CommunityDatabaseType.java,4,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayExpiredLicenseKeyException.java,2,19,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayRedgateEditionRequiredException.java,2,23,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/StatementType.java,2,26,8
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/json/HtmlResultDeserializer.java,4,19,8
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/CheckFilled.svg,0,0,8
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/DeleteFilled.svg,0,0,8
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/ErrorFilled.svg,0,0,8
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/InfoOutlined.svg,0,0,8
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Configuration/Parameters/Flyway.md,2,0,7
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Code.md,1,0,7
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Reports.md,0,0,7
+HTML,/tmp/clone_directory/documentation/_includes/supported-databases.html,0,0,7
+YAML,/tmp/clone_directory/documentation/docker-compose.yaml,0,0,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/ProgressLogger.java,4,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/ErrorDetails.java,2,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/ResourceProvider.java,4,35,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/Callback.java,4,53,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/Statement.java,4,34,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/executor/Context.java,4,31,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/Context.java,4,31,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resource/Resource.java,4,36,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/ConfigurationProvider.java,3,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/MigrationType.java,4,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/ResourceTypeProvider.java,3,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/Type.java,2,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/FlywayRedgateLicenseKeyException.java,1,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/publishing/OperationResultPublisher.java,2,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/reports/ReportDetails.java,2,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/sql/DefaultSqlMigrationExecutorFactory.java,1,19,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/DefaultUrlResolver.java,2,22,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/ResourceAndClassScanner.java,4,33,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlScriptExecutor.java,2,27,7
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlStatementIterator.java,2,19,7
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/AddFilled.svg,0,0,7
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/Document.svg,0,0,7
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/EditFilled.svg,0,0,7
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/WarningFilled.svg,0,0,7
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,2,0,6
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Usage.md,0,0,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/InfoOutputProvider.java,3,19,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/ConnectionType.java,1,19,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/VerbExtension.java,4,19,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/DatabaseExecutionStrategy.java,4,29,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/AppliedMigrationAttributes.java,1,19,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/JdbcNullTypes.java,1,20,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/RowMapper.java,2,31,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/ClassPathLocationScanner.java,2,29,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlScriptFactory.java,2,22,6
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/OsUtils.java,2,24,6
+SVG,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/icons/FeedbackOutlined.svg,0,0,6
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/TransactionalModel.java,2,19,6
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/KerberosModel.java,2,19,6
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/LoginModel.java,2,19,6
+YAML,/tmp/clone_directory/documentation/_config.yml,0,0,5
+HTML,/tmp/clone_directory/documentation/_includes/commandUsage.html,0,0,5
+HTML,/tmp/clone_directory/documentation/_includes/issue.html,0,0,5
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/command/dbsupport/DbSupportResult.java,2,19,5
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/configuration/ConfigurationManager.java,3,19,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/ClassProvider.java,2,27,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resolver/ChecksumMatcher.java,2,19,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/ExperimentalDatabasePluginResolver.java,2,19,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/TelemetryPlugin.java,1,19,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/authentication/ExternalAuthFileReader.java,2,22,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/authentication/ExternalAuthPropertiesProvider.java,2,22,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/ExecutionTemplate.java,3,28,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/UrlResolver.java,2,28,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/SqlScriptExecutorFactory.java,2,24,5
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/SqlCallable.java,4,23,5
+HTML,/tmp/clone_directory/documentation/_includes/database-boilerplate.html,0,0,4
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/MigrationFilter.java,1,19,4
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/logging/LogCreator.java,1,28,4
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/extensibility/ResourceType.java,1,19,4
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/sql/SqlMigrationExecutorFactory.java,1,19,4
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/CloseableIterator.java,2,24,4
+Markdown,/tmp/clone_directory/documentation/Flyway CLI and API/Contribute/Documentation.md,0,0,3
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/ErrorCode.java,1,19,3
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/Result.java,2,19,3
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,16,2
+Java,/tmp/clone_directory/flyway-commandline/src/main/java/org/flywaydb/commandline/command/dbsupport/DbInfoResult.java,1,19,2
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/OperationResult.java,1,19,2
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/DatabaseSupport.java,1,25,2
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/experimental/MetaData.java,1,24,2
+HTML,/tmp/clone_directory/documentation/_includes/childPages.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/commandlineonly.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/enterprise.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/experimental.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/quickstart-cli.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/quickstart-maven.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/redgate.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/release-notes-button.html,0,0,1
+HTML,/tmp/clone_directory/documentation/_includes/teams.html,0,0,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/callback/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/configuration/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/executor/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/logging/package-info.java,0,24,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/migration/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/output/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resolver/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/api/resource/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/callback/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/clazz/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/command/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/configuration/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/base/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/h2/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/database/sqlite/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/exception/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/info/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/jdbc/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/license/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/apachecommons/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/javautil/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/logging/slf4j/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/parser/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/java/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resolver/sql/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/classpath/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/filesystem/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/resource/s3/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/jboss/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/classpath/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/scanner/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/schemahistory/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/sqlscript/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/internal/util/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-core/src/main/java/org/flywaydb/core/package-info.java,0,22,1
+Text,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/changes.txt,0,0,1
+Text,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/code.txt,0,0,1
+Text,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/drift.txt,0,0,1
+Text,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/dryrun.txt,0,0,1
+Text,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/holdingTabs/migrate.txt,0,0,1
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/infoBlobs/changes.html,0,0,1
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/infoBlobs/drift.html,0,0,1
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/infoBlobs/dryrun.html,0,0,1
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/infoBlobs/info.html,0,0,1
+HTML,/tmp/clone_directory/flyway-core/src/main/resources/assets/report/infoBlobs/migrate.html,0,0,1
+Text,/tmp/clone_directory/flyway-core/src/main/resources/org/flywaydb/core/internal/version.txt,0,0,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-db2/src/main/java/org/flywaydb/database/db2/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-informix/src/main/java/org/flywaydb/database/informix/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-oracle/src/main/java/org/flywaydb/database/oracle/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/cockroachdb/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-postgresql/src/main/java/org/flywaydb/database/postgresql/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-redshift/src/main/java/org/flywaydb/database/redshift/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-saphana/src/main/java/org/flywaydb/database/saphana/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-snowflake/src/main/java/org/flywaydb/database/snowflake/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-database-sybasease/src/main/java/org/flywaydb/database/sybasease/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-firebird/src/main/java/org/flywaydb/database/firebird/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-bigquery/src/main/java/org/flywaydb/database/bigquery/package-info.java,0,19,1
+Java,/tmp/clone_directory/flyway-database/flyway-gcp-spanner/src/main/java/org/flywaydb/database/spanner/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-mysql/src/main/java/org/flywaydb/database/mysql/package-info.java,0,22,1
+Java,/tmp/clone_directory/flyway-database/flyway-singlestore/src/main/java/org/flywaydb/database/singlestore/package-info.java,0,19,1
+Java,/tmp/clone_directory/flyway-database/flyway-sqlserver/src/main/java/org/flywaydb/database/sqlserver/package-info.java,0,22,1
+Properties,/tmp/clone_directory/flyway-gradle-plugin/src/main/resources/META-INF/gradle-plugins/org.flywaydb.pro.flyway.properties,1,19,1
+SUM,,19404,19840,78040

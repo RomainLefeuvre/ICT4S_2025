@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0, , , , 4405125, False, 
+##[group]GITHUB_TOKEN Permissions, 51.20427181495608, , , , 2203599, False, 
+##[group]Run actions/checkout@v3, 12.016439034641731, , , , 152662, False, 
+##[group]Fetching the repository, 75.86517003232439, , , , 1995796, False, 
+##[group]Checking out the ref, 35.3288163726382, , , , 247975, False, 
+##[group]Installed distributions, 368.72504541363537, , , , 49824852, False, 
+##[group]Run mvn versions:set -DgenerateBackupPoms=false -DnewVersion=$RELEASE_VERSION, 141.3391606443861, , , , 7138747, False, 
+##[group]Run mvn javadoc:aggregate, 553.5662884007584, , , , 44556341, False, 
+##[group]Run mvn assembly:single, 48.657296546314114, , , , 3683801, False, 
+##[group]Run unzip spring-batch-$RELEASE_VERSION-javadocs.zip, 11.649552326151822, , , , 554693, True, ##[error]Process completed with exit code 9.

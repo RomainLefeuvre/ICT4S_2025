@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,111.4747441938804,9130853,False,
+##[group]Run ScaCap/action-surefire-report@v1.0.13,29.51853415031528,1978422,False,
+##[group]Run actions/cache@v2,12.88857414841605,588262,False,
+##[group]Run actions/setup-java@v2,12.81629443666413,1963981,False,
+"##[group]Run echo ""Available storage:""",4.593403409667971,33927,False,
+##[group]Run whelk-io/maven-settings-xml-action@v21,2.009707959425958,90275,False,
+Requested labels: self-hosted,0.0877172064071387,4687867,False,

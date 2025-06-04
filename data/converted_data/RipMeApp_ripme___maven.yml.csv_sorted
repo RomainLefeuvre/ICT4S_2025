@@ -1,0 +1,20 @@
+Requested labels: self-hosted__dup_4, 30939.02901887975, , , , 35887962136, False, 
+Requested labels: self-hosted__dup_3, 27616.215869236792, , , , 35491373950, False, 
+Requested labels: self-hosted, 24254.011503238617, , , , 35087559680, False, 
+##[group]Run mvn package --file pom.xml__dup_12, 3067.331684025482, , , , 372704079, True, [ERROR[m] Tests run: 6[m, Failures: 1[m, Errors: 0, Skipped: 1[m, Time elapsed: 1.8 s <<< FAILURE![m - in com.rarchives.ripme.tst.ripper.rippers.ImgurRipperTest[m
+##[group]Run mvn package --file pom.xml__dup_16, 2934.215953960424, , , , 356038896, True, [ERROR[m] Tests run: 6[m, Failures: 1[m, Errors: 0, Skipped: 1[m, Time elapsed: 1.048 s <<< FAILURE![m - in com.rarchives.ripme.tst.ripper.rippers.ImgurRipperTest[m
+##[group]Run mvn package --file pom.xml__dup_20, 2876.203711951104, , , , 350169200, True, [ERROR[m] Tests run: 6[m, Failures: 1[m, Errors: 0, Skipped: 1[m, Time elapsed: 1.113 s <<< FAILURE![m - in com.rarchives.ripme.tst.ripper.rippers.ImgurRipperTest[m
+##[group]Run mvn package --file pom.xml, 2445.7942533197315, , , , 388158002, True, [ERROR[m] Tests run: 6[m, Failures: 1[m, Errors: 0, Skipped: 1[m, Time elapsed: 2.26 s <<< FAILURE![m - in com.rarchives.ripme.tst.ripper.rippers.ImgurRipperTest[m
+##[group]Run actions/setup-java@v1__dup_15, 263.70716197840136, , , , 28181955, False, 
+##[group]Run actions/setup-java@v1__dup_11, 148.4464746940818, , , , 18020764, False, 
+##[group]Run actions/setup-java@v1__dup_19, 142.65505024290448, , , , 17203422, False, 
+##[group]Run actions/setup-java@v1, 99.15598466695806, , , , 18314947, False, 
+##[group]GITHUB_TOKEN Permissions__dup_9, 29.49941193830704, , , , 1796684, False, 
+##[group]GITHUB_TOKEN Permissions__dup_17, 28.259851568564248, , , , 1627786, False, 
+##[group]GITHUB_TOKEN Permissions__dup_13, 25.99456028475917, , , , 1776610, False, 
+##[group]Run actions/checkout@v1__dup_10, 19.19153301976186, , , , 1229905, False, 
+##[group]Run actions/checkout@v1__dup_18, 17.369256826759475, , , , 984782, False, 
+##[group]Run actions/checkout@v1__dup_14, 15.256446223509018, , , , 1191621, False, 
+##[group]Run actions/checkout@v1, 0.3646200517749184, , , , 1965235, False, 
+##[group]GITHUB_TOKEN Permissions, 0.211995906208957, , , , 1779011, False, 
+Requested labels: self-hosted__dup_2, 0.0208688555341671, , , , 5451863, False, 

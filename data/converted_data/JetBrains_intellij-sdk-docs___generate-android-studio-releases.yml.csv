@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.6069077557960331, , , , 4262072, False, 
+##[group]GITHUB_TOKEN Permissions, 60.64469995965413, , , , 2200052, False, 
+##[group]Run actions/checkout@v4, 9.899598618013348, , , , 142832, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 9.71382017018689, , , , 22927, False, 
+##[group]Setting up auth, 9.528041722360436, , , , 56629, False, 
+##[group]Fetching the repository, 36.254382411177176, , , , 436190, False, 
+##[group]Run ${GITHUB_WORKSPACE}/.github/scripts/android_studio_releases.main.kts, 8.413371035401696, , , , 61776, True, ##[error]Process completed with exit code 127.
+##[group]Run Endbug/add-and-commit@v9, 8.227592587575238, , , , 149717, False, 
+##[group]Internal logs, 8.041814139748782, , , , 122683, False, 
+##[group]Outputs, 23.010771732287605, , , , 235978, False, 

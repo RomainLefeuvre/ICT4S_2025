@@ -1,0 +1,33 @@
+##[group]==END_FILE==, 21791.86038134744, , , , 1930669529, False, 
+##[group]GITHUB_TOKEN Permissions, 86.41002976287125, , , , 2916066, False, 
+##[group]Run actions/checkout@v4, 8.616843601702913, , , , 140258, False, 
+##[group]Cleaning the repository, 8.938968596159098, , , , 135791, False, 
+##[group]Setting up auth, 4.590281171000617, , , , 70461, False, 
+##[group]Fetching the repository, 19.166437170142924, , , , 429826, False, 
+##[group]Installed distributions, 420.1441142290203, , , , 52175452, False, 
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Pintegration-test -Djacoco.skip=true clean verify, 5932.268476930714, , , , 547974995, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.5 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run test-summary/action@v2, 83.83678990482078, , , , 3841229, False, 
+##[group]==END_FILE==__dup_10, 7151.85267162233, , , , 652854252, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 33.40567786401695, , , , 3122535, False, 
+##[group]Run actions/checkout@v4__dup_12, 2.467061750288231, , , , 163152, False, 
+##[group]Cleaning the repository__dup_13, 1.4501036700084209, , , , 102714, False, 
+##[group]Disabling automatic garbage collection, 1.5944855332512915, , , , 4383, False, 
+##[group]Fetching the repository__dup_15, 8.69433698247081, , , , 428057, False, 
+##[group]Installed distributions__dup_16, 412.6038020718328, , , , 51242574, False, 
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Pintegration-test -Djacoco.skip=true clean verify__dup_17, 6502.353512906949, , , , 577379388, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.5 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run test-summary/action@v2__dup_18, 69.66587951688085, , , , 3180550, False, 
+##[group]GITHUB_TOKEN Permissions__dup_19, 23.040778847993344, , , , 2595650, False, 
+##[group]Run actions/checkout@v4__dup_20, 5.730103760564776, , , , 148450, False, 
+##[group]Fetching the repository__dup_21, 9.619358662332582, , , , 431638, False, 
+##[group]Installed distributions__dup_22, 588.0196090455943, , , , 53264388, False, 
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Dcoverage clean verify, 7394.622339208725, , , , 594409711, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.5 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run test-summary/action@v2__dup_24, 91.87356126598738, , , , 3331727, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:3.2.5:test[m (default-test)[m on project axon-eventsourcing[m: [m
+##[group]GITHUB_TOKEN Permissions__dup_25, 41.547338318068775, , , , 2880878, False, 
+##[group]Run actions/checkout@v4__dup_26, 3.3039353561953297, , , , 164811, False, 
+##[group]Cleaning the repository__dup_27, 9.0434492909589, , , , 98293, False, 
+##[group]Setting up auth__dup_28, 1.662339189705573, , , , 79275, False, 
+##[group]Fetching the repository__dup_29, 5.384682578803723, , , , 453546, False, 
+##[group]Checking out the ref, 1.346515819324821, , , , 59975, False, 
+##[group]Installed distributions__dup_31, 476.32528675850085, , , , 56334366, False, 
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Pintegration-test -Djacoco.skip=true clean verify__dup_32, 6781.7511178301465, , , , 577962772, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.5 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run test-summary/action@v2__dup_33, 81.58058979192808, , , , 3064931, False, 

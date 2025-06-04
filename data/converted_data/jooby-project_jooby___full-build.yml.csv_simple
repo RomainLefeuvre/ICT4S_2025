@@ -1,0 +1,35 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_4,835.7393856925069,122885066,False,
+Requested labels: self-hosted__dup_3,505.0593650368592,82296517,False,
+Requested labels: self-hosted__dup_2,293.4977142364242,43719361,False,
+##[group]Installed distributions,248.0008696004808,20922840,False,
+##[group]Installed distributions__dup_32,202.8675434356889,20844425,False,
+##[group]Installed distributions__dup_25,191.40104022103336,22111984,False,
+##[group]Installed distributions__dup_18,180.0996354127935,20348304,False,
+##[group]GITHUB_TOKEN Permissions,168.95857054704055,2965730,False,
+##[group]Run mvn clean install -DskipTests -q -P gradlePlugin__dup_33,92.27440286208574,5387896,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn clean package -P gradlePlugin__dup_27,80.26384610301797,3332984,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn clean package -P gradlePlugin__dup_34,79.90542187908815,3484080,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn clean package -P gradlePlugin,30.94880402838059,3344522,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Fetching the repository,28.032777840652415,440346,False,
+##[group]Run mvn clean install -DskipTests -q -P gradlePlugin__dup_19,26.4022569134493,2928692,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn clean install -DskipTests -q -P gradlePlugin,25.72485931951666,2987913,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]GITHUB_TOKEN Permissions__dup_28,25.23163579885645,3041649,False,
+##[group]Run mvn clean package -P gradlePlugin__dup_20,21.27253899695244,3371613,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn clean install -DskipTests -q -P gradlePlugin__dup_26,17.197990202283826,2942275,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+Requested labels: self-hosted,16.145503407567357,4296159,False,
+##[group]GITHUB_TOKEN Permissions__dup_14,15.262833843483596,2844391,False,
+##[group]Run actions/checkout@v3,13.39082432551026,159827,False,
+##[group]Checking out the ref,7.1645856088670925,24063,False,
+##[group]Setting up auth,6.851803311459118,71246,False,
+##[group]Removing previously created refs_ to avoid conflicts,6.789246851977524,75362,False,
+##[group]Fetching the repository__dup_24,6.749124747866701,491201,False,
+##[group]Fetching the repository__dup_31,6.288810212388485,444293,False,
+##[group]GITHUB_TOKEN Permissions__dup_21,5.827071734131764,3075196,False,
+##[group]Run actions/checkout@v3__dup_29,3.491480839193277,175479,False,
+##[group]Fetching the repository__dup_17,3.459327582342828,432888,False,
+##[group]Setting up auth__dup_30,1.65897148634688,64492,False,
+##[group]Run actions/checkout@v3__dup_15,1.5774110831286214,161351,False,
+##[group]Setting up auth__dup_23,1.3059176632050098,122010,False,
+##[group]Run actions/checkout@v3__dup_22,1.2883547486576776,166987,False,
+##[group]Setting up auth__dup_16,0.8267687185750088,65298,False,

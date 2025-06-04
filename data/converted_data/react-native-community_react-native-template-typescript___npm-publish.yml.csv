@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 66.427398502828, , , , 4618083, False, 
+##[group]GITHUB_TOKEN Permissions, 14.391263905472428, , , , 2262737, False, 
+##[group]Run actions/checkout@v2, 1.6937392832995344, , , , 191647, False, 
+##[group]Cleaning the repository, 0.8675183504687077, , , , 25079, False, 
+##[group]Fetching the repository, 4.544078840532944, , , , 433349, False, 
+##[group]Run actions/setup-node@v2, 3.883047578253641, , , , 368969, False, 
+##[group]Run npm ci, 19.962914173312605, , , , 7140957, False, 
+##[group]Run npm --no-git-tag-version version , 3.709725117505593, , , , 265836, False, 
+##[group]Run npm publish --access public, 22.34239229839421, , , , 1977162, True, ##[error]Process completed with exit code 1.

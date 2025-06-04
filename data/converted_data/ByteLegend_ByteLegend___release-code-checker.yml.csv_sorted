@@ -1,0 +1,9 @@
+##[group]Restore Gradle state from cache, 866.1875496151308, , , , 101367389, True, ##[error]Gradle build failed: see console output for details
+> Task :buildSrc:build UP-TO-DATE, 84.98133093987636, , , , 2714065, False, 
+##[group]GITHUB_TOKEN Permissions, 57.88725235200114, , , , 2657943, False, 
+##[group]Caching Gradle state, 40.22048655174952, , , , 4937922, False, 
+> Task :buildSrc:generateScriptPluginAdapters UP-TO-DATE, 11.313956277886383, , , , 401045, False, 
+Requested labels: self-hosted, 8.265421922735385, , , , 4677595, False, 
+> Task :buildSrc:compileTestKotlin NO-SOURCE, 2.876817498563309, , , , 96228, False, 
+> Task :buildSrc:compilePluginsBlocks UP-TO-DATE, 2.780160640379883, , , , 80696, False, 
+##[group]Run actions/checkout@v3, 2.5078239193960514, , , , 155404, True, ##[error]Input required and not supplied: token

@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 34.62281775931177, , , , 5093729, False, 
+##[group]GITHUB_TOKEN Permissions, 52.20282888039763, , , , 3017597, False, 
+##[group]Run actions/checkout@v2, 3.3715042759182383, , , , 179597, False, 
+##[group]Setting up auth, 1.6872237417884874, , , , 65264, False, 
+##[group]Fetching the repository, 146.2535990788722, , , , 18641798, False, 
+##[group]Checking out the ref, 40.648514003507415, , , , 1519256, False, 
+##[group]Run actions/setup-java@v2, 7.582738653073704, , , , 233904, False, 
+##[group]Run actions/cache@v1, 3.212503606384705, , , , 74581, False, 
+##[group]Run actions/cache@v1__dup_9, 2.007804625432741, , , , 62444, False, 
+##[group]Run ./gradlew build sonarqube --info -Dorg.gradle.jvmargs=-XX:MaxMetaspaceSize=512m, 31.21902925497923, , , , 2984266, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck

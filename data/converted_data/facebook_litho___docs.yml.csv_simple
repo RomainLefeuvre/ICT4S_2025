@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v3__dup_9,628.8474187679043,67296861,False,
+##[group]Run actions/cache@v3,418.5884886432128,55163215,False,
+##[group]GITHUB_TOKEN Permissions,101.97474364414975,7911031,False,
+##[group]Run ./gradlew dokkaHtmlMultiModule,34.87737456425565,14640056,True,##[error]Process completed with exit code 1.
+##[group]Run JamesIves/github-pages-deploy-action@v4,24.629823519722773,2616704,True,##[error]The directory you're trying to deploy named /home/power/actions-runner/_work/litho/litho/website/build doesn't exist. Please double check the path and any prerequisite build scripts and try again. ❗
+##[group]Fetching the repository,10.50627811098294,465341,False,
+##[group]Run yarn,6.018447131936516,752116,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v3,4.213504181742183,172116,False,
+##[group]Setting up auth,2.104253696019045,112376,False,
+##[group]Checking out the ref,2.098257548374132,89090,False,
+##[group]Removing auth,2.0972581904333127,85626,False,
+Requested labels: self-hosted,0.0752121491141705,4657317,False,

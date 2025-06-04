@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 17.4557784846329, , , , 6576602, False, 
+##[group]GITHUB_TOKEN Permissions, 242.420277165334, , , , 3729887, False, 
+##[group]Run actions/checkout@v2, 15.901195461620116, , , , 1482026, False, 
+##[group]Getting Git version info, 2.2748085423997413, , , , 55213, False, 
+##[group]Setting up auth, 4.477518018614011, , , , 139589, False, 
+##[group]Fetching the repository, 16.948751191983078, , , , 782552, False, 
+##[group]Run actions/setup-java@v1, 207.48786186302664, , , , 19249333, False, 
+##[group]Run mvn clean test cobertura:cobertura, 768.7346233672739, , , , 47978387, True, [ERROR[m] net.sourceforge.cobertura.javancss.parser.ParseException: Encountered " "default" "default "" at line 33, column 5.
+##[group]Run codecov/codecov-action@v1, 321.249004591043, , , , 103936820, False, 
+##[group]Run actions/setup-node@v2, 4.166232316085109, , , , 405673, False, 
+##[group]Run npm install -g @conveyal/maven-semantic-release semantic-release, 1183.6461166469217, , , , 88053498, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.5:sign[m (sign-artifacts)[m on project jcasbin[m: Exit code: 2[m -> [Help 1][m

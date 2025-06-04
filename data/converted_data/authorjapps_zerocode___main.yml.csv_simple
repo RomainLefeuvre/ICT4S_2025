@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean test,1232.0968035005965,150980578,True,"[ERROR[m] Tests run: 2[m, Failures: 1[m, Errors: 0, Skipped: 0, Time elapsed: 0.071 s <<< FAILURE![m -- in org.jsmart.zerocode.core.kafka.helper.KafkaFileRecordHelperTest[m"
+Requested labels: self-hosted,10.604071748918232,5666923,False,
+##[group]GITHUB_TOKEN Permissions,4.217782758402607,3045738,False,
+##[group]Fetching the repository,1.4147498838661852,700014,False,
+##[group]Run actions/checkout@v3,0.372625304827051,182201,False,
+##[group]Installed distributions,0.2222091838977808,73271,False,
+##[group]Setting up auth,0.1906202361916361,50794,False,

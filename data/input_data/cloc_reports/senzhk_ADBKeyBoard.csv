@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2648.3 files/s 116058.4 lines/s)"
+Java,/tmp/clone_directory/keyboardservice/src/main/java/com/android/adbkeyboard/AdbIME.java,15,3,147
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+Markdown,/tmp/clone_directory/README.md,32,0,93
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+XML,/tmp/clone_directory/.project,0,0,33
+YAML,/tmp/clone_directory/.github/workflows/android.yml,7,0,23
+XML,/tmp/clone_directory/keyboardservice/src/main/AndroidManifest.xml,3,1,20
+Text,/tmp/clone_directory/proguard-project.txt,2,0,18
+Gradle,/tmp/clone_directory/build.gradle,1,0,15
+Gradle,/tmp/clone_directory/keyboardservice/build.gradle,3,0,15
+XML,/tmp/clone_directory/keyboardservice/src/main/res/layout/view.xml,0,0,14
+XML,/tmp/clone_directory/keyboardservice/src/main/res/values/styles.xml,3,11,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/keyboardservice/src/main/res/values/strings.xml,0,0,5
+XML,/tmp/clone_directory/keyboardservice/src/main/res/xml/methods.xml,0,0,3
+Properties,/tmp/clone_directory/project.properties,1,12,1
+Gradle,/tmp/clone_directory/settings.gradle,0,1,1
+SUM,,110,51,584

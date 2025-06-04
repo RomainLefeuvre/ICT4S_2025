@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 3.0705789187772843, , , , 4162063, False, 
+##[group]GITHUB_TOKEN Permissions, 70.63369164154184, , , , 3630954, False, 
+##[group]Run actions/checkout@v4, 2.920848827687048, , , , 139383, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.967619649035546, , , , 24500, False, 
+##[group]Setting up auth, 3.0143904703840443, , , , 108437, False, 
+##[group]Fetching the repository, 15.773514672147702, , , , 437507, False, 
+##[group]Run actions/cache@v4, 21.59415442344165, , , , 617269, False, 
+##[group]Run actions/cache@v4__dup_8, 27.321252532038613, , , , 627330, False, 
+##[group]Run cd coordinator/, 117.9517399291377, , , , 18885497, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.3.0:enforce (enforce) on project stargate: 

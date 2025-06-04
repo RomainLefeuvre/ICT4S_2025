@@ -1,0 +1,4 @@
+##[group]GITHUB_TOKEN Permissions, 35.14379454124887, , , , 1330621, False, 
+##[group]Run gh repo sync cryptomator/winget-pkgs -b master --force, 19.065349660713675, , , , 1730902, True, ##[error]Process completed with exit code 4.
+##[group]Run vedantmgoyal2009/winget-releaser@v2, 6.626266718793138, , , , 182281, False, 
+Requested labels: self-hosted, 0.0096902112487598, , , , 5050860, False, 

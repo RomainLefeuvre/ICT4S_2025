@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,54.67159360369445,1241011,False,
+##[group]Run actions/labeler@v5,11.766596725058037,262145,False,
+Requested labels: self-hosted,3.261035244949348,4054031,False,

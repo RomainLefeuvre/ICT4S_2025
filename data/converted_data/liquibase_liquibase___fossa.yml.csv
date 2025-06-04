@@ -1,0 +1,16 @@
+##[group]==END_FILE==, 6238.493187671036, , , , 483611571, False, 
+##[group]GITHUB_TOKEN Permissions, 149.28888206969174, , , , 4276912, False, 
+##[group]Run actions/checkout@v4, 41.59469078385872, , , , 192629, True, ##[error]Parameter token or opts.auth is required
+##[group]Cleaning the repository, 59.85511548962556, , , , 302782, False, 
+##[group]Setting up auth, 19.46848217536804, , , , 77384, False, 
+##[group]Fetching the repository, 75.45781376226978, , , , 480717, False, 
+##[group]Determining the checkout info, 18.260424705766845, , , , 82421, False, 
+##[group]Checking out the ref, 18.0188132118466, , , , 29652, False, 
+##[group]Run whelk-io/maven-settings-xml-action@v22, 16.810755742245405, , , , 108556, False, 
+##[group]Run mvn clean install -DskipTests, 5983.383661241003, , , , 456739423, True, ##[error]Cannot read properties of undefined (reading 'nodeType')
+##[group]Run fossas/fossa-action@main, 9.399298722905984, , , , 269905, False, 
+##[group]Run actions/upload-artifact@v2, 1.7124428029820244, , , , 83243, False, 
+##[group]Run aws s3 cp /home/runner/fossa_reports/liquibase.csv s3://liquibaseorg-origin/fossa_reports_liquibase-pro/, 7.306586952916331, , , , 606100, False, 
+##[group]==END_FILE==__dup_14, 54.96823150926057, , , , 8325168, False, 
+##[group]GITHUB_TOKEN Permissions__dup_15, 10.385203860068373, , , , 1218543, False, 
+##[group]Run peter-evans/repository-dispatch@v3, 6.567227191082082, , , , 249685, False, 

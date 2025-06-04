@@ -1,0 +1,10 @@
+##[group]Run ./mvnw $MAVEN_ARGS -Ppitest -Dfeatures="+GIT(from[HEAD~1])_ +gitci" test, 2184.049455185259, , , , 148047071, True, [ERROR[m] Tests run: 10[m, Failures: 1[m, Errors: 0, Skipped: 0, Time elapsed: 0.211 s <<< FAILURE![m -- in Paths assertHasDigest with String and String[m
+##[group]Installed distributions, 530.8990658064578, , , , 65845545, False, 
+##[group]Run ./mvnw $MAVEN_ARGS -f assertj-core/pom.xml -Ppitest pitest-git:aggregate, 254.03704212713205, , , , 21365904, True, [ERROR[m] 
+##[group]Fetching the repository, 30.428845830493152, , , , 469959, False, 
+##[group]Cleaning the repository, 27.272183285524005, , , , 380838, False, 
+##[group]Run actions/upload-artifact@v4, 21.862386602610545, , , , 768814, False, 
+##[group]GITHUB_TOKEN Permissions, 13.966505382726716, , , , 5469760, False, 
+##[group]Setting up auth, 7.212628639502145, , , , 69086, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.423463003259857, , , , 33234, False, 
+##[group]Run actions/checkout@v4, 6.265629876011402, , , , 144382, False, 

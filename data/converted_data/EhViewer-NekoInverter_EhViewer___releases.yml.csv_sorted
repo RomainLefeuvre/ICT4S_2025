@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 18.856736078472885, , , , 5256345, False, 
+##[group]Fetching the repository, 13.333993377687309, , , , 934634, False, 
+##[group]Run softprops/action-gh-release@v2, 10.035037994500108, , , , 900123, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 9.037382705676222, , , , 4778891, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 4.779619495455625, , , , 445731, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.setup-gradle'
+##[group]Run actions/checkout@v4, 1.4026465697211428, , , , 131847, False, 
+##[group]Getting Git version info, 1.3919931494207718, , , , 32987, False, 
+##[group]Installed distributions, 1.2321918449152052, , , , 135428, False, 
+##[group]Run mv app/build/outputs/apk/release/app-universal-release.apk EhViewer-NekoInverter-master-universal.apk, 1.1682713231129784, , , , 68701, False, 

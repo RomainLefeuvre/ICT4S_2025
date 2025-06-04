@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,33.16355046805972,4662248,False,
+##[group]Run ad-m/github-push-action@master__dup_13,9.24661184091354,1545914,False,
+Requested labels: self-hosted,8.784920302041488,16231108,False,
+##[group]Run ad-m/github-push-action@master,4.538457043127552,716645,False,
+##[group]Run ad-m/github-push-action@master__dup_11,4.449108436180392,729855,False,
+##[group]Fetching the repository,3.3614183436810547,468831,False,
+##[group]Run actions/checkout@v2,1.358926935017501,184855,False,
+##[group]Run actions/setup-java@v2,1.3206346748972897,230098,False,
+##[group]Cleaning the repository,0.6770702012512374,18457,False,
+##[group]Run actions/cache@v1,0.6627106037061581,72110,False,
+##[group]Run ./mvnw.cmd -version,0.6563285603527895,24291,True,##[error]Process completed with exit code 126.
+"##[group]Run git config --local user.email ""action@github.com""",0.6547330495144474,40665,True,##[error]Process completed with exit code 1.
+"##[group]Run git config --local user.email ""action@github.com""__dup_12",0.6292048761009732,29875,True,##[error]Process completed with exit code 1.

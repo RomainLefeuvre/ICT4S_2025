@@ -1,0 +1,9 @@
+##[group]Restore Gradle state from cache, 645.9820151888728, , , , 75160833, False, 
+##[group]GITHUB_TOKEN Permissions, 135.80563160523255, , , , 5657915, False, 
+##[group]Caching Gradle state, 15.000988887303771, , , , 5524988, True, ##[error]Gradle build failed: see console output for details
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6, 1.535312016919653, , , , 835454, False, 
+##[group]Fetching the repository, 0.8711618682815362, , , , 448757, False, 
+##[group]Run gradle/actions/dependency-submission@db19848a5fa7950289d3668fb053140cf3028d43, 0.6446533757040045, , , , 448133, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29, 0.3623025434976444, , , , 151114, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_3, 0.1834575711129938, , , , 66202, False, 
+##[group]Cleaning the repository, 0.1788449723846505, , , , 17178, False, 

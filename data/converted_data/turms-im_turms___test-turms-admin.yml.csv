@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 5.753862235315628, , , , 4478725, False, 
+##[group]GITHUB_TOKEN Permissions, 46.02060444638097, , , , 3533166, False, 
+##[group]Checking docker version, 10.29509055473488, , , , 184138, False, 
+##[group]Create local container network, 22.953801947291968, , , , 485164, False, 
+##[group]Starting job container, 70.81492370808154, , , , 59954778, False, 
+##[group]Run actions/checkout@v4.1.1, 1.3638071237688003, , , , 321449, False, 
+##[group]Getting Git version info, 7.243915253620511, , , , 2409405, False, 
+##[group]Run cypress-io/github-action@v6.5.0, 5562.134177288233, , , , 237660645, False, 

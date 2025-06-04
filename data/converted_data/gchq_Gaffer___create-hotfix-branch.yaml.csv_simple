@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn versions:set -DnewVersion=$RELEASE_VERSION -DgenerateBackupPoms=false,222.6108705332474,18596966,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/actions-ecosystem/action-get-latest-tag/v1/Dockerfile'.,80.9539358756877,18120219,False,
+##[group]GITHUB_TOKEN Permissions,64.29809824796591,1938717,False,
+##[group]Run actions-ecosystem/action-get-latest-tag@v1,37.28187366669439,16680334,False,
+##[group]Run echo  | grep -E '^(0|[1-9]\\d*)\\.(0|[1-9]\\d*)\\.(0|[1-9]\\d*)(?:-((?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\\.(?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\\+([0-9a-zA-Z-]+(?:\\.[0-9a-zA-Z-]+)*))?$',1.6249339538937275,44748,True,##[error]Process completed with exit code 1.
+##[group]Run git checkout -b $BRANCH_NAME,0.6072749060990938,160316,True,##[error]Process completed with exit code 128.
+Requested labels: self-hosted,0.3482512049572857,4828726,False,
+##[group]Run actions/checkout@v4,0.2300797191556742,142227,True,##[error]Input required and not supplied: token

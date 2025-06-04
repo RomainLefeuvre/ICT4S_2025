@@ -1,0 +1,15 @@
+Requested labels: self-hosted, 0.0862981343569413, , , , 4376246, False, 
+##[group]GITHUB_TOKEN Permissions, 23.539317028462065, , , , 1357071, False, 
+##[group]Run actions/checkout@v2, 4.616669925679001, , , , 196751, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 20.746516703051316, , , , 775780, False, 
+##[group]Setting up auth, 2.849796250419136, , , , 74640, False, 
+##[group]Fetching the repository, 11.969144251760373, , , , 457919, False, 
+##[group]Checking out the ref, 3.13477587546105, , , , 29238, False, 
+##[group]Run pwd, 34.482534630071555, , , , 988915, True, ##[error]Process completed with exit code 1.
+##[group]Run ant itest-misc, 35.907432755281114, , , , 932837, True, ##[error]Process completed with exit code 1.
+##[group]Run ant itest-kbp, 45.31176038166427, , , , 981948, True, ##[error]Process completed with exit code 1.
+##[group]Run ant itest-ner, 45.65373593171456, , , , 894014, True, ##[error]Process completed with exit code 1.
+##[group]Run ant itest-coreference, 56.14098613325699, , , , 941793, True, ##[error]Process completed with exit code 1.
+##[group]Run ant itest-many-docs, 61.84057863409525, , , , 1038961, True, ##[error]Process completed with exit code 1.
+##[group]Run ant itest-protobuf, 67.54017113493353, , , , 956651, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "🍏 This job's status is success.", 36.47739200536495, , , , 504790, False, 

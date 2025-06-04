@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 0.8938102633111606, , , , 6614767, False, 
+##[group]GITHUB_TOKEN Permissions, 8.28259384287289, , , , 2108429, False, 
+##[group]Run actions/checkout@v3, 0.4747327283600138, , , , 165476, False, 
+##[group]Initializing the repository, 0.4809114589559383, , , , 9947, False, 
+##[group]Fetching the repository, 8.53489070434075, , , , 1530392, False, 
+##[group]Installed distributions, 0.6044860708744291, , , , 106705, False, 
+##[group]Run echo "" > sec.gpg.asc, 3.793742151336537, , , , 588873, True, ##[error]Process completed with exit code 2.

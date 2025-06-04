@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,467.3312633840804,2219425,False,
+##[group]Run python3 scripts/manage_languages.py -l,442.6249431293277,35239892,False,
+##[group]Fetching the repository,60.69826382802712,723867,False,
+##[group]Run actions/checkout@v3,60.06300949214352,175056,False,
+Requested labels: self-hosted,25.65422195822391,4973604,False,
+##[group]Removing previously created refs_ to avoid conflicts,25.15190875139913,125219,False,
+##[group]Setting up auth,21.898844754950694,81257,False,
+##[group]Checking out the ref,12.18666609488206,31596,False,
+##[group]Installed versions,2.25501931841994,96117,False,

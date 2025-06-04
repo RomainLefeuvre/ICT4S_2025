@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,132.20749462605718,1811035,False,
+##[group]Pull down action image 'quay.io/kabirk/dep-tree-diff:latest',74.94965712184461,21013153,False,
+Requested labels: self-hosted,70.34877993881996,4215586,False,
+##[group]Run wildfly/dep-tree-diff@master,41.765035860580696,21569422,False,
+##[group]Run actions/github-script@v7.0.1,0.9674624620494596,162701,True,"##[error]Unhandled error: SyntaxError: Unexpected token ','"
+##[group]Run unzip input.zip,0.5469182882830509,92491,True,##[error]Process completed with exit code 9.

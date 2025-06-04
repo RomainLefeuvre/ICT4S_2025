@@ -1,0 +1,132 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (5229.9 files/s 287926.4 lines/s)"
+Java,/tmp/clone_directory/android/src/main/java/dev/mcodex/RNSensitiveInfoModule.java,108,34,585
+Objective-C,/tmp/clone_directory/ios/RNSensitiveInfo/RNSensitiveInfo.m,69,17,316
+Visual Studio Solution,/tmp/clone_directory/windows/RNSensitiveInfo.sln,1,1,285
+Visual Studio Solution,/tmp/clone_directory/windows/RNSensitiveInfoCPP62.sln,1,1,252
+Visual Studio Solution,/tmp/clone_directory/example/windows/example.sln,1,1,241
+Visual Studio Solution,/tmp/clone_directory/windows/RNSensitiveInfoCPP63.sln,1,1,224
+XML,/tmp/clone_directory/example/windows/example/example.vcxproj,0,0,196
+Visual Studio Solution,/tmp/clone_directory/windows/RNSensitiveInfoCPP61.sln,1,1,195
+XML,/tmp/clone_directory/windows/RNSensitiveInfoCPP/RNSensitiveInfoCPP.vcxproj,0,1,162
+XML,/tmp/clone_directory/windows/RNSensitiveInfoCPP61/RNSensitiveInfoCPP61.vcxproj,0,1,153
+MSBuild script,/tmp/clone_directory/windows/RNSensitiveInfo/RNSensitiveInfo.csproj,0,7,148
+TypeScript,/tmp/clone_directory/example/src/pages/Home/index.tsx,16,0,135
+C#,/tmp/clone_directory/windows/RNSensitiveInfo/RNSensitiveInfoModule.cs,20,0,134
+Bourne Shell,/tmp/clone_directory/example/android/gradlew,21,36,126
+Bourne Again Shell,/tmp/clone_directory/android/gradlew,19,20,121
+C++,/tmp/clone_directory/windows/code/RNSensitiveInfoCPP.cpp,8,0,96
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/xcshareddata/xcschemes/example-tvOS.xcscheme,0,0,88
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/xcshareddata/xcschemes/example.xcscheme,0,0,88
+Gradle,/tmp/clone_directory/example/android/app/build.gradle,20,37,86
+XML,/tmp/clone_directory/ios/RNSensitiveInfo.xcodeproj/xcuserdata/classapp.xcuserdatad/xcschemes/RNSensitiveInfo.xcscheme,0,0,80
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,25,2,76
+TypeScript,/tmp/clone_directory/index.d.ts,8,0,70
+XML,/tmp/clone_directory/ios/RNSensitiveInfo.xcodeproj/xcshareddata/xcschemes/RNSensitiveInfo.xcscheme,0,0,67
+JSON,/tmp/clone_directory/package.json,0,0,67
+DOS Batch,/tmp/clone_directory/android/gradlew.bat,24,2,64
+XML,/tmp/clone_directory/example/windows/example/example.vcxproj.filters,0,0,63
+YAML,/tmp/clone_directory/.github/workflows/website-deploy.yml,2,0,61
+Java,/tmp/clone_directory/example/android/app/src/debug/java/com/example/ReactNativeFlipper.java,5,8,59
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/example/MainApplication.java,8,13,59
+XML,/tmp/clone_directory/example/ios/example/Info.plist,0,0,59
+Objective-C,/tmp/clone_directory/example/ios/example/AppDelegate.m,10,0,58
+JavaScript,/tmp/clone_directory/.eslintrc.js,0,0,57
+XML,/tmp/clone_directory/example/ios/example/LaunchScreen.storyboard,0,1,57
+JSON,/tmp/clone_directory/example/package.json,0,0,56
+JSON,/tmp/clone_directory/example/tsconfig.json,6,0,56
+XML,/tmp/clone_directory/example/ios/example-tvOS/Info.plist,0,0,53
+Objective-C,/tmp/clone_directory/example/ios/exampleTests/exampleTests.m,14,0,51
+C++,/tmp/clone_directory/example/windows/example/App.cpp,13,23,44
+XML,/tmp/clone_directory/example/windows/example/Package.appxmanifest,8,0,42
+Gradle,/tmp/clone_directory/android/build.gradle,5,0,41
+XML,/tmp/clone_directory/android/src/main/res/layout/fingerprint_dialog_content.xml,4,15,40
+JSON,/tmp/clone_directory/example/ios/example/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,38
+JSON,/tmp/clone_directory/tsconfig.json,0,0,37
+YAML,/tmp/clone_directory/.github/workflows/windows-ci.yml,8,0,36
+JavaScript,/tmp/clone_directory/rollup.config.js,2,0,35
+C/C++ Header,/tmp/clone_directory/windows/code/RNSensitiveInfoCPP.h,9,0,35
+XML,/tmp/clone_directory/android/src/main/res/layout/fingerprint_dialog_container.xml,8,15,34
+XML,/tmp/clone_directory/windows/RNSensitiveInfoCPP61/RNSensitiveInfoCPP61.vcxproj.filters,0,0,33
+Gradle,/tmp/clone_directory/example/android/build.gradle,3,5,29
+XML,/tmp/clone_directory/example/android/app/src/main/AndroidManifest.xml,3,0,26
+XML,/tmp/clone_directory/example/ios/example-tvOSTests/Info.plist,0,0,24
+XML,/tmp/clone_directory/example/ios/exampleTests/Info.plist,0,0,24
+Markdown,/tmp/clone_directory/windows/README.md,11,0,24
+Java,/tmp/clone_directory/android/src/main/java/dev/mcodex/RNSensitiveInfoPackage.java,8,0,23
+Markdown,/tmp/clone_directory/README.md,12,6,22
+C/C++ Header,/tmp/clone_directory/example/windows/example/pch.h,4,0,22
+XML,/tmp/clone_directory/ios/RNSensitiveInfo.xcodeproj/xcuserdata/classapp.xcuserdatad/xcschemes/xcschememanagement.plist,0,0,22
+XML,/tmp/clone_directory/ios/RNSensitiveInfo.xcodeproj/xcuserdata/mtandrade.xcuserdatad/xcschemes/xcschememanagement.plist,0,0,22
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/example/MainActivity.java,4,4,20
+JavaScript,/tmp/clone_directory/example/metro.config.js,1,8,20
+XML,/tmp/clone_directory/android/.project,0,0,17
+C++,/tmp/clone_directory/example/windows/example/MainPage.cpp,7,0,17
+XML,/tmp/clone_directory/android/src/main/res/values/template-styles.xml,12,14,16
+Starlark,/tmp/clone_directory/example/android/app/build_defs.bzl,2,1,16
+C/C++ Header,/tmp/clone_directory/example/windows/example/MainPage.h,5,0,16
+XAML,/tmp/clone_directory/example/windows/example/MainPage.xaml,0,0,16
+TypeScript,/tmp/clone_directory/example/__tests__/CheckStore.tsx,6,2,15
+C/C++ Header,/tmp/clone_directory/example/windows/example/App.h,5,0,15
+Ruby,/tmp/clone_directory/react-native-sensitive-info.podspec,5,0,14
+C#,/tmp/clone_directory/windows/RNSensitiveInfo/Properties/AssemblyInfo.cs,2,13,14
+XML,/tmp/clone_directory/android/src/main/res/drawable/ic_fingerprint_error.xml,0,15,13
+XML,/tmp/clone_directory/android/src/main/res/drawable/ic_fingerprint_success.xml,0,15,13
+C#,/tmp/clone_directory/windows/RNSensitiveInfo/ReactPackageProvider.cs,1,0,12
+C++,/tmp/clone_directory/windows/code/ReactPackageProvider.cpp,3,0,12
+C/C++ Header,/tmp/clone_directory/windows/code/ReactPackageProvider.h,4,0,12
+YAML,/tmp/clone_directory/.github/stale.yml,0,6,11
+Java,/tmp/clone_directory/android/src/main/java/dev/mcodex/utils/AppConstants.java,3,1,11
+JavaScript,/tmp/clone_directory/example/jest-setups/jest.setup.js,1,0,11
+C++,/tmp/clone_directory/example/windows/example/ReactPackageProvider.cpp,7,0,11
+XML,/tmp/clone_directory/android/src/main/res/values/base-strings.xml,8,12,10
+XML,/tmp/clone_directory/android/src/main/res/values/strings.xml,0,20,10
+XML,/tmp/clone_directory/example/ios/example.xcworkspace/contents.xcworkspacedata,0,0,10
+XML,/tmp/clone_directory/example/ios/example/example.entitlements,0,0,10
+XAML,/tmp/clone_directory/example/windows/example/App.xaml,0,0,10
+C++,/tmp/clone_directory/example/windows/example/AutolinkedNativeModules.g.cpp,4,4,10
+C/C++ Header,/tmp/clone_directory/example/windows/example/ReactPackageProvider.h,5,0,10
+XML,/tmp/clone_directory/android/src/main/res/values/template-dimens.xml,9,14,9
+IDL,/tmp/clone_directory/windows/code/ReactPackageProvider.idl,0,0,9
+XML,/tmp/clone_directory/example/windows/example/AutolinkedNativeModules.g.targets,0,2,8
+IDL,/tmp/clone_directory/example/windows/example/MainPage.idl,0,0,8
+XML,/tmp/clone_directory/ios/RNSensitiveInfo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+XML,/tmp/clone_directory/android/src/main/res/drawable/card.xml,2,15,7
+XML,/tmp/clone_directory/android/src/main/res/values-sw600dp/template-styles.xml,6,12,7
+TypeScript,/tmp/clone_directory/example/__tests__/App-test.tsx,3,4,7
+Objective-C,/tmp/clone_directory/example/ios/example/main.m,2,0,7
+XML,/tmp/clone_directory/ios/RNSensitiveInfo.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+XML,/tmp/clone_directory/windows/RNSensitiveInfoCPP61/PropertySheet.props,1,8,7
+XML,/tmp/clone_directory/android/src/main/res/values/colors.xml,0,15,6
+XML,/tmp/clone_directory/example/android/app/src/debug/AndroidManifest.xml,2,0,6
+JSON,/tmp/clone_directory/example/ios/example/Images.xcassets/Contents.json,0,0,6
+C/C++ Header,/tmp/clone_directory/windows/code/pch.h,1,0,6
+TypeScript,/tmp/clone_directory/RNSensitiveInfo.ts,4,16,5
+Properties,/tmp/clone_directory/android/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/android/src/main/res/values-v21/base-template-styles.xml,6,13,5
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/example/ios/example/AppDelegate.h,3,0,5
+C/C++ Header,/tmp/clone_directory/example/windows/example/AutolinkedNativeModules.g.h,4,1,5
+XML,/tmp/clone_directory/example/windows/example/packages.config,0,0,5
+JavaScript,/tmp/clone_directory/.prettierrc.js,0,0,4
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,0,0,4
+XML,/tmp/clone_directory/android/src/main/res/values-sw600dp/template-dimens.xml,7,13,4
+JSON,/tmp/clone_directory/example/app.json,0,0,4
+JavaScript,/tmp/clone_directory/example/index.js,3,0,4
+XML,/tmp/clone_directory/windows/RNSensitiveInfoCPP/packages.config,0,0,4
+XML,/tmp/clone_directory/windows/RNSensitiveInfoCPP61/packages.config,0,0,4
+XML,/tmp/clone_directory/android/src/main/res/values-v11/template-styles.xml,6,13,3
+XML,/tmp/clone_directory/android/src/main/res/values-v21/base-colors.xml,6,12,3
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/strings.xml,0,0,3
+Properties,/tmp/clone_directory/example/android/gradle.properties,6,19,3
+Gradle,/tmp/clone_directory/example/android/settings.gradle,0,0,3
+JavaScript,/tmp/clone_directory/example/babel.config.js,0,0,3
+TypeScript,/tmp/clone_directory/example/src/routes/index.tsx,0,0,3
+IDL,/tmp/clone_directory/example/windows/example/App.idl,0,0,3
+C/C++ Header,/tmp/clone_directory/ios/RNSensitiveInfo/RNSensitiveInfo.h,2,0,3
+Windows Module Definition,/tmp/clone_directory/windows/code/RNSensitiveInfoCPP.def,0,0,3
+JSON,/tmp/clone_directory/example/.watchmanconfig,0,0,1
+JavaScript,/tmp/clone_directory/example/jest-setups/jest.setup.windows.js,0,0,1
+C++,/tmp/clone_directory/windows/code/pch.cpp,0,0,1
+ProGuard,/tmp/clone_directory/example/android/app/proguard-rules.pro,1,9,0
+SUM,,647,532,5978

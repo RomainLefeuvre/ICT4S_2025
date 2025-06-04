@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,3.376143286386477,983570,False,
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11,1.95741017460242,264695,True,##[error]Invalid repository '/'. Expected format {owner}/{repo}.
+Requested labels: ubuntu-22.04,1.255322366701929,6331308,False,

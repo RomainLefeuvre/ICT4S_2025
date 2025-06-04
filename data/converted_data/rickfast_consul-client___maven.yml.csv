@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 2.646875530943637, , , , 5482030, False, 
+##[group]GITHUB_TOKEN Permissions, 4.727967471567476, , , , 1974114, False, 
+##[group]Run actions/checkout@v2, 2.210838237567709, , , , 183254, False, 
+##[group]Initializing the repository, 1.149007925457589, , , , 20313, False, 
+##[group]Fetching the repository, 8.856713202779495, , , , 638151, False, 
+##[group]Run actions/setup-java@v1, 7.343295871991537, , , , 502486, False, 
+##[group]Run mvn -B package --file pom.xml, 207.4183965996922, , , , 51266139, True, [ERROR] WARNING: An illegal reflective access operation has occurred
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ consul-client ---, 20.57659011371907, , , , 2112354, False, 
+[INFO] --- build-helper-maven-plugin:3.5.0:add-test-source (add-test-source) @ consul-client ---, 11.367515853868586, , , , 728017, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ consul-client ---, 30.71115028972137, , , , 9836490, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ consul-client ---, 40.10119485108248, , , , 1079018, False, 

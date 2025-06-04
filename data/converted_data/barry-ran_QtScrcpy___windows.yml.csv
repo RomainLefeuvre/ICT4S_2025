@@ -1,0 +1,23 @@
+##[group]==END_FILE==, 174.09987788996145, , , , 22818316, False, 
+Requested labels: self-hosted, 0.160645135451902, , , , 5269488, False, 
+##[group]GITHUB_TOKEN Permissions, 138.2355736557971, , , , 3914505, False, 
+##[group]Run actions/cache@v1, 17.697998258593334, , , , 99209, False, 
+##[group]Run jurplel/install-qt-action@v2.13.0, 34.3667775717488, , , , 184005, True, ##[error]The process 'sudo' failed with exit code 100
+##[group]Run actions/checkout@v2, 32.9944856444983, , , , 154604, False, 
+##[group]Setting up auth, 15.982633349530216, , , , 81052, False, 
+##[group]Fetching the repository, 74.7670720204617, , , , 502277, False, 
+##[group]Fetching submodules, 27.505317935496315, , , , 112401, False, 
+##[group]Persisting credentials for submodules, 13.238049495029223, , , , 138762, False, 
+##[group]Run echo ::set-output name=version::${GITHUB_REF##*/}, 12.8949765132166, , , , 20385, False, 
+##[group]Run actions/upload-artifact@v1, 90.80918476047836, , , , 782194, True, ##[error]Path does not exist /home/power/actions-runner/_work/QtScrcpy/QtScrcpy/ci\\build\\
+##[group]GITHUB_TOKEN Permissions__dup_13, 6.641912598959032, , , , 3903452, False, 
+##[group]Run actions/cache@v1__dup_14, 1.1166999368999628, , , , 94456, False, 
+##[group]Run jurplel/install-qt-action@v2.13.0__dup_15, 2.212914462552328, , , , 169243, True, ##[error]The process 'sudo' failed with exit code 100
+##[group]Run actions/checkout@v2__dup_16, 2.185600580888864, , , , 156329, False, 
+##[group]Setting up auth__dup_17, 1.082557584820633, , , , 121592, False, 
+##[group]Fetching the repository__dup_18, 5.310360867865176, , , , 432443, False, 
+##[group]Setting up auth for fetching submodules, 1.0415867623254371, , , , 49362, False, 
+##[group]Fetching submodules__dup_20, 1.0347582919095717, , , , 108625, False, 
+##[group]Persisting credentials for submodules__dup_21, 1.0279298214937056, , , , 138645, False, 
+##[group]Run call python ci\\generate-version.py, 1.0211013510778395, , , , 16531, False, 
+##[group]Run actions/upload-artifact@v1__dup_23, 6.956512285900633, , , , 724083, True, ##[error]Process completed with exit code 127.

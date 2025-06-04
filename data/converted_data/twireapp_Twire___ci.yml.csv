@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 2.339108697004656, , , , 5399704, False, 
+##[group]GITHUB_TOKEN Permissions, 11.669572357408654, , , , 4713269, False, 
+##[group]Run actions/checkout@v2, 7.122832594158166, , , , 369690, False, 
+##[group]Initializing the repository, 1.953118234367813, , , , 17209, False, 
+##[group]Setting up auth, 2.0220822686991213, , , , 87104, False, 
+##[group]Fetching the repository, 11.834512201778326, , , , 983392, False, 
+##[group]Checking out the ref, 2.130477540927899, , , , 52627, False, 
+##[group]Run gradle/wrapper-validation-action@v1, 26.2829655276521, , , , 1471476, False, 
+##[group]Run actions/setup-java@v2, 6.396739514939705, , , , 460870, False, 
+##[group]Run actions/cache@v2, 2.141091325239914, , , , 1465524, False, 
+##[group]Run ./gradlew assembleDebug lintDebug --stacktrace, 447.64659999471553, , , , 38043667, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2, 3.357032004846144, , , , 80333, False, 
+##[group]Run rm -f ~/.gradle/caches/modules-2/modules-2.lock, 749.182810470531, , , , 65842285, False, 

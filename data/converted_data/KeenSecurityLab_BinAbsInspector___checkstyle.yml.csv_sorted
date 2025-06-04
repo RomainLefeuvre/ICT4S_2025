@@ -1,0 +1,8 @@
+##[group]Run nikitasavinov/checkstyle-action@0.5.1, 32.006687537299186, , , , 15586866, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/nikitasavinov/checkstyle-action/0.5.1/Dockerfile'., 27.9834489958628, , , , 9587095, False, 
+Requested labels: self-hosted, 11.564157680669624, , , , 6165455, False, 
+##[group]Fetching the repository, 6.05202319058168, , , , 956484, False, 
+##[group]GITHUB_TOKEN Permissions, 5.029802331701955, , , , 2122722, False, 
+##[group]Run actions/checkout@v3, 0.7841393996792224, , , , 229391, False, 
+##[group]Setting up auth, 0.3827289243042838, , , , 121083, False, 
+##[group]Initializing the repository, 0.3422792161672139, , , , 95766, False, 

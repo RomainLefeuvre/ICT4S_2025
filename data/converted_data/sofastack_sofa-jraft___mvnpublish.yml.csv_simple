@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,108.07581239137232,18364918,False,
+##[group]Run mvn clean deploy --batch-mode -DskipTests -Pdeploy -B -U -e,94.85424646171585,28872099,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (sign-artifacts) on project jraft-parent: Exit code: 2 -> [Help 1]
+[INFO] --- license-maven-plugin:3.0:remove (default) @ jraft-parent ---,58.909357297918746,3601141,False,
+[INFO] --- maven-java-formatter-plugin:0.4:format (default) @ jraft-parent ---,20.448109321137885,1236404,False,
+[INFO] --- jacoco-maven-plugin:0.7.9:prepare-agent (pre-test) @ jraft-parent ---,14.381508571119616,4490367,False,
+[INFO] --- sortpom-maven-plugin:2.4.0:sort (sort-pom) @ jraft-parent ---,10.836372619892192,731416,False,
+[INFO] --- maven-javadoc-plugin:2.9.1:jar (attach-javadocs) @ jraft-parent ---,6.34800258195343,3252894,False,
+[INFO] --- maven-source-plugin:2.0.2:jar (attach-sources) @ jraft-parent ---,5.108980223713129,1929478,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ jraft-parent ---,5.054650898904896,272999,False,
+[INFO] --- license-maven-plugin:3.0:format (default) @ jraft-parent ---__dup_10,2.367399318775628,157476,False,
+[INFO] --- license-maven-plugin:3.0:format (default) @ jraft-parent ---,1.590346264621119,141153,False,
+[INFO] --- license-maven-plugin:3.0:remove (default) @ jraft-parent ---__dup_9,1.2210620319982424,145295,False,

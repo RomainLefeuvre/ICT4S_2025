@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+##[group]Cleaning the repository,657.8102573434217,11750919,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,126.99448031759808,39707129,False,
+##[group]Run actions/setup-node@v2-beta,103.30347758665135,6185859,False,
+##[group]Fetching the repository,51.60136960038576,637107,False,
+##[group]GITHUB_TOKEN Permissions,46.3125865665512,2406633,False,
+##[group]GITHUB_TOKEN Permissions__dup_14,34.59355528298925,1879960,False,
+##[group]Checking out the ref,17.581630085449994,119924,False,
+##[group]Fetching the repository__dup_17,16.453036668378992,523707,False,
+##[group]Run actions/setup-node@v2-beta__dup_18,15.15887142792725,769395,False,
+##[group]Run npm ci,11.986783937321634,557716,False,
+##[group]Run npm run-script lint,10.293700837114557,597184,True,##[error]Process completed with exit code 254.
+##[group]Run npm run-script build-production,9.837738500476448,593016,False,
+##[group]Run npm ci__dup_19,8.812330157187024,447927,True,##[error]Process completed with exit code 1.
+##[group]Setting up auth,8.433464837736176,80756,False,
+##[group]Run npm run-script build,7.27484081259936,365611,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.479369809828589,252309,False,
+##[group]Run actions/checkout@v3,5.288783033834551,178238,False,
+##[group]Run actions/checkout@v3__dup_15,4.8524877215322535,167914,False,
+##[group]Setting up auth__dup_16,2.5578809096398927,119286,False,
+##[group]==END_FILE==,0.0291152479076729,6045173,False,

@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 225.87269770363335, , , , 12589659, False, 
+##[group]Fetching the repository, 71.5940408863567, , , , 3257747, False, 
+##[group]Run JamesIves/github-pages-deploy-action@releases/v3, 40.541047914189456, , , , 6569888, False, 
+##[group]Pull down action image 'antora/antora:2.3.1', 27.591523043239174, , , , 7839374, False, 
+##[group]Checking out the ref, 10.744778134005015, , , , 170715, False, 
+##[group]Run actions/checkout@v2, 6.153526906544426, , , , 183840, False, 
+Requested labels: self-hosted, 3.3273587926941683, , , , 5534663, False, 
+##[group]Setting up auth, 2.5092447302023912, , , , 63646, False, 

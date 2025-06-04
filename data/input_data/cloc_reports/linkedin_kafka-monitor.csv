@@ -1,0 +1,119 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.06 s (1914.4 files/s 247311.8 lines/s)"
+JavaScript,/tmp/clone_directory/webapp/js/Chart.js,555,398,2778
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/MultiClusterTopicManagementService.java,76,109,519
+JavaScript,/tmp/clone_directory/webapp/js/jolokia.js,64,334,357
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/apps/SingleClusterMonitor.java,50,25,351
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ProduceService.java,30,26,266
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ClusterTopicManipulationService.java,55,79,257
+JavaScript,/tmp/clone_directory/webapp/js/json2.js,119,195,205
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ConsumeService.java,30,39,202
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/OffsetCommitService.java,45,49,184
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/common/Utils.java,24,66,183
+Gradle,/tmp/clone_directory/build.gradle,30,1,176
+HTML,/tmp/clone_directory/webapp/index.html,38,7,175
+Markdown,/tmp/clone_directory/README.md,29,0,172
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/SignalFxMetricsReporterService.java,28,3,152
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/services/ConsumeServiceTest.java,43,51,148
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/XinfraMonitor.java,23,24,146
+Bourne Shell,/tmp/clone_directory/gradlew,21,22,129
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/services/MultiClusterTopicManagementServiceTest.java,22,17,128
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/KafkaMetricsReporterService.java,12,9,113
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/ProduceServiceConfig.java,21,9,112
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/XinfraMonitorTest.java,34,18,112
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ConsumerFactoryImpl.java,18,12,108
+Properties,/tmp/clone_directory/config/xinfra-monitor.properties,13,84,100
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/ProduceMetrics.java,16,23,100
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/TopicManagementServiceConfig.java,19,13,99
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/GraphiteMetricsReporterService.java,11,9,95
+DOS Batch,/tmp/clone_directory/bin/windows/kmf-run-class.bat,32,57,87
+Bourne Shell,/tmp/clone_directory/bin/kmf-run-class.sh,19,17,82
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/services/ClusterTopicManipulationServiceTest.java,26,12,82
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/StatsdMetricsReporterService.java,15,9,80
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/apps/MultiClusterMonitor.java,15,16,76
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/OffsetCommitServiceMetrics.java,18,20,75
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/consumer/NewConsumer.java,19,12,74
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/services/TopicManagementServiceTest.java,14,9,73
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/consumer/NewConsumerTest.java,17,14,72
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/ClusterTopicManipulationMetrics.java,20,35,71
+Properties,/tmp/clone_directory/config/multi-cluster-monitor.properties,7,15,70
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/DefaultMetricsReporterService.java,12,9,68
+XML,/tmp/clone_directory/checkstyle/checkstyle.xml,9,11,66
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/ConsumeMetrics.java,16,10,66
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/ConsumeServiceConfig.java,14,9,65
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/tests/BasicEndToEndTest.java,12,21,60
+DOS Batch,/tmp/clone_directory/gradlew.bat,23,2,59
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/CommitLatencyMetrics.java,11,35,59
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/AbstractService.java,9,13,58
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,23,0,57
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/TopicManagementService.java,14,25,55
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/KafkaMetricsReporterServiceConfig.java,14,9,53
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/OffsetCommitServiceFactory.java,16,17,51
+JavaScript,/tmp/clone_directory/webapp/js/jolokia-min.js,1,0,49
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/common/ConfigDocumentationGenerator.java,9,12,48
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/GraphiteMetricsReporterServiceConfig.java,11,9,47
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/StatsdMetricsReporterServiceConfig.java,11,13,47
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/SignalFxMetricsReporterServiceConfig.java,11,7,42
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/common/ConsumerGroupCoordinatorUtils.java,14,31,40
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/MultiClusterTopicManagementServiceConfig.java,11,9,39
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/CommitAvailabilityMetrics.java,8,14,39
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/JolokiaService.java,11,12,36
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/consumer/BaseConsumerRecord.java,11,9,34
+Properties,/tmp/clone_directory/config/log4j2.properties,8,8,31
+YAML,/tmp/clone_directory/.github/workflows/tag.yml,2,3,30
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/apps/configs/MultiClusterMonitorConfig.java,13,9,30
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/producer/BaseProducerRecord.java,9,9,29
+Markdown,/tmp/clone_directory/docker/README.md,6,0,27
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/DefaultMetricsReporterServiceConfig.java,9,9,26
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,3,0,24
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/common/MbeanAttributeValue.java,7,9,24
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/producer/NewProducer.java,9,12,23
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/consumer/NewConsumerConfig.java,8,12,21
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/topicfactory/DefaultTopicFactory.java,7,10,21
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/CommonServiceConfig.java,9,9,20
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,8,0,19
+Bourne Shell,/tmp/clone_directory/scripts/publishToJfrog.sh,2,0,19
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ConsumeServiceFactory.java,8,12,19
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/configs/JettyServiceConfig.java,7,9,19
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ClusterTopicManipulationServiceFactory.java,10,22,18
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/KafkaMetricsReporterServiceFactory.java,11,12,18
+Java,/tmp/clone_directory/src/test/java/com/linkedin/xinfra/monitor/services/OffsetCommitServiceTest.java,10,10,18
+JavaScript,/tmp/clone_directory/webapp/js/jolokia-simple-min.js,1,0,18
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/XinfraMonitorConstants.java,16,12,17
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/common/DefaultTopicSchema.java,11,9,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/DefaultMetricsReporterServiceFactory.java,7,12,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/GraphiteMetricsReporterServiceFactory.java,8,12,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/JolokiaServiceFactory.java,8,12,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/MultiClusterTopicManagementServiceFactory.java,8,12,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ProduceServiceFactory.java,6,12,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/SignalFxMetricsReporterServiceFactory.java,9,12,16
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/TopicManagementServiceFactory.java,9,12,16
+YAML,/tmp/clone_directory/.github/workflows/greetings.yml,2,0,15
+YAML,/tmp/clone_directory/.github/workflows/stale.yml,4,0,15
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/consumer/KMBaseConsumer.java,13,15,15
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/StatsdMetricsReporterServiceFactory.java,9,13,15
+Gradle,/tmp/clone_directory/settings.gradle,2,1,12
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/Service.java,11,33,12
+DOS Batch,/tmp/clone_directory/bin/windows/kafka-monitor-start.bat,8,8,11
+Dockerfile,/tmp/clone_directory/docker/Dockerfile,5,11,11
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ConsumerFactory.java,12,9,11
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/metrics/XinfraMonitorMetrics.java,7,17,11
+YAML,/tmp/clone_directory/.github/workflows/label.yml,9,6,10
+make,/tmp/clone_directory/docker/Makefile,5,13,10
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/partitioner/NewKMPartitioner.java,4,9,10
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/topicfactory/TopicFactory.java,8,29,10
+Markdown,/tmp/clone_directory/SECURITY.md,9,0,8
+XML,/tmp/clone_directory/checkstyle/suppressions.xml,2,0,7
+YAML,/tmp/clone_directory/config/prometheus-exporter.yaml,0,0,7
+Bourne Shell,/tmp/clone_directory/docker/kafka-monitor-docker-entry.sh,7,13,7
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/apps/App.java,6,9,7
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/producer/KMBaseProducer.java,6,15,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/partitioner/KMPartitioner.java,4,9,4
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/services/ServiceFactory.java,4,25,4
+Java,/tmp/clone_directory/src/main/java/com/linkedin/xinfra/monitor/tests/Test.java,3,12,4
+Bourne Shell,/tmp/clone_directory/bin/end-to-end-test.sh,2,7,3
+Bourne Shell,/tmp/clone_directory/bin/single-cluster-monitor.sh,2,7,3
+Bourne Shell,/tmp/clone_directory/bin/xinfra-monitor-start.sh,2,7,3
+YAML,/tmp/clone_directory/.github/labeler.yml,1,10,2
+Gradle,/tmp/clone_directory/semantic-build-versioning.gradle,1,1,0
+SUM,,2276,2655,10184

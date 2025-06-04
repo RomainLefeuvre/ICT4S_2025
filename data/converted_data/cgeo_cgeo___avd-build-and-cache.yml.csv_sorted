@@ -1,0 +1,16 @@
+Requested labels: self-hosted__dup_3, 200.06035621660908, , , , 31750098, False, 
+Requested labels: self-hosted, 146.27939259809455, , , , 17820017, False, 
+##[group]GITHUB_TOKEN Permissions, 124.0092187180949, , , , 3155618, False, 
+##[group]Run actions/cache@v4, 81.79742383606319, , , , 614331, False, 
+##[group]Terminate Emulator, 46.28378344447488, , , , 438506, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions__dup_8, 23.63439746955288, , , , 3183190, False, 
+##[group]Run actions/cache@v4__dup_15, 20.614412519645928, , , , 627367, False, 
+##[group]Terminate Emulator__dup_16, 18.65968651436451, , , , 447741, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Run echo 'KERNEL=="kvm"_ GROUP="kvm"_ MODE="0666"_ OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules, 16.210351612125304, , , , 65400, False, 
+##[group]Run actions/cache@v4__dup_11, 6.797681912452839, , , , 606726, False, 
+##[group]Terminate Emulator__dup_12, 5.252719434105615, , , , 440268, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions__dup_13, 5.166045180799534, , , , 3998839, False, 
+##[group]Installed distributions__dup_14, 3.2053561776606103, , , , 45015, False, 
+##[group]Run echo 'KERNEL=="kvm"_ GROUP="kvm"_ MODE="0666"_ OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules__dup_9, 1.2280274837792111, , , , 56620, False, 
+##[group]Installed distributions, 1.1773178846483288, , , , 39874, False, 
+Requested labels: self-hosted__dup_2, 0.1773167082728556, , , , 4391482, False, 

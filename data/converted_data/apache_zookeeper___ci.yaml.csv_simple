@@ -1,0 +1,41 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,72557.24403053446,7270428564,False,
+Requested labels: self-hosted__dup_3,71375.51991980121,7153595019,False,
+Requested labels: self-hosted__dup_4,71375.51991980121,7153595019,False,
+"##[group]Run mvn -B -V -e -ntp ""-Dstyle.color=always"" -Pfull-build verify -Dsurefire-forkcount=1 -DskipCppUnit -Dsurefire.rerunFailingTestsCount=5",70901.78018762685,5908731066,True,"[ERROR[m] Tests run: 15[m, Failures: 2[m, Errors: 0, Skipped: 0, Time elapsed: 7.891 s <<< FAILURE![m - in org.apache.zookeeper.server.ZooKeeperServerMainTest[m"
+"##[group]Run mvn -B -V -e -ntp ""-Dstyle.color=always"" -Pfull-build verify -Dtest=_ -DfailIfNoTests=false",1337.2209597047208,47488603,True,[ERROR[m] Command execution failed.
+##[group]Run actions/cache@v3__dup_26,309.2152820636883,29007823,False,
+##[group]Run actions/cache@v3__dup_27,309.2152820636883,29007823,False,
+##[group]Run actions/cache@v3__dup_37,285.78072203727373,27463372,False,
+##[group]Run actions/cache@v3,213.66245784915452,28047715,False,
+"##[group]Run mvn -B -V -e -ntp ""-Dstyle.color=always"" -Pfull-build apache-rat:check verify -DskipTests spotbugs:check checkstyle:check",171.9856517143654,7736610,True,[ERROR[m] Failed to execute goal org.apache.rat:apache-rat-plugin:0.13:check[m (default-cli)[m on project parent[m: Too many files with unapproved license: 3 See RAT report in: /home/power/actions-runner/_work/zookeeper/zookeeper/target/rat.txt[m -> [Help 1][m
+"##[group]Run mvn -B -V -e -ntp ""-Dstyle.color=always"" -Pfull-build apache-rat:check verify -DskipTests spotbugs:check checkstyle:check__dup_31",171.9856517143654,7736610,True,[ERROR[m] Failed to execute goal org.apache.rat:apache-rat-plugin:0.13:check[m (default-cli)[m on project parent[m: Too many files with unapproved license: 3 See RAT report in: /home/power/actions-runner/_work/zookeeper/zookeeper/target/rat.txt[m -> [Help 1][m
+##[group]GITHUB_TOKEN Permissions__dup_12,64.15620458447763,3957023,False,
+##[group]GITHUB_TOKEN Permissions__dup_13,64.15620458447763,3957023,False,
+##[group]GITHUB_TOKEN Permissions__dup_32,46.72717650680477,3831641,False,
+##[group]Fetching the repository__dup_35,12.649675208032033,430806,False,
+##[group]GITHUB_TOKEN Permissions,12.64276425877939,3767825,False,
+##[group]Fetching the repository__dup_20,11.75545561584523,484791,False,
+##[group]Fetching the repository__dup_21,11.75545561584523,484791,False,
+##[group]Run actions/checkout@v3__dup_14,10.040285198689796,158856,False,
+##[group]Run actions/checkout@v3__dup_15,10.040285198689796,158856,False,
+##[group]Run git log -n1,9.626665560990968,47074,False,
+##[group]Run sudo apt update__dup_28,9.44588628940231,95272,True,##[error]Process completed with exit code 100.
+##[group]Run sudo apt update__dup_29,9.44588628940231,95272,True,##[error]Process completed with exit code 100.
+##[group]Cleaning the repository,4.3591481629070055,149975,False,
+##[group]Cleaning the repository__dup_17,4.3591481629070055,149975,False,
+##[group]Fetching the repository,2.710924110069655,453348,False,
+##[group]Setting up auth__dup_34,2.5299350416064064,66457,False,
+##[group]Checking out the ref,2.32827881773438,19642,False,
+##[group]Checking out the ref__dup_23,2.32827881773438,19642,False,
+##[group]Setting up auth__dup_18,2.2824843064828286,75487,False,
+##[group]Setting up auth__dup_19,2.2824843064828286,75487,False,
+##[group]Installed distributions,2.2714635988753886,31835,False,
+##[group]Installed distributions__dup_25,2.2714635988753886,31835,False,
+##[group]Run actions/checkout@v3__dup_33,2.113182268935874,160156,False,
+##[group]Run sudo apt update__dup_39,1.9958963769425224,64133,True,##[error]Process completed with exit code 100.
+##[group]Checking out the ref__dup_36,1.4933766099993315,26247,False,
+##[group]Run sudo apt update,1.269996794064464,68125,True,##[error]Process completed with exit code 100.
+##[group]Run actions/checkout@v3,1.0104353501168712,184319,False,
+Requested labels: self-hosted,0.571791354386455,5454064,False,
+##[group]Setting up auth,0.5175400573769341,66892,False,

@@ -1,0 +1,11 @@
+##[group]Restore Gradle state from cache, 409.74592865584543, , , , 55335095, False, 
+##[group]GITHUB_TOKEN Permissions, 116.03977495522666, , , , 6269721, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 35.78416099515905, , , , 501605, False, 
+##[group]Fetching the repository, 28.893794758213744, , , , 425112, False, 
+##[group]Caching Gradle state, 17.767722667950878, , , , 2829399, False, 
+##[group]Run actions/checkout@v4, 15.56638347424192, , , , 179656, False, 
+##[group]Run actions/upload-artifact@v4__dup_10, 8.549222672974075, , , , 630480, False, 
+##[group]Setting up auth, 7.5732880942831375, , , , 66840, False, 
+##[group]Checking out the ref, 6.873609284823734, , , , 21386, False, 
+##[group]Run actions/upload-artifact@v4, 3.580468930737933, , , , 298217, True, ##[error]Gradle build failed: see console output for details
+##[group]==END_FILE==, 0.0128314750959372, , , , 4553984, False, 

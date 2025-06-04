@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run reviewdog/action-actionlint@fd627997c9688c2f39e13917aed23873c031b834,52.30652313020543,10828639,False,
+##[group]Pull down action image 'ghcr.io/reviewdog/action-actionlint:v1.48.0',29.43543835081976,9801207,False,
+##[group]Fetching the repository,25.246741953441223,468329,False,
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6,21.06037335696521,811882,False,
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29,8.20728673880185,163781,False,
+##[group]Setting up auth,4.418878376496698,64782,False,
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_3,3.788408362305152,65507,False,

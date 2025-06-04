@@ -1,0 +1,21 @@
+##[group]Attempting to automatically build java code, 733.7453306720363, , , , 97164342, False, 
+##[group]GITHUB_TOKEN Permissions, 133.2771362741151, , , , 10830226, False, 
+[2024-04-20 13:50:56] [autobuild] [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ tio-core ---, 83.12287946273194, , , , 8615088, False, 
+##[group]Augmented user configuration file contents, 67.94248392548678, , , , 1930185, False, 
+[2024-04-20 13:50:50] [autobuild] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ tio-core ---, 48.15735289305201, , , , 6681010, False, 
+[2024-04-20 13:50:46] [autobuild] [INFO] --- maven-clean-plugin:3.0.0:clean (default-clean) @ tio-core ---, 37.11895227936985, , , , 3767966, False, 
+##[group]Setup CodeQL tools, 35.76239008193051, , , , 1155241, False, 
+[2024-04-20 13:51:05] [autobuild] [INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ tio-core ---, 28.480559049345445, , , , 2399449, False, 
+##[group]Run github/codeql-action/analyze@v1, 26.54277699097524, , , , 1235924, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Finalizing java, 23.11067707680617, , , , 3693059, True, ##[error]No code found during the build. Please see:
+##[group]Waiting for processing to finish, 21.79665436354253, , , , 6228769, False, 
+##[group]Load language configuration, 17.41480925981949, , , , 1513300, False, 
+##[group]Run github/codeql-action/init@v1, 11.44789582700588, , , , 370237, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Fetching the repository, 11.116702282892591, , , , 437746, False, 
+##[group]Run github/codeql-action/autobuild@v1, 9.949466468243356, , , , 352747, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Uploading results, 3.32485435779672, , , , 406569, False, 
+##[group]Setting up auth, 2.7377763777089856, , , , 65192, False, 
+##[group]Cleaning the repository, 2.7212167005033208, , , , 109452, False, 
+##[group]Getting Git version info, 2.7046570232976563, , , , 28185, False, 
+##[group]Run actions/checkout@v2, 2.6880973460919915, , , , 181890, False, 
+Requested labels: self-hosted, 0.0, , , , 4118088, False, 

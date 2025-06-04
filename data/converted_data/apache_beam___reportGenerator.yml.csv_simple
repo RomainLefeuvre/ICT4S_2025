@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,88.83605165598516,2352412,False,
+##[group]Environment details,78.76826223834944,4753248,False,
+##[group]Fetching the repository,50.20127507900142,773075,False,
+##[group]Run actions/setup-node@v4,35.10454965692311,534014,False,
+##[group]Run npm ci,27.98113597198927,2919976,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts,27.20836739976429,497744,False,
+##[group]Cleaning the repository,11.497494468795846,200231,False,
+##[group]Run actions/checkout@v4,10.269199451015584,191937,False,
+##[group]Checking out the ref,6.669968497733119,65565,False,
+##[group]Setting up auth,5.880350272017236,149915,False,
+##[group]==END_FILE==,0.8877598759015563,4337850,False,

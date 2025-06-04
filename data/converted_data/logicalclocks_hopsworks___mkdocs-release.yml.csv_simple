@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,192.9665895768304,2113784,False,
+##[group]Fetching the repository,73.78953281076488,440828,False,
+##[group]Run mike deploy 3.8.0-SNAPSHOT latest -u --push,40.79005377023133,4163018,True,##[error]Process completed with exit code 5.
+##[group]Run pip3 install 'git+https://github.com/logicalclocks/feature-store-api@master#egg=hsfs[docs]&subdirectory=python',27.27089492318439,20087593,False,
+##[group]Removing previously created refs_ to avoid conflicts,27.00975351941205,241238,False,
+##[group]Run actions/checkout@v2,25.89594925057031,190547,False,
+##[group]Cleaning the repository,13.922553360521672,48118,False,
+##[group]Run actions/setup-python@v2,1.6650229131514185,183144,False,
+##[group]==END_FILE==,0.0,4475056,False,

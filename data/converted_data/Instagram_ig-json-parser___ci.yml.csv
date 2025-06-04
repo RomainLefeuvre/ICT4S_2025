@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 21.941280140919144, , , , 5474010, False, 
+##[group]GITHUB_TOKEN Permissions, 0.9135786409709294, , , , 2046745, False, 
+##[group]Run actions/checkout@v2, 0.1230285903174184, , , , 212240, False, 
+##[group]Disabling automatic garbage collection, 0.0633414524406511, , , , 6125, False, 
+##[group]Fetching the repository, 0.477497103014139, , , , 675831, False, 
+##[group]Run actions/setup-java@v1, 40.4692767757708, , , , 19707274, False, 
+##[group]Run ./gradlew assemble, 1.8154506165408468, , , , 189310, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-4.10.3-all/81msde2dx9p4vji0mjgtvxkcb/gradle-4.10.3-all.zip.lck
+##[group]Run ./gradlew check, 3.7446978449431, , , , 559154, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-4.10.3-all/81msde2dx9p4vji0mjgtvxkcb/gradle-4.10.3-all.zip.lck

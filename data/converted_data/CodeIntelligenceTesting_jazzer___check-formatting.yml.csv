@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 10.151154699271505, , , , 5759772, False, 
+##[group]GITHUB_TOKEN Permissions, 23.72986462341443, , , , 1285083, False, 
+##[group]Run actions/checkout@v3, 3.956053474778148, , , , 155538, False, 
+##[group]Setting up auth, 2.004965420139891, , , , 62208, False, 
+##[group]Fetching the repository, 18.852849263783536, , , , 915717, False, 
+##[group]Checking out the ref, 2.184556638478673, , , , 72046, False, 
+##[group]Run ./format.sh, 2.134722674427401, , , , 28955, False, 
+##[group]Run [ $(git status --porcelain | wc -l) -eq 0 ], 6.105164238974574, , , , 282393, True, ##[error]Process completed with exit code 127.

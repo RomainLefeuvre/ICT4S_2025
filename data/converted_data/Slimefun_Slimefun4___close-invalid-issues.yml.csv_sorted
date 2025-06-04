@@ -1,0 +1,5 @@
+##[group]GITHUB_TOKEN Permissions, 312.0880355257257, , , , 8458250, False, 
+##[group]Run maxkomarychev/octions/octions/issues/update@master, 30.962201944167692, , , , 425053, True, ##[error]Bad credentials
+##[group]Run maxkomarychev/octions/octions/issues/create-comment@master, 26.632973707726546, , , , 429443, True, ##[error]Bad credentials
+##[group]Run maxkomarychev/octions/octions/issues/add-labels@master, 25.756167988953656, , , , 389342, True, ##[error]Bad credentials
+Requested labels: self-hosted, 0.0, , , , 4899564, False, 

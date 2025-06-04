@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 29.04555378475659, , , , 4429475, False, 
+##[group]GITHUB_TOKEN Permissions, 87.70868614147997, , , , 2718985, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/samin/mysql-action/v1.3/Dockerfile'., 9.182063531042086, , , , 5158270, False, 
+##[group]Run actions/checkout@v3, 0.9481864784818018, , , , 167505, False, 
+##[group]Disabling automatic garbage collection, 0.5255748996893657, , , , 3972, False, 
+##[group]Setting up auth, 0.5598960066550087, , , , 108446, False, 
+##[group]Fetching the repository, 2.582795096276466, , , , 446964, False, 
+##[group]Installed distributions, 4.687140916385416, , , , 550204, False, 
+##[group]Run mvn install -P container, 788.0488737821798, , , , 86403841, False, 
+##[group]Run samin/mysql-action@v1.3, 24.054852993035837, , , , 6635843, False, 
+##[group]Run export CI_BRANCH=${BRANCH_NAME_OR_REF#refs/heads/}, 770.1854187922524, , , , 44517908, True, [ERROR] Failed to execute goal org.codehaus.mojo:sql-maven-plugin:1.5:execute (create-keywhiz-database) on project keywhiz-server: Communications link failure

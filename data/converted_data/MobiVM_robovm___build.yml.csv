@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0231400618862472, , , , 4046117, False, 
+##[group]GITHUB_TOKEN Permissions, 196.8268014514562, , , , 1931540, False, 
+##[group]Run actions/checkout@v2, 28.80820234095462, , , , 201523, False, 
+##[group]Cleaning the repository, 30.102537006851254, , , , 139843, False, 
+##[group]Setting up auth, 15.536644003136866, , , , 106349, False, 
+##[group]Fetching the repository, 82.5369750127967, , , , 482940, False, 
+##[group]Checking out the ref, 17.47814600198182, , , , 73640, False, 
+##[group]Run actions/setup-java@v1, 17.801729668455977, , , , 114560, False, 
+##[group]Run brew install openssl, 18.125313334930134, , , , 34155, True, ##[error]Process completed with exit code 127.
+##[group]Run ./build.sh, 268.4999808789343, , , , 29513982, True, [ERROR[m] Tests run: 4[m, Failures: 1[m, Errors: 0, Skipped: 1[m, Time elapsed: 1.325 s <<< FAILURE![m - in org.robovm.llvm.ObjectFileTest[m

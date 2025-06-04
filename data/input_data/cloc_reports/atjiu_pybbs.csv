@@ -1,0 +1,361 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.15 s (2379.8 files/s 170754.4 lines/s)"
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/api-doc.asciidoc,102,0,993
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/bcrypt/BCrypt.java,52,160,412
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1__initialize.sql,82,0,408
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/theme-dev.asciidoc,66,23,320
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/user/settings.ftl,5,0,319
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/topic/detail.ftl,6,1,306
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/Quant.java,52,58,304
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/GifEncoder.java,33,155,291
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/user/settings.ftl,4,5,264
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/topic/detail.ftl,11,1,259
+SCSS,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/static/theme/simple/css/app.scss,49,5,248
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/ElasticSearchService.java,18,29,221
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/topic/list.ftl,10,0,214
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/CommentService.java,26,35,199
+Maven,/tmp/clone_directory/pom.xml,30,27,198
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/IndexApiController.java,15,34,194
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/TopicService.java,21,47,191
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/UserService.java,25,47,188
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/permission/list.ftl,8,0,185
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/sensitive_word/list.ftl,9,0,181
+CSS,/tmp/clone_directory/src/main/resources/static/theme/default/css/app.css,44,5,178
+CSS,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/static/theme/simple/css/app.css,13,1,176
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/editor.ftl,6,0,160
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/Encoder.java,56,65,156
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/RedisCachePlugin.java,25,18,154
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/TagService.java,19,16,134
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/MyPage.java,34,5,131
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/mobile_login.ftl,5,0,129
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/SensitiveWordUtil.java,25,160,127
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/system/edit.ftl,0,1,125
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/TopicAdminController.java,15,6,123
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/service/TelegramBotService.java,21,0,122
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/SettingsApiController.java,17,17,122
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/FileUtil.java,16,26,122
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/CollectService.java,14,18,121
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/user/edit.ftl,0,0,121
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/comment/list.ftl,4,0,120
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/layout/menu.ftl,0,0,120
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/register.ftl,0,0,120
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/IndexController.java,17,19,119
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/BaseModel.java,12,13,119
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/index.ftl,5,2,118
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/login.ftl,1,2,117
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/User.java,35,14,116
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/StringUtil.java,16,61,115
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/topic/edit.ftl,0,0,108
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/IndexAdminController.java,14,29,106
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/CodeService.java,13,13,106
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/upload.ftl,4,0,106
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/TopicApiController.java,10,24,104
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/tag/list.ftl,2,0,104
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Topic.java,31,11,100
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/OAuthUser.java,28,14,98
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/ShiroConfig.java,23,28,97
+Java,/tmp/clone_directory/plugins/redis-cache-plugin/src/main/java/co/yiiu/pybbs/plugin/RedisService.java,16,28,96
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/RedisService.java,15,28,96
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/MD5Util.java,16,34,91
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/topic_comments.ftl,0,0,91
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/SystemConfigService.java,11,13,90
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/admin_user/edit.ftl,0,0,90
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/admin_user/add.ftl,0,0,89
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/exception/GlobalExceptionHandler.java,11,36,87
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/identicon/Identicon.java,19,26,86
+XML,/tmp/clone_directory/src/main/resources/logback-spring.xml,3,3,85
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/TopicController.java,11,17,84
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/login.ftl,2,2,84
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/user/list.ftl,2,0,82
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/PermissionService.java,13,14,81
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/websocket/MyWebSocket.java,13,13,80
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/CommentApiController.java,8,12,80
+Markdown,/tmp/clone_directory/README.md,42,0,79
+AsciiDoc,/tmp/clone_directory/plugins/README.asciidoc,37,0,79
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/SensitiveWordAdminController.java,10,7,79
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Comment.java,24,7,79
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/SocialPlugin.java,9,25,78
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/DateUtil.java,17,22,77
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/layout/layout.ftl,4,2,77
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/SystemConfig.java,25,11,75
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/comment/edit.ftl,1,0,75
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/topic/create.ftl,0,5,75
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/OAuthController.java,15,9,74
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/RoleAdminController.java,10,10,73
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/interceptor/CommonInterceptor.java,8,12,72
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/TopicMapper.xml,9,7,72
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/login.ftl,0,0,71
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/register.ftl,0,0,71
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/CommentAdminController.java,9,8,71
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/role/list.ftl,2,0,70
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/topic/edit.ftl,0,4,70
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/TelegramBotController.java,9,0,69
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/GifCaptcha.java,11,23,69
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/service/SmsService.java,9,5,68
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/AdminUserAdminController.java,10,9,68
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/topic/create.ftl,0,4,67
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/UserApiController.java,9,20,67
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Notification.java,20,8,67
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/FreemarkerConfig.java,9,7,66
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/ElasticSearchPlugin.java,9,5,66
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/layout/header.ftl,1,0,66
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/topic/edit.ftl,0,5,65
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/TagAdminController.java,9,7,65
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/exception/ApiAssert.java,14,5,65
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Code.java,20,11,65
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/SpecCaptcha.java,8,19,64
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/UserAdminController.java,9,13,63
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/qa.asciidoc,41,0,62
+Java,/tmp/clone_directory/plugins/comment-layer-plugin/src/main/java/co/yiiu/pybbs/plugin/CommentLayerPlugin.java,6,9,62
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/websocket.ftl,8,0,62
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/service/EmailService.java,7,37,59
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/UserController.java,10,9,59
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/CommentLayerPlugin.java,6,8,59
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/SensitiveWordService.java,13,6,58
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/comment/edit.ftl,0,0,58
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/RoleService.java,10,11,57
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/admin_user/list.ftl,0,0,57
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/forget_password.ftl,0,0,57
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/Captcha.java,16,26,56
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/PermissionAdminController.java,8,5,55
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/NotificationService.java,10,7,54
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/loading.ftl,6,0,52
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/layout/header.ftl,0,0,52
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/identicon/generator/impl/DefaultGenerator.java,15,15,52
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Tag.java,15,6,51
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/role/edit.ftl,0,0,51
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/notifications.ftl,1,0,51
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/CookieUtil.java,8,6,50
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/user/profile.ftl,1,0,50
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/upload.ftl,1,0,49
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/BaseApiController.java,9,13,49
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/comment/edit.ftl,0,0,48
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/AdminUserService.java,11,8,48
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/bcrypt/BCryptPasswordEncoder.java,12,30,48
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/user_topics.ftl,0,0,48
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/realm/MyShiroRealm.java,8,15,47
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/tag/edit.ftl,0,0,47
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/OAuthUserService.java,8,5,46
+JavaScript,/tmp/clone_directory/src/main/resources/static/theme/default/js/app.js,3,0,45
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/user/profile.ftl,0,0,44
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/AdminUser.java,14,5,44
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/TopicTagService.java,8,8,44
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/HashUtil.java,13,12,44
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/notifications.ftl,1,0,43
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/role/add.ftl,0,0,43
+Maven,/tmp/clone_directory/docs/pom.xml,4,29,42
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/identicon/generator/impl/MyGenerator.java,11,6,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/paginate.ftl,4,0,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/user_comments.ftl,0,0,42
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/index.ftl,1,0,42
+Markdown,/tmp/clone_directory/README.en_US.md,23,0,41
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/ShiroTag.java,9,14,40
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/WebMvcConfig.java,10,13,40
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/interceptor/UserInterceptor.java,5,5,40
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/CommentMapper.xml,7,7,40
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/SpringContextUtil.java,13,41,40
+Maven,/tmp/clone_directory/plugins/comment-layer-plugin/pom.xml,4,2,39
+Maven,/tmp/clone_directory/plugins/redis-cache-plugin/pom.xml,4,2,39
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/SystemConfigAdminController.java,8,5,39
+Java,/tmp/clone_directory/src/test/java/co/yiiu/pybbs/util/StringUtilTest.java,6,3,39
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/upload-config.asciidoc,24,0,38
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/DataSourceConfig.java,7,20,38
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/DataSourceHelper.java,5,5,38
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/NotificationApiController.java,7,8,38
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/plugin/FileUploadPlugin.java,6,0,38
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/index.asciidoc,18,0,37
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/SiteConfig.java,13,5,37
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/RolePermissionService.java,9,8,37
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/topics.ftl,0,5,37
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/tag/tag.ftl,1,0,37
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/deploy.asciidoc,12,0,36
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Permission.java,11,6,36
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/vo/CommentsByTopic.java,13,7,36
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/JsonUtil.java,8,5,36
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/layout/paginate.ftl,4,0,36
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/tag/tags.ftl,0,0,36
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/MybatisPlusConfig.java,13,34,35
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/RestTemplateConfig.java,10,0,35
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/token.ftl,1,0,35
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/getting-started.asciidoc,13,0,34
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/MarkdownUtil.java,7,8,34
+YAML,/tmp/clone_directory/docker-compose.yml,1,0,33
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/github_repos.ftl,2,0,33
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/layout/layout.ftl,1,2,33
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/SearchDirective.java,6,6,32
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/api-request-demo.asciidoc,6,0,31
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/api/CollectApiController.java,6,7,30
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/notification.ftl,0,0,30
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/CommonController.java,7,6,29
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/UserCommentsDirective.java,5,5,29
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/UserTopicsDirective.java,5,5,29
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/search.ftl,0,0,29
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/user/collects.ftl,0,0,29
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/UserCollectsDirective.java,5,5,28
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/user_info.ftl,0,0,28
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/topics.ftl,0,0,27
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/CommentController.java,5,6,27
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/exception/ApiException.java,8,5,27
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Collect.java,9,5,27
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/base-config.asciidoc,15,0,26
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/service/SensitiveWordFilterService.java,5,6,26
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/OtherTopicDirective.java,6,5,26
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/Streams.java,3,13,26
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/score.ftl,0,0,26
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/ws-config.asciidoc,18,0,25
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/tag/tag.ftl,0,0,25
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/tag/tags.ftl,0,0,25
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/front/BaseController.java,8,6,25
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/NotificationsDirective.java,5,6,25
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/ScoreDirective.java,6,5,25
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/TagsDirective.java,6,5,25
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/vo/UserWithWebSocketVO.java,11,5,25
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/Message.java,10,0,25
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/api-return-object.asciidoc,14,1,24
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/TopicListDirective.java,6,5,24
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/Result.java,8,5,24
+YAML,/tmp/clone_directory/src/main/resources/application.yml,3,3,24
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/error.ftl,0,0,24
+YAML,/tmp/clone_directory/.github/workflows/generator_docs.yml,5,9,23
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/user_comments.ftl,0,0,23
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/layout/layout.ftl,0,4,23
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/layout/footer.ftl,0,0,23
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/notification.ftl,0,0,22
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/Role.java,7,5,22
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/TopicTag.java,7,5,22
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ICommentService.java,14,14,22
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ITopicService.java,16,17,22
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IUserService.java,17,15,22
+Properties,/tmp/clone_directory/src/main/resources/i18n/message_en_US.properties,2,0,22
+Properties,/tmp/clone_directory/src/main/resources/i18n/message_zh_CN.properties,2,0,22
+Java,/tmp/clone_directory/src/test/java/co/yiiu/pybbs/PybbsApplicationTests.java,6,0,22
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/websocket/MessageDecoder.java,8,1,21
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/TopicCommentsDirective.java,5,5,21
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ITagService.java,15,13,21
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/HttpUtil.java,4,12,21
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/LocaleMessageSourceUtil.java,7,19,21
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/author.ftl,0,0,21
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/oauth-config.asciidoc,20,0,20
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/directive/SocialDirective.java,5,8,20
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/SensitiveWord.java,7,5,20
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.17__add_cloud_storage.sql,0,0,20
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/error.ftl,0,3,19
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/FlywayConfig.java,6,5,19
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/hook/CommentServiceHook.java,8,5,19
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/hook/TopicServiceHook.java,8,5,19
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/IpUtil.java,6,0,19
+XML,/tmp/clone_directory/docs/assembly.xml,0,23,18
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/TagMapper.xml,5,7,18
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/impl/IndexedService.java,6,9,18
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/layout/header.ftl,0,0,18
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/user/comments.ftl,0,0,18
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/user/topics.ftl,0,0,18
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/top100.ftl,0,0,17
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/websocket/MessageEncoder.java,7,0,17
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/RolePermission.java,6,5,17
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/Randoms.java,5,20,17
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.18__add_tgbot.sql,4,0,17
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.4__alter_code.sql,3,2,17
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/introduction.asciidoc,9,0,16
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/search.ftl,0,0,16
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/controller/admin/BaseAdminController.java,7,12,16
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/hook/IndexedServiceHook.java,7,5,16
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/hook/UserServiceHook.java,7,5,16
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/NotificationMapper.java,6,7,16
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ICollectService.java,10,13,16
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/top100.ftl,0,0,16
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/email-config.asciidoc,16,0,15
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/CommentMapper.java,7,5,15
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/NotificationMapper.xml,4,7,15
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/TopicMapper.java,9,5,15
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.6__add_permission_about_sensitive_word.sql,2,0,15
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/telegram-config.asciidoc,10,2,14
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/PybbsApplication.java,2,1,14
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.13__add_social_config.sql,3,0,14
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/other_topic.ftl,0,0,14
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/sms-config.asciidoc,11,0,13
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/index.ftl,1,0,13
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/realm/MyCredentialsMatcher.java,3,10,13
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/websocket/WebSocketConfig.java,4,5,13
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IAdminUserService.java,9,8,13
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IPermissionService.java,10,8,13
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ISensitiveWordService.java,9,5,13
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/user_collects.ftl,0,0,12
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/components/user_topics.ftl,0,0,12
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/ServerRunner.java,4,5,12
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/CollectMapper.xml,4,7,12
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/SystemConfigMapper.xml,3,1,12
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ICodeService.java,9,11,12
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ISystemConfigService.java,8,8,12
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.16__add_column_content_style.sql,4,0,12
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/es-config.asciidoc,9,0,11
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/INotificationService.java,7,7,11
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/TagMapper.java,5,5,10
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IOAuthUserService.java,6,5,10
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IRoleService.java,7,5,10
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/ITopicTagService.java,6,6,10
+Text,/tmp/clone_directory/src/main/resources/banner.txt,0,0,10
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.7__alter_oauth_user.sql,2,0,10
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/markdown_guide.ftl,0,0,10
+Maven,/tmp/clone_directory/plugins/theme-simple-plugin/pom.xml,2,0,9
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/layout/footer.ftl,0,0,9
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/AdminUserMapper.xml,4,7,9
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/CollectMapper.java,4,5,9
+XML,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/UserMapper.xml,4,7,9
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IRolePermissionService.java,6,8,9
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/ready.asciidoc,7,0,8
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/theme.asciidoc,8,0,8
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/AdminUserMapper.java,4,5,8
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/UserMapper.java,2,5,8
+YAML,/tmp/clone_directory/src/main/resources/application-prod.yml,1,0,8
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.12__add_indexes.sql,0,0,8
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/admin/layout/footer.ftl,0,0,8
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/create_topic_guide.ftl,0,0,8
+Text,/tmp/clone_directory/fronts/readme.txt,6,0,7
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/hook/FileUtilHook.java,4,0,7
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/service/IIndexedService.java,6,9,7
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/Constants.java,6,5,7
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/SecurityUtil.java,4,0,7
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/identicon/generator/IBaseGenerator.java,6,21,7
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/api-gettoken.asciidoc,7,0,6
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/user/collects.ftl,0,0,6
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/user/comments.ftl,0,0,6
+Freemarker Template,/tmp/clone_directory/plugins/theme-simple-plugin/src/main/resources/templates/theme/simple/user/topics.ftl,0,0,6
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.15__modify_content_character.sql,0,0,6
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/case.asciidoc,2,0,5
+AsciiDoc,/tmp/clone_directory/docs/src/main/asciidoc/redis-config.asciidoc,6,0,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/CodeMapper.java,3,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/OAuthUserMapper.java,2,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/PermissionMapper.java,2,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/RoleMapper.java,2,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/RolePermissionMapper.java,2,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/SensitiveWordMapper.java,2,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/SystemConfigMapper.java,3,5,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/mapper/TopicTagMapper.java,2,5,5
+YAML,/tmp/clone_directory/src/main/resources/application-dev.yml,1,4,5
+YAML,/tmp/clone_directory/src/main/resources/application-docker.yml,0,0,5
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.11__update_system_config_key.sql,2,0,5
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.5__add_sensitive_word.sql,0,0,5
+Freemarker Template,/tmp/clone_directory/src/main/resources/templates/theme/default/components/welcome.ftl,0,0,5
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/service/BaseService.java,2,6,4
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.2__update_system_config_default_theme.sql,0,0,4
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.10__delete_system_config_search.sql,0,0,3
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.8__add_sms_region_id.sql,0,0,3
+Dockerfile,/tmp/clone_directory/Dockerfile,1,0,2
+Bourne Shell,/tmp/clone_directory/shutdown.sh,0,0,2
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.14__add_system_config_user_need_active.sql,0,0,2
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.1__user_add_field.sql,0,0,2
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.9__update_system_config_ws.sql,0,0,2
+Bourne Shell,/tmp/clone_directory/start.sh,0,0,2
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/model/vo/package-info.java,1,8,1
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/util/captcha/package-info.java,1,4,1
+SQL,/tmp/clone_directory/src/main/resources/db/migration/V1.3__delete_system_config_redis_ssl.sql,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/admin/js/app.min.js,0,12,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/theme/default/js/codemirror.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/theme/default/libs/layer/layer.js,0,1,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/theme/default/libs/layer/mobile/layer.js,0,1,1
+CSS,/tmp/clone_directory/src/main/resources/static/theme/default/libs/layer/mobile/need/layer.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/static/theme/default/libs/layer/theme/default/layer.css,0,0,1
+CSS,/tmp/clone_directory/src/main/resources/static/theme/default/libs/layer/theme/moon/style.css,0,0,1
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/GlobalCorsConfiguration.java,0,30,0
+Java,/tmp/clone_directory/src/main/java/co/yiiu/pybbs/config/realm/MyShiroFilter.java,1,29,0
+SUM,,2955,2868,19936

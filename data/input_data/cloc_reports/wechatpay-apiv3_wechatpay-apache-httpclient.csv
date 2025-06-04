@@ -1,0 +1,45 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2696.8 files/s 222327.3 lines/s)"
+Markdown,/tmp/clone_directory/README.md,112,0,284
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/cert/CertificatesManager.java,25,68,234
+Java,/tmp/clone_directory/src/test/java/com/wechat/pay/contrib/apache/httpclient/RsaCryptoTest.java,17,7,179
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/notification/NotificationHandler.java,12,32,128
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/AutoUpdateCertificatesVerifier.java,14,18,127
+Bourne Shell,/tmp/clone_directory/gradlew,23,36,126
+Java,/tmp/clone_directory/src/test/java/com/wechat/pay/contrib/apache/httpclient/CertificatesManagerTest.java,15,12,113
+Java,/tmp/clone_directory/src/test/java/com/wechat/pay/contrib/apache/httpclient/HttpClientBuilderTest.java,23,2,105
+Java,/tmp/clone_directory/src/test/java/com/wechat/pay/contrib/apache/httpclient/AutoUpdateVerifierTest.java,14,7,94
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/notification/Notification.java,21,5,93
+Gradle,/tmp/clone_directory/build.gradle,13,0,87
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/WechatPay2Validator.java,19,8,87
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/SignatureExec.java,11,8,86
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/WechatPayUploadHttpPost.java,12,4,80
+DOS Batch,/tmp/clone_directory/gradlew.bat,26,2,76
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/WechatPay2Credentials.java,18,4,73
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/WechatPayHttpClientBuilder.java,16,9,71
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/CertificatesVerifier.java,12,4,71
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/notification/NotificationRequest.java,18,3,67
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/util/PemUtil.java,8,3,59
+Java,/tmp/clone_directory/src/test/java/com/wechat/pay/contrib/apache/httpclient/NotificationHandlerTest.java,5,5,50
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/util/RsaCryptoUtil.java,9,3,49
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/util/CertSerializeUtil.java,5,14,45
+YAML,/tmp/clone_directory/.github/workflows/deploy.yml,3,3,38
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/util/AesUtil.java,9,3,38
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/PrivateKeySigner.java,7,3,30
+INI,/tmp/clone_directory/.editorconfig,4,0,26
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/cert/SafeSingleScheduleExecutor.java,6,4,23
+YAML,/tmp/clone_directory/.github/workflows/build.yml,3,1,20
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/Signer.java,8,3,18
+Markdown,/tmp/clone_directory/UPGRADING.md,5,0,17
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/constant/WechatPayHttpHeaders.java,4,6,10
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/exception/ParseException.java,4,3,10
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/exception/WechatPayException.java,5,3,10
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/Credentials.java,5,3,7
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/exception/HttpCodeException.java,4,3,7
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/exception/NotFoundException.java,4,3,7
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/exception/ValidationException.java,5,3,7
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/notification/Request.java,5,25,7
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/Validator.java,4,3,6
+Java,/tmp/clone_directory/src/main/java/com/wechat/pay/contrib/apache/httpclient/auth/Verifier.java,4,8,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,537,331,2677

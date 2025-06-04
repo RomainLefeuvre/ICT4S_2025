@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/Yikun/hub-mirror-action/master/Dockerfile'.,1115.8038398025385,320802973,False,
+##[group]Run Yikun/hub-mirror-action@master,765.2695854875554,73637149,False,
+##[group]GITHUB_TOKEN Permissions,3.730247553387717,1140091,False,
+Requested labels: self-hosted,0.0406949033521979,4207044,False,

@@ -1,0 +1,9 @@
+##[group]Run sudo npm install -g markdown-link-check@3.11.2, 137.24605689850927, , , , 10253621, False, 
+##[group]Run for file in $(find . -name "*.md"); do, 22.91847207304525, , , , 533733, True, ##[error]Process completed with exit code 1.
+##[group]Cleaning the repository, 12.300898832368134, , , , 1675056, False, 
+##[group]GITHUB_TOKEN Permissions, 6.260527565857943, , , , 1472009, False, 
+##[group]Fetching the repository, 3.5463537635186744, , , , 443519, False, 
+##[group]Run actions/checkout@v4, 1.177850048876361, , , , 158784, False, 
+##[group]Checking out the ref, 0.9220245618846076, , , , 39864, False, 
+##[group]Setting up auth, 0.8511523198747295, , , , 71236, False, 
+Requested labels: self-hosted, 0.0971667194941852, , , , 4321971, False, 

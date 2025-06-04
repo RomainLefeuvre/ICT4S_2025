@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,56.81729617023107,4068045,False,
+##[group]GITHUB_TOKEN Permissions,31.16577621368356,1347614,False,
+##[group]Fetching the repository,17.41923677032349,525663,False,
+##[group]Run # TODO (trask) search doesn't support exact phrases_ so it's possible that this could grab the wrong issue,9.66176108888542,301916,True,##[error]Process completed with exit code 127.
+##[group]Checking out the ref,6.1449518847651365,174420,False,
+##[group]Cleaning the repository,5.383237721786196,165920,False,
+##[group]Setting up auth,2.755095041141343,143134,False,
+##[group]Getting Git version info,2.6281426806448533,5573,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,2.585825227146023,148636,False,

@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 6.932955158035189, , , , 6026553, False, 
+##[group]GITHUB_TOKEN Permissions, 33.29479421282445, , , , 10867778, False, 
+##[group]Run actions/checkout@v3, 1.0031222433200502, , , , 171311, False, 
+##[group]Setting up auth, 0.9980932309970324, , , , 63304, False, 
+##[group]Fetching the repository, 4.9150309701398935, , , , 545887, False, 
+##[group]Checking out the ref, 0.9679191570589252, , , , 29667, False, 
+##[group]Run github/codeql-action/init@v2, 3.821386505005522, , , , 375366, False, 
+##[group]Setup CodeQL tools, 15.407123879222876, , , , 3905223, False, 
+##[group]Validating workflow, 32.71220444361835, , , , 2964470, False, 
+##[group]Load language configuration, 12.826262475291378, , , , 1008140, False, 
+##[group]Augmented user configuration file contents, 8.658092361760756, , , , 4230042, False, 
+##[group]Run github/codeql-action/autobuild@v2, 2.7675442401610866, , , , 2971370, False, 
+##[group]Attempting to automatically build java code, 225.9243451770445, , , , 34155931, True, [2024-05-01 01:01:37] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir-4/init.gradle, clean])
+##[group]Run github/codeql-action/analyze@v2, 24.188203457281432, , , , 1485793, False, 
+##[group]Finalizing java, 113.09392839870144, , , , 5190760, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.17.1/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6831 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.
+##[group]Uploading results, 9.098650012529111, , , , 421456, False, 
+##[group]Waiting for processing to finish, 35.976328618856485, , , , 6368390, False, 

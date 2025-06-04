@@ -1,0 +1,13 @@
+##[group]Run ./gradlew --no-daemon --info --stacktrace assembleExecutableDist, 233.6790313777372, , , , 45989770, False, 
+##[group]Run actions/upload-release-asset@v1, 233.44398012951712, , , , 19591158, True, ##[error]ENOENT: no such file or directory, stat 'build/distributions/sudachi-executable-refs/heads/develop.zip'
+##[group]Installed distributions, 30.589189876019468, , , , 2378425, False, 
+##[group]GITHUB_TOKEN Permissions, 13.86851323633401, , , , 3271342, False, 
+##[group]Fetching the repository, 10.189085318947454, , , , 766086, False, 
+##[group]Run actions/create-release@v1, 9.512983314689231, , , , 502086, False, 
+##[group]Run echo "::set-output name=version::$(echo refs/heads/develop | sed -e 's/refs\\/tags\\/v//')", 6.375754184584252, , , , 47854, False, 
+> Task :compileJava, 6.075375948079022, , , , 199530, False, 
+Requested labels: self-hosted, 5.457493157791816, , , , 5289853, False, 
+> Task :inspectClassesForKotlinIC, 2.936099003032194, , , , 99364, False, 
+> Task :executableDistTar, 2.8683730223606494, , , , 97110, False, 
+##[group]Run actions/checkout@v3, 2.5466941213374663, , , , 164054, False, 
+##[group]Setting up auth, 1.2734192117186576, , , , 62976, False, 

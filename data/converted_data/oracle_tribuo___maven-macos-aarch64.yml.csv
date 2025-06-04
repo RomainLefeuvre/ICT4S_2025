@@ -1,0 +1,26 @@
+##[group]==END_FILE==, 0.0, , , , 5897961, False, 
+Requested labels: self-hosted, 142.4638183942118, , , , 25967925, False, 
+##[group]GITHUB_TOKEN Permissions, 34.15016104593664, , , , 3214300, False, 
+##[group]Run actions/checkout@v4, 1.0885205568698098, , , , 142763, False, 
+##[group]Initializing the repository, 1.1034985478220387, , , , 12827, False, 
+##[group]Fetching the repository, 26.633385414227742, , , , 2042379, False, 
+##[group]Checking out the ref, 7.090181789094249, , , , 263410, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 53.34542555920894, , , , 1127211, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn -B package --file pom.xml -Parm, 62.157947815713655, , , , 5237045, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.2.1:enforce (enforce) on project tribuo: 
+##[group]GITHUB_TOKEN Permissions__dup_10, 14.487919663611068, , , , 3417479, False, 
+##[group]Run actions/checkout@v4__dup_11, 2.089026942093979, , , , 159014, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.038255116677714, , , , 99351, False, 
+##[group]Cleaning the repository, 1.0340828804315303, , , , 30050, False, 
+##[group]Fetching the repository__dup_14, 5.107830858464897, , , , 425904, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_15, 5.639012177205303, , , , 595811, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn -B package --file pom.xml -Parm__dup_16, 13.983704143571863, , , , 1921955, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.2.1:enforce (enforce) on project tribuo: 
+[INFO] --- maven-enforcer-plugin:3.2.1:enforce (enforce) @ tribuo ---, 54.74123145325636, , , , 14392287, False, 
+##[group]==END_FILE==__dup_18, 29.584412334983583, , , , 7473110, False, 
+##[group]GITHUB_TOKEN Permissions__dup_19, 11.97118361459827, , , , 3337857, False, 
+##[group]Run actions/checkout@v4__dup_20, 13.185635503674504, , , , 150277, False, 
+##[group]Getting Git version info, 2.5907981977887093, , , , 32868, False, 
+##[group]Setting up auth, 2.5444692948425187, , , , 58133, False, 
+##[group]Fetching the repository__dup_23, 9.714588149908163, , , , 442663, False, 
+##[group]Checking out the ref__dup_24, 2.312824780111564, , , , 24203, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_25, 10.637545841633994, , , , 556611, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn -B package --file pom.xml -Parm__dup_26, 28.979435170499983, , , , 1949505, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.2.1:enforce (enforce) on project tribuo: 

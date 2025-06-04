@@ -1,0 +1,17 @@
+##[group]Run actions/cache@v4, 435.3133168797772, , , , 53053292, False, 
+##[group]Restoring cache, 153.91290771105452, , , , 19948540, False, 
+##[group]==END_FILE==, 71.12475275553557, , , , 4390267, False, 
+##[group]Run sudo apt-get update, 36.741178463323465, , , , 21284918, False, 
+##[group]Updating packages, 32.63597356771979, , , , 1444682, False, 
+##[group]Run mkdir -p "$CONVERT_PATH", 21.208969551307867, , , , 4919663, False, 
+##[group]Run JamesIves/github-pages-deploy-action@v4.5.0, 20.042507831652173, , , , 1245374, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions, 14.812234105664734, , , , 6448885, False, 
+##[group]TeX Live version info, 13.341004063635015, , , , 232379, False, 
+##[group]Fetching the repository, 12.828953550541774, , , , 432424, False, 
+##[group]Run convert --version, 11.606448646693906, , , , 79102, False, 
+##[group]Updating tlmgr, 7.185138544313968, , , , 1767502, False, 
+##[group]Setting up auth, 6.356878759623242, , , , 130070, False, 
+##[group]Run teatimeguest/setup-texlive-action@v3.2.1, 3.5659201968580647, , , , 216884, True, ##[error]Process completed with exit code 100.
+##[group]Cleaning the repository, 3.164039875899709, , , , 155691, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 3.1448405373504937, , , , 142361, False, 
+##[group]Run sudo sed -i '/disable ghostscript format types/_+6d' /etc/ImageMagick-6/policy.xml, 1.134064272591956, , , , 62818, False, 

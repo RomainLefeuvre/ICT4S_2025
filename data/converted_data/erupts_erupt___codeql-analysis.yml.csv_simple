@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Attempting to automatically build java code,263.4019829502193,35802427,True,[2024-04-23 12:13:26] [autobuild] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project erupt-annotation: Compilation failure -> [Help 1]
+##[group]GITHUB_TOKEN Permissions,172.2056491333738,11729848,False,
+[2024-04-23 12:13:06] [autobuild] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ erupt-annotation ---,55.00118328798449,7514850,False,
+##[group]Augmented user configuration file contents,53.70250063007991,2842128,False,
+[2024-04-23 12:13:02] [autobuild] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ erupt ---,26.167059808862327,3744469,False,
+##[group]Waiting for processing to finish,26.16682047919358,6294027,False,
+##[group]Run github/codeql-action/analyze@v1,15.120093776295295,1340178,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+##[group]Load language configuration,15.099111660535623,3297936,False,
+##[group]Finalizing java,12.7792081016647,3897130,True,##[error]No code found during the build. Please see:
+##[group]Setup CodeQL tools,11.679481679013328,3256546,False,
+##[group]Run github/codeql-action/autobuild@v1,11.237059281439802,516304,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+##[group]Fetching the repository,5.870396358823331,441599,False,
+##[group]Run github/codeql-action/init@v1,5.469330596891078,374731,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+##[group]Uploading results,4.880102660001537,366156,False,
+##[group]Run actions/checkout@v2,3.215944212764243,196145,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.135731060377793,131471,False,
+##[group]Cleaning the repository,1.5377855980439772,113536,False,
+##[group]Setting up auth,1.5177323099473643,73297,False,
+Requested labels: self-hosted,0.0158746609287354,4409182,False,

@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,152.26201188876732,1936944,False,
+Requested labels: self-hosted,65.29584476980202,4479287,False,
+##[group]Fetching the repository,23.015523283230284,435469,False,
+##[group]Run gradle/wrapper-validation-action@v2,20.492833855954487,438659,False,
+##[group]Getting Git version info,19.626663800493773,279052,False,
+##[group]Cleaning the repository,12.34865811737374,219553,False,
+##[group]Run actions/checkout@v4,6.752445385770908,182692,False,
+##[group]Removing previously created refs_ to avoid conflicts,6.331997147891609,37170,False,
+##[group]Setting up auth,6.016660969482134,75774,False,

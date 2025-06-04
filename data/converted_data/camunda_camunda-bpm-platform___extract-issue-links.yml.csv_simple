@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,79.70876087373101,5939421,False,
+##[group]GITHUB_TOKEN Permissions,0.9170436736608816,1549736,False,
+##[group]Get Vault Secrets,0.3720540743044318,37310,False,

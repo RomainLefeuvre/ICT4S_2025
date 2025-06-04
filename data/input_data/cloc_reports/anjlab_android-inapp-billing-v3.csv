@@ -1,0 +1,43 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2393.0 files/s 238603.9 lines/s)"
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/BillingProcessor.java,125,125,927
+XML,/tmp/clone_directory/.idea/codeStyleSettings.xml,0,0,231
+Markdown,/tmp/clone_directory/README.md,72,0,212
+Java,/tmp/clone_directory/sample/src/com/anjlab/android/iab/v3/sample2/MainActivity.java,25,16,153
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/SkuDetails.java,33,22,150
+Gradle,/tmp/clone_directory/library/build.gradle,19,2,129
+Bourne Again Shell,/tmp/clone_directory/gradlew,20,21,123
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/BillingCache.java,18,15,120
+XML,/tmp/clone_directory/sample/res/layout/activity_main.xml,19,0,105
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/PurchaseInfo.java,14,27,102
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/Security.java,11,50,95
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/BillingHistoryRecord.java,13,15,80
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/BillingBase.java,11,15,66
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/PurchaseData.java,9,18,62
+Java,/tmp/clone_directory/library/src/androidTest/java/com/anjlab/android/iab/v3/SkuDetailsParcelableTest.java,15,0,61
+Gradle,/tmp/clone_directory/sample/build.gradle,9,2,44
+Java,/tmp/clone_directory/library/src/androidTest/java/com/anjlab/android/iab/v3/PurchaseInfoParcelableTest.java,14,0,42
+Java,/tmp/clone_directory/library/src/androidTest/java/com/anjlab/android/iab/v3/BillingHistoryRecordTest.java,11,0,40
+Gradle,/tmp/clone_directory/build.gradle,3,1,38
+Markdown,/tmp/clone_directory/CHANGELOG.md,32,0,36
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/Constants.java,4,15,36
+Markdown,/tmp/clone_directory/UPGRADING.md,11,0,34
+XML,/tmp/clone_directory/checkstyle.xml,11,0,33
+YAML,/tmp/clone_directory/.github/workflows/connected-check.yml,9,1,30
+Java,/tmp/clone_directory/library/src/androidTest/java/com/anjlab/android/iab/v3/util/ResourcesUtil.java,2,0,27
+XML,/tmp/clone_directory/sample/AndroidManifest.xml,3,0,19
+JSON,/tmp/clone_directory/library/src/androidTest/resources/sku_subscription_introductory.json,0,0,14
+Markdown,/tmp/clone_directory/ISSUE_TEMPLATE.md,4,0,13
+JSON,/tmp/clone_directory/library/src/androidTest/resources/sku_subscription_trial.json,0,0,11
+JSON,/tmp/clone_directory/library/src/androidTest/resources/sku_subscription.json,0,0,10
+JSON,/tmp/clone_directory/library/src/androidTest/resources/sku_in_app.json,0,0,9
+JSON,/tmp/clone_directory/library/src/androidTest/resources/transaction_details.json,0,0,9
+Java,/tmp/clone_directory/library/src/main/java/com/anjlab/android/iab/v3/PurchaseState.java,1,15,8
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,7
+JSON,/tmp/clone_directory/library/src/androidTest/resources/purchase_history_response.json,0,0,6
+XML,/tmp/clone_directory/sample/res/values/strings.xml,2,0,6
+XML,/tmp/clone_directory/sample/res/values/styles.xml,3,11,6
+XML,/tmp/clone_directory/library/src/main/AndroidManifest.xml,1,0,5
+Text,/tmp/clone_directory/library/progress-proguard.txt,0,0,2
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,548,374,3166

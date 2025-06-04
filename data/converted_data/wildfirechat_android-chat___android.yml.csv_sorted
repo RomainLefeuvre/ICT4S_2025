@@ -1,0 +1,8 @@
+##[group]Run ./gradlew clean aDebug, 317.4569334805693, , , , 37184701, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 126.83504602111296, , , , 1803973, False, 
+##[group]Run actions/upload-artifact@v4, 90.6465737448327, , , , 13247721, False, 
+##[group]Checking out the ref, 41.35742407941044, , , , 566967, False, 
+##[group]Fetching the repository, 34.0634488222472, , , , 22776063, False, 
+##[group]GITHUB_TOKEN Permissions, 7.344430934488984, , , , 4250458, False, 
+Requested labels: self-hosted, 6.644935001648024, , , , 6266217, False, 
+##[group]Run actions/checkout@v4, 5.8453496138164525, , , , 140534, False, 

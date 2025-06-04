@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,69.8500727790525,2227364,False,
+##[group]Fetching the repository,53.527798471440256,700867,False,
+##[group]Installed distributions,26.737439578500645,1092173,True,"##[error]Can't find 'action.yml', 'action.yaml' or 'Dockerfile' under '/home/power/actions-runner/_work/Hunter/Hunter/gradlew build --no-daemon'. Did you forget to run actions/checkout before running your local action?"
+##[group]Run actions/checkout@v3,17.880414698158898,166937,False,
+##[group]Checking out the ref,6.497158134381512,37027,False,
+##[group]Run actions/setup-java@v3,6.209740579711164,1018,False,
+Requested labels: self-hosted,1.0695207557222144,5239644,False,

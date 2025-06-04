@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew publishToSonatype --no-daemon,3168.0325033101453,170983065,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,1769.175026942834,5546382,False,
+> Task :buildSrc:jar,1394.6463761701089,70003243,False,
+> Task :buildSrc:generatePluginAdapters,460.667911039104,29998429,False,
+> Task :buildSrc:compileJava,165.7570014617122,7699885,False,
+##[group]Run actions/checkout@v4,89.62640046731126,1708836,False,
+##[group]GITHUB_TOKEN Permissions,79.63009537795173,4526527,False,
+##[group]Cleaning the repository,43.73573492249966,4321070,False,
+##[group]Fetching the repository,18.75927358254428,1306514,False,
+> Task :buildSrc:compileGroovy,16.512052176997084,699899,False,
+##[group]Installed distributions,16.00912058587505,277279,False,
+##[group]Removing previously created refs_ to avoid conflicts,15.73419149317098,826080,False,
+##[group]Run actions/cache@v4,13.359021679853775,695235,False,
+##[group]Checking out the ref,4.004127666279209,115016,False,
+> Task :buildSrc:classes,2.9350007032729946,99752,False,
+##[group]Setting up auth,2.204610278367486,91799,False,

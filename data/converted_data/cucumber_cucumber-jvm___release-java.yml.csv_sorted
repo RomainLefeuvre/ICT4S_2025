@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 7.209633240244354, , , , 3092292, False, 
+##[group]Installed distributions, 6.919683797254, , , , 2786812, False, 
+##[group]Fetching the repository, 5.188073547570381, , , , 1234837, False, 
+##[group]Run actions/checkout@v4, 3.6077982715863, , , , 1015396, False, 
+##[group]Run echo -e "" | gpg --batch --import --no-tty, 1.1618608850206809, , , , 614594, True, ##[error]Process completed with exit code 2.
+##[group]Checking out the ref, 0.9481651655904488, , , , 104379, False, 
+##[group]Setting up auth, 0.3935779932639599, , , , 65316, False, 
+##[group]==END_FILE==, 0.1034165974753754, , , , 5763576, False, 

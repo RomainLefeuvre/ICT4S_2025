@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew publish --no-daemon --no-parallel,401.22149513583554,37048823,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,141.38490137803808,2130946,False,
+##[group]Fetching the repository,51.83893828097808,519519,False,
+##[group]Run actions/checkout@v2,18.81107179805333,172665,False,
+##[group]Run actions/setup-java@v1,11.223122551456898,113253,False,
+##[group]Checking out the ref,11.009288827641576,21623,False,
+##[group]Setting up auth,9.726286484749648,64124,False,
+##[group]==END_FILE==,0.518844565300883,4468123,False,

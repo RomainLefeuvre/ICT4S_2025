@@ -1,0 +1,21 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2898.5 files/s 117618.7 lines/s)"
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+Markdown,/tmp/clone_directory/README.md,19,0,60
+YAML,/tmp/clone_directory/.github/workflows/manual.yml,6,5,35
+Gradle,/tmp/clone_directory/app/build.gradle,4,3,31
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_main.xml,8,11,30
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,8,0,27
+Gradle,/tmp/clone_directory/build.gradle,3,3,18
+XML,/tmp/clone_directory/app/src/main/AndroidManifest.xml,6,11,17
+XML,/tmp/clone_directory/app/src/main/res/values/styles.xml,5,13,15
+Java,/tmp/clone_directory/app/src/main/java/com/example/android/miwok/MainActivity.java,4,17,10
+XML,/tmp/clone_directory/app/src/main/res/values/colors.xml,9,18,10
+XML,/tmp/clone_directory/app/src/main/res/values/strings.xml,7,16,7
+XML,/tmp/clone_directory/app/src/main/res/values/dimens.xml,3,13,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/app/src/main/res/values-w820dp/dimens.xml,3,14,3
+Properties,/tmp/clone_directory/gradle.properties,4,14,2
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/app/proguard-rules.pro,2,15,0
+SUM,,134,176,461

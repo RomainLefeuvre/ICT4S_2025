@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw install -B  \\,3762.8131253118336,281326641,True,[ERROR] MavenReportException: Error while generating Javadoc: 
+"##[group]Run echo ""test_times_cache_present=false"" >> $GITHUB_OUTPUT",785.2185397016567,63442595,False,
+##[group]GITHUB_TOKEN Permissions,149.52083640355087,4075509,False,
+##[group]Fetching the repository,33.49602659510027,1166077,False,
+##[group]Run actions/checkout@v4,28.13378018181244,484917,False,
+##[group]Run actions/upload-artifact@v4,19.050798327640784,1449079,False,
+##[group]Run Wandalen/wretry.action@v3.5.0_js_action,18.27927855712013,6457934,False,
+##[group]Installed distributions,17.930686308057595,3301785,False,
+##[group]Getting Git version info,17.87022129307906,309817,False,
+##[group]Checking out the ref,11.516097845778871,178666,False,
+##[group]Run baseRef=$GITHUB_BASE_REF,10.64733809550446,205152,False,
+Requested labels: self-hosted,10.353685551452996,5607509,False,
+##[group]Run actions/cache/restore@v4,7.351750318935011,641188,False,
+##[group]Run actions/github-script@v6,6.905553233837344,1560661,False,
+##[group]Setting up auth,6.204228727024253,75945,False,
+##[group]Initializing the repository,6.121732628358287,52304,False,
+##[group]Run cat /tmp/tests.txt,2.1869175106847885,106404,False,

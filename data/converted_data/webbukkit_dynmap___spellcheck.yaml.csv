@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.1695416273584796, , , , 5814578, False, 
+##[group]GITHUB_TOKEN Permissions, 24.228165324882653, , , , 2262425, False, 
+##[group]Pull down action image 'jonasbn/github-action-spellcheck:0.29.0', 7.829313119086637, , , , 7214904, False, 
+##[group]Run actions/checkout@v2, 2.54908052710401, , , , 233814, False, 
+##[group]Fetching the repository, 12.017448239526257, , , , 1604054, False, 
+##[group]Checking out the ref, 2.589191558558285, , , , 307713, False, 
+##[group]Run rojopolis/spellcheck-github-actions@0.29.0, 14.44239397887885, , , , 12182596, False, 

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,1457.0061897163007,4476055,False,
+##[group]Fetching the repository,743.2778210065785,2079737,False,
+##[group]Run python -m pip install pre-commit,128.9616699117735,873329,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4,92.81097631062538,196331,False,
+##[group]Checking out the ref,71.71236991945095,277875,False,
+##[group]Run actions/setup-python@v5,41.10571240267779,243053,False,
+Requested labels: self-hosted,0.0,4779920,False,

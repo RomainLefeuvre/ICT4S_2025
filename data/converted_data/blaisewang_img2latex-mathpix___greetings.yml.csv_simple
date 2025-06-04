@@ -1,0 +1,3 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/actions/first-interaction/v1/Dockerfile'.,80.9904676038983,42124132,False,
+##[group]Run actions/first-interaction@v1,16.502171748830282,5973710,False,

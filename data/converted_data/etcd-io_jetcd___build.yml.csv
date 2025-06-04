@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 0.0, , , , 4196955, False, 
+##[group]GITHUB_TOKEN Permissions, 19.695976965931244, , , , 2299073, False, 
+##[group]Run actions/checkout@v4, 2.3927337746335917, , , , 148901, False, 
+##[group]Setting up auth, 1.2341468942846945, , , , 57008, False, 
+##[group]Fetching the repository, 5.188454290258104, , , , 432436, False, 
+##[group]Run export TC_USER="$(id -u):$(id -g)", 46.16716851477235, , , , 2548696, True, ##[error]Process completed with exit code 1.

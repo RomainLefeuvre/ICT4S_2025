@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v3__dup_10,1188.1705511766204,147650705,False,
+##[group]Run sudo --preserve-env ${GITHUB_ACTION_PATH}/entrypoint.sh,153.87718917076694,7191582,False,
+##[group]GITHUB_TOKEN Permissions,40.74566442307262,3566745,False,
+##[group]Fetching the repository,39.8847817575819,7262053,False,
+##[group]Run actions/cache@v3,12.92458044772743,599050,False,
+##[group]Cleaning the repository,11.43717087787938,903313,False,
+##[group]Run actions/cache@v3__dup_11,5.259348174529394,2911279,False,
+##[group]==END_FILE==,4.655172614326616,4535672,False,
+##[group]Run actions/checkout@v3,2.481644497946077,156457,False,
+##[group]Installed distributions,2.34015620765661,24168,False,
+##[group]Setting up auth,1.2980463235140751,89430,False,

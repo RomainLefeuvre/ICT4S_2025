@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run # TODO: run integration test? (Requries auth with GCP.),507.5991458683321,34783972,True,##[error]Process completed with exit code 1.
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/repo-sync/pull-request/v2.12.1/Dockerfile'.,97.0070358535324,35596113,False,
+##[group]GITHUB_TOKEN Permissions,73.67288658007924,3202807,False,
+> Task :jib-build-plan:ensureTransitiveDependencyOverrides,65.53464904900684,4000072,False,
+> Task :jib-plugins-extension-common:clean,16.539923632110085,85920,False,
+##[group]Fetching the repository,8.27414960578681,659576,False,
+> Task :jib-build-plan:jar,6.193619862845578,183533,False,
+##[group]Gather Inputs,5.42114435201458,2881746,False,
+Requested labels: self-hosted,3.177780861331537,4596482,False,
+##[group]Cleaning the repository,2.4790654964171503,318302,False,
+##[group]Run git checkout -b -release-v,2.3988030814840067,24906,True,##[error]Process completed with exit code 128.
+##[group]Removing previously created refs_ to avoid conflicts,1.9455661862428373,272076,False,
+"##[group]Run echo '* input project: """"'",1.4784098779076549,69191,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref,1.4191321767771756,28984,False,
+##[group]Run actions/checkout@v4,1.0006556185094957,180060,False,
+##[group]Setting up auth,0.944910567733342,92229,False,

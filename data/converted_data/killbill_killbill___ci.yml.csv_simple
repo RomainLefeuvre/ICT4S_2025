@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Waiting for all services to be ready,830.3805122882112,128107420,False,
+##[group]==END_FILE==__dup_2,606.5825521323361,4233448,False,
+##[group]GITHUB_TOKEN Permissions,265.61410286869904,6116466,False,
+##[group]Starting mysql service container,137.93324713845433,57389703,False,
+##[group]Run actions/upload-artifact@v2.3.1,93.22796580003671,8878404,False,
+##[group]Checking docker version,26.78933776569153,1762430,False,
+##[group]Clean up resources from previous jobs,15.991755482689442,308014,False,
+##[group]Create local container network,11.499948182776254,2930282,False,
+##[group]==END_FILE==,4.138171645396385,1449319,False,
+##[group]Service container mysql failed.,2.6401116139784957,252750,False,

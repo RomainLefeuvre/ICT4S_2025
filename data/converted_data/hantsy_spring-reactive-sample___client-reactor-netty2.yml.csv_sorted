@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 159.9875978994964, , , , 2173348, False, 
+##[group]Fetching the repository, 101.64035158272772, , , , 425554, False, 
+##[group]Installed distributions, 52.049335392567954, , , , 15413625, False, 
+##[group]Run actions/checkout@v4, 23.398978017428107, , , , 144923, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 22.784796477251597, , , , 23380, False, 
+##[group]Setting up auth, 22.170614937075083, , , , 92722, False, 
+##[group]Run cd reactor-netty2, 11.724231995192635, , , , 516921, True, ##[error]Process completed with exit code 1.

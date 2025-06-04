@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 22.14131355029212, , , , 1213928, False, 
+##[group]Fetching the repository, 9.878432199361102, , , , 446007, False, 
+##[group]Run ./build/release-build.ps1, 8.345572030494724, , , , 307427, True, ##[error]Process completed with exit code 126.
+##[group]Run actions/checkout@v2, 4.371490111211521, , , , 186847, False, 
+##[group]Run if (-not $env:GPG_SIGNING_KEY) {, 2.6683121458044354, , , , 136257, True, ##[error]Process completed with exit code 2.
+##[group]Setting up auth, 2.3276765527230183, , , , 62241, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.270903953876115, , , , 50440, False, 
+Requested labels: self-hosted, 0.0, , , , 4172660, False, 

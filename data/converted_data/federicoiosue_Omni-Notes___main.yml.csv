@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 1.5973970353029825, , , , 5859381, False, 
+##[group]GITHUB_TOKEN Permissions, 41.04908890550647, , , , 2884241, False, 
+##[group]Run actions/checkout@v3, 1.9129722783442744, , , , 157547, False, 
+##[group]Setting up auth, 1.9422361874040663, , , , 65159, False, 
+##[group]Fetching the repository, 58.06667512953407, , , , 2486884, False, 
+##[group]Checking out the ref, 2.70309782295866, , , , 126915, False, 
+##[group]Installed distributions, 55.24014035170909, , , , 1764431, False, 
+##[group]Install Android SDK, 3.3761677313338767, , , , 71992, False, 
+##[group]Run ./gradlew sonarqube -Dsonar.login="$SONAR_TOKEN", 633.0264620423745, , , , 64445634, True, ##[error]Process completed with exit code 1.

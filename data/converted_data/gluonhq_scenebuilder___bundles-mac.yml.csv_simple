@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,105.75208891419904,4506500,False,
+##[group]Run mvn -B -ntp -q versions:set -DnewVersion= -DgenerateBackupPoms=false,74.73070971249955,15782166,True,"[ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project parent: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]"
+##[group]Run actions/cache@v2,25.326614856731755,1639750,False,
+##[group]GITHUB_TOKEN Permissions,23.70323501638373,5372919,False,
+##[group]Run wget -P /tmp https://download2.gluonhq.com/openjfx//openjfx-_osx-x64_bin-jmods.zip,12.792506910124157,563332,True,##[error]Process completed with exit code 8.
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java,11.935283806206046,502490,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,10.4112101337112,426458,False,
+##[group]Run actions/upload-artifact@v2,8.911416076587978,858480,True,##[error]Input required and not supplied: path
+##[group]Run actions/checkout@v2,5.597870107194857,182492,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.74009529754654,80186,False,
+##[group]Setting up auth,2.700868793512614,65457,False,
+##[group]Run import json,2.2646629484564444,187635,True,##[error]Process completed with exit code 1.
+##[group]Run .github/scripts/jpackage.sh \\,1.1711062376059806,61775,True,##[error]Process completed with exit code 127.

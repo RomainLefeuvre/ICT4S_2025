@@ -1,0 +1,6 @@
+##[group]Run unset GEM_PATH GEM_HOME JRUBY_OPTS, 12995.88153509759, , , , 546712215, True, ##[error]Process completed with exit code 1.
+[INFO] --- gem-maven-plugin:1.1.8:package (default-package) @ asciidoctor ---, 1319.8552318663226, , , , 7432436, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ asciidoctor ---, 344.60990693954915, , , , 1208710, False, 
+[INFO] --- maven-install-plugin:3.1.1:install (default-install) @ asciidoctor ---, 314.82092136793545, , , , 62107156, False, 
+[INFO] --- gem-maven-plugin:1.1.8:initialize (default-initialize) @ asciidoctor ---, 266.54906067444085, , , , 840153, False, 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ asciidoctor ---, 250.1894505790002, , , , 799327, False, 

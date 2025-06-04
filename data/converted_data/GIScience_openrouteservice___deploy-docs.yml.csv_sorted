@@ -1,0 +1,12 @@
+##[group]Run npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build, 142.8200786184523, , , , 11522440, False, 
+##[group]Run npm ci, 124.25636696145231, , , , 5750824, False, 
+##[group]GITHUB_TOKEN Permissions, 86.08956213371384, , , , 4552469, False, 
+##[group]Run actions/setup-node@v3, 50.38771582895637, , , , 581520, False, 
+##[group]Fetching the repository, 40.76737105860372, , , , 427207, False, 
+##[group]Run actions/upload-artifact@v3, 27.829795681915265, , , , 6506910, False, 
+##[group]Environment details, 24.42645693433436, , , , 4959672, False, 
+##[group]Run actions/checkout@v4, 23.373502406787747, , , , 149630, False, 
+##[group]Setting up auth, 22.17757565579339, , , , 162557, False, 
+##[group]Checking out the ref, 9.444388545279455, , , , 22866, False, 
+##[group]Run actions/configure-pages@v3, 7.559829226764736, , , , 376787, True, ##[error]Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action.
+Requested labels: self-hosted, 0.0, , , , 4745593, False, 

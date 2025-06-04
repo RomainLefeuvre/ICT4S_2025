@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run python -m pip install 'black[jupyter]~=23.0',144.76661586543892,26702077,False,
+##[group]Fetching the repository,23.433454005613605,6510743,False,
+##[group]Run actions/checkout@v2,17.63369490572569,1492252,False,
+##[group]Checking out the ref,9.686878125191772,674008,False,
+##[group]GITHUB_TOKEN Permissions,6.763269808472588,2315128,False,
+##[group]Run black --check .,5.787335153569633,4691843,False,
+##[group]Run actions/setup-python@v2,5.781576774412352,405910,False,
+##[group]Getting Git version info,1.1047499398565908,32142,False,
+##[group]Setting up auth,1.0958962247909507,85396,False,
+##[group]==END_FILE==,0.0,5542647,False,

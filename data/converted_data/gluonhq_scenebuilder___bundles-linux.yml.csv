@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0, , , , 4257928, False, 
+##[group]GITHUB_TOKEN Permissions, 514.8750894995591, , , , 4417948, False, 
+##[group]Run sudo apt-get install xdg-utils, 150.07211910994906, , , , 796275, False, 
+##[group]Run actions/checkout@v2, 40.17888295319558, , , , 196464, False, 
+##[group]Getting Git version info, 20.48856945295404, , , , 27519, False, 
+##[group]Setting up auth, 20.75465477052487, , , , 80721, False, 
+##[group]Fetching the repository, 107.76455361618682, , , , 445681, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java, 92.06551987950776, , , , 496569, True, ##[error]Process completed with exit code 1.
+##[group]Run wget -P /tmp https://download2.gluonhq.com/openjfx//openjfx-_linux-x64_bin-jmods.zip, 97.3872262309244, , , , 387803, True, ##[error]Process completed with exit code 8.
+##[group]Run actions/cache@v2, 352.82913109892274, , , , 1229873, False, 
+##[group]Run mvn -B -ntp -q versions:set -DnewVersion= -DgenerateBackupPoms=false, 227.69270177594424, , , , 12658540, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project parent: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]Run # Create DEB, 0.8083459023700079, , , , 14471, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v2, 5.098872739746157, , , , 799156, False, 

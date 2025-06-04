@@ -1,0 +1,42 @@
+##[group]==END_FILE==, 2558.6379431542678, , , , 249557032, False, 
+##[group]GITHUB_TOKEN Permissions, 19.21633229414754, , , , 3238315, False, 
+##[group]Run actions/checkout@v4, 1.60788034615166, , , , 151100, False, 
+##[group]Fetching the repository, 9.699900592353169, , , , 1079284, False, 
+##[group]Checking out the ref, 0.953688195544193, , , , 120532, False, 
+##[group]Run manusa/actions-setup-minikube@v2.10.0, 11.65685001126566, , , , 12453963, False, 
+##[group]Installed distributions, 17.633593465186664, , , , 1714744, False, 
+##[group]Run mvn install -DskipTests, 1261.8383885520536, , , , 97380475, True, ##[error]Command failed: sudo apt update -y
+##[group]Run mvn test -P end-to-end-tests, 408.7444198795667, , , , 47376241, False, 
+##[group]Run eval $(minikube -p minikube docker-env), 804.4109276102886, , , , 71360379, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 20.889541508443585, , , , 3289390, False, 
+##[group]Run actions/checkout@v4__dup_12, 1.733309662890545, , , , 144626, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 9.233895618390276, , , , 71669, False, 
+##[group]Cleaning the repository, 1.7863148835148333, , , , 71462, False, 
+##[group]Setting up auth, 1.725850643351612, , , , 57108, False, 
+##[group]Fetching the repository__dup_16, 7.72228961430974, , , , 445574, False, 
+##[group]Run manusa/actions-setup-minikube@v2.10.0__dup_17, 95.80386960975387, , , , 8215562, False, 
+##[group]Installed distributions__dup_18, 399.3774054579616, , , , 40553024, True, ##[error]Command failed: sudo apt update -y
+##[group]Run mvn install -DskipTests__dup_19, 976.498835059014, , , , 36741322, False, 
+##[group]Run mvn test -P end-to-end-tests__dup_20, 474.310852823976, , , , 46348027, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 39.60 s <<< FAILURE![m -- in io.javaoperatorsdk.operator.sample.TomcatOperatorE2E[m
+##[group]Run eval $(minikube -p minikube docker-env)__dup_21, 544.3497982205047, , , , 51101451, True, [ERROR[m] Errors: [m
+##[group]==END_FILE==__dup_22, 2822.8387378407024, , , , 209769832, False, 
+##[group]GITHUB_TOKEN Permissions__dup_23, 44.70111137887095, , , , 3404823, False, 
+##[group]Run actions/checkout@v4__dup_24, 8.365650441985725, , , , 167956, False, 
+##[group]Cleaning the repository__dup_25, 1.8802909400456589, , , , 70724, False, 
+##[group]Setting up auth__dup_26, 1.94934455726183, , , , 67746, False, 
+##[group]Fetching the repository__dup_27, 10.091990872390006, , , , 538197, False, 
+##[group]Run manusa/actions-setup-minikube@v2.10.0__dup_28, 144.51106486965088, , , , 8587185, False, 
+##[group]Installed distributions__dup_29, 421.6926343022486, , , , 41390808, True, ##[error]Command failed: sudo apt update -y
+##[group]Run mvn install -DskipTests__dup_30, 998.73755054779, , , , 38093211, False, 
+##[group]Run mvn test -P end-to-end-tests__dup_31, 209.73215695180244, , , , 8434177, False, 
+##[group]Run eval $(minikube -p minikube docker-env)__dup_32, 850.7148200458869, , , , 90885855, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 39.60 s <<< FAILURE![m -- in io.javaoperatorsdk.operator.sample.TomcatOperatorE2E[m
+##[group]GITHUB_TOKEN Permissions__dup_33, 35.01350230650435, , , , 3518219, False, 
+##[group]Run actions/checkout@v4__dup_34, 1.1599211377491927, , , , 143321, False, 
+##[group]Setting up auth__dup_35, 1.2661391661960943, , , , 65651, False, 
+##[group]Fetching the repository__dup_36, 7.392876115449489, , , , 436859, False, 
+##[group]Checking out the ref__dup_37, 1.5289398512573409, , , , 28120, False, 
+##[group]Run manusa/actions-setup-minikube@v2.10.0__dup_38, 95.70711605437386, , , , 8169674, False, 
+##[group]Installed distributions__dup_39, 385.8744949219059, , , , 40153986, True, ##[error]Command failed: sudo apt update -y
+##[group]Run mvn install -DskipTests__dup_40, 876.2715602611521, , , , 37034499, False, 
+##[group]Run mvn test -P end-to-end-tests__dup_41, 969.2298104598792, , , , 122311042, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 39.60 s <<< FAILURE![m -- in io.javaoperatorsdk.operator.sample.TomcatOperatorE2E[m
+##[group]Run eval $(minikube -p minikube docker-env)__dup_42, 1057.1876722551992, , , , 127271847, True, [m[ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 39.41 s <<< FAILURE![m -- in io.javaoperatorsdk.operator.sample.WebPageOperatorManagedDependentResourcesE2E[m

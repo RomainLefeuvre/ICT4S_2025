@@ -1,0 +1,178 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.05 s (3497.2 files/s 275782.6 lines/s)"
+Maven,/tmp/clone_directory/pom.xml,11,9,749
+Velocity Template Language,/tmp/clone_directory/src/site/template-site.vm,4,44,503
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaMojoSupport.java,74,175,501
+Velocity Template Language,/tmp/clone_directory/src/site/default-site.vm,1,44,459
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaScriptMojo.java,38,59,302
+XML,/tmp/clone_directory/src/changes/changes.xml,3,0,295
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaCompilerSupport.java,39,42,256
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/Context4ScalaHome.java,54,6,253
+Java,/tmp/clone_directory/src/main/java/sbt_inc/SbtIncrementalCompilers.java,27,4,215
+Java,/tmp/clone_directory/src/main/java/sbt_inc/CompilerBridgeFactory.java,31,8,197
+Bourne Shell,/tmp/clone_directory/mvnw,31,60,195
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/maven-for-scala.xml.vm,11,0,193
+CSS,/tmp/clone_directory/src/site/resources/css/site.css,35,18,177
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_doc.xml.vm,3,0,171
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_script.xml.vm,2,0,171
+Java,/tmp/clone_directory/src/main/java/sbt_inc/ForkedSbtIncrementalCompilerMain.java,20,4,166
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaContinuousCompileMojo.java,28,59,164
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/JavaMainCallerByFork.java,17,13,164
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaDocMojo.java,27,29,154
+CSS,/tmp/clone_directory/src/site/resources/css/maven-base.css,0,0,151
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaConsoleMojo.java,36,124,139
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_compile.xml.vm,4,0,137
+Java,/tmp/clone_directory/src/main/java/scala_maven/VersionNumber.java,15,9,134
+CSS,/tmp/clone_directory/src/site/resources/css/maven-theme.css,9,0,132
+DOS Batch,/tmp/clone_directory/mvnw.cmd,32,0,129
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaDocJarMojo.java,17,45,128
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/MainHelper.java,14,40,126
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_java.xml.vm,10,0,126
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_incremental.xml.vm,6,0,124
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_console.xml.vm,6,0,112
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/Fork.java,21,26,105
+Java,/tmp/clone_directory/src/test/java/scala_maven/ScalaMojoSupportTest.java,9,4,102
+Velocity Template Language,/tmp/clone_directory/src/main/resources/announcements/announcement.md.vm,22,20,100
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_scalac_plugins.xml.vm,0,0,95
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/usage.xml.vm,5,0,92
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/JavaMainCallerSupport.java,11,9,91
+Maven,/tmp/clone_directory/src/it/test_goal_doc/pom.xml,4,0,90
+Maven,/tmp/clone_directory/src/it/test1/pom.xml,1,11,88
+Maven,/tmp/clone_directory/src/it/test_custom_outputdir/pom.xml,1,11,86
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaSourceMojoSupport.java,16,46,85
+Maven,/tmp/clone_directory/src/it/test_directory_with_class_name/pom.xml,9,0,83
+Maven,/tmp/clone_directory/src/it/testLotsofJavaFilesNoFork/pom.xml,4,0,80
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaCompileMojo.java,13,19,78
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/faq.xml.vm,6,0,78
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaRunMojo.java,7,41,77
+Velocity Template Language,/tmp/clone_directory/src/site/xdoc/example_cctest.xml.vm,2,0,77
+Maven,/tmp/clone_directory/src/it/includesExcludes/pom.xml,2,0,76
+Java,/tmp/clone_directory/src/test/java/scala_maven/VersionNumberTest.java,8,4,76
+Maven,/tmp/clone_directory/src/it/testLotsofJavaFiles/pom.xml,5,0,75
+Java,/tmp/clone_directory/src/main/java/scala_maven/TychoUtilities.java,9,11,73
+Java,/tmp/clone_directory/src/main/java/sbt_inc/InProcessSbtIncrementalCompiler.java,10,5,72
+Maven,/tmp/clone_directory/src/it/test-incremental-compile/pom.xml,5,0,71
+Java,/tmp/clone_directory/src/test/java/scala_maven/LogProcessorUtilsTest.java,5,4,70
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/JavaMainCallerInProcess.java,10,16,69
+Java,/tmp/clone_directory/src/main/java/util/FileUtils.java,10,15,69
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaContinuousTestMojo.java,13,50,68
+Maven,/tmp/clone_directory/src/it/mismatchedScalaVersions/pom.xml,5,0,66
+Java,/tmp/clone_directory/.mvn/wrapper/MavenWrapperDownloader.java,13,32,65
+Maven,/tmp/clone_directory/src/it/test_scaladoc2_onJavaScala/pom.xml,6,4,65
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaTestCompileMojo.java,12,15,65
+Maven,/tmp/clone_directory/src/it/test_goal_site/pom.xml,3,0,63
+Maven,/tmp/clone_directory/src/it/test_scalaCompatVersion/pom.xml,7,0,62
+Maven,/tmp/clone_directory/src/it/multilanguage-kotlinscala/pom.xml,4,0,59
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/CheckScalaVersionVisitor.java,8,15,59
+XML,/tmp/clone_directory/src/site/xdoc/example_run.xml,2,3,59
+Java,/tmp/clone_directory/src/test/java/util/JavaLocatorTest.java,13,4,58
+Maven,/tmp/clone_directory/src/it/testJavaAndScala/pom.xml,4,0,56
+Java,/tmp/clone_directory/src/main/java/util/JavaLocator.java,12,15,56
+Java,/tmp/clone_directory/src/main/java/scala_maven/MavenArtifactResolver.java,9,6,55
+Maven,/tmp/clone_directory/src/it/test_scaladoc_compiler_plugins/pom.xml,3,19,51
+Maven,/tmp/clone_directory/src/it/test_multicompile/pom.xml,1,0,50
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/ForkLogger.java,9,4,50
+Java,/tmp/clone_directory/src/test/java/scala_maven/MiscTest.java,8,18,48
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/ArtifactIds4Scala3.java,12,5,47
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/ForkMain.java,7,4,47
+XML,/tmp/clone_directory/src/site/site.xml,1,0,47
+Maven,/tmp/clone_directory/samples/prj_multi_modules/pom.xml,4,0,46
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/ContextBase.java,8,4,46
+Java,/tmp/clone_directory/src/main/java/sbt_inc/ScalaInstances.java,8,4,45
+Maven,/tmp/clone_directory/src/it/test_scala3/pom.xml,2,0,44
+Java,/tmp/clone_directory/src/main/java/scala_maven/AddSourceMojo.java,7,14,44
+Maven,/tmp/clone_directory/src/it/test_no_sources/pom.xml,4,0,43
+Maven,/tmp/clone_directory/src/it/test_skip_test/pom.xml,4,0,41
+Java,/tmp/clone_directory/src/main/java/sbt_inc/MavenLoggerSbtAdapter.java,7,4,41
+XML,/tmp/clone_directory/src/site/xdoc/example_cc.xml,2,0,41
+XML,/tmp/clone_directory/src/it/settings.xml,0,0,38
+Markdown,/tmp/clone_directory/README.md,10,0,36
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/ArtifactIds4Scala2.java,8,4,36
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/LogProcessorUtils.java,4,4,35
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/Context4ScalaRemote.java,6,4,34
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/ForkLogLevel.java,6,4,29
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaHelpMojo.java,4,6,28
+YAML,/tmp/clone_directory/.github/workflows/ci.yaml,2,1,25
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/ScalaDistroArtifactFilter.java,5,9,24
+Maven,/tmp/clone_directory/samples/prj_multi_modules/m2/pom.xml,0,0,23
+XML,/tmp/clone_directory/src/site/xdoc/index.xml,0,0,22
+Java,/tmp/clone_directory/src/main/java/scala_maven/ScalaCompilerLoader.java,6,20,21
+SVG,/tmp/clone_directory/src/site/resources/images/logos/scala.svg,0,0,20
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/MainWithArgsInFile.java,3,14,19
+XML,/tmp/clone_directory/src/site/xdoc/articles.xml,0,0,19
+Maven,/tmp/clone_directory/samples/prj_multi_modules/m1/pom.xml,0,0,18
+Groovy,/tmp/clone_directory/src/it/test-incremental-compile/validate.groovy,8,0,18
+Properties,/tmp/clone_directory/src/main/resources/scala_maven_cs/scalacs.boot.properties,4,0,18
+Groovy,/tmp/clone_directory/src/it/testLotsofJavaFilesNoFork/setup.groovy,8,0,17
+Groovy,/tmp/clone_directory/src/it/mismatchedScalaVersions/validate.groovy,5,1,15
+Groovy,/tmp/clone_directory/src/it/test_scalaCompatVersion/validate.groovy,5,1,15
+Groovy,/tmp/clone_directory/src/it/test_goal_doc/validate.groovy,7,0,14
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/Context.java,9,4,14
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/JavaMainCaller.java,10,27,13
+Groovy,/tmp/clone_directory/src/it/testJavaAndScala/validate.groovy,6,0,12
+Groovy,/tmp/clone_directory/src/it/test_custom_outputdir/validate.groovy,5,0,12
+Java,/tmp/clone_directory/src/main/java/scala_maven/Classpath.java,4,4,12
+Java,/tmp/clone_directory/src/main/java/scala_maven_dependency/ArtifactIds.java,8,4,12
+Java,/tmp/clone_directory/src/main/java/sbt_inc/SbtIncrementalCompiler.java,3,4,11
+Java,/tmp/clone_directory/src/main/java/scala_maven/BasicArtifact.java,2,4,11
+YAML,/tmp/clone_directory/.github/FUNDING.yml,1,1,10
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,10
+Groovy,/tmp/clone_directory/src/it/includesExcludes/validate.groovy,6,0,10
+Groovy,/tmp/clone_directory/src/it/multilanguage-kotlinscala/validate.groovy,4,0,10
+Groovy,/tmp/clone_directory/src/it/test_directory_with_class_name/validate.groovy,4,0,10
+Groovy,/tmp/clone_directory/src/it/test_goal_site/validate.groovy,8,0,10
+Groovy,/tmp/clone_directory/src/it/test_multicompile/validate.groovy,4,0,10
+Groovy,/tmp/clone_directory/src/it/test_scaladoc_compiler_plugins/validate.groovy,4,0,10
+Groovy,/tmp/clone_directory/src/it/test_skip_main/validate.groovy,4,0,10
+Groovy,/tmp/clone_directory/src/it/test_skip_test/validate.groovy,4,0,10
+Java,/tmp/clone_directory/src/main/java/util/StringUtil.java,3,12,10
+Groovy,/tmp/clone_directory/src/it/test_scaladoc2_onJavaScala/validate.groovy,4,2,9
+INI,/tmp/clone_directory/.editorconfig,1,0,8
+Groovy,/tmp/clone_directory/src/it/test_no_sources/validate.groovy,3,0,8
+Groovy,/tmp/clone_directory/src/it/test_scala3/validate.groovy,3,0,8
+Java,/tmp/clone_directory/src/main/java/scala_maven/Launcher.java,5,6,8
+CSS,/tmp/clone_directory/src/site/resources/css/print.css,0,0,7
+Java,/tmp/clone_directory/src/it/testJavaAndScala/src/main/java/JavaClass.java,0,0,6
+Java,/tmp/clone_directory/src/it/test_directory_with_class_name/src/main/java/example/Foo2.java,3,0,6
+Java,/tmp/clone_directory/src/it/test_scaladoc2_onJavaScala/src/main/java/HelloJava.java,0,0,6
+Scala,/tmp/clone_directory/samples/prj_multi_modules/m1/src/main/scala/p1/MyClass.scala,2,1,5
+Scala,/tmp/clone_directory/samples/prj_multi_modules/m2/src/main/scala/p2/MyClass.scala,2,1,5
+Scala,/tmp/clone_directory/src/it/testJavaAndScala/src/main/scala/ScalaClass.scala,1,0,5
+Scala,/tmp/clone_directory/src/it/test_scala3/src/main/scala/MyApp.scala,1,0,5
+Scala,/tmp/clone_directory/src/it/test_scalaCompatVersion/src/main/scala/ScalaClass.scala,1,0,5
+Scala,/tmp/clone_directory/src/it/test_scaladoc2_onJavaScala/src/main/scala/HelloScala.scala,1,0,5
+Text,/tmp/clone_directory/src/etc/header.txt,0,0,4
+Scala,/tmp/clone_directory/src/it/test_directory_with_class_name/src/main/scala/example/Bar.scala,1,0,4
+Scala,/tmp/clone_directory/src/it/test_directory_with_class_name/src/main/scala/example/Foo.scala,1,0,4
+Scala,/tmp/clone_directory/src/it/test_multicompile/src/c1/scala/MyClass.scala,1,1,4
+Scala,/tmp/clone_directory/src/it/test_scaladoc_compiler_plugins/src/main/scala/MyClass.scala,2,0,4
+Java,/tmp/clone_directory/src/main/java/scala_maven_executions/SpawnMonitor.java,1,4,4
+TOML,/tmp/clone_directory/.mise.toml,0,0,3
+YAML,/tmp/clone_directory/.pom.yml,0,0,3
+Java,/tmp/clone_directory/src/it/test-incremental-compile/src/main/java/A.java,0,0,3
+Scala,/tmp/clone_directory/src/it/test-incremental-compile/src/main/scala/B.scala,0,0,3
+Java,/tmp/clone_directory/src/it/test-incremental-compile/src/test/java/X.java,0,0,3
+Scala,/tmp/clone_directory/src/it/test-incremental-compile/src/test/scala/Y.scala,0,0,3
+Java,/tmp/clone_directory/src/it/testJavaAndScala/src/main/java/JavaInterface.java,1,0,3
+Scala,/tmp/clone_directory/src/it/includesExcludes/src/main/scala/bad.scala,1,0,2
+Kotlin,/tmp/clone_directory/src/it/multilanguage-kotlinscala/src/main/kotlin/KTestClass.kt,0,0,2
+Scala,/tmp/clone_directory/src/it/multilanguage-kotlinscala/src/main/scala/MyClass.scala,1,0,2
+Java,/tmp/clone_directory/src/it/test_goal_site/src/main/java/TestClass.java,2,0,2
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/multilanguage-kotlinscala/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test-incremental-compile/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test1/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/testJavaAndScala/invoker.properties,0,0,1
+Groovy,/tmp/clone_directory/src/it/testLotsofJavaFilesNoFork/validate.groovy,0,0,1
+Text,/tmp/clone_directory/src/it/test_goal_doc/src/main/scala/rootdoc.txt,0,0,1
+Properties,/tmp/clone_directory/src/it/test_goal_site/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_multicompile/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_no_sources/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_scala3/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_scalaCompatVersion/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_scaladoc2_onJavaScala/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_scaladoc_compiler_plugins/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_skip_main/invoker.properties,0,0,1
+Properties,/tmp/clone_directory/src/it/test_skip_test/invoker.properties,0,0,1
+Scala,/tmp/clone_directory/src/it/test_skip_test/src/main/scala/Main.scala,0,0,1
+Scala,/tmp/clone_directory/src/it/test_skip_test/src/test/scala/Test.scala,0,0,1
+SUM,,1216,1397,11266

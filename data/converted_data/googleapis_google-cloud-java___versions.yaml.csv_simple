@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,42.01964512215122,16177159,False,
+##[group]Checking out the ref,34.549987808979544,18339199,False,
+##[group]GITHUB_TOKEN Permissions,9.077059262383212,1397694,False,
+##[group]Run ./generation/check_non_release_please_versions.sh,6.357699546505161,6060754,False,
+Requested labels: self-hosted,2.7549818014756693,5746046,False,
+##[group]Setting up auth,1.2006722763208846,70058,False,
+##[group]Run actions/checkout@v3,0.8004469861496023,168384,False,

@@ -1,0 +1,47 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.03 s (1496.7 files/s 320384.8 lines/s)"
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/TestHelper.java,604,454,2036
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/RxJavaInteropTest.java,375,66,1233
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/RxJavaInterop.java,44,397,238
+XML,/tmp/clone_directory/pmd.xml,0,0,223
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/RxJavaInteropV1SchedulerToV3SchedulerTest.java,57,15,144
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/RxJavaInteropV3SchedulerToV1SchedulerTest.java,51,0,138
+Gradle,/tmp/clone_directory/build.gradle,31,1,130
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/BackpressureHelperTest.java,41,15,128
+Bourne Shell,/tmp/clone_directory/gradlew,21,36,126
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/SubscriptionHelperTest.java,37,15,118
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SubjectV3ToSubjectV1.java,32,20,104
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SubscriptionHelper.java,17,83,97
+Markdown,/tmp/clone_directory/README.md,65,0,91
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/DisposableHelperTest.java,35,15,89
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/BackpressureHelper.java,10,59,87
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,74
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SchedulerV1ToSchedulerV3.java,22,20,72
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SubjectV1ToProcessorV3.java,15,20,72
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/ObservableV1ToFlowableV3.java,20,20,71
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/DisposableHelper.java,12,60,69
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SchedulerV3ToSchedulerV1.java,23,21,69
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SubjectV1ToSubjectV3.java,15,20,68
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/ObservableV1ToObservableV3.java,15,20,61
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/FlowableV3ToObservableV1.java,19,20,56
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/ProcessorV3ToSubjectV1.java,19,20,55
+Gradle,/tmp/clone_directory/gradle/maven.gradle,9,9,51
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/MaybeV3ToSingleV1.java,16,20,48
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/MaybeV3ToCompletableV1.java,16,20,47
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SingleV3ToSingleV1.java,15,20,43
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SingleV1ToMaybeV3.java,12,20,41
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SingleV1ToSingleV3.java,12,20,41
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/CompletableV1ToCompletableV3.java,14,18,40
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/CompletableV1ToMaybeV3.java,14,18,40
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/CompletableV3ToCompletableV1.java,14,18,40
+CSS,/tmp/clone_directory/gradle/javadocStyleSheet.css,16,8,35
+YAML,/tmp/clone_directory/.github/workflows/gradle.yml,5,2,27
+Properties,/tmp/clone_directory/gradle.properties,5,0,17
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/DisposableV3ToSubscriptionV1.java,7,20,17
+Java,/tmp/clone_directory/src/main/java/hu/akarnokd/rxjava3/interop/SubscriptionV1ToDisposableV3.java,7,20,17
+Java,/tmp/clone_directory/src/test/java/hu/akarnokd/rxjava3/interop/TestException.java,7,35,16
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,15
+YAML,/tmp/clone_directory/.github/workflows/gradle-wrapper-validation.yml,1,0,9
+YAML,/tmp/clone_directory/.travis.yml,3,1,9
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,1777,1648,6208

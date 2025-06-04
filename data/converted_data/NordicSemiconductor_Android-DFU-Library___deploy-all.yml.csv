@@ -1,0 +1,19 @@
+##[group]==END_FILE==, 105.67078270221307, , , , 18187918, False, 
+##[group]GITHUB_TOKEN Permissions, 31.49728040413849, , , , 2325134, False, 
+##[group]Run actions/checkout@v3, 3.634614949703235, , , , 176383, False, 
+##[group]Cleaning the repository, 1.8670697527136888, , , , 13774, False, 
+##[group]Fetching the repository, 9.832971542189156, , , , 438317, False, 
+##[group]Run git config user.email mag@nordicsemi.no, 11.325839878051292, , , , 487178, True, ##[error]Process completed with exit code 2.
+##[group]==END_FILE==__dup_7, 1.7853465631667664, , , , 2445434, False, 
+Requested labels: self-hosted, 124.14023654204917, , , , 35730795, False, 
+##[group]GITHUB_TOKEN Permissions__dup_9, 77.47355570075898, , , , 20171919, False, 
+##[group]Run actions/checkout@v3__dup_10, 1.2068958719181382, , , , 182405, False, 
+##[group]Cleaning the repository__dup_11, 0.6341342856495146, , , , 12142, False, 
+##[group]Fetching the repository__dup_12, 3.477534925152028, , , , 425630, False, 
+##[group]Run pwd, 5.216377799657579, , , , 510754, True, ##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions__dup_14, 6.265218012421728, , , , 2208921, False, 
+##[group]Run actions/checkout@v3__dup_15, 2.411252376420461, , , , 185918, False, 
+##[group]Setting up auth, 1.1972584092206808, , , , 59895, False, 
+##[group]Fetching the repository__dup_17, 4.733248443619059, , , , 446531, False, 
+##[group]Checking out the ref, 1.1693658125888484, , , , 23557, False, 
+##[group]Run echo "" > sec.gpg.asc, 5.679473483153248, , , , 478163, True, ##[error]Process completed with exit code 2.

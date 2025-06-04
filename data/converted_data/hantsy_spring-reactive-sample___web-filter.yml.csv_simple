@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,113.64264253681324,17458176,False,
+##[group]Run cd web-filter,110.219805063269,15047006,False,
+[INFO] --- maven-surefire-plugin:3.1.2:test (default-test) @ spring-reactive-sample-web-filter ---,63.426181630801146,2035072,False,
+##[group]GITHUB_TOKEN Permissions,37.40710768882619,2234088,False,
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ spring-reactive-sample-web-filter ---,37.10641266016021,1566247,False,
+##[group]Fetching the repository,12.514484457162904,454622,False,
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ spring-reactive-sample-web-filter ---,10.825981874640132,363130,False,
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-reactive-sample-web-filter ---,7.1947764533601575,178446,False,
+##[group]Run actions/checkout@v4,4.567543330384223,149426,False,
+##[group]Cleaning the repository,2.356813407272268,37707,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-web-filter ---,1.989907815469996,167761,False,
+Requested labels: self-hosted,0.0973883035363111,3991077,False,

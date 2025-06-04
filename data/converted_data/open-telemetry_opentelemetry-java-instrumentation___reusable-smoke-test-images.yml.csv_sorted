@@ -1,0 +1,39 @@
+##[group]Run ./gradlew :jibDockerBuild -Ptag=20240417.8721073516 -PtargetJDK=8 -Djib.httpTimeout=120000 -Djib.console=plain, 9649.388416234917, , , , 530587161, True, ##[error]Process completed with exit code 1.
+> Task :conventions:jar, 6156.342629391225, , , , 336987547, True, ##[error]Process completed with exit code 1.
+##[group]Caching Gradle state, 891.0126909076015, , , , 56333029, False, 
+> Task :conventions:generatePrecompiledScriptPluginAccessors, 769.3691773656919, , , , 29999995, False, 
+> Task :gradle-plugins:processResources, 597.1125023638746, , , , 18199944, False, 
+##[group]Run ./gradlew :jibDockerBuild -Ptag=20240417.8721073516 -PtargetJDK=21 -Djib.httpTimeout=120000 -Djib.console=plain, 374.17557111267314, , , , 17555279, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :jibDockerBuild -Ptag=20240417.8721073516 -PtargetJDK=11 -Djib.httpTimeout=120000 -Djib.console=plain, 371.0590924781776, , , , 14453767, True, ##[error]Process completed with exit code 1.
+> Task :conventions:jar UP-TO-DATE, 317.0242152695292, , , , 11938488, True, ##[error]Process completed with exit code 1.
+> Task :conventions:jar UP-TO-DATE__dup_34, 315.19995822352286, , , , 14327797, True, ##[error]Process completed with exit code 1.
+> Task :conventions:compileKotlin, 283.5653164584747, , , , 9999981, False, 
+##[group]Run ./gradlew :jibDockerBuild -Ptag=20240417.8721073516 -PtargetJDK=17 -Djib.httpTimeout=120000 -Djib.console=plain, 268.55913270664524, , , , 11949313, True, ##[error]Process completed with exit code 1.
+> Task :gradle-plugins:generateScriptPluginAdapters, 224.4139626455135, , , , 7099985, False, 
+> Task :conventions:jar UP-TO-DATE__dup_38, 217.2382132428177, , , , 8402948, False, 
+> Task :conventions:compilePluginsBlocks, 155.40183928863743, , , , 4600223, False, 
+##[group]GITHUB_TOKEN Permissions, 139.63155669394564, , , , 6680766, False, 
+> Task :gradle-plugins:compilePluginsBlocks, 125.8400843000545, , , , 7000377, False, 
+##[group]Installed distributions, 85.00661618765803, , , , 13206159, False, 
+> Task :gradle-plugins:jar, 73.86722665857755, , , , 4399798, False, 
+> Task :conventions:processResources, 48.32751501457912, , , , 3299538, False, 
+> Task :conventions:generateExternalPluginSpecBuilders, 37.27766087040358, , , , 1299964, False, 
+> Task :gradle-plugins:extractPrecompiledScriptPluginPlugins, 29.90771367835564, , , , 999695, False, 
+> Task :conventions:classes, 14.87442692654962, , , , 299818, False, 
+> Task :gradle-plugins:checkKotlinGradlePluginConfigurationErrors, 12.7144042088691, , , , 95728, False, 
+##[group]Restore Gradle state from cache, 12.008567091364284, , , , 1215807, False, 
+> Task :gradle-plugins:generatePrecompiledScriptPluginAccessors, 3.6297369472987486, , , , 99633, False, 
+Requested labels: self-hosted, 3.576948545537729, , , , 4259097, False, 
+##[group]Run gradle/actions/setup-gradle@6cec5d49d4d6d4bb982fbed7047db31ea6d38f11, 3.3156575620223143, , , , 422755, False, 
+> Task :gradle-plugins:generateScriptPluginAdapters UP-TO-DATE, 3.1866080228726266, , , , 94751, False, 
+> Task :conventions:generatePrecompiledScriptPluginAccessors UP-TO-DATE, 3.0311194349921364, , , , 99131, False, 
+> Task :gradle-plugins:jar UP-TO-DATE, 3.012815794099291, , , , 95820, False, 
+> Task :gradle-plugins:compileKotlin, 3.001937810014843, , , , 99984, False, 
+> Task :gradle-plugins:jar UP-TO-DATE__dup_36, 2.9886389219864644, , , , 83526, False, 
+> Task :gradle-plugins:checkKotlinGradlePluginConfigurationErrors__dup_29, 2.9393261512872058, , , , 97880, False, 
+##[group]Fetching the repository, 2.0940717460789093, , , , 474886, False, 
+##[group]Run .github/scripts/gha-free-disk-space.sh, 1.2310962559863978, , , , 216160, False, 
+##[group]Cleaning the repository, 0.8997875666819002, , , , 171851, False, 
+##[group]Setting up auth, 0.4775028407829915, , , , 72404, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.4222847258989087, , , , 50741, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 0.4038786876042143, , , , 141938, False, 

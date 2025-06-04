@@ -1,0 +1,210 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.07 s (3129.9 files/s 301332.2 lines/s)"
+Maven,/tmp/clone_directory/pom.xml,12,26,524
+Text,/tmp/clone_directory/.kokoro/requirements.txt,1,0,490
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/AuthorizationCodeFlow.java,101,424,406
+Markdown,/tmp/clone_directory/docs/oauth-2.0.md,71,0,400
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/openidconnect/IdTokenVerifier.java,83,249,380
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/openidconnect/IdTokenVerifierTest.java,48,29,360
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/Credential.java,76,373,330
+Java,/tmp/clone_directory/google-oauth-client-jetty/src/test/java/com/google/api/client/extensions/jetty/auth/oauth2/LocalServerReceiverTest.java,66,14,297
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/CredentialTest.java,33,32,260
+Java,/tmp/clone_directory/google-oauth-client-jetty/src/main/java/com/google/api/client/extensions/jetty/auth/oauth2/LocalServerReceiver.java,49,89,195
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthParameters.java,31,90,176
+Java,/tmp/clone_directory/google-oauth-client-java6/src/test/java/com/google/api/client/extensions/java6/auth/oauth2/FileCredentialStoreTest.java,18,22,171
+Text,/tmp/clone_directory/google-oauth-client-assembly/LICENSE.txt,33,0,169
+Text,/tmp/clone_directory/google-oauth-client-assembly/licenses/APACHE-LICENSE.txt,33,0,169
+Maven,/tmp/clone_directory/google-oauth-client-bom/pom.xml,8,0,163
+XML,/tmp/clone_directory/samples/checkstyle.xml,62,115,159
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/openidconnect/IdToken.java,41,180,151
+Maven,/tmp/clone_directory/google-oauth-client-appengine/pom.xml,0,1,146
+YAML,/tmp/clone_directory/.github/workflows/downstream.yaml,0,1,143
+XML,/tmp/clone_directory/checkstyle.xml,54,96,142
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/TokenRequest.java,31,163,137
+Maven,/tmp/clone_directory/google-oauth-client-servlet/pom.xml,0,0,129
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/AuthorizationCodeFlowTest.java,18,18,121
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/FileCredentialStore.java,19,70,115
+XML,/tmp/clone_directory/google-oauth-client-assembly/assembly.xml,0,2,112
+Maven,/tmp/clone_directory/samples/dailymotion-cmdline-sample/pom.xml,1,0,111
+Maven,/tmp/clone_directory/samples/keycloak-pkce-cmdline-sample/pom.xml,1,0,111
+Maven,/tmp/clone_directory/google-oauth-client-java6/pom.xml,0,1,108
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/StoredCredential.java,21,40,106
+Maven,/tmp/clone_directory/google-oauth-client-jetty/pom.xml,0,1,105
+Markdown,/tmp/clone_directory/CHANGELOG.md,109,0,104
+Bourne Shell,/tmp/clone_directory/.kokoro/build.sh,14,23,98
+Java,/tmp/clone_directory/samples/dailymotion-cmdline-sample/src/main/java/com/google/api/services/samples/dailymotion/cmdline/DailyMotionSample.java,13,31,98
+Maven,/tmp/clone_directory/google-oauth-client-assembly/pom.xml,2,0,95
+Maven,/tmp/clone_directory/google-oauth-client/pom.xml,1,0,95
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/auth/helpers/oauth/OAuthHmacThreeLeggedFlow.java,27,46,93
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/servlet/auth/AbstractCallbackServlet.java,29,75,88
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/AuthorizationCodeInstalledApp.java,17,83,87
+Markdown,/tmp/clone_directory/google-oauth-client-assembly/README.md,32,0,82
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/servlet/auth/AbstractFlowUserServlet.java,22,80,81
+YAML,/tmp/clone_directory/.github/workflows/auto-release.yaml,9,15,79
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth/OAuthParametersTest.java,16,18,79
+YAML,/tmp/clone_directory/.github/workflows/ci.yaml,1,3,74
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/auth/helpers/oauth/OAuthHmacCredential.java,22,50,74
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,20,1,73
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/openidconnect/IdTokenTest.java,10,20,71
+HTML,/tmp/clone_directory/samples/dailymotion-cmdline-sample/instructions.html,10,0,71
+Maven,/tmp/clone_directory/samples/install-without-bom/pom.xml,6,7,71
+Maven,/tmp/clone_directory/samples/snapshot/pom.xml,5,7,71
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/AuthenticationTestBase.java,11,21,70
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/AuthorizationRequestUrl.java,21,134,68
+Markdown,/tmp/clone_directory/docs/setup.md,12,0,67
+Text,/tmp/clone_directory/google-oauth-client-assembly/licenses/CDDL-LICENSE.txt,52,0,67
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/BearerToken.java,22,57,67
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,26,0,66
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/PasswordTokenRequest.java,17,82,66
+YAML,/tmp/clone_directory/.github/sync-repo-settings.yaml,0,0,65
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/oauth2/AppEngineCredentialStore.java,9,47,65
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/AuthorizationCodeTokenRequest.java,17,87,65
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/openidconnect/IdTokenResponse.java,15,50,62
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/test/java/com/google/api/client/extensions/appengine/auth/oauth2/AppEngineCredentialStoreTest.java,9,21,61
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/servlet/auth/oauth2/AbstractAuthorizationCodeServlet.java,13,120,60
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/AuthorizationCodeResponseUrl.java,21,127,60
+Bourne Shell,/tmp/clone_directory/.kokoro/downstream-client-library-check.sh,18,27,59
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/TokenRequestTest.java,9,18,59
+Java,/tmp/clone_directory/samples/keycloak-pkce-cmdline-sample/src/main/java/com/google/api/services/samples/keycloak/cmdline/PKCESample.java,9,35,59
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/TokenResponse.java,20,87,58
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/RefreshTokenRequest.java,14,71,57
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/CustomTokenRequestTest.java,8,18,57
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/servlet/auth/oauth2/AbstractAuthorizationCodeCallbackServlet.java,12,121,56
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/AuthorizationCodeRequestUrl.java,17,78,53
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/TokenResponseException.java,8,44,53
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/FilePersistedCredentials.java,10,37,52
+YAML,/tmp/clone_directory/.github/workflows/approve-readme.yaml,4,15,50
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/iap_keys.json,0,0,49
+Maven,/tmp/clone_directory/samples/snippets/pom.xml,6,6,49
+Maven,/tmp/clone_directory/samples/pom.xml,4,4,48
+HTML,/tmp/clone_directory/docs/_layouts/default.html,5,4,45
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/ClientCredentialsTokenRequest.java,11,63,45
+XML,/tmp/clone_directory/findbugs-exclude.xml,3,9,42
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/ClientParametersAuthenticationTest.java,6,18,42
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/FilePersistedCredential.java,11,37,41
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/TokenErrorResponse.java,14,75,40
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/AbstractOAuthGetToken.java,10,38,37
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthHmacSha256Signer.java,9,18,37
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/BrowserClientRequestUrl.java,11,41,36
+Text,/tmp/clone_directory/google-oauth-client-assembly/licenses/xpp3_LICENSE.txt,11,0,35
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/ClientParametersAuthentication.java,10,61,34
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/DataStoreCredentialRefreshListener.java,11,48,34
+Bourne Shell,/tmp/clone_directory/.kokoro/release/common.sh,3,14,33
+Markdown,/tmp/clone_directory/docs/index.md,11,0,33
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthHmacSigner.java,7,24,33
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,19,0,32
+Bourne Shell,/tmp/clone_directory/.kokoro/release/publish_javadoc11.sh,11,20,32
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth/OAuthHmacSha256SignerTest.java,8,14,32
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/CustomTokenResponseTest.java,9,18,32
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/PasswordTokenRequestTest.java,7,18,32
+Bourne Shell,/tmp/clone_directory/.kokoro/common.sh,10,19,31
+Markdown,/tmp/clone_directory/README.md,12,0,31
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/AuthorizationCodeTokenRequestTest.java,7,18,31
+Markdown,/tmp/clone_directory/samples/keycloak-pkce-cmdline-sample/README.md,12,0,30
+Bourne Shell,/tmp/clone_directory/.kokoro/dependencies.sh,9,22,28
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/CredentialStoreRefreshListener.java,10,33,28
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/RefreshTokenRequestTest.java,7,18,28
+Bourne Shell,/tmp/clone_directory/.kokoro/release/stage.sh,6,15,26
+Markdown,/tmp/clone_directory/docs/oauth-1.0.md,10,0,26
+JSON,/tmp/clone_directory/renovate.json,0,0,26
+Markdown,/tmp/clone_directory/samples/dailymotion-cmdline-sample/README.md,11,0,25
+Bourne Shell,/tmp/clone_directory/.kokoro/populate-secrets.sh,4,15,24
+Markdown,/tmp/clone_directory/docs/component-modules.md,12,0,24
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/ClientCredentialsTokenRequestTest.java,6,18,24
+Bourne Shell,/tmp/clone_directory/.kokoro/release/publish_javadoc.sh,11,19,23
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/AuthorizationRequestUrlTest.java,6,18,23
+Text,/tmp/clone_directory/google-oauth-client-assembly/licenses/BSD-LICENSE.txt,5,0,22
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth/OAuthRsaSignerTest.java,4,18,21
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/AuthorizationCodeResponseUrlTest.java,4,19,21
+YAML,/tmp/clone_directory/.github/workflows/renovate_config_check.yaml,5,0,20
+Bourne Shell,/tmp/clone_directory/.kokoro/readme.sh,8,17,20
+Markdown,/tmp/clone_directory/google-oauth-client-bom/README.md,6,2,20
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthRsaSigner.java,6,23,20
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/AuthorizationCodeRequestUrlTest.java,6,18,20
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/TokenResponseTest.java,5,18,20
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/certs.json,0,0,20
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/federated_keys.json,0,0,20
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE.md,13,0,18
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/AbstractAppEngineCallbackServlet.java,6,50,17
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/AbstractAppEngineFlowServlet.java,6,31,17
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthGetAccessToken.java,7,34,17
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/BrowserClientRequestUrlTest.java,5,18,17
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth2/TokenErrorResponseTest.java,5,18,17
+YAML,/tmp/clone_directory/.github/release-please.yml,0,0,16
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/AbstractPromptReceiver.java,5,22,16
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/auth/helpers/ThreeLeggedFlow.java,8,53,16
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/client_secret.json,0,0,16
+Java,/tmp/clone_directory/samples/dailymotion-cmdline-sample/src/main/java/com/google/api/services/samples/dailymotion/cmdline/OAuth2ClientCredentials.java,7,28,16
+Bourne Shell,/tmp/clone_directory/samples/keycloak-pkce-cmdline-sample/scripts/initialize-keycloak.sh,9,19,16
+YAML,/tmp/clone_directory/.github/workflows/samples.yaml,0,15,15
+Bourne Shell,/tmp/clone_directory/.kokoro/coerce_logs.sh,5,17,15
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthGetTemporaryToken.java,6,31,15
+Python,/tmp/clone_directory/owlbot.py,4,14,15
+Java,/tmp/clone_directory/samples/dailymotion-cmdline-sample/src/main/java/com/google/api/services/samples/dailymotion/cmdline/DailyMotionUrl.java,7,20,15
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,7,0,14
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,5,14
+Bourne Shell,/tmp/clone_directory/.kokoro/release/promote.sh,6,14,14
+Bourne Shell,/tmp/clone_directory/.kokoro/release/snapshot.sh,5,14,14
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/AppEngineServletUtils.java,4,22,14
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/oauth2/AbstractAppEngineAuthorizationCodeCallbackServlet.java,5,76,14
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/oauth2/AbstractAppEngineAuthorizationCodeServlet.java,5,70,14
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthCallbackUrl.java,6,26,14
+Bourne Shell,/tmp/clone_directory/.kokoro/release/drop.sh,5,14,13
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/auth/helpers/Credential.java,4,34,13
+YAML,/tmp/clone_directory/.github/generated-files-bot.yml,0,0,12
+Bourne Shell,/tmp/clone_directory/.kokoro/release/bump_snapshot.sh,4,14,12
+JSON,/tmp/clone_directory/.repo-metadata.json,0,0,12
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthAuthorizeTemporaryTokenUrl.java,5,33,12
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthCredentialsResponse.java,6,29,12
+Java,/tmp/clone_directory/google-oauth-client/src/test/java/com/google/api/client/auth/oauth/OAuthHmacSignerTest.java,5,18,12
+Bourne Shell,/tmp/clone_directory/.kokoro/continuous/propose_release.sh,4,14,11
+YAML,/tmp/clone_directory/docs/_data/navigation.yml,0,0,11
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/CredentialStore.java,6,53,11
+Bourne Shell,/tmp/clone_directory/.kokoro/trampoline.sh,1,15,10
+XML,/tmp/clone_directory/checkstyle-suppressions.xml,3,2,10
+Text,/tmp/clone_directory/google-oauth-client-assembly/proguard-google-oauth-client.txt,5,0,10
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/aws_security_credentials.json,0,0,9
+Java,/tmp/clone_directory/samples/dailymotion-cmdline-sample/src/main/java/com/google/api/services/samples/dailymotion/cmdline/Video.java,7,14,9
+Java,/tmp/clone_directory/samples/dailymotion-cmdline-sample/src/main/java/com/google/api/services/samples/dailymotion/cmdline/VideoFeed.java,6,14,9
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,2,0,8
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/OAuthSigner.java,5,26,8
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/VerificationCodeReceiver.java,6,36,7
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/CredentialRefreshListener.java,5,48,7
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/openidconnect/Environment.java,2,30,6
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/support_request.md,2,0,5
+YAML,/tmp/clone_directory/.github/blunderbuss.yml,0,2,5
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/openidconnect/HttpTransportFactory.java,4,41,5
+Markdown,/tmp/clone_directory/SECURITY.md,3,0,4
+YAML,/tmp/clone_directory/codecov.yaml,0,0,4
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/legacy_federated_keys.json,0,0,4
+JSON,/tmp/clone_directory/google-oauth-client/src/test/resources/service_account_keys.json,0,0,4
+YAML,/tmp/clone_directory/.github/.OwlBot.lock.yaml,0,14,3
+YAML,/tmp/clone_directory/.github/trusted-contribution.yml,0,0,3
+XML,/tmp/clone_directory/clirr-ignored-differences.xml,1,1,3
+Text,/tmp/clone_directory/versions.txt,1,0,3
+YAML,/tmp/clone_directory/.github/.OwlBot.yaml,1,13,2
+YAML,/tmp/clone_directory/.github/auto-label.yaml,0,13,2
+YAML,/tmp/clone_directory/.github/release-trigger.yml,0,0,2
+YAML,/tmp/clone_directory/docs/_config.yml,0,0,2
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/package-info.java,1,25,2
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/auth/helpers/oauth/package-info.java,1,21,2
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/auth/helpers/package-info.java,1,24,2
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/servlet/auth/package-info.java,1,24,2
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth/package-info.java,1,79,2
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/openidconnect/package-info.java,1,20,2
+DOS Batch,/tmp/clone_directory/.kokoro/build.bat,1,16,1
+Java,/tmp/clone_directory/google-oauth-client-appengine/src/main/java/com/google/api/client/extensions/appengine/auth/oauth2/package-info.java,1,19,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/google-http-client-android.jar.properties,0,0,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/google-http-client-gson.jar.properties,0,0,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/google-http-client-jackson2.jar.properties,0,0,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/google-http-client-xml.jar.properties,0,0,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/google-http-client.jar.properties,0,0,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/google-oauth-client.jar.properties,0,0,1
+Properties,/tmp/clone_directory/google-oauth-client-assembly/properties/gson.jar.properties,0,0,1
+Java,/tmp/clone_directory/google-oauth-client-java6/src/main/java/com/google/api/client/extensions/java6/auth/oauth2/package-info.java,1,19,1
+JSON,/tmp/clone_directory/google-oauth-client-jetty/resources/credentials.json,0,0,1
+Java,/tmp/clone_directory/google-oauth-client-jetty/src/main/java/com/google/api/client/extensions/jetty/auth/oauth2/package-info.java,1,19,1
+Java,/tmp/clone_directory/google-oauth-client-servlet/src/main/java/com/google/api/client/extensions/servlet/auth/oauth2/package-info.java,1,19,1
+Java,/tmp/clone_directory/google-oauth-client/src/main/java/com/google/api/client/auth/oauth2/package-info.java,1,53,1
+Properties,/tmp/clone_directory/samples/dailymotion-cmdline-sample/logging.properties,2,7,1
+YAML,/tmp/clone_directory/.github/.release-please.yml,1,0,0
+SUM,,2268,6052,11705

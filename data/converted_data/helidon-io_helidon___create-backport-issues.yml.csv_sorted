@@ -1,0 +1,9 @@
+##[group]GITHUB_TOKEN Permissions, 189.7696349932541, , , , 1548772, False, 
+##[group]Cleaning the repository, 48.09184922850679, , , , 682812, False, 
+Requested labels: self-hosted, 42.01214199988361, , , , 4574274, False, 
+##[group]Run actions/checkout@v4, 38.7803994345912, , , , 196575, False, 
+##[group]Run etc/scripts/actions/create-backport-issues.sh $GITHUB_REPOSITORY     , 33.5723415384476, , , , 3701542, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 29.184062560904096, , , , 522395, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.460807983112484, , , , 47167, False, 
+##[group]Setting up auth, 6.279720367889454, , , , 76204, False, 
+##[group]Checking out the ref, 5.393904656472183, , , , 56798, False, 

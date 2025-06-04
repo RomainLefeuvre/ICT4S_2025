@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assemble --scan -x :benchmark:pixel6api31Setup -x :benchmark:pixel6api31NonMinifiedReleaseAndroidTest -x :benchmark:collectNonMinifiedReleaseBaselineProfile,1882.712423623437,127586588,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar,1175.7432314151174,62841408,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew publishAllPublicationsToMavenCentral --no-daemon --no-parallel,755.4778819538196,28538962,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar UP-TO-DATE,282.8460404814018,10500415,False,
+> Task :buildSrc:processResources NO-SOURCE,133.8884786456517,4497950,False,
+Requested labels: self-hosted,59.11389467139499,4473384,False,
+##[group]GITHUB_TOKEN Permissions,37.24809346926373,2315323,False,
+> Task :buildSrc:processResources NO-SOURCE__dup_11,30.425922973763097,1097350,False,
+> Task :buildSrc:classes UP-TO-DATE,16.36569342566725,98589,False,
+##[group]Fetching the repository,11.930073999485243,441839,False,
+##[group]Cleaning the repository,2.2582593873726404,14901,False,
+##[group]Run actions/checkout@v4,2.215674249864504,151347,False,

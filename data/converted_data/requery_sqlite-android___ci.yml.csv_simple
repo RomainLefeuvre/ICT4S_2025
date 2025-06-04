@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,54.08332463539161,3555375,False,
+##[group]Fetching the repository,16.54234024428333,671969,False,
+##[group]Run actions/upload-artifact@v2,16.508580366233772,596399,True,##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]==END_FILE==,12.02311918786168,6286737,False,
+##[group]Run actions/setup-java@v2,5.09774158548323,246109,False,
+##[group]Run actions/checkout@v2,4.355024268392958,193173,False,
+##[group]Terminate Emulator,2.6332704878655093,10100,False,
+##[group]Setting up auth,2.228151951270816,63032,False,

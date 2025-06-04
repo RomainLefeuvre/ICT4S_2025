@@ -1,0 +1,938 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.48 s (632.3 files/s 105120.7 lines/s)"
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/edit.vue,37,122,1810
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/list.vue,44,83,1506
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/search.vue,40,81,1277
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/list-info.vue,26,42,1268
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/list.vue,30,40,1127
+Markdown,/tmp/clone_directory/CHANGELOG.md,436,0,1106
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/assets/machine/machine-list.vue,23,38,1079
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/project/project-file.vue,31,110,1068
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/assets/ssh/ssh-list.vue,25,51,1024
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/assets/docker/list.vue,28,43,1012
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/user-header.vue,17,92,1000
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/repository/repository-list.vue,24,75,942
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/assets/machine/machine-info.vue,22,46,939
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/ssh-file.vue,15,99,900
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/container.vue,28,61,898
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/file-manager/fileStorage/list.vue,24,37,882
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/swarm/service.vue,27,14,841
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/BuildExecuteManage.java,44,182,814
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/script/script-list.vue,20,65,786
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/start.vue,9,32,710
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/command.vue,21,22,698
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/ssh.vue,23,47,681
+Markdown,/tmp/clone_directory/CHANGELOG-BETA.md,365,0,648
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/status.vue,17,26,642
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/buildContainer.vue,13,28,623
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/AbstractProjectCommander.java,58,274,584
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/workspace-list.vue,19,24,581
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/upgrade.vue,13,33,580
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/file-manager/release-task/list.vue,19,15,575
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/file-manager/staticFileStorage/list.vue,31,26,570
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/DefaultDockerPluginImpl.java,73,97,569
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/project/project-edit.vue,16,42,543
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/ReleaseManage.java,28,97,538
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/project/project-file-backup.vue,16,39,535
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/user/index.vue,16,23,528
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/history.vue,16,49,506
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/DefaultDockerSwarmPluginImpl.java,45,46,503
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/script-list.vue,20,24,501
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/list.vue,23,38,496
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/upgrade/index.vue,18,45,495
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/manage/ProjectManageControl.java,33,132,474
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/codeEditor/index.vue,22,121,474
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/DockerBuild.java,44,141,473
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/certificate/list.vue,19,30,470
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/logReadView.vue,18,45,467
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/user/permission-group.vue,14,19,459
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/images.vue,10,18,458
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/monitor/list.vue,20,27,457
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/BaseSshFileController.java,33,153,449
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/h2db/BaseDbService.java,69,328,449
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/service/FileReleaseTaskService.java,28,122,442
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/workspace-env.vue,14,11,423
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/backup.vue,14,42,415
+Markdown,/tmp/clone_directory/README.md,112,0,411
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/service/StaticFileStorageService.java,30,120,403
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/OutGivingProjectController.java,28,99,397
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/server/MachineNodeServer.java,27,92,397
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/server/MachineSshServer.java,21,66,392
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/RepositoryController.java,26,133,383
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/MachineSshController.java,24,83,381
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/JGitUtil.java,22,178,373
+TypeScript,/tmp/clone_directory/web-vue/src/utils/const.ts,52,110,373
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/BuildInfoController.java,33,145,370
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/table.all.v1.0.csv,0,0,370
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/ProjectFileControl.java,30,124,367
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/forward/NodeForward.java,41,262,365
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/user-log.vue,6,7,363
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/config.vue,13,14,363
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/login/index.vue,30,67,357
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/monitor/operate-log.vue,5,23,357
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/swarm/node.vue,15,13,356
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/logRead.vue,8,21,355
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/BuildTriggerApiController.java,26,88,351
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/project/project-console.vue,9,27,341
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/server/MachineDockerServer.java,24,77,339
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/cluster-list.vue,6,12,338
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/validator/ParameterInterceptor.java,18,108,329
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/editContainer.vue,7,11,329
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/LoginControl.java,25,83,327
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/user/operation-log.vue,8,13,327
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/JpomManifest.java,40,143,325
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/swarm/list.vue,14,29,316
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/h2db/BaseNodeService.java,25,122,315
+TypeScript,/tmp/clone_directory/web-vue/src/router/index.ts,8,9,313
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/NodeUpdateHandler.java,26,41,309
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/outgiving/OutGivingRun.java,25,137,307
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/MachineDockerController.java,19,52,303
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/details.vue,12,17,298
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/ManageEditProjectController.java,24,80,292
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/OutGivingProjectEditController.java,31,113,292
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/IndexControl.java,23,90,291
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/Test.java,44,88,291
+TypeScript,/tmp/clone_directory/web-vue/src/api/node-stat.ts,18,57,291
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/JpomApplicationEvent.java,31,74,290
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/swarm/task.vue,17,13,289
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/cert/controller/CertificateInfoController.java,20,67,284
+Markdown,/tmp/clone_directory/typography-specification.md,214,0,283
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/file-manager/fileStorage/releaseFile.vue,6,4,281
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/log.vue,8,10,280
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/system/cache.vue,2,9,277
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/script/script-log.vue,7,6,273
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/monitor/MonitorItem.java,17,69,271
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/CommandUtil.java,27,162,269
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/ServerWebSocketInterceptor.java,15,49,269
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestSwarm.java,44,65,265
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/command-log.vue,3,6,264
+TypeScript,/tmp/clone_directory/web-vue/src/api/node-project.ts,44,256,258
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/db/InitDb.java,15,63,254
+Maven,/tmp/clone_directory/modules/server/pom.xml,24,19,253
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/other/script-log.vue,7,7,250
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/util/OshiUtils.java,18,66,248
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/cache.vue,0,11,245
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/BaseDbCommonService.java,34,132,241
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/script/ScriptController.java,18,50,240
+TypeScript,/tmp/clone_directory/web-vue/src/api/docker-api.ts,31,118,239
+Java,/tmp/clone_directory/modules/server/src/test/java/cert/TestCert.java,34,41,238
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/logView/view-pre.vue,5,22,236
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/user/UserBasicInfoController.java,21,69,235
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/ssh/SshCommandService.java,28,85,235
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/SshHandler.java,20,60,232
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/mail.vue,6,19,230
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentWebSocketConsoleHandle.java,16,59,229
+TypeScript,/tmp/clone_directory/web-vue/src/api/config.ts,27,31,228
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/init/OperateLogController.java,16,55,227
+Maven,/tmp/clone_directory/pom.xml,12,29,227
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/login/install.vue,14,6,224
+Bourne Shell,/tmp/clone_directory/modules/server/src/main/bin/Server.sh,32,24,222
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/cert/service/CertificateInfoService.java,17,63,222
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/main/java/org/dromara/jpom/storage/H2StorageServiceImpl.java,29,55,222
+Bourne Shell,/tmp/clone_directory/modules/agent/src/main/bin/Agent.sh,29,24,221
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/controller/FileStorageController.java,16,76,221
+TypeScript,/tmp/clone_directory/web-vue/src/stores/menu2.ts,11,31,221
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/DbUserOperateLogService.java,18,68,218
+TypeScript,/tmp/clone_directory/web-vue/src/api/user/user.ts,32,89,218
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/overview.vue,4,7,218
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/other/script-console.vue,5,20,216
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/WorkspaceEnvVarController.java,19,56,215
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/service/FileStorageService.java,20,60,215
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/file-manager/release-task/details.vue,10,8,215
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/networks.vue,4,4,212
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/SystemConfigController.java,18,55,211
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/WorkspaceController.java,18,77,211
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/user/UserBindWorkspaceService.java,16,89,211
+Java,/tmp/clone_directory/modules/server/src/test/java/TestReadBigFile.java,23,43,211
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/overview.vue,9,1,209
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/monitor/log.vue,4,8,208
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/DockerCliHandler.java,16,36,204
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/assets/ssh/operation-log.vue,6,3,202
+TypeScript,/tmp/clone_directory/web-vue/src/api/node.ts,25,95,201
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/script/script-console.vue,6,19,201
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/system/AgentStartInit.java,14,36,199
+TypeScript,/tmp/clone_directory/web-vue/src/api/build-info.ts,24,104,199
+TypeScript,/tmp/clone_directory/web-vue/src/stores/guide.ts,11,56,199
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/NodeUpdateController.java,17,37,198
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/ssh-tabs.vue,4,7,198
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/tools/cron.vue,10,2,198
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/MachineNodeController.java,18,42,197
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/SystemGitProcess.java,15,39,197
+TypeScript,/tmp/clone_directory/web-vue/src/api/dispatch.ts,27,82,196
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/trigger-token.vue,8,5,196
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/volumes.vue,7,3,195
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/OutGivingController.java,21,61,193
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/script-edit.vue,2,13,193
+TypeScript,/tmp/clone_directory/web-vue/src/api/system.ts,26,103,192
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/DockerYmlDsl.java,18,110,189
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/project/project-log.vue,6,11,189
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/system/service/ClusterInfoService.java,16,65,187
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/h2db/BaseWorkspaceService.java,28,148,187
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/system/log.vue,5,36,187
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/script/ScriptController.java,19,58,184
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/BaseJpomController.java,29,110,184
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/BackupInfoController.java,21,79,183
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/fast-install.vue,5,8,183
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/default-index.vue,20,35,182
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/ProjectFileBackupService.java,16,89,181
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/BuildExecuteService.java,19,87,181
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/log.vue,6,27,181
+Maven,/tmp/clone_directory/modules/agent/pom.xml,8,18,180
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerContainerController.java,22,57,179
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/ssh/SshService.java,22,69,179
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJschExec.java,22,32,179
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/SystemUpdateController.java,17,40,178
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/IndexController.java,19,27,177
+Java,/tmp/clone_directory/modules/agent/src/test/java/oshi/SystemInfoTest.java,38,86,175
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/SystemExtConfigController.java,15,36,175
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/MachineDockerSwarmController.java,11,51,175
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/user/UserListController.java,19,76,174
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/BackupInfoService.java,20,67,173
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/user/UserService.java,19,89,173
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/repository/ImportRepoUtil.java,12,16,172
+JSON,/tmp/clone_directory/modules/server/src/main/resources/menus/index.json,0,0,172
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerSwarmServiceController.java,13,41,171
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/trigger.vue,3,9,171
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/item.vue,4,2,170
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/DbBuildHistoryLogService.java,17,36,168
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerImagesController.java,19,47,166
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/StorageServiceFactory.java,15,67,163
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/ssh/SshController.java,19,46,162
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/ServerScriptProcessBuilder.java,16,70,162
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/JpomApplication.java,22,91,161
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/DefaultDockerCheckPluginImpl.java,15,96,161
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/ssh/JschDockerHttpClient.java,27,15,160
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/prune.vue,4,4,160
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/console.vue,3,3,159
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/log-view.vue,3,12,159
+TypeScript,/tmp/clone_directory/web-vue/src/utils/upload-pieces.ts,14,42,159
+Java,/tmp/clone_directory/modules/sub-plugin/ssh-jsch/src/main/java/org/dromara/jpom/plugins/JschUtils.java,29,137,158
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/system/ExtConfigBean.java,18,69,156
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/system/controller/CacheManageController.java,14,48,156
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/script/NodeScriptProcessBuilder.java,15,62,155
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/DataStatController.java,7,14,154
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/BuildInfoService.java,25,76,154
+Bourne Shell,/tmp/clone_directory/modules/agent/src/main/bin/Service.sh,20,12,153
+Bourne Shell,/tmp/clone_directory/modules/server/src/main/bin/Service.sh,20,12,153
+Maven,/tmp/clone_directory/modules/sub-plugin/pom.xml,10,15,153
+DOS Batch,/tmp/clone_directory/modules/agent/src/main/bin/Agent.bat,18,1,152
+DOS Batch,/tmp/clone_directory/modules/server/src/main/bin/Server.bat,18,1,152
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/side-menu.vue,4,12,151
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentFreeWebSocketScriptHandle.java,15,34,150
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/NodeEditController.java,18,56,150
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/user/TriggerTokenLogServer.java,14,69,150
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/script/DslScriptServer.java,12,62,149
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/data/AgentWhitelist.java,14,97,149
+Maven,/tmp/clone_directory/modules/storage-module/pom.xml,10,15,149
+Maven,/tmp/clone_directory/modules/agent-transport/pom.xml,10,15,148
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/BaseOperService.java,23,84,148
+XML,/tmp/clone_directory/modules/sub-plugin/pom-release.xml,10,15,148
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/controller/FileReleaseTaskController.java,19,60,147
+Java,/tmp/clone_directory/modules/storage-module/storage-module-mysql/src/main/java/org/dromara/jpom/storage/MysqlTableBuilderImpl.java,12,41,147
+TypeScript,/tmp/clone_directory/web-vue/src/d.ts/components.d.ts,1,5,147
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/BuildInfoManageController.java,12,51,144
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/script/NodeScriptController.java,16,47,144
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/user/UserPermissionGroupController.java,11,40,144
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/node-top.vue,3,2,144
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestBigFileRead.java,35,29,143
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/interceptor/PermissionInterceptor.java,13,38,143
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/controller/StaticFileStorageController.java,15,52,142
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/table.all.v1.1.csv,0,0,142
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/ext-config.vue,5,5,142
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/StringUtil.java,18,101,141
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/ssh/CommandInfoController.java,15,75,141
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/MonitorModel.java,30,58,141
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-http/src/main/java/org/dromara/jpom/transport/HttpTransportServer.java,15,20,139
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/monitor/MonitorUserOptListController.java,29,45,138
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/oauth-config.vue,7,13,138
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/DockerLogHandler.java,10,18,136
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/my-workspace.vue,2,2,136
+Markdown,/tmp/clone_directory/PLANS.md,26,0,135
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/outgiving/OutGivingModel.java,20,95,134
+Java,/tmp/clone_directory/modules/server/src/test/java/TestString.java,29,26,134
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/compositionTransfer/composition-transfer.vue,8,22,134
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/main/java/org/dromara/jpom/plugin/DefaultDbH2PluginImpl.java,10,71,133
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/terminal/index.vue,5,38,133
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/NodeWelcomeController.java,13,17,131
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/NodeInfoController.java,11,43,131
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/NodeService.java,24,59,131
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/ProjectLogBackController.java,14,22,130
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/main/java/org/dromara/jpom/storage/H2TableBuilderImpl.java,10,36,129
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/swarm/pull-log.vue,2,7,129
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/FileUtils.java,13,88,128
+HTML,/tmp/clone_directory/web-vue/index.html,2,9,128
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/info.vue,4,2,128
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/script/NodeScriptExecuteLogServer.java,11,30,127
+JSON,/tmp/clone_directory/modules/server/src/main/resources/menus/system.json,0,0,126
+Java,/tmp/clone_directory/modules/server/src/test/java/TestProcess.java,5,21,126
+Maven,/tmp/clone_directory/modules/sub-plugin/svn-clone/pom.xml,10,14,123
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/logView/index.vue,4,8,123
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/system/config-file.vue,5,6,123
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/cron/CronUtils.java,17,69,122
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/interceptor/LoginInterceptor.java,13,48,122
+TypeScript,/tmp/clone_directory/web-vue/src/api/docker-swarm.ts,14,75,122
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/ServerConfig.java,24,68,121
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/DockerUtil.java,14,56,121
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/command-view-log.vue,6,31,121
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-http/src/main/java/org/dromara/jpom/transport/ServletWebSocketClientHandler.java,20,16,120
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/plugin/PluginFactory.java,13,55,119
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/system/controller/ClusterInfoController.java,12,43,119
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/script/ScriptServer.java,15,30,119
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/db/DataInitEvent.java,13,23,119
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/StrictSyncFinisher.java,24,99,119
+Vuejs Component,/tmp/clone_directory/web-vue/src/App.vue,16,40,119
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentWebSocketUpdateHandle.java,14,33,118
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/H2TableToCsv2Test.java,9,22,118
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/taskStat.vue,4,4,118
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/BuildUtil.java,19,100,117
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/BaseDownloadApiController.java,6,33,117
+TypeScript,/tmp/clone_directory/web-vue/src/api/ssh-file.ts,16,71,117
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/customSelect/index.vue,6,2,117
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/project/project-file-read.vue,8,10,117
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/EnvironmentMapBuilder.java,19,40,116
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/ProjectFileBackupController.java,12,69,115
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/BaseServerController.java,17,57,115
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/ProjectTriggerApiController.java,11,49,115
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/permission/ClassFeature.java,15,27,115
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/ssh/HijackingHttpRequestExecutor.java,23,15,115
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/test/java/git/TestGit.java,33,37,115
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/user/user-login-log.vue,12,2,115
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/BuildInfoHistoryController.java,12,34,113
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerSwarmInfoController.java,11,26,113
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/BaseProxyHandler.java,18,46,113
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentWebSocketScriptHandle.java,11,16,112
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/LogRecorder.java,24,51,112
+TypeScript,/tmp/clone_directory/web-vue/src/utils/parse-ansi.ts,13,54,112
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/monitor/MonitorListController.java,14,40,111
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/NodeProjectInfoController.java,14,53,111
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/build/log.vue,2,7,111
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/script/DslScriptBuilder.java,19,33,110
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/ServerScriptTriggerApiController.java,9,53,110
+Java,/tmp/clone_directory/modules/sub-plugin/svn-clone/src/main/java/org/dromara/jpom/plugin/SvnKitUtil.java,10,72,110
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/user/UserModel.java,13,116,109
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/NodeScriptTriggerApiController.java,9,48,107
+YAML,/tmp/clone_directory/modules/server/src/main/resources/application.yml,2,56,107
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/BaseHandler.java,15,38,106
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/DockerClientUtil.java,6,44,106
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/content-tab.vue,8,3,106
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/OutGivingWhitelistController.java,15,33,104
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/model/MachineSshModel.java,22,97,104
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/SshModel.java,17,46,104
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/outgiving/OutGivingItemRun.java,9,26,104
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/application.yml,0,61,104
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/script/NodeScriptServer.java,13,30,103
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/util/FileSearchUtil.java,11,40,103
+Maven,/tmp/clone_directory/modules/sub-plugin/docker-cli/pom.xml,10,16,103
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/customInput/index.vue,4,1,103
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/FileStorageApiController.java,8,29,102
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/system/AgentCacheManageController.java,11,30,101
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/model/MachineNodeModel.java,15,141,101
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/MonitorUserOptModel.java,28,36,101
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/impl/WindowsProjectCommander.java,10,19,100
+Java,/tmp/clone_directory/modules/server/src/test/java/TestCpu.java,10,17,100
+TypeScript,/tmp/clone_directory/web-vue/src/api/system/assets-docker.ts,14,26,100
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/BaseEnum.java,11,73,99
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestLocal.java,21,39,98
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/assets/machine/machine-func.vue,2,1,98
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentFileTailWatcher.java,14,51,97
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/BaseFileTailWatcher.java,16,46,97
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/ProjectStatusController.java,7,28,96
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerInfoController.java,13,35,96
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/SshCommandTriggerApiController.java,9,47,96
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/ServerScriptHandler.java,13,26,96
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/forward/NodeUrl.java,41,76,95
+Bourne Shell,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/uses/python3/install.sh,15,13,95
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/dispatch/white-list.vue,2,7,95
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/swarm/console.vue,4,2,95
+Vuejs Component,/tmp/clone_directory/web-vue/src/components/logView/index2.vue,4,6,94
+TypeScript,/tmp/clone_directory/web-vue/src/api/command.ts,13,16,93
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/exception/BaseExceptionHandler.java,14,30,92
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/service/h2db/H2ToolTest.java,24,60,92
+TypeScript,/tmp/clone_directory/web-vue/src/api/workspace.ts,12,54,92
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/data/NodeProjectInfoModel.java,16,110,91
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/ssh/CommandLogController.java,14,77,91
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/ServiceFileTailWatcher.java,13,42,91
+Java,/tmp/clone_directory/modules/server/src/test/java/TestT.java,16,37,91
+Maven,/tmp/clone_directory/modules/sub-plugin/git-clone/pom.xml,12,14,91
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/system/SystemUpdateController.java,10,33,90
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-func.vue,1,2,90
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,27,0,89
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/StorageTableFactory.java,13,30,89
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/full-terminal.vue,4,3,89
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/BaseUnixProjectCommander.java,9,24,88
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/manage/ProjectInfoService.java,17,81,88
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentWebSocketSystemLogHandle.java,11,17,88
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/interceptor/IpInterceptor.java,10,29,88
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/test/java/git/TestPluginGit.java,8,19,88
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/pull-image-log.vue,2,5,88
+TypeScript,/tmp/clone_directory/web-vue/src/api/system/assets-ssh.ts,11,21,87
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/TwoFactorAuthUtils.java,21,44,86
+TypeScript,/tmp/clone_directory/web-vue/vite.config.ts,5,22,86
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/manage/file/ProjectFileControl.java,18,64,85
+Java,/tmp/clone_directory/modules/server/src/test/java/TestRun.java,6,14,85
+TypeScript,/tmp/clone_directory/web-vue/src/api/system/assets-machine.ts,12,11,85
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/script/BaseRunScript.java,13,33,84
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/WorkspaceEnvVarApiController.java,11,48,84
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/init/ProxySelectorConfig.java,16,32,84
+Java,/tmp/clone_directory/modules/server/src/test/java/TestCrawlingAdoptiumJdk.java,9,19,84
+YAML,/tmp/clone_directory/docker-compose-cluster.yml,2,0,83
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/interceptor/ServerDecryptionFilter.java,6,15,83
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/LogManageController.java,8,23,83
+Bourne Shell,/tmp/clone_directory/modules/server/src/main/bin/BlockListener.sh,13,14,82
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/BuildExtraModule.java,23,129,82
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/system/white-list.vue,5,5,82
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/monitor/MonitorService.java,12,52,81
+Maven,/tmp/clone_directory/modules/sub-plugin/ssh-jsch/pom.xml,10,14,81
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/BaseAgentWebSocketHandle.java,11,36,80
+Java,/tmp/clone_directory/modules/sub-plugin/email/src/main/java/org/dromara/jpom/email/DefaultEmailPluginImpl.java,5,25,80
+TypeScript,/tmp/clone_directory/web-vue/src/api/repository.ts,8,62,80
+TypeScript,/tmp/clone_directory/web-vue/src/api/server-script.ts,13,25,80
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/h2db/BaseGlobalOrWorkspaceService.java,15,50,79
+TypeScript,/tmp/clone_directory/web-vue/src/api/node-other.ts,12,31,79
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/configuration/AgentConfig.java,20,47,78
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/script/CommandParam.java,10,24,78
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/LogReadController.java,10,48,78
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/script/ScriptLogController.java,9,34,78
+TypeScript,/tmp/clone_directory/web-vue/src/api/backup-info.ts,11,36,78
+TypeScript,/tmp/clone_directory/web-vue/src/components/compositionTransfer/utils.ts,9,82,78
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/RepositoryModel.java,8,63,76
+TypeScript,/tmp/clone_directory/web-vue/src/d.ts/auto-import.d.ts,0,7,76
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/socket/AgentWebSocketConfig.java,13,15,75
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/docker/DockerInfoService.java,13,44,75
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/init/ServerCheckMonitor.java,9,26,75
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/JwtUtil.java,12,53,75
+Maven,/tmp/clone_directory/modules/sub-plugin/email/pom.xml,11,15,75
+LESS,/tmp/clone_directory/web-vue/src/assets/reset.less,16,13,75
+TypeScript,/tmp/clone_directory/web-vue/src/api/file-manager/file-storage.ts,10,7,74
+Maven,/tmp/clone_directory/modules/common/pom.xml,17,10,73
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/ApacheExecUtil.java,9,34,73
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/InstallController.java,9,34,73
+Java,/tmp/clone_directory/modules/server/src/test/java/TestSSh.java,12,22,73
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/configuration/AgentAuthorize.java,9,39,72
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/node/node-layout/other/script-log-view.vue,1,12,72
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/script/script-log-view.vue,1,12,72
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/CommandOpResult.java,12,46,71
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/JsonFileUtil.java,9,43,71
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/system/WorkspaceEnvVarService.java,9,35,71
+Java,/tmp/clone_directory/modules/server/src/test/java/TestPath.java,17,24,71
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/JvmUtil.java,13,57,70
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/BuildInfoTriggerController.java,9,42,70
+TypeScript,/tmp/clone_directory/web-vue/src/stores/user.ts,4,9,70
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/util/KeyLock.java,15,57,69
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/default-bg.vue,4,2,69
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/impl/LinuxProjectCommander.java,7,14,68
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/system/controller/TriggerTokenController.java,8,18,68
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/NodeScriptHandler.java,7,25,68
+Java,/tmp/clone_directory/modules/storage-module/storage-module-mysql/src/main/java/org/dromara/jpom/storage/MysqlStorageServiceImpl.java,14,13,68
+TypeScript,/tmp/clone_directory/web-vue/src/api/monitor.ts,10,58,68
+TypeScript,/tmp/clone_directory/web-vue/src/api/ssh.ts,11,13,68
+TypeScript,/tmp/clone_directory/web-vue/src/router/auth.ts,11,49,67
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/system/WhitelistDirectoryController.java,17,21,66
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/data/DslYmlDto.java,24,91,66
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/ResultDirFileAction.java,12,54,66
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/system/WhitelistDirectoryController.java,9,31,66
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/ProjectInfoCacheService.java,14,41,66
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/alter.all.v1.3.csv,0,0,66
+Java,/tmp/clone_directory/modules/sub-plugin/svn-clone/src/main/java/org/dromara/jpom/plugin/AuthenticationManager.java,15,15,66
+YAML,/tmp/clone_directory/.gitee/ISSUE_TEMPLATE/bug.yml,0,0,65
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/impl/MacOsProjectCommander.java,7,18,65
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/manage/log/LogBackController.java,12,27,65
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/ProjectListController.java,7,30,64
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/monitor/SystemMailConfigController.java,7,24,64
+Bourne Shell,/tmp/clone_directory/script/gitee_pages.sh,23,17,64
+TypeScript,/tmp/clone_directory/web-vue/src/api/file-manager/release-task-log.ts,9,6,64
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/forward/DefaultUrlItem.java,9,16,63
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/model/MachineDockerModel.java,17,79,63
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/BaseOauth2Config.java,16,45,63
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/interceptor/DecryptionFilter.java,4,16,62
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/transport/MultipartRequestWrapper.java,10,14,62
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/script/ScriptModel.java,13,41,62
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/ssh/JschSocket.java,17,10,62
+Bourne Shell,/tmp/clone_directory/script/replaceVersion.sh,13,21,62
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/FileManageController.java,7,16,61
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestStr.java,11,16,61
+TypeScript,/tmp/clone_directory/web-vue/src/stores/app.ts,3,9,61
+YAML,/tmp/clone_directory/.workflow/MasterPipeline.yml,0,0,60
+YAML,/tmp/clone_directory/docker-compose-local.yml,2,0,60
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/DbExtConfig.java,19,69,60
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/system/AgentWorkspaceEnvVarController.java,8,29,58
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/CompressionFileUtil.java,8,31,58
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/BuildInfoModel.java,6,95,58
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/system/SystemConfigController.java,6,17,57
+XML,/tmp/clone_directory/modules/server/src/main/resources/logback.xml,12,15,57
+SQL,/tmp/clone_directory/modules/server/src/main/resources/sql-view/execute.mysql.v1.0.sql,16,16,56
+Java,/tmp/clone_directory/modules/server/src/test/java/TestFileWatch.java,13,12,56
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/test/java/git/TestSshGit.java,9,82,56
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/forward/JsonMessageTransformServer.java,6,15,55
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/script/NodeScriptServer.java,11,18,55
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/SystemLogHandler.java,11,20,55
+Java,/tmp/clone_directory/modules/server/src/test/java/TestSynchronized.java,17,16,55
+Markdown,/tmp/clone_directory/web-vue/README.md,22,0,55
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/BaseAgentController.java,12,36,54
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestJps.java,12,18,54
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/script/NodeScriptLogController.java,10,35,54
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/MachineSshFileController.java,6,14,54
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/Oauth2Factory.java,11,23,54
+Java,/tmp/clone_directory/modules/server/src/test/java/TestFile.java,15,21,54
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestAuth.java,10,18,54
+JSON,/tmp/clone_directory/web-vue/package.json,0,0,54
+XML,/tmp/clone_directory/modules/agent/src/main/assembly/release.xml,5,13,53
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/WhitelistDirectoryService.java,10,30,53
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/RemoteVersion.java,9,61,53
+XML,/tmp/clone_directory/modules/server/src/main/assembly/release.xml,5,27,53
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/system/LogManageController.java,9,16,52
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/WebSocketMessageModel.java,15,14,52
+Dockerfile,/tmp/clone_directory/modules/server/Dockerfile,22,13,52
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/JpomServerApplication.java,5,43,52
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/system/OauthConfigController.java,7,14,52
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/user/UserInfoController.java,9,28,52
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/SshTerminalExecuteLogService.java,6,28,52
+XML,/tmp/clone_directory/modules/agent/src/main/resources/logback.xml,10,15,51
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/BuildExecutorPoolService.java,7,16,51
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/log/BuildHistoryLog.java,10,92,51
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/system/SystemParametersServer.java,9,52,51
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJavaTail.java,10,17,51
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/GitProcessFactory.java,11,22,51
+TypeScript,/tmp/clone_directory/web-vue/src/router/route-menu.ts,2,9,51
+TypeScript,/tmp/clone_directory/web-vue/src/api/tools/certificate.ts,7,21,50
+Maven,/tmp/clone_directory/modules/agent-transport/agent-transport-http/pom.xml,11,9,49
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestFile.java,16,13,49
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/transport/ParameterRequestWrapper.java,9,13,49
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/VersionUtils.java,10,30,49
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/model/FileStorageModel.java,9,58,49
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/ServerWhitelist.java,11,44,49
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJarLoader.java,1,16,49
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/system/WebAopLog.java,7,20,48
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/NodeModel.java,10,43,48
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/outgiving/LogReadModel.java,12,62,48
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/ServerWebSocketConfig.java,4,23,48
+XML,/tmp/clone_directory/modules/server/src/main/resources/config_default/logback.xml,10,16,48
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/test/java/git/TestSort.java,6,16,48
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/JpomAgentApplication.java,5,27,47
+YAML,/tmp/clone_directory/modules/agent/src/main/resources/application.yml,0,21,47
+XML,/tmp/clone_directory/modules/agent/src/main/resources/config_default/logback.xml,10,16,47
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/openapi/controller/StaticFileStorageApiController.java,8,17,47
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/CommandExecLogModel.java,17,52,47
+Bourne Shell,/tmp/clone_directory/modules/server/src/main/resources/config_default/ssh/monitor-script.sh,3,17,47
+Maven,/tmp/clone_directory/modules/sub-plugin/webhook/pom.xml,6,13,47
+YAML,/tmp/clone_directory/modules/agent/src/main/resources/config_default/application.yml,0,20,46
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/ToolsController.java,4,13,46
+Java,/tmp/clone_directory/modules/sub-plugin/ssh-jsch/src/main/java/org/dromara/jpom/plugins/JschLogger.java,5,14,46
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/docker/terminal.vue,2,1,46
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/node/manage/file/ProjectFileBackupController.java,9,54,45
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/docker/AssetsDockerSwarmInfoController.java,7,19,45
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/script/ScriptExecuteLogServer.java,11,40,45
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/HandlerType.java,5,43,45
+INI,/tmp/clone_directory/.editorconfig,10,0,44
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/transport/BodyRewritingRequestWrapper.java,9,13,44
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/controller/BaseMyErrorController.java,7,16,44
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/AssetsExecutorPoolService.java,7,13,44
+Java,/tmp/clone_directory/modules/server/src/test/java/TestYml.java,7,18,44
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/test/java/git/TestGithub.java,12,13,44
+Java,/tmp/clone_directory/modules/sub-plugin/webhook/src/main/java/org/dromara/jpom/webhook/DefaultWebhookPluginImpl.java,5,27,44
+TypeScript,/tmp/clone_directory/web-vue/src/components/Icon.ts,3,1,44
+YAML,/tmp/clone_directory/.gitee/ISSUE_TEMPLATE/feature.yml,0,0,43
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/Commander.java,9,15,43
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerSwarmInfoController.java,6,21,43
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/MySftp.java,13,23,43
+Java,/tmp/clone_directory/modules/server/src/test/java/TopTest.java,6,11,43
+Maven,/tmp/clone_directory/modules/sub-plugin/encrypt/pom.xml,5,13,43
+TypeScript,/tmp/clone_directory/web-vue/src/api/file-manager/static-storage.ts,6,2,43
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/ssh/terminal.vue,3,1,43
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/util/SocketSessionUtil.java,4,29,42
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/ssh/SshFileController.java,7,16,42
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/docker/DockerInfoModel.java,10,55,42
+Java,/tmp/clone_directory/modules/sub-plugin/encrypt/src/main/java/org/dromara/jpom/encrypt/AESEncryptor.java,11,20,42
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/data/NodeScriptModel.java,9,33,41
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/system/BaseSystemConfig.java,11,37,41
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/monitor/EmailUtil.java,9,27,41
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/outgiving/OutGivingServer.java,7,17,41
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/system/WorkspaceService.java,6,13,41
+Java,/tmp/clone_directory/modules/server/src/test/java/cert/CertUtil.java,7,18,41
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/WebConfigurer.java,8,17,40
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/AssetsConfig.java,11,42,40
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/IStorageService.java,17,108,40
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/model/PageResultDto.java,9,30,40
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/TestTailer.java,8,10,39
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/AuthOauth2MaxKeyRequest.java,6,12,39
+Java,/tmp/clone_directory/modules/server/src/test/java/TestThread.java,8,14,39
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/repository/list.vue,1,0,39
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/CacheObject.java,9,31,38
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/interceptor/AuthorizeInterceptor.java,7,15,38
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/AntPathUtil.java,8,16,38
+Bourne Shell,/tmp/clone_directory/script/docker-tls.sh,2,27,38
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/404/index.vue,0,4,38
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/model/StaticFileStorageModel.java,7,56,37
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/user/UserBindWorkspaceModel.java,9,45,37
+Maven,/tmp/clone_directory/modules/storage-module/storage-module-h2/pom.xml,8,9,37
+Markdown,/tmp/clone_directory/script/docker-buildx.md,20,0,37
+YAML,/tmp/clone_directory/.workflow/docker-hub.yml,0,0,36
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/ReplaceStreamFilter.java,5,15,36
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerVolumeController.java,5,19,36
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/user/server/UserLoginLogServer.java,8,43,36
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/node/NodeScriptExecuteLogCacheModel.java,8,25,36
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/SyncFinisherUtil.java,10,51,36
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestDockerFIle.java,6,18,36
+Java,/tmp/clone_directory/modules/sub-plugin/encrypt/src/main/java/org/dromara/jpom/encrypt/BASE64Encryptor.java,8,20,36
+DOS Batch,/tmp/clone_directory/script/push.bat,19,0,36
+TypeScript,/tmp/clone_directory/web-vue/src/api/node-project-backup.ts,5,36,36
+TypeScript,/tmp/clone_directory/web-vue/src/api/system/cluster.ts,5,15,36
+Java,/tmp/clone_directory/modules/agent/src/test/java/org/dromara/jpom/common/commander/impl/MacOSSystemCommanderTest.java,7,17,35
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/UploadFileModel.java,6,12,35
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerContainerController.java,6,13,35
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerImagesController.java,6,13,35
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/node/ProjectInfoCacheModel.java,9,50,35
+Maven,/tmp/clone_directory/modules/storage-module/storage-module-common/pom.xml,10,9,35
+Maven,/tmp/clone_directory/modules/storage-module/storage-module-mysql/pom.xml,8,9,35
+Bourne Shell,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/uses/node/install.sh,2,10,35
+TypeScript,/tmp/clone_directory/web-vue/src/api/ext-config.ts,5,4,35
+TypeScript,/tmp/clone_directory/web-vue/src/api/log-read.ts,4,14,35
+TypeScript,/tmp/clone_directory/web-vue/src/d.ts/global/global.ts,8,4,35
+Maven,/tmp/clone_directory/modules/agent-transport/agent-transport-common/pom.xml,8,9,34
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/DirTreeUtil.java,5,21,34
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/TestApacheExec.java,13,16,34
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/docker/AssetsDockerSwarmServiceController.java,6,15,34
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/node/NodeScriptCacheModel.java,6,39,34
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/monitor/MonitorUserOptService.java,5,33,34
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/ssh/CommandExecLogService.java,6,13,34
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/outgiving/LogReadServer.java,7,14,34
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/ConsoleHandler.java,6,22,34
+Bourne Shell,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/uses/java/install.sh,3,11,34
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/JschDockerHttpClientIT.java,20,16,34
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/BaseWorkspaceOptService.java,6,18,33
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/plugin/PluginItemWrap.java,8,28,33
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/UrlRedirectUtil.java,10,94,33
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/UserConfig.java,14,37,33
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/server/MachineNodeStatLogServer.java,5,13,33
+Java,/tmp/clone_directory/modules/server/src/test/java/TestCron.java,8,14,33
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/GlobalDefaultExceptionHandler.java,6,36,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerNetworkController.java,7,13,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerVolumeController.java,6,13,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/user/UserOptLogController.java,6,20,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/cert/model/CertificateInfoModel.java,6,49,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/user/controller/UserLoginLogController.java,6,18,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseWorkspaceModel.java,9,31,32
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/outgiving/OutGivingNodeProject.java,7,27,32
+Java,/tmp/clone_directory/modules/server/src/test/java/com/example/twofactorauthdemo/TwoFactorAuthTest.java,10,16,32
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/DefaultGitPluginImpl.java,5,13,32
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,10,29,31
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseNodeModel.java,14,36,31
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/enums/BuildStatus.java,6,16,31
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/alter.all.v1.1.csv,0,0,31
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/ApplicationStartTest.java,9,15,31
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/AbstractGitProcess.java,10,30,31
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/system/WorkspaceEnvVarModel.java,11,31,30
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/WebConfig.java,13,46,30
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/monitor/MonitorLogController.java,6,20,30
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/OutGivingLogController.java,7,15,30
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/Oauth2MaxKeyConfig.java,7,16,30
+Java,/tmp/clone_directory/modules/server/src/test/java/TestIp.java,4,18,30
+Dockerfile,/tmp/clone_directory/modules/agent/Dockerfile,12,11,29
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/Oauth2MaxKeyAuthSource.java,9,13,29
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/DbMonitorNotifyLogService.java,6,33,29
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/util/SocketSessionUtil.java,7,32,29
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/table.all.v1.2.csv,1,0,29
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/git/TestGit.java,6,16,29
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestTsl.java,7,13,29
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/impl/LinuxSystemCommander.java,9,62,28
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/system/LogbackConfig.java,5,13,28
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/outgiving/OutGivingWhitelistService.java,8,14,28
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/docker/AssetsDockerContainerController.java,6,13,28
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/docker/AssetsDockerImagesController.java,6,13,28
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/AgentLogHandler.java,6,15,28
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/alter.all.v1.2.csv,0,0,28
+Java,/tmp/clone_directory/modules/server/src/test/java/TestIntegral.java,3,16,28
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJarClass.java,8,37,28
+XML,/tmp/clone_directory/modules/sub-plugin/docker-cli/script/release.xml,7,9,28
+Java,/tmp/clone_directory/modules/sub-plugin/encrypt/src/main/java/org/dromara/jpom/encrypt/NotEncryptor.java,7,18,28
+JSON,/tmp/clone_directory/web-vue/.eslintrc.json,0,0,28
+TypeScript,/tmp/clone_directory/web-vue/src/api/user/user-permission.ts,4,4,28
+YAML,/tmp/clone_directory/.github/workflows/build.yml,4,1,27
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/system/AgentWorkspaceEnvVarService.java,5,20,27
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/ContiPerTest.java,7,16,27
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/NodeConfig.java,10,31,27
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/MailAccountModel.java,7,44,27
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/import-repo-provider/github.yml,0,0,27
+Java,/tmp/clone_directory/modules/server/src/test/java/TestFun.java,3,14,27
+XML,/tmp/clone_directory/modules/sub-plugin/email/script/release.xml,7,9,27
+XML,/tmp/clone_directory/modules/sub-plugin/git-clone/script/release.xml,7,9,27
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/SslVerifyUsernamePasswordCredentialsProvider.java,5,18,27
+XML,/tmp/clone_directory/modules/sub-plugin/ssh-jsch/script/release.xml,7,9,27
+XML,/tmp/clone_directory/modules/sub-plugin/svn-clone/script/release.xml,7,9,27
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestDelete.java,4,13,26
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/DockerSwarmServiceController.java,7,13,26
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerNetworkController.java,4,16,26
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/log/MonitorNotifyLog.java,5,38,26
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/log/SshTerminalExecuteLog.java,6,36,26
+TypeScript,/tmp/clone_directory/web-vue/src/api/install.ts,3,8,26
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/ipAccess.vue,0,0,26
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/workspace.vue,1,0,26
+JSON,/tmp/clone_directory/web-vue/tsconfig.json,0,0,26
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/configuration/ProjectLogConfig.java,7,30,25
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/util/LimitQueue.java,6,17,25
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/docker/AssetsDockerNetworkController.java,6,13,25
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/controller/docker/AssetsDockerVolumeController.java,6,13,25
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/enums/BuildReleaseMethod.java,5,16,25
+Java,/tmp/clone_directory/modules/server/src/test/java/TestCommandWget.java,5,11,25
+Java,/tmp/clone_directory/modules/server/src/test/java/TestSe.java,3,15,25
+SVG,/tmp/clone_directory/web-vue/src/assets/images/jpom.svg,0,0,25
+TypeScript,/tmp/clone_directory/web-vue/src/interface/common.d.ts,2,0,25
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/model/FileReleaseTaskLogModel.java,3,55,24
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/log/UserOperateLogV1.java,4,48,24
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/system/WhitelistDirectoryService.java,7,21,24
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/import-repo-provider/gitee.yml,0,0,24
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/TestH2Shell.java,3,14,24
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/jdbc/conn/h2/test/TestBackup.java,8,13,24
+Markdown,/tmp/clone_directory/modules/sub-plugin/docker-cli/README.md,13,0,24
+Bourne Shell,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/uses/go/install.sh,5,11,24
+YAML,/tmp/clone_directory/.workflow/pipeline-opensca.yml,0,0,23
+YAML,/tmp/clone_directory/docker-compose.yml,0,0,23
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/IProxyWebSocket.java,13,73,23
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/Const.java,11,59,23
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/ServerOpenApi.java,17,69,23
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/BaseGroupNameController.java,7,13,23
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/enums/BackupTypeEnum.java,7,18,23
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/log/OutGivingLog.java,4,54,23
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/import-repo-provider/gitlab.yml,0,0,23
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/import-repo-provider/gitlab_v3.yml,0,0,23
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestJson.java,5,13,23
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/JGitProcess.java,7,16,23
+Bourne Shell,/tmp/clone_directory/script/install-node.sh,8,11,23
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/TransformServerFactory.java,7,30,22
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/TransportServerFactory.java,7,30,22
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/AfterOpt.java,4,25,22
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/TaskData.java,7,38,22
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/BackupInfoModel.java,7,41,22
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/enums/BackupStatusEnum.java,7,18,22
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/monitor/NotifyUtil.java,7,23,22
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/BuildTriggerTest.java,3,16,22
+INI,/tmp/clone_directory/web-vue/.editorconfig,7,0,22
+TypeScript,/tmp/clone_directory/web-vue/src/api/trigger-token.ts,3,0,22
+YAML,/tmp/clone_directory/.github/workflows/codecov.yml,2,0,21
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/WebConfigurer.java,9,13,21
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/impl/MacOsSystemCommander.java,8,78,21
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/build/repository/ImportRepoProviderConfig.java,4,56,21
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/assets/model/MachineNodeStatLogModel.java,3,45,21
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseUserModifyDbModel.java,5,26,21
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/enums/GitProtocolEnum.java,7,18,21
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/monitor/WebHookUtil.java,3,22,21
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/socket/handler/BaseTerminalHandler.java,4,13,21
+Java,/tmp/clone_directory/modules/server/src/test/java/TestA/TestVersion.java,5,13,21
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/DockerInfoTest.java,7,13,21
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/H2ConnTest1.java,3,27,21
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/TestH2Sql.java,3,13,21
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/java/org/dromara/jpom/IDockerConfigPlugin.java,6,26,21
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/SmallTextProgressMonitor.java,6,19,21
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/script/env.vue,3,0,21
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/socket/ConsoleCommandOp.java,4,30,20
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/SystemParametersModel.java,6,21,20
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/docker/DockerSwarmInfoMode.java,5,22,20
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/GiteeOauth2Config.java,4,13,20
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/oauth2/GithubOauth2Config.java,5,13,20
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/outgiving/DbOutGivingLogService.java,5,22,20
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/import-repo-provider/gitea.yml,0,0,20
+YAML,/tmp/clone_directory/modules/server/src/main/resources/config_default/import-repo-provider/gogs.yml,0,0,20
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/alter.all.v1.0.csv,0,0,20
+Java,/tmp/clone_directory/modules/server/src/test/java/TestFileModify.java,2,13,20
+Java,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/test/java/TestFormatter.java,6,13,20
+XML,/tmp/clone_directory/script/settings.xml,20,236,20
+TypeScript,/tmp/clone_directory/web-vue/src/api/external.ts,3,1,20
+TypeScript,/tmp/clone_directory/web-vue/src/api/menu.ts,3,6,20
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/TransportServer.java,11,62,19
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/impl/WindowsSystemCommander.java,7,32,19
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/configuration/ProjectConfig.java,7,29,19
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/data/BaseWorkspaceModel.java,7,27,19
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/controller/RobotsController.java,4,15,19
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/TestCompression.java,5,13,19
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/SystemIpConfigModel.java,9,19,19
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/WorkspaceModel.java,5,29,19
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/user/TriggerTokenLogBean.java,4,39,19
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/dblog/RepositoryService.java,3,14,19
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/loading.vue,3,1,19
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/AgentFileModel.java,4,33,18
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/system/AgentAutoUser.java,7,15,18
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/system/JpomRuntimeException.java,7,18,18
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/ServerConst.java,11,40,18
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/BuildExtConfig.java,8,31,18
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/system/model/ClusterInfoModel.java,2,37,18
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/user/model/UserLoginLogModel.java,8,39,18
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/permission/MethodFeature.java,4,18,18
+JSON,/tmp/clone_directory/modules/server/src/main/resources/config_default/fast-install-beta.json,0,0,18
+JSON,/tmp/clone_directory/modules/server/src/main/resources/config_default/fast-install-release.json,0,0,18
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/TestH2String.java,3,13,18
+Java,/tmp/clone_directory/modules/sub-plugin/svn-clone/src/test/java/svn/TestSvn.java,6,21,18
+Markdown,/tmp/clone_directory/SECURITY.md,6,0,17
+Java,/tmp/clone_directory/modules/agent/src/test/java/GetTomcatPort.java,2,13,17
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/validator/ValidatorConfig.java,8,52,17
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/validator/ValidatorRule.java,1,61,17
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/ClusterConfig.java,5,19,17
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/SystemConfig.java,4,13,17
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/CommandModel.java,2,36,17
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJavaPath.java,9,13,17
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/service/h2db/H2BackupTest.java,6,13,17
+Java,/tmp/clone_directory/modules/sub-plugin/ssh-jsch/src/main/java/org/dromara/jpom/plugins/ISshInfo.java,12,29,17
+Bourne Shell,/tmp/clone_directory/script/release-sha1sum.sh,13,15,17
+JSON,/tmp/clone_directory/web-vue/.vscode/settings.json,0,0,17
+TypeScript,/tmp/clone_directory/web-vue/src/api/user/user-login-log.ts,2,0,17
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/system/NetstatModel.java,2,21,16
+Java,/tmp/clone_directory/modules/agent/src/test/java/oshi/TestInfo.java,5,14,16
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/data/WorkspaceEnvVarModel.java,4,33,16
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/dto/UserLoginDto.java,9,13,16
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/script/ScriptExecuteLogModel.java,5,28,16
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/plugin/DefaultWorkspaceEnvPlugin.java,4,13,16
+Bourne Shell,/tmp/clone_directory/modules/server/src/main/resources/config_default/exec/template.sh,5,14,16
+Bourne Shell,/tmp/clone_directory/modules/server/src/main/resources/config_default/ssh/template.sh,5,14,16
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/alter.all.v1.4.csv,0,0,16
+Java,/tmp/clone_directory/modules/sub-plugin/encrypt/src/main/java/org/dromara/jpom/encrypt/EncryptFactory.java,3,13,16
+TypeScript,/tmp/clone_directory/web-vue/src/d.ts/auto-global-import.d.ts,0,5,16
+Java,/tmp/clone_directory/modules/agent/src/test/java/Code.java,4,16,15
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestIp.java,4,13,15
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/interceptor/HandlerMethodInterceptor.java,5,31,15
+DOS Batch,/tmp/clone_directory/modules/server/src/main/resources/config_default/exec/template.bat,4,0,15
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/controller/build/RepositoryControllerTest.java,4,17,15
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/model/BaseDbModel.java,5,23,15
+DOS Batch,/tmp/clone_directory/script/release.bat,4,0,15
+TypeScript,/tmp/clone_directory/web-vue/src/api/node-system.ts,4,11,15
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/manage/vo/DiffFileVo.java,5,28,14
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/TestYml.java,5,15,14
+DOS Batch,/tmp/clone_directory/modules/common/src/test/resources/test.bat,4,2,14
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/user/UserPermissionGroupBean.java,6,39,14
+Java,/tmp/clone_directory/modules/server/src/test/java/TryFinally.java,1,12,14
+Java,/tmp/clone_directory/modules/sub-plugin/svn-clone/src/main/java/org/dromara/jpom/plugin/DefaultSvnPluginImpl.java,4,14,14
+JSON,/tmp/clone_directory/web-vue/.vscode/extensions.json,0,0,14
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/BaseModel.java,4,15,13
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/plugin/IWorkspaceEnvPlugin.java,6,31,13
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/MyErrorController.java,2,13,13
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/exception/AgentAuthorizeException.java,4,15,13
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/table.h2.v1.0.csv,0,0,13
+Java,/tmp/clone_directory/modules/server/src/test/java/TestMaven.java,3,15,13
+Java,/tmp/clone_directory/modules/server/src/test/java/org/springframework/boot/env/TestYml.java,6,13,13
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/TableName.java,7,44,13
+Bourne Shell,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/uses/gradle/install.sh,1,9,13
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/system/global-env.vue,1,0,13
+Java,/tmp/clone_directory/modules/agent/src/test/java/oshi/TestProcessesList.java,4,13,12
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/validator/ValidatorItem.java,6,62,12
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/user/UserWorkspaceModel.java,4,29,12
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseGroupModel.java,5,16,12
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/IStorageSqlBuilderService.java,8,44,12
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/TestSqlStr.java,3,13,12
+DOS Batch,/tmp/clone_directory/script/plugin-install.bat,5,0,12
+YAML,/tmp/clone_directory/.travis.yml,4,0,11
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/DownloadCallback.java,6,13,11
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/INodeInfo.java,9,53,11
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/AbstractSystemCommander.java,8,55,11
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/ProjectCommander.java,12,51,11
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/controller/MyErrorController.java,4,13,11
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/model/data/NodeScriptExecLogModel.java,6,27,11
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/service/script/NodeScriptExecLogServer.java,3,13,11
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/configuration/FileStorageConfig.java,3,29,11
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/permission/Feature.java,6,35,11
+Java,/tmp/clone_directory/modules/server/src/test/java/TestLogin.java,1,13,11
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/TableViewRowData.java,3,13,11
+Java,/tmp/clone_directory/modules/storage-module/storage-module-h2/src/test/java/TestH2Recover.java,3,13,11
+Bourne Shell,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/uses/maven/install.sh,1,9,11
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/test/java/git/TestGitEnv.java,4,15,11
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/configuration/SystemConfig.java,2,13,10
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/ILoadEvent.java,4,28,10
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/model/RunMode.java,1,36,10
+Text,/tmp/clone_directory/modules/common/src/main/resources/banner.txt,0,0,10
+Java,/tmp/clone_directory/modules/common/src/test/java/cn/TestVersions.java,3,13,10
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/outgiving/BaseNodeProject.java,3,13,10
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/permission/NodeDataPermission.java,6,23,10
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/docker/DockerSwarmInfoService.java,3,13,10
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/TableViewData.java,5,13,10
+Markdown,/tmp/clone_directory/modules/storage-module/storage-module-mysql/README.md,4,0,10
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/IUrlItem.java,7,39,9
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/TransformServer.java,5,38,9
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/plugin/IDefaultPlugin.java,4,21,9
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/exception/AgentException.java,3,15,9
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseGroupNameModel.java,2,19,9
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/permission/SystemPermission.java,4,21,9
+Java,/tmp/clone_directory/modules/server/src/test/java/RunFile.java,3,21,9
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/TableViewAlterData.java,4,13,9
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/TableViewIndexData.java,6,16,9
+Dockerfile,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/runs/ubuntu-git/Dockerfile,3,9,9
+TypeScript,/tmp/clone_directory/web-vue/src/main.ts,3,0,9
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/repository/global-repository.vue,1,0,9
+JSON,/tmp/clone_directory/web-vue/tsconfig.node.json,0,0,9
+JSON,/tmp/clone_directory/docs/apidoc.json,0,0,8
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/TransportAgentException.java,3,13,8
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/AgentConst.java,3,30,8
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/AgentExceptionHandler.java,4,15,8
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/interceptor/NotAuthorize.java,3,15,8
+Java,/tmp/clone_directory/modules/agent/src/test/java/ZipUtil.java,5,9,8
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/common/interceptor/NotLogin.java,3,15,8
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseMachineModel.java,3,16,8
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/model/BaseNodeGroupModel.java,3,16,8
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/ITriggerToken.java,6,31,8
+JSON,/tmp/clone_directory/modules/server/src/test/resources/cert.json,0,0,8
+JSON,/tmp/clone_directory/modules/server/src/test/resources/test.json,0,0,8
+Dockerfile,/tmp/clone_directory/modules/sub-plugin/docker-cli/src/main/resources/config_default/docker/runs/ubuntu-latest/Dockerfile,2,9,8
+JSON,/tmp/clone_directory/web-vue/.prettierrc.json,0,0,8
+TypeScript,/tmp/clone_directory/web-vue/src/api/common.ts,1,3,8
+TypeScript,/tmp/clone_directory/web-vue/src/api/operation-log.ts,1,1,8
+TypeScript,/tmp/clone_directory/web-vue/src/api/tools.ts,1,4,8
+TypeScript,/tmp/clone_directory/web-vue/src/utils/utils.ts,0,0,8
+Java,/tmp/clone_directory/modules/agent/src/main/java/io/jpom/JpomAgentApplication.java,1,15,7
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestJdkTest.java,6,17,7
+Java,/tmp/clone_directory/modules/server/src/main/java/io/jpom/JpomServerApplication.java,1,15,7
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/user/UserPermissionGroupServer.java,2,13,7
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/index.all.v1.0.csv,0,0,7
+Java,/tmp/clone_directory/modules/server/src/test/java/org/dromara/jpom/monitor/NodeMonitorTest.java,6,9,7
+Java,/tmp/clone_directory/modules/sub-plugin/git-clone/src/main/java/org/dromara/jpom/plugin/GitProcess.java,6,34,7
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/common/commander/SystemCommander.java,6,26,6
+Java,/tmp/clone_directory/modules/agent/src/test/java/TestVersion.java,1,13,6
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/exception/IllegalArgument2Exception.java,2,13,6
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/exception/LogRecorderCloseException.java,1,13,6
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/system/AopLogInterface.java,3,25,6
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/DiyInterruptException.java,2,13,6
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/controller/docker/base/BaseDockerController.java,6,19,6
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/exception/PermissionException.java,1,15,6
+YAML,/tmp/clone_directory/modules/server/src/main/resources/application-mysql.yml,0,5,6
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJpomLogin.java,3,14,6
+Markdown,/tmp/clone_directory/modules/storage-module/storage-module-h2/README.md,2,0,6
+Java,/tmp/clone_directory/modules/sub-plugin/encrypt/src/main/java/org/dromara/jpom/encrypt/Encryptor.java,6,32,6
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/index.vue,0,0,6
+Vuejs Component,/tmp/clone_directory/web-vue/src/pages/layout/management.vue,0,0,6
+TypeScript,/tmp/clone_directory/web-vue/src/utils/check-type.ts,5,14,6
+YAML,/tmp/clone_directory/.gitee/ISSUE_TEMPLATE/config.yaml,1,9,5
+Java,/tmp/clone_directory/modules/agent-transport/agent-transport-common/src/main/java/org/dromara/jpom/transport/DataContentType.java,1,21,5
+Java,/tmp/clone_directory/modules/common/src/main/java/org/dromara/jpom/common/validator/ErrorCondition.java,1,21,5
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/ApiDoc.java,3,43,5
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/build/IProcessItem.java,3,23,5
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/func/files/model/IFileStorage.java,3,13,5
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/monitor/INotify.java,3,22,5
+LESS,/tmp/clone_directory/web-vue/src/assets/style.less,0,0,5
+TypeScript,/tmp/clone_directory/web-vue/src/interface/request.d.ts,0,0,5
+Java,/tmp/clone_directory/modules/agent/src/main/java/io/jpom/system/AgentLogbackConfig.java,1,13,4
+Java,/tmp/clone_directory/modules/server/src/main/java/io/jpom/system/ServerLogbackConfig.java,1,13,4
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/IStatusRecover.java,2,20,4
+Java,/tmp/clone_directory/modules/server/src/test/java/TestHuUpload.java,1,14,4
+Java,/tmp/clone_directory/modules/storage-module/storage-module-common/src/main/java/org/dromara/jpom/db/IMode.java,2,18,4
+Bourne Shell,/tmp/clone_directory/script/release.sh,5,13,4
+TypeScript,/tmp/clone_directory/web-vue/src/d.ts/vite-env.d.ts,2,10,4
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,2,0,3
+Java,/tmp/clone_directory/modules/agent/src/main/java/org/dromara/jpom/system/AgentLogbackConfig.java,1,13,3
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/system/ServerLogbackConfig.java,1,13,3
+TypeScript,/tmp/clone_directory/web-vue/src/interface/global.d.ts,1,9,3
+Text,/tmp/clone_directory/modules/common/src/main/resources/robots.txt,0,0,2
+YAML,/tmp/clone_directory/modules/common/src/test/resources/test.yml,0,1,2
+CSV,/tmp/clone_directory/modules/server/src/main/resources/sql-view/alter.all.v1.2.1.csv,0,0,2
+Bourne Shell,/tmp/clone_directory/script/docker.sh,6,25,2
+Markdown,/tmp/clone_directory/modules/sub-plugin/README.md,0,0,1
+Text,/tmp/clone_directory/script/tag.beta.txt,0,0,1
+Text,/tmp/clone_directory/script/tag.release.txt,0,0,1
+SVG,/tmp/clone_directory/web-vue/src/assets/images/gitee.svg,0,0,1
+TypeScript,/tmp/clone_directory/web-vue/type.d.ts,0,0,1
+Java,/tmp/clone_directory/modules/agent/src/test/java/DTest.java,0,112,0
+Java,/tmp/clone_directory/modules/agent/src/test/java/FileUtil.java,0,255,0
+Java,/tmp/clone_directory/modules/server/src/main/java/org/dromara/jpom/service/node/tomcat/TomcatService.java,1,210,0
+Java,/tmp/clone_directory/modules/server/src/test/java/JpomTestJvm.java,1,35,0
+Java,/tmp/clone_directory/modules/server/src/test/java/SysInfoAcquirerService.java,0,804,0
+Java,/tmp/clone_directory/modules/server/src/test/java/TestA/Test.java,1,38,0
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJavaInfo.java,1,31,0
+Java,/tmp/clone_directory/modules/server/src/test/java/TestJvm.java,1,65,0
+Java,/tmp/clone_directory/modules/server/src/test/java/cert/CertificateValidator.java,0,86,0
+Bourne Shell,/tmp/clone_directory/script/temp.sh,1,10,0
+TypeScript,/tmp/clone_directory/web-vue/src/api/build.ts,18,227,0
+TypeScript,/tmp/clone_directory/web-vue/src/api/role.ts,7,69,0
+SUM,,10776,31821,113016

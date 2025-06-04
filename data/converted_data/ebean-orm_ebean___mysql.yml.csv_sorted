@@ -1,0 +1,10 @@
+##[group]Run mvn -T 8 clean test -Dprops.file=testconfig/ebean-mysql.properties, 3856.681557820005, , , , 286348316, True, [ERROR[m] java.lang.NullPointerException
+##[group]Run actions/cache@v3, 500.3602434314683, , , , 57270344, False, 
+Requested labels: self-hosted, 79.25584475086694, , , , 4979760, False, 
+##[group]GITHUB_TOKEN Permissions, 12.112416080842648, , , , 3296709, False, 
+##[group]Fetching the repository, 2.225096823129818, , , , 463327, False, 
+##[group]Cleaning the repository, 1.572421769337406, , , , 278603, False, 
+##[group]Installed distributions, 0.5955486253420665, , , , 25290, False, 
+##[group]Setting up auth, 0.5384221968917218, , , , 76274, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.509858982666549, , , , 40755, False, 
+##[group]Run actions/checkout@v3, 0.502718179110256, , , , 165282, False, 

@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.384220740548589, , , , 4176148, False, 
+##[group]GITHUB_TOKEN Permissions, 1.5991222947887398, , , , 1427652, False, 
+##[group]Run actions/checkout@v4, 0.141694380550901, , , , 156269, False, 
+##[group]Setting up auth, 0.1474778246550194, , , , 63080, False, 
+##[group]Fetching the repository, 0.6188285191406696, , , , 444950, False, 
+##[group]Run npm install -g markdown-link-check@3.10.3, 29.28736094325562, , , , 9680006, False, 
+##[group]Run find . -type f \\, 28.03953961014257, , , , 10904824, True, ##[error]Process completed with exit code 123.

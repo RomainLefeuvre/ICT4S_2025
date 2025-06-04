@@ -1,0 +1,17 @@
+##[group]Run mvn \\, 73548.43718328675, , , , 9494177991, True, ##[error]Username and password required
+##[group]Run actions/upload-artifact@v3, 423.1238091079316, , , , 47392452, True, ##[error]The operation was canceled.
+##[group]Run actions/upload-artifact@v3__dup_17, 234.0853589604971, , , , 23451418, False, 
+##[group]GITHUB_TOKEN Permissions, 141.15333568823388, , , , 5149762, False, 
+[INFO] --- spring-boot-maven-plugin:2.7.18:build-info (build-info) @ spring-cloud-dataflow-server ---, 38.22256985167694, , , , 4164843, False, 
+[INFO] --- jacoco-maven-plugin:0.8.8:prepare-agent (agent) @ spring-cloud-dataflow-server ---, 18.576893095412945, , , , 2162509, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-cloud-dataflow-server ---, 13.231040939579394, , , , 2845230, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-cloud-dataflow-server ---, 12.166175460882284, , , , 695589, False, 
+##[group]Fetching the repository, 6.192862388857384, , , , 425772, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-cloud-dataflow-server ---, 6.02242215498487, , , , 2465503, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-cloud-dataflow-server ---, 3.856283930137962, , , , 1484061, False, 
+##[group]Run docker/login-action@v3, 3.506633429103471, , , , 168038, False, 
+##[group]Run actions/checkout@v4, 2.840054797756955, , , , 145678, False, 
+##[group]Checking out the ref, 1.6123096963822805, , , , 24147, False, 
+##[group]Setting up auth, 1.484121498046412, , , , 76670, False, 
+##[group]Cleaning the repository, 1.458483858379238, , , , 74981, False, 
+##[group]==END_FILE==, 0.0154419169463176, , , , 4594789, False, 

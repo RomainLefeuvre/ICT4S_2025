@@ -1,0 +1,5 @@
+##[group]GITHUB_TOKEN Permissions, 118.21369213385022, , , , 2338340, False, 
+##[group]Run actions/checkout@v4, 32.92795604883552, , , , 180218, False, 
+##[group]Cleaning the repository, 15.911765685775272, , , , 52852, False, 
+##[group]Fetching the repository, 74.03670504245152, , , , 468402, False, 
+##[group]Run ./gradlew checkTranslations --no-daemon, 557.5768909241556, , , , 48280476, False, 

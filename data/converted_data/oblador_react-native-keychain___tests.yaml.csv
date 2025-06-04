@@ -1,0 +1,25 @@
+Requested labels: self-hosted, 71.22937394650565, , , , 17958901, False, 
+##[group]GITHUB_TOKEN Permissions, 54.18501689651862, , , , 2269314, False, 
+##[group]Run actions/checkout@v2, 5.47806358330692, , , , 192296, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.7816052907428848, , , , 36362, False, 
+##[group]Setting up auth, 2.809987623469168, , , , 70497, False, 
+##[group]Fetching the repository, 11.523773821139503, , , , 428798, False, 
+##[group]Run actions/setup-node@v2, 5.988945572380018, , , , 204179, False, 
+##[group]Run yarn lint, 15.469054753660002, , , , 453387, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==, 88.37899628343374, , , , 22088150, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 7.039539852894426, , , , 2188519, False, 
+##[group]Run actions/checkout@v2__dup_11, 2.738198903797914, , , , 187575, False, 
+##[group]Cleaning the repository, 1.3613377481629712, , , , 11723, False, 
+##[group]Fetching the repository__dup_13, 6.729071703454999, , , , 443627, False, 
+##[group]Run actions/setup-node@v2__dup_14, 2.6450584589660857, , , , 208029, False, 
+##[group]Run yarn flow, 5.228023288044287, , , , 433524, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions__dup_16, 8.150033857805786, , , , 3233486, False, 
+##[group]Run actions/checkout@v2__dup_17, 1.9358655404295124, , , , 184559, False, 
+##[group]Cleaning the repository__dup_18, 0.9330867701438932, , , , 10703, False, 
+##[group]Fetching the repository__dup_19, 3.5000404134364844, , , , 411582, False, 
+##[group]Checking out the ref, 0.8169334365743491, , , , 20601, False, 
+##[group]Run actions/setup-node@v2__dup_21, 1.564174873006972, , , , 196052, False, 
+##[group]Run actions/setup-java@v1, 86.9506110732664, , , , 22729706, True, ##[error]Process completed with exit code 127.
+##[group]Run android-actions/setup-android@v2, 275.86492895943405, , , , 33594619, True, ##[error]Process completed with exit code 127.
+##[group]Run yarn --frozen-lockfile --non-interactive --silent, 3.5786521972476764, , , , 23191, False, 
+##[group]Run yarn test, 15.603659262207032, , , , 509427, False, 

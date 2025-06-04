@@ -1,0 +1,1079 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.56 s (1927.4 files/s 336045.3 lines/s)"
+HTML,/tmp/clone_directory/core/src/documentation/changelog.html,959,0,3095
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactList.java,428,321,1786
+JavaScript,/tmp/clone_directory/core/src/main/resources/themes/prototype-1.4.0.js,289,46,1446
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/gui/LoginUIPanel.java,237,250,1256
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/LoginDialog.java,235,235,1172
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/SipManager.java,232,459,1172
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/StringUtils.java,113,729,1110
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n.properties,31,31,1099
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_nl.properties,31,31,1099
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_ru_RU.properties,31,31,1099
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_uk_UA.properties,67,29,1065
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_pl.properties,28,32,1048
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatContainer.java,206,285,1001
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/GroupChatParticipantList.java,188,96,969
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/CallProcessing.java,136,221,956
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_lt.properties,27,29,946
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/local/LocalPreferences.java,280,309,931
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/ConferenceRoomBrowser.java,179,99,889
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/rooms/GroupChatRoom.java,153,194,878
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/PluginManager.java,118,175,873
+HTML,/tmp/clone_directory/core/src/documentation/spark guide/Spark.default.properties.guide.html,199,565,871
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_it.properties,24,28,871
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_zh_TW.properties,22,28,866
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_zh_CN.properties,1,27,853
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_de.properties,15,28,846
+XML,/tmp/clone_directory/distribution/src/installer/spark.install4j,0,0,846
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_fr.properties,18,45,828
+HTML,/tmp/clone_directory/core/src/documentation/sparkplug_dev_guide.html,218,0,783
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_pt_BR.properties,18,33,780
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_fi.properties,14,26,749
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_es.properties,16,30,747
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_ko.properties,15,27,743
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoom.java,201,378,734
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_ky.properties,1,27,729
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/SoftPhoneManager.java,204,295,697
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_tr.properties,15,30,688
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactGroup.java,165,246,667
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui/ReceiveFileTransfer.java,108,70,651
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/rooms/ChatRoomImpl.java,145,147,604
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/viewer/PluginViewer.java,113,63,601
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/transcripts/HistoryTranscript.java,81,99,600
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_sv.properties,13,27,594
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/MainWindow.java,144,175,592
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_cs.properties,16,26,587
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ChatManager.java,101,284,567
+Properties,/tmp/clone_directory/core/src/main/resources/i18n/spark_i18n_ja.properties,17,26,565
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/Workpane.java,150,60,560
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/status/StatusBar.java,125,69,556
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/filetransfer/SparkTransferManager.java,117,128,532
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/BookmarksUI.java,104,91,532
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/VCardManager.java,120,218,526
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/tabbedPane/SparkTabbedPane.java,107,33,515
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/RosterDialog.java,126,75,510
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/JmfMediaManager.java,87,161,506
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/updater/CheckUpdates.java,108,97,492
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/RegisterProcessing.java,82,125,471
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/GraphicUtils.java,90,329,446
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/emoticons/EmoticonManager.java,73,157,434
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/status/CustomMessages.java,113,31,433
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/systray/SysTrayPlugin.java,82,29,426
+XML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/gui/LoginUIPanel.form,6,0,407
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/CertificateController.java,77,155,407
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/alerts/SparkToaster.java,150,173,406
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/resource/SparkRes.java,20,18,402
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/gui/SparkToaster.java,113,171,397
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/ThemePanel.java,103,65,390
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/components/JavaMixer.java,66,34,388
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/ConferenceServices.java,88,59,384
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/alerts/BroadcastPlugin.java,82,70,384
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/CertificateModel.java,74,17,379
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactItem.java,78,170,378
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/VCardEditor.java,82,86,365
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/TranscriptWindow.java,60,146,364
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/PrivacyManager.java,75,73,364
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JavaMixer.java,64,33,359
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/NonRosterPanel.java,107,52,356
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/scratchpad/ScratchPadPlugin.java,111,100,349
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/CertificateDialog.java,46,12,342
+XML,/tmp/clone_directory/emoticons/src/main/POPO.adiumemoticonset/Emoticons.plist,0,1,338
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/RosterMemberPanel.java,105,62,338
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/InvitationDialog.java,66,24,335
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/Workspace.java,82,124,334
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/CallManager.java,82,58,334
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/UserManager.java,63,134,330
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/alerts/BroadcastDialog.java,56,41,330
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui/SendFileTransfer.java,57,25,326
+HTML,/tmp/clone_directory/core/src/documentation/LICENSE.html,58,0,323
+Properties,/tmp/clone_directory/core/src/main/resources/spark.properties,25,19,323
+Java,/tmp/clone_directory/plugins/meet/src/main/java/org/jivesoftware/spark/plugin/ofmeet/SparkMeetPlugin.java,93,25,321
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/UserInvitationPane.java,92,49,319
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/SIPConfig.java,132,24,313
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/CallHistoryUI.java,83,28,310
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyListTree.java,70,67,305
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/internal/WorkgroupManager.java,76,41,305
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/Table.java,70,125,300
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/simple/MessageProcessing.java,51,100,299
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/gui/RoarPreferencePanel.java,83,33,298
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/resources/FastpathRes.java,17,16,295
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/SparkTrustManager.java,52,133,294
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/chat/ContactListAssistantPlugin.java,58,45,293
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/FastpathPlugin.java,74,27,292
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatArea.java,67,84,291
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/invite/WorkgroupInvitationDialog.java,61,67,290
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/AgentConversations.java,64,29,290
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/phonebook/ui/PhonebookUI.java,42,17,284
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/JiveSortableTable.java,59,119,282
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactInfoWindow.java,70,35,282
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/ReversiModel.java,26,134,281
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/OnlineAgents.java,70,26,277
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Template.html,75,0,276
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/history/HistoryWindow.java,61,7,275
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/temp.html,76,0,275
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/SubscriptionDialog.java,66,36,274
+Maven,/tmp/clone_directory/core/pom.xml,14,0,273
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/sounds/SoundPreference.java,80,27,273
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/UIComponentRegistry.java,44,192,272
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/TransportCandidate.java,62,183,270
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayPlugin.java,44,30,269
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/AccountCreationWizard.java,61,88,268
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/assistants/CoBrowser.java,74,56,265
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/spark/phone/PhoneManager.java,65,37,265
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/MessageEntry.java,47,112,264
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/CurrentActivity.java,58,30,263
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/layout/LayoutSettingsManager.java,49,48,262
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/ContactDialControl.java,67,28,262
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/transcripts/ChatTranscriptPlugin.java,66,28,260
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/OutgoingCall.java,70,56,255
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/CertificatesManagerSettingsPanel.java,59,11,252
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JinglePlugin.java,66,49,250
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/plugin/phone/PhonePlugin.java,65,27,250
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayTabItem.java,55,30,246
+XML,/tmp/clone_directory/emoticons/src/main/sparkEmoticonSet/Emoticons.plist,5,0,246
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/VideoChannel.java,62,56,246
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/ReversiPlugin.java,48,114,245
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactGroupTransferHandler.java,53,23,242
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/IdentityController.java,50,34,241
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/MutualAuthenticationSettingsPanel.java,45,4,240
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/history/ConversationHistoryPlugin.java,57,46,239
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/chat/ChatPreferencePanel.java,47,45,239
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/ConferenceUtils.java,44,106,237
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/Spark.java,73,124,235
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/DataFormDialog.java,33,25,235
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/preference/media/MediaPreferencePanel.java,56,21,235
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/ProxyLoginSettingsPanel.java,42,39,234
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/impl/MyOtrKeyManager.java,59,86,233
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/SsoLoginSettingsPanel.java,29,9,230
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/JContactItemField.java,57,42,229
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/ReversiPanel.java,48,97,227
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/JoinRoomSwingWorker.java,27,27,224
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/main.css,62,3,224
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/scheduler/Timer.java,41,321,220
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/resource/Default.java,31,30,219
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/MessageDialog.java,53,110,218
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/fastpath.properties,15,11,218
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/Call.java,66,75,218
+Java,/tmp/clone_directory/plugins/systemtray/src/main/java/org/jivesoftware/spark/plugins/SparkSystemTray.java,71,54,217
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/ApplePlugin.java,59,26,216
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/AvatarPanel.java,43,77,215
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JingleRoom.java,72,56,214
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/preferences/SipCodecs.java,57,36,214
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/GeneralLoginSettingsPanel.java,30,11,213
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/InvitationPane.java,49,26,213
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/history/FrequentContactsPlugin.java,57,40,212
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/IncomingCall.java,59,57,212
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/search/users/UserSearchResults.java,41,40,205
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/impl/OTRSession.java,36,30,205
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/local/LocalPreferencePanel.java,53,88,204
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/VCardPanel.java,59,26,203
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/internal/WorkgroupDataForm.java,32,31,203
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/RoomCreationDialog.java,38,32,201
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/URLFileSystem.java,43,295,201
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/search/users/UserSearchForm.java,54,52,201
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/NetworkAddressManager.java,71,101,198
+HTML,/tmp/clone_directory/core/src/documentation/README.html,34,0,197
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/transfer/TransferGroupUI.java,54,42,192
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/TicTacToePlugin.java,50,43,192
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/SipSecurityManager.java,57,116,190
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/VCardViewer.java,54,31,189
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/calllog/LogManagerImpl.java,49,33,189
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/jabber/JabberBrowser.java,39,17,186
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/MissedCalls.java,45,39,184
+XML,/tmp/clone_directory/core/src/main/resources/META-INF/plugins.xml,0,12,183
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationAlertUI.java,53,25,182
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/assistants/Notes.java,43,32,182
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/BusinessPanel.java,51,16,181
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/CertManager.java,24,72,175
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatPrinter.java,30,179,173
+XML,/tmp/clone_directory/emoticons/src/main/GTalk.AdiumEmoticonset/Emoticons.plist,9,0,173
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/preferences/SipPreference.java,49,25,173
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/sipaccount/SipAccountPacket.java,39,52,173
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/SparkManager.java,46,197,172
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/search/SearchService.java,41,18,172
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/IncomingCallUI.java,53,30,172
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/list/SparkPrivacyList.java,46,107,171
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/transcripts/ChatTranscripts.java,39,69,171
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/panes/CollapsibleTitlePane.java,50,30,170
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatFrame.java,48,71,170
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/SoftPhonePlugin.java,43,68,170
+Text,/tmp/clone_directory/LICENSE.txt,32,0,169
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/DataFormUI.java,20,31,168
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyAddDialogUI.java,45,37,168
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/chat/PresenceChangePlugin.java,42,25,166
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/ChatHistory.java,44,22,166
+Properties,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/lafs/SparkLightLaf.properties,109,61,165
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/uri/UriManager.java,29,80,165
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/gui/GuiManager.java,40,133,165
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/TransferProcessing.java,41,34,161
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayButton.java,27,29,159
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/ChatQueue.java,40,16,159
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/RoarProperties.java,47,45,159
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/OutgoingCallUI.java,47,29,158
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/JiveTable.java,32,34,157
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/PresenceManager.java,35,67,156
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/TransportRegistrationDialog.java,37,30,155
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/IncomingCallUI.java,56,32,154
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/AudioChannel.java,41,49,153
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/PasswordDialog.java,25,53,152
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/bookmarks/BookmarkPlugin.java,38,39,152
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationPlugin.java,40,36,152
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/scratchpad/Tasks.java,39,52,151
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/search/ChatSearch.java,40,19,150
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/pref/OTRPrefPanel.java,37,6,149
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/viewer/SparkPlugUI.java,35,20,147
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_pt_BR.properties,12,4,146
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationsUI.java,46,20,145
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/macros/MacrosEditor.java,34,23,145
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n.properties,15,1,145
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_es.properties,15,1,145
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_pt_PT.properties,15,1,145
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_ru_RU.properties,15,1,145
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/preferences/SipPreferencePanel.java,53,113,145
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/plugin/phone/JMFInit.java,35,102,144
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/VerticalFlowLayout.java,26,117,143
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/local/SettingsManager.java,27,39,143
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/phonebook/PhonebookManager.java,31,28,143
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/GroupChatInvitationUI.java,35,32,142
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/HomePanel.java,44,16,142
+Properties,/tmp/clone_directory/core/src/main/resources/default.properties,52,180,142
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/ModelUtil.java,47,193,141
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/SessionManager.java,43,116,140
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/search/users/UserSearchService.java,25,32,140
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/SipCommRouter.java,12,53,140
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/ConversationInvitation.java,41,34,139
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_de.properties,15,1,139
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_pl.properties,15,1,139
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/PreviousConversationPanel.java,58,28,138
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/FileDragLabel.java,28,19,137
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/BroadcastHistoryFrame.java,20,19,137
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/TransportUtils.java,26,62,137
+Properties,/tmp/clone_directory/plugins/fastpath/src/main/resources/i18n/fastpath_i18n_lt.properties,14,0,137
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/PhonePad.java,43,26,137
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/RoomBrowser.java,38,19,136
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/simple/GenericURI.java,48,131,136
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/ui/GamePanel.java,45,30,136
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/jabber/JabberVersion.java,29,20,134
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/DialSoundManager.java,26,26,134
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/chat/ChatPreference.java,25,23,133
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/TelephoneTextField.java,47,54,133
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckerPreferenceDialog.java,30,18,133
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/CheckRenderer.java,18,39,132
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/PluginClassLoader.java,17,54,131
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatInputEditor.java,34,48,131
+Java,/tmp/clone_directory/plugins/fileupload/src/main/java/org/jivesoftware/spark/plugin/fileupload/ChatRoomDecorator.java,24,16,131
+Java,/tmp/clone_directory/plugins/meet/src/main/java/org/jitsi/util/OSUtils.java,24,35,129
+Java,/tmp/clone_directory/plugins/transferguard/src/main/java/org/jivesoftware/spark/plugins/transfersettings/TransferSettingsPanel.java,28,26,129
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/list/PrivacyPresenceHandler.java,18,15,128
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/PreferencesPanel.java,22,37,128
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/ConferenceServiceBrowser.java,21,19,127
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/UserIdlePlugin.java,35,39,127
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/filetransfer/ChatRoomTransferDecorator.java,25,19,126
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/LoginSettingDialog.java,18,45,126
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/invite/WorkgroupRosterTree.java,29,33,124
+CSS,/tmp/clone_directory/core/src/documentation/style.css,1,0,123
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/logic/GameBoard.java,25,24,122
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckChatRoomDecorator.java,28,19,122
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/preferences/SipPreferences.java,38,24,120
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/history/HistoryMessage.java,28,44,119
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/ColorSettingManager.java,34,56,119
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/ChatViewer.java,25,25,119
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/PhoneControl.java,35,23,119
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/GameBoard.java,46,43,119
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/test.html,25,17,118
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/assistants/UserHistory.java,31,21,117
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationsPreference.java,26,24,116
+HTML,/tmp/clone_directory/core/src/documentation/ide-intellij-setup.html,11,0,115
+Java,/tmp/clone_directory/plugins/transferguard/src/main/java/org/jivesoftware/spark/plugins/transfersettings/FileTransferSettings.java,29,80,115
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/basestyle.css,22,0,114
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/VideoReceiver.java,40,35,114
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/components/DialButton.java,40,20,114
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/transfer/TransferManager.java,34,32,114
+HTML,/tmp/clone_directory/core/src/documentation/ide-vscode-setup.html,8,0,113
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/BattleshipPlugin.java,33,0,113
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/phone.properties,7,8,113
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/ContactDetailsPanel.java,29,26,113
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/panes/CollapsiblePane.java,29,32,112
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/search/users/SearchForm.java,28,23,112
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/SipCommHop.java,21,97,112
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/phonebook/ui/EntryFrame.java,16,2,112
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/RosterTree.java,30,30,111
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/PublicPlugin.java,32,15,111
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/ColorPick.java,41,39,111
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/SecurityLoginSettingsPanel.java,27,32,110
+Java,/tmp/clone_directory/plugins/growl/src/main/java/com/jivesoftware/spark/plugin/growl/GrowlTalker.java,18,31,110
+Maven,/tmp/clone_directory/pom.xml,11,10,110
+HTML,/tmp/clone_directory/core/src/documentation/ide-eclipse-setup.html,9,0,109
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/alerts/BuzzPlugin.java,21,20,109
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/manager/Enterprise.java,17,42,109
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/template.html,17,0,109
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/ui/OTRConnectionPanel.java,24,19,109
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/OIDTranslator.java,6,0,108
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/PemHelper.java,23,23,108
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/assistants/ChatMacroMenu.java,28,34,108
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/internal/FormUtils.java,24,72,107
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/OTRManager.java,24,31,107
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/AudioMediaSession.java,32,99,107
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/sipaccount/SipAccount.java,47,15,107
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/LookAndFeelManager.java,22,48,106
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/emoticons/EmoticonPlugin.java,28,30,106
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/scratchpad/TaskUI.java,38,18,106
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/VideoMediaSession.java,29,99,106
+Java,/tmp/clone_directory/plugins/meet/src/main/java/de/mxro/process/internal/Engine.java,43,21,105
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/components/CallPanelButton.java,34,20,105
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/PersonalPanel.java,34,20,104
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/updater/SparkVersion.java,29,27,104
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/assistants/RoomInformation.java,35,16,104
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/TaskEngine.java,24,200,103
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/internal/FormText.java,32,15,103
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ReconnectPanel.java,25,39,102
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/AnswerFormDialog.java,28,37,102
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/template.html,19,0,101
+HTML,/tmp/clone_directory/core/src/main/resources/themes/template.html,18,0,101
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/components/SnapWindow.java,38,20,101
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/InputDialog.java,24,53,100
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/alerts/InputTextAreaDialog.java,24,55,100
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/RosterPickList.java,32,35,99
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/PreferenceDialog.java,21,18,99
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/BottomRight.java,35,7,99
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/JoinConferenceRoomDialog.java,28,21,98
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/SparkExceptionsTrustManager.java,24,40,98
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/JiveTreeNode.java,31,113,97
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/scratchpad/PrivateNotes.java,28,44,97
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/groupchat/GroupChatPreference.java,26,23,97
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/CallPanelButton.java,33,20,97
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ImageSelectionPanel.java,19,18,96
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/BannedUsers.java,16,37,96
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/scratchpad/TaskNotification.java,24,17,96
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/sounds/SoundPlugin.java,29,18,96
+Java,/tmp/clone_directory/plugins/fileupload/src/main/java/org/jivesoftware/spark/plugin/fileupload/SparkFileUploadPlugin.java,37,16,96
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomTransferHandler.java,23,23,95
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/groupchat/GroupChatPreferencePanel.java,32,22,95
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/layout_alternate_left.css,1,0,95
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/AudioFormatUtils.java,8,20,95
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/JMultilineLabel.java,15,15,94
+Properties,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/jingle.properties,9,8,94
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/filetransfer/preferences/FileTransferPreference.java,24,18,93
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ShakeWindow.java,24,24,93
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/GroupChatRoomListener.java,34,20,93
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/PreviousConversationPanel.java,54,52,93
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/local/LocalPreference.java,24,22,92
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckManager.java,22,15,92
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayPrivateData.java,23,20,91
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/layout_alternate_right.css,1,0,91
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashWindow.java,15,28,90
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/TopRight.java,30,7,90
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/components/RosterMemberCallButton.java,31,20,90
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/Gateway.java,26,36,89
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/PrivacyPlugin.java,25,28,89
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/components/EndCallButton.java,30,20,89
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/components/RedialButton.java,30,20,89
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/bookmarks/BookmarkItem.java,21,17,88
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n.properties,1,27,88
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_lt.properties,1,27,88
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_pl.properties,1,27,88
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_pt_BR.properties,1,27,88
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/preference/PreferenceManager.java,27,31,87
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/jabber/VersionViewer.java,26,19,87
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Demo.html,4,0,87
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_de.properties,1,27,87
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_it.properties,1,27,87
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_nl.properties,1,27,87
+Properties,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_zh_TW.properties,1,27,87
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/RawPacketSender.java,27,26,86
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/RosterTreeCellRenderer.java,24,21,86
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/layout/LayoutSettings.java,22,15,86
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/packet/InvalidMove.java,18,0,86
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/packet/MovePacket.java,17,21,86
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/DroppableFrame.java,21,32,85
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/ThemePreference.java,24,17,85
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/ColorUtil.java,37,97,85
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/GameOffer.java,17,46,85
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/components/RoundLabel.java,33,46,85
+XML,/tmp/clone_directory/core/src/assembly/installation-directory.xml,7,1,84
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/QueueActivity.java,21,21,84
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/gui/GUI.java,32,18,83
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/AgentConversation.java,28,21,83
+Java,/tmp/clone_directory/plugins/meet/src/main/java/org/jivesoftware/spark/plugin/ofmeet/SparkMeetPreference.java,23,15,83
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/Tree.java,20,67,82
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/RosterMemberCallButton.java,30,20,82
+Ant,/tmp/clone_directory/plugins/sip/build/build.xml,18,1,82
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/SoftPhoneTabHandler.java,20,34,82
+Ant,/tmp/clone_directory/plugins/spelling/build/build.xml,18,1,82
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/ImageTitlePanel.java,22,66,81
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/TitlePanel.java,25,49,81
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/borders/ComponentTitledBorder.java,14,15,81
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/CheckTree.java,16,29,80
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/history/AbstractHistoryFile.java,22,10,80
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/listener/ChatRoomOpeningListener.java,26,2,80
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/types/Ship.java,16,29,80
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/calllog/LogPacket.java,22,48,80
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckerPreference.java,23,29,80
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/history/XMLHistoryFile.java,20,14,79
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/gui/RoarPanel.java,20,66,79
+Java,/tmp/clone_directory/plugins/translator/src/main/java/org/jivesoftware/spark/translator/TranslatorPreferencePanel.java,20,0,79
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/SparkCompatibility.java,15,43,78
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/SwingWorker.java,24,63,78
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashingPreference.java,21,15,78
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/packet/GameOfferPacket.java,16,45,78
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/renderer/JLabelIconRenderer.java,14,24,77
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/filetransfer/preferences/FileTransferPreferencePanel.java,27,20,77
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/ColorPreferencePanel.java,43,29,77
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/alerts/BuzzRoomDecorator.java,16,21,77
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui/TransferUtils.java,19,61,77
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/invite/InvitationManager.java,17,47,77
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/util/RequestUtils.java,21,43,77
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/AudioReceiver.java,28,35,77
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/preferences/SipCodecsPreference.java,20,0,77
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/QueueItem.java,23,21,76
+Ant,/tmp/clone_directory/plugins/jingle/build/build.xml,17,1,76
+Java,/tmp/clone_directory/plugins/meet/src/main/java/de/mxro/process/Spawn.java,26,27,76
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/MessageDigestAlgorithm.java,21,67,76
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/assistants/UserHistoryItem.java,20,21,75
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/AudioReceiverChannel.java,13,48,75
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/ui/GameBoardPanel.java,29,30,75
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/SoundManager.java,19,50,74
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/sounds/SoundPreferences.java,25,16,74
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/search/ChatSearchResult.java,24,15,74
+Ant,/tmp/clone_directory/plugins/otr/build/build.xml,22,1,74
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/GameMove.java,15,45,74
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ButtonFactory.java,21,16,73
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/ConfirmDialog.java,21,49,73
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/decorator/DefaultTabHandler.java,20,27,73
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/util/OTRProperties.java,22,15,73
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/preference/media/MediaPreference.java,17,15,73
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/RoarMessageListener.java,21,25,73
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/calllog/CallLog.java,29,24,73
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/log/Log.java,19,62,72
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/RoarPreference.java,23,21,72
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckerPreferences.java,23,16,72
+Java,/tmp/clone_directory/plugins/transferguard/src/main/java/org/jivesoftware/spark/plugins/transfersettings/FileTransferSettingsPlugin.java,16,52,72
+Java,/tmp/clone_directory/plugins/translator/src/test/java/com/jivesoftware/spark/translator/TestTranslator.java,20,19,72
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/RosterNode.java,23,37,71
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyTreeNode.java,22,104,71
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/transcripts/ChatTranscript.java,13,58,71
+Maven,/tmp/clone_directory/distribution/pom.xml,8,0,71
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/ConversationItem.java,22,21,71
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/Interlocutor.java,20,32,71
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/ApplePreference.java,19,22,70
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/HistoryItem.java,20,21,70
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/PluginRes.java,19,15,69
+Java,/tmp/clone_directory/plugins/meet/src/main/java/de/mxro/process/internal/StreamReader.java,22,8,69
+Java,/tmp/clone_directory/plugins/translator/src/main/java/org/jivesoftware/spark/translator/TranslatorPreference.java,19,0,69
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/UserSettings.java,15,15,68
+Java,/tmp/clone_directory/plugins/fileupload/src/main/java/org/jivesoftware/spark/plugin/fileupload/UploadRequest.java,14,18,68
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/CallDispatcher.java,13,32,68
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/login/GSSAPIConfiguration.java,14,21,67
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/windows/WinLockListener.java,19,35,67
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/language/LanguagePlugin.java,18,23,67
+Java,/tmp/clone_directory/plugins/translator/src/main/java/org/jivesoftware/spark/translator/TranslatorProperties.java,23,6,67
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/search/SearchManager.java,18,54,66
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/InviteSwingWorker.java,9,6,66
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green.css,27,2,66
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Green.css,27,2,66
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green.css,29,2,66
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green.css,28,2,66
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/gui/GameboardGUI.java,24,15,66
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/packets/MoveAnswerPacket.java,27,21,66
+Java,/tmp/clone_directory/plugins/translator/src/main/java/org/jivesoftware/spark/translator/TranslatorPlugin.java,19,46,66
+HTML,/tmp/clone_directory/plugins/translator/src/main/resources/changelog.html,11,0,66
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ReconnectPanelIcon.java,20,25,65
+Maven,/tmp/clone_directory/plugins/plugin/pom.xml,6,0,65
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/VoiceMail.java,29,15,65
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/CheckNode.java,21,89,64
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/TimeTrackingLabel.java,21,36,64
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/TreeFolder.java,27,16,64
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashingPreferenceDialog.java,20,16,64
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/plugin/phone/DialPanel.java,23,15,64
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/launcher/Installer.java,23,32,63
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/ext/VCardUpdateExtension.java,16,15,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red.css,24,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Red.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue.css,25,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel.css,28,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue.css,27,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red.css,24,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow.css,27,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red.css,26,2,63
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel.css,26,2,63
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/preferences/AudioPreferenceDialog.java,22,20,63
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/AutoCompleteDocument.java,10,22,62
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/JiveTreeCellRenderer.java,21,25,62
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/history/HistoryEntry.java,17,29,62
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/GeneralTrustManager.java,14,24,62
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/emoticons/EmoticonUI.java,30,24,62
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/AppleBounce.java,14,41,62
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/IconTextField.java,17,55,61
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/TransportItem.java,20,18,61
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/ext/JabberAvatarExtension.java,16,15,61
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/layout_all.css,1,0,61
+HTML,/tmp/clone_directory/core/src/documentation/sparkplug_compile.html,22,0,60
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/bookmarks/BookmarkUI.java,17,17,60
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/RegistrationStatusPanel.java,17,27,60
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/LinkLabel.java,17,34,59
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JingleTabHandler.java,20,37,59
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/pref/OTRPreferences.java,21,11,59
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/GameForfeit.java,14,28,59
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/TreeItem.java,27,15,58
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/SparkSSLSocketFactory.java,16,18,58
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/manager/Features.java,17,21,58
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/defaults.css,8,0,58
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/browser/EmbeddedBrowserViewer.java,13,31,57
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyPreferences.java,19,18,57
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/AppleProperties.java,19,25,57
+HTML,/tmp/clone_directory/plugins/systemtray/src/main/resources/readme.html,8,0,57
+HTML,/tmp/clone_directory/plugins/transferguard/src/main/resources/readme.html,8,0,57
+HTML,/tmp/clone_directory/plugins/translator/src/main/resources/readme.html,8,0,57
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/tabbedPane/SparkTab.java,17,15,56
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/GroupChatRoomTransferHandler.java,14,24,56
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/layout_left.css,1,0,56
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/search/SearchItem.java,18,21,56
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/plugin/phone/IncomingCall.java,19,15,56
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/RecentCallsPanel.java,22,23,56
+HTML,/tmp/clone_directory/plugins/transferguard/src/main/resources/changelog.html,10,0,56
+Java,/tmp/clone_directory/plugins/growl/src/main/java/com/jivesoftware/spark/plugin/growl/GrowlMessageListener.java,12,27,55
+Java,/tmp/clone_directory/plugins/meet/src/main/java/org/jivesoftware/spark/plugin/ofmeet/ChatRoomDecorator.java,17,15,55
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/impl/OTREngineHost.java,14,6,55
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/pref/OTRKeyTable.java,23,23,55
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ChatAreaSendField.java,26,34,54
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/borders/PartialLineBorder.java,11,20,54
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/PluginDependency.java,12,5,54
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyTreeCellRenderer.java,24,24,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_orange_alternate_left.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_orange_alternate_right.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_orange_left.css,5,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_orange_right.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_purple_alternate_left.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_purple_alternate_right.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_purple_left.css,5,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/green_blue_purple_right.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/red_blue_purple_alternate_left.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/red_blue_purple_alternate_right.css,4,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/red_blue_purple_left.css,5,0,54
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/red_blue_purple_right.css,4,0,54
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/SparkToasterHandler.java,23,8,54
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/Restarter.java,18,45,53
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/Encryptor.java,14,23,53
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/RolloverButton.java,19,38,52
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/layout_right.css,1,0,52
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashingPreferences.java,16,16,52
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/TranscriptAlert.java,19,15,51
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/layout/LayoutPlugin.java,12,16,51
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/ApplePreferencePanel.java,23,17,51
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/FastpathTabHandler.java,18,26,51
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/components/RectangleButton.java,18,21,51
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/ImageCombiner.java,16,45,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/AIMTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/FacebookTransport.java,15,15,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/GTalkTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/GaduGaduTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/ICQTransport.java,17,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/IRCTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/MSNTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/MySpaceTransport.java,14,15,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/QQTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/SametimeTransport.java,14,15,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/SimpleTransport.java,16,17,50
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/XMPPTransport.java,16,17,50
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/callhistory/HistoryCall.java,22,17,50
+SVG,/tmp/clone_directory/.idea/icon.svg,0,0,49
+Markdown,/tmp/clone_directory/README.md,21,0,49
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/linux/LinuxIdleTime.java,11,9,49
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/viewer/PluginRenderer.java,11,21,49
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/spark/plugin/phone/resource/PhoneRes.java,13,20,49
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/ui/PlayerDisplay.java,17,27,49
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ReconnectPanelSmall.java,13,27,48
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/StringTransferHandler.java,11,19,48
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/ResourceUtils.java,14,68,48
+XML,/tmp/clone_directory/core/src/main/resources/Info.plist,2,5,48
+HTML,/tmp/clone_directory/plugins/systemtray/src/main/resources/changelog.html,8,0,48
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/launcher/Startup.java,14,37,47
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/NativeManager.java,13,45,47
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/HTMLViewer.java,16,49,47
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/TranscriptWindowEntry.java,10,57,47
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/UnrecognizedServerCertificatePanel.java,16,0,47
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/YahooTransport.java,15,17,47
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/macros/MacroPanel.java,20,38,47
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/CustomTextEntry.java,8,24,46
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/AlertManager.java,11,21,46
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/MessageEvent.java,9,17,46
+Java,/tmp/clone_directory/plugins/transferguard/src/main/java/org/jivesoftware/spark/plugins/transfersettings/TransferSettingsPreference.java,15,73,46
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/focus/SpecifiedOrderFocusTraversalPolicy.java,9,15,45
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/Downloads.java,10,43,45
+Java,/tmp/clone_directory/core/src/main/resources/i18n/CompareLocales.java,20,20,45
+Velocity Template Language,/tmp/clone_directory/core/src/main/resources/macros/TurbineMacros.vm,4,62,45
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/packets/MovePacket.java,20,21,45
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/components/CloseButton.java,17,20,45
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/ByteFormat.java,9,46,44
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/FastpathContainer.java,18,18,44
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/plugin/phone/OnPhone.java,17,19,44
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/SystemNotification.java,11,7,44
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/GenericNotification.java,16,40,43
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/resource/Res.java,11,20,41
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/resource/UTF8Control.java,2,2,41
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/SparkTabHandler.java,9,24,41
+Maven,/tmp/clone_directory/emoticons/pom.xml,4,15,41
+Java,/tmp/clone_directory/plugins/reversi/src/main/java/org/jivesoftware/game/reversi/ReversiRes.java,14,0,41
+Maven,/tmp/clone_directory/plugins/translator/pom.xml,7,0,41
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/resource/ConfigurationRes.java,9,15,40
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/Scheduler.java,16,79,40
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/SoftPhoneMedia.java,11,28,40
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/packets/GameOfferPacket.java,12,45,39
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/CallHistoryRenderer.java,10,24,39
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/EmoticonPanel.java,13,27,38
+XML,/tmp/clone_directory/distribution/src/assembly/basic-distribution.xml,3,10,38
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/AppleDock.java,15,19,38
+YAML,/tmp/clone_directory/.transifex.yml,0,0,37
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/resource/SoundsRes.java,9,15,37
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/MainThemePanel.java,13,20,37
+Maven,/tmp/clone_directory/plugins/systemtray/pom.xml,6,0,37
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/Mark.java,9,21,37
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/ScrollPaneWatermark.java,11,19,36
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/chat/ChatArgumentsPlugin.java,10,16,36
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/SettingsData.java,13,15,36
+Bourne Shell,/tmp/clone_directory/core/src/main/resources/startup.sh,11,1,36
+Java,/tmp/clone_directory/core/src/test/java/org/jivesoftware/spark/plugin/PluginDependencyTest.java,7,0,36
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JingleStateManager.java,16,59,36
+Maven,/tmp/clone_directory/plugins/reversi/pom.xml,5,0,36
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/browser/BrowserViewer.java,12,46,35
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/renderer/JPanelRenderer.java,11,24,35
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/renderer/ListIconRenderer.java,8,24,35
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/TopLabel.java,11,17,35
+Maven,/tmp/clone_directory/plugins/spelling/pom.xml,6,0,35
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/DataManager.java,12,31,34
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/renderer/JContactItemRenderer.java,6,23,34
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/StartOfDayEntry.java,9,24,34
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/rooms/SubjectPanel.java,8,3,34
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/BrowserLauncher.java,6,15,34
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/chat/ShortcutPlugin.java,11,19,34
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/gui/Display.java,15,20,34
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/FastpathPanelRenderer.java,10,18,34
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashingHandler.java,9,15,34
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/Log.java,14,18,34
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/Credentials.java,10,45,34
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/CheckBoxList.java,6,34,33
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/ColorSettings.java,15,19,33
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/emoticons/Emoticon.java,12,43,33
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/transcripts/HistoryMessage.java,12,15,33
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/message_common.css,1,0,33
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/FpRes.java,12,17,33
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/BackgroundPane.java,11,38,33
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/util/OTRResources.java,12,23,33
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/SoftPhoneSecurity.java,6,22,33
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/callhistory/TelephoneUtils.java,13,15,33
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/phonebook/PhoneNumber.java,12,0,33
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/windows/Win32IdleTime.java,9,25,32
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/logic/Shipmodel.java,9,0,32
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/panes/HistoryItemRenderer.java,11,24,32
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/scratchpad/Task.java,12,17,31
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/updater/AcceptAllCertsConnectionManager.java,4,38,31
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/styles/layout_hidden.css,1,0,31
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JinglePhoneRes.java,11,20,31
+Maven,/tmp/clone_directory/plugins/otr/pom.xml,6,0,31
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/preference/PreferenceUI.java,14,16,30
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Incoming/Context.html,0,0,30
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Outgoing/Context.html,0,0,30
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Incoming/Content.html,0,0,30
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Incoming/Context.html,0,0,30
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Outgoing/Context.html,1,0,30
+Maven,/tmp/clone_directory/plugins/apple/pom.xml,6,0,30
+Java,/tmp/clone_directory/plugins/apple/src/main/java/com/jivesoftware/spark/plugin/apple/AppleTest.java,17,63,30
+Maven,/tmp/clone_directory/plugins/growl/pom.xml,6,0,30
+Maven,/tmp/clone_directory/plugins/jingle/pom.xml,6,0,30
+Maven,/tmp/clone_directory/plugins/transferguard/pom.xml,4,0,30
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/launcher/JiveClassLoader.java,6,34,29
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Incoming/Content.html,0,0,29
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Outgoing/Content.html,0,0,29
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/types/Types.java,8,15,29
+Maven,/tmp/clone_directory/plugins/fileupload/pom.xml,5,0,29
+Maven,/tmp/clone_directory/plugins/meet/pom.xml,5,0,29
+Java,/tmp/clone_directory/plugins/meet/src/main/java/org/jivesoftware/spark/plugin/ofmeet/SparkMeetResource.java,7,0,29
+Maven,/tmp/clone_directory/plugins/sip/pom.xml,6,0,29
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/Utils.java,7,17,29
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckerResource.java,8,15,29
+Java,/tmp/clone_directory/plugins/translator/src/main/java/org/jivesoftware/spark/translator/TranslatorResource.java,8,0,29
+XML,/tmp/clone_directory/core/src/documentation/sample_plugin_repository.xml,0,0,28
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/SparkSSLContextCreator.java,8,13,28
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/SettingsDataProvider.java,7,15,28
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/BsRes.java,9,0,28
+Java,/tmp/clone_directory/plugins/growl/src/main/java/com/jivesoftware/spark/plugin/growl/GrowlPlugin.java,6,22,28
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/ControlPanel.java,10,15,28
+Java,/tmp/clone_directory/plugins/jingle/src/main/java/org/jivesoftware/sparkplugin/JingleResources.java,8,15,28
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/simple/ContactUri.java,10,73,28
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/listeners/RegisterEvent.java,13,15,28
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/components/ControlPanel.java,10,20,28
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,7,0,27
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/WrapColumnFactory.java,3,7,27
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Status.html,0,0,27
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/common/scheduler/TimerTask.java,12,105,27
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/SoftPhone.java,19,88,27
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/TTTRes.java,9,21,27
+XSLT,/tmp/clone_directory/core/src/docbook/filter_language.xsl,4,0,26
+XML,/tmp/clone_directory/plugins/assembly-descriptor/src/main/resources/assemblies/spark-plugin.xml,2,1,26
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckerPlugin.java,10,18,26
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/sparklers/SparklersPlugin.java,9,15,25
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/JiveInfo.java,11,15,25
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/CommunicationsException.java,8,27,25
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/ProgressIcon.java,7,25,24
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/RequestFocusListener.java,11,30,24
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/WrapLabelView.java,3,6,24
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/status/CustomStatusItem.java,7,15,24
+Java,/tmp/clone_directory/core/src/test/java/org/jivesoftware/spark/util/JavaVersionTest.java,12,9,24
+Java,/tmp/clone_directory/plugins/otr/src/main/java/org/jivesoftware/spark/otrplug/OTRPlugin.java,14,10,24
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/Roar.java,12,21,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_de.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_fr.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_lt.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_pl.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_pt_PT.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_ru_RU.properties,4,1,24
+Properties,/tmp/clone_directory/plugins/roar/src/main/resources/i18n/roar_i18n_zh_TW.properties,4,1,24
+XSLT,/tmp/clone_directory/core/src/documentation/changes.xsl,4,0,23
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/HorizontalLineEntry.java,5,22,23
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/WindowsFileSystemView.java,14,55,23
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Incoming/filetransfer.html,2,0,23
+Maven,/tmp/clone_directory/plugins/battleships/pom.xml,4,0,23
+Maven,/tmp/clone_directory/plugins/fastpath/pom.xml,4,0,23
+Maven,/tmp/clone_directory/plugins/flashing/pom.xml,4,0,23
+Properties,/tmp/clone_directory/plugins/otr/src/main/resources/i18n/otrplugin_i18n.properties,4,3,23
+Properties,/tmp/clone_directory/plugins/otr/src/main/resources/i18n/otrplugin_i18n_de.properties,4,3,23
+Properties,/tmp/clone_directory/plugins/otr/src/main/resources/i18n/otrplugin_i18n_fr.properties,4,3,23
+Properties,/tmp/clone_directory/plugins/otr/src/main/resources/i18n/otrplugin_i18n_lt.properties,4,3,23
+Properties,/tmp/clone_directory/plugins/otr/src/main/resources/i18n/otrplugin_i18n_pl.properties,4,3,23
+Properties,/tmp/clone_directory/plugins/otr/src/main/resources/i18n/otrplugin_i18n_zh_TW.properties,4,3,23
+Maven,/tmp/clone_directory/plugins/roar/pom.xml,5,0,23
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/CallRejectedEvent.java,9,24,23
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/UnknownMessageEvent.java,6,15,23
+Maven,/tmp/clone_directory/plugins/tictactoe/pom.xml,4,0,23
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/Pair.java,8,21,23
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/internal/LiveTitlePane.java,8,15,22
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/CallStateEvent.java,9,15,22
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/RegistrationEvent.java,9,15,22
+Java,/tmp/clone_directory/plugins/transferguard/src/main/java/org/jivesoftware/spark/plugins/transfersettings/TGuardRes.java,9,5,22
+Java,/tmp/clone_directory/plugins/translator/src/main/java/org/jivesoftware/spark/translator/TranslatorUtil.java,9,18,22
+XML,/tmp/clone_directory/core/src/documentation/spark guide/images/filelist.xml,0,0,21
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomListenerAdapter.java,13,33,21
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/CommandPanel.java,11,26,21
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashingPlugin.java,7,15,21
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/sparkimpl/plugin/phone/PhoneDialog.java,11,16,21
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/RoarPopupHelper.java,5,14,21
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/BackgroundPanel.java,9,22,20
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/SparklerDecorator.java,10,15,20
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/TimeStampedEntry.java,6,22,20
+Java,/tmp/clone_directory/plugins/flashing/src/main/java/org/jivesoftware/spark/plugin/flashing/FlashingResources.java,6,15,20
+Java,/tmp/clone_directory/plugins/spelling/src/main/java/org/jivesoftware/spellchecker/SpellcheckChatRoomListener.java,15,22,20
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatStatePanel.java,5,0,19
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/history/HistoryTreeNode.java,9,7,19
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/mac/MacIdleTime.java,7,10,19
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/RoarResources.java,7,0,19
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/events/UserActionListener.java,16,15,19
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/Backdrop.java,8,20,19
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/WrappedLabel.java,5,23,18
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/preference/Preference.java,14,76,17
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomButton.java,13,37,17
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Incoming/Content.html,0,0,17
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Incoming/Context.html,0,0,17
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Outgoing/Content.html,0,0,17
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Outgoing/Context.html,0,0,17
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Outgoing/filetransfer.html,0,0,17
+Java,/tmp/clone_directory/core/src/test/java/org/jivesoftware/spark/util/EncryptorTest.java,5,0,17
+Maven,/tmp/clone_directory/plugins/assembly-descriptor/pom.xml,3,0,17
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/status/StatusItem.java,7,29,16
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/systray/ChatMessageHandlerImpl.java,2,0,16
+DOS Batch,/tmp/clone_directory/core/src/main/resources/startup.bat,4,1,16
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/MacNotificationCenter.java,10,9,16
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/event/MediaEvent.java,6,15,16
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/CommunicationsListener.java,15,38,16
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/call/PhonePanel.java,11,17,16
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/ConferenceItem.java,7,15,15
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/lafs/SparkIntelliJLaf.java,4,0,15
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/lafs/SparkLightLaf.java,6,9,15
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/themes/lafs/SparkMacLightLaf.java,4,0,15
+XML,/tmp/clone_directory/emoticons/src/assembly/Default.adiumemoticonset.xml,2,15,15
+XML,/tmp/clone_directory/emoticons/src/assembly/GTalk.AdiumEmoticonset.xml,2,15,15
+XML,/tmp/clone_directory/emoticons/src/assembly/POPO.adiumemoticonset.xml,2,15,15
+XML,/tmp/clone_directory/emoticons/src/assembly/sparkEmoticonSet.xml,2,15,15
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/ErrorProcessing.java,6,15,15
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/gui/DefaultGuiManager.java,15,61,15
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/callhistory/CallList.java,5,15,15
+Java,/tmp/clone_directory/plugins/tictactoe/src/main/java/tic/tac/toe/ui/GameEndsUI.java,9,22,15
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/SwingTimerTask.java,3,18,14
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/Transport.java,13,17,14
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/PropertyBundle.java,4,5,14
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/RoarDisplayType.java,9,14,14
+Java,/tmp/clone_directory/plugins/roar/src/main/java/org/jivesoftware/spark/roar/displaytype/WindowsNotification.java,6,0,14
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/events/UserCallControlEvent.java,5,15,14
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/CredentialsCache.java,7,49,14
+Java,/tmp/clone_directory/plugins/systemtray/src/main/java/org/jivesoftware/spark/plugins/SystemTrayPlugin.java,7,7,14
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/SparkStartupListener.java,4,20,13
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactGroupListener.java,10,62,13
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/MediaException.java,4,15,13
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/InterlocutorUI.java,10,38,13
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/gui/GuiCallback.java,12,64,13
+Markdown,/tmp/clone_directory/SECURITY.md,5,0,12
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactListListener.java,7,51,12
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/WrapEditorKit.java,3,6,12
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Status.html,0,0,12
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/alternating.css,4,0,12
+XML,/tmp/clone_directory/plugins/apple/src/main/plugin-metadata/plugin.xml,1,0,12
+XML,/tmp/clone_directory/plugins/battleships/src/main/plugin-metadata/plugin.xml,0,0,12
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/WorkgroupInitializer.java,5,10,12
+XML,/tmp/clone_directory/plugins/fileupload/src/main/plugin-metadata/plugin.xml,0,0,12
+C/C++ Header,/tmp/clone_directory/plugins/flashing/src/main/c/org_jivesoftware_spark_plugin_flashing_FlashWindow.h,2,7,12
+XML,/tmp/clone_directory/plugins/flashing/src/main/plugin-metadata/plugin.xml,0,1,12
+XML,/tmp/clone_directory/plugins/growl/src/main/plugin-metadata/plugin.xml,0,0,12
+XML,/tmp/clone_directory/plugins/jingle/src/main/plugin-metadata/plugin.xml,0,0,12
+XML,/tmp/clone_directory/plugins/meet/src/main/plugin-metadata/plugin.xml,0,0,12
+XML,/tmp/clone_directory/plugins/otr/src/main/plugin-metadata/plugin.xml,0,1,12
+XML,/tmp/clone_directory/plugins/roar/src/main/plugin-metadata/plugin.xml,0,0,12
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/CallEvent.java,6,15,12
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/CredentialsCacheEntry.java,6,42,12
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/listeners/SoftPhoneListener.java,9,46,12
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/calllog/LogManager.java,8,0,12
+XML,/tmp/clone_directory/plugins/sip/src/main/plugin-metadata/plugin.xml,1,1,12
+XML,/tmp/clone_directory/plugins/spelling/src/main/plugin-metadata/plugin.xml,1,1,12
+XML,/tmp/clone_directory/plugins/tictactoe/src/main/plugin-metadata/plugin.xml,0,0,12
+INI,/tmp/clone_directory/.editorconfig,2,0,11
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/browser/BrowserFactory.java,7,29,11
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomPlugin.java,8,47,11
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContainerComponent.java,8,17,11
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/PrivacyException.java,5,18,11
+XML,/tmp/clone_directory/plugins/fastpath/src/main/plugin-metadata/plugin.xml,0,0,11
+Properties,/tmp/clone_directory/plugins/jingle/src/main/resources/i18n/jingle_i18n.properties,1,0,11
+Properties,/tmp/clone_directory/plugins/jingle/src/main/resources/i18n/jingle_i18n_lt.properties,1,0,11
+Properties,/tmp/clone_directory/plugins/jingle/src/main/resources/i18n/jingle_i18n_pl.properties,1,0,11
+Properties,/tmp/clone_directory/plugins/jingle/src/main/resources/i18n/jingle_i18n_zh_CN.properties,2,1,11
+Properties,/tmp/clone_directory/plugins/jingle/src/main/resources/i18n/jingle_i18n_zh_TW.properties,1,0,11
+XML,/tmp/clone_directory/plugins/reversi/src/main/plugin-metadata/plugin.xml,1,1,11
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/event/MediaErrorEvent.java,4,15,11
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/CommunicationsErrorEvent.java,4,15,11
+XML,/tmp/clone_directory/plugins/systemtray/src/main/plugin-metadata/plugin.xml,1,1,11
+Properties,/tmp/clone_directory/plugins/tictactoe/src/main/resources/i18n/tictactoe_i18n.properties,1,4,11
+Properties,/tmp/clone_directory/plugins/tictactoe/src/main/resources/i18n/tictactoe_i18n_de.properties,1,4,11
+Properties,/tmp/clone_directory/plugins/tictactoe/src/main/resources/i18n/tictactoe_i18n_lt.properties,1,4,11
+Properties,/tmp/clone_directory/plugins/tictactoe/src/main/resources/i18n/tictactoe_i18n_nl.properties,1,4,11
+Properties,/tmp/clone_directory/plugins/tictactoe/src/main/resources/i18n/tictactoe_i18n_pt.properties,1,4,11
+Properties,/tmp/clone_directory/plugins/tictactoe/src/main/resources/i18n/tictactoe_i18n_ru_RU.properties,1,4,11
+XML,/tmp/clone_directory/plugins/transferguard/src/main/plugin-metadata/plugin.xml,1,1,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n.properties,1,42,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_fr.properties,1,42,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_lt.properties,1,42,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_pl.properties,1,42,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_pt_PT.properties,1,42,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_ru_RU.properties,1,42,11
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_zh_TW.properties,1,42,11
+XML,/tmp/clone_directory/plugins/translator/src/main/plugin-metadata/plugin.xml,0,1,11
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ChatNotFoundException.java,5,20,10
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/sasl/SASLGSSAPIv3CompatMechanism.java,2,10,10
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomNotFoundException.java,3,20,10
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactItemHandler.java,8,44,10
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/SipSecurityException.java,5,22,10
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/calllog/CallLogExtension.java,8,24,10
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/phonebook/BookManager.java,6,0,10
+Properties,/tmp/clone_directory/plugins/transferguard/src/main/resources/i18n/transferguard_i18n_de.properties,1,42,10
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/panes/ICollapsibleTitlePane.java,6,15,9
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/tabbedPane/SparkTabbedPaneListener.java,9,52,9
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/search/Searchable.java,7,47,9
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomListener.java,9,60,9
+Properties,/tmp/clone_directory/core/src/main/resources/configuration.properties,4,3,9
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Header.html,0,0,9
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Outgoing/NextContent.html,0,0,9
+HTML,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Outgoing/NextContext.html,0,0,9
+C,/tmp/clone_directory/plugins/flashing/src/main/c/org_jivesoftware_spark_plugin_flashing_FlashWindow.c,1,0,9
+Properties,/tmp/clone_directory/plugins/reversi/src/main/resources/reversi.properties,0,0,9
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/NativeHandler.java,6,41,8
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/ContextMenuListener.java,9,37,8
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/RoomInvitationListener.java,4,29,8
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/certificates/CertificateDialogReason.java,1,0,8
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Incoming/NextContent.html,2,0,8
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Outgoing/NextContent.html,1,0,8
+DOS Batch,/tmp/clone_directory/plugins/flashing/src/main/c/compile_dll_with_cygwin.bat,1,1,8
+Markdown,/tmp/clone_directory/plugins/meet/readme.md,3,0,8
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/SipRegisterStatus.java,1,15,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_de.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_es.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_fr.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_lt.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_pl.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_pt_PT.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_ru_RU.properties,1,0,8
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_zh_TW.properties,1,0,8
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/Plugin.java,8,61,7
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/FileDropListener.java,4,28,7
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/list/SparkPrivacyItemListener.java,6,19,7
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/privacy/list/SparkPrivacyListListener.java,8,19,7
+Java,/tmp/clone_directory/plugins/fastpath/src/main/java/org/jivesoftware/fastpath/workspace/FastpathListener.java,4,17,7
+Java,/tmp/clone_directory/plugins/meet/src/main/java/de/mxro/process/ProcessListener.java,6,24,7
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/MainWindowListener.java,5,46,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/panes/BaseCollapsibleTitlePane.java,2,15,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/panes/CollapsiblePaneListener.java,3,21,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/MetadataListener.java,4,17,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/MessageEventListener.java,4,20,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/MessageFilter.java,6,38,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/MessageListener.java,4,38,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/BookmarksListener.java,6,30,6
+Properties,/tmp/clone_directory/plugins/battleships/src/main/resources/i18n/battleships_i18n.properties,1,4,6
+Properties,/tmp/clone_directory/plugins/battleships/src/main/resources/i18n/battleships_i18n_lt.properties,1,5,6
+Java,/tmp/clone_directory/plugins/meet/src/main/java/de/mxro/process/internal/StreamListener.java,1,0,6
+Java,/tmp/clone_directory/plugins/phone/src/main/java/org/jivesoftware/spark/phone/Phone.java,5,23,6
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/media/event/MediaListener.java,3,15,6
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/softphone/listeners/InterlocutorListener.java,5,15,6
+Properties,/tmp/clone_directory/plugins/translator/src/main/resources/i18n/translator_i18n.properties,1,0,6
+Properties,/tmp/clone_directory/plugins/translator/src/main/resources/i18n/translator_i18n_es.properties,1,0,6
+Properties,/tmp/clone_directory/plugins/translator/src/main/resources/i18n/translator_i18n_fr.properties,1,0,6
+Properties,/tmp/clone_directory/plugins/translator/src/main/resources/i18n/translator_i18n_pt_PT.properties,1,0,6
+Properties,/tmp/clone_directory/plugins/translator/src/main/resources/i18n/translator_i18n_ru_RU.properties,1,0,6
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ChatMessageHandler.java,2,0,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/filetransfer/FileTransferListener.java,4,28,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatFrameToFrontListener.java,3,14,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/LinkInterceptor.java,3,26,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/PresenceListener.java,4,25,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/TranscriptWindowInterceptor.java,4,29,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayItem.java,1,6,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/profile/VCardListener.java,3,20,5
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Status.html,0,0,5
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Header.html,0,0,5
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Incoming/NextContext.html,2,0,5
+HTML,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Outgoing/NextContext.html,1,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Red Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Green Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red Alternating.css,2,0,5
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel Alternating.css,2,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n.properties,1,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_de.properties,1,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_fr.properties,1,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_lt.properties,1,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_pl.properties,1,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_ru_RU.properties,1,0,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_zh_CN.properties,2,1,5
+Properties,/tmp/clone_directory/plugins/flashing/src/main/resources/i18n/flashing_i18n_zh_TW.properties,1,0,5
+Java,/tmp/clone_directory/plugins/meet/src/main/java/de/mxro/process/XProcess.java,4,15,5
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/event/CallListener.java,2,38,5
+Java,/tmp/clone_directory/plugins/sip/src/main/java/net/java/sipmack/sip/security/SecurityAuthority.java,2,30,5
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/browser/BrowserListener.java,3,26,4
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/Invokable.java,2,27,4
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ChatRoomClosingListener.java,3,23,4
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/ContactInfoHandler.java,2,24,4
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/Sparkler.java,2,19,4
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/plugin/idle/IdleTime.java,2,0,4
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/sparkimpl/settings/local/PreferenceListener.java,3,25,4
+Properties,/tmp/clone_directory/core/src/main/resources/sounds.properties,0,1,4
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_black.css,0,0,4
+Java,/tmp/clone_directory/plugins/battleships/src/main/java/battleship/types/Direction.java,3,0,4
+Properties,/tmp/clone_directory/plugins/meet/src/main/resources/i18n/sparkmeet_i18n.properties,2,0,4
+Java,/tmp/clone_directory/plugins/sip/src/main/java/org/jivesoftware/sparkplugin/ui/transfer/TransferListener.java,3,23,4
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/browser/package.html,0,0,3
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/CustomPainter.java,21,81,3
+Java,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/GlobalMessageListener.java,1,18,3
+HTML,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Outgoing/NextContext.html,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBO-Left Alternate Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBO-No Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBO-Right Alternate Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBO-Right Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBP-Left Alternate Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBP-Left Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBP-No Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBP-Right Alternate Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/GBP-Right Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/RBP-Left Alternate Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/RBP-Left Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/RBP-No Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/RBP-Right Alternate Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/Variants/RBP-Right Icon.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/Satin.AdiumMessageStyle/Contents/Resources/main.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_blue.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_dark_gray.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_green.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_light_gray.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_red.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/styles/background_yellow.css,0,0,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/noname.css,0,0,3
+Text,/tmp/clone_directory/plugins/sip/build/lib/version.txt,0,0,3
+Properties,/tmp/clone_directory/plugins/spelling/src/main/resources/i18n/spellchecker_i18n_zh_CN.properties,2,1,3
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Variants/Blue Background.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Variants/Dark Gray Background.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Variants/Green Background.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Variants/Light Gray Background.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Variants/Red Background.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/Variants/Yellow Background.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/pin/Contents/Resources/main.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Red No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Red No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Green No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Green No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red No Names.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel No Names Alt.css,0,0,2
+CSS,/tmp/clone_directory/core/src/main/resources/themes/renkoo2.3/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel No Names.css,0,0,2
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/component/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/filetransfer/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/plugin/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/preference/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/search/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/conferences/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/rooms/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/ui/status/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/log/package.html,0,0,1
+HTML,/tmp/clone_directory/core/src/main/java/org/jivesoftware/spark/util/package.html,0,0,1
+Markdown,/tmp/clone_directory/plugins/fileupload/readme.md,1,0,1
+Properties,/tmp/clone_directory/plugins/jingle/src/main/resources/i18n/jingle_i18n_de.properties,0,0,1
+SUM,,26372,32376,129024

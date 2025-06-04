@@ -1,0 +1,36 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (1691.9 files/s 324793.8 lines/s)"
+Markdown,/tmp/clone_directory/LogicalTypes.md,155,18,601
+Markdown,/tmp/clone_directory/Encryption.md,96,18,401
+Thrift,/tmp/clone_directory/src/main/thrift/parquet.thrift,161,703,317
+Markdown,/tmp/clone_directory/BloomFilter.md,54,18,279
+Python,/tmp/clone_directory/dev/merge_parquet_pr.py,77,40,276
+Markdown,/tmp/clone_directory/Encodings.md,82,18,265
+Maven,/tmp/clone_directory/pom.xml,12,24,250
+Markdown,/tmp/clone_directory/README.md,65,18,216
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/InterningProtocol.java,56,25,216
+Markdown,/tmp/clone_directory/CHANGES.md,66,18,188
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/Util.java,31,38,170
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/event/TypedConsumer.java,18,50,138
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/event/Consumers.java,27,54,120
+Markdown,/tmp/clone_directory/PageIndex.md,14,18,69
+Markdown,/tmp/clone_directory/dev/README.md,12,18,63
+Java,/tmp/clone_directory/src/test/java/org/apache/parquet/format/TestUtil.java,6,22,60
+Markdown,/tmp/clone_directory/Compression.md,25,18,58
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/event/EventBasedThriftReader.java,11,64,56
+Bourne Shell,/tmp/clone_directory/changelog.sh,5,18,41
+Bourne Shell,/tmp/clone_directory/dev/source-release.sh,17,24,38
+YAML,/tmp/clone_directory/.github/workflows/test.yml,5,16,33
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/LogicalTypes.java,4,23,31
+Bourne Shell,/tmp/clone_directory/dev/prepare-release.sh,7,18,19
+Text,/tmp/clone_directory/licenses/LICENSE.slf4j.txt,4,0,19
+Bourne Again Shell,/tmp/clone_directory/dev/finalize-release,5,18,18
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,6,0,16
+YAML,/tmp/clone_directory/.github/dependabot.yml,1,18,13
+SVG,/tmp/clone_directory/logo/parquet-logos_2.svg,2,16,13
+SVG,/tmp/clone_directory/logo/parquet-logos_3.svg,2,16,13
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,4,18,9
+make,/tmp/clone_directory/Makefile,4,18,8
+Java,/tmp/clone_directory/src/main/java/org/apache/parquet/format/event/FieldConsumer.java,4,34,7
+SVG,/tmp/clone_directory/logo/parquet-logos_1.svg,2,16,6
+YAML,/tmp/clone_directory/.asf.yaml,0,20,5
+SUM,,1040,1455,4032

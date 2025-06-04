@@ -1,0 +1,7 @@
+##[group]Run mvn test, 348.53621088905163, , , , 41938568, True, ErrorResponse{errors=[ErrorData{tenantId='tenant', timestamp='0', metricName='', source='null', message='No valid metrics'}]}
+##[group]Installed distributions, 141.38164138190228, , , , 13348119, False, 
+##[group]GITHUB_TOKEN Permissions, 49.69287543283486, , , , 2298936, False, 
+##[group]Fetching the repository, 15.440062741577972, , , , 446739, False, 
+##[group]Run actions/checkout@v3, 5.712298723187193, , , , 181870, False, 
+##[group]Setting up auth, 2.933437090500929, , , , 60750, False, 
+##[group]==END_FILE==, 0.4977684861603245, , , , 4573722, False, 

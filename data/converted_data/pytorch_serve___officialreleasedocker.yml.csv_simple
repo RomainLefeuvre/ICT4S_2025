@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,99.0020112845775,4520942,False,
+##[group]Getting Git version info,37.28846561536007,9054532,True,"##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'"
+"##[group]Run docker login --username pytorchbot --password ""$DOCKER_PASSWORD""",13.494622321875518,1265252,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3,0.8209717689859171,126520,False,
+"##[group]Run echo ""Cleaning up previous run""",0.7605853067128319,123375,False,
+Requested labels: self-hosted,0.1150429294674846,3735025,False,

@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean install -DskipTests -q,638.8847198510392,56340908,True,[ERROR[m] MavenReportException: Error while generating Javadoc: 
+##[group]Run mvn -pl '!tests' clean deploy -P central,301.99650090462126,20845355,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.4:sign[m (sign-artifacts)[m on project handlebars.java[m: Exit code: 2[m -> [Help 1][m
+##[group]Installed distributions,80.80788037145722,2219872,False,
+##[group]GITHUB_TOKEN Permissions,41.81020719479033,2355158,False,
+##[group]Fetching the repository,25.312806163111013,869626,False,
+##[group]Run actions/checkout@v3,17.043116587434618,621692,False,
+##[group]==END_FILE==,5.496611997123021,5860099,False,
+##[group]Checking out the ref,3.0224246164908672,109692,False,
+##[group]Setting up auth,2.6026434197560246,130984,False,

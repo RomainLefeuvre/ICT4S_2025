@@ -1,0 +1,7 @@
+##[group]Run ./gradlew assembleDebug checkstyle lintDebug --stacktrace, 57.32528919231683, , , , 30426729, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 18.568457816237657, , , , 1083501, False, 
+##[group]GITHUB_TOKEN Permissions, 5.224720658486369, , , , 1974525, False, 
+##[group]Run actions/checkout@v2, 2.7329857513552427, , , , 193835, False, 
+##[group]Run actions/setup-java@v1, 2.083793919941473, , , , 122284, False, 
+##[group]Checking out the ref, 1.984855844870597, , , , 95099, False, 
+Requested labels: self-hosted, 0.9801987682545222, , , , 6292796, False, 

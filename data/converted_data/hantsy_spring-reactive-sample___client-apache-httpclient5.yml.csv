@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0, , , , 3588442, False, 
+##[group]GITHUB_TOKEN Permissions, 58.62605125730688, , , , 2465809, False, 
+##[group]Run actions/checkout@v4, 3.350060071846108, , , , 150216, False, 
+##[group]Setting up auth, 3.484062474719952, , , , 91735, False, 
+##[group]Fetching the repository, 18.42533039515359, , , , 463950, False, 
+##[group]Installed distributions, 147.14022082141045, , , , 15404160, False, 
+##[group]Run cd apache-httpclient5, 4.740185675986991, , , , 559385, True, ##[error]Process completed with exit code 1.

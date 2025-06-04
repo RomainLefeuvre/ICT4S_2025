@@ -1,0 +1,1252 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.55 s (2256.9 files/s 407169.1 lines/s)"
+JavaScript,/tmp/clone_directory/litemall-wx/utils/area.js,11,5,3280
+JavaScript,/tmp/clone_directory/renard-wx/utils/area.js,11,4,3280
+JSON,/tmp/clone_directory/litemall-vue/src/views/user/module-address-edit/area.json,0,0,3239
+Markdown,/tmp/clone_directory/doc/api.md,793,0,2612
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallOrderExample.java,637,1308,2540
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsExample.java,440,912,1761
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCouponExample.java,434,912,1737
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallUserExample.java,381,804,1516
+JavaScript,/tmp/clone_directory/litemall-wx/lib/wxParse/showdown.js,355,726,1448
+JavaScript,/tmp/clone_directory/renard-wx/lib/wxParse/showdown.js,353,706,1448
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAddressExample.java,327,696,1299
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAftersaleExample.java,324,696,1297
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCartExample.java,324,696,1297
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallOrderGoodsExample.java,324,696,1297
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallFeedbackExample.java,290,624,1160
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCommentExample.java,286,624,1144
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCategoryExample.java,287,624,1139
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAdExample.java,283,624,1123
+Markdown,/tmp/clone_directory/doc/project.md,409,0,1108
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGrouponExample.java,277,624,1099
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallTopicExample.java,272,588,1089
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallLogExample.java,267,588,1059
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGrouponRulesExample.java,261,588,1036
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCouponUserExample.java,257,588,1019
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAdminExample.java,254,552,1016
+JavaScript,/tmp/clone_directory/litemall-admin/src/locales/en.js,1,1,994
+JavaScript,/tmp/clone_directory/litemall-admin/src/locales/zh-Hans.js,1,1,994
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsProductExample.java,230,516,921
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallStorageExample.java,229,516,907
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallBrandExample.java,227,516,900
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallKeywordExample.java,225,516,891
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsSpecificationExample.java,209,480,827
+WXSS,/tmp/clone_directory/litemall-wx/pages/goods/goods.wxss,110,4,820
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallNoticeAdminExample.java,205,480,811
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsAttributeExample.java,189,444,747
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallNoticeExample.java,189,444,747
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallRoleExample.java,189,444,747
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallSearchHistoryExample.java,189,444,747
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/WxOrderService.java,115,221,736
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCollectExample.java,185,444,731
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallOrderMapper.xml,0,88,719
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallGoodsMapper.xml,0,112,691
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallIssueExample.java,171,408,675
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallSystemExample.java,171,408,675
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallPermissionExample.java,169,408,667
+WXML,/tmp/clone_directory/litemall-wx/lib/wxParse/wxParse.wxml,117,145,666
+WXML,/tmp/clone_directory/renard-wx/lib/wxParse/wxParse.wxml,117,145,666
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallFootprintExample.java,167,408,659
+SQL,/tmp/clone_directory/litemall-db/sql/litemall_table.sql,72,108,657
+WXSS,/tmp/clone_directory/renard-wx/pages/goods/goods.wxss,89,10,653
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/coupon.vue,22,4,619
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallRegionExample.java,150,366,591
+JavaScript,/tmp/clone_directory/litemall-admin/src/router/index.js,15,20,589
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/goods/create.vue,38,7,584
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCouponMapper.xml,0,88,582
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/goods/edit.vue,24,6,549
+JavaScript,/tmp/clone_directory/litemall-wx/pages/goods/goods.js,65,55,547
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallTopicMapper.xml,0,112,533
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/order.vue,35,13,519
+JavaScript,/tmp/clone_directory/renard-wx/pages/goods/goods.js,63,49,498
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallUserMapper.xml,0,88,497
+WXSS,/tmp/clone_directory/litemall-wx/pages/index/index.wxss,65,3,497
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallAftersaleMapper.xml,0,88,489
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCartMapper.xml,0,88,487
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallOrderGoodsMapper.xml,0,88,487
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/bcrypt/BCrypt.java,52,160,473
+Markdown,/tmp/clone_directory/doc/platform.md,186,0,471
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCommentMapper.xml,0,88,457
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallFeedbackMapper.xml,0,88,457
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallOrder.java,124,893,451
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallAddressMapper.xml,0,88,449
+JavaScript,/tmp/clone_directory/litemall-vue/src/api/api.js,24,0,429
+WXSS,/tmp/clone_directory/litemall-wx/pages/cart/cart.wxss,52,12,428
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallAdminMapper.xml,0,88,425
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallAdMapper.xml,0,88,417
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCategoryMapper.xml,0,88,417
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallGrouponMapper.xml,0,88,417
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/home/tabbar-home.vue,22,1,411
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallGoodsProductMapper.xml,0,88,409
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCouponUserMapper.xml,0,88,402
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallGrouponRulesMapper.xml,0,88,402
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallLogMapper.xml,0,88,402
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxCartController.java,50,113,377
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/detail/index.vue,30,7,373
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallBrandMapper.xml,0,88,369
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallKeywordMapper.xml,0,88,369
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallStorageMapper.xml,0,88,369
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxAuthController.java,63,128,368
+Markdown,/tmp/clone_directory/doc/database.md,207,0,365
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallGoodsSpecificationMapper.xml,0,88,354
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallNoticeAdminMapper.xml,0,88,354
+WXSS,/tmp/clone_directory/renard-wx/pages/cart/cart.wxss,49,3,342
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoods.java,94,663,341
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCollectMapper.xml,0,88,339
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallGoodsAttributeMapper.xml,0,88,339
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallNoticeMapper.xml,0,88,339
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallRoleMapper.xml,0,88,339
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallSearchHistoryMapper.xml,0,88,339
+WXSS,/tmp/clone_directory/renard-wx/pages/groupon/grouponDetail/grouponDetail.wxss,56,2,337
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCoupon.java,91,640,330
+JSON,/tmp/clone_directory/litemall-wx/project.config.json,0,0,327
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallFootprintMapper.xml,0,88,322
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallIssueMapper.xml,0,88,322
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallPermissionMapper.xml,0,88,322
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallSystemMapper.xml,0,88,322
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/ad.vue,16,4,313
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/addressAdd/addressAdd.js,43,16,311
+JavaScript,/tmp/clone_directory/renard-wx/pages/ucenter/addressAdd/addressAdd.js,43,16,311
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/aftersale.vue,10,3,307
+Markdown,/tmp/clone_directory/doc/admin.md,107,0,300
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallUser.java,82,571,297
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/datetime-picker/index.js,0,3,294
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/topicEdit.vue,12,2,293
+WXSS,/tmp/clone_directory/renard-wx/pages/index/index.wxss,46,0,290
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/sys/admin.vue,13,4,288
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/sys/notice.vue,14,4,286
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabs/index.js,0,3,286
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/category.vue,15,6,283
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/LitemallRegionMapper.xml,0,76,282
+JSON,/tmp/clone_directory/litemall-wx/project.private.config.json,0,0,282
+WXSS,/tmp/clone_directory/litemall-wx/pages/search/search.wxss,40,0,278
+WXSS,/tmp/clone_directory/renard-wx/pages/ucenter/orderDetail/orderDetail.wxss,48,2,277
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/TagsView/index.vue,3,10,276
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/topicCreate.vue,11,2,276
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/brand.vue,14,4,274
+Markdown,/tmp/clone_directory/doc/wxmall.md,127,0,271
+WXSS,/tmp/clone_directory/litemall-wx/pages/checkout/checkout.wxss,40,0,270
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/service/AdminGoodsService.java,46,43,266
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAftersale.java,73,502,264
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCart.java,73,502,264
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallOrderGoods.java,73,502,264
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAddress.java,73,502,263
+JavaScript,/tmp/clone_directory/litemall-wx/pages/cart/cart.js,29,12,262
+JavaScript,/tmp/clone_directory/renard-wx/pages/cart/cart.js,31,12,262
+WXSS,/tmp/clone_directory/litemall-wx/pages/groupon/grouponDetail/grouponDetail.wxss,43,0,261
+WXSS,/tmp/clone_directory/renard-wx/pages/shopping/checkout/checkout.wxss,38,0,255
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/sys/role.vue,10,4,254
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/index.js,25,24,253
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/order/tabbar-cart.vue,18,0,245
+WXSS,/tmp/clone_directory/renard-wx/pages/search/search.wxss,35,0,245
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallTopic.java,67,456,242
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAd.java,67,456,241
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCategory.java,67,456,241
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallComment.java,67,456,241
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallFeedback.java,67,456,241
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGroupon.java,67,456,241
+CSS,/tmp/clone_directory/litemall-vue/src/assets/scss/iconfont/iconfont.css,77,0,241
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/index-bar/index.js,0,0,240
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/orderDetail/orderDetail.wxss,41,0,240
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/grouponRule.vue,16,4,239
+WXSS,/tmp/clone_directory/litemall-wx/pages/topicDetail/topicDetail.wxss,33,1,234
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGrouponRules.java,64,433,231
+JavaScript,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/langs/zh_CN.js,0,0,230
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCouponUser.java,64,433,230
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallLog.java,64,433,230
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxCouponController.java,34,61,230
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/login/index.vue,24,15,228
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/couponDetail.vue,17,3,228
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallOrderService.java,34,2,227
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/errorPage/404.vue,3,1,224
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/goods/list.vue,19,3,223
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/service/AdminOrderService.java,35,64,219
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/topic.vue,16,3,219
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallAdmin.java,61,410,219
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/index/index.js,12,5,217
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxGoodsController.java,48,66,215
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/keyword.vue,13,4,212
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/couponList/couponList.wxss,31,0,211
+WXSS,/tmp/clone_directory/renard-wx/pages/commentPost/commentPost.wxss,35,0,211
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxGrouponController.java,33,39,210
+Maven,/tmp/clone_directory/pom.xml,31,6,210
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallBrand.java,58,387,209
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsProduct.java,58,387,209
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/order/checkout.vue,27,9,209
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallKeyword.java,58,387,208
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallStorage.java,58,387,208
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/area/index.js,0,5,205
+JSON,/tmp/clone_directory/renard-wx/project.config.json,0,0,203
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/order-list/index.vue,12,0,202
+Markdown,/tmp/clone_directory/CHANGELOG.md,90,0,199
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/order/payment/index.vue,14,2,198
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsSpecification.java,55,364,197
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallNoticeAdmin.java,55,364,197
+WXML,/tmp/clone_directory/litemall-wx/pages/index/index.wxml,0,2,196
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminRoleController.java,37,18,195
+JavaScript,/tmp/clone_directory/litemall-admin/.eslintrc.js,1,2,195
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminAftersaleController.java,22,16,194
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/orderDetail/orderDetail.js,9,11,194
+JavaScript,/tmp/clone_directory/litemall-wx/pages/checkout/checkout.js,13,8,192
+JavaScript,/tmp/clone_directory/litemall-admin/src/vendor/Export2Excel.js,27,15,189
+JavaScript,/tmp/clone_directory/litemall-wx/pages/auth/register/register.js,18,5,189
+WXSS,/tmp/clone_directory/renard-wx/pages/groupon/myGroupon/myGroupon.wxss,32,1,189
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallCollect.java,52,341,186
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsAttribute.java,52,341,186
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallNotice.java,52,341,186
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallRole.java,52,341,186
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallSearchHistory.java,52,341,186
+WXML,/tmp/clone_directory/litemall-wx/pages/goods/goods.wxml,10,6,186
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/issue.vue,10,4,185
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/coupon-list/index.vue,11,0,185
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/order/order-detail/index.vue,11,1,184
+JavaScript,/tmp/clone_directory/renard-wx/pages/ucenter/orderDetail/orderDetail.js,12,12,184
+WXSS,/tmp/clone_directory/litemall-wx/pages/groupon/myGroupon/myGroupon.wxss,30,0,183
+JavaScript,/tmp/clone_directory/renard-wx/lib/wxParse/wxDiscode.js,16,7,183
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/sidebar.scss,40,6,182
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/tabbar-catalog.vue,16,0,182
+JavaScript,/tmp/clone_directory/litemall-wx/pages/search/search.js,12,3,180
+JavaScript,/tmp/clone_directory/renard-wx/pages/search/search.js,16,3,180
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/sys/os.vue,16,5,178
+SQL,/tmp/clone_directory/litemall-db/sql/litemall_data.sql,72,107,176
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallFootprint.java,49,318,175
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallIssue.java,49,318,175
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallPermission.java,49,318,175
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallSystem.java,49,318,175
+JavaScript,/tmp/clone_directory/renard-wx/lib/wxParse/html2json.js,24,44,174
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/profile/notice.vue,12,3,173
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallGoodsService.java,35,52,173
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/OrderMapper.xml,2,0,172
+Markdown,/tmp/clone_directory/doc/FAQ.md,107,0,171
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/feedback/feedback.wxss,23,1,171
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminAuthController.java,32,20,168
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/user/user.vue,12,4,168
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/stepper/index.js,0,4,168
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminGrouponController.java,25,1,164
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/dashboard/index.vue,6,0,163
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/OrderVo.java,41,0,163
+WXSS,/tmp/clone_directory/renard-wx/pages/topicDetail/topicDetail.wxss,23,1,162
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/search/index.vue,7,0,161
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/collect/collect.wxss,23,2,161
+JavaScript,/tmp/clone_directory/renard-wx/components/notice-bar/index.js,16,0,161
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleDetail/aftersaleDetail.wxss,27,0,160
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/index.scss,36,2,159
+WXSS,/tmp/clone_directory/renard-wx/lib/wxParse/wxParse.wxss,17,26,159
+XML,/tmp/clone_directory/litemall-db/mybatis-generator/generatorConfig.xml,11,16,158
+JavaScript,/tmp/clone_directory/renard-wx/pages/commentPost/commentPost.js,13,5,158
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/feedback/feedback.js,17,2,157
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/config/NotifyProperties.java,47,0,156
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/login.vue,23,5,156
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/circle/index.js,0,2,156
+JavaScript,/tmp/clone_directory/litemall-wx/pages/topicCommentPost/topicCommentPost.js,16,5,156
+WXSS,/tmp/clone_directory/renard-wx/pages/ucenter/coupon/coupon.wxss,20,0,156
+WXSS,/tmp/clone_directory/renard-wx/pages/ucenter/order/order.wxss,26,1,156
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersale/aftersale.js,11,5,155
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxAftersaleController.java,24,46,154
+JavaScript,/tmp/clone_directory/litemall-wx/pages/commentPost/commentPost.js,13,5,154
+WXSS,/tmp/clone_directory/renard-wx/pages/hotGoods/hotGoods.wxss,23,0,154
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/JacksonUtil.java,21,0,153
+JavaScript,/tmp/clone_directory/renard-wx/pages/shopping/checkout/checkout.js,10,7,151
+WXSS,/tmp/clone_directory/renard-wx/pages/ucenter/addressAdd/addressAdd.wxss,23,0,151
+WXSS,/tmp/clone_directory/renard-wx/pages/ucenter/index/index.wxss,20,0,151
+JavaScript,/tmp/clone_directory/litemall-admin/src/store/modules/tagsView.js,11,2,147
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/index.js,0,4,147
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/config/StorageProperties.java,44,0,146
+Markdown,/tmp/clone_directory/README.md,68,0,144
+JavaScript,/tmp/clone_directory/litemall-wx/pages/auth/reset/reset.js,15,5,143
+WXSS,/tmp/clone_directory/litemall-wx/pages/hotGoods/hotGoods.wxss,21,0,143
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxHomeController.java,33,21,142
+WXSS,/tmp/clone_directory/litemall-wx/pages/newGoods/newGoods.wxss,21,0,142
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleList/aftersaleList.wxss,23,0,142
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/order/order.wxss,23,1,142
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sticky/index.js,0,0,140
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/addressAdd/addressAdd.wxss,22,0,140
+WXSS,/tmp/clone_directory/litemall-wx/pages/catalog/catalog.wxss,21,0,139
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/index/index.wxss,19,8,138
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminProfileController.java,20,2,137
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/LitemallRegion.java,36,235,137
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/refund-list/index.vue,11,1,136
+CSS,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/plugins/visualblocks/css/visualblocks.css,19,0,135
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/Navbar.vue,8,2,135
+WXSS,/tmp/clone_directory/litemall-wx/pages/comment/comment.wxss,20,0,135
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/util/PermissionUtil.java,14,5,133
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminCategoryController.java,20,1,133
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/category/index.vue,13,1,133
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminNoticeController.java,13,9,131
+SVG,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce.svg,0,0,131
+WXML,/tmp/clone_directory/renard-wx/pages/index/index.wxml,8,1,131
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/brand-list/index.vue,11,0,130
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/topic-list/index.vue,11,0,130
+JavaScript,/tmp/clone_directory/litemall-wx/pages/category/category.js,15,9,129
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/goods/comment.vue,14,4,128
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxAddressController.java,25,33,128
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/brand/index.vue,13,0,126
+WXML,/tmp/clone_directory/renard-wx/pages/goods/goods.wxml,16,10,126
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/OrderUtil.java,35,29,125
+JavaScript,/tmp/clone_directory/litemall-wx/pages/comment/comment.js,10,5,125
+WXSS,/tmp/clone_directory/litemall-wx/pages/topicComment/topicComment.wxss,19,0,125
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker/index.js,0,11,124
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallCouponService.java,23,36,123
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notice-bar/index.js,0,0,123
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/footprint/footprint.js,7,5,123
+YAML,/tmp/clone_directory/deploy/litemall/application.yml,9,17,122
+YAML,/tmp/clone_directory/docker/litemall/application.yml,9,17,122
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallAftersaleService.java,18,1,122
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/swipe-cell/index.js,0,0,122
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/couponList/couponList.js,27,24,122
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminAdminController.java,19,2,121
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-menu/index.js,0,0,121
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/collect/collect.js,7,6,121
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/print.js,12,4,119
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/register-submit/index.vue,14,0,119
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/user-information-set/index.vue,12,0,119
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker-column/index.js,0,0,119
+WXSS,/tmp/clone_directory/renard-wx/pages/newGoods/newGoods.wxss,19,0,119
+JavaScript,/tmp/clone_directory/renard-wx/pages/ucenter/index/index.js,8,3,119
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/config/wx.vue,3,0,118
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dialog/index.js,0,1,118
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/transition.js,0,2,118
+JavaScript,/tmp/clone_directory/litemall-wx/pages/topicComment/topicComment.js,8,5,118
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/address/address.wxss,14,1,117
+JavaScript,/tmp/clone_directory/renard-wx/pages/category/category.js,14,9,117
+Markdown,/tmp/clone_directory/doc/how to implement best admin.md,66,0,116
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminTopicController.java,11,0,116
+JavaScript,/tmp/clone_directory/litemall-wx/pages/index/index.js,12,13,116
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/promotion/grouponActivity.vue,20,3,114
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/user-information-set/set-password/index.vue,18,0,114
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxCommentController.java,13,27,114
+JavaScript,/tmp/clone_directory/renard-wx/lib/wxParse/htmlparser.js,41,27,114
+WXSS,/tmp/clone_directory/litemall-wx/pages/coupon/coupon.wxss,19,0,113
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/qcode/QCodeService.java,37,39,112
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallNoticeAdminService.java,20,0,110
+CSS,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/plugins/codesample/css/prism.css,21,8,109
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/BackToTop/index.vue,6,1,109
+WXSS,/tmp/clone_directory/renard-wx/pages/catalog/catalog.wxss,18,16,109
+JavaScript,/tmp/clone_directory/litemall-vue/src/router/user.js,4,0,108
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/field/index.js,0,0,108
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/slider/index.js,0,0,107
+WXSS,/tmp/clone_directory/renard-wx/pages/ucenter/address/address.wxss,15,0,107
+JSON,/tmp/clone_directory/litemall-wx/app.json,0,0,106
+JavaScript,/tmp/clone_directory/litemall-wx/pages/hotGoods/hotGoods.js,8,6,106
+JavaScript,/tmp/clone_directory/renard-wx/pages/hotGoods/hotGoods.js,8,6,106
+JSON,/tmp/clone_directory/litemall-admin/package.json,0,0,105
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/TencentStorage.java,24,8,105
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/couponSelect/couponSelect.wxss,15,0,105
+JavaScript,/tmp/clone_directory/renard-wx/pages/index/index.js,13,13,105
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-item/index.js,0,0,104
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/QiniuStorage.java,20,3,103
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/RegexUtil.java,23,199,103
+WXSS,/tmp/clone_directory/litemall-wx/pages/category/category.wxss,15,0,103
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/couponSelect/couponSelect.js,31,28,103
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/AliyunSmsSender.java,20,10,102
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallCartService.java,21,0,102
+JavaScript,/tmp/clone_directory/litemall-wx/pages/auth/accountLogin/accountLogin.js,10,5,102
+WXSS,/tmp/clone_directory/renard-wx/pages/groupon/grouponList/grouponList.wxss,16,0,102
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminCouponController.java,14,1,101
+JavaScript,/tmp/clone_directory/litemall-wx/pages/topicDetail/topicDetail.js,11,5,101
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/footprint/footprint.wxss,15,0,101
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/tabbar-user-order.vue,7,0,100
+JavaScript,/tmp/clone_directory/litemall-admin/src/store/modules/user.js,18,9,99
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/config/mall.vue,2,0,99
+JavaScript,/tmp/clone_directory/litemall-admin/vue.config.js,8,21,99
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/system/SystemConfig.java,27,8,99
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/util/bcrypt/BCryptTest.java,21,0,99
+JavaScript,/tmp/clone_directory/renard-wx/lib/wxParse/wxParse.js,10,37,99
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/config/order.vue,2,0,98
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/AliyunStorage.java,23,15,98
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/image/index.js,0,0,98
+WXSS,/tmp/clone_directory/litemall-wx/pages/brandDetail/brandDetail.wxss,13,0,98
+JavaScript,/tmp/clone_directory/litemall-wx/pages/coupon/coupon.js,27,25,98
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/index/index.wxml,9,0,98
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/ResponseUtil.java,22,33,97
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/user-information-set/set-mobile/index.vue,14,0,97
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/count-down/index.js,0,3,97
+JavaScript,/tmp/clone_directory/renard-wx/pages/newGoods/newGoods.js,7,6,97
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/Pagination/index.vue,3,0,96
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/components/field/index.vue,8,0,96
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxCollectController.java,14,23,96
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/collapse-item/index.js,0,0,96
+SCSS,/tmp/clone_directory/litemall-vue/src/assets/scss/_vant-theme.scss,20,12,95
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/groupon/index.vue,9,1,95
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/rate/index.js,0,0,95
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/orderDetail/orderDetail.wxml,3,0,95
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminBrandController.java,13,0,93
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/profile/password.vue,2,0,93
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallTopicService.java,19,0,93
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxCatalogController.java,21,34,93
+WXSS,/tmp/clone_directory/litemall-wx/pages/groupon/grouponList/grouponList.wxss,14,0,93
+JavaScript,/tmp/clone_directory/litemall-wx/pages/newGoods/newGoods.js,7,6,93
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/TaskTest.java,17,0,92
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/field/index.wxml,1,0,92
+WXML,/tmp/clone_directory/litemall-wx/pages/checkout/checkout.wxml,5,0,92
+YAML,/tmp/clone_directory/litemall-core/src/main/resources/application-core.yml,3,20,90
+WXSS,/tmp/clone_directory/litemall-wx/pages/auth/accountLogin/accountLogin.wxss,10,1,90
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/register-status/index.vue,16,0,89
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/module-collect/index.vue,9,0,89
+WXSS,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersale/aftersale.wxss,14,0,89
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminAdController.java,12,0,88
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/sys/log.vue,8,2,88
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/express/ExpressService.java,22,40,88
+WXML,/tmp/clone_directory/renard-wx/pages/ucenter/orderDetail/orderDetail.wxml,3,0,88
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminIssueController.java,12,0,87
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/LocalStorage.java,21,3,87
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/system/SystemInistService.java,21,13,87
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/checkbox/index.js,0,0,87
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/CouponVerifyService.java,14,16,86
+JavaScript,/tmp/clone_directory/litemall-wx/pages/groupon/grouponDetail/grouponDetail.js,3,6,86
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/errorPage/401.vue,3,3,85
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallGrouponService.java,18,59,85
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminConfigController.java,12,0,84
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminKeywordController.java,11,0,84
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallPermissionService.java,22,0,84
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallSystemConfigService.java,14,0,84
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallUserService.java,19,0,84
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/hot/index.vue,9,1,84
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/new/index.vue,10,1,84
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/btn.scss,16,0,83
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/Sidebar/SidebarItem.vue,5,6,83
+WXSS,/tmp/clone_directory/litemall-wx/pages/topic/topic.wxss,11,0,83
+WXML,/tmp/clone_directory/renard-wx/pages/groupon/grouponDetail/grouponDetail.wxml,6,4,83
+WXSS,/tmp/clone_directory/renard-wx/pages/topic/topic.wxss,11,0,83
+JavaScript,/tmp/clone_directory/renard-wx/pages/ucenter/address/address.js,8,6,83
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/service/LogHelper.java,22,9,82
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallCouponUserService.java,18,0,82
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/module-feedback/index.vue,12,0,82
+Maven,/tmp/clone_directory/litemall-wx-api/pom.xml,13,1,82
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/util/JwtHelper.java,11,11,82
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxStorageController.java,15,15,82
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminOrderController.java,12,46,81
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/user/address.vue,13,3,81
+Maven,/tmp/clone_directory/litemall-all/pom.xml,10,0,81
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/express/dao/ExpressInfo.java,22,9,81
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/components/Tabbar/index.vue,7,0,81
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/order/payment-status/index.vue,13,0,81
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminStorageController.java,9,0,80
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/TagsView/ScrollPane.vue,2,5,80
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/NotifyService.java,24,31,80
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/popup/index.js,0,0,80
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/address/address.js,7,6,80
+WXSS,/tmp/clone_directory/renard-wx/pages/auth/login/login.wxss,10,0,80
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/request.js,6,7,79
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallCategoryService.java,17,0,79
+JavaScript,/tmp/clone_directory/litemall-vue/src/router/items.js,1,0,79
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/Breadcrumb/index.vue,3,3,78
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/ScrollPane/index.vue,9,5,78
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/user/collect.vue,10,3,78
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallGrouponRulesService.java,17,34,78
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/topic/index.vue,9,0,78
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/tabbar-user-coupon.vue,8,0,78
+JavaScript,/tmp/clone_directory/renard-wx/pages/groupon/grouponDetail/grouponDetail.js,10,6,78
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/user/footprint.vue,10,3,77
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/user/history.vue,9,3,77
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallCommentService.java,15,1,77
+JavaScript,/tmp/clone_directory/litemall-wx/pages/groupon/grouponList/grouponList.js,26,29,77
+JavaScript,/tmp/clone_directory/renard-wx/pages/groupon/grouponList/grouponList.js,26,29,77
+JavaScript,/tmp/clone_directory/renard-wx/pages/topic/topic.js,11,6,77
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/user/feedback.vue,14,3,76
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/config/NotifyAutoConfiguration.java,13,1,76
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallGoodsSpecificationService.java,18,15,76
+Markdown,/tmp/clone_directory/deploy/README.md,29,0,75
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminRegionController.java,12,0,75
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/vo/CouponVo.java,22,0,75
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/vo/GrouponRuleVo.java,22,0,75
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxOrderController.java,17,91,75
+JavaScript,/tmp/clone_directory/litemall-wx/config/api.js,20,8,75
+Maven,/tmp/clone_directory/litemall-all-war/pom.xml,9,0,74
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxFootprintController.java,15,17,74
+Maven,/tmp/clone_directory/litemall-core/pom.xml,12,0,73
+JavaScript,/tmp/clone_directory/litemall-wx/utils/util.js,13,7,73
+JSON,/tmp/clone_directory/renard-wx/app.json,0,0,73
+JavaScript,/tmp/clone_directory/renard-wx/utils/util.js,13,7,73
+Markdown,/tmp/clone_directory/docker/README.md,34,0,72
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/config/express.vue,2,0,71
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/items/detail/popup-props.vue,8,0,71
+JavaScript,/tmp/clone_directory/litemall-wx/pages/topic/topic.js,9,6,71
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/order/order.js,3,5,71
+JavaScript,/tmp/clone_directory/renard-wx/pages/ucenter/order/order.js,4,5,70
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/config/StorageAutoConfiguration.java,10,0,69
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallRoleService.java,18,0,69
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/forget/index.vue,11,0,69
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/tabbar-user-header.vue,8,0,69
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/search/index.js,0,4,69
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tree-select/index.js,0,5,69
+JavaScript,/tmp/clone_directory/litemall-wx/pages/catalog/catalog.js,3,5,69
+JavaScript,/tmp/clone_directory/renard-wx/pages/catalog/catalog.js,8,5,69
+JavaScript,/tmp/clone_directory/renard-wx/utils/user.js,8,17,69
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/Layout.vue,3,0,68
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/OrderGoodsVo.java,20,0,68
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallCollectService.java,16,0,68
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/forget-status/index.vue,13,0,68
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/grid-item/index.js,0,0,68
+JavaScript,/tmp/clone_directory/litemall-wx/pages/help/help.js,25,27,68
+WXML,/tmp/clone_directory/litemall-wx/pages/topicDetail/topicDetail.wxml,0,0,68
+Maven,/tmp/clone_directory/litemall-admin-api/pom.xml,4,0,67
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/vo/CategoryVo.java,20,0,67
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/StorageService.java,19,11,67
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/HttpUtil.java,7,20,67
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/mybatis/JsonNodeTypeHandler.java,10,3,67
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxFeedbackController.java,11,15,67
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxTopicController.java,9,23,67
+JavaScript,/tmp/clone_directory/renard-wx/components/sharePop/sharePop.js,7,12,67
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/shiro/AdminAuthorizingRealm.java,14,4,66
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallAddressService.java,14,0,66
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/module-address/index.vue,7,0,66
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/button/index.js,0,2,66
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/toast/toast.js,0,0,66
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/config/ShiroConfig.java,11,0,65
+JavaScript,/tmp/clone_directory/litemall-admin/src/main.js,24,8,65
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/GlobalExceptionHandler.java,10,0,65
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallBrandService.java,14,0,65
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/register-getCode/index.vue,9,0,65
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dialog/index.wxml,4,0,65
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar/index.js,0,0,65
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/element-ui.scss,14,6,64
+WXML,/tmp/clone_directory/litemall-wx/pages/groupon/grouponDetail/grouponDetail.wxml,3,0,64
+WXML,/tmp/clone_directory/litemall-wx/pages/search/search.wxml,2,0,64
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleList/aftersaleList.js,1,4,64
+SVG,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.svg,0,0,63
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/WxProperties.java,26,0,63
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallKeywordService.java,14,0,63
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxSearchController.java,10,31,63
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dialog/dialog.js,0,0,63
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker/index.wxml,2,0,63
+JavaScript,/tmp/clone_directory/litemall-wx/pages/auth/login/login.js,5,5,63
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/grid/index.js,0,0,62
+WXML,/tmp/clone_directory/renard-wx/pages/shopping/checkout/checkout.wxml,3,0,62
+Maven,/tmp/clone_directory/litemall-db/pom.xml,13,0,61
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/module-address-edit/index.vue,5,0,61
+WXSS,/tmp/clone_directory/renard-wx/pages/category/category.wxss,9,0,61
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminGoodsController.java,12,36,60
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/order.js,8,0,60
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/definitions/weapp.d.ts,0,52,60
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/radio/index.js,0,0,60
+WXSS,/tmp/clone_directory/litemall-wx/pages/auth/register/register.wxss,7,0,60
+YAML,/tmp/clone_directory/.github/workflows/main.yml,4,6,59
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/OrderHandleOption.java,17,0,59
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/action-sheet/index.js,0,0,59
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notify/index.js,0,0,59
+WXSS,/tmp/clone_directory/litemall-wx/pages/auth/reset/reset.wxss,7,0,59
+WXML,/tmp/clone_directory/litemall-wx/pages/cart/cart.wxml,1,1,59
+WXSS,/tmp/clone_directory/litemall-wx/pages/help/help.wxss,11,0,59
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallAdminService.java,14,0,58
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/task/OrderUnpaidTask.java,12,3,58
+JavaScript,/tmp/clone_directory/renard-wx/components/notify/index.js,11,0,58
+JavaScript,/tmp/clone_directory/renard-wx/pages/auth/login/login.js,5,5,58
+WXML,/tmp/clone_directory/renard-wx/pages/cart/cart.wxml,1,0,58
+Markdown,/tmp/clone_directory/CONTRIBUTE.md,32,0,57
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/job/OrderJob.java,12,22,57
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/role.js,8,0,57
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/user.js,8,0,57
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/SvgIcon/index.vue,2,1,57
+JavaScript,/tmp/clone_directory/litemall-admin/src/store/modules/app.js,2,0,57
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/count-down/utils.js,0,0,57
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/submit-bar/index.js,0,0,57
+WXSS,/tmp/clone_directory/litemall-wx/pages/auth/login/login.wxss,2,2,57
+WXML,/tmp/clone_directory/renard-wx/pages/search/search.wxml,2,0,57
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminIndexController.java,11,0,56
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminStatController.java,9,0,56
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/mixin.scss,10,0,56
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/SmsTest.java,13,11,56
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallNoticeService.java,13,0,56
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tab/index.js,0,0,56
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabs/index.wxml,4,0,56
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/SystemInfoPrinter.java,19,0,55
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxMsgController.java,8,21,55
+JavaScript,/tmp/clone_directory/litemall-wx/pages/brandDetail/brandDetail.js,9,5,55
+JavaScript,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleDetail/aftersaleDetail.js,5,5,55
+JavaScript,/tmp/clone_directory/renard-wx/pages/brandDetail/brandDetail.js,8,5,55
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/task/GrouponRuleExpiredTask.java,9,5,54
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/Hamburger/index.vue,3,2,54
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallFootprintService.java,12,0,54
+WXSS,/tmp/clone_directory/renard-wx/components/sharePop/sharePop.wxss,7,1,54
+WXSS,/tmp/clone_directory/renard-wx/pages/brandDetail/brandDetail.wxss,7,0,54
+JavaScript,/tmp/clone_directory/renard-wx/pages/payResult/payResult.js,5,4,54
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/config.js,8,0,53
+JavaScript,/tmp/clone_directory/litemall-admin/src/permission.js,5,5,53
+JavaScript,/tmp/clone_directory/litemall-admin/src/store/modules/permission.js,6,10,53
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/TencentSmsSender.java,13,3,53
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallGoodsProductService.java,12,0,53
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallStorageService.java,12,0,53
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/WxGrouponRuleService.java,12,0,53
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminUserController.java,6,0,52
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/Screenfull/index.vue,3,0,52
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/dto/UserInfo.java,15,0,52
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/action-sheet/index.wxml,1,1,52
+JavaScript,/tmp/clone_directory/renard-wx/config/api.js,14,7,52
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/SizeSelect/index.vue,6,1,51
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/mall/region.vue,8,0,51
+XML,/tmp/clone_directory/litemall-all/src/main/resources/logback-spring.xml,6,1,51
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallAdService.java,12,0,51
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/button/index.wxml,1,0,51
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/switch/index.js,0,0,51
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/index.wxml,3,3,51
+WXML,/tmp/clone_directory/renard-wx/pages/groupon/myGroupon/myGroupon.wxml,1,0,51
+JavaScript,/tmp/clone_directory/renard-wx/pages/topicDetail/topicDetail.js,10,4,51
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/Notice/index.vue,4,0,50
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/HomeCacheManager.java,10,22,50
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/collapse/index.js,0,0,50
+WXML,/tmp/clone_directory/litemall-wx/pages/groupon/myGroupon/myGroupon.wxml,1,0,50
+JavaScript,/tmp/clone_directory/renard-wx/pages/brand/brand.js,5,4,50
+WXSS,/tmp/clone_directory/renard-wx/pages/payResult/payResult.wxss,9,0,50
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/profile.js,8,0,49
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/WxConfig.java,8,0,49
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/bcrypt/BCryptPasswordEncoder.java,10,30,49
+JavaScript,/tmp/clone_directory/litemall-vue/src/utils/request.js,5,4,49
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/login/forget-reset/index.vue,8,0,49
+JavaScript,/tmp/clone_directory/litemall-vue/vue.config.js,2,1,49
+WXML,/tmp/clone_directory/litemall-wx/pages/commentPost/commentPost.wxml,2,4,49
+WXML,/tmp/clone_directory/litemall-wx/pages/topicCommentPost/topicCommentPost.wxml,2,0,49
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/couponList/couponList.wxml,7,0,49
+WXML,/tmp/clone_directory/renard-wx/pages/commentPost/commentPost.wxml,2,4,49
+JavaScript,/tmp/clone_directory/renard-wx/pages/groupon/myGroupon/myGroupon.js,5,7,49
+WXML,/tmp/clone_directory/renard-wx/pages/ucenter/order/order.wxml,1,0,49
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/AppMain.vue,4,3,48
+SCSS,/tmp/clone_directory/litemall-vue/src/assets/scss/common.scss,11,0,48
+Java,/tmp/clone_directory/litemall-admin-api/src/test/java/org/linlinjava/litemall/admin/DbTest.java,8,0,47
+JavaScript,/tmp/clone_directory/litemall-admin/src/directive/clipboard/clipboard.js,1,1,47
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallSearchHistoryService.java,10,0,47
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/DbUtil.java,4,0,47
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/tabbar-user.vue,7,0,47
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/search/index.wxml,3,0,47
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar-item/index.js,0,0,47
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/JacksonConfig.java,4,0,46
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/mybatis/JsonIntegerArrayTypeHandler.java,9,3,46
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/mybatis/JsonStringArrayTypeHandler.java,9,3,46
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallOrderGoodsService.java,10,0,46
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dialog/dialog.d.ts,0,1,46
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/steps/index.wxml,5,0,46
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabs/index.wxs,9,0,46
+JavaScript,/tmp/clone_directory/litemall-wx/pages/about/about.js,4,7,46
+WXSS,/tmp/clone_directory/renard-wx/pages/brand/brand.wxss,6,0,46
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/user-information-set/set-nickname/index.vue,7,0,45
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/wxs/memoize.wxs,9,0,45
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/order/order.wxml,1,0,45
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminCommentController.java,7,0,44
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/CouponAssignService.java,10,6,44
+JSON,/tmp/clone_directory/litemall-vue/package.json,0,0,44
+JavaScript,/tmp/clone_directory/litemall-vue/src/router/login.js,0,0,44
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/component.js,0,4,44
+JavaScript,/tmp/clone_directory/litemall-wx/pages/groupon/myGroupon/myGroupon.js,3,5,44
+WXML,/tmp/clone_directory/renard-wx/pages/ucenter/coupon/coupon.wxml,3,0,44
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/aftersale.js,6,0,43
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/coupon.js,6,0,43
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/notice.js,6,0,43
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/topic.js,6,0,43
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallIssueService.java,11,0,43
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallRegionService.java,12,0,43
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/collapse-item/index.wxml,1,0,43
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar/index.js,0,0,43
+YAML,/tmp/clone_directory/.workflow/BranchPipeline.yml,0,11,42
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminDashbordController.java,7,0,42
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/category.js,6,0,42
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/goods.js,6,0,42
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxBrandController.java,7,16,42
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-item/index.wxml,2,0,42
+WXML,/tmp/clone_directory/litemall-wx/pages/newGoods/newGoods.wxml,0,0,42
+WXML,/tmp/clone_directory/renard-wx/pages/ucenter/index/index.wxml,0,0,42
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/Sidebar/Link.vue,1,0,41
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/IpUtil.java,6,6,41
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-button/index.js,0,0,41
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notify/notify.js,0,0,41
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/skeleton/index.js,0,0,41
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersale/aftersale.wxml,4,0,41
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleList/aftersaleList.wxml,1,0,41
+YAML,/tmp/clone_directory/.workflow/MasterPipeline.yml,0,11,40
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/job/DbJob.java,10,9,40
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/module-server/index.vue,4,2,40
+JavaScript,/tmp/clone_directory/litemall-wx/app.js,1,1,40
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleDetail/aftersaleDetail.wxml,2,0,40
+JavaScript,/tmp/clone_directory/renard-wx/app.js,3,1,40
+WXML,/tmp/clone_directory/renard-wx/pages/hotGoods/hotGoods.wxml,0,0,40
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/vo/RegionVo.java,13,0,39
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminAddressController.java,6,0,39
+JavaScript,/tmp/clone_directory/litemall-admin/src/filters/index.js,5,24,39
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/scrollTo.js,4,7,39
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/validate.js,9,39,39
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/task/Task.java,9,0,39
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/StatMapperTest.java,8,0,39
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/dto/UserToken.java,12,0,39
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/card/index.wxml,6,0,39
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/cell/index.wxml,6,0,39
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/checkbox-group/index.js,0,0,39
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/icon/index.js,0,0,39
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/submit-bar/index.wxml,3,0,39
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/storage.js,6,0,38
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/Sidebar/Item.vue,3,0,38
+JavaScript,/tmp/clone_directory/litemall-admin/src/views/layout/mixin/ResizeHandler.js,3,0,38
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallGoodsAttributeService.java,9,0,38
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/card/index.js,0,0,38
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-icon/index.wxml,0,0,38
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/nav-bar/index.js,0,0,38
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/progress/index.js,0,0,38
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/radio-group/index.js,0,0,38
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tree-select/index.wxml,1,0,38
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminFeedbackController.java,5,4,37
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminFootprintController.java,5,0,37
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallLogService.java,9,0,37
+JavaScript,/tmp/clone_directory/litemall-vue/src/router/order.js,1,0,37
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/task/TaskStartupRunner.java,5,2,37
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/cell/index.js,0,0,37
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/addressAdd/addressAdd.wxml,2,0,37
+WXSS,/tmp/clone_directory/renard-wx/components/capsule/index.wxss,5,0,37
+WXML,/tmp/clone_directory/renard-wx/pages/ucenter/addressAdd/addressAdd.wxml,2,0,37
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/config/AdminSwagger2Configuration.java,5,7,36
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/job/CouponJob.java,9,8,36
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminCollectController.java,6,0,36
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminLogController.java,5,0,36
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/ad.js,5,0,36
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/admin.js,5,0,36
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/brand.js,5,0,36
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/groupon.js,5,0,36
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/issue.js,5,0,36
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/keyword.js,5,0,36
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/express/config/ExpressProperties.java,11,0,36
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/task/TaskService.java,7,0,36
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/LitemallFeedbackService.java,8,4,36
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/nav-bar/index.wxml,1,0,36
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/row/index.js,0,0,36
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar-item/index.js,0,0,36
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/stepper/index.wxml,1,0,36
+YAML,/tmp/clone_directory/docker/docker-compose.yml,0,0,35
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/dto/GoodsAllinone.java,11,0,35
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/web/AdminHistoryController.java,5,0,35
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/transition.scss,9,4,35
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/stat/order.vue,2,0,35
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/stat/user.vue,3,0,35
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/MailTest.java,8,10,35
+SCSS,/tmp/clone_directory/litemall-vue/src/assets/scss/global.scss,9,0,35
+JavaScript,/tmp/clone_directory/litemall-vue/src/router/index.js,5,1,35
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/module-help/index.vue,3,0,35
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/config/WxSwagger2Configuration.java,5,7,35
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/util/WxResponseCode.java,7,1,35
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/touch.js,0,0,35
+WXML,/tmp/clone_directory/litemall-wx/pages/about/about.wxml,5,0,35
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/task/AdminTaskStartupRunner.java,5,2,34
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/stat/goods.vue,3,0,34
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/LocalStorageTest.java,6,0,34
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/QiniuStorageTest.java,6,0,34
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/TencentStorageTest.java,6,0,34
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notice-bar/index.wxml,3,0,34
+WXSS,/tmp/clone_directory/renard-wx/components/good/good.wxss,5,2,34
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/clipboard.js,3,0,33
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/AliyunStorageTest.java,6,0,33
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/divider/index.js,0,0,33
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/wxs/bem.wxs,5,0,33
+Bourne Shell,/tmp/clone_directory/deploy/util/lazy.sh,8,12,32
+Bourne Shell,/tmp/clone_directory/docker/util/lazy.sh,8,12,32
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/vo/PermVo.java,11,0,32
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/login.js,4,0,32
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/components/Header/index.vue,2,0,32
+JavaScript,/tmp/clone_directory/litemall-vue/src/main.js,9,0,32
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/CaptchaCodeManager.java,12,20,32
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxIssueController.java,6,3,32
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/utils.js,0,0,32
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/loading/index.js,0,0,32
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/rate/index.wxml,2,0,32
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/feedback/feedback.wxml,2,0,32
+WXML,/tmp/clone_directory/renard-wx/pages/newGoods/newGoods.wxml,0,0,32
+YAML,/tmp/clone_directory/.workflow/PRPipeline.yml,0,9,31
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/layout/components/Sidebar/index.vue,2,0,31
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/StatMapper.xml,0,0,31
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/image/index.wxml,2,0,31
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/shiro/AdminWebSessionManager.java,7,2,30
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/util/AdminResponseCode.java,2,0,30
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/ExpressTest.java,4,0,30
+YAML,/tmp/clone_directory/litemall-db/src/main/resources/application-db.yml,1,0,30
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/MapperReturnTest.java,8,0,30
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxUserController.java,7,11,30
+WXSS,/tmp/clone_directory/litemall-wx/pages/about/about.wxss,5,1,30
+WXML,/tmp/clone_directory/litemall-wx/pages/catalog/catalog.wxml,0,0,30
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/collect/collect.wxml,1,0,30
+WXML,/tmp/clone_directory/renard-wx/components/notice-bar/index.wxml,1,0,30
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallGoodsMapper.java,23,132,29
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallTopicMapper.java,23,132,29
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar-item/index.wxml,1,0,29
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/toast/index.wxml,2,2,29
+WXML,/tmp/clone_directory/litemall-wx/pages/comment/comment.wxml,1,0,29
+WXML,/tmp/clone_directory/litemall-wx/pages/groupon/grouponList/grouponList.wxml,2,0,29
+WXSS,/tmp/clone_directory/renard-wx/components/goodList/goodList.wxss,4,0,29
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/config/ShiroExceptionHandler.java,6,0,28
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/StockTest.java,4,0,28
+JavaScript,/tmp/clone_directory/litemall-vue/src/utils/scroll.js,3,0,28
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-button/index.wxml,0,0,28
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/radio/index.wxml,1,0,28
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/skeleton/index.wxml,1,0,28
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/slider/index.wxml,1,0,28
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/toast/index.js,0,1,28
+WXML,/tmp/clone_directory/litemall-wx/pages/auth/register/register.wxml,7,0,28
+WXML,/tmp/clone_directory/renard-wx/pages/groupon/grouponList/grouponList.wxml,2,0,28
+JavaScript,/tmp/clone_directory/litemall-admin/build/index.js,7,0,27
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/definitions/index.d.ts,0,1,27
+WXML,/tmp/clone_directory/litemall-wx/pages/brandDetail/brandDetail.wxml,1,0,27
+WXML,/tmp/clone_directory/renard-wx/pages/catalog/catalog.wxml,2,3,27
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/util/Permission.java,8,0,26
+Java,/tmp/clone_directory/litemall-admin-api/src/test/java/org/linlinjava/litemall/admin/PermissionTest.java,5,0,26
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/variables.scss,5,4,26
+WXML,/tmp/clone_directory/litemall-wx/pages/coupon/coupon.wxml,2,0,26
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/config/KaptchaConfig.java,6,0,25
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/vo/CatVo.java,8,0,25
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/CorsConfig.java,4,1,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallAdMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallAddressMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallAdminMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallAftersaleMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallBrandMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallCartMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallCategoryMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallCollectMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallCommentMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallCouponMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallCouponUserMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallFeedbackMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallFootprintMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallGoodsAttributeMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallGoodsProductMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallGoodsSpecificationMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallGrouponMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallGrouponRulesMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallIssueMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallKeywordMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallLogMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallNoticeAdminMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallNoticeMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallOrderGoodsMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallOrderMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallPermissionMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallRoleMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallSearchHistoryMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallStorageMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallSystemMapper.java,19,108,25
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallUserMapper.java,19,108,25
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/components/is-empty/index.vue,3,0,25
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/dto/CaptchaItem.java,8,3,25
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/open-type.js,0,0,25
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/toast/toast.d.ts,0,1,25
+WXML,/tmp/clone_directory/litemall-wx/pages/topicComment/topicComment.wxml,1,0,25
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/vo/StatVo.java,7,0,24
+Java,/tmp/clone_directory/litemall-admin-api/src/test/java/org/linlinjava/litemall/admin/CreateShareImageTest.java,3,0,24
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/components/LocaleChanger/index.vue,2,1,24
+JavaScript,/tmp/clone_directory/litemall-admin/src/views/layout/components/Sidebar/FixiOSBug.js,0,2,24
+Java,/tmp/clone_directory/litemall-all/src/test/java/org/linlinjava/litemall/allinone/AllinoneConfigTest.java,4,6,24
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/CharUtil.java,5,0,24
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/annotation/support/LoginUserHandlerMethodArgumentResolver.java,7,1,24
+WXML,/tmp/clone_directory/litemall-wx/pages/auth/reset/reset.wxml,6,0,24
+WXML,/tmp/clone_directory/litemall-wx/pages/category/category.wxml,1,0,24
+JavaScript,/tmp/clone_directory/renard-wx/components/good/good.js,4,10,24
+JavaScript,/tmp/clone_directory/litemall-admin/src/directive/permission/permission.js,6,0,23
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/CoreConfigTest.java,3,1,23
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/GetRegionService.java,7,4,23
+Java,/tmp/clone_directory/litemall-wx-api/src/test/java/org/linlinjava/litemall/wx/WxConfigTest.java,4,5,23
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/col/index.js,0,0,23
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/popup/index.wxml,1,0,23
+WXML,/tmp/clone_directory/renard-wx/pages/payResult/payResult.wxml,1,0,23
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/stat.js,3,0,22
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/permission.js,4,5,22
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/validator/OrderValidator.java,5,0,22
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/validator/SortValidator.java,5,0,22
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/LitemallRegionMapper.java,16,90,22
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/components/field-group/index.vue,4,0,22
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-icon/index.js,0,0,22
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action/index.js,0,0,22
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/index-anchor/index.js,0,0,22
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/basic.js,0,0,22
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/steps/index.js,0,0,22
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/couponSelect/couponSelect.wxml,4,0,22
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/footprint/footprint.wxml,0,0,22
+JavaScript,/tmp/clone_directory/renard-wx/components/capsule/index.js,1,8,22
+WXML,/tmp/clone_directory/renard-wx/pages/ucenter/address/address.wxml,0,0,22
+Java,/tmp/clone_directory/litemall-admin-api/src/test/java/org/linlinjava/litemall/admin/AdminConfigTest.java,4,5,21
+JavaScript,/tmp/clone_directory/litemall-admin/jest.config.js,0,3,21
+Java,/tmp/clone_directory/litemall-all-war/src/main/java/org/linlinjava/litemall/Application.java,4,0,21
+HTML,/tmp/clone_directory/litemall-vue/public/index.html,3,1,21
+JavaScript,/tmp/clone_directory/litemall-vue/src/router/home.js,1,0,21
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-menu/index.wxml,2,0,21
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/grid-item/index.wxml,1,0,21
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/index-bar/index.wxml,1,0,21
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/overlay/index.js,0,1,21
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker-column/index.wxml,1,0,21
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker/shared.d.ts,0,0,21
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker/shared.js,0,0,21
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tag/index.js,0,0,21
+WXML,/tmp/clone_directory/litemall-wx/pages/ucenter/address/address.wxml,0,0,21
+JSON,/tmp/clone_directory/litemall-wx/sitemap.json,0,0,21
+Markdown,/tmp/clone_directory/doc/mobmall.md,9,0,20
+Java,/tmp/clone_directory/litemall-admin-api/src/test/java/org/linlinjava/litemall/admin/BcryptTest.java,5,0,20
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/express/dao/Traces.java,8,9,20
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/AsyncTest.java,4,3,20
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/service/StatService.java,7,0,20
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/DbConfigTest.java,3,0,20
+JavaScript,/tmp/clone_directory/litemall-vue/src/mixin/scroll-fixed.js,3,1,20
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/UserInfoService.java,4,0,20
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/swipe-cell/index.wxml,0,0,20
+YAML,/tmp/clone_directory/litemall-all/src/main/resources/application.yml,3,0,19
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/ValidatorConfiguration.java,4,0,19
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/express/config/ExpressAutoConfiguration.java,6,0,19
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/BeanUtil.java,5,0,19
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/App.vue,1,0,19
+Vuejs Component,/tmp/clone_directory/litemall-vue/src/views/user/tabbar-user-module.vue,3,0,19
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/observer/index.js,0,0,19
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notify/notify.d.ts,0,0,19
+WXSS,/tmp/clone_directory/renard-wx/app.wxss,4,1,19
+WXML,/tmp/clone_directory/renard-wx/pages/brandDetail/brandDetail.wxml,1,0,19
+WXML,/tmp/clone_directory/renard-wx/pages/topicDetail/topicDetail.wxml,0,0,19
+Bourne Shell,/tmp/clone_directory/docker/bin/reset.sh,7,11,18
+JavaScript,/tmp/clone_directory/litemall-admin/src/store/index.js,3,0,18
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/validator/Order.java,6,0,18
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/validator/Sort.java,6,0,18
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/AsyncTask.java,4,0,18
+JavaScript,/tmp/clone_directory/litemall-vue/src/utils/local-storage.js,2,0,18
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/area/index.wxml,0,0,18
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/checkbox/index.wxml,1,0,18
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/icon/index.wxml,0,0,18
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/button.js,0,0,18
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/progress/index.wxml,1,0,18
+WXML,/tmp/clone_directory/renard-wx/pages/category/category.wxml,1,0,18
+Bourne Shell,/tmp/clone_directory/deploy/util/package.sh,6,8,17
+Bourne Shell,/tmp/clone_directory/docker/util/package.sh,6,8,17
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/SmsResult.java,5,8,17
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/domain/UserVo.java,5,0,17
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/dto/WxLoginInfo.java,5,0,17
+Java,/tmp/clone_directory/litemall-wx-api/src/test/java/org/linlinjava/litemall/wx/BigDecimalTest.java,5,0,17
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/link.js,0,0,17
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/panel/index.wxml,2,0,17
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar-item/index.wxml,1,0,17
+WXML,/tmp/clone_directory/litemall-wx/pages/auth/accountLogin/accountLogin.wxml,5,7,17
+WXML,/tmp/clone_directory/litemall-wx/pages/help/help.wxml,3,0,17
+WXML,/tmp/clone_directory/renard-wx/components/sharePop/sharePop.wxml,0,0,17
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/Application.java,4,0,16
+YAML,/tmp/clone_directory/litemall-admin-api/src/main/resources/application.yml,3,0,16
+JavaScript,/tmp/clone_directory/litemall-admin/src/store/getters.js,0,0,16
+SCSS,/tmp/clone_directory/litemall-vue/src/assets/scss/mixin/_one-border.scss,1,0,16
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/service/UserTokenManager.java,2,3,16
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/web/WxIndexController.java,4,8,16
+YAML,/tmp/clone_directory/litemall-wx-api/src/main/resources/application.yml,3,0,16
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/datetime-picker/index.wxml,0,0,16
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/loading/index.wxml,0,0,16
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/utils.js,0,0,16
+WXML,/tmp/clone_directory/litemall-wx/pages/brand/brand.wxml,0,0,16
+WXML,/tmp/clone_directory/litemall-wx/pages/topic/topic.wxml,0,0,16
+JavaScript,/tmp/clone_directory/renard-wx/pages/ucenter/coupon/coupon.js,6,2,16
+Bourne Shell,/tmp/clone_directory/deploy/bin/reset.sh,6,11,15
+Markdown,/tmp/clone_directory/doc/performance.md,7,0,15
+HTML,/tmp/clone_directory/litemall-admin/public/index.html,0,1,15
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/comment.js,2,0,15
+Java,/tmp/clone_directory/litemall-all/src/main/java/org/linlinjava/litemall/Application.java,4,0,15
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/DbTest.java,3,0,15
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/DbUtilTest.java,4,2,15
+JavaScript,/tmp/clone_directory/litemall-vue/babel.config.js,0,0,15
+JavaScript,/tmp/clone_directory/litemall-vue/src/store/index.js,3,0,15
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/Application.java,4,0,15
+WXSS,/tmp/clone_directory/litemall-wx/app.wxss,3,1,15
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notify/index.wxml,0,0,15
+WXML,/tmp/clone_directory/renard-wx/pages/topic/topic.wxml,0,0,15
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/region.js,2,0,14
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/NotifyType.java,4,0,14
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/IntegerTest.java,2,0,14
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/CouponConstant.java,4,0,14
+XML,/tmp/clone_directory/litemall-db/src/main/resources/org/linlinjava/litemall/db/dao/GoodsProductMapper.xml,0,0,14
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-menu/index.wxs,2,0,14
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/index-anchor/index.wxml,0,0,14
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/observer/behavior.js,0,0,14
+JavaScript,/tmp/clone_directory/renard-wx/components/icon/index.js,2,0,14
+WXML,/tmp/clone_directory/renard-wx/pages/brand/brand.wxml,0,0,14
+SCSS,/tmp/clone_directory/litemall-admin/src/styles/element-variables.scss,8,10,13
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/Storage.java,9,11,13
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/config/WxWebMvcConfiguration.java,3,0,13
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tag/index.wxml,1,0,13
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/transition/index.js,0,0,13
+Markdown,/tmp/clone_directory/doc/README.md,1,0,12
+INI,/tmp/clone_directory/litemall-admin/.editorconfig,2,0,12
+JavaScript,/tmp/clone_directory/litemall-admin/src/utils/openWindow.js,5,9,12
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/OrderMapper.java,3,0,12
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/AftersaleConstant.java,2,0,12
+SCSS,/tmp/clone_directory/litemall-vue/src/assets/scss/_var.scss,3,1,12
+JavaScript,/tmp/clone_directory/litemall-vue/src/filter/index.js,2,0,12
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/utils.d.ts,0,0,12
+JavaScript,/tmp/clone_directory/renard-wx/components/goodList/goodList.js,4,10,12
+Java,/tmp/clone_directory/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/annotation/RequiresPermissionsDesc.java,3,0,11
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/redirect/index.vue,0,1,11
+YAML,/tmp/clone_directory/litemall-all-war/src/main/resources/application.yml,1,0,11
+YAML,/tmp/clone_directory/litemall-core/src/main/resources/application.yml,1,0,11
+Java,/tmp/clone_directory/litemall-core/src/test/java/org/linlinjava/litemall/core/Application.java,4,0,11
+Markdown,/tmp/clone_directory/litemall-db/sql/README.md,10,0,11
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/GrouponConstant.java,4,0,11
+YAML,/tmp/clone_directory/litemall-db/src/main/resources/application.yml,1,0,11
+Java,/tmp/clone_directory/litemall-db/src/test/java/org/linlinjava/litemall/db/Application.java,4,0,11
+JavaScript,/tmp/clone_directory/litemall-vue/src/utils/auth.js,4,0,11
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/wxs/object.wxs,2,0,11
+JavaScript,/tmp/clone_directory/renard-wx/utils/check.js,1,0,11
+Markdown,/tmp/clone_directory/SECURITY.md,5,0,10
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/App.vue,1,0,10
+JavaScript,/tmp/clone_directory/litemall-admin/src/directive/clipboard/index.js,3,0,10
+JavaScript,/tmp/clone_directory/litemall-admin/src/directive/permission/index.js,3,0,10
+Vuejs Component,/tmp/clone_directory/litemall-admin/src/views/login/authredirect.vue,0,0,10
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/util/DateTimeUtil.java,4,9,10
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/cell-group/index.js,0,0,10
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/count-down/utils.d.ts,0,0,10
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/overlay/index.wxml,0,0,10
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/panel/index.js,0,0,10
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/switch/index.wxml,1,0,10
+WXML,/tmp/clone_directory/renard-wx/components/capsule/index.wxml,0,0,10
+JSON,/tmp/clone_directory/litemall-admin/jsconfig.json,0,0,9
+JavaScript,/tmp/clone_directory/litemall-vue/.eslintrc.js,0,8,9
+Java,/tmp/clone_directory/litemall-wx-api/src/main/java/org/linlinjava/litemall/wx/annotation/LoginUser.java,4,0,9
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/cell-group/index.wxml,0,0,9
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/toast/index.json,0,0,9
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tree-select/index.wxs,3,0,9
+WXML,/tmp/clone_directory/renard-wx/components/goodList/goodList.wxml,0,0,9
+Bourne Shell,/tmp/clone_directory/deploy/bin/deploy.sh,3,1,8
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/dashboard.js,1,0,8
+JavaScript,/tmp/clone_directory/litemall-admin/src/api/log.js,1,0,8
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/StatMapper.java,4,0,8
+JavaScript,/tmp/clone_directory/litemall-vue/src/utils/validate.js,4,0,8
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/action-sheet/index.json,0,0,8
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-item/index.json,0,0,8
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/info/index.js,0,0,8
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/transition/index.wxml,0,0,8
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tree-select/index.json,0,0,8
+WXML,/tmp/clone_directory/renard-wx/components/good/good.wxml,0,0,8
+JSON,/tmp/clone_directory/renard-wx/pages/goods/goods.json,0,0,8
+JSON,/tmp/clone_directory/renard-wx/pages/index/index.json,0,0,8
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/config/AsyncConfig.java,2,0,7
+SQL,/tmp/clone_directory/litemall-db/sql/litemall_schema.sql,0,1,7
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/util/CouponUserConstant.java,1,0,7
+JavaScript,/tmp/clone_directory/litemall-vue/src/store/mutations.js,1,0,7
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/circle/index.wxml,0,0,7
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/col/index.wxml,1,0,7
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/color.d.ts,0,0,7
+JavaScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/color.js,0,0,7
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/utils.d.ts,0,1,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dialog/index.json,0,0,7
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/divider/index.wxml,1,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/field/index.json,0,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-icon/index.json,0,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/image/index.json,0,0,7
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker-column/index.wxs,1,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker/index.json,0,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/popup/index.json,0,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/submit-bar/index.json,0,0,7
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tab/index.wxml,1,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar-item/index.json,0,0,7
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar/index.wxml,1,0,7
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabs/index.json,0,0,7
+WXML,/tmp/clone_directory/litemall-wx/pages/auth/login/login.wxml,0,0,7
+WXML,/tmp/clone_directory/renard-wx/components/icon/index.wxml,0,0,7
+JSON,/tmp/clone_directory/renard-wx/sitemap.json,0,0,7
+Bourne Shell,/tmp/clone_directory/deploy/bin/stop.sh,2,0,6
+Markdown,/tmp/clone_directory/doc/note.md,4,0,6
+Bourne Shell,/tmp/clone_directory/docker/bin/deploy.sh,1,0,6
+JavaScript,/tmp/clone_directory/litemall-admin/src/icons/index.js,2,1,6
+Java,/tmp/clone_directory/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/GoodsProductMapper.java,2,0,6
+JavaScript,/tmp/clone_directory/litemall-vue/src/utils/location-param.js,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/card/index.json,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/datetime-picker/index.json,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-button/index.json,0,0,6
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/info/index.wxml,1,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/overlay/index.json,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/panel/index.json,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/search/index.json,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar-item/index.json,0,0,6
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sticky/index.wxml,1,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/switch/index.json,0,0,6
+JSON,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/index.json,0,0,6
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/wxs/utils.wxs,1,0,6
+JSON,/tmp/clone_directory/renard-wx/components/goodList/goodList.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/components/notice-bar/index.json,0,0,6
+WXML,/tmp/clone_directory/renard-wx/components/notify/index.wxml,0,0,6
+WXML,/tmp/clone_directory/renard-wx/pages/auth/login/login.wxml,1,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/brandDetail/brandDetail.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/groupon/grouponDetail/grouponDetail.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/groupon/grouponList/grouponList.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/groupon/myGroupon/myGroupon.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/newGoods/newGoods.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/search/search.json,0,0,6
+JSON,/tmp/clone_directory/renard-wx/pages/ucenter/order/order.json,0,0,6
+JavaScript,/tmp/clone_directory/litemall-admin/babel.config.js,0,0,5
+JavaScript,/tmp/clone_directory/litemall-admin/postcss.config.js,0,0,5
+YAML,/tmp/clone_directory/litemall-admin/src/icons/svgo.yml,4,13,5
+Java,/tmp/clone_directory/litemall-core/src/main/java/org/linlinjava/litemall/core/notify/SmsSender.java,4,12,5
+JavaScript,/tmp/clone_directory/litemall-vue/.postcssrc.js,0,0,5
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/progress/index.wxs,0,0,5
+JSON,/tmp/clone_directory/renard-wx/pages/category/category.json,0,0,5
+JSON,/tmp/clone_directory/renard-wx/pages/ucenter/index/index.json,0,0,5
+Dockerfile,/tmp/clone_directory/docker/litemall/Dockerfile,0,0,4
+JavaScript,/tmp/clone_directory/litemall-admin/src/views/layout/components/index.js,0,0,4
+JavaScript,/tmp/clone_directory/litemall-vue/.prettierrc.js,0,0,4
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/count-down/index.wxml,0,0,4
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action/index.wxml,1,0,4
+WiX source,/tmp/clone_directory/litemall-wx/lib/vant-weapp/wxs/array.wxs,1,0,4
+JSON,/tmp/clone_directory/litemall-wx/pages/cart/cart.json,0,0,4
+JSON,/tmp/clone_directory/litemall-wx/pages/comment/comment.json,0,0,4
+JSON,/tmp/clone_directory/litemall-wx/pages/index/index.json,0,0,4
+JSON,/tmp/clone_directory/litemall-wx/pages/topicComment/topicComment.json,0,0,4
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/couponList/couponList.json,0,0,4
+JSON,/tmp/clone_directory/renard-wx/components/sharePop/sharePop.json,0,0,4
+JSON,/tmp/clone_directory/renard-wx/pages/cart/cart.json,0,0,4
+JSON,/tmp/clone_directory/renard-wx/pages/payResult/payResult.json,0,0,4
+JSON,/tmp/clone_directory/renard-wx/pages/topicDetail/topicDetail.json,0,0,4
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/collapse/index.wxml,0,0,3
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/component.d.ts,0,0,3
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/grid/index.wxml,0,0,3
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/row/index.wxml,0,0,3
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar/index.wxml,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/auth/accountLogin/accountLogin.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/auth/register/register.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/auth/reset/reset.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/brandDetail/brandDetail.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/coupon/coupon.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/goods/goods.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/groupon/grouponDetail/grouponDetail.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/groupon/grouponList/grouponList.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/groupon/myGroupon/myGroupon.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/help/help.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/newGoods/newGoods.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/search/search.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/topicCommentPost/topicCommentPost.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/topicDetail/topicDetail.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersale/aftersale.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleDetail/aftersaleDetail.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/aftersaleList/aftersaleList.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/collect/collect.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/couponSelect/couponSelect.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/feedback/feedback.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/footprint/footprint.json,0,0,3
+JSON,/tmp/clone_directory/litemall-wx/pages/ucenter/order/order.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/components/icon/index.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/components/notify/index.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/auth/login/login.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/brand/brand.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/catalog/catalog.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/commentPost/commentPost.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/hotGoods/hotGoods.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/shopping/checkout/checkout.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/topic/topic.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/ucenter/address/address.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/ucenter/addressAdd/addressAdd.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/ucenter/coupon/coupon.json,0,0,3
+JSON,/tmp/clone_directory/renard-wx/pages/ucenter/orderDetail/orderDetail.json,0,0,3
+YAML,/tmp/clone_directory/.gitbook.yaml,0,0,2
+JavaScript,/tmp/clone_directory/litemall-vue/src/store/getters.js,1,0,2
+CSS,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/skins/lightgray/content.inline.min.css,0,0,1
+CSS,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/skins/lightgray/content.min.css,0,0,1
+CSS,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/skins/lightgray/skin.min.css,0,0,1
+JavaScript,/tmp/clone_directory/litemall-admin/public/tinymce4.7.5/tinymce.min.js,0,1,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/404.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/bug.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/chart.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/clipboard.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/component.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/dashboard.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/documentation.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/drag.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/edit.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/email.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/example.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/excel.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/eye.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/form.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/guide 2.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/guide.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/icon.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/international.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/language.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/link.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/list.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/lock.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/message.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/money.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/nested.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/password.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/people.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/peoples.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/qq.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/shopping.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/size.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/star.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/tab.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/table.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/theme.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/tree.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/user.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/wechat.svg,0,0,1
+SVG,/tmp/clone_directory/litemall-admin/src/icons/svg/zip.svg,0,0,1
+SCSS,/tmp/clone_directory/litemall-vue/src/assets/scss/_mixin.scss,0,0,1
+JavaScript,/tmp/clone_directory/litemall-vue/src/store/mutation-types.js,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/action-sheet/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/button/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/card/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/cell-group/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/cell/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/checkbox/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/circle/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/col/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/collapse-item/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/style/clearfix.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/style/ellipsis.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/common/style/hairline.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/count-down/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dialog/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/divider/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-item/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/dropdown-menu/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/field/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-button/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action-icon/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/goods-action/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/grid-item/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/grid/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/icon/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/image/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/index-anchor/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/index-bar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/info/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/loading/index.wxss,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/basic.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/button.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/link.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/observer/behavior.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/observer/index.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/open-type.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/touch.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/mixins/transition.d.ts,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/nav-bar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notice-bar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/notify/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/overlay/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/panel/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker-column/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/picker/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/popup/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/progress/index.wxss,0,0,1
+WXML,/tmp/clone_directory/litemall-wx/lib/vant-weapp/radio-group/index.wxml,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/radio-group/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/radio/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/rate/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/row/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/search/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar-item/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sidebar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/skeleton/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/slider/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/stepper/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/steps/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/sticky/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/submit-bar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/swipe-cell/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/switch/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tab/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar-item/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabbar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tabs/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tag/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/toast/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/transition/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/tree-select/index.wxss,0,0,1
+TypeScript,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/index.d.ts,0,0,1
+WXSS,/tmp/clone_directory/litemall-wx/lib/vant-weapp/uploader/index.wxss,0,0,1
+JSON,/tmp/clone_directory/litemall-wx/pages/category/category.json,0,0,1
+WXSS,/tmp/clone_directory/renard-wx/components/icon/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/renard-wx/components/notice-bar/index.wxss,0,0,1
+WXSS,/tmp/clone_directory/renard-wx/components/notify/index.wxss,0,0,1
+SUM,,23433,47629,154451

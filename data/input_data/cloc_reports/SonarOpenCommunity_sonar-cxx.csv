@@ -1,0 +1,1795 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.88 s (2029.6 files/s 476092.0 lines/s)"
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/TestwellCTC/report_big.txt,12445,0,78619
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/clangtidy.xml,767,10,34601
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/pclint.xml,364,2,18738
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/gtest-1.7.0/gtest/gtest.h,1972,4681,13408
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/compiler-vc.xml,0,0,11028
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/drmemory-reports/results.txt,737,0,9775
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/cppcheck.xml,5,22,9410
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/drmemory-reports/drmemory-result-SAMPLE-V1.txt,681,0,8972
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/bullseye-coverage-Linux-V8.9.60.xml,0,1,6319
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/gtest-1.7.0/gtest/gtest-all.cc,1312,2896,5384
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-param-util-generated.h,349,235,4238
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-param-util-generated.h,349,235,4238
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/rats.xml,288,4,3485
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-type-util.h,138,111,3081
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-type-util.h,138,111,3081
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/compiler-gcc.xml,212,0,3002
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest.cc,685,1476,2737
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest.cc,685,1476,2737
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/bullseye-coverage-results/bullseyecoverage-result-0.xml,0,1,2398
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/CxxGrammarImpl.java,314,95,2058
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/infer.xml,0,0,1815
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/vc++13.txt,5,0,1242
+Text,/tmp/clone_directory/cxx-squid/dox/2023-03-19_cpp23_grammar.txt,373,0,1204
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/clangsa.xml,0,2,1186
+Text,/tmp/clone_directory/cxx-squid/dox/2020-04-01_cpp20_grammar.txt,352,0,1136
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/valgrind-reports/valgrind-result-SAMPLE_1.xml,23,0,1033
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-param-test.h,97,320,1004
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-param-test.h,97,320,1004
+Text,/tmp/clone_directory/cxx-squid/dox/2016-11-28_cpp17_grammar.txt,300,0,991
+Text,/tmp/clone_directory/cxx-squid/dox/2015-07-24_cpp14_grammar.txt,293,0,964
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/lexer/CxxLexerWithPreprocessingTest.java,110,64,876
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-port.h,248,726,801
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-port.h,248,726,801
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest.h,308,1048,799
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest.h,308,1048,799
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-death-test.cc,151,312,771
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-death-test.cc,151,312,771
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-tuple.h,196,66,706
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-tuple.h,196,66,706
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/config/CxxSquidConfigurationTest.java,102,25,670
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/DeclarationsTest.java,124,24,644
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/TFS-agent-msvc14-mp.txt,0,0,605
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/ExpressionTest.java,139,30,599
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-internal.h,160,481,585
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-internal.h,160,481,585
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/TFS-agent-msvc14.txt,0,0,577
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/PreprocessorDirectivesTest.java,95,42,549
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxSquidSensor.java,48,49,485
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/ToolkitViewImpl.java,109,24,482
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/DeclaratorsTest.java,118,27,480
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPGrammarImplTest.java,142,19,480
+Python,/tmp/clone_directory/cxx-sensors/src/tools/clangtidy_createrules.py,70,89,478
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/CxxPreprocessor.java,79,121,474
+Maven,/tmp/clone_directory/pom.xml,15,7,473
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-internal-inl.h,175,392,471
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-internal-inl.h,175,392,471
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-port.cc,113,176,457
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-port.cc,113,176,457
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/lexer/CxxLexerTest.java,49,114,454
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/config/MsBuild.java,49,172,417
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPExpression.java,81,101,417
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-printers.h,77,332,387
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-printers.h,77,332,387
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-param-util.h,71,179,369
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-param-util.h,71,179,369
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/config/CxxSquidConfiguration.java,50,274,365
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/AbstractCxxPublicApiVisitor.java,150,372,357
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPGrammarImpl.java,61,46,354
+YAML,/tmp/clone_directory/.github/workflows/cxx-ci.yml,108,191,347
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/java/org/sonar/cxx/sslr/internal/toolkit/ToolkitPresenterTest.java,90,23,347
+Python,/tmp/clone_directory/cxx-sensors/src/tools/vc_createrules.py,60,118,339
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/Instruction.java,85,36,327
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/AstNode.java,51,219,316
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clangsa-reports/clangsa-report.plist,0,3,315
+XML,/tmp/clone_directory/integration-tests/features/gherkin-rules.xml,0,1,312
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPExpressionTest.java,63,24,310
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/clangtidy/CxxClangTidySensorTest.java,58,19,309
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/vera++.xml,6,0,300
+Python,/tmp/clone_directory/cxx-squid/dox/tools/grammar_parser/grammar_parser.py,45,85,289
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoader.java,22,197,276
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/channel/CodeBufferTest.java,28,34,269
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/annotations/AnnotationBasedRulesDefinitionTest.java,49,23,263
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/api/typed/ActionParserTest.java,65,25,261
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/ClassesTest.java,52,20,253
+Python,/tmp/clone_directory/integration-tests/features/steps/test_execution_statistics.py,81,17,252
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/api/AstNodeTest.java,56,33,249
+Cucumber,/tmp/clone_directory/integration-tests/features/smoketest.feature,9,0,248
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoaderTest.java,31,41,247
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/StatementTest.java,50,31,244
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/valgrind-reports/valgrind-result-SAMPLE_2.xml,12,0,242
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPReplace.java,44,103,242
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/InstructionTest.java,29,23,240
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-filepath.cc,33,107,240
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-filepath.cc,33,107,240
+Python,/tmp/clone_directory/cxx-sensors/src/tools/utils_createrules.py,58,44,238
+XML,/tmp/clone_directory/integration-tests/testdata/clangsa_project/divzero.plist,0,1,238
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/TemplatesTest.java,55,28,231
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/config/JsonCompilationDatabaseTest.java,62,19,230
+Text,/tmp/clone_directory/cxx-squid/dox/diff-cpp20-cpp23_grammar.txt,62,0,229
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/IndentationCheck.cc,3,16,224
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/Machine.java,49,41,220
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest_pred_impl.h,43,98,217
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest_pred_impl.h,43,98,217
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPInclude.java,30,117,213
+HTML,/tmp/clone_directory/cxx-squid/dox/Right_Angle_Brackets_N1757_05-0017.html,10,0,211
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-printers.cc,35,110,211
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-printers.cc,35,110,211
+Java,/tmp/clone_directory/cxx-sslr/sslr-xpath/src/main/java/com/sonar/cxx/sslr/impl/xpath/AstNodeNavigator.java,41,31,209
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/coverage/CxxBullseyeCoverageSensorTest.java,39,21,208
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/AstScanner.java,38,28,208
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceCode.java,43,35,206
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPIncludeTest.java,49,36,204
+Java,/tmp/clone_directory/cxx-sslr/sslr-xpath/src/test/java/com/sonar/cxx/sslr/impl/xpath/AstNodeNavigatorTest.java,34,29,204
+Python,/tmp/clone_directory/integration-tests/features/environment.py,70,37,204
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/MachineTest.java,21,27,201
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/bullseye/BullseyeParser.java,29,34,198
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/coverage/CxxCoberturaSensorTest.java,53,34,198
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/Lexer.java,49,32,196
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/GrammarBuilderInterceptor.java,42,23,195
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/Token.java,46,58,185
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxSquidSensorTest.java,38,26,184
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/ToolkitPresenter.java,38,28,181
+Maven,/tmp/clone_directory/integration-tests/pom.xml,6,5,181
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/valgrind.xml,13,0,179
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxPublicApiVisitorTest.java,36,31,179
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/pclint/CxxPCLintSensor.java,30,44,176
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/BalancedTokensTest.java,46,23,175
+C/C++ Header,/tmp/clone_directory/cxx-sensors/src/main/resources/macros/VS10Macros.h,92,208,172
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/drmemory.xml,3,0,171
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/CodeBuffer.java,43,82,170
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangsa/CxxClangSASensor.java,34,23,168
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/CxxAstScanner.java,30,61,167
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/impl/typed/InterceptorTest.java,37,33,163
+Bourne Shell,/tmp/clone_directory/cxx-sensors/src/tools/generate_clangtidy_resources.sh,17,2,161
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/CxxParserTest.java,28,27,161
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/minic/MiniCGrammar.java,47,27,161
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/config/JsonCompilationDatabase.java,33,33,159
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/LamdaExpressionsTest.java,42,23,158
+XSLT,/tmp/clone_directory/cxx-sensors/src/main/resources/xsl/boosttest-1.x-to-junit-1.0.xsl,39,0,157
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/pclint/CxxPCLintSensorTest.java,47,19,157
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxHighlighterTest.java,40,42,157
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/drmemory/DrMemoryParser.java,38,37,156
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/CxxMetrics.java,19,23,156
+XSLT,/tmp/clone_directory/cxx-sensors/src/main/resources/xsl/boosttest-1.x-to-junit-dummy-1.0.xsl,39,0,152
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/grammar/LexerlessGrammarBuilderTest.java,28,23,152
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxHighlighterVisitor.java,32,19,151
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/AstCreator.java,19,27,151
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/ctc/TestwellCtcTxtParser.java,26,32,149
+Java,/tmp/clone_directory/cxx-sslr/sslr-xpath/src/test/java/com/sonar/cxx/sslr/xpath/api/AstNodeXPathQueryTest.java,48,23,149
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/prejobs/XlstSensorTest.java,31,19,146
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/StringLiteralsChannel.java,13,24,146
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-death-test-internal.h,38,124,146
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-death-test-internal.h,38,124,146
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FunctionCognitiveComplexity.cc,8,0,145
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/coverage/CxxTestwellCtcTxtParserTest.java,40,19,145
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPMacro.java,20,41,145
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/CxxIssuesReportSensor.java,20,45,142
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/StaxParser.java,29,71,140
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/grammar/LexerfulGrammarBuilderTest.java,29,23,138
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/Interceptor.java,14,23,134
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FunctionComplexity.cc,7,0,133
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/dotnet/WildcardPatternFileProviderTest.java,40,23,133
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/SquidAstVisitorContextImpl.java,26,65,133
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxFileLinesVisitor.java,21,38,132
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/java/org/sonar/cxx/sslr/internal/toolkit/LineOffsetsTest.java,33,23,132
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/ModuleTest.java,36,19,131
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/XmlParserHelper.java,26,23,130
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/cppcheck/CppcheckParser.java,25,36,129
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/xunit/CxxXunitSensor.java,13,32,129
+XSLT,/tmp/clone_directory/cxx-sensors/src/main/resources/xsl/cppunit-1.x-to-junit-1.0.xsl,21,0,128
+Java,/tmp/clone_directory/cxx-sslr-toolkit/src/main/java/org/sonar/cxx/toolkit/CxxConfigurationModel.java,20,19,128
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/FileHeaderCheckTest.java,39,20,127
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/xunit/XunitReportParser.java,18,26,127
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/CheckMessagesVerifierTest.java,21,23,127
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/AnnotationBasedRulesDefinition.java,15,45,126
+C/C++ Header,/tmp/clone_directory/cxx-checks/src/test/resources/checks/UndocumentedApiCheck/doc_style2.h,44,30,124
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/LexerfulGrammarBuilder.java,21,139,123
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/api/AstNodeTest.java,27,43,123
+XML,/tmp/clone_directory/integration-tests/testdata/clangsa_project/unused.plist,0,2,123
+XML,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/analyzer_reports/scan-build-2017-06-20-11-43-18-329362-Qnspm8/report-44sKBx.plist,0,2,123
+C/C++ Header,/tmp/clone_directory/cxx-checks/src/test/resources/checks/UndocumentedApiCheck/doc_style1.h,42,47,122
+C/C++ Header,/tmp/clone_directory/cxx-checks/src/test/resources/checks/UndocumentedApiCheck/no_doc.h,42,0,122
+Python,/tmp/clone_directory/cxx-sensors/src/tools/cpplint_createrules.py,40,21,122
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/cobertura/CoberturaParser.java,18,45,121
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/clangsa/CxxClangSASensorTest.java,30,34,121
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/CxxKeyword.java,10,27,121
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/preprocessor/boost_macros.hpp,12,3,121
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/test/miniC/MiniCAstScanner.java,33,29,120
+Python,/tmp/clone_directory/cxx-sensors/src/tools/clangsa_createrules.py,48,42,119
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/lexer/CxxLexerIncludeTest.java,33,42,119
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/MachineIntegrationTest.java,16,24,117
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxPlugin.java,19,38,117
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/naming/MethodNameCheck.java,10,30,116
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangtidy/ClangTidyParser.java,21,24,116
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/coverage/CxxMSCoverageSensorTest.java,25,19,116
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/other/CxxOtherSensorTest.java,30,19,116
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/cobertura/coverage-result-cobertura.xml,0,0,116
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/SyntaxTreeCreator.java,18,24,116
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/GrammarBuilder.java,33,188,116
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/matchers/AstCreatorTest.java,26,23,116
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/other/CxxOtherRepositoryTest.java,27,19,115
+Maven,/tmp/clone_directory/cxx-sslr-toolkit/pom.xml,6,0,114
+Python,/tmp/clone_directory/integration-tests/features/common.py,31,15,114
+Cucumber,/tmp/clone_directory/integration-tests/features/cppcheck.feature,11,0,113
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxCognitiveComplexityVisitorTest.java,29,19,112
+Maven,/tmp/clone_directory/sonar-cxx-plugin/pom.xml,8,1,112
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/drmemory/CxxDrMemorySensor.java,14,28,111
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxCognitiveComplexityVisitor.java,22,19,111
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/GrammarOperators.java,24,71,110
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPNumber.java,17,27,109
+Markdown,/tmp/clone_directory/README.md,14,0,108
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/FunctionCognitiveComplexityCheckTest.java,10,19,108
+Maven,/tmp/clone_directory/cxx-sensors/pom.xml,5,1,108
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/PreprocessorChannel.java,15,28,107
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-string.h,48,195,107
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-string.h,48,195,107
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/matcher/RuleDefinition.java,23,29,106
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-linked_ptr.h,29,98,106
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-linked_ptr.h,29,98,106
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxChecksTest.java,25,19,106
+Python,/tmp/clone_directory/cxx-sensors/src/tools/intelInspectorReport_2_cppcheckReport.py,22,3,104
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-typed-test.h,40,115,104
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-typed-test.h,40,115,104
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/prejobs/XlstSensor.java,18,19,103
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/constraints-and-concepts.cc,33,62,103
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/complexity-project/complexity.cc,19,6,103
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/CxxValgrindSensor.java,15,24,102
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/FunctionComplexityCheckTest.java,9,19,101
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/Makefile.h,14,0,101
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/parser/ParseRunnerTest.java,12,23,101
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/vs/VisualStudioParser.java,15,27,100
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/grammar/MutableParsingRule.java,20,23,100
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/CxxCompilerSensor.java,20,82,99
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/utils/CxxReportSensor_getReports_Test.java,33,36,99
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/DroppedPropertiesSensor.java,11,19,99
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/api/UndocumentedApiCheckTest.java,11,19,98
+Python,/tmp/clone_directory/cxx-sensors/src/tools/cppcheck_createrules.py,32,26,98
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/VisualStudioTestResultsFileParser.java,24,23,97
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/WildcardPatternFileProvider.java,23,23,97
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/compiler/CxxCompilerSensorTest.java,22,19,97
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/CxxLexerPool.java,14,38,97
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/CxxAstScannerTest.java,18,19,97
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPStateTest.java,15,19,97
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/public_api.h,55,78,97
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-spi.h,20,115,97
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-spi.h,20,115,97
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/MSCoverage/MSCoverage.xml,0,0,96
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/test/java/org/sonar/cxx/sslr/tests/ParserAssertTest.java,13,23,96
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/Validators.java,23,45,96
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/gcc/CxxCompilerGccSensor.java,12,25,95
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/utils/TestUtils.java,17,46,95
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/valgrind/ValgrindStackTest.java,25,19,95
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/ast/AstWalker.java,16,26,95
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/ncloc.cc,23,11,95
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/infer/CxxInferSensorTest.java,16,19,94
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/dotnet/CxxUnitTestResultsAggregatorTest.java,18,27,94
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/TestwellCTC/report_small.txt,33,0,93
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/metrics/CommentsVisitor.java,23,26,93
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/DensityMeasureComputer.java,15,39,93
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPPunctuator.java,8,32,93
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/minic/MiniCLexer.java,28,23,93
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/ValgrindReportParser.java,20,29,92
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/cppcheck/CxxCppCheckSensorTest.java,23,20,91
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/coverage-result-bullseye.xml,0,1,91
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/Optional.java,28,28,91
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/utils/CxxReportSensorTest.java,17,19,90
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/api/SourceCodeTest.java,15,23,90
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokensBridgeExpressionTest.java,10,24,90
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/java/org/sonar/cxx/sslr/toolkit/AbstractConfigurationModelTest.java,21,23,90
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/rats/CxxRatsSensor.java,16,22,89
+Maven,/tmp/clone_directory/cxx-squid/pom.xml,5,1,89
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/matchers/ImmutableInputBufferTest.java,28,23,89
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/CodeReader.java,13,95,88
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/AdjacentExpressionTest.java,9,23,88
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/LexerfulMachineIntegrationTest.java,14,23,88
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/veraxx/CxxVeraxxSensor.java,13,22,87
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/cpd.cc,11,6,87
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/FileHeaderCheck.java,15,29,86
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/CxxUnitTestResultsImportSensor.java,10,23,86
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/CharacterLiteralsChannel.java,11,23,86
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/ActionParser.java,22,26,86
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/Parser.java,22,33,86
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/channel/CodeReaderTest.java,13,24,86
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/ast/AstWalkerTest.java,19,23,86
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-message.h,23,121,86
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-message.h,23,121,86
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/TooManyStatementsPerLineCheck.java,12,37,85
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/vc/CxxCompilerVcSensor.java,11,19,85
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/other/CxxOtherSensor.java,13,22,85
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/dotnet/CxxUnitTestResultsImportSensorTest.java,16,23,85
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/Trivia.java,23,23,85
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/org/sonar/cxx/sslr/ast/CollapsibleIfSelectTest.java,20,55,85
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/api/GrammarTest.java,20,23,84
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/xpath/BasicQueriesTest.java,17,23,84
+Cucumber,/tmp/clone_directory/integration-tests/features/googletest.feature,11,19,84
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/CoverageSensor.java,14,32,83
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxCpdVisitor.java,16,19,83
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/ast/AstXmlPrinterTest.java,18,23,83
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/CxxCyclomaticComplexityCheck.java,19,42,82
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/FileRegularExpressionCheckTest.java,17,19,82
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPConcatenation.java,22,37,82
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/FunctionComplexity.cc,5,0,82
+Maven,/tmp/clone_directory/cxx-sslr/pom.xml,8,0,82
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/infer/InferParser.java,22,24,81
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/CxxUtils.java,14,57,81
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/CheckMessagesVerifier.java,15,41,81
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/config/JsonCompilationDatabaseCommandObject.java,25,72,81
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/LexerlessGrammarBuilder.java,15,77,81
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/MachineStack.java,26,26,81
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/matchers/ExpressionGrammarTest.java,14,23,81
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_project/coverage2.xml,1,0,81
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/LineRegularExpressionCheck.java,13,38,80
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/ValgrindFrame.java,14,27,80
+Perl,/tmp/clone_directory/cxx-sensors/src/tools/cpplintReport2checkstyleReport.perl,13,3,80
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/MultiLocatitionSquidCheck.java,16,44,80
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/tests/RuleAssert.java,18,48,80
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/highlighter.cc,22,23,80
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/grammar/RuleBuilderTest.java,11,23,79
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/parser/ParserAdapterTest.java,14,23,79
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxFileLinesContextTest.java,16,19,79
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/FileRegularExpressionCheck.java,15,38,78
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/valgrind/CxxValgrindRuleRepositoryTest.java,12,19,78
+Maven,/tmp/clone_directory/cxx-squid-bridge/pom.xml,6,1,78
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/CheckMessage.java,21,29,78
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/AssemblerTest.java,12,19,78
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/LocatedText.java,17,32,78
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/parser/GrammarOperatorsTest.java,19,23,78
+Maven,/tmp/clone_directory/cxx-checks/pom.xml,5,1,77
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/LineRegularExpressionCheckTest.java,16,19,77
+XSD,/tmp/clone_directory/cxx-sensors/src/main/resources/rules.xsd,0,22,77
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/DensityMeasureComputerTest.java,24,19,77
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/token/TokenUtils.java,11,23,77
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/LexerfulParseErrorFormatter.java,13,26,77
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/MethodName.cc,26,4,76
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/ClassComplexityCheckTest.java,11,19,75
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/valgrind/CxxValgrindSensorTest.java,16,19,75
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/xpath/XPathCheckTest.java,13,19,74
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/NUnitTestResultsFileParser.java,19,23,74
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/RulesDefinitionXml.java,14,29,74
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/IdentifierAndKeywordChannelTest.java,17,23,74
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/TooManyStatementsPerLine.cc,13,17,73
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/utils/CxxReportIssue.java,16,22,73
+JSON,/tmp/clone_directory/cxx-squid/src/test/resources/jsondb/compile_commands.json,0,0,73
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/autoptr.hpp,9,25,73
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-test-part.h,31,72,73
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-test-part.h,31,72,73
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/utils/CxxReportPatternMatchingTest.java,13,25,72
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/CxxPunctuator.java,10,30,72
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/dotnet/NUnitTestResultsFileParserTest.java,15,23,71
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/list-initialization.cc,19,3,71
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/valgrind/ValgrindReportParserTest.java,16,30,70
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/ast/AstXmlPrinter.java,12,23,70
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangtidy/CxxClangTidySensor.java,9,22,69
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/postjobs/FinalReportTest.java,14,19,69
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/metrics/ComplexityVisitor.java,18,23,69
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPState.java,23,19,69
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/lexer/LexerAssert.java,12,19,69
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/RegexpChannelBuilder.java,14,23,69
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/impl/typed/DelayedRuleInvocationExpressionTest.java,18,24,69
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/xunit/XunitReportParserTest.java,14,20,68
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/utils/CxxReportIssueTest.java,20,19,68
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/PatternExpressionTest.java,10,25,68
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/TillNewLineExpressionTest.java,8,25,68
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenValueExpressionTest.java,9,23,68
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/boost/test/unit_test.hpp,33,15,68
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/CheckList.java,6,19,67
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/highlighter.cc,20,21,67
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/xpath/XPathCheck.java,12,19,66
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/lexer/CxxLexerWithoutPreprocessorTest.java,10,22,66
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/memory/myalloc.hpp,10,26,66
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/AstNodeBuilder.java,14,26,66
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/test/java/org/sonar/cxx/sslr/tests/RuleAssertTest.java,13,23,66
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/test/minic/MiniCLexerTest.java,9,23,66
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/xunit/CxxXunitSensorTest.java,15,19,65
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxParseErrorLoggerVisitor.java,12,22,65
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/sort1.cpp,13,25,65
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/matcher/GrammarFunctions.java,11,30,65
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/CxxReportSensor.java,20,56,64
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/MSCoverage/MSTestResults.trx,0,0,64
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/KeywordChannel.java,10,21,64
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/config/MsBuildTest.java,23,29,64
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/PunctuatorChannel.java,16,27,64
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/grammar/MutableParsingRuleTest.java,9,23,64
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/AbstractXPathCheckTest.java,21,23,63
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/ChannelDispatcher.java,16,30,63
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/LexerfulAstCreator.java,13,26,63
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/ParserAdapter.java,11,40,63
+Cucumber,/tmp/clone_directory/integration-tests/features/boosttest.feature,8,19,63
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/ClassComplexity.cc,3,2,62
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/MSCoverage/coverage-result-visual-studio.xml,0,0,62
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/RightAngleBracketsChannel.java,12,35,62
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/MacroContainer.java,15,74,62
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxComplexitySource.java,8,22,62
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPLexerTest.java,11,19,62
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/sort1.cpp,13,24,62
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/ValgrindError.java,11,38,61
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/valgrind/ValgrindFrameTest.java,13,19,61
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPGeneratedToken.java,10,34,61
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPConcatenationTest.java,11,19,61
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/const-expr.cc,9,11,61
+Maven,/tmp/clone_directory/cxx-sslr/sslr-tests/pom.xml,6,1,61
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/utils/CheckUtils.java,11,19,60
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/valgrind-reports/valgrind-result-SAMPLE_3.xml,12,0,60
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/ParserBaseTestHelper.java,13,24,60
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CustomCxxRulesDefinitionTest.java,16,19,60
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/compiler/vc/CxxCompilerVcSensorTest.java,14,19,59
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPLexer.java,9,25,59
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/utils/CxxReportLocation.java,12,23,59
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxCyclomaticComplexityVisitor.java,14,28,59
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/AggregateMeasureComputerTest.java,20,19,59
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/MacroContainerTest.java,15,19,59
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/mapcmp.cpp,11,31,59
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/enable_if.cc,14,9,59
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/lambda-function.cc,10,8,59
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/typename.cc,11,8,59
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/api/typed/InputTest.java,15,23,59
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-typed-test.cc,14,37,59
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-typed-test.cc,14,37,59
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/naming/FunctionNameCheck.java,8,28,58
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/compiler/gcc/CxxCompilerGccSensorTest.java,14,21,58
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/valgrind-reports/incorrect-valgrind-result_1.xml,12,2,58
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/valgrind-reports/incorrect-valgrind-result_2.xml,12,2,58
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/Measures.java,17,23,58
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/AggregateMeasureComputer.java,10,43,58
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPGeneratedTokenTest.java,12,19,58
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/no_doc.h,29,2,58
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/defalloc.hpp,10,26,58
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/declarations.cc,12,2,58
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/Input.java,15,29,58
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenTypesExpressionTest.java,8,23,58
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/tests/ParserAssert.java,11,42,58
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxChecks.java,15,19,58
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/codechunks-project/code_chunks.cc,15,18,58
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/cppcheck/CxxCppCheckSensor.java,9,25,57
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/ValgrindStack.java,11,33,57
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/ImmutableInputBuffer.java,14,31,57
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenTypeClassTest.java,8,23,57
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenTypeExpressionTest.java,8,23,57
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/minic/MiniCToolkit.java,13,24,57
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/matcher/RuleDefinitionTest.java,12,23,57
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/TooManyParameters.cc,8,1,56
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/xunit/TestCase.java,15,65,56
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxPublicApiVisitor.java,13,55,56
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events10.cpp,12,3,56
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/Toolkit.java,13,40,56
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/java/org/sonar/cxx/sslr/toolkit/ValidatorsTest.java,10,23,56
+Text,/tmp/clone_directory/integration-tests/Readme.txt,20,0,56
+Cucumber,/tmp/clone_directory/integration-tests/features/coverage.feature,6,0,56
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_project/coverage1.xml,1,0,56
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest-death-test.h,25,202,56
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest-death-test.h,25,202,56
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/xunit/TestFileTest.java,18,19,55
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/JoinStringsPreprocessor.java,10,21,55
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events6.cpp,15,8,55
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property.cpp,4,5,55
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/user-defined-literals.cc,13,6,55
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/channel/RegexChannelTest.java,16,23,55
+Maven,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/pom.xml,5,1,55
+Maven,/tmp/clone_directory/cxx-sslr/sslr-toolkit/pom.xml,6,1,55
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/TextScanner.java,11,86,54
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPStringification.java,6,29,54
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/Grammar.java,14,59,54
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/internal/gtest-filepath.h,32,124,54
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/internal/gtest-filepath.h,32,124,54
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/DroppedPropertiesSensorTest.java,11,19,54
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/file/FileEncodingCheckTest.java,10,19,53
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/veraxx/CxxVeraxxSensorTest.java,11,19,53
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/metrics/CounterVisitor.java,16,23,53
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/AbstractCommentRegularExpressionCheckTest.java,16,23,53
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxFunctionSizeVisitor.java,14,19,53
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/mcppv2_events6.cpp,15,10,53
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/setcmp.cpp,9,24,53
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/strongly-typed-enum.cc,11,7,53
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/TextLocation.java,12,26,53
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/it-coverage-result-bullseye-another-drive.xml,0,1,52
+DOS Batch,/tmp/clone_directory/cxx-sensors/src/tools/generate_clangtidy_resources.cmd,10,6,52
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/DelayedRuleInvocationExpression.java,11,24,52
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/MutableGrammarCompiler.java,12,25,52
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/StringExpressionTest.java,8,23,52
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/ctc/CxxCoverageTestwellCtcTxtSensor.java,7,19,51
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxFunctionComplexityVisitor.java,15,19,51
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/CxxFileTesterHelper.java,14,20,51
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/AttributedAtlTest.java,13,19,51
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/move-assignment.cc,9,4,51
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/add_version_macro.cc,2,2,51
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/PunctuatorChannelTest.java,17,23,51
+Cucumber,/tmp/clone_directory/integration-tests/features/regex.feature,4,0,51
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-test-part.cc,16,43,51
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-test-part.cc,16,43,51
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/TestUtils.java,8,26,51
+Markdown,/tmp/clone_directory/cxx-squid-bridge/README.md,5,0,50
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxLinesOfCodeVisitor.java,13,35,50
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/sum1.cpp,11,24,50
+Markdown,/tmp/clone_directory/cxx-sslr/README.md,5,0,50
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/IdentifierAndKeywordChannel.java,9,26,50
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/matchers/ParseTreePrinter.java,8,23,50
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/SubExpression.java,14,26,50
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/org/sonar/cxx/sslr/ast/CollapsibleIfVisitorTest.java,11,24,50
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/java/org/sonar/cxx/sslr/toolkit/ConfigurationPropertyTest.java,11,23,50
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxLanguage.java,11,42,50
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/TooManyStatementsPerLineCheckTest.java,9,19,49
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/xunit/TestFile.java,16,33,49
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/valgrind-reports/incorrect-valgrind-result_3.xml,13,11,49
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/rules/ExternalDescriptionLoaderTest.java,12,23,49
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/IncludeFileLexerTest.java,9,21,49
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/TooManyParametersCheck.java,8,19,48
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/CxxFileTesterHelper.java,11,20,48
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/CoverageMeasures.java,11,24,48
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/CheckMessagesVerifierRuleTest.java,9,23,48
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/indexer/SquidIndexTest.java,7,23,48
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/api/CxxMetric.java,9,19,48
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPNumberTest.java,13,19,48
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events4.cpp,12,4,48
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events7.cpp,15,11,48
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/misc.cc,15,3,48
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/HasCommentCondition.java,9,23,48
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/ConfigurationProperty.java,15,37,48
+CSS,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/resources/org/sonar/cxx/sslr/toolkit/sourceCodeEditor.css,12,32,48
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/infer/CxxInferSensor.java,9,24,47
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/dotnet/VisualStudioTestResultsFileParserTest.java,10,23,47
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPReplaceTest.java,8,19,47
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events5.cpp,13,12,47
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/RegexpChannel.java,8,31,47
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/ChannelCodeReaderFilter.java,9,52,47
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokensBridgeExpression.java,7,24,47
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/channel/ChannelDispatcherTest.java,11,23,47
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/ConfigurationPropertyPanel.java,14,23,47
+XML,/tmp/clone_directory/integration-tests/testdata/smoketest_project/build/gcovr-report.xml,1,0,47
+XML,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/build/gcovr-report.xml,1,0,47
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/TooLongLineCheck.java,7,29,46
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/CommentContainsPatternChecker.java,11,31,46
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/rats/CxxRatsSensorTest.java,11,19,46
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/SquidAstVisitor.java,14,63,46
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPKeyword.java,10,23,46
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/memfun1.cpp,13,19,46
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/CommentRegexpChannel.java,8,28,46
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/matchers/ExpressionGrammar.java,11,28,46
+Maven,/tmp/clone_directory/cxx-sslr/sslr-xpath/pom.xml,6,1,46
+Cucumber,/tmp/clone_directory/integration-tests/features/clangsa.feature,6,0,46
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/FunctionCognitiveComplexityCheck.java,8,19,45
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/TooManyLinesOfCodeInFunctionCheck.java,9,19,45
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/naming/ClassNameCheck.java,7,26,45
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/dotnet/XmlParserHelperTest.java,8,24,45
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/valgrind/ValgrindErrorTest.java,11,19,45
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/add_version.cc,1,1,45
+Maven,/tmp/clone_directory/cxx-sslr/sslr-core/pom.xml,5,1,45
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/InputBuffer.java,16,38,45
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/queries/collapsible_if.mc,8,11,45
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/SourceCodeModel.java,12,23,45
+XML,/tmp/clone_directory/integration-tests/testdata/smoketest_project/build/cppcheck-report.xml,1,2,45
+XML,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/build/cppcheck-report.xml,1,2,45
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/file/TabCharacterCheck.java,6,26,44
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/FunctionComplexityCheck.java,9,20,44
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/UndocumentedApi.html,10,0,44
+XSLT,/tmp/clone_directory/cxx-sensors/src/main/resources/xsl/cpptestunit-1.x-to-junit-1.0.xsl,11,0,44
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/TestwellCTC/report_small_v8.txt,15,0,44
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/rats-reports/rats-result-SAMPLE.xml,0,0,44
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/ExceptionHandlingTest.java,14,19,44
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf3.hpp,7,30,44
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/static-assert.cc,8,2,44
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/UnitTestResults.java,12,23,43
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/TokenList.java,15,26,43
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/SpecialMemberFunctionsTest.java,15,19,43
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPMacroTest.java,9,19,43
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxFileLinesVisitorTest.java,7,19,43
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/extending_metadata_b.cpp,13,14,43
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/mmap1.cpp,6,16,43
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/set1.cpp,10,23,43
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/i18n/loc2.cpp,6,16,43
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/ClassComplexityCheck.java,9,19,42
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/naming/FileNameCheck.java,7,26,42
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/XPath.html,5,0,42
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/indexer/SquidIndex.java,7,23,42
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/point-class.cpp,0,100,42
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/setalgos.cpp,8,17,42
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/countptr.hpp,9,20,42
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/sum2.cpp,9,15,42
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/api/typed/OptionalTest.java,18,23,42
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/FileComplexityCheck.java,9,20,41
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/file/TabCharacterCheckTest.java,11,19,41
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/other/CxxOtherRepository.java,10,31,41
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/CxxUnitTestResultsAggregator.java,11,32,41
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/drmemory/CxxDrMemorySensorTest.java,11,19,41
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/inbuf1.hpp,8,33,41
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/move-constructor.cc,9,4,41
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/range-for.cc,13,1,41
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/MatcherPathElement.java,10,23,41
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/LineOffsets.java,14,23,41
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/commentedCode.cc,40,107,40
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/AbstractOneStatementPerLineCheck.java,12,23,40
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxComplexityScope.java,12,22,40
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/ParallelBuildLog.txt,3,0,40
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/Queue.hpp,9,21,40
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/Stack.hpp,9,21,40
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/mapfind.cpp,5,17,40
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/fold-expression.cc,11,3,40
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/AnyTokenExpressionTest.java,7,23,40
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/ToolkitView.java,36,165,40
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/AbstractConfigurationModel.java,14,48,40
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/LineRegularExpression.html,4,0,39
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/prejobs/cppunit-report.xml,0,0,39
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/TokenListTest.java,7,19,39
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property/mcppv2_property_2.cpp,8,6,39
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/visibility.cpp,12,8,39
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/charset.cpp,10,19,39
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/ErrorTreeNode.java,6,23,39
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/LexerConditions.java,14,23,39
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_project/coverage3.xml,1,0,39
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxLanguageTest.java,9,19,39
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/TooManyLinesOfCodeInFileCheck.java,7,20,38
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/NoSonarCheck.java,6,22,38
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/tag/Tag.java,5,21,38
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FileRegularExpression.html,4,0,38
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoader/rules.xml,2,2,38
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/AbstractXPathCheck.java,9,25,38
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/indexer/QueryByType.java,10,23,38
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/lexico1.cpp,10,16,38
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/genera2.cpp,7,20,38
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/icstring.hpp,5,22,38
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/noexcept-operator.cc,3,2,38
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/CommentChannelTest.java,6,23,38
+Python,/tmp/clone_directory/integration-tests/features/webapi.py,9,15,38
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/error/ParsingErrorCheckTest.java,9,19,37
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/file/MissingNewLineAtEndOfFileCheckTest.java,8,19,37
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/bullseye/CxxCoverageBullseyeSensor.java,7,19,37
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/template.h,13,33,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/mset1.cpp,10,23,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/refsem1.cpp,7,23,37
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf2.hpp,3,14,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/indi1.cpp,8,21,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/decl-type.cc,10,1,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/nullptr-literal.cc,9,2,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/static-assert.cc,7,0,37
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/to_regexp.cc,1,1,37
+C++,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/test_failure.cc,11,0,37
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxSonarWayProfile.java,9,22,37
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/api/UndocumentedApiCheck.java,6,48,36
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/error/ParsingErrorRecoveryCheck.java,5,19,36
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/file/FileEncodingCheck.java,6,22,36
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/CommentRegularExpressionCheck.java,8,19,36
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/naming/FileNameCheckTest.java,10,19,36
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/cobertura/CxxCoverageCoberturaSensor.java,7,19,36
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/ctc/TestwellCtcTxtResult.java,7,22,36
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/vs/CxxCoverageVisualStudioSensor.java,7,19,36
+C/C++ Header,/tmp/clone_directory/cxx-sensors/src/main/resources/macros/GxxMacros.h,6,23,36
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/rules/ExternalDescriptionLoader.java,8,23,36
+JSON,/tmp/clone_directory/cxx-squid/src/test/resources/jsondb/invalid.json,0,0,36
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events3.cpp,6,3,36
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property/properties_abstract_sealed.cpp,10,7,36
+COBOL,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/ref.ccp,8,0,36
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/misma1.cpp,6,14,36
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/sort2.cpp,6,12,36
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/list1.cpp,7,17,36
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/using-alias.cc,8,13,36
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/ParseErrorFormatter.java,7,34,36
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/HasTokensCondition.java,6,23,36
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/test/java/org/sonar/cxx/sslr/test/channel/ChannelMatchersTest.java,6,23,36
+Java,/tmp/clone_directory/cxx-sslr/sslr-xpath/src/main/java/com/sonar/cxx/sslr/xpath/api/AstNodeXPathQuery.java,9,64,36
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/FileComplexityCheckTest.java,7,19,35
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/AbstractCommentRegularExpressionCheck.java,9,25,35
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/nested_if.mc,1,0,35
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/lexer/LiteralValuesBuilder.java,12,19,35
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/utils/TestUtils.java,7,26,35
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/typeid/keyword__typeid_2.cpp,11,3,35
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/init-selection-statement.cc,4,10,35
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/PatternExpression.java,10,34,35
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/Tags.java,4,27,34
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxLinesOfCodeInFunctionBodyVisitor.java,5,24,34
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxFunctionSizeVisitorTest.java,8,19,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/complexity_macro.cc,4,1,34
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv141x64.txt,4,0,34
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv141x86.txt,4,0,34
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv143x64.txt,4,0,34
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv143x86.txt,4,0,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/searchn1.cpp,6,14,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/map1.cpp,8,22,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/gslice1.cpp,8,25,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/iter2.cpp,5,12,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/alignstorage.cc,5,4,34
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/user-defined-literals.cc,6,3,34
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/ParseNode.java,10,32,34
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/EndOfInputExpressionTest.java,7,23,34
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/parser/LexerlessGrammarTest.java,11,23,34
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/xpath/IfSMustUseBracesTest.java,11,23,34
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_failure-test_suite.xml,0,0,34
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/reports/cobertura_src1.xml,0,2,34
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/reports/cobertura_src3_else.xml,0,2,34
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/reports/cobertura_src3_if.xml,0,2,34
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/bullseye-coverage-drive-letter-without-slash-linux.xml,1,0,33
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/bullseye-coverage-drive-letter-without-slash-win.xml,1,0,33
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/bullseye-coverage-report-data-in-root-node-linux.xml,1,0,33
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/bullseye-coverage-report-data-in-root-node-win.xml,1,0,33
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPSpecialIdentifier.java,10,23,33
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPPredefinedMacrosTest.java,4,21,33
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxFunctionComplexityVisitorTest.java,9,19,33
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/GCC/inline-assembler.cc,7,6,33
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/ref.cpp,8,3,33
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/adjfind1.cpp,8,13,33
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/countlines.cpp,4,12,33
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/prime1.cpp,7,19,33
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/PreprocessorAction.java,10,85,33
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/impl/matcher/GrammarFunctionsTest.java,8,23,33
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/lexerful/LexerfulParseErrorFormatterTest.java,5,23,33
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/HasTokenValueCondition.java,7,23,33
+JSON,/tmp/clone_directory/integration-tests/testdata/json_db_project/compile_commands.json,0,0,33
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-MISRA2004-SAMPLE1.xml,0,0,32
+XML,/tmp/clone_directory/cxx-sensors/src/tools/vc_createrules.pyproj,0,0,32
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/CxxParser.java,9,19,32
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/nth1.cpp,8,16,32
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/vector1.cpp,10,20,32
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/string1.cpp,4,24,32
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/BlackHoleChannel.java,13,34,32
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/ReflectionUtils.java,7,24,32
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/CodeReaderFilter.java,15,85,32
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/FirstOfExpression.java,9,39,32
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/TokenExpression.java,9,37,32
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/xpath/IdentifiersTooLongTest.java,11,23,32
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,8,0,31
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,10,30,31
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/error/ParsingErrorCheck.java,5,19,31
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/file/MissingNewLineAtEndOfFileCheck.java,5,19,31
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/error/ParsingErrorRecoveryCheckTest.java,6,19,31
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/naming/MethodNameCheckTest.java,4,19,31
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/JoinStringsPreprocessorTest.java,6,19,31
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/algostuff.hpp,5,19,31
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/i18n/numget.cpp,7,17,31
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/assoiter.hpp,6,19,31
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/slice1.cpp,12,21,31
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/autoptr1.cpp,5,14,31
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/ParsingResult.java,9,32,31
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/RegexpChannelBuilderTest.java,9,23,31
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/test/minic/rules/ExpressionTest.java,5,23,31
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,30
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/TooManyLinesOfCodeInFileCheckTest.java,8,19,30
+Perl,/tmp/clone_directory/cxx-sensors/src/tools/vera++Report2checkstyleReport.perl,9,26,30
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceCodeTreeDecorator.java,6,23,30
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/metrics/ResourceParser.java,6,23,30
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/OverloadingTest.java,8,24,30
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxCpdVisitorTest.java,7,19,30
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/equal1.cpp,6,12,30
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/search2.cpp,7,18,30
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/autoptr2.cpp,5,17,30
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/UnknownCharacterChannel.java,10,33,30
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/CodeReaderConfiguration.java,12,46,30
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/CoverageMeasure.java,10,23,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property/mcppv2_property_4.cpp,4,3,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/foreach3.cpp,6,17,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/removeif.cpp,5,12,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/reviter3.cpp,8,16,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/complex2.cpp,7,13,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/add1.cpp,9,16,29
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/type-traits.cc,3,4,29
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/ParserTest.java,6,23,29
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/UnknownCharacterChannelTest.java,8,23,29
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,18,0,28
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/MSCoverage/faulty.xml,0,0,28
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/metrics/LinesOfCodeVisitor.java,9,33,28
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/metrics/CommentsVisitorTest.java,11,23,28
+XML,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/rules/sqale-linear-offset.xml,0,0,28
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/IncludeFileLexer.java,8,23,28
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPPredefinedMacros.java,6,36,28
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/AttributeTest.java,5,19,28
+C,/tmp/clone_directory/cxx-squid/src/test/resources/parser/C/primenumbers.c,6,2,28
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/mcppv2_events.cpp,9,11,28
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/minmax1.cpp,6,12,28
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/genera1.cpp,7,14,28
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/val1.cpp,9,19,28
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/CompiledGrammar.java,10,23,28
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/TillNewLineExpression.java,7,23,28
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenTypesExpression.java,8,23,28
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenValueExpression.java,7,23,28
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/test/channel/ChannelCondition.java,8,23,28
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/rats-reports/rats-result-missingtype.xml,0,0,27
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/PPParser.java,6,22,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events2.cpp,8,8,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cuda/kernel_function.cpp,8,6,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/bounds1.cpp,8,13,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/fill1.cpp,6,15,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/rotate2.cpp,5,13,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/inserter.cpp,10,17,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/algo1.cpp,7,16,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/fo1.cpp,9,14,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/remove2.cpp,8,18,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/tuple.cc,3,0,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/attribute.cc,10,5,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/constexpr-if.cc,4,11,27
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/overridden_symbol_from.cc,2,1,27
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/StringExpression.java,7,23,27
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/AdjacentExpression.java,7,23,27
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/matchers/TextUtilsTest.java,6,23,27
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/parser/ParseErrorFormatterTest.java,7,23,27
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/xpath/ifSMustUseBraces.mc,2,0,27
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/FixmeTagPresenceCheck.java,6,19,26
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/TodoTagPresenceCheck.java,6,19,26
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FileHeader.html,1,0,26
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/SourceCodeBuilderVisitor.java,8,32,26
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/SquidAstVisitorContext.java,17,55,26
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceFile.java,10,23,26
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/AbstractOneStatementPerLineCheckTest.java,9,23,26
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/test/miniC/fakeChecks/FakeCommentCheckTest.java,7,23,26
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/CxxComplexityConstants.java,6,28,26
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPSpecialIdentifierTest.java,7,19,26
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/visitors/CxxParseErrorLoggerVisitorTest.java,7,19,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/sealed_keyword.cpp,6,8,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/accu1.cpp,6,14,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/random1.cpp,8,15,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/queue2.cpp,8,17,26
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose22.hpp,3,16,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/masked1.cpp,7,18,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/val2.cpp,9,19,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/unique.cpp,5,20,26
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/integer-sequence.cc,7,38,26
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/preprocessor/self_referential_macros.hpp,7,3,26
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/TextUtils.java,7,28,26
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/TokenExpressionTest.java,5,24,26
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/TriviaExpressionTest.java,5,24,26
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/HasTokenCondition.java,6,23,26
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/RegexpChannelTest.java,5,23,26
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_nested-all.xml,0,0,26
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_nested-test_suite.xml,0,0,26
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/reports/cobertura_src2_f1.xml,0,1,26
+XML,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/reports/cobertura_src2_f2.xml,0,1,26
+C,/tmp/clone_directory/integration-tests/testdata/cppcheck_project_c_cpp/src/component1.c,11,16,26
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-rats/rats-result-1.xml,0,0,26
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/naming/ClassNameCheckTest.java,5,19,25
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/TodoTagPresenceCheckTest.java,6,19,25
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FunctionLength.cc,6,1,25
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/postjobs/FinalReport.java,7,19,25
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/UnitTestConfiguration.java,11,19,25
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/vera++-reports/vera++-result-SAMPLE.xml,0,0,25
+Bourne Shell,/tmp/clone_directory/cxx-sensors/src/tools/check_rules.sh,4,13,25
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/api/SourceFileTest.java,4,23,25
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPParserTest.java,6,20,25
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPStringificationTest.java,7,19,25
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/findof1.cpp,5,12,25
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/foreach3.cpp,6,16,25
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/inner1.cpp,5,19,25
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/psort2.cpp,6,14,25
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/transf2.cpp,5,15,25
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose12.hpp,3,16,25
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/three-way-comparison.cc,6,0,25
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/FirstOfExpressionTest.java,4,23,25
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/HasLastTokenCondition.java,7,23,25
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/tests/ParsingResultComparisonFailure.java,8,39,25
+C++,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/test_nested.cc,9,0,25
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/unittests/test_component1.cc,7,0,25
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/unittests/test_component1.cc,7,0,25
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/CommentRegularExpressionCheckTest.java,6,19,24
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/FixmeTagPresenceCheckTest.java,6,19,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/complexity.cc,9,0,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/complexity_alternative.cc,9,1,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/C99/designated-initializers.cc,7,8,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/findend1.cpp,7,14,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/foreach2.cpp,6,15,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/replace2.cpp,5,13,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/unique1.cpp,7,18,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/deque1.cpp,7,17,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/queue1.cpp,7,16,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/stack2.cpp,7,18,24
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose21.hpp,3,16,24
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/Makefile,6,0,24
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/frac2in.hpp,6,20,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/assoiter.cpp,10,16,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/itercat.cpp,6,23,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/ostriter.cpp,5,16,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/string2.cpp,6,17,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/limits1.cpp,5,15,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/delegating-constructors.cc,3,3,24
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/attributes.cc,4,3,24
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/PreprocessingDirective.java,11,23,24
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/AstNodeReflector.java,9,23,24
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenTypeExpression.java,7,23,24
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/HasTokenTypeCondition.java,6,23,24
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/BlackHoleChannelTest.java,5,23,24
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/test/minic/integration/MiniCOwnExamplesTest.java,5,23,24
+XML,/tmp/clone_directory/integration-tests/testdata/cppcheck_project/cppcheck-v2.xml,0,0,24
+XML,/tmp/clone_directory/integration-tests/testdata/cppcheck_project/relative-to-src.xml,0,0,24
+XML,/tmp/clone_directory/integration-tests/testdata/cppcheck_project_c_cpp/cppcheck-v2.xml,0,0,24
+XML,/tmp/clone_directory/integration-tests/testdata/cppcheck_with_absolute_paths_project/reports/cppcheck-v2.xml,0,0,24
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/lib/component1.cc,12,16,24
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/lib/component1.cc,12,16,24
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/TooManyLinesOfCodeInFunctionCheckTest.java,5,19,23
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/TooManyParametersCheckTest.java,5,19,23
+XML,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/rules/sqale-constant.xml,0,0,23
+XML,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/rules/sqale-linear.xml,0,0,23
+XML,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/rules/sqale-unknown-function.xml,0,0,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/cli_sample.cpp,8,2,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/generics_generic_method2.cpp,5,8,23
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/Makefile,4,0,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/psort1.cpp,5,13,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/search1.cpp,7,14,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/swap1.cpp,7,12,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/unique2.cpp,5,14,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/bitset1.cpp,5,20,23
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/carray.hpp,7,15,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/pqueue1.cpp,6,15,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/stack1.cpp,7,16,23
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose10.hpp,3,16,23
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose11.hpp,3,16,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/rdbuf2.cpp,7,10,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/backins.cpp,5,17,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/copy3.cpp,5,16,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/remove1.cpp,5,14,23
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/thread-local.cc,6,0,23
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/OneOrMoreExpression.java,6,44,23
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/TokenTypeClassExpression.java,7,23,23
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/RuleRefExpressionTest.java,6,23,23
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/minic/MiniCParser.java,9,23,23
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_project/src/component2.cc,12,16,23
+C++,/tmp/clone_directory/integration-tests/testdata/cppcheck_with_absolute_paths_project/src/sample/component1.cc,11,16,23
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/lib/component2.cc,12,16,23
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/lib/component2.cc,12,16,23
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxPluginTest.java,4,19,23
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/metrics/TooLongLineCheckTest.java,6,19,22
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/naming/FunctionNameCheckTest.java,5,19,22
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FunctionName.cc,8,2,22
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/drmemory/CxxDrMemoryRuleRepositoryTest.java,6,19,22
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/utils/CxxMetricsTest.java,7,19,22
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/cppcheck-reports/cppcheck-result-SAMPLE-V2.xml,0,0,22
+Python,/tmp/clone_directory/cxx-sensors/src/tools/infer_createrules.py,17,218,22
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/metrics/complexity.mc,4,0,22
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/CxxTokenType.java,7,19,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/count1.cpp,5,13,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/find1.cpp,6,18,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/includes.cpp,4,11,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/remove2.cpp,5,13,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose2.cpp,5,14,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose3.cpp,3,11,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/frontins.cpp,9,16,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/complex1.cpp,8,26,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/find1.cpp,7,22,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/transform1.cpp,5,13,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/iter3.cpp,6,19,22
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/parameter-pack.cc,3,1,22
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/grammar/MutableGrammar.java,8,23,22
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/SequenceExpression.java,7,32,22
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/TriviaExpression.java,8,33,22
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/AnyTokenExpression.java,7,23,22
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/grammar/MutableGrammarTest.java,4,23,22
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/MiniCIntegration/example4.mc,4,1,22
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/unittests/test_component1.cc,5,0,22
+XML,/tmp/clone_directory/cxx-sensors/src/main/resources/external-rule.xml,0,0,21
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/cobertura/specific-cases/cobertura-bignumberofhits.xml,0,0,21
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-SAMPLE.xml,0,0,21
+Visual Studio Solution,/tmp/clone_directory/cxx-sensors/src/tools/clangtidy_createrules.sln,1,1,21
+Visual Studio Solution,/tmp/clone_directory/cxx-sensors/src/tools/vc_createrules.sln,1,1,21
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/ResourceParser.java,4,23,21
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/test/miniC/fakeChecks/ResourceParser.java,4,23,21
+Visual Studio Solution,/tmp/clone_directory/cxx-squid/dox/tools/grammar_parser/grammar_parser.sln,1,1,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property/mcppv2_property_3.cpp,6,2,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/part1.cpp,4,12,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/transf1.cpp,5,13,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/set2.cpp,3,10,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose1.cpp,3,12,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/fopow1.cpp,5,14,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/io1.cpp,5,20,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/distance.cpp,4,13,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/reviter1.cpp,5,13,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/mmap1.cpp,4,17,21
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/variadic-template.cc,4,2,21
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/NextExpression.java,6,43,21
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/ErrorLocatingHandlerTest.java,5,23,21
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/NothingExpressionTest.java,6,23,21
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/test/java/org/sonar/cxx/sslr/tests/ParsingResultComparisonFailureTest.java,5,23,21
+Properties,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonar-project.properties,7,7,21
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/unittests/test_two_fixtures.cc,4,2,21
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/src/main.cc,1,7,21
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FunctionComplexity.html,0,0,20
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/regex/NoSonarCheckTest.java,6,19,20
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SquidConfiguration.java,9,23,20
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/unnamed_enum.h,11,8,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/VC/inline-assembler.cc,3,5,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/bsearch1.cpp,4,12,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/heap1.cpp,11,16,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/perm1.cpp,4,21,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/remove1.cpp,6,13,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/rotate1.cpp,5,13,20
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/newkey.hpp,0,13,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/compose4.cpp,4,13,20
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf1x.hpp,3,15,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/rw1.cpp,3,13,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/reviter4.cpp,8,17,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/copy2.cpp,6,19,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/foreach2.cpp,4,13,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/remove3.cpp,6,18,20
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/icstring1.cpp,5,10,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/RecognitionException.java,8,37,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/RegexChannel.java,7,43,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/NextNotExpression.java,6,41,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/OptionalExpression.java,6,33,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/ZeroOrMoreExpression.java,6,33,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/OneOrMoreExpressionTest.java,4,23,20
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/test/java/org/sonar/cxx/sslr/tests/AssertionsTest.java,5,23,20
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CustomCxxRulesDefinition.java,9,37,20
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/compiler/gcc/CxxCompilerGccRuleRepositoryTest.java,6,19,19
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/compiler/vc/CxxCompilerVcRuleRepositoryTest.java,6,19,19
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/infer/InferParserTest.java,6,19,19
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/tests/xunit/TestCaseTest.java,4,19,19
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/metrics/LinesVisitor.java,6,29,19
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformCommonWin32.txt,6,0,19
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformCommonX64.txt,6,0,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/adjdiff1.cpp,5,13,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/copy2.cpp,3,14,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/find2.cpp,7,14,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/relabs.cpp,4,12,19
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/ignoreparam.hpp,3,12,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/redirect.cpp,10,13,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/set1.cpp,4,17,19
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/enums.cc,6,0,19
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/RuleRefExpression.java,8,23,19
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/channel/BomCharacterChannelTest.java,6,23,19
+Cucumber,/tmp/clone_directory/integration-tests/features/indexing.feature,4,0,19
+C++,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/test_success.cc,11,1,19
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/parsingError3.cc,3,0,18
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/clangsa/CxxClangSARuleRepositoryTest.java,6,19,18
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/cppcheck/CxxCppCheckRuleRepositoryTest.java,6,19,18
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/drmemory/DrMemoryParserTest.java,4,19,18
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/infer/CxxInferRuleRepositoryTest.java,6,19,18
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/nunit/valid.xml,0,1,18
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/nunit/valid_comma_in_double.xml,0,1,18
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/nunit/valid_no_execution_time.xml,0,2,18
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result-2.xml,0,0,18
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/CheckMessagesVerifierRule.java,6,37,18
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/BackslashChannel.java,7,20,18
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/api/CxxMetricTest.java,5,19,18
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPPunctuatorTest.java,5,19,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events9.cpp,2,2,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/copy1.cpp,6,20,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/eqrange1.cpp,5,11,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/bitset2.cpp,4,14,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/foreach1.cpp,4,13,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/iterbug1.cpp,5,21,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/map1.cpp,4,21,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/iter1.cpp,4,13,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/range-for.cc,5,0,18
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/type-traits-helper.cc,9,2,18
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/EndOfInputExpression.java,6,23,18
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/ParseError.java,8,32,18
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/NextExpressionTest.java,4,23,18
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/SequenceExpressionTest.java,4,23,18
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/impl/MockTokenType.java,6,23,18
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/test/minic/rules/StructTest.java,5,23,18
+Cucumber,/tmp/clone_directory/integration-tests/features/clangtidy.feature,1,0,18
+Cucumber,/tmp/clone_directory/integration-tests/features/json-db.feature,2,0,18
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/src/src1.cpp,1,0,18
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/src/src2.cpp,1,0,18
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/src/src3.cpp,1,0,18
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/PathHandling/PathHandle.cpp,8,0,18
+XML,/tmp/clone_directory/integration-tests/testdata/smoketest_project/build/xunit-report.xml,0,0,18
+XML,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/build/xunit-report.xml,0,0,18
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxSonarWayProfileTest.java,4,19,18
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/ClassName.html,4,0,17
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FunctionName.html,5,0,17
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/MethodName.html,5,0,17
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangsa/CxxClangSARuleRepository.java,6,25,17
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangtidy/CxxClangTidyRuleRepository.java,6,25,17
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/clangtidy/CxxClangTidyRuleRepositoryTest.java,6,19,17
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/pclint/CxxPCLintRuleRepositoryTest.java,6,19,17
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/rats/CxxRatsRuleRepositoryTest.java,6,19,17
+Java,/tmp/clone_directory/cxx-sensors/src/test/java/org/sonar/cxx/sensors/veraxx/CxxVeraxxRuleRepositoryTest.java,6,19,17
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceMethod.java,6,27,17
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/CxxPunctuatorTest.java,5,19,17
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/doxygen_example.h,5,39,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/extending_metadata_c.cpp,4,2,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events5_a.cpp,4,6,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/finally.cpp,3,2,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/replace1.cpp,4,12,17
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/Makefile,9,0,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/array1.cpp,4,13,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/inbuf1.cpp,4,13,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/advance1.cpp,8,16,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/advance2.cpp,3,15,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/reviter2.cpp,6,15,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/swap1.cpp,7,13,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/array.cc,4,3,17
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/attributes.cc,6,13,17
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/ParseRunner.java,6,31,17
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/NextNotExpressionTest.java,4,23,17
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/OptionalExpressionTest.java,4,23,17
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/minic/MiniCColorizer.java,6,23,17
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/test/channel/ReaderHasNextCharCondition.java,7,23,17
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/CssLoader.java,6,23,17
+C++,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/test_component1.cc,6,1,17
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/gtest.xml,0,0,17
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,6,0,16
+C++,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/postjobs/syntaxerror.cc,3,0,16
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-note.txt,0,0,16
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceClass.java,6,27,16
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/ChecksHelper.java,7,23,16
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/api/CheckMessageTest.java,4,24,16
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/alias_in_template_func.h,3,6,16
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/multiline.h,3,10,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/merge1.cpp,4,12,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/unique3.cpp,3,14,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/cat1.cpp,6,19,16
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf1.hpp,2,15,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/ioiter1.cpp,4,19,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/remove4.cpp,4,15,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/lambda-capture-expressions.cc,3,0,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/structured-bindings.cc,5,1,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/constxxx.cc,10,16,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/designated initializers.cc,3,2,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/lambda-pack-expansion.cc,3,1,16
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/lambda.cc,2,0,16
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/GenericTokenType.java,4,23,16
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/impl/ast/SkipFromAstIfOnlyOneChildTest.java,6,23,16
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/org/sonar/cxx/sslr/internal/vm/ZeroOrMoreExpressionTest.java,4,23,16
+Cucumber,/tmp/clone_directory/integration-tests/features/samples.feature,2,0,16
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_component1-all.xml,0,0,16
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/PathHandling.Test/PathHandlingTest.cpp,4,0,16
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/EmptyReportException.java,6,38,15
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/InvalidReportException.java,6,38,15
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/ReportException.java,6,38,15
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/rules-repository/CustomRulesOldFormat.xml,0,0,15
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/metrics/ComplexityVisitorTest.java,5,23,15
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/metrics/CounterVisitorTest.java,5,23,15
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/metrics/counter.mc,3,0,15
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/CxxTokenTypeTest.java,5,19,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/bad/error_recovery_declaration.cc,3,1,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/imerge1.cpp,5,13,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/partsum1.cpp,4,12,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/reverse1.cpp,5,13,15
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/Makefile,9,0,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/cat2.cpp,5,16,15
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/frac2out.hpp,4,16,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/sstr1.cpp,4,13,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/copy1.cpp,3,14,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/list1.cpp,3,15,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/list2.cpp,3,14,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/riter1.cpp,3,12,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/minmax1.cpp,3,14,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/decl-val.cc,3,1,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/inline-namespace.cc,2,2,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/parameter-pack-sizeof.cc,2,0,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/has-include.cc,1,0,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/preprocessor/variadic_macros.cpp,6,3,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/multiple_catch.cc,0,0,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/nesting.cc,0,0,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/switch.cc,0,0,15
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/syntaxerror.cc,2,0,15
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/BomCharacterChannel.java,6,28,15
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/test/channel/ChannelMatchers.java,6,23,15
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_component1-test_suite.xml,0,0,15
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-cppcheck/cppcheck-result-0.xml,1,0,15
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-rats/rats-result-2.xml,0,0,15
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-rats/rats-result-3.xml,0,0,15
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/gtest_two_fixtures_in_one_file.xml,0,0,15
+TOML,/tmp/clone_directory/.deepsource.toml,5,0,14
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/FileInputTest.java,6,19,14
+XML,/tmp/clone_directory/cxx-squid/src/test/resources/logback-test.xml,2,3,14
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformCommon.txt,5,0,14
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv100.txt,5,0,14
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv110.txt,5,0,14
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv120.txt,5,0,14
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/platformToolsetv140.txt,5,0,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_parameter_types.cpp,2,2,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attributte_reallife.cpp,4,1,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property/call_default_indexer_through_this_pointer.cpp,3,2,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/typeid/keyword__typeid.cpp,4,2,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/foreach1.cpp,4,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/generate.cpp,3,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/sort1.cpp,7,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/sortvec.cpp,3,15,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/charcat2.cpp,4,14,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/ignore1.cpp,6,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/rdbuf1.cpp,2,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/deque1.cpp,3,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/vector1.cpp,3,12,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/final-specifier.cc,3,0,14
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/coroutines.cc,6,7,14
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/GrammarBuilder.java,12,26,14
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/NothingExpression.java,6,23,14
+XML,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/analyzer_reports/scan-build-2017-06-20-11-43-18-329362-Qnspm8/report-W3DsCr.plist,0,0,14
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-rats/rats-result-0.xml,0,0,14
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxMetricDefinition.java,3,19,14
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/CxxRuleRepository.java,5,19,14
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxRuleRepositoryTest.java,5,19,14
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/tag/TagTest.java,4,19,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/gcc/CxxCompilerGccRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/vc/CxxCompilerVcRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/cppcheck/CxxCppCheckRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/drmemory/CxxDrMemoryRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/infer/CxxInferRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/pclint/CxxPCLintRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/rats/CxxRatsRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/CxxValgrindRuleRepository.java,5,25,13
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/veraxx/CxxVeraxxRuleRepository.java,5,25,13
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/cppcheck-reports/cppcheck-result-projectlevelviolation-V2.xml,0,0,13
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/rules-repository/CustomRulesNewFormat.xml,2,0,13
+DOS Batch,/tmp/clone_directory/cxx-sensors/src/tools/generate_cppcheck_resources.cmd,7,2,13
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/metrics/LinesOfCodeVisitorTest.java,5,23,13
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/metrics/LinesVisitorTest.java,5,23,13
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/Makefile,3,0,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/cont/sortset.cpp,2,14,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/istriter.cpp,3,15,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/extended-friend-declarations.cc,3,0,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/member-function-delete.cc,2,3,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/noreturn.cc,2,2,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/override-specifier.cc,1,1,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/constexpr-lambdas.cc,1,0,13
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/sum_of_primes.cc,1,1,13
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/Rule.java,7,68,13
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/ErrorLocatingHandler.java,5,23,13
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/tests/Assertions.java,6,36,13
+Java,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/java/com/sonar/cxx/sslr/test/minic/rules/RuleTest.java,6,23,13
+Cucumber,/tmp/clone_directory/integration-tests/features/compiler.feature,1,0,13
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_success-all.xml,0,0,13
+XML,/tmp/clone_directory/integration-tests/testdata/clangsa_project/unparsable.plist,0,0,13
+Properties,/tmp/clone_directory/integration-tests/testdata/smoketest_project/sonar-project.properties,7,8,13
+Properties,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf16/sonar-project.properties,7,8,13
+Properties,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/sonar-project.properties,7,8,13
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,9,0,12
+XSLT,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/prejobs/xslt-stylesheet.xslt,0,0,12
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-cols.txt,0,0,12
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-default-rule-id.txt,3,0,12
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-duplicates.txt,0,0,12
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/bullseye/bullseye-coverage-Windows-V8.20.2.xml,0,1,12
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result-SAMPLE-inconsistent-case.xml,0,0,12
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/SqaleLinearWithOffsetRemediation.java,6,23,12
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/AnalysisException.java,5,23,12
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/SquidCheck.java,4,23,12
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/SumAggregationFormula.java,4,23,12
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/ChecksHelperTest.java,4,23,12
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/goto.mc,2,0,12
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/parser/CxxKeywordTest.java,4,19,12
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/preprocessor/PPKeywordTest.java,4,19,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/VC/exception-specification.cc,6,0,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/generic_classes_1.cpp,3,4,12
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cuda/cuda-defines.h,0,1,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/i18n/loc1.cpp,3,13,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/memory/myalloc1.cpp,3,13,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/non-type-template-parameters-auto.cc,4,1,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/conditions.cc,1,1,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/get_words.cc,1,1,12
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/if_else_if_else.cc,0,0,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/ast/AlwaysSkipFromAst.java,6,23,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/ast/NeverSkipFromAst.java,6,23,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/ast/SkipFromAstIfOnlyOneChild.java,6,23,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/ChannelException.java,5,23,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/impl/ast/AlwaysSkipFromAstTest.java,4,23,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/java/com/sonar/cxx/sslr/impl/ast/NeverSkipFromAstTest.java,4,23,12
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/ConfigurationModel.java,9,58,12
+Text,/tmp/clone_directory/integration-tests/testdata/clangtidy_project/column.txt,0,0,12
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/documentation-project/documentation0.hh,6,18,12
+XML,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/xunit-report.xml,0,0,12
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FileComplexity.html,0,0,11
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FixmeTagPresence.html,2,0,11
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/MissingNewLineAtEndOfFile.html,3,0,11
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/ParsingErrorRecovery.html,0,0,11
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TodoTagPresence.html,2,0,11
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/nested_testsuites.xml,0,0,11
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result-SAMPLE.xml,0,0,11
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result-SAMPLE_with_fileName.xml,0,0,11
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoader/utf8-with-bom.xml,0,0,11
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoader/utf8.xml,0,0,11
+Bourne Shell,/tmp/clone_directory/cxx-sensors/src/tools/generate_cppcheck_resources.sh,5,6,11
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/SqaleLinearRemediation.java,5,23,11
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/SqaleSubCharacteristic.java,4,23,11
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/api/SourceMethodTest.java,3,23,11
+Java,/tmp/clone_directory/cxx-squid-bridge/src/test/java/org/sonar/cxx/squidbridge/checks/SquidCheckTest.java,4,23,11
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/magic.mc,4,0,11
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/naming.mc,4,0,11
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxFileVisitor.java,4,19,11
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets.cpp,3,2,11
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/algo/copy3.cpp,1,10,11
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/frac1in.hpp,4,10,11
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/Makefile,6,0,11
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/print.hpp,2,15,11
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/binary_logical_mixed.cc,0,0,11
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/binary_logical_mixed_alternative.cc,0,1,11
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/NodeBuilder.java,5,26,11
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_failure-warning.xml,0,0,11
+Properties,/tmp/clone_directory/integration-tests/testdata/boosttest_project/sonar-project.properties,8,9,11
+C++,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/src/unused.cc,2,0,11
+Text,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/Readme.txt,3,0,11
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/unittests/test_fname_in_both.cc,2,2,11
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TooManyStatementsPerLine.html,1,0,10
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/CxxFileTester.java,5,19,10
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoader/deprecated.xml,0,0,10
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/SqaleConstantRemediation.java,4,26,10
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceFunction.java,3,23,10
+Java,/tmp/clone_directory/cxx-squid/src/test/java/org/sonar/cxx/CxxFileTester.java,5,19,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attributes.cpp,1,2,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/extending_metadata_f.cpp,2,2,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/property/SimpleProperties.cpp,2,2,10
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/ignore.hpp,2,12,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/noexcept-specifier.cc,3,2,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/nested-namespace-definition.cc,3,2,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-global-fragment.cc,4,0,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/using-enum-declaration.cc,0,0,10
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/binary_logical_not.cc,0,0,10
+Java,/tmp/clone_directory/cxx-sslr-toolkit/src/main/java/org/sonar/cxx/toolkit/CxxToolkit.java,5,19,10
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/AstVisitor.java,7,53,10
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/LexerException.java,5,26,10
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/unittests/test_fname_in_ts.cc,2,0,10
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/cli/main.cc,1,0,10
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/cli/main.cc,1,0,10
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxCheckListTest.java,4,19,10
+Java,/tmp/clone_directory/cxx-checks/src/test/java/org/sonar/cxx/checks/CheckListTest.java,3,19,9
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-with-supplemental.xml,0,0,9
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/ActivatedByDefault.java,3,23,9
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/NoSqale.java,2,23,9
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/RuleTemplate.java,3,23,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/extending_metadata_e.cpp,1,3,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/event/mcppv2_events8.cpp,2,2,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/mcpp_initonly.cpp,2,2,9
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/fo/fopow.hpp,1,10,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/charcat1.cpp,2,12,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/ignoreparam1.cpp,1,10,9
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/stl/Makefile,4,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/alignof.cc,2,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/non-static-data-member-initializers.cc,1,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/template-alias.cc,3,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/trailing-return-type.cc,3,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/class-template-argument-deduction.cc,2,1,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/bit-field.cc,0,2,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/catch.cc,0,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/if_else.cc,0,0,9
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/if_else_if.cc,0,0,9
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/GrammarException.java,4,31,9
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/GrammarRuleBuilder.java,8,76,9
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/CompilableGrammarRule.java,6,26,9
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/xpath/identifiersTooLong.mc,4,0,9
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/java/org/sonar/cxx/sslr/internal/toolkit/CssLoaderTest.java,4,23,9
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_success-test_suite.xml,0,0,9
+C++,/tmp/clone_directory/integration-tests/testdata/clangtidy_project/src/module1.cc,1,0,9
+XML,/tmp/clone_directory/integration-tests/testdata/cppcheck_project/rule_unknown.xml,0,0,9
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/PathHandling/PathHandle.hpp,5,0,9
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-xunit/xunit-result-0.xml,0,0,9
+XML,/tmp/clone_directory/integration-tests/testdata/hello_world/reports/cppcheck.xml,0,0,9
+Properties,/tmp/clone_directory/integration-tests/testdata/vs_project/sonar-project.properties,6,7,9
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/test/java/org/sonar/plugins/cxx/CxxMetricDefinitionTest.java,4,19,9
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/MetricDef.java,6,23,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/extending_metadata_d.cpp,2,2,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/user_defined_attributes.cpp,2,2,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf1.cpp,2,10,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf1x.cpp,2,10,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf3.cpp,2,10,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/auto.cc,1,0,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/long-long-int.cc,3,0,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/attributte-deprecated.cc,3,0,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/digit-separators.cc,1,1,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-implementation-unit.cc,3,0,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-private-fragment.cc,4,0,8
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/goto.cc,3,0,8
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_simple-all.xml,0,0,8
+C++,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/test_simple.cc,3,0,8
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/coverage_project/src/component2.hh,1,0,8
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_project/src/integration_test.cc,1,0,8
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_project/src/unit_test.cc,1,0,8
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/externalrules-result/cpplint-result-3.xml,0,0,8
+Properties,/tmp/clone_directory/integration-tests/testdata/googletest_project/sonar-project.properties,7,8,8
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/lib/component1.hh,1,0,8
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest-all.cc,2,38,8
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/lib/component1.hh,1,0,8
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest-all.cc,2,38,8
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md,1,0,7
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/CommentRegularExpression.html,1,0,7
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/ParsingError.html,0,0,7
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TabCharacter.html,0,0,7
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TooManyParameters.html,2,0,7
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/LineLength.cc,1,2,7
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/CoverageParser.java,4,32,7
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/ParseErrorException.java,4,23,7
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/MSTest-reports/valid.trx,0,0,7
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/externalrules-reports/externalrules-result-ok.xml,3,2,7
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result_with_emptyFileName.xml,0,0,7
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/Measurable.java,6,23,7
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/complexity5.mc,0,0,7
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/one_statement_per_line.mc,1,0,7
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/EvaluationException.java,4,19,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/C99/compound-literals.cc,1,1,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/VC/64-bit-integer-suffix.cc,2,1,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_event.cpp,3,2,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_parameter.cpp,1,2,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/cwr_array.cpp,1,4,7
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/frac1out.hpp,1,10,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/outbuf2.cpp,2,10,7
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/iter/distance.hpp,0,10,7
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/num/Makefile,4,0,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/function-return-type-deduction.cc,1,0,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/lambda-capture-this.cc,1,2,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-interface-unit.cc,3,0,7
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/preprocessor/boost_macros_short.hpp,4,0,7
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/D/E/e.h,1,1,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/binary_logical.cc,0,0,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/do_while.cc,0,0,7
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/while.cc,0,0,7
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/Preprocessor.java,5,112,7
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/TokenType.java,6,23,7
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/NativeExpression.java,3,23,7
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_failure-cpp_exception.xml,0,0,7
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_simple-test_suite.xml,0,0,7
+Properties,/tmp/clone_directory/integration-tests/testdata/clangsa_project/sonar-project.properties,6,7,7
+Properties,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/sonar-project.properties,6,7,7
+Properties,/tmp/clone_directory/integration-tests/testdata/clangtidy_project/sonar-project.properties,6,7,7
+C++,/tmp/clone_directory/integration-tests/testdata/coverage_project/src/main.cc,1,0,7
+Properties,/tmp/clone_directory/integration-tests/testdata/cppcheck_project/sonar-project.properties,6,7,7
+Properties,/tmp/clone_directory/integration-tests/testdata/cppcheck_project_c_cpp/sonar-project.properties,6,7,7
+Properties,/tmp/clone_directory/integration-tests/testdata/cppcheck_with_absolute_paths_project/sonar-project.properties,6,7,7
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-vera++/vera++-result-0.xml,0,0,7
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-vera++/vera++-result-1.xml,0,0,7
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/googletest_project/src/component1.hh,1,0,7
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/gtest-1.7.0/gtest/gtest_main.cc,3,28,7
+Text,/tmp/clone_directory/integration-tests/testdata/hello_world/Readme.txt,2,0,7
+Properties,/tmp/clone_directory/integration-tests/testdata/indexing_project/sonar-project.properties,6,7,7
+Properties,/tmp/clone_directory/integration-tests/testdata/json_db_project/sonar-project.properties,5,6,7
+Text,/tmp/clone_directory/integration-tests/testdata/smoketest_project/Readme.txt,0,0,7
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/src/gtest_main.cc,4,28,7
+Text,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/Readme.txt,0,0,7
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/src/gtest_main.cc,4,28,7
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/sonar-project.properties,4,4,7
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/force-include-project/sonar-project.properties,4,3,7
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TooManyLinesOfCodeInFunction.html,1,0,6
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/ClassName.cc,5,0,6
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/TabCharacter.cc,0,0,6
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/UnitTestResultsParser.java,3,23,6
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/MSTest-reports/valid_missing_attributes.trx,0,0,6
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/MSTest-reports/wrong_passed_number.trx,0,0,6
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-min-max-cols.txt,0,0,6
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/MSCoverage/empty-report.xml,0,0,6
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/invalid-time-xunit-report.xml,0,0,6
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result-skippedonly.xml,0,0,6
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/AstScannerExceptionHandler.java,5,26,6
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/SourceCodeBuilderCallback.java,3,23,6
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceCodeSearchEngine.java,4,23,6
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourcePackage.java,2,23,6
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceProject.java,3,23,6
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/xpath.mc,1,0,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_constructor.cpp,1,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_field.cpp,1,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_method.cpp,2,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_property.cpp,2,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_returnvalue.cpp,3,3,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/mcppv2_literal.cpp,1,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/override_keyword_3.cpp,1,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/inheriting-constructors.cc,1,0,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/new-string-literals.cc,1,0,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/abbreviated-function-template.cc,0,1,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/lambda-capture.cc,0,0,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-partition2.cc,1,0,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-structure.cc,5,2,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/for.cc,0,0,6
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/if.cc,0,0,6
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/CompilationHandler.java,3,23,6
+Properties,/tmp/clone_directory/integration-tests/testdata/coverage_merge_project/sonar-project.properties,5,6,6
+Properties,/tmp/clone_directory/integration-tests/testdata/coverage_project/sonar-project.properties,5,6,6
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/PathHandling.Test/main.cpp,1,7,6
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/externalrules-result/cpplint-result-0.xml,0,0,6
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-vera++/vera++-result-3.xml,0,0,6
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/gtest_fname_in_both.xml,0,0,6
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/gtest_fname_in_tc.xml,0,0,6
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/gtest_fname_in_ts.xml,0,0,6
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/gtest_without_fixture.xml,0,0,6
+Properties,/tmp/clone_directory/integration-tests/testdata/hello_world/sonar-project.properties,5,6,6
+C++,/tmp/clone_directory/integration-tests/testdata/hello_world/src/main.cc,1,0,6
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-packages-project/Package2/test3.hh,0,0,6
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/sonar-project.properties,5,3,6
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FunctionCognitiveComplexity.html,0,0,5
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/NoSonar.html,0,0,5
+JSON,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/Sonar_way_profile.json,0,0,5
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TooManyLinesOfCodeInFile.html,0,0,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/prejobs/xslt-input.xml,0,0,5
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-nodiscard.txt,0,0,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/coverage-reports/cobertura/specific-cases/coverage-result-invalid.xml,0,0,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/externalrules-reports/externalrules-result-SAMPLE.xml,0,0,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/externalrules-reports/externalrules-with-duplicates.xml,0,0,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-MISRACPP.xml,0,0,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/nunit/invalid_total.xml,0,1,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/nunit/no_counters.xml,0,1,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/no_execution_time.xml,1,2,5
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/valid.xml,1,2,5
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/CommentAnalyser.java,4,37,5
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/CodeCheck.java,3,26,5
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/AggregationFormula.java,4,23,5
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/no_sonar.mc,2,4,5
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/parse_error.mc,0,0,5
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/metrics/comments.mc,5,7,5
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/metrics/comments_none.mc,1,0,5
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/metrics/header_comments.mc,4,7,5
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/CxxCharsetAwareVisitor.java,4,19,5
+Properties,/tmp/clone_directory/cxx-squid/src/test/resources/jsondb/sonar-project.properties,3,3,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/classes.cc,1,0,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/nosonar.cc,5,3,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/statements.cc,1,0,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_class.cpp,1,2,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_delegate.cpp,2,3,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_enum.cpp,1,2,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_interface.cpp,1,2,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_struct.cpp,1,2,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/copy1.cpp,1,11,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/io/copy2.cpp,1,11,5
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/memory/Makefile,5,0,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/alignas.cc,1,2,5
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/explicit-conversion-operators.cc,1,2,5
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/readme.txt,3,0,5
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/MethodInterceptor.java,4,26,5
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/MemoParsingExpression.java,4,23,5
+Text,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/Readme.txt,1,0,5
+C++,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/src/divzero.cc,1,0,5
+XML,/tmp/clone_directory/integration-tests/testdata/cppcheck_project/unparsable.xml,0,0,5
+C++,/tmp/clone_directory/integration-tests/testdata/cppcheck_with_absolute_paths_project/src/sample/main.cc,1,0,5
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/externalrules-result/cpplint-result-1.xml,0,0,5
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/reports-vera++/vera++-result-2.xml,0,0,5
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_project/invalid_report.xml,0,0,5
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/unittests/test_fname_in_tc.cc,1,0,5
+Properties,/tmp/clone_directory/integration-tests/testdata/regex_project/sonar-project.properties,7,5,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/package1/fileA.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/package2/fileB.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/package2/fileC.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/src/package2/fileD.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/tests/gtest-1.6.0/include/gtest/gtest_prod.h,4,49,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/package1/fileA.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/package2/fileB.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/package2/fileC.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/src/package2/fileD.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/tests/gtest-1.6.0/include/gtest/gtest_prod.h,4,49,5
+XML,/tmp/clone_directory/sonar-cxx-plugin/.pydevproject,0,0,5
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-includes-project/sonar-project.properties,4,3,5
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-includes-project/test1.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-includes-project/test2.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-packages-project/Package1/test1.hh,0,0,5
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-packages-project/Package2/test4.hh,0,0,5
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-packages-project/sonar-project.properties,4,3,5
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/codechunks-project/sonar-project.properties,2,3,5
+Properties,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/documentation-project/sonar-project.properties,3,3,5
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests2/Test4.hh,0,0,5
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/ClassComplexity.html,0,0,4
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FileEncoding.html,0,0,4
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/LineRegEx.cc,1,1,4
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/MissingNewLineAtEndOfFile.cc,3,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/MSTest-reports/no_counters.trx,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/externalrules-reports/externalrules-result-filelevelviolation.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/externalrules-reports/externalrules-result-projectlevelviolation.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/incorrect-pclint-MISRA2004-desc.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/incorrect-pclint-MISRA2004-rule-do-not-exist.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-MISRA1998-SAMPLE.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-MISRA2004-SAMPLE2.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-projectlevelviolation.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/empty.xml,1,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/invalid_total.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/no_counters.xml,0,0,4
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/rules-repository/CustomRulesInvalid.xml,2,0,4
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/Query.java,2,23,4
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/SourceCodeIndexer.java,2,23,4
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/CalculatedMetricFormula.java,3,23,4
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/unnamed_class.h,0,3,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/abstract.cpp,0,2,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_all.cpp,1,2,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_assembly.cpp,1,2,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/cli/attributes/attribute_targets_module.cpp,1,2,4
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/string/Makefile,4,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/member-function-default.cc,0,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/raw-string-literals.cc,0,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/variable-templates.cc,1,1,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/inline-variable.cc,0,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/u8-character-literal .cc,1,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/lambda-expression.cc,1,2,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-export-declaration.cc,1,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-import-declaration.cc,1,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-partition1.cc,1,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/namespace.cc,1,3,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/special-keywords.cc,0,0,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/hello_world.cc,0,1,4
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/visitors/ternary.cc,0,0,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/AstAndTokenVisitor.java,2,34,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/AstNodeSkippingPolicy.java,3,39,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/NonterminalBuilder.java,3,26,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/Channel.java,2,33,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/EndMatcher.java,2,23,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/GrammarRuleKey.java,3,35,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/MachineHandler.java,3,23,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/ParsingExpression.java,3,29,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/LexerlessGrammar.java,3,30,4
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/ValidationCallback.java,3,36,4
+XML,/tmp/clone_directory/integration-tests/testdata/boosttest_project/btest_test_failure-system_error.xml,0,0,4
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/targetver.hh,3,3,4
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/src/component1.cc,1,0,4
+C++,/tmp/clone_directory/integration-tests/testdata/googletest_project/tests/unittests/test_without_fixture.cc,1,0,4
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/circular-packages-project/Package2/test2.hh,0,0,4
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/Test6.hh,0,0,4
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/Test7.cc,0,0,4
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/api/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/error/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/file/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/metrics/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/naming/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/regex/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/utils/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/checks/xpath/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-checks/src/main/java/org/sonar/cxx/tag/package-info.java,1,19,3
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/TooLongLine.html,0,0,3
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileRegEx.cc,1,1,3
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/LineRegExInvert.cc,0,2,3
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/commentRegularExpression.cc,0,10,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/postjobs/package-info.java,2,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/prejobs/package-info.java,2,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangsa/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/clangtidy/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/gcc/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/compiler/vc/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/bullseye/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/cobertura/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/ctc/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/coverage/vs/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/cppcheck/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/drmemory/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/infer/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/other/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/pclint/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/rats/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/dotnet/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/tests/xunit/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/utils/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/valgrind/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sensors/src/main/java/org/sonar/cxx/sensors/veraxx/package-info.java,1,22,3
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/MSTest-reports/valid.xml,0,0,3
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-alias-rule-ids.txt,1,0,3
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-error.txt,0,0,3
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-warning.txt,0,0,3
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/pclint-reports/pclint-result-invalid-char.xml,0,0,3
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit-result-no-testsuite.xml,0,0,3
+Text,/tmp/clone_directory/cxx-sensors/src/tools/requirements.txt,0,0,3
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/CodeVisitor.java,2,23,3
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/line_length.mc,2,1,3
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/fakeChecks/fakePreprocessor.mc,4,0,3
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/metrics/lines_of_code.mc,13,2,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/api/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/channels/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/config/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/parser/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/preprocessor/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/utils/package-info.java,1,19,3
+Java,/tmp/clone_directory/cxx-squid/src/main/java/org/sonar/cxx/visitors/package-info.java,1,19,3
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/comments.cc,1,10,3
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/functions.cc,3,0,3
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/msbuild-azure-devops-en.txt,1,0,3
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/msbuild-detailed-de.txt,0,0,3
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/msbuild-detailed-en.txt,0,0,3
+Text,/tmp/clone_directory/cxx-squid/src/test/resources/msbuild/msbuild-detailed-fr.txt,0,0,3
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/i18n/Makefile,2,2,3
+make,/tmp/clone_directory/cxx-squid/src/test/resources/parser/examples/util/Makefile,3,0,3
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/forward-enum-declarations.cc,0,1,3
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/module-partition.cc,2,0,3
+Java,/tmp/clone_directory/cxx-sslr-toolkit/src/main/java/org/sonar/cxx/toolkit/package-info.java,1,22,3
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/AstNodeType.java,1,33,3
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/channel/package-info.java,2,23,3
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/matcher/Matcher.java,2,26,3
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/matcher/package-info.java,2,23,3
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/Matcher.java,2,23,3
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/test/channel/package-info.java,1,23,3
+Text,/tmp/clone_directory/integration-tests/requirements.txt,0,0,3
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/clangsa_scanbuild_project/src/test.hh,2,0,3
+XML,/tmp/clone_directory/integration-tests/testdata/googletest_bullseye_vs_project/sonarcpp/externalrules-result/cpplint-result-2.xml,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/json_db_project/src/file1.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/json_db_project/src/file2.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/json_db_project/src/file3.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/json_db_project/src/file4.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/json_db_project/src/file5.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/json_db_project/src/file6.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project/3rdparty/extlib.cc,0,0,3
+C++,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/3rdparty/extlib.cc,0,0,3
+Java,/tmp/clone_directory/sonar-cxx-plugin/src/main/java/org/sonar/plugins/cxx/package-info.java,1,22,3
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests2/Test3.cc,0,0,3
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Class1.cc,0,1,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Class2.cc,0,2,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Class3.cc,0,1,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex1.cc,2,1,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex2.cc,2,2,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex3.cc,2,2,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex4.cc,2,3,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex5.cc,3,3,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex6.cc,3,3,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileHeaderCheck/Regex7.cc,2,3,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FileRegExInvert.cc,1,1,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/NoSonarTagPresenceCheck.cc,0,2,2
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/NonEmptyFile.cc,0,0,2
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/invalid_root.xml,0,0,2
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/xunit-reports/xunit/valid_xunit-1.9.2.xml,0,0,2
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/utils/RulesDefinitionXmlLoader/invalid.xml,0,0,2
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/api/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/checks/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/indexer/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/measures/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/metrics/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/package-info.java,0,23,2
+Properties,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/org/sonar/l10n/languageKey.properties,0,0,2
+Properties,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/rules/names.properties,0,0,2
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/special-keywords.cc,1,0,2
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/char8_t.cc,0,0,2
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++20/explicit-specifier.cc,0,2,2
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/D/d.h,0,0,2
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/p.h,0,0,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/api/typed/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/ast/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/token/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/com/sonar/cxx/sslr/impl/typed/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/grammar/package-info.java,1,30,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/grammar/package-info.java,1,28,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/matchers/package-info.java,1,28,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/lexerful/package-info.java,1,26,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/internal/vm/package-info.java,1,26,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/parser/package-info.java,1,26,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/lexer/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/com/sonar/cxx/sslr/test/minic/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-testing-harness/src/main/java/org/sonar/cxx/sslr/tests/package-info.java,0,26,2
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/MiniCIntegration/example3.mc,1,0,2
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/xpath/basicQueries.mc,2,0,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/internal/toolkit/package-info.java,1,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/main/java/org/sonar/cxx/sslr/toolkit/package-info.java,1,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-xpath/src/main/java/com/sonar/cxx/sslr/impl/xpath/package-info.java,0,23,2
+Java,/tmp/clone_directory/cxx-sslr/sslr-xpath/src/main/java/com/sonar/cxx/sslr/xpath/api/package-info.java,0,23,2
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/boosttest_project/tests/unittests/stdafx.hh,5,7,2
+Text,/tmp/clone_directory/integration-tests/testdata/clangsa_project/Readme.txt,0,0,2
+Text,/tmp/clone_directory/integration-tests/testdata/cppcheck_project/Readme.txt,0,0,2
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/Test5.cc,0,0,2
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/Test6_A.cc,0,0,2
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/Test6_B.cc,0,0,2
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests2/Test4.cc,0,0,2
+HTML,/tmp/clone_directory/cxx-checks/src/main/resources/org/sonar/l10n/cxx/rules/cxx/FileName.html,0,0,1
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/parsingError1.cc,1,1,1
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/parsingError2.cc,3,1,1
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/xpath.cc,0,0,1
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/MSTest-reports/invalid_prolog.txt,0,0,1
+Text,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/clang-tidy-reports/cpd.report-fatal-error.txt,0,0,1
+XML,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/externalrules-reports/externalrules-result-invalid.xml,0,0,1
+JSON,/tmp/clone_directory/cxx-sensors/src/test/resources/org/sonar/cxx/sensors/reports-project/infer-reports/infer-result-sample.json,0,0,1
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/annotations/package-info.java,0,23,1
+Java,/tmp/clone_directory/cxx-squid-bridge/src/main/java/org/sonar/cxx/squidbridge/rules/package-info.java,0,23,1
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/commentRegularExpression.mc,4,5,1
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/single_line_comments_syntax.mc,6,10,1
+HTML,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/org/sonar/l10n/languageKey/rules/repoKey/ruleWithExternalInfo.html,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/codeprovider/source.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/codeprovider/utf-8-bom.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/codeprovider/utf-8.hh,0,0,1
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/trivial.cc,0,3,1
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++11/extern-template.cc,0,0,1
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/binary-literals.cc,0,0,1
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/generic-lambdas.cc,1,0,1
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/hexadecimal-floating-point-literals.cc,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++17/i3/has_include.h,0,0,1
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/trivial.cc,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/B/a.h,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/B/b.h,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/C/a.h,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/C/c.h,0,0,1
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/preprocessor/include/a.h,0,0,1
+Java,/tmp/clone_directory/cxx-sslr/sslr-core/src/main/java/org/sonar/cxx/sslr/channel/package-info.java,1,45,1
+Text,/tmp/clone_directory/cxx-sslr/sslr-core/src/test/resources/typed/42.txt,0,0,1
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/MiniCIntegration/example2.mc,0,0,1
+Windows Message File,/tmp/clone_directory/cxx-sslr/sslr-tests/src/test/resources/OwnExamples/lexererror.mc,0,0,1
+Text,/tmp/clone_directory/cxx-sslr/sslr-toolkit/src/test/resources/parse_error.txt,0,0,1
+XML,/tmp/clone_directory/integration-tests/testdata/clangsa_project/wrongformat.plist,0,0,1
+C++,/tmp/clone_directory/integration-tests/testdata/regex_project/src/utf8-BOM-LF.cc,1,3,1
+C++,/tmp/clone_directory/integration-tests/testdata/regex_project/src/utf8-LF.cc,1,3,1
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project/3rdparty/extlib.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/integration-tests/testdata/smoketest_project_utf8_bom/3rdparty/extlib.hh,0,0,1
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/external-macro-project/test.cc,0,0,1
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/Test1.cc,0,0,1
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/finding-sources-project/tests1/subdir/Test2.cc,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/force-include-project/include/force1.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/force-include-project/include/subfolder/force2.hh,0,0,1
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/force-include-project/src/scr2.cc,0,0,1
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/force-include-project/src/src1.cc,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/HEADER1.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/HEADER2.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/bar.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/include1.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/include2.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/include3.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/subfolder/include4.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include/widget.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include_snd/include_snd_1.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/include-directories-project/include_snd/subfolder/include_snd_subfolder_1.hh,0,0,1
+C/C++ Header,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/ncloc.h,2,4,1
+C++,/tmp/clone_directory/sonar-cxx-plugin/src/test/resources/org/sonar/plugins/cxx/source.cc,0,0,1
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/FixmeTagPresenceCheck.cc,6,11,0
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/TodoTagPresenceCheck.cc,7,11,0
+C++,/tmp/clone_directory/cxx-checks/src/test/resources/checks/file_name.cc,0,1,0
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/checks/nested_comments.mc,3,8,0
+Windows Message File,/tmp/clone_directory/cxx-squid-bridge/src/test/resources/fakeChecks/fakeComment.mc,7,2,0
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/metrics/EmptyFile.cc,1,0,0
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/C++14/standard-user-defined-literals.cc,1,6,0
+C++,/tmp/clone_directory/cxx-squid/src/test/resources/parser/own/comments.cc,1,13,0
+C/C++ Header,/tmp/clone_directory/cxx-squid/src/test/resources/parser/preprocessor/plain/apply_wrap.hpp,0,1,0
+C++,/tmp/clone_directory/integration-tests/testdata/regex_project/src/utf8-BOM-CR.cc,0,1,0
+C++,/tmp/clone_directory/integration-tests/testdata/regex_project/src/utf8-CR.cc,0,1,0
+SUM,,41733,50836,328025

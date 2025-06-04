@@ -1,0 +1,17 @@
+##[group]==END_FILE==, 71.01030112209807, , , , 10776368, False, 
+##[group]GITHUB_TOKEN Permissions, 15.978092429166503, , , , 2012123, False, 
+##[group]Run ./gradlew publish, 6.703030001415288, , , , 16425062, False, 
+##[group]Fetching the repository, 5.851132438849706, , , , 463931, False, 
+##[group]Run actions/github-script@v4, 5.266019194964735, , , , 385934, True, ##[error]Invalid Tag:master
+##[group]Run actions/checkout@v2, 2.1379137757335465, , , , 180987, False, 
+##[group]Run result=$(printf master | perl -ne 'printf if /^v(?P<major>0|[1-9]\\d*)\\.(?P<minor>0|[1-9]\\d*)\\.(?P<patch>0|[1-9]\\d*)(?:-(?P<prerelease>(?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\\.(?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\\+(?P<buildmetadata>[0-9a-zA-Z-]+(?:\\.[0-9a-zA-Z-]+)*))?$/'), 1.2602439099060907, , , , 126344, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.102713421167829, , , , 18940, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 0.6874427439042725, , , , 2807881, False, 
+> Task :jar, 0.5938729795306434, , , , 1200012, False, 
+##[group]Run gradle/wrapper-validation-action@e6e38bacfdf1a337459f332974bb2327a31aaf4b, 0.4939522424541888, , , , 1629940, True, ##[error]Invalid Tag:master
+##[group]Fetching the repository__dup_11, 0.109173554570477, , , , 436343, False, 
+##[group]Run actions/setup-java@v2, 0.055631296170804, , , , 241710, False, 
+##[group]Run actions/checkout@v2__dup_9, 0.0535422583996729, , , , 195838, False, 
+> Task :javadocJar, 0.0503380865554089, , , , 99833, False, 
+> Task :classes, 0.0486407433663649, , , , 95438, False, 
+##[group]Setting up auth, 0.02696697649088, , , , 62294, False, 

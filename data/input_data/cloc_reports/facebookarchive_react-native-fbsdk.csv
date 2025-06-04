@@ -1,0 +1,127 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.03 s (4874.2 files/s 308481.0 lines/s)"
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/Utility.java,27,24,282
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBGraphRequestModule.java,25,29,229
+Bourne Shell,/tmp/clone_directory/example/android/gradlew,22,37,129
+XML,/tmp/clone_directory/example/ios/RNFBSDKExample.xcodeproj/xcshareddata/xcschemes/RNFBSDKExample-tvOS.xcscheme,0,0,125
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBAppEventsLoggerModule.java,24,174,117
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKAppEvents.m,28,17,114
+JSON,/tmp/clone_directory/package.json,0,0,105
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/RCTLoginButton.java,11,23,103
+JavaScript,/tmp/clone_directory/src/FBAccessToken.js,28,101,98
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKShareDialog.m,21,17,97
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKGameRequestDialog.m,22,17,94
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKGraphRequestConnectionContainer.m,15,17,92
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBLoginManagerModule.java,18,51,87
+Gradle,/tmp/clone_directory/example/android/app/build.gradle,19,111,87
+XML,/tmp/clone_directory/example/ios/RNFBSDKExample.xcodeproj/xcshareddata/xcschemes/RNFBSDKExample.xcscheme,0,0,87
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTConvert+FBSDKSharingContent.m,11,19,81
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.m,19,17,81
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,2,0,79
+XML,/tmp/clone_directory/example/ios/RNFBSDKExample/Info.plist,0,1,79
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKAccessToken.m,19,17,79
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/login/RCTFBSDKLoginManager.m,20,17,78
+JavaScript,/tmp/clone_directory/src/FBAppEventsLogger.js,16,91,78
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,24,2,74
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBShareDialogModule.java,14,19,73
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBAccessTokenModule.java,15,41,71
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBMessageDialogModule.java,12,37,62
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/rnfbsdkexample/MainApplication.java,10,11,61
+Java,/tmp/clone_directory/example/android/app/src/debug/java/com/rnfbsdkexample/ReactNativeFlipper.java,0,8,59
+JavaScript,/tmp/clone_directory/src/FBGraphRequestManager.js,12,40,59
+JavaScript,/tmp/clone_directory/src/FBLoginButton.js,16,49,54
+JavaScript,/tmp/clone_directory/example/src/App.js,5,22,52
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBGameRequestDialogModule.java,11,32,51
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/login/RCTFBSDKLoginButtonManager.m,17,17,51
+JavaScript,/tmp/clone_directory/src/index.js,4,25,51
+JavaScript,/tmp/clone_directory/src/FBLoginManager.js,7,60,46
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBAppLinkModule.java,9,33,44
+Gradle,/tmp/clone_directory/android/build.gradle,6,6,42
+XML,/tmp/clone_directory/example/ios/RNFBSDKExample/Base.lproj/LaunchScreen.xib,0,0,42
+Objective-C,/tmp/clone_directory/example/ios/RNFBSDKExample/AppDelegate.m,13,26,39
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBLoginButtonManager.java,14,19,38
+JSON,/tmp/clone_directory/example/ios/RNFBSDKExample/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,38
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBSDKPackage.java,7,19,33
+JavaScript,/tmp/clone_directory/src/FBSettings.js,4,21,30
+JavaScript,/tmp/clone_directory/src/models/FBShareOpenGraphValueContainer.js,11,40,30
+Gradle,/tmp/clone_directory/example/android/build.gradle,3,5,29
+JavaScript,/tmp/clone_directory/src/FBGraphRequest.js,8,52,29
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/ReactNativeFacebookSDKCallback.java,7,23,28
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKSettings.m,11,7,28
+JavaScript,/tmp/clone_directory/src/FBShareDialog.js,6,58,28
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBShareButtonManager.java,8,19,26
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKAppLink.m,9,17,26
+Ruby,/tmp/clone_directory/react-native-fbsdk.podspec,4,0,26
+JavaScript,/tmp/clone_directory/src/FBSendButton.js,9,28,26
+JavaScript,/tmp/clone_directory/src/FBShareButton.js,10,28,26
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBSendButtonManager.java,7,19,25
+XML,/tmp/clone_directory/example/android/app/src/main/AndroidManifest.xml,3,0,25
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBSettingsModule.java,9,20,23
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTConvert+FBSDKAccessToken.m,4,17,20
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.m,6,17,20
+JavaScript,/tmp/clone_directory/src/models/FBGameRequestContent.js,10,56,18
+Starlark,/tmp/clone_directory/example/android/app/build_defs.bzl,2,1,16
+JavaScript,/tmp/clone_directory/src/models/FBShareContent.js,5,38,16
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBActivityEventListener.java,6,19,15
+Java,/tmp/clone_directory/android/src/main/java/com/facebook/reactnative/androidsdk/FBSDKCallbackManagerBaseJavaModule.java,7,19,15
+Text,/tmp/clone_directory/LICENSE.txt,3,0,14
+JavaScript,/tmp/clone_directory/src/FBMessageDialog.js,5,31,14
+JavaScript,/tmp/clone_directory/babel.config.js,0,0,13
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/login/RCTConvert+FBSDKLogin.m,5,17,13
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKSendButtonManager.m,9,17,13
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKShareButtonManager.m,9,17,13
+Objective-C,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKShareHelper.m,2,17,13
+JavaScript,/tmp/clone_directory/src/models/FBShareVideoContent.js,8,46,13
+JavaScript,/tmp/clone_directory/src/FBGameRequestDialog.js,3,28,12
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,8,0,11
+JavaScript,/tmp/clone_directory/src/models/FBShareLinkContent.js,8,55,11
+XML,/tmp/clone_directory/example/ios/RNFBSDKExample.xcworkspace/contents.xcworkspacedata,0,0,10
+JavaScript,/tmp/clone_directory/src/models/FBShareOpenGraphAction.js,5,28,10
+JavaScript,/tmp/clone_directory/src/models/FBShareOpenGraphContent.js,8,40,10
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/rnfbsdkexample/MainActivity.java,4,4,9
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKGraphRequestConnectionContainer.h,6,35,9
+JavaScript,/tmp/clone_directory/src/models/FBAppGroupCreationContent.js,2,39,9
+JavaScript,/tmp/clone_directory/src/models/FBSharePhotoContent.js,5,37,9
+XML,/tmp/clone_directory/ios/RCTFBSDK.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+Objective-C,/tmp/clone_directory/example/ios/RNFBSDKExample/main.m,3,6,7
+JSON,/tmp/clone_directory/example/package.json,0,0,7
+XML,/tmp/clone_directory/ios/RCTFBSDK.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+JavaScript,/tmp/clone_directory/src/FBAppLink.js,2,22,7
+XML,/tmp/clone_directory/example/android/app/src/debug/AndroidManifest.xml,2,0,6
+JSON,/tmp/clone_directory/example/ios/RNFBSDKExample/Images.xcassets/Contents.json,0,0,6
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/login/RCTConvert+FBSDKLogin.h,5,17,6
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTConvert+FBSDKSharingContent.h,6,17,6
+JavaScript,/tmp/clone_directory/src/models/FBSharePhoto.js,3,38,6
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE.md,9,29,5
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,3,0,5
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/example/ios/RNFBSDKExample/AppDelegate.h,4,6,5
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTConvert+FBSDKAccessToken.h,5,17,5
+JavaScript,/tmp/clone_directory/.eslintrc.js,1,21,4
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,1,0,4
+Markdown,/tmp/clone_directory/README.md,3,0,4
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/strings.xml,0,0,4
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/styles.xml,2,2,4
+Gradle,/tmp/clone_directory/example/android/settings.gradle,2,0,4
+JSON,/tmp/clone_directory/example/app.json,0,0,4
+JavaScript,/tmp/clone_directory/example/index.js,2,3,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKAccessToken.h,3,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKAppEvents.h,3,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKAppLink.h,3,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.h,4,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/core/RCTFBSDKSettings.h,3,7,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/login/RCTFBSDKLoginButtonManager.h,4,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKGameRequestDialog.h,3,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.h,3,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKSendButtonManager.h,4,17,4
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKShareDialog.h,3,17,4
+JavaScript,/tmp/clone_directory/src/models/FBShareOpenGraphObject.js,4,25,4
+JavaScript,/tmp/clone_directory/src/models/FBShareVideo.js,1,28,4
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,4,16,3
+Properties,/tmp/clone_directory/example/android/gradle.properties,5,19,3
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/login/RCTFBSDKLoginManager.h,2,17,3
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKShareButtonManager.h,3,17,3
+C/C++ Header,/tmp/clone_directory/ios/RCTFBSDK/share/RCTFBSDKShareHelper.h,2,17,2
+Swift,/tmp/clone_directory/example/ios/RNFBSDKExample/File.swift,1,4,1
+ProGuard,/tmp/clone_directory/example/android/app/proguard-rules.pro,2,15,0
+C/C++ Header,/tmp/clone_directory/example/ios/RNFBSDKExample-Bridging-Header.h,1,3,0
+SUM,,893,2660,4358

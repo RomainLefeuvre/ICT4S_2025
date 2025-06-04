@@ -1,0 +1,17 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (1759.7 files/s 74378.7 lines/s)"
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+Gradle,/tmp/clone_directory/build.gradle,17,16,54
+JSON,/tmp/clone_directory/src/main/resources/fabric.mod.json,0,0,41
+YAML,/tmp/clone_directory/.github/workflows/build.yml,2,5,31
+Java,/tmp/clone_directory/src/client/java/com/example/mixin/client/ExampleClientMixin.java,2,1,12
+Java,/tmp/clone_directory/src/main/java/com/example/mixin/ExampleMixin.java,2,1,12
+JSON,/tmp/clone_directory/src/client/resources/modid.client.mixins.json,0,0,11
+Java,/tmp/clone_directory/src/main/java/com/example/ExampleMod.java,5,6,11
+JSON,/tmp/clone_directory/src/main/resources/modid.mixins.json,0,0,11
+Gradle,/tmp/clone_directory/settings.gradle,0,0,10
+Properties,/tmp/clone_directory/gradle.properties,3,5,9
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,7
+Java,/tmp/clone_directory/src/client/java/com/example/ExampleModClient.java,2,1,7
+Markdown,/tmp/clone_directory/README.md,4,0,5
+SUM,,86,153,395

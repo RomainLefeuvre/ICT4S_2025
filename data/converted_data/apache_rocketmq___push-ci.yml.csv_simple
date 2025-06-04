@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==__dup_2,0.3316351818761658,3309841,False,
+##[group]==END_FILE==,0.0553187825421235,3037721,False,
+##[group]==END_FILE==__dup_3,0.0553187825421235,1568538,False,

@@ -1,0 +1,52 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (1397.6 files/s 286813.2 lines/s)"
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/EthernetAddressTest.java,109,309,1088
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/UUIDTest.java,113,288,715
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/UUIDGeneratorTest.java,205,367,513
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/Jug.java,26,37,287
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/EthernetAddress.java,49,255,271
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/UUIDUtil.java,44,120,254
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/UUIDTimerTest.java,46,101,240
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/EgressInterfaceFinder.java,46,148,222
+Bourne Shell,/tmp/clone_directory/mvnw,34,62,220
+Maven,/tmp/clone_directory/pom.xml,13,20,202
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/ext/LockedFile.java,43,71,168
+Markdown,/tmp/clone_directory/README.md,72,0,155
+DOS Batch,/tmp/clone_directory/mvnw.cmd,35,0,153
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/Generators.java,33,216,132
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/UUIDTimer.java,43,235,130
+Java,/tmp/clone_directory/src/main/java/perf/MeasurePerformance.java,32,33,118
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/EgressInterfaceFinderTest.java,15,0,112
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/ext/FileBasedTimestampSynchronizer.java,37,101,98
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/UUIDComparatorTest.java,18,21,91
+Java,/tmp/clone_directory/.mvn/wrapper/MavenWrapperDownloader.java,10,31,76
+HTML,/tmp/clone_directory/index.html,16,0,66
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/TimeBasedEpochGenerator.java,15,70,62
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/NameBasedGenerator.java,18,58,61
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/impl/UUIDUtilTest.java,10,9,61
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/LoggerFacade.java,13,11,48
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/UUIDComparator.java,5,25,47
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/TimeBasedReorderedGenerator.java,17,70,46
+YAML,/tmp/clone_directory/.github/workflows/main.yml,0,0,45
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/TimeBasedEpochRandomGenerator.java,15,69,45
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/TimeBasedGenerator.java,15,67,44
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/RandomBasedGenerator.java,11,40,36
+Java,/tmp/clone_directory/src/main/java/test/FileSyncTest.java,8,11,27
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/UUIDGenerator.java,9,43,25
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/LazyRandom.java,4,8,19
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/UUIDType.java,4,10,17
+Markdown,/tmp/clone_directory/SECURITY.md,4,0,13
+Java,/tmp/clone_directory/src/test/java/com/fasterxml/uuid/SimpleGenerationTest.java,4,1,13
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/TimestampSynchronizer.java,6,64,12
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/UUIDClock.java,4,29,12
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,10
+YAML,/tmp/clone_directory/.travis.yml,2,0,7
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/StringArgGenerator.java,3,16,7
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/NoArgGenerator.java,2,11,6
+Java,/tmp/clone_directory/src/moditect/module-info.java,1,4,5
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,0,2
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,16,2
+Bourne Shell,/tmp/clone_directory/run.sh,1,0,2
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/ext/package-info.java,0,4,1
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/impl/package-info.java,0,4,1
+Java,/tmp/clone_directory/src/main/java/com/fasterxml/uuid/package-info.java,1,7,1
+SUM,,1211,3062,5988

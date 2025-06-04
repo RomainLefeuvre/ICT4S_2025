@@ -1,0 +1,102 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.05 s (1927.5 files/s 480742.9 lines/s)"
+Text,/tmp/clone_directory/src/test/resources/org/xerial/snappy/alice29.txt,876,0,2733
+C/C++ Header,/tmp/clone_directory/lib/inc_mac/jni.h,213,54,1694
+C/C++ Header,/tmp/clone_directory/lib/inc_linux/jni.h,205,72,1683
+C/C++ Header,/tmp/clone_directory/lib/inc_win/jni.h,208,54,1682
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/PureJavaCrc32C.java,14,35,575
+Bourne Again Shell,/tmp/clone_directory/sbt,94,70,500
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/Snappy.java,66,472,414
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyFramedInputStream.java,99,175,411
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/SnappyTest.java,68,82,385
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/SnappyFramedStreamTest.java,85,28,312
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyInputStream.java,43,187,298
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyFramedOutputStream.java,70,203,297
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/SnappyOutputStreamTest.java,43,54,285
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/BitShuffleTest.java,21,26,273
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyLoader.java,39,108,264
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyOutputStream.java,36,163,235
+C++,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyNative.cpp,42,42,215
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-android-arm,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-android-arm64,46,41,191
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-armv7,46,41,191
+Markdown,/tmp/clone_directory/Milestone.md,61,0,182
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/SnappyInputStreamTest.java,34,29,177
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/OSInfo.java,29,51,170
+make,/tmp/clone_directory/Makefile,67,11,169
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/CalgaryTest.java,36,33,169
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-arm64,44,38,160
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/pool/CachingBufferPool.java,25,53,138
+Markdown,/tmp/clone_directory/README.md,62,0,135
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/pool/CachingBufferPoolTest.java,46,7,135
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/BitShuffle.java,19,129,132
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/SnappyHadoopCompatibleOutputStreamTest.java,16,5,128
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-aarch64,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-armv5,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-armv6,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-ppc64,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-ppc64le,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-riscv64,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-s390x,38,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-arm64,38,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-x64,39,35,126
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-x86,39,35,126
+XML,/tmp/clone_directory/src/checkstyle/checks.xml,5,0,112
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyFramed.java,25,32,108
+Scala,/tmp/clone_directory/build.sbt,17,10,97
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/pool/DirectByteBuffers.java,20,35,95
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyCodec.java,16,38,92
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/SnappyLoaderTest.java,17,30,90
+Markdown,/tmp/clone_directory/BUILD.md,38,0,81
+C++,/tmp/clone_directory/src/main/java/org/xerial/snappy/BitShuffleNative.cpp,16,37,80
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/OSInfoTest.java,14,30,71
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/buffer/CachedBufferAllocator.java,11,6,63
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyNative.java,18,41,55
+YAML,/tmp/clone_directory/.github/workflows/test.yml,2,0,50
+Java,/tmp/clone_directory/src/test/java/org/xerial/snappy/RandomGenerator.java,8,15,50
+YAML,/tmp/clone_directory/.github/release-drafter.yml,5,1,49
+YAML,/tmp/clone_directory/.github/workflows/build-native.yml,2,0,46
+C/C++ Header,/tmp/clone_directory/lib/inc_linux/snappy-stubs-public.h,12,36,46
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.linux-ppc64,8,5,42
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyException.java,10,30,42
+C/C++ Header,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyNative.h,16,77,40
+YAML,/tmp/clone_directory/.github/workflows/snapshot.yml,2,1,36
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyApi.java,16,9,35
+YAML,/tmp/clone_directory/.github/workflows/release.yml,2,2,33
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyErrorCode.java,6,30,33
+C/C++ Header,/tmp/clone_directory/lib/inc_ibm/jniport.h,14,10,32
+YAML,/tmp/clone_directory/.github/release.yml,0,0,31
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyBundleActivator.java,6,37,27
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyError.java,6,32,27
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/pool/QuiescentBufferPool.java,10,19,26
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.centos5-linux-x86_64-pic,8,9,24
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyHadoopCompatibleOutputStream.java,6,0,24
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/buffer/DefaultBufferAllocator.java,5,4,23
+XML,/tmp/clone_directory/src/assembly/project.xml,0,0,20
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/BitShuffleType.java,5,29,19
+CSS,/tmp/clone_directory/stylesheet.css,10,7,19
+YAML,/tmp/clone_directory/.github/workflows/release-drafter.yml,3,6,18
+C/C++ Header,/tmp/clone_directory/src/main/java/org/xerial/snappy/BitShuffleNative.h,5,22,18
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/SnappyIOException.java,5,3,18
+Bourne Shell,/tmp/clone_directory/script/dynver.sh,3,1,17
+YAML,/tmp/clone_directory/.github/workflows/release-note.yml,2,0,16
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/pool/DefaultPoolFactory.java,5,16,16
+C/C++ Header,/tmp/clone_directory/lib/inc_linux/config.h,20,27,15
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/BitShuffleNative.java,6,40,14
+C/C++ Header,/tmp/clone_directory/lib/inc_linux/jni_md.h,5,6,13
+C/C++ Header,/tmp/clone_directory/lib/inc_mac/jni_md.h,4,6,13
+YAML,/tmp/clone_directory/.travis.yml,5,2,12
+C/C++ Header,/tmp/clone_directory/lib/inc_ibm/jni_md.h,5,36,12
+Bourne Shell,/tmp/clone_directory/script/travis-deploy.sh,2,1,12
+CMake,/tmp/clone_directory/docker/Toolchain-ppc64.cmake,4,2,9
+C/C++ Header,/tmp/clone_directory/lib/inc_win/jni_md.h,4,6,9
+Markdown,/tmp/clone_directory/SECURITY.md,4,0,8
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/pool/BufferPool.java,6,39,8
+YAML,/tmp/clone_directory/.github/dependabot.yml,1,2,6
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/buffer/BufferAllocator.java,3,3,6
+Scala,/tmp/clone_directory/project/plugins.sbt,0,0,5
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/buffer/BufferAllocatorFactory.java,3,3,5
+make,/tmp/clone_directory/docker/Makefile,2,3,4
+Properties,/tmp/clone_directory/src/test/resources/log4j.properties,2,2,4
+Properties,/tmp/clone_directory/project/build.properties,1,0,1
+Java,/tmp/clone_directory/src/main/java/org/xerial/snappy/package-info.java,2,41,1
+SUM,,3645,3533,17763

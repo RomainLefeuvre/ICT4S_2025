@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run sudo apt-get update,160.76550669913513,53234529,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions,120.42991888045664,2125002,False,
+##[group]Fetching the repository,64.60958559735234,443600,False,
+##[group]Run scripts/ubuntu_install_protobuf.sh,54.553848573095394,24087514,True,##[error]Process completed with exit code 100.
+##[group]Run actions/checkout@v2,35.99483343902651,211597,False,
+##[group]Persisting credentials for submodules,28.614752158325818,202095,False,
+##[group]Run actions/setup-python@v2,27.13873590218568,188092,False,
+##[group]Removing previously created refs_ to avoid conflicts,17.443910623460706,15973,False,
+##[group]Setting up auth,17.07490655942567,74550,False,
+##[group]Checking out the ref,15.2298862392505,15020,False,
+##[group]Fetching submodules,14.860882175215462,107625,False,
+"##[group]Run python -c ""import sys; print(sys.version)""",13.01586185504029,39945,False,
+##[group]Run scripts/sa_check_core.sh,3.370091936264707,478560,True,##[error]Process completed with exit code 127.
+Requested labels: self-hosted,0.5910071174102337,4417350,False,

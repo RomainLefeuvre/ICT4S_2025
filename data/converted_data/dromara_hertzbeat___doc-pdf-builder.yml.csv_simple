@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run LANG=""zh_CN.UTF-8""",86.96371669868114,11867954,True,##[error]Process completed with exit code 2.
+##[group]Run npx docusaurus-prince-pdf -u https://hertzbeat.apache.org/zh-cn/docs --output docs-cn.pdf,18.905926647691444,9158469,True,##[error]Process completed with exit code 1.
+##[group]Run npx docusaurus-prince-pdf -u https://hertzbeat.apache.org/docs --output docs-en.pdf,14.088355560908225,865938,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3,1.5565214340849258,106977,True,##[error]No files were found with the provided path: docs-cn.pdf. No artifacts will be uploaded.
+##[group]Run actions/upload-artifact@v3__dup_5,1.5529808716785307,124711,True,##[error]No files were found with the provided path: docs-en.pdf. No artifacts will be uploaded.

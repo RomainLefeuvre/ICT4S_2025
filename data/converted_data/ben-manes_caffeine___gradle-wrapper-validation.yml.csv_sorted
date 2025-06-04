@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 109.03513364776173, , , , 6065701, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6, 2.1578036301634738, , , , 799226, False, 
+##[group]Fetching the repository, 1.477769881311456, , , , 916094, False, 
+##[group]Run gradle/actions/wrapper-validation@db19848a5fa7950289d3668fb053140cf3028d43, 0.7464484277862539, , , , 736800, False, 
+##[group]Cleaning the repository, 0.6268993426261855, , , , 277318, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29, 0.4499113194148459, , , , 148597, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_3, 0.2345491870066396, , , , 67088, False, 
+##[group]Setting up auth, 0.1961750778097729, , , , 80789, False, 

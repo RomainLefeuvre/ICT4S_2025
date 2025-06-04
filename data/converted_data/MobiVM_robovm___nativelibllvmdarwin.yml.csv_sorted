@@ -1,0 +1,11 @@
+##[group]Run actions/setup-java@v1, 130.26691300626987, , , , 28390400, False, 
+##[group]Run git checkout -b "", 9.875978003595522, , , , 885217, True, ##[error]Process completed with exit code 2.
+##[group]Run brew install autoconf automake pkg-config libtool cmake, 1.153281565485853, , , , 125304, False, 
+##[group]GITHUB_TOKEN Permissions, 1.030606477454712, , , , 2033794, False, 
+##[group]Fetching the repository, 0.4119247883852958, , , , 488291, False, 
+##[group]Cleaning the repository, 0.1505293151367382, , , , 140878, False, 
+##[group]Checking out the ref, 0.0871318244161858, , , , 68758, False, 
+##[group]Setting up auth, 0.0776380909379324, , , , 144695, False, 
+##[group]Getting Git version info, 0.0728912241988057, , , , 12430, False, 
+##[group]Run actions/checkout@v2, 0.0713089352857635, , , , 187617, False, 
+##[group]==END_FILE==, 0.051173333440205, , , , 4478772, False, 

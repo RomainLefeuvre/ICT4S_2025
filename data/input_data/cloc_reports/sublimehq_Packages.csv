@@ -1,0 +1,1445 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.39 s (3710.8 files/s 562807.9 lines/s)"
+Markdown,/tmp/clone_directory/Markdown/tests/syntax_test_markdown.md,1769,798,6256
+YAML,/tmp/clone_directory/Python/Python.sublime-syntax,568,207,3432
+YAML,/tmp/clone_directory/PHP/PHP Source.sublime-syntax,318,151,3264
+YAML,/tmp/clone_directory/Markdown/Markdown.sublime-syntax,354,164,3008
+YAML,/tmp/clone_directory/Java/Java.sublime-syntax,481,203,2733
+YAML,/tmp/clone_directory/CSS/CSS.sublime-syntax,486,435,2595
+YAML,/tmp/clone_directory/C#/C#.sublime-syntax,158,30,2237
+YAML,/tmp/clone_directory/D/D.sublime-syntax,103,40,2214
+YAML,/tmp/clone_directory/JavaScript/JavaScript.sublime-syntax,372,36,2193
+YAML,/tmp/clone_directory/Ruby/Ruby.sublime-syntax,96,168,2095
+YAML,/tmp/clone_directory/ShellScript/Bash.sublime-syntax,272,119,2028
+YAML,/tmp/clone_directory/Lisp/Lisp.sublime-syntax,142,132,2013
+YAML,/tmp/clone_directory/C++/C++.sublime-syntax,153,154,2009
+YAML,/tmp/clone_directory/LaTeX/LaTeX.sublime-syntax,127,48,1974
+YAML,/tmp/clone_directory/Objective-C/Objective-C++.sublime-syntax,134,96,1969
+YAML,/tmp/clone_directory/Erlang/Erlang.sublime-syntax,257,180,1774
+YAML,/tmp/clone_directory/Scala/Scala.sublime-syntax,101,83,1702
+XML,/tmp/clone_directory/XML/syntax_test_xml.xml,206,86,1647
+YAML,/tmp/clone_directory/Perl/Perl.sublime-syntax,161,186,1597
+YAML,/tmp/clone_directory/Batch File/Batch File.sublime-syntax,268,160,1578
+YAML,/tmp/clone_directory/Matlab/Matlab.sublime-syntax,183,58,1563
+YAML,/tmp/clone_directory/Rust/Rust.sublime-syntax,231,92,1503
+YAML,/tmp/clone_directory/Haskell/Haskell.sublime-syntax,211,151,1332
+Java,/tmp/clone_directory/Java/tests/syntax_test_java.java,972,9047,1292
+YAML,/tmp/clone_directory/Objective-C/Objective-C.sublime-syntax,110,58,1266
+Python,/tmp/clone_directory/CSS/completions/properties.py,10,10,1236
+YAML,/tmp/clone_directory/C++/C.sublime-syntax,121,76,1200
+YAML,/tmp/clone_directory/Go/Go.sublime-syntax,250,264,1165
+Bourne Shell,/tmp/clone_directory/ShellScript/test/syntax_test_bash.sh,615,5150,1085
+YAML,/tmp/clone_directory/JavaScript/TypeScript.sublime-syntax,145,3,1058
+C++,/tmp/clone_directory/C++/syntax_test_cpp.cpp,409,1715,974
+Objective-C++,/tmp/clone_directory/Objective-C/syntax_test_objc++.mm,385,1570,939
+Java,/tmp/clone_directory/Java/tests/syntax_test_java_indentation.java,83,93,910
+Go,/tmp/clone_directory/Go/tests/syntax_test_go.go,570,4432,891
+Perl,/tmp/clone_directory/Perl/syntax_test_perl.pl,164,4446,879
+C++,/tmp/clone_directory/C++/tests/syntax_test_indent_common.c++,53,91,839
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_indent_common.js,57,92,830
+YAML,/tmp/clone_directory/Lua/Lua.sublime-syntax,117,6,815
+PHP,/tmp/clone_directory/PHP/tests/syntax_test_php.php,585,4719,804
+YAML,/tmp/clone_directory/OCaml/OCaml.sublime-syntax,14,9,728
+YAML,/tmp/clone_directory/AppleScript/AppleScript.sublime-syntax,3,1,726
+YAML,/tmp/clone_directory/HTML/HTML.sublime-syntax,115,57,696
+CSS,/tmp/clone_directory/CSS/syntax_test_css.css,482,3279,678
+Python,/tmp/clone_directory/Python/tests/syntax_test_python.py,461,2730,674
+DOS Batch,/tmp/clone_directory/Batch File/tests/syntax_test_batch_file.bat,575,3800,654
+YAML,/tmp/clone_directory/ASP/ASP.sublime-syntax,53,11,652
+Scala,/tmp/clone_directory/Scala/syntax_test_scala.scala,481,1180,644
+YAML,/tmp/clone_directory/Java/HTML (JSP).sublime-syntax,87,20,636
+ReasonML,/tmp/clone_directory/Regular Expressions/tests/syntax_test_regexp.re,116,0,621
+YAML,/tmp/clone_directory/YAML/YAML.sublime-syntax,92,128,615
+Erlang,/tmp/clone_directory/Erlang/syntax_test_erlang.erl,497,4314,604
+YAML,/tmp/clone_directory/Makefile/Makefile.sublime-syntax,46,38,591
+YAML,/tmp/clone_directory/LaTeX/TeX.sublime-syntax,96,39,589
+YAML,/tmp/clone_directory/Groovy/Groovy.sublime-syntax,6,16,564
+Haskell,/tmp/clone_directory/Haskell/tests/syntax_test_haskell.hs,440,3576,541
+Python,/tmp/clone_directory/CSS/completions/common.py,5,1,533
+YAML,/tmp/clone_directory/XML/XML.sublime-syntax,90,101,533
+Python,/tmp/clone_directory/HTML/html_completions.py,67,53,494
+Clojure,/tmp/clone_directory/Clojure/tests/syntax_test_clojure.clj,351,1475,490
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js.js,330,931,460
+D,/tmp/clone_directory/D/tests/syntax_test_d.d,93,2798,453
+YAML,/tmp/clone_directory/TCL/Tcl.sublime-syntax,30,10,430
+YAML,/tmp/clone_directory/R/R.sublime-syntax,26,18,380
+YAML,/tmp/clone_directory/ShellScript/commands-builtin-shell-bash.sublime-syntax,0,5,380
+YAML,/tmp/clone_directory/SQL/SQL.sublime-syntax,12,8,371
+YAML,/tmp/clone_directory/Clojure/Clojure.sublime-syntax,29,12,364
+Lisp,/tmp/clone_directory/Lisp/tests/syntax_test_lisp.lisp,379,2127,360
+C#,/tmp/clone_directory/C#/tests/syntax_test_GeneralStructure.cs,111,986,354
+Ruby,/tmp/clone_directory/Ruby/syntax_test_ruby.rb,148,1113,354
+ASP,/tmp/clone_directory/ASP/syntax_test_asp.asp,108,929,353
+HTML,/tmp/clone_directory/HTML/syntax_test_html.html,133,618,339
+C,/tmp/clone_directory/C++/syntax_test_c.c,146,723,338
+YAML,/tmp/clone_directory/Git Formats/Git Common.sublime-syntax,43,37,338
+YAML,/tmp/clone_directory/Haskell/Cabal.sublime-syntax,70,22,333
+Objective-C,/tmp/clone_directory/Objective-C/syntax_test_objc.m,148,708,314
+YAML,/tmp/clone_directory/HTML/HTML (Plain).sublime-syntax,67,90,278
+YAML,/tmp/clone_directory/ASP/HTML (ASP).sublime-syntax,36,5,275
+YAML,/tmp/clone_directory/Rails/HAML.sublime-syntax,42,36,273
+YAML,/tmp/clone_directory/Git Formats/Git Rebase.sublime-syntax,33,11,272
+Python,/tmp/clone_directory/Python/tests/syntax_test_python_strings.py,188,1310,268
+YAML,/tmp/clone_directory/Regular Expressions/RegExp (Basic).sublime-syntax,44,17,246
+YAML,/tmp/clone_directory/LaTeX/Bibtex.sublime-syntax,45,10,239
+YAML,/tmp/clone_directory/Git Formats/Git Attributes.sublime-syntax,46,26,236
+YAML,/tmp/clone_directory/PHP/PHP.sublime-syntax,35,7,234
+TypeScript,/tmp/clone_directory/JavaScript/tests/syntax_test_typescript.ts,210,1120,231
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_support_builtin.js,25,221,216
+TeX,/tmp/clone_directory/LaTeX/tests/syntax_test_tex.tex,107,545,215
+TeX,/tmp/clone_directory/LaTeX/tests/syntax_test_latex.tex,192,679,210
+YAML,/tmp/clone_directory/Textile/Textile.sublime-syntax,3,20,202
+YAML,/tmp/clone_directory/Java/Embeddings/JavaDoc.sublime-syntax,35,71,201
+YAML,/tmp/clone_directory/RestructuredText/reStructuredText.sublime-syntax,0,1,197
+YAML,/tmp/clone_directory/JSON/JSON.sublime-syntax,32,9,191
+YAML,/tmp/clone_directory/Git Formats/Git Config.sublime-syntax,33,33,183
+C#,/tmp/clone_directory/C#/tests/syntax_test_C#7.cs,46,622,178
+Lua,/tmp/clone_directory/Lua/tests/syntax_test_lua_support.lua,178,457,178
+Python,/tmp/clone_directory/CSS/css_completions.py,37,13,176
+YAML,/tmp/clone_directory/JavaScript/JSX.sublime-syntax,35,0,174
+YAML,/tmp/clone_directory/Rails/Ruby (Rails).sublime-syntax,8,12,172
+CSS,/tmp/clone_directory/CSS/syntax_test_indentation.css,66,207,169
+YAML,/tmp/clone_directory/OCaml/OCamlyacc.sublime-syntax,3,1,167
+ERB,/tmp/clone_directory/Rails/tests/syntax_test_rails.html.erb,19,1,163
+Markdown,/tmp/clone_directory/Go/tests/syntax_test_template.md,38,12,161
+YAML,/tmp/clone_directory/OCaml/OCamllex.sublime-syntax,3,1,150
+YAML,/tmp/clone_directory/Rails/HTML (Rails).sublime-syntax,18,2,144
+Lua,/tmp/clone_directory/Lua/tests/syntax_test_lua.lua,144,490,140
+C#,/tmp/clone_directory/C#/tests/syntax_test_C#9.cs,29,276,137
+YAML,/tmp/clone_directory/R/Rd (R Documentation).sublime-syntax,8,1,136
+D,/tmp/clone_directory/D/tests/syntax_test_old.d,24,53,133
+HTML,/tmp/clone_directory/Go/tests/syntax_test_template.html,17,2,130
+Python,/tmp/clone_directory/Diff/diff.py,56,9,129
+C#,/tmp/clone_directory/C#/tests/syntax_test_C#8.cs,31,159,126
+JSP,/tmp/clone_directory/Java/tests/syntax_test_jsp.jsp,82,704,126
+Tcl/Tk,/tmp/clone_directory/TCL/syntax_test_tcl.tcl,58,228,126
+JSON,/tmp/clone_directory/JSON/syntax_test_json.json,28,0,123
+XML,/tmp/clone_directory/D/Comments.tmPreferences,0,0,121
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_generics.rs,33,295,121
+YAML,/tmp/clone_directory/JavaScript/Regular Expressions (JavaScript).sublime-syntax,11,0,120
+Haml,/tmp/clone_directory/Rails/tests/syntax_test_rails.haml,66,375,119
+Python,/tmp/clone_directory/CSS/completions/function_args.py,7,2,118
+YAML,/tmp/clone_directory/Git Formats/Git Commit.sublime-syntax,12,14,111
+YAML,/tmp/clone_directory/Go/HTML (Go).sublime-syntax,12,1,109
+YAML,/tmp/clone_directory/Graphviz/DOT.sublime-syntax,9,2,109
+YAML,/tmp/clone_directory/Go/Embeddings/HTML (for Go Embedded Backtick Strings).sublime-syntax,11,1,106
+YAML,/tmp/clone_directory/PHP/Embeddings/HTML (for PHP Interpolated).sublime-syntax,10,0,106
+YAML,/tmp/clone_directory/PHP/Embeddings/RegExp (for PHP).sublime-syntax,12,24,105
+XML,/tmp/clone_directory/Python/Fold.tmPreferences,0,0,103
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_control.js,65,310,100
+YAML,/tmp/clone_directory/Git Formats/Git Log.sublime-syntax,11,9,99
+YAML,/tmp/clone_directory/Rails/Embeddings/HTML (for HAML).sublime-syntax,9,1,99
+YAML,/tmp/clone_directory/Ruby/Embeddings/HTML (for Ruby).sublime-syntax,9,0,99
+YAML,/tmp/clone_directory/ShellScript/commands-builtin-shell-bash.yml,46,13,97
+YAML,/tmp/clone_directory/ActionScript/ActionScript.sublime-syntax,3,1,94
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_class.js,67,200,94
+R,/tmp/clone_directory/R/syntax_test_r.R,111,348,94
+C#,/tmp/clone_directory/C#/tests/syntax_test_c#.cs,23,134,92
+Python,/tmp/clone_directory/ShellScript/tools/update-commands.py,20,0,92
+YAML,/tmp/clone_directory/Regular Expressions/RegExp.sublime-syntax,10,1,90
+XML,/tmp/clone_directory/C++/Indentation Rules.tmPreferences,4,0,89
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_macros.rs,12,289,87
+XML,/tmp/clone_directory/XML/Fold.tmPreferences,3,18,87
+YAML,/tmp/clone_directory/Pascal/Pascal.sublime-syntax,3,1,85
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_literals.rs,17,203,84
+XML,/tmp/clone_directory/Java/Java - Indentation Rules.tmPreferences,0,0,83
+YAML,/tmp/clone_directory/LaTeX/DocStrip.sublime-syntax,13,2,82
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_punct.rs,7,94,81
+Groovy,/tmp/clone_directory/Groovy/tests/syntax_test_Strings.groovy,59,161,78
+YAML,/tmp/clone_directory/LaTeX/LaTeX Log.sublime-syntax,22,5,76
+YAML,/tmp/clone_directory/Diff/Diff.sublime-syntax,1,1,73
+PHP,/tmp/clone_directory/PHP/tests/syntax_test_indentation.php,15,1,73
+YAML,/tmp/clone_directory/Regular Expressions/File Pattern.sublime-syntax,11,1,73
+XML,/tmp/clone_directory/JavaScript/Indentation Rules.tmPreferences,4,0,71
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_block.yaml,52,139,70
+XML,/tmp/clone_directory/C#/Fold.tmPreferences,0,0,69
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_support_node.js,5,70,69
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,8,5,67
+C#,/tmp/clone_directory/C#/tests/syntax_test_Generics.cs,26,135,67
+C#,/tmp/clone_directory/C#/tests/syntax_test_indentation.cs,12,3,67
+YAML,/tmp/clone_directory/Git Formats/Git Link.sublime-syntax,13,4,67
+XML,/tmp/clone_directory/JSON/Indentation Rules.tmPreferences,0,0,65
+XML,/tmp/clone_directory/PHP/Indentation Rules.tmPreferences,3,0,64
+C#,/tmp/clone_directory/C#/tests/syntax_test_C#11.cs,21,119,60
+C#,/tmp/clone_directory/C#/tests/syntax_test_Using.cs,12,115,60
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_import_export.js,49,177,59
+YAML,/tmp/clone_directory/Git Formats/Git Commit Message.sublime-syntax,13,10,56
+YAML,/tmp/clone_directory/JavaScript/TSX.sublime-syntax,12,0,56
+XML,/tmp/clone_directory/Erlang/Fold.tmPreferences,0,0,55
+ERB,/tmp/clone_directory/Rails/tests/syntax_test_rails.css.erb,3,0,54
+YAML,/tmp/clone_directory/Java/JavaProperties.sublime-syntax,8,2,53
+XML,/tmp/clone_directory/Batch File/Comments.tmPreferences,0,0,49
+XML,/tmp/clone_directory/C++/Comments.tmPreferences,0,0,49
+XML,/tmp/clone_directory/CSS/Indentation Rules.tmPreferences,0,0,48
+C++,/tmp/clone_directory/C++/syntax_test_accessor.cpp,11,10,47
+XML,/tmp/clone_directory/HTML/Indentation Rules.tmPreferences,0,8,47
+Objective-C++,/tmp/clone_directory/Objective-C/syntax_test_accessor.mm,11,10,47
+XML,/tmp/clone_directory/Ruby/Indentation Rules.tmPreferences,0,0,47
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_bindings.js,41,198,46
+XML,/tmp/clone_directory/AppleScript/Comments.tmPreferences,0,0,45
+XML,/tmp/clone_directory/JavaScript/JSX Fold.tmPreferences,0,0,45
+Markdown,/tmp/clone_directory/README.md,27,0,45
+XML,/tmp/clone_directory/Rails/Template (ERB).tmPreferences,0,0,45
+XML,/tmp/clone_directory/Rails/Template (Haml).tmPreferences,0,0,45
+C#,/tmp/clone_directory/C#/tests/syntax_test_PreprocessorDirectives.cs,11,39,44
+C++,/tmp/clone_directory/C++/tests/syntax_test_indent_classes.c++,18,22,44
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_raw.rs,15,47,44
+XML,/tmp/clone_directory/Go/Indention Rules.tmPreferences,10,5,43
+XML,/tmp/clone_directory/JavaScript/Fold.tmPreferences,0,0,43
+XML,/tmp/clone_directory/Lua/Comments.tmPreferences,0,0,43
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_regexp.js,56,169,42
+YAML,/tmp/clone_directory/Markdown/MultiMarkdown.sublime-syntax,6,4,42
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_attributes.rs,14,105,42
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_control_flow.rs,8,48,42
+Markdown,/tmp/clone_directory/Markdown/tests/syntax_test_multimarkdown_frontmatter.md,1,0,40
+YAML,/tmp/clone_directory/Git Formats/Git Blame Ignore Revisions.sublime-syntax,12,4,39
+XML,/tmp/clone_directory/Lisp/Fold.tmPreferences,0,0,39
+OCaml,/tmp/clone_directory/OCaml/syntax_test_ml.ml,39,165,39
+YAML,/tmp/clone_directory/PHP/CSS (PHP).sublime-syntax,10,0,39
+XML,/tmp/clone_directory/Rust/Fold.tmPreferences,0,0,39
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/02-bug-file-indexing.yml,7,0,38
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/03-supporting-files.yml,7,0,38
+TeX,/tmp/clone_directory/LaTeX/tests/syntax_test_latex.xparse.tex,49,341,38
+YAML,/tmp/clone_directory/PHP/JSON (PHP).sublime-syntax,8,1,38
+reStructuredText,/tmp/clone_directory/RestructuredText/syntax_test_restructuredtext.rst,47,52,38
+XML,/tmp/clone_directory/C#/Comments.tmPreferences,0,0,37
+XML,/tmp/clone_directory/Go/Comments.tmPreferences,0,0,37
+YAML,/tmp/clone_directory/Haskell/Embeddings/HTML (for HSX).sublime-syntax,9,6,37
+XML,/tmp/clone_directory/Java/Fold.tmPreferences,0,0,37
+XML,/tmp/clone_directory/PHP/Comments.tmPreferences,0,0,37
+YAML,/tmp/clone_directory/PHP/JavaScript (PHP).sublime-syntax,8,0,37
+ERB,/tmp/clone_directory/Rails/tests/syntax_test_rails.js.erb,3,0,37
+XML,/tmp/clone_directory/Rust/Comments.tmPreferences,0,0,37
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_struct.rs,12,75,37
+YAML,/tmp/clone_directory/Erlang/HTML (Erlang).sublime-syntax,8,6,36
+JSX,/tmp/clone_directory/JavaScript/tests/syntax_test_jsx.jsx,47,228,36
+YAML,/tmp/clone_directory/Python/Embeddings/RegExp (for Python).sublime-syntax,4,5,36
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_expr.rs,9,127,36
+XML,/tmp/clone_directory/C#/Indentation Rules.tmPreferences,0,0,35
+YAML,/tmp/clone_directory/Git Formats/Git Code Owners.sublime-syntax,8,8,35
+XML,/tmp/clone_directory/Go/Fold.tmPreferences,0,0,35
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_types.rs,25,214,35
+YAML,/tmp/clone_directory/YAML/preview.yaml,5,1,35
+XML,/tmp/clone_directory/Matlab/Comments.tmPreferences,0,0,34
+XML,/tmp/clone_directory/Graphviz/Comments.tmPreferences,0,0,33
+XML,/tmp/clone_directory/Java/HTML (JSP) - Comments.tmPreferences,0,0,33
+XML,/tmp/clone_directory/Lisp/Comments.tmPreferences,0,0,33
+XML,/tmp/clone_directory/Rails/HTML (Rails) - Comments.tmPreferences,0,0,33
+YAML,/tmp/clone_directory/PHP/Embeddings/PHP Source (for PHP).sublime-syntax,8,1,32
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_flow.yaml,33,187,32
+XML,/tmp/clone_directory/Batch File/Fold.tmPreferences,0,0,31
+XML,/tmp/clone_directory/CSS/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/Groovy/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/Haskell/Comments.tmPreferences,0,0,31
+YAML,/tmp/clone_directory/Haskell/Literate Haskell.sublime-syntax,4,1,31
+XML,/tmp/clone_directory/JSON/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/JSON/Fold.tmPreferences,0,0,31
+XML,/tmp/clone_directory/Java/Java - Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/JavaScript/Comments.tmPreferences,0,0,31
+YAML,/tmp/clone_directory/OCaml/camlp4.sublime-syntax,0,1,31
+XML,/tmp/clone_directory/Pascal/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/Python/Comments.tmPreferences,0,5,31
+XML,/tmp/clone_directory/Ruby/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/SQL/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/Scala/Comments.tmPreferences,0,0,31
+XML,/tmp/clone_directory/XML/Indentation Rules.tmPreferences,0,6,31
+XML,/tmp/clone_directory/Matlab/Snippets/Octave-function.sublime-snippet,4,0,30
+YAML,/tmp/clone_directory/Regular Expressions/Regex Replace.sublime-syntax,3,2,30
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_traits.rs,9,107,30
+XML,/tmp/clone_directory/Scala/Indentation Rules.tmPreferences,2,0,30
+XML,/tmp/clone_directory/D/Fold.tmPreferences,0,0,29
+TeX,/tmp/clone_directory/LaTeX/tests/syntax_test_docstrip.ins,25,35,29
+XML,/tmp/clone_directory/Markdown/Fold.tmPreferences,0,0,29
+XML,/tmp/clone_directory/Markdown/Symbol List - Heading.tmPreferences,0,0,29
+SQL,/tmp/clone_directory/SQL/syntax_test_sql.sql,38,245,29
+C#,/tmp/clone_directory/C#/tests/syntax_test_query.cs,6,26,28
+YAML,/tmp/clone_directory/Go/Markdown (Go).sublime-syntax,8,1,28
+HTML,/tmp/clone_directory/HTML/syntax_test_html_indentation.html,4,5,28
+XML,/tmp/clone_directory/JavaScript/JSX Comments.tmPreferences,0,0,28
+XML,/tmp/clone_directory/Regular Expressions/Comments.tmPreferences,0,0,28
+XML,/tmp/clone_directory/D/Indentation Rules.tmPreferences,2,0,27
+XML,/tmp/clone_directory/Graphviz/Fold.tmPreferences,0,0,27
+XML,/tmp/clone_directory/Python/Indentation Rules.tmPreferences,0,0,27
+XML,/tmp/clone_directory/TCL/Fold.tmPreferences,0,0,27
+YAML,/tmp/clone_directory/Java/Embeddings/Java (for HTML).sublime-syntax,6,13,26
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_functions.rs,17,112,26
+C,/tmp/clone_directory/C++/syntax_test_accessor.c,5,5,25
+XML,/tmp/clone_directory/Erlang/Comments.tmPreferences,0,0,25
+XML,/tmp/clone_directory/Erlang/Indentation Rules.tmPreferences,0,0,25
+XML,/tmp/clone_directory/Go/Template.tmPreferences,1,7,25
+XML,/tmp/clone_directory/Groovy/Fold.tmPreferences,0,0,25
+XML,/tmp/clone_directory/Java/JavaProperties - Comments.tmPreferences,0,0,25
+XML,/tmp/clone_directory/Makefile/Comments.tmPreferences,0,0,25
+XML,/tmp/clone_directory/OCaml/Comments.tmPreferences,0,0,25
+Objective-C,/tmp/clone_directory/Objective-C/syntax_test_accessor.m,5,5,25
+YAML,/tmp/clone_directory/PHP/Embeddings/SQL (for PHP).sublime-syntax,5,1,25
+ERB,/tmp/clone_directory/Rails/tests/syntax_test_rails.sql.erb,5,1,25
+XML,/tmp/clone_directory/Ruby/Snippets/option_parse-{-..-}-(optp).sublime-snippet,7,0,25
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_closures.rs,8,171,25
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/01-bug-syntax-highlighting.yml,4,0,24
+YAML,/tmp/clone_directory/Markdown/Shell (for Markdown).sublime-syntax,4,1,24
+YAML,/tmp/clone_directory/Perl/Embeddings/RegExp (for Perl).sublime-syntax,7,0,24
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_misc.rs,6,33,24
+XML,/tmp/clone_directory/ShellScript/Indentation Rules.tmPreferences,0,0,24
+XML,/tmp/clone_directory/Erlang/Indexed Reference List.tmPreferences,0,0,23
+XML,/tmp/clone_directory/Erlang/Indexed Symbol List.tmPreferences,0,0,23
+Haskell,/tmp/clone_directory/Haskell/tests/syntax_test_literate.lhs,4,1,23
+YAML,/tmp/clone_directory/Perl/Embeddings/RegExp (for Perl brackets).sublime-syntax,7,0,23
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_directives.yaml,14,57,23
+XML,/tmp/clone_directory/ASP/Symbol List.tmPreferences,0,0,22
+YAML,/tmp/clone_directory/Git Formats/Git Ignore.sublime-syntax,8,3,22
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded Backtick String).sublime-syntax,5,4,22
+XML,/tmp/clone_directory/Graphviz/Indentation Rules.tmPreferences,1,0,22
+Properties,/tmp/clone_directory/Java/tests/syntax_test_java_properties.properties,23,90,22
+TypeScript,/tmp/clone_directory/JavaScript/tests/syntax_test_tsx.tsx,39,226,22
+XML,/tmp/clone_directory/LaTeX/Symbol List - Sections.tmPreferences,0,0,22
+TeX,/tmp/clone_directory/LaTeX/tests/syntax_test_tex.math.tex,26,130,22
+XML,/tmp/clone_directory/Matlab/Indentation Rules.tmPreferences,0,0,22
+XML,/tmp/clone_directory/Rust/Symbol List.tmPreferences,0,0,22
+XML,/tmp/clone_directory/ASP/Comments.tmPreferences,0,0,21
+XML,/tmp/clone_directory/CSS/Fold.tmPreferences,0,0,21
+XML,/tmp/clone_directory/Clojure/Comment.tmPreferences,0,0,21
+XML,/tmp/clone_directory/Git Formats/Comments.tmPreferences,0,0,21
+XML,/tmp/clone_directory/Git Formats/Git Config - Fold.tmPreferences,0,0,21
+XML,/tmp/clone_directory/HTML/Comments.tmPreferences,0,6,21
+XML,/tmp/clone_directory/Java/Symbol List - Imports.tmPreferences,0,0,21
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_support_console.js,5,30,21
+XML,/tmp/clone_directory/LaTeX/Comments.tmPreferences,0,0,21
+XML,/tmp/clone_directory/PHP/Symbol List.tmPreferences,0,0,21
+XML,/tmp/clone_directory/Perl/Comments.tmPreferences,0,0,21
+XML,/tmp/clone_directory/R/Comments.tmPreferences,0,0,21
+YAML,/tmp/clone_directory/Rails/Embeddings/Ruby (for HAML).sublime-syntax,5,2,21
+XML,/tmp/clone_directory/RestructuredText/Comments.tmPreferences,0,0,21
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_enum.rs,4,48,21
+XML,/tmp/clone_directory/Scala/Symbol List.tmPreferences,0,0,21
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE/02-syntax-update-significant.md,7,4,20
+XML,/tmp/clone_directory/ASP/Indentation Rules.tmPreferences,0,0,20
+XML,/tmp/clone_directory/Batch File/Indentation Rules.tmPreferences,0,0,20
+XML,/tmp/clone_directory/Erlang/Completion Rules.tmPreferences,0,0,20
+YAML,/tmp/clone_directory/Go/Embeddings/XML (for Go Embedded Backtick Strings).sublime-syntax,6,1,20
+TypeScript,/tmp/clone_directory/JavaScript/tests/syntax_test_typescript_declarations.d.ts,20,145,20
+TeX,/tmp/clone_directory/LaTeX/tests/syntax_test_bibtex.bib,8,79,20
+XML,/tmp/clone_directory/Rails/Snippets/def-create-resource.sublime-snippet,0,0,20
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_types.yaml,26,179,20
+XML,/tmp/clone_directory/ASP/Fold.tmPreferences,0,0,19
+XML,/tmp/clone_directory/AppleScript/Fold.tmPreferences,0,0,19
+XML,/tmp/clone_directory/C#/Symbol List - Constructors.tmPreferences,0,0,19
+XML,/tmp/clone_directory/C#/Symbol List - Inner Function.tmPreferences,0,0,19
+XML,/tmp/clone_directory/C++/Fold.tmPreferences,0,0,19
+XML,/tmp/clone_directory/CSS/Symbol List - Selector.tmPreferences,0,0,19
+XML,/tmp/clone_directory/Erlang/Symbol List - Function Definition.tmPreferences,0,0,19
+YAML,/tmp/clone_directory/Git Formats/Git Mailmap.sublime-syntax,4,4,19
+XML,/tmp/clone_directory/Haskell/Cabal Comments.tmPreferences,0,0,19
+XML,/tmp/clone_directory/Java/Symbol List - Case Label.tmPreferences,0,0,19
+XML,/tmp/clone_directory/Objective-C/Fold.tmPreferences,0,0,19
+XML,/tmp/clone_directory/Rails/HAML - Comments.tmPreferences,0,0,19
+XML,/tmp/clone_directory/Ruby/Symbol List - Classes, Modules.tmPreferences,0,0,19
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_visibility.rs,3,62,19
+XML,/tmp/clone_directory/ShellScript/Comments.tmPreferences,0,0,19
+XML,/tmp/clone_directory/TCL/Comments.tmPreferences,0,0,19
+YAML,/tmp/clone_directory/TCL/HTML (Tcl).sublime-syntax,0,1,19
+XML,/tmp/clone_directory/XML/Comments.tmPreferences,0,6,19
+XML,/tmp/clone_directory/YAML/Comments.tmPreferences,0,0,19
+XML,/tmp/clone_directory/CSS/Symbol List - Group.tmPreferences,0,0,18
+XML,/tmp/clone_directory/Go/Snippets/go-helloweb.sublime-snippet,3,0,18
+XML,/tmp/clone_directory/Graphviz/Symbol List.tmPreferences,0,0,18
+Groovy,/tmp/clone_directory/Groovy/syntax_test_groovy.groovy,10,57,18
+XML,/tmp/clone_directory/Java/Symbol List - Modules.tmPreferences,0,0,18
+XML,/tmp/clone_directory/Java/Symbol List - Packages.tmPreferences,0,0,18
+XML,/tmp/clone_directory/Lisp/Symbol List.tmPreferences,0,0,18
+XML,/tmp/clone_directory/Markdown/Symbol List - Reference Link.tmPreferences,0,0,18
+YAML,/tmp/clone_directory/PHP/Embeddings/SQL (for PHP Interpolated).sublime-syntax,5,2,18
+YAML,/tmp/clone_directory/PHP/Embeddings/YAML (for PHP Interpolated).sublime-syntax,4,0,18
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_modules.rs,10,69,18
+XML,/tmp/clone_directory/Scala/Indentation Rules - case.tmPreferences,0,0,18
+XML,/tmp/clone_directory/ShellScript/Symbol List - Coproc.tmPreferences,0,0,18
+XML,/tmp/clone_directory/ShellScript/Symbol List - Functions.tmPreferences,0,0,18
+XML,/tmp/clone_directory/C#/Symbol List - Region.tmPreferences,0,0,17
+C#,/tmp/clone_directory/C#/tests/syntax_test_Strings.cs,7,32,17
+C/C++ Header,/tmp/clone_directory/C++/tests/syntax_test_indent_extern.hpp,6,1,17
+XML,/tmp/clone_directory/Clojure/Symbol Index - Hide Special Functions.tmPreferences,0,0,17
+XML,/tmp/clone_directory/D/Snippets/try-catch-finally.sublime-snippet,0,0,17
+XML,/tmp/clone_directory/Erlang/Symbol List - Function Specification.tmPreferences,0,0,17
+YAML,/tmp/clone_directory/Go/Embeddings/SQL (for Go Embedded Backtick Strings).sublime-syntax,4,0,17
+XML,/tmp/clone_directory/Go/Symbol List - Variables.tmPreferences,0,0,17
+Python,/tmp/clone_directory/HTML/encode_html_entities.py,8,0,17
+XML,/tmp/clone_directory/LaTeX/Symbol List - Commands.tmPreferences,0,0,17
+XML,/tmp/clone_directory/LaTeX/Symbol List - Constants.tmPreferences,0,0,17
+XML,/tmp/clone_directory/Lisp/Symbol List - Variables.tmPreferences,0,0,17
+XML,/tmp/clone_directory/Markdown/Symbol List - Hide.tmPreferences,0,0,17
+XML,/tmp/clone_directory/PHP/Snippets/class-{-}.sublime-snippet,0,0,17
+XML,/tmp/clone_directory/Python/Completion Rules.tmPreferences,0,0,17
+XML,/tmp/clone_directory/Python/Symbol List.tmPreferences,0,0,17
+YAML,/tmp/clone_directory/Rails/CSS (Rails).sublime-syntax,7,0,17
+YAML,/tmp/clone_directory/Ruby/Embeddings/CSS (for Ruby).sublime-syntax,6,0,17
+XML,/tmp/clone_directory/Ruby/Snippets/service_object.sublime-snippet,2,0,17
+XML,/tmp/clone_directory/Batch File/Symbol List.tmPreferences,0,0,16
+XML,/tmp/clone_directory/CSS/Symbol Index.tmPreferences,0,0,16
+YAML,/tmp/clone_directory/D/DMD Output.sublime-syntax,0,0,16
+XML,/tmp/clone_directory/D/Snippets/class.sublime-snippet,0,0,16
+XML,/tmp/clone_directory/Erlang/Symbol List - Exports.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Erlang/Symbol List - Imports.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Erlang/Symbol List - Macro.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Erlang/Symbol List - Record.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Erlang/Symbol List - Type.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Git Formats/Git Config - Indentation Rules.tmPreferences,0,0,16
+YAML,/tmp/clone_directory/Go/CSS (Go).sublime-syntax,5,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded CSS).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded HTML).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded JS).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded JSON).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded Regex).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded SQL).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/Embeddings/Go (Embedded XML).sublime-syntax,2,1,16
+YAML,/tmp/clone_directory/Go/JavaScript (Go).sublime-syntax,5,0,16
+XML,/tmp/clone_directory/Go/Symbol List - Types.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Groovy/Symbol List - Class Variables.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Groovy/Symbol List - Methods.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Groovy/Symbol List - Variables.tmPreferences,0,0,16
+XML,/tmp/clone_directory/HTML/Snippets/html (begin tag).sublime-snippet,0,0,16
+XML,/tmp/clone_directory/HTML/Snippets/html.sublime-snippet,0,0,16
+XML,/tmp/clone_directory/Haskell/Indexed Reference List.tmPreferences,0,0,16
+XML,/tmp/clone_directory/Haskell/Indexed Symbol List.tmPreferences,0,0,16
+YAML,/tmp/clone_directory/Java/Embeddings/Java (for JSP).sublime-syntax,6,13,16
+XML,/tmp/clone_directory/JavaScript/Symbol List.tmPreferences,0,0,16
+XML,/tmp/clone_directory/OCaml/Indentation Rules.tmPreferences,0,0,16
+YAML,/tmp/clone_directory/PHP/Embeddings/CSS (for PHP Interpolated).sublime-syntax,5,0,16
+XML,/tmp/clone_directory/R/Symbol List - Methods.tmPreferences,0,0,16
+XML,/tmp/clone_directory/R/Symbol List - Sections (Rd Documentation).tmPreferences,0,0,16
+Ruby,/tmp/clone_directory/Rails/tests/syntax_test_rails.builder,14,21,16
+XML,/tmp/clone_directory/Ruby/Snippets/module-..-ClassMethods-..-end.sublime-snippet,3,0,16
+XML,/tmp/clone_directory/Ruby/Symbol List - Methods.tmPreferences,0,0,16
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_dyn.rs,2,29,16
+XML,/tmp/clone_directory/Scala/Dedentation Rules - case.tmPreferences,0,1,16
+XML,/tmp/clone_directory/Text/Plain text.tmLanguage,0,0,16
+YAML,/tmp/clone_directory/ASP/Embeddings/CSS (for ASP).sublime-syntax,7,14,15
+C#,/tmp/clone_directory/C#/tests/syntax_test_Comments.cs,2,36,15
+C#,/tmp/clone_directory/C#/tests/syntax_test_Operators.cs,15,77,15
+XML,/tmp/clone_directory/C++/Symbol List - Prefix Banner Items.tmPreferences,0,0,15
+XML,/tmp/clone_directory/CSS/Reference Index.tmPreferences,0,0,15
+diff,/tmp/clone_directory/Diff/syntax_test_diff.diff,20,66,15
+XML,/tmp/clone_directory/Groovy/Snippets/try-__-catch__-finally.sublime-snippet,1,0,15
+YAML,/tmp/clone_directory/Java/Embeddings/CSS (for JSP).sublime-syntax,7,14,15
+XML,/tmp/clone_directory/Java/Java - Completion Rules.tmPreferences,0,0,15
+XML,/tmp/clone_directory/Perl/Snippets/class.sublime-snippet,3,0,15
+Python,/tmp/clone_directory/Python/tests/syntax_test_indentation_case.py,1,1,15
+YAML,/tmp/clone_directory/Rails/Embeddings/CSS (for HAML).sublime-syntax,6,0,15
+YAML,/tmp/clone_directory/Rails/JSON (Rails).sublime-syntax,5,1,15
+YAML,/tmp/clone_directory/Rails/JavaScript (Rails).sublime-syntax,5,0,15
+YAML,/tmp/clone_directory/Ruby/Embeddings/JavaScript (for Ruby).sublime-syntax,4,0,15
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-instance_methods-..-undef-..-initialize-..-end-(class).sublime-snippet,5,0,15
+Text,/tmp/clone_directory/Rust/LICENSE.txt,2,0,15
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_match.rs,3,39,15
+XML,/tmp/clone_directory/TCL/Symbol List - Indent NS Proc.tmPreferences,0,0,15
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_flow-plain.yaml,19,52,15
+XML,/tmp/clone_directory/ASP/Indexed Symbol List.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Batch File/Indexed Reference List.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C#/Symbol List - Classes.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C#/Symbol List - Constants.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C#/Symbol List - Enums.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C#/Symbol List - Interfaces.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C#/Symbol List - Structs.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C++/Symbol List - Hide Forward Decls.tmPreferences,0,0,14
+XML,/tmp/clone_directory/C++/Symbol List.tmPreferences,0,0,14
+XML,/tmp/clone_directory/CSS/Indentation Rules - Comments.tmPreferences,3,10,14
+XML,/tmp/clone_directory/CSS/Symbol List - Container.tmPreferences,0,0,14
+XML,/tmp/clone_directory/CSS/Symbol List - Layers.tmPreferences,0,0,14
+XML,/tmp/clone_directory/D/Symbol List.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Erlang/Snippets/Try-Expression.sublime-snippet,0,0,14
+XML,/tmp/clone_directory/Git Formats/Git Config - Symbol List.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Git Formats/Git Mailmap - Symbol List.tmPreferences,0,0,14
+YAML,/tmp/clone_directory/Go/Embeddings/CSS (for Go Embedded Backtick Strings).sublime-syntax,4,1,14
+YAML,/tmp/clone_directory/Go/Embeddings/JSON (for Go Embedded Backtick Strings).sublime-syntax,4,1,14
+XML,/tmp/clone_directory/Java/Java - Indentation Rules (Comments).tmPreferences,3,10,14
+XML,/tmp/clone_directory/Java/Symbol List - Classes.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Java/Symbol List - Constants.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Java/Symbol List - Enums.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Java/Symbol List - Interfaces.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Java/Symbol List - Properties.tmPreferences,0,0,14
+XML,/tmp/clone_directory/JavaScript/Symbol List - Exports.tmPreferences,0,0,14
+XML,/tmp/clone_directory/LaTeX/Indentation Rules.tmPreferences,0,0,14
+XML,/tmp/clone_directory/LaTeX/Symbol List - Labels.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Lua/Indentation Rules.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Lua/Symbol List.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Makefile/Indention Rules.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Markdown/Indentation Rules.tmPreferences,0,0,14
+YAML,/tmp/clone_directory/PHP/Embeddings/JavaScript (for PHP Interpolated).sublime-syntax,3,0,14
+YAML,/tmp/clone_directory/PHP/Embeddings/XML (for PHP Interpolated).sublime-syntax,3,0,14
+XML,/tmp/clone_directory/PHP/Snippets/PHPDoc-class.sublime-snippet,0,0,14
+XML,/tmp/clone_directory/PHP/Snippets/PHPDoc-function.sublime-snippet,0,0,14
+XML,/tmp/clone_directory/PHP/Snippets/PHPDoc-interface.sublime-snippet,0,0,14
+XML,/tmp/clone_directory/PHP/Snippets/switch(-).sublime-snippet,0,0,14
+YAML,/tmp/clone_directory/R/R Console.sublime-syntax,0,1,14
+XML,/tmp/clone_directory/R/Symbol List - Sections.tmPreferences,0,0,14
+YAML,/tmp/clone_directory/Rails/Embeddings/Markdown (for HAML).sublime-syntax,4,0,14
+XML,/tmp/clone_directory/Ruby/Symbol List - Constants.tmPreferences,0,0,14
+XML,/tmp/clone_directory/Rust/Indentation Rules.tmPreferences,0,0,14
+XML,/tmp/clone_directory/SQL/Indentation Rules.tmPreferences,0,0,14
+XML,/tmp/clone_directory/YAML/Indentation Rules.tmPreferences,0,0,14
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_properties.yaml,11,29,14
+YAML,/tmp/clone_directory/ASP/Embeddings/JSON (for ASP).sublime-syntax,5,14,13
+YAML,/tmp/clone_directory/ASP/Embeddings/JavaScript (for ASP).sublime-syntax,5,14,13
+C#,/tmp/clone_directory/C#/tests/syntax_test_HelloWorld.cs,3,33,13
+XML,/tmp/clone_directory/C++/Snippets/read-file-(readF).sublime-snippet,0,0,13
+XML,/tmp/clone_directory/D/Snippets/if-else.sublime-snippet,0,0,13
+XML,/tmp/clone_directory/D/Snippets/try-catch.sublime-snippet,0,0,13
+XML,/tmp/clone_directory/D/Snippets/try-finally.sublime-snippet,0,0,13
+YAML,/tmp/clone_directory/Go/Embeddings/JavaScript (for Go Embedded Backtick Strings).sublime-syntax,4,0,13
+YAML,/tmp/clone_directory/Go/JSON (Go).sublime-syntax,4,1,13
+XML,/tmp/clone_directory/Groovy/Snippets/switch__case__default.sublime-snippet,0,0,13
+YAML,/tmp/clone_directory/Java/Embeddings/JSON (for JSP).sublime-syntax,5,14,13
+YAML,/tmp/clone_directory/Java/Embeddings/JavaScript (for JSP).sublime-syntax,5,14,13
+YAML,/tmp/clone_directory/Makefile/Make Output.sublime-syntax,0,0,13
+YAML,/tmp/clone_directory/Makefile/Makefile Shell.sublime-syntax,4,0,13
+XML,/tmp/clone_directory/Matlab/Snippets/if-elseif.sublime-snippet,0,0,13
+YAML,/tmp/clone_directory/PHP/Embeddings/CSS (for PHP double-quoted).sublime-syntax,4,0,13
+YAML,/tmp/clone_directory/PHP/Embeddings/CSS (for PHP single-quoted).sublime-syntax,4,0,13
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-if..elsif..else-(ifee).sublime-snippet,0,0,13
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-unless..elsif..else-(unlessee).sublime-snippet,0,0,13
+XML,/tmp/clone_directory/Python/Snippets/Try-Except-Else-Finally.sublime-snippet,0,0,13
+YAML,/tmp/clone_directory/Rails/Embeddings/JSON (for HAML).sublime-syntax,4,1,13
+YAML,/tmp/clone_directory/Rails/Embeddings/JavaScript (for HAML).sublime-syntax,4,0,13
+XML,/tmp/clone_directory/Rails/Snippets/Create-controller-class.sublime-snippet,2,0,13
+XML,/tmp/clone_directory/Rails/Snippets/for-loop-erb.sublime-snippet,0,0,13
+YAML,/tmp/clone_directory/Rust/Cargo.sublime-syntax,0,1,13
+XML,/tmp/clone_directory/C#/Symbol Index - Constructors.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C#/Symbol List - Namespace.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C++/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C++/Indentation Rules - Comments.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C++/Symbol Index - Hide Ctors.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C++/Symbol Index.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C++/Symbol List - Indent Class Methods.tmPreferences,0,0,12
+XML,/tmp/clone_directory/C++/Symbol List - Namespace Spacing.tmPreferences,0,0,12
+XML,/tmp/clone_directory/CSS/Symbol List - Custom Properties.tmPreferences,0,0,12
+XML,/tmp/clone_directory/D/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/D/Snippets/method.sublime-snippet,0,0,12
+XML,/tmp/clone_directory/D/Snippets/struct.sublime-snippet,0,0,12
+XML,/tmp/clone_directory/D/Symbol Index - Hide Special Functions.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Erlang/Snippets/Receive-Expression.sublime-snippet,0,0,12
+XML,/tmp/clone_directory/Go/Indention Rules - Comments.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Go/Indention Rules - Strings.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Go/Snippets/go-switch.sublime-snippet,0,0,12
+XML,/tmp/clone_directory/Groovy/Snippets/try-__-catch__.sublime-snippet,1,0,12
+XML,/tmp/clone_directory/Groovy/Symbol List - Classes.tmPreferences,0,0,12
+XML,/tmp/clone_directory/HTML/Symbol List - ID.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Haskell/Indentation Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Haskell/Symbol List - Constants.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Haskell/Symbol List - Exports.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Haskell/Symbol List - Imports.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Haskell/Symbol List - Operators.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Haskell/Symbol List - Types.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Java/Symbol List - Fields.tmPreferences,0,0,12
+XML,/tmp/clone_directory/JavaScript/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/JavaScript/Indentation Rules - Comments.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Lua/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Matlab/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Matlab/Indentation Rules - Unindent.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Matlab/Symbol List.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Classes.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Exceptions.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamllex Endpoint.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamllex Pattern Definition.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamllex Pattern References.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamlyacc Non-Terminal Definition.tmpreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamlyacc Non-Terminal Reference.tmpreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamlyacc Token Definition.tmpreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Ocamlyacc Token Reference.tmpreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Types.tmPreferences,0,0,12
+XML,/tmp/clone_directory/OCaml/Symbol List - Variants.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Objective-C/Symbol Index.tmPreferences,0,0,12
+XML,/tmp/clone_directory/PHP/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/PHP/Indentation Rules - Annex.tmPreferences,0,0,12
+XML,/tmp/clone_directory/PHP/Snippets/PHPDoc-function-signature.sublime-snippet,0,0,12
+XML,/tmp/clone_directory/Pascal/Indentation Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Perl/Snippets/eval.sublime-snippet,0,0,12
+XML,/tmp/clone_directory/Python/Dedentation Rules.tmPreferences,0,0,12
+YAML,/tmp/clone_directory/Rails/SQL (Rails).sublime-syntax,4,0,12
+XML,/tmp/clone_directory/Ruby/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-Test;;Unit;;TestCase-..-end-(tc).sublime-snippet,2,0,12
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_identifiers.rs,12,55,12
+XML,/tmp/clone_directory/ShellScript/Completion Rules.tmPreferences,0,0,12
+XML,/tmp/clone_directory/TCL/Snippets/switch...-(switch).sublime-snippet,0,0,12
+YAML,/tmp/clone_directory/XML/DTD.sublime-syntax,2,0,12
+XML,/tmp/clone_directory/YAML/Symbol List.tmPreferences,0,1,12
+XML,/tmp/clone_directory/C++/Snippets/class-..-(class).sublime-snippet,0,0,11
+Clojure,/tmp/clone_directory/Clojure/tests/syntax_test_clojure_old.clj,11,82,11
+YAML,/tmp/clone_directory/Go/Embeddings/RegExp (for Go Embedded Backtick Strings).sublime-syntax,3,1,11
+XML,/tmp/clone_directory/Go/Snippets/go-select.sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Groovy/Snippets/copy__-fileset-include-exclude.sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Matlab/Snippets/switch___case___otherwise___end.sublime-snippet,0,0,11
+YAML,/tmp/clone_directory/PHP/Embeddings/JavaScript (for PHP double-quoted).sublime-syntax,2,0,11
+YAML,/tmp/clone_directory/PHP/Embeddings/JavaScript (for PHP single-quoted).sublime-syntax,2,0,11
+XML,/tmp/clone_directory/PHP/Snippets/PHPDoc-class-var.sublime-snippet,0,0,11
+XML,/tmp/clone_directory/PHP/Snippets/if(-)-else(-).sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-if..else-(ife).sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-unless..else-(unlesse).sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Perl/Snippets/Test.sublime-snippet,2,0,11
+XML,/tmp/clone_directory/Python/Snippets/Try-Except-Else.sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Python/Snippets/Try-Except-Finally.sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Rails/Snippets/def-get-request.sublime-snippet,0,0,11
+YAML,/tmp/clone_directory/Ruby/Embeddings/ShellScript (for Ruby).sublime-syntax,3,0,11
+XML,/tmp/clone_directory/Ruby/Snippets/Wrap-in-Begin-Rescue-End.sublime-snippet,0,0,11
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-DelegateClass-..-initialize-..-end-(class).sublime-snippet,3,0,11
+XML,/tmp/clone_directory/Ruby/Snippets/def_initialize.sublime-snippet,0,0,11
+Rust,/tmp/clone_directory/Rust/tests/symbols/syntax_test_symbols.rs,10,11,11
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_union.rs,6,35,11
+XML,/tmp/clone_directory/Text/Snippets/lorem.sublime-snippet,0,0,11
+C#,/tmp/clone_directory/C#/tests/syntax_test_C#10.cs,7,88,10
+XML,/tmp/clone_directory/C++/Snippets/main()-(int main).sublime-snippet,0,0,10
+XML,/tmp/clone_directory/C++/Snippets/main()-(main).sublime-snippet,0,0,10
+XML,/tmp/clone_directory/C++/Snippets/namespace-..-(namespace).sublime-snippet,0,0,10
+YAML,/tmp/clone_directory/Clojure/ClojureScript.sublime-syntax,3,1,10
+XML,/tmp/clone_directory/Go/Snippets/go-ifelse.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Go/Snippets/go-ifelseif.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Groovy/Snippets/class-__-singleton.sublime-snippet,1,0,10
+XML,/tmp/clone_directory/Groovy/Snippets/if-else.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Groovy/Snippets/switch__case.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Matlab/Snippets/unwind_protect-cleanup-end.sublime-snippet,0,0,10
+YAML,/tmp/clone_directory/PHP/Embeddings/JSON (for PHP Interpolated).sublime-syntax,2,0,10
+XML,/tmp/clone_directory/PHP/Indentation Rules - heredoc end.tmPreferences,0,9,10
+XML,/tmp/clone_directory/PHP/Snippets/php-if-(___)-___-php-else-___-php-endif.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/PHP/Snippets/try-{-___-}-catch-(___)-{-___-}.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Rails/Snippets/Create-functional-test-class.sublime-snippet,1,0,10
+XML,/tmp/clone_directory/Rails/Snippets/def-post-request.sublime-snippet,1,0,10
+YAML,/tmp/clone_directory/Ruby/Embeddings/SQL (for Ruby).sublime-syntax,3,1,10
+XML,/tmp/clone_directory/Ruby/Snippets/060-ruby-if-else.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-ParentClass-..-initialize-..-end.sublime-snippet,2,0,10
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-Struct-..-initialize-..-end.sublime-snippet,2,0,10
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-initialize-..-end.sublime-snippet,2,0,10
+XML,/tmp/clone_directory/Rust/Snippets/enum.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Scala/Snippets/app.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Scala/Snippets/try.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Scala/Snippets/tryf.sublime-snippet,0,0,10
+XML,/tmp/clone_directory/Scala/info.plist,0,0,10
+YAML,/tmp/clone_directory/ShellScript/Shell-Unix-Generic.sublime-syntax,2,1,10
+XML,/tmp/clone_directory/TCL/Snippets/proc...-(proc).sublime-snippet,0,0,10
+YAML,/tmp/clone_directory/XML/XSL.sublime-syntax,2,0,10
+YAML,/tmp/clone_directory/Batch File/Batch File (Compound).sublime-syntax,2,13,9
+XML,/tmp/clone_directory/C++/Snippets/030-for-int-loop-(fori).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/C++/Snippets/Enumeration.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/C++/Snippets/do...while-loop-(do).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/C++/Snippets/forv.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/C++/Snippets/if-..-(if).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/C++/Snippets/struct.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/debugm.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/enum.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/foreach-reverse.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/foreach.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/if.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/main-with-args.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/main.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/unittest.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/version.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/D/Snippets/while.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Erlang/Snippets/Case-Expression.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Erlang/Snippets/Fun-Expression.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Erlang/Snippets/If-Expression.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Git Formats/Snippets/Git Config - Section.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Java/Snippets/method.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/JavaScript/Snippets/Prototype-(proto).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/Cases.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/Chapter.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/Paragraph.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/Part.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/Sub-Paragraph.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/section-..-(section).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/subsection-..-(sub).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/LaTeX/Snippets/subsubsection-..-(ssub).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Matlab/Snippets/while.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/OCaml/Snippets/For-Loop.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/OCaml/Snippets/class.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/OCaml/Snippets/try.sublime-snippet,0,0,9
+OCaml,/tmp/clone_directory/OCaml/syntax_test_mly.mly,1,0,9
+YAML,/tmp/clone_directory/PHP/Embeddings/Diff (for PHP Interpolated).sublime-syntax,2,1,9
+XML,/tmp/clone_directory/PHP/Snippets/Constructor.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/PHP/Snippets/PHPDoc-constant-definition.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/PHP/Snippets/function-xx(-).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/PHP/Snippets/match{-}.sublime-snippet,0,1,9
+Pascal,/tmp/clone_directory/Pascal/syntax_test.pas,4,14,9
+YAML,/tmp/clone_directory/Perl/Embeddings/RegExp (for Perl angles).sublime-syntax,2,0,9
+YAML,/tmp/clone_directory/Perl/Embeddings/RegExp (for Perl braces).sublime-syntax,2,0,9
+YAML,/tmp/clone_directory/Perl/Embeddings/RegExp (for Perl parens).sublime-syntax,2,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-if-(if).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-unless-(unless).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-when-(when).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Function-(sub).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Loop-for-(for).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Loop-foreach-(fore).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Perl/Snippets/Loop-while-(while).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Python/Snippets/New-Class.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Python/Snippets/New-Property.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Python/Snippets/Try-Except.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Python/Snippets/for.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Python/Snippets/if.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Python/Snippets/while.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Rails/Snippets/form_for-with-errors.sublime-snippet,1,0,9
+XML,/tmp/clone_directory/Rails/Snippets/map_with_options.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/080-ruby-case.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/Benchmark_bmbm(__)-do-__-end.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/include-Comparable-..-(Comp).sublime-snippet,1,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/include-Enumerable-..-(Enum).sublime-snippet,1,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/module-..-module_function-..-end.sublime-snippet,1,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/require-tc_..-..-(ts).sublime-snippet,1,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/task-task_name-=-[-dependent-tasks]-do-__-end.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Ruby/Snippets/untitled.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Rust/Snippets/bench.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Rust/Snippets/match.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Rust/Snippets/struct.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Rust/Snippets/test.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Rust/Snippets/trait.sublime-snippet,0,0,9
+XML,/tmp/clone_directory/Scala/Snippets/adt.sublime-snippet,1,0,9
+make,/tmp/clone_directory/ShellScript/Makefile,4,2,9
+XML,/tmp/clone_directory/ShellScript/Snippets/case-..-esac-(case).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/TCL/Snippets/for...-(for).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/TCL/Snippets/foreach...-(foreach).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/TCL/Snippets/if...-(if).sublime-snippet,0,0,9
+XML,/tmp/clone_directory/TCL/Snippets/while...-(while).sublime-snippet,0,0,9
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,2,0,8
+XML,/tmp/clone_directory/C++/Snippets/#ifndef-#define-#endif.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/Template/block-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/Template/if-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/Template/range-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/Template/with-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/go-defun.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/go-forr.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/go-gofun.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/go-iferr.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Go/Snippets/go-meth.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/Block-Comment.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/Constructor.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/Thread_start-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/Thread_startDaemon-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/all{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/any{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/case.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/class-__.sublime-snippet,2,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/class-___-TestCase.sublime-snippet,1,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/collect-{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/copy__-fileset.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/def-__-closure-=-{__}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/def-__-method()-{__}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/downto(num)-{-n-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/each-{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachByte-{-byte-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachDir-{-dir-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachDirMatch.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachDirRecurse.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachFile-{-file-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachFileMatch-{-file-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachFileRecurse-{-file-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachKey-{-key-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachLine-{-line-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachMatch(regex)-{-match-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachObject-{-obj-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachValue-{-val-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/eachWithIndex-{-e-i-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/else.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/elseif-___.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/every-{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/final-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/find-{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/findAll-{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/for-in.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/grep(-pattern-)-{-match-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/if.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/new-File(__)_eachLine-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/private-final-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/private-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/private-static-final-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/private-static-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/replaceAll(regex)-{-match-__}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/reverseEach-{-e-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/run-after.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/setUp().sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/shouldFail(__)-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/sleep(secs)-{-__-on-interrupt-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/sort-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/splitEachLine(separator)-{-line-__-}-copy.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/static-final-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/static-main-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/static-method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/step(to-amount)-{-n-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/tearDown().sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/test-case.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/times-{-n-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/upto(num)-{-n-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/while-___-{___}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withInputStream-{-in-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withOutputStream-{-out-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withPrintWriter-{-pw-__}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withReader-{-r-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withStream-{-in-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withStreams-{-Socket-s-__}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withWriter(charset)-{-w-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withWriter-{-w-__}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Groovy/Snippets/withWriterAppend(charset)-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/case.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/catch.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/class.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/else-if.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/else.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/for-(each).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/for.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/if.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/interface.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/method-(main).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/switch.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/test-case.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/test.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Java/Snippets/while.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/JavaScript/Snippets/Object-Method.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/JavaScript/Snippets/for-()-{}-(faster).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/JavaScript/Snippets/for-()-{}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/JavaScript/Snippets/function-(fun).sublime-snippet,0,0,8
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_support_dom.js,1,9,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Description.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Displaymath-($$).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Enumerate.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Equation.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Itemize.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Matrix.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Split.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/Tabular.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/LaTeX/Snippets/begin{}-end{}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lisp/Snippets/defmacro.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lisp/Snippets/defun.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lua/Snippets/for-i-v-in-ipairs().sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lua/Snippets/for-i=1-10.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lua/Snippets/for-k-v-in-pairs().sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lua/Snippets/function-(fun).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Lua/Snippets/function-(function).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Matlab/Snippets/small-function.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/While-Loop.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/begin.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/func.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/match.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/module-signature.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/module-type.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/module.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/OCaml/Snippets/untitled.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/Start-Docblock.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/do-while(-).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/elseif(-).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/for(-).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/foreach(-).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/if(-).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/php-foreach-(___)-___-php-endforeach.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/php-if-(___)-___-php-endif.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/switch(-)-case.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/PHP/Snippets/while(-).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Perl/Snippets/slurp.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/180-rails-form_tag.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/assert_difference.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/assert_no_difference.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/assert_select.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/form_for.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/map_resource.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/map_resources.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/render-(update).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/respond_to.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rails/Snippets/returning-do-%7Cvariable%7C-%E2%80%A6-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/070-ruby-if.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/RDoc-documentation-block.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/application_code-..-(app).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/class-..-end-(cla).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/class-self-__-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/def-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/def-method_missing-..-end-(mm).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/def-self-..-end-(defs).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/def-test_-..-end-(t).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/do-obj-..-end-(doo).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/module-..-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/namespace-__-do-__-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/unix_filter-..-(uni).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/unless-(unless).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/until-___-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/usage_if()-(usai).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/usage_unless()-(usau).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/while-___-end.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Ruby/Snippets/xpath(__)-{-__-}.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/assert.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/assert_eq.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/else.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/extern-fn.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/extern-mod.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/fn.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/for.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/if-let.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/if.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/impl-trait.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/impl.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/loop.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/macro_rules.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/main.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/mod.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/while-let.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Rust/Snippets/while.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/Scala/Snippets/match.sublime-snippet,0,0,8
+XML,/tmp/clone_directory/ShellScript/Snippets/for-...-done-(for).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/ShellScript/Snippets/for-in-done-(forin).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/ShellScript/Snippets/if-...-then-(if).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/ShellScript/Snippets/until-(done).sublime-snippet,0,0,8
+XML,/tmp/clone_directory/ShellScript/Snippets/while-(done).sublime-snippet,0,0,8
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE/01-syntax-update-small.md,1,0,7
+YAML,/tmp/clone_directory/Binary/Binary.sublime-syntax,0,1,7
+XML,/tmp/clone_directory/C#/Snippets/doc_params.sublime-snippet,0,2,7
+XML,/tmp/clone_directory/C#/Snippets/doc_see.sublime-snippet,0,2,7
+XML,/tmp/clone_directory/C#/Snippets/doc_summary.sublime-snippet,0,2,7
+XML,/tmp/clone_directory/Go/Snippets/go-fori.sublime-snippet,1,4,7
+XML,/tmp/clone_directory/Groovy/Snippets/#!-usr-local-bin-groovy-w.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Haskell/Snippets/Case.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Haskell/Snippets/Instance.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Haskell/Snippets/Main.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Haskell/Snippets/module.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Java/Snippets/break.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Java/Snippets/default.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Java/Snippets/import-junit_framework_TestCase;.sublime-snippet,0,0,7
+TypeScript,/tmp/clone_directory/JavaScript/tests/syntax_test_typescript_not_tsx.ts,6,38,7
+XML,/tmp/clone_directory/LaTeX/Snippets/Listing.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/LaTeX/Snippets/Page.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/LaTeX/Snippets/Section.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Lisp/Snippets/defconstant.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Lisp/Snippets/defparameter.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Lisp/Snippets/defvar.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Lisp/Snippets/if.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Lisp/Snippets/let.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Lisp/Snippets/let1.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Matlab/Snippets/case.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Matlab/Snippets/dlmwrite.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Matlab/Snippets/else.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Matlab/Snippets/elseif.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Matlab/Snippets/line.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/PHP/Snippets/define(-).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/PHP/Snippets/throw.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-one-line-(xif).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-one-line-(xunless).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Conditional-one-line-(xwhen).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Loop-one-line-(xfor).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Loop-one-line-(xfore).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Loop-one-line-(xuntil).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Perl/Snippets/Loop-one-line-(xwhile).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Python/Snippets/function.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Python/Snippets/if-__name__-==-'__main__'.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Python/Snippets/method.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-binary-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-boolean-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-date-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-datetime-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-decimal-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-float-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-integer-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-lock_version-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-references-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-string-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-text-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-time-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-timestamp-column.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Create-timestamps-columns.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Migration-Create-Column-(mcc).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Migration-Create-Column-Continue-(mccc).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/Table-column(s)-rename.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/assert(var-=-assigns(%3Avar)).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/map_catch_all.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/named_scope-lambda.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/named_scope.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_binary-(tcbi).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_boolean-(tcb).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_date-(tcda).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_datetime-(tcdt).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_decimal-(tcd).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_float-(tcf).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_integer-(tci).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_lock_version-(tcl).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_references-(tcr).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_rename-(tre).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_string-(tcs).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_text-(tct).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_time-(tcti).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_timestamp-(tcts).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/t_timestamps-(tctss).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/verify-(verify).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Rails/Snippets/verify-redirect-(verify).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Ruby/Snippets/#!;usr;local;bin;ruby-w.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Ruby/Snippets/elsif-___.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Ruby/Snippets/when.sublime-snippet,0,0,7
+XML,/tmp/clone_directory/ShellScript/Snippets/#!-usr-bin-env-(!env).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/ShellScript/Snippets/elif-..-(elif).sublime-snippet,0,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Block-Quotes.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Heading-1.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Heading-2.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Heading-3.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Heading-4.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Heading-5.sublime-snippet,1,0,7
+XML,/tmp/clone_directory/Textile/Snippets/Heading-6.sublime-snippet,1,0,7
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE/03-supporting-files.md,2,0,6
+XML,/tmp/clone_directory/C++/Snippets/#include-(#inc angle).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/#include-(#inc).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/#include-(inc angle).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/#include-(inc).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/Typedef.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/fprintf.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/printf-..-(printf).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/std-map-(map).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/std-vector-(v).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/C++/Snippets/template-typename-..-(template).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/constant.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/critical.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/error-format.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/error.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/fatal.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/import.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/info.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/log-format.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/log.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/return.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/trace.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/D/Snippets/warning.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Behaviour-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Define-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Export-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Ifdef-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Ifndef-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Import-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Include-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Module-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Record-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Erlang/Snippets/Undef-Directive.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/block.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/break.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/continue.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/define.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/else if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/else.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/end.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/partial.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/range.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/template.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Go/Snippets/Template/with.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/Ant-__-replace.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/Hash-Pair.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-BigDecimal.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-BigInteger.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-Double.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-Float.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-Immutable.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-Set.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-String.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-Synchronized.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/as-Writable.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assert(__).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertEquals(__).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertFalse.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertNotEquals(__).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertNotNull(__).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertNull(__).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertSame.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/assertTrue.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/copy__-file.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/final-var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/import.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/mkdir.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/package.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/print.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/println.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/private-final-var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/private-static-final-String.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/private-static-var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/private-var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/sleep(secs).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/static-final-var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/static-var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-Array.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-BigDecimal.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-BigInteger.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-Boolean.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-Character.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-Double.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-Float.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-Integer.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-List.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-String.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-URI.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/to-URL.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Groovy/Snippets/var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Haskell/Snippets/Lambda.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/abstract.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/assert.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/constant-string.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/constant.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/final.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/import.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/java_beans_.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/java_io.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/java_math.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/java_net_.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/java_util_.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/package.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/print.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/println.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/private.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/protected.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/public.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/return.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/static.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/synchronized.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/throw.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Java/Snippets/variable.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/Get-Elements.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/Object-Value-JS.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/Object-key-key-value.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/function.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/if-___-else.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/JavaScript/Snippets/setTimeout-function.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/LaTeX/Snippets/Figure.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/LaTeX/Snippets/Item[description].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/LaTeX/Snippets/Table.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Lisp/Snippets/'(.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Lisp/Snippets/setf.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Lua/Snippets/local-x-=-1.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Lua/Snippets/table.concat.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Lua/Snippets/table.sort.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/^.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/clear.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/disp-sprintf.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/disp.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/error.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/exp.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/fprintf.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/get.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/griddata.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/set.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/sprintf.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/title.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/unix.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/warning.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/xlabel.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/xtick.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/ylabel.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/ytick.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Matlab/Snippets/zlabel.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/Document.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/fun.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/function-label.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/let-in.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/let.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/match-pattern.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/method-(method).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/OCaml/Snippets/type-(type).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$GLOBALS[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_COOKIE[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_ENV[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_FILES[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_GET[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_POST[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_REQUEST[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_SERVER[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/$_SESSION[''].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/declare-strict_types.sublime-snippet,0,1,6
+XML,/tmp/clone_directory/PHP/Snippets/defined(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/echo-___.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/fn(-).sublime-snippet,0,1,6
+XML,/tmp/clone_directory/PHP/Snippets/if-a-b;.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/include(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/include_once(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/new-array(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php (begin tag).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php-$this.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php-echo-$this.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php-echo-___.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php-echo-htmlentities(___).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php-else.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/php.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/require(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/require_once(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/return-$retVal;.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/return-FALSE;.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/PHP/Snippets/return-TRUE;.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Python/Snippets/__magic__.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Add-Tick-Marks.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Attach.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Cummulative.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Density.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Detach.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Divide-Into-Intervals.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Factor.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/For-Loop.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Function.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Ifelse.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Length.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Load-Dataset.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Polygonal-Line.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Read-From-File.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Sequence-(from-to-by).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Sort.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/Source.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/R/Snippets/na_omit.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/Migration-Drop-Create-Table-(mdct).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/Migration-Remove-and-Add-Column-(mrac).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/RAILS_DEFAULT_LOGGER.debug-(rdb).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/Test-Assert-Redirected-To-(art).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/Test-Assert-Response-(are).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_create.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_destroy.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_save.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_update.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_validation.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_validation_on_create.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/after_validation_on_update.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/assert_redirected_to-(nested-path).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/assert_redirected_to-(nested-path-plural).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/assert_redirected_to-(path).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/assert_redirected_to-(path-plural).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_create.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_destroy.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_save.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_update.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_validation.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_validation_on_create.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/before_validation_on_update.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/belongs_to-(bt).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/cattr_accessor.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/end.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/find(id).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-check_box.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-checkbox.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-file_field-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-file_field.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-hidden_field-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-hidden_field.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-label-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-label.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-password_field-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-password_field.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-radio_box-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-radio_box.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-submit-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-submit.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-text_area-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-text_area.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-text_field-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/form_for-text_field.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/has_and_belongs_to_many-(habtm).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/has_many-(hm).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/has_many-(through).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/has_many-dependent-=-destroy.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/has_one-(ho).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/image_submit_tag.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/javascript_include_tag.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/lia.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/liai.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/lic.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/lica.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/licai.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/link_to-(nested-path).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/link_to-(nested-path-plural).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/link_to-(path).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/link_to-(path-plural).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/link_to-model.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/logger_debug.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/logger_error.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/logger_fatal.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/logger_info.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/logger_warn.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/map(-%3Asym_proc).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/map_named_route.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/mattr_accessor.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/rails-flash.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/rea.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/reai.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/rec.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/reca.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/recai.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/redirect_to-(nested-path).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/redirect_to-(nested-path-plural).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/redirect_to-(path).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/redirect_to-(path-plural).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(action)...-(ra).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(action-layout)-(ral).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(file)-(rf).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(file-use_full_path)-(rfu).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(inline)-(ri).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(inline-locals)-(ril).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(inline-type)-(rit).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(layout)-(rl).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(nothing)-(rn).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(nothing-status)-(rns).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(partial)-(rp).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(partial-collection)-(rpc).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(partial-locals)-(rpl).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(partial-object)-(rpo).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(partial-status)-(rps).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(text)-(rt).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(text-layout)-(rtl).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(text-layout=%3Etrue)-(rtlt).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/render-(text-status)-(rts).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/stylesheet_link_tag.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/submit_tag.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_acceptance_of-if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_acceptance_of.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_associated-(va).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_associated-if-(vaif).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_confirmation_of-(vc).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_confirmation_of-if-(vcif).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_exclusion_of-(ve).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_exclusion_of-if-(veif).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_format_of-if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_format_of.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_inclusion_of-if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_inclusion_of.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_length_of-(vl).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_length_of-if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_numericality_of-if.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_numericality_of.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_presence_of-(vp).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_presence_of-if-(vpif)-2.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_uniqueness_of-(vu).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/validates_uniqueness_of-if-(vuif).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/wants_format.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/xhr-delete.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/xhr-get.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/xhr-post.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rails/Snippets/xhr-put.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Add-'#-=-'-Marker.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Array.new(10)-{-i-..-}-(Arr).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Dir.glob(-..-)-do-file-..-end-(Dir).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Dir[-__-].sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/File.foreach-(-..-)-do-line-..-end-(File).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/File_open(-__-)-{-file-__-}.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/File_read(-__-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Hash.new-{-hash-key-hash[key]-=-..-}-(Has).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Marshal.dump(obj-file)-(Md).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/Marshal.load(obj)-(Ml).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/PStore_new(-__-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/YAML.dump(..-file)-(Yd-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/YAML.load(file)-(Yl-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/alias_method-..-(am).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/all-{-e-..-}-(all).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/any-{-e-..-}-(any).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert(..)-(as).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_equal.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_in_delta(..)-(asid).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_instance_of(..)-(asio).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_kind_of(..)-(asko).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_match(..)-(asm).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_nil(..)-(asn).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_no_match(..)-(asnm).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_not_equal(..)-(asne).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_not_nil(..)-(asnn).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_not_same(..)-(asns).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_nothing_raised(..)-{-..-}-(asnr).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_nothing_thrown-{-..-}-(asnt).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_operator(..)-(aso).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_raise(..)-{-..-}-(asr).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_respond_to(..)-(asrt).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_same(..)-(ass).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_send(..)-(ass).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/assert_throws(..)-{-..-}-(ast).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/attr_accessor-..-(rw).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/attr_reader-..-(r).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/attr_writer-..-(w).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/class_from_name()-(clafn).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/classify-{-e-..-}-(clas).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/collect-{-e-..-}-(col).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/deep_copy(..)-(dee).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/def_delegator-..-(defd).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/def_delegators-..-(defds).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/delete_if-{-e-..-}-(deli).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/detect-{-e-..-}-(det).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/directory().sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/downto(0)-{-n-..-}-(dow).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each-{-e-..-}-(ea).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_byte-{-byte-..-}-(eab).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_char-{-chr-..-}-(eac-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_cons(..)-{-group-..-}-(eac-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_index-{-i-..-}-(eai).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_key-{-key-..-}-(eak).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_line-{-line-..-}-(eal).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_pair-{-name-val-..-}-(eap).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_slice-{-group-..-}-(eas).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_value-{-val-..-}-(eav).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/each_with_index-{-e-i-..-}-(eawi).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/extend-Forwardable-(Forw).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/fetch(name)-{-key-..-}-(fet).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/fill(range)-{-i-..-}-(fil).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/find-{-e-..-}-(fin).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/find_all-{-e-..-}-(fina).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/flatten_once-(fla).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/flunk(..)-(fl).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/grep(;pattern;)-{-match-..-}-(gre).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/gsub(;..;)-{-match-..-}-(gsu).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/hash-pair-(-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/inject(init)-{-mem-var-..-}-(inj).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/lambda-{-args-..-}-(lam).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/loop-{-__-}.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/map-{-e-..-}-(map).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/map_with_index-{-e-i-..-}-(mapwi).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/max-{-a-b-..-}-(max).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/min-{-a-b-..-}-(min).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/open(-path;or;url-w-)-do-doc-..-end-(ope).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/open-yield-block-({).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/partition-{-e-..-}-(par).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/path_from_here(-__-).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/randomize-(ran).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/reject-{-e-..-}-(rej).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/require-..-(req).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/require_gem-__.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/results_report(__)-{-__-}.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/reverse_each-{-e-..-}-(rea).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/scan(;..;)-{-match-..-}-(sca).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/select-{-e-..-}-(sel).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/singleton_class().sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/sort-{-a-b-..-}-(sor).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/sort_by-{-e-..-}-(sorb).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/step(2)-{-e-..-}-(ste).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/sub(;..;)-{-match-..-}-(sub).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/times-{-n-..-}-(tim).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/transaction(-__-)-do-__-end.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/upto(1.0;0.0)-{-n-..-}-(upt).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/xmlread(__).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/yields-RDoc-comment.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Ruby/Snippets/zip(enums)-{-row-..-}-(zip).sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/Err.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/Ok.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/Some.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/const.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/extern-crate.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/fmt.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/let.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/panic.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/print.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/println.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/static.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/struct-tuple.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/struct-unit.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Rust/Snippets/type.sublime-snippet,0,0,6
+Rust,/tmp/clone_directory/Rust/tests/syntax_test_comments.rs,7,24,6
+XML,/tmp/clone_directory/Scala/Snippets/case.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Scala/Snippets/cc.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Scala/Snippets/co.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Scala/Snippets/def.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Scala/Snippets/p.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Scala/Snippets/val.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Scala/Snippets/var.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Textile/Snippets/Acronym.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Textile/Snippets/Image.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/Textile/Snippets/Linked-Image.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/XML/Snippets/xml-cdata.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/XML/Snippets/xml-declaration.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/XML/Snippets/xml-long-tag.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/XML/Snippets/xml-model.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/XML/Snippets/xml-short-tag.sublime-snippet,0,0,6
+XML,/tmp/clone_directory/XML/Snippets/xml-stylesheet.sublime-snippet,0,0,6
+Haskell,/tmp/clone_directory/Haskell/tests/syntax_test_shebang.hs,0,0,4
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_shebang.js,0,0,4
+TypeScript,/tmp/clone_directory/JavaScript/tests/syntax_test_shebang.ts,0,0,4
+Markdown,/tmp/clone_directory/Markdown/tests/syntax_test_multimarkdown.md,1,0,4
+Python,/tmp/clone_directory/CSS/completions/__init__.py,0,0,2
+Markdown,/tmp/clone_directory/Markdown/tests/syntax_test_multimarkdown_no_frontmatter.md,0,0,2
+YAML,/tmp/clone_directory/YAML/tests/syntax_test_general.yaml,8,16,2
+Bourne Shell,/tmp/clone_directory/ShellScript/test/syntax_test_shell_unix_generic.sh,2,7,1
+ActionScript,/tmp/clone_directory/ActionScript/syntax_test_as.as,1,4,0
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_jsdoc.js,8,34,0
+JavaScript,/tmp/clone_directory/JavaScript/tests/syntax_test_js_not_typescript.js,1,4,0
+SUM,,22222,83258,113374

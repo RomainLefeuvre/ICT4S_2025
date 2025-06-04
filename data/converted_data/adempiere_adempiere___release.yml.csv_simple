@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/skx/github-action-publish-binaries/master/Dockerfile'.,227.7355312992691,62222790,False,
+##[group]GITHUB_TOKEN Permissions,78.52512518612414,2508602,False,
+##[group]==END_FILE==,22.41349163632328,3734745,False,
+##[group]Starting postgres service container,19.45830672084293,7735080,True,##[error]Docker start fail with exit code 1
+##[group]Create local container network,4.762135854511129,661945,False,
+##[group]Clean up resources from previous jobs,0.7403441026815258,35918,False,
+##[group]Checking docker version,0.7251026151376223,81465,False,

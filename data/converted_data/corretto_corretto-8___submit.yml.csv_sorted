@@ -1,0 +1,281 @@
+Requested labels: self-hosted__dup_18, 4096.038163708101, , , , 392051435, False, 
+Requested labels: self-hosted__dup_17, 3435.140678519908, , , , 335267460, False, 
+Requested labels: self-hosted__dup_16, 2911.7363483441404, , , , 298265571, False, 
+Requested labels: self-hosted__dup_15, 2594.2561511282447, , , , 270906653, False, 
+Requested labels: self-hosted__dup_14, 2114.64075381714, , , , 225643716, False, 
+Requested labels: self-hosted__dup_13, 1935.7580544352447, , , , 209659275, False, 
+Requested labels: self-hosted__dup_12, 1594.5313723729496, , , , 181795838, False, 
+Requested labels: self-hosted__dup_11, 1406.9429441872255, , , , 165570733, False, 
+Requested labels: self-hosted__dup_10, 1225.248887226125, , , , 149132961, False, 
+Requested labels: self-hosted__dup_9, 1050.4252962579403, , , , 133133912, False, 
+Requested labels: self-hosted__dup_8, 884.5216604640264, , , , 118831067, False, 
+Requested labels: self-hosted__dup_7, 722.5377461116118, , , , 103999083, False, 
+Requested labels: self-hosted__dup_6, 612.713046609252, , , , 90228634, False, 
+Requested labels: self-hosted__dup_5, 449.8023866286576, , , , 76674391, False, 
+Requested labels: self-hosted__dup_4, 262.04443097104, , , , 58190748, False, 
+##[group]Run actions/cache@v3__dup_274, 247.92455167875053, , , , 23353488, False, 
+##[group]Run actions/cache@v3__dup_183, 230.84659793875008, , , , 24627355, False, 
+##[group]Run actions/cache@v3__dup_250, 205.89735468866803, , , , 21456857, False, 
+Requested labels: self-hosted, 151.56166600071077, , , , 40265874, False, 
+##[group]Run actions/upload-artifact@v3__dup_233, 128.37278724297138, , , , 7927662, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_261, 110.10902742321824, , , , 2865960, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_216, 100.54351065027208, , , , 2785187, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_238, 90.29332128135106, , , , 2721244, False, 
+##[group]Run actions/upload-artifact@v3__dup_162, 87.98367837984527, , , , 6748495, False, 
+##[group]Cleaning the repository__dup_239, 85.36046424372013, , , , 4385081, False, 
+##[group]Run actions/upload-artifact@v3__dup_211, 77.75342693965405, , , , 7310979, False, 
+##[group]GITHUB_TOKEN Permissions__dup_176, 77.19347720580114, , , , 5933123, False, 
+##[group]Cleaning the repository__dup_217, 65.30008601272722, , , , 5391729, False, 
+##[group]Run mkdir -p ${HOME}/bootjdk/${BOOT_JDK_VERSION} || true, 48.68439450807367, , , , 3863673, False, 
+##[group]GITHUB_TOKEN Permissions__dup_234, 48.60972562172788, , , , 3968442, False, 
+##[group]GITHUB_TOKEN Permissions__dup_212, 47.72987223150129, , , , 3511295, False, 
+##[group]GITHUB_TOKEN Permissions__dup_256, 45.01465782772507, , , , 3384288, False, 
+##[group]GITHUB_TOKEN Permissions__dup_191, 41.51697264708126, , , , 3417946, False, 
+##[group]GITHUB_TOKEN Permissions__dup_57, 40.82402968394591, , , , 2365505, False, 
+##[group]GITHUB_TOKEN Permissions__dup_79, 40.48486048123998, , , , 2396811, False, 
+Requested labels: self-hosted__dup_3, 39.95961585121433, , , , 22556568, False, 
+##[group]GITHUB_TOKEN Permissions, 33.779636982327574, , , , 2419208, False, 
+##[group]GITHUB_TOKEN Permissions__dup_46, 32.344661570584194, , , , 2377623, False, 
+##[group]Run actions/upload-artifact@v3__dup_255, 31.71699592453812, , , , 1382145, False, 
+##[group]Run actions/upload-artifact@v3__dup_281, 31.308985158651524, , , , 1355813, False, 
+##[group]GITHUB_TOKEN Permissions__dup_69, 30.232271575265173, , , , 2242819, False, 
+##[group]GITHUB_TOKEN Permissions__dup_101, 30.137487726475957, , , , 2461760, False, 
+##[group]GITHUB_TOKEN Permissions__dup_149, 29.631153875364955, , , , 3233442, False, 
+##[group]GITHUB_TOKEN Permissions__dup_125, 28.41943345483304, , , , 2389969, False, 
+##[group]GITHUB_TOKEN Permissions__dup_163, 27.20938102718993, , , , 2457004, False, 
+##[group]GITHUB_TOKEN Permissions__dup_137, 26.338817500771803, , , , 2344500, False, 
+##[group]Fetching the repository__dup_203, 26.087389546196952, , , , 1408093, False, 
+##[group]GITHUB_TOKEN Permissions__dup_112, 25.07711884582664, , , , 2389116, False, 
+##[group]GITHUB_TOKEN Permissions__dup_90, 23.571942387486363, , , , 2273453, False, 
+##[group]Run actions/upload-artifact@v3, 22.151454401640105, , , , 1460945, False, 
+##[group]Run actions/cache@v3__dup_259, 20.59093157776543, , , , 594692, False, 
+##[group]Run actions/cache@v3__dup_192, 19.879013197888195, , , , 605924, False, 
+##[group]Fetching the repository__dup_38, 19.790872277351177, , , , 576360, False, 
+##[group]Cleaning the repository__dup_262, 18.248636270607413, , , , 4289963, False, 
+##[group]Run actions/upload-artifact@v3__dup_148, 18.02584804381489, , , , 1594203, False, 
+##[group]Run actions/upload-artifact@v3__dup_175, 16.80616310442224, , , , 1595047, False, 
+##[group]Run actions/cache@v3__dup_214, 16.697490715849312, , , , 599491, False, 
+##[group]Run actions/cache@v3__dup_54, 16.148689648138948, , , , 604020, False, 
+##[group]Cleaning the repository__dup_179, 15.963075170328366, , , , 346512, False, 
+##[group]Cleaning the repository__dup_166, 15.225704787293273, , , , 347543, False, 
+##[group]Setting up auth__dup_105, 15.150915324671368, , , , 104552, False, 
+##[group]Cleaning the repository__dup_36, 14.837452536626063, , , , 345642, False, 
+##[group]Fetching the repository__dup_74, 14.57574555882797, , , , 559713, False, 
+##[group]Cleaning the repository__dup_140, 14.51826107315862, , , , 350405, False, 
+##[group]Cleaning the repository__dup_152, 14.38258586845974, , , , 358322, False, 
+##[group]Run actions/download-artifact@v3__dup_144, 14.23801590852565, , , , 502040, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Cleaning the repository__dup_115, 14.184225172313194, , , , 346454, False, 
+##[group]Run actions/upload-artifact@v3__dup_190, 13.982503020696075, , , , 1788409, False, 
+##[group]Setting up auth__dup_94, 13.788993475911631, , , , 116360, False, 
+##[group]Checking out the ref__dup_221, 13.741215789713458, , , , 774348, False, 
+##[group]Run actions/download-artifact@v3__dup_145, 13.738865401337382, , , , 577432, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=client --with-target-bits=32  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 13.574080825620834, , , , 391277, False, 
+##[group]Cleaning the repository__dup_128, 13.42772025250943, , , , 346548, False, 
+##[group]Run bash configure --with-conf-name=linux-x86 --with-target-bits=32 --enable-debug --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --with-jtreg=${HOME}/jtreg --with-zlib=bundled, 13.130851850395992, , , , 372944, False, 
+##[group]Run sudo dpkg --add-architecture i386, 13.11859051053158, , , , 456443, True, ##[error]Process completed with exit code 100.
+##[group]Run CFLAGS=--sysroot=/root/sysroot-armhf CXXFLAGS=--sysroot=/root/sysroot-armhf LDFLAGS=--sysroot=/root/sysroot-armhf  bash configure --with-conf-name=linux-arm-hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=zero  --openjdk-target=arm-linux-gnueabihf --with-sysroot=/root/sysroot-armhf/ --with-cups=/root/sysroot-armhf/usr --with-freetype-lib=/root/sysroot-armhf/usr/lib/arm-linux-gnueabihf --with-freetype-include=/root/sysroot-armhf/usr/include/freetype2 --with-alsa=/root/sysroot-armhf/usr --with-fontconfig=/root/sysroot-armhf/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 13.117438950396762, , , , 602797, False, 
+##[group]Fetching the repository__dup_84, 13.06440558573812, , , , 541684, False, 
+##[group]Run CFLAGS=--sysroot=/root/sysroot-arm64 CXXFLAGS=--sysroot=/root/sysroot-arm64 LDFLAGS=--sysroot=/root/sysroot-arm64  bash configure --with-conf-name=linux-aarch64-hotspot --enable-debug --disable-precompiled-headers  --openjdk-target=aarch64-linux-gnu --with-sysroot=/root/sysroot-arm64/ --with-cups=/root/sysroot-arm64/usr --with-freetype-lib=/root/sysroot-arm64/usr/lib/aarch64-linux-gnu --with-freetype-include=/root/sysroot-arm64/usr/include/freetype2 --with-alsa=/root/sysroot-arm64/usr --with-fontconfig=/root/sysroot-arm64/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 12.79404665968893, , , , 1413660, False, 
+##[group]Run make CONF_NAME=linux-powerpc64le-hotspot hotspot, 12.721644112916348, , , , 527244, True, ##[error]Process completed with exit code 2.
+##[group]Fetching the repository__dup_62, 12.66491444632612, , , , 507624, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_178, 12.50209961454622, , , , 122331, False, 
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 12.409229314928986, , , , 368316, False, 
+##[group]Fetching the repository__dup_154, 12.236811835885147, , , , 510006, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_103, 12.19792387991568, , , , 132181, False, 
+##[group]Run bash configure --with-conf-name=linux-x64  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-jtreg=${HOME}/jtreg --with-zlib=bundled, 12.178755953882003, , , , 375226, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_92, 12.1592150725147, , , , 121828, False, 
+Requested labels: self-hosted__dup_2, 12.083091238747777, , , , 5639709, False, 
+##[group]Run CFLAGS=--sysroot=/root/sysroot-s390x CXXFLAGS=--sysroot=/root/sysroot-s390x LDFLAGS=--sysroot=/root/sysroot-s390x  bash configure --with-conf-name=linux-s390x-hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=zero  --openjdk-target=s390x-linux-gnu --with-sysroot=/root/sysroot-s390x/ --with-cups=/root/sysroot-s390x/usr --with-freetype-lib=/root/sysroot-s390x/usr/lib/s390x-linux-gnu --with-freetype-include=/root/sysroot-s390x/usr/include/freetype2 --with-alsa=/root/sysroot-s390x/usr --with-fontconfig=/root/sysroot-s390x/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 12.029553076768986, , , , 530554, False, 
+##[group]Fetching the repository__dup_130, 12.025389248005126, , , , 532641, False, 
+##[group]Setting up auth__dup_198, 11.920556972578234, , , , 104056, False, 
+##[group]Cleaning the repository__dup_104, 11.412014312995726, , , , 335686, False, 
+##[group]Run actions/cache@v3__dup_236, 11.381178212257309, , , , 585238, False, 
+##[group]Run make CONF_NAME=linux-arm-hotspot hotspot, 11.347573277397938, , , , 543869, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/download-artifact@v3__dup_184, 11.076487919020124, , , , 485923, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Fetching the repository__dup_181, 10.974886949353005, , , , 577402, False, 
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=minimal1 --with-target-bits=32  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 10.93474960592796, , , , 395274, False, 
+##[group]Checking out the ref__dup_63, 10.874290464282572, , , , 137578, False, 
+##[group]Run actions/cache@v3__dup_65, 10.828391497615453, , , , 581748, False, 
+##[group]Run actions/cache@v3__dup_156, 10.821780944427909, , , , 585903, False, 
+##[group]Run bash configure --with-conf-name=macos-x64 --enable-debug --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${HOME}/bootjdk/${BOOT_JDK_VERSION}/Contents/Home --with-jtreg=${HOME}/jtreg --with-zlib=system, 10.80723083626444, , , , 451268, False, 
+##[group]Run actions/checkout@v3__dup_70, 10.68020918448038, , , , 157579, False, 
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=zero  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 10.676153031023103, , , , 389308, False, 
+##[group]Run actions/checkout@v3__dup_113, 10.560590465090325, , , , 172430, False, 
+##[group]Run sudo apt-get update__dup_76, 10.513650459215375, , , , 78489, True, ##[error]Process completed with exit code 100.
+##[group]Removing previously created refs_ to avoid conflicts__dup_139, 10.48621376622886, , , , 127434, False, 
+##[group]Cleaning the repository__dup_82, 10.454727102150636, , , , 340894, False, 
+##[group]Run bash configure --with-conf-name=linux-x86 --with-target-bits=32  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --with-jtreg=${HOME}/jtreg --with-zlib=bundled, 10.445578319792736, , , , 371121, False, 
+##[group]Run actions/download-artifact@v3, 10.31342536411519, , , , 492887, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/cache@v3__dup_42, 10.258594725837304, , , , 583083, False, 
+##[group]Run actions/cache@v3__dup_213, 10.231964089712536, , , , 598109, False, 
+##[group]Run actions/cache@v3__dup_194, 10.165982904634284, , , , 579018, False, 
+##[group]Run CFLAGS=--sysroot=/root/sysroot-ppc64el CXXFLAGS=--sysroot=/root/sysroot-ppc64el LDFLAGS=--sysroot=/root/sysroot-ppc64el  bash configure --with-conf-name=linux-powerpc64le-hotspot --enable-debug --disable-precompiled-headers  --openjdk-target=powerpc64le-linux-gnu --with-sysroot=/root/sysroot-ppc64el/ --with-cups=/root/sysroot-ppc64el/usr --with-freetype-lib=/root/sysroot-ppc64el/usr/lib/powerpc64le-linux-gnu --with-freetype-include=/root/sysroot-ppc64el/usr/include/freetype2 --with-alsa=/root/sysroot-ppc64el/usr --with-fontconfig=/root/sysroot-ppc64el/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled, 10.146681658095511, , , , 474477, False, 
+##[group]Run actions/cache@v3__dup_251, 9.946483705709674, , , , 595187, False, 
+##[group]Run make CONF_NAME=linux-s390x-hotspot hotspot, 9.87920549783292, , , , 957945, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/cache@v3__dup_257, 9.614660508720632, , , , 624241, False, 
+##[group]Run actions/download-artifact@v3__dup_170, 9.15081125267894, , , , 493634, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]GITHUB_TOKEN Permissions__dup_32, 9.127529935334586, , , , 2183695, False, 
+##[group]Run actions/cache@v3__dup_235, 8.988833832339512, , , , 581132, False, 
+##[group]Fetching the repository__dup_142, 8.942805963143064, , , , 563488, False, 
+##[group]Run actions/checkout@v3__dup_244, 8.88684386250139, , , , 135778, False, 
+##[group]Run bash configure --with-conf-name=linux-x64 --enable-debug --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-jtreg=${HOME}/jtreg --with-zlib=bundled, 8.880095635019824, , , , 403403, False, 
+##[group]Fetching the repository__dup_220, 8.552542870733014, , , , 637978, False, 
+##[group]Run actions/checkout@v3__dup_164, 8.525919586746712, , , , 147538, False, 
+##[group]Run actions/upload-artifact@v3__dup_136, 8.465530894750987, , , , 1621770, False, 
+##[group]Fetching the repository__dup_117, 8.463347507993268, , , , 520423, False, 
+##[group]Run actions/download-artifact@v3__dup_253, 8.34820340938908, , , , 494210, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Checking out the ref__dup_266, 8.32236520030279, , , , 593144, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_196, 8.3041487113232, , , , 123709, False, 
+##[group]Run bash configure --with-conf-name=macos-x64  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${HOME}/bootjdk/${BOOT_JDK_VERSION}/Contents/Home --with-jtreg=${HOME}/jtreg --with-zlib=system, 8.278712516985689, , , , 391280, False, 
+##[group]Setting up auth__dup_270, 8.116805797898882, , , , 342305, False, 
+##[group]Cleaning the repository__dup_197, 8.089882273560574, , , , 343075, False, 
+##[group]Run actions/download-artifact@v3__dup_132, 7.986286093636185, , , , 495184, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run actions/checkout@v3__dup_237, 7.962851747003892, , , , 136119, False, 
+##[group]Cleaning the repository__dup_93, 7.882249268731715, , , , 352383, False, 
+##[group]Cleaning the repository__dup_72, 7.576786422992505, , , , 336978, False, 
+##[group]Run actions/cache@v3__dup_227, 7.558804077238595, , , , 595155, False, 
+##[group]Run actions/checkout@v3__dup_267, 7.51719126430775, , , , 122471, False, 
+##[group]Fetching the repository__dup_95, 7.500171672937723, , , , 520210, False, 
+##[group]Run curl -L "$env:VS2017_URL" -o "$HOME/$env:VS2017_FILENAME", 7.472365683704742, , , , 26768, True, ##[error]Process completed with exit code 3.
+##[group]Run actions/checkout@v3__dup_126, 7.455070048161184, , , , 178685, False, 
+##[group]Fetching the repository__dup_168, 7.426275351533691, , , , 576411, False, 
+##[group]Fetching the repository__dup_265, 7.385944389616695, , , , 560861, False, 
+##[group]Run chmod -R a+rx ${HOME}/jtreg/, 7.279309806199396, , , , 44952, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v3__dup_206, 7.266822790963626, , , , 583551, False, 
+##[group]Run actions/download-artifact@v3__dup_230, 7.251587223792615, , , , 476833, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run actions/download-artifact@v3__dup_171, 7.237652424980455, , , , 481259, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Checking out the ref__dup_243, 7.229312486841434, , , , 418525, False, 
+##[group]Fetching the repository__dup_199, 7.134504227668711, , , , 546343, False, 
+##[group]Run actions/cache@v3__dup_228, 7.125915625262244, , , , 590050, False, 
+##[group]Fetching the repository__dup_51, 7.065827566006964, , , , 523313, False, 
+##[group]Cleaning the repository__dup_60, 7.017059863575975, , , , 339234, False, 
+##[group]Run actions/download-artifact@v3__dup_252, 6.998218786775383, , , , 486688, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Removing previously created refs_ to avoid conflicts__dup_35, 6.992192574632367, , , , 139175, False, 
+##[group]Run actions/download-artifact@v3__dup_158, 6.869167346996602, , , , 482594, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run actions/cache@v3__dup_275, 6.846037635585384, , , , 574643, False, 
+##[group]Run actions/download-artifact@v3__dup_278, 6.806636558978319, , , , 480991, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run actions/download-artifact@v3__dup_185, 6.77824231032082, , , , 480323, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run actions/checkout@v3__dup_222, 6.774454206619074, , , , 130154, False, 
+##[group]Run chmod -R a+rx ${HOME}/jtreg/__dup_186, 6.715306785536888, , , , 45197, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3__dup_33, 6.565658880951702, , , , 160007, False, 
+##[group]Setting up auth__dup_241, 6.508110766417098, , , , 271783, False, 
+##[group]Fetching the repository__dup_226, 6.318205073518582, , , , 587497, False, 
+##[group]Run actions/cache@v3, 6.223599452009774, , , , 588144, False, 
+##[group]Run sudo dpkg --add-architecture i386__dup_134, 6.013771361513015, , , , 284784, True, ##[error]Process completed with exit code 100.
+##[group]Disabling automatic garbage collection__dup_224, 5.965508046245096, , , , 184272, False, 
+##[group]Checking out the ref__dup_85, 5.868984578756472, , , , 142383, False, 
+##[group]Run actions/cache@v3__dup_205, 5.852418251407089, , , , 576156, False, 
+##[group]Cleaning the repository__dup_246, 5.820219332350058, , , , 89519, False, 
+##[group]Checking out the ref__dup_39, 5.819247849607419, , , , 160145, False, 
+##[group]Setting up auth__dup_180, 5.786647481614303, , , , 158466, False, 
+##[group]Fetching the repository, 5.726234562612479, , , , 541440, False, 
+##[group]Run actions/download-artifact@v3__dup_208, 5.719399390201403, , , , 484795, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Cleaning the repository__dup_49, 5.644728345462034, , , , 340929, False, 
+##[group]Run make CONF_NAME=linux--hotspot hotspot__dup_111, 5.582391169978049, , , , 264136, True, ##[error]Process completed with exit code 2.
+##[group]Run make CONF_NAME=linux--hotspot hotspot__dup_100, 5.578379674351603, , , , 265907, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/download-artifact@v3__dup_120, 5.557455660187732, , , , 475561, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/download-artifact@v3__dup_231, 5.155432468997285, , , , 486042, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Fetching the repository__dup_249, 5.140308770579314, , , , 736276, False, 
+##[group]Run sudo dpkg --add-architecture i386__dup_109, 5.103758520731358, , , , 490544, True, ##[error]Process completed with exit code 100.
+##[group]Checking out the ref__dup_143, 5.05978116996435, , , , 146836, False, 
+##[group]Fetching the repository__dup_271, 5.051051100719554, , , , 733961, False, 
+##[group]Run actions/download-artifact@v3__dup_277, 5.030215713127273, , , , 495732, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run actions/download-artifact@v3__dup_133, 4.918926285003754, , , , 464017, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Run make CONF_NAME=linux-aarch64-hotspot hotspot, 4.804429306116473, , , , 581124, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v3__dup_177, 4.764152725676694, , , , 171921, False, 
+##[group]Run actions/checkout@v3__dup_102, 4.700764284723714, , , , 157331, False, 
+##[group]Getting Git version info__dup_268, 4.654222246646522, , , , 237289, False, 
+##[group]Run actions/checkout@v3__dup_80, 4.638821619017504, , , , 161873, False, 
+##[group]Run actions/checkout@v3__dup_260, 4.536731572015079, , , , 141809, False, 
+##[group]Run actions/checkout@v3__dup_91, 4.53127612292904, , , , 168878, False, 
+##[group]Setting up auth__dup_167, 4.530396027765393, , , , 167497, False, 
+##[group]Run actions/checkout@v3__dup_215, 4.524648915062035, , , , 142136, False, 
+##[group]Run make CONF_NAME=linux--hotspot hotspot, 4.444961254547107, , , , 266656, True, ##[error]Process completed with exit code 2.
+##[group]Run make CONF_NAME=linux--hotspot hotspot__dup_89, 4.394931201293136, , , , 305651, True, ##[error]Process completed with exit code 2.
+##[group]Removing previously created refs_ to avoid conflicts__dup_59, 4.354768351150819, , , , 126374, False, 
+##[group]Checking out the ref__dup_182, 4.325561249647531, , , , 132707, False, 
+##[group]Checking out the ref__dup_155, 4.293908005233172, , , , 132892, False, 
+##[group]Getting Git version info__dup_245, 4.228121486646354, , , , 337741, False, 
+##[group]Fetching the repository__dup_242, 4.154645776593862, , , , 639870, False, 
+##[group]Run actions/checkout@v3__dup_138, 4.035953289491369, , , , 160463, False, 
+##[group]Run actions/download-artifact@v3__dup_207, 3.968743057146601, , , , 484193, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Checking out the ref__dup_118, 3.9033608029114455, , , , 140814, False, 
+##[group]Setting up auth__dup_37, 3.8870855065234577, , , , 94542, False, 
+##[group]Fetching the repository__dup_106, 3.795174422936091, , , , 522915, False, 
+##[group]Run actions/download-artifact@v3__dup_159, 3.709740027457432, , , , 483766, True, ##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_2a681aeb
+##[group]Setting up auth__dup_225, 3.6639521142926936, , , , 310483, False, 
+##[group]Cleaning the repository, 3.6208498870318313, , , , 363340, False, 
+##[group]Run actions/checkout@v3__dup_195, 3.5450795877266104, , , , 142700, False, 
+##[group]Run sudo dpkg --add-architecture i386__dup_172, 3.5366461489546377, , , , 194887, True, ##[error]Process completed with exit code 100.
+##[group]Disabling automatic garbage collection__dup_263, 3.5058951063275066, , , , 201851, False, 
+##[group]Checking out the ref__dup_200, 3.469374954642921, , , , 130305, False, 
+##[group]Determining the checkout info, 3.4527677979993, , , , 15308, False, 
+##[group]Getting Git version info, 3.389462863896017, , , , 111608, False, 
+##[group]Disabling automatic garbage collection__dup_240, 2.8746768586572187, , , , 178716, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_48, 2.820777431262309, , , , 128498, False, 
+##[group]Setting up auth__dup_153, 2.7048552510859807, , , , 92356, False, 
+##[group]Setting up auth__dup_73, 2.6814169293047385, , , , 93194, False, 
+##[group]Setting up auth__dup_141, 2.6806340102311013, , , , 156876, False, 
+##[group]Run chmod -R a+rx ${HOME}/jtreg/__dup_160, 2.6600744555181, , , , 19931, True, ##[error]Process completed with exit code 1.
+##[group]Run sudo apt-get update__dup_40, 2.6236555982582934, , , , 74093, True, ##[error]Process completed with exit code 100.
+##[group]Removing previously created refs_ to avoid conflicts__dup_81, 2.614482433927693, , , , 133386, False, 
+##[group]Setting up auth__dup_83, 2.612881117147624, , , , 100274, False, 
+##[group]Run $env:Path = "$HOME\\cygwin\\cygwin64\\bin;$HOME\\cygwin\\cygwin64\\bin;$env:Path" ; $env:Path = $env:Path -split ";" -match "C:\\\\Windows|PowerShell|cygwin" -join ";" ; $env:BOOT_JDK = cygpath "$HOME/bootjdk/$env:BOOT_JDK_VERSION" ; $env:FREETYPE_HOME = "$env:GITHUB_WORKSPACE\\freetype" ; $env:JT_HOME = cygpath "$HOME/jtreg" ; & bash configure --with-toolchain-version=2017 --with-conf-name=windows-x64 --enable-debug --with-user-release-suffix="$env:GITHUB_ACTOR-$env:GITHUB_SHA" --with-build-number=b00 --with-boot-jdk="$env:BOOT_JDK" --with-freetype-src="$env:FREETYPE_HOME" --with-jtreg="$env:JT_HOME" ; bash -c "cat $(find -name config.log)", 2.576462937293236, , , , 24932, True, ##[error]Process completed with exit code 2.
+##[group]Run Remove-Item "$env:GITHUB_WORKSPACE\\freetype\\builds\\windows\\vc2010\\freetype.vcxproj" ; Copy-Item -Path "$env:GITHUB_WORKSPACE\\jdk\\.github\\workflows\\freetype.vcxproj" -Destination "$env:GITHUB_WORKSPACE\\freetype\\builds\\windows\\vc2010\\freetype.vcxproj" ;, 2.5501731537864987, , , , 21364, True, ##[error]Process completed with exit code 127.
+##[group]Cleaning the repository__dup_223, 2.547992450572834, , , , 244263, False, 
+##[group]Run actions/checkout@v3, 2.527022182693875, , , , 160212, False, 
+##[group]Setting up auth__dup_129, 2.5172643299613697, , , , 97882, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.485886816146243, , , , 229897, False, 
+##[group]Disabling automatic garbage collection, 2.468328577685258, , , , 4427, False, 
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9-arm-linux-gnueabihf g++-9-arm-linux-gnueabihf, 2.433010047228016, , , , 53063, True, ##[error]Process completed with exit code 100.
+##[group]Removing previously created refs_ to avoid conflicts__dup_114, 2.4020088695958948, , , , 123578, False, 
+##[group]Run sudo apt-get update__dup_97, 2.398981348602562, , , , 69616, True, ##[error]Process completed with exit code 100.
+##[group]Setting up auth__dup_116, 2.3791748213170445, , , , 102277, False, 
+##[group]Setting up auth, 2.3624807165033475, , , , 146189, False, 
+##[group]Setting up auth__dup_219, 2.358812367258746, , , , 179579, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_151, 2.3334089516373173, , , , 131996, False, 
+##[group]Run dir ; $env:Path = "$HOME\\cygwin\\cygwin64\\bin;$env:Path" ; zip -r9 "/home/power/actions-runner/_work/corretto-8/corretto-8/jdk-1.8.0-internal+0_windows-x86_bin.zip" j2sdk-image, 2.323715247064964, , , , 45659, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/corretto-8/corretto-8/jdk/build/windows-x86/images'. No such file or directory
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_66, 2.3098176890215147, , , , 60025, True, ##[error]Process completed with exit code 100.
+##[group]Removing previously created refs_ to avoid conflicts__dup_71, 2.2918632918699795, , , , 130012, False, 
+##[group]Checking out the ref__dup_75, 2.265213895827579, , , , 131753, False, 
+##[group]Disabling automatic garbage collection__dup_202, 2.247665196967658, , , , 3944, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_165, 2.2411667333930674, , , , 124875, False, 
+##[group]Checking out the ref__dup_204, 2.239264510704126, , , , 106850, False, 
+##[group]Checking out the ref__dup_169, 2.214624268624705, , , , 144541, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_127, 2.2077320341540263, , , , 130589, False, 
+##[group]Run sudo apt-get update__dup_108, 2.175732506839499, , , , 75967, True, ##[error]Process completed with exit code 100.
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9-s390x-linux-gnu g++-9-s390x-linux-gnu, 2.16935021685646, , , , 50146, True, ##[error]Process completed with exit code 100.
+##[group]Run New-Item -Force -ItemType directory -Path "$HOME\\cygwin"__dup_258, 2.1584548245794384, , , , 31342, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v3__dup_150, 2.152372877619108, , , , 146032, False, 
+##[group]Run sudo qemu-debootstrap --arch=armhf --verbose --include=fakeroot_symlinks_build-essential_libx11-dev_libxext-dev_libxrender-dev_libxrandr-dev_libxtst-dev_libxt-dev_libcups2-dev_libfontconfig1-dev_libasound2-dev_libfreetype6-dev_libpng-dev_libffi-dev --resolve-deps buster ~/sysroot-armhf http://httpredir.debian.org/debian/, 2.1285880193952704, , , , 21938, True, ##[error]Process completed with exit code 1.
+##[group]Run tar -czf jdk-1.8.0-internal+0_osx-x64_bin.tar.gz -C jdk/build/macos-x64/images j2sdk-image, 2.1195405406181647, , , , 12782, True, ##[error]Process completed with exit code 2.
+##[group]Run Remove-Item "$env:GITHUB_WORKSPACE\\freetype\\builds\\windows\\vc2010\\freetype.vcxproj" ; Copy-Item -Path "$env:GITHUB_WORKSPACE\\jdk\\.github\\workflows\\freetype.vcxproj" -Destination "$env:GITHUB_WORKSPACE\\freetype\\builds\\windows\\vc2010\\freetype.vcxproj" ;__dup_279, 2.116976015122101, , , , 14048, True, ##[error]Process completed with exit code 127.
+##[group]Run make CONF_NAME=linux-x86 images, 2.10206708172491, , , , 11316, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v3__dup_58, 2.0804027082054595, , , , 167654, False, 
+##[group]Run actions/checkout@v3__dup_201, 2.042474109109179, , , , 128238, False, 
+##[group]Run New-Item -Force -ItemType directory -Path "$HOME\\cygwin", 1.9994565082747036, , , , 32901, True, ##[error]Process completed with exit code 127.
+##[group]Checking out the ref__dup_96, 1.949507841595053, , , , 168906, False, 
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9 g++-9 libxrandr-dev libxtst-dev libcups2-dev libasound2-dev, 1.942943868113956, , , , 51383, True, ##[error]Process completed with exit code 100.
+##[group]Checking out the ref__dup_131, 1.8814932546521528, , , , 132305, False, 
+##[group]Checking out the ref__dup_273, 1.8813806907835493, , , , 192814, False, 
+##[group]Run sudo apt-get update__dup_53, 1.777378662891565, , , , 77325, True, ##[error]Process completed with exit code 100.
+##[group]Run sudo apt-get update__dup_86, 1.7506571300232905, , , , 78399, True, ##[error]Process completed with exit code 100.
+##[group]Setting up auth__dup_264, 1.6913462481695198, , , , 166067, False, 
+##[group]Run Start-Process -FilePath 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vs_installer.exe' -Wait -NoNewWindow -ArgumentList 'modify --installPath "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise" --remove Microsoft.VisualStudio.Component.Windows10SDK.18362 --remove Microsoft.VisualStudio.Component.Windows10SDK.19041 --remove Microsoft.VisualStudio.Component.Windows10SDK.20348 --remove Microsoft.VisualStudio.Component.Windows10SDK.22000 --quiet', 1.6810985252601387, , , , 13625, True, ##[error]Process completed with exit code 127.
+##[group]Run sudo apt-get update__dup_122, 1.6741939462441866, , , , 57468, True, ##[error]Process completed with exit code 100.
+##[group]Cleaning the repository__dup_269, 1.599376578236131, , , , 61201, False, 
+##[group]Run brew install make, 1.5506661491471043, , , , 16835, True, ##[error]Process completed with exit code 127.
+##[group]Checking out the ref__dup_52, 1.53456989643145, , , , 126954, False, 
+##[group]Checking out the ref__dup_107, 1.4673836957133588, , , , 128789, False, 
+##[group]Run mkdir "$HOME\\$env:VS2010_DIR", 1.4402637168760934, , , , 55133, True, ##[error]Process completed with exit code 2.
+##[group]Setting up auth__dup_50, 1.4118432286441365, , , , 98675, False, 
+##[group]Run actions/checkout@v3__dup_47, 1.409992030263978, , , , 159024, False, 
+##[group]Run chmod -R a+rx ${HOME}/jtreg/__dup_146, 1.2731223259782016, , , , 38538, True, ##[error]Process completed with exit code 1.
+##[group]Disabling automatic garbage collection__dup_218, 1.165277631947116, , , , 163563, False, 
+##[group]Disabling automatic garbage collection__dup_247, 1.136847443999182, , , , 9257, False, 
+##[group]Checking out the ref, 1.114395387611772, , , , 124157, False, 
+##[group]Setting up auth__dup_248, 1.1096510215283522, , , , 121798, False, 
+##[group]Run sudo apt-get update, 1.093827704337956, , , , 76398, True, ##[error]Process completed with exit code 100.
+##[group]Run Start-Process -FilePath "$HOME\\$env:VS2010_DIR\\VCExpress\\setup.exe" -ArgumentList "/q /norestart" -Wait -NoNewWindow, 1.0060431426254546, , , , 16260, True, ##[error]Process completed with exit code 127.
+##[group]Run sudo apt-get install debootstrap qemu-user-static, 1.0012731296057844, , , , 56651, True, ##[error]Process completed with exit code 100.
+##[group]Run sudo chroot ~/sysroot-arm64 symlinks -cr ., 0.9909892879688764, , , , 54288, True, ##[error]Process completed with exit code 125.

@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,94.7967327003032,1356207,False,
+##[group]Fetching the repository,58.845691004863255,445029,False,
+"##[group]Run echo ""PROJECT_VERSION=$(<project.version)"" >> $GITHUB_ENV",40.43446366336323,263779,False,
+##[group]Removing previously created refs_ to avoid conflicts,32.163441495234736,136403,False,
+"##[group]Run echo ""Result: {",23.990887706544555,250573,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,16.49281014653784,144852,False,
+##[group]Cleaning the repository,15.670631348696904,150377,False,
+##[group]Setting up auth,15.396571749416593,66112,False,
+##[group]Checking out the ref,14.026273753015031,18204,False,
+"##[group]Run if [[ ""1"" == 1 ]]; then",8.545081767408808,20854,False,

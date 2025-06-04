@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,84.31324261129308,18189650,False,
+##[group]GITHUB_TOKEN Permissions,11.215493965927068,3459292,False,
+##[group]Run build-bin/configure_deploy &&,10.298205562912036,1490320,True,##[error]Process completed with exit code 2.
+##[group]Run actions/cache@v4,3.566228513075934,616691,False,
+##[group]Run actions/checkout@v4,0.4861652577851214,135165,True,##[error]Input required and not supplied: token

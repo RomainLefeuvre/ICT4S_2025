@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 55.35241739346934, , , , 3845904, False, 
+##[group]GITHUB_TOKEN Permissions, 20.379593406668167, , , , 2430268, False, 
+##[group]Run echo "Cloning repo...", 6.665276896098026, , , , 192985, True, ##[error]Process completed with exit code 129.
+##[group]Run aws-actions/configure-aws-credentials@v3, 12.946791073821968, , , , 2181304, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run hashicorp/setup-terraform@v2, 20.28252881772241, , , , 1037015, False, 
+##[group]Run cd $TF_DIR && terraform init --backend-config="../envs/pro/terraform-backend.tfvars", 3.2951228926463174, , , , 256477, False, 
+##[group]Run cd $TF_DIR && terraform validate -no-color, 1.963782358032604, , , , 184030, False, 
+##[group]Run cd $TF_DIR, 2.596224181451494, , , , 359394, True, ##[error]Terraform exited with code 1.

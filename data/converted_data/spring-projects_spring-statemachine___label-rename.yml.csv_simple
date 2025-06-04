@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run crazy-max/ghaction-github-labeler@v3,64.06106695598024,5658663,False,
+##[group]GITHUB_TOKEN Permissions,23.701887506623176,2104181,False,
+##[group]Fetching the repository,6.971143384300934,429332,False,
+##[group]Cleaning the repository,3.2200043251294788,194140,False,
+##[group]Run actions/checkout@v2,3.0872206416189845,186543,False,
+##[group]Checking out the ref,1.825775648269292,23337,False,
+##[group]Setting up auth,1.6597960438811743,70505,False,
+Requested labels: self-hosted,0.0,4162181,False,

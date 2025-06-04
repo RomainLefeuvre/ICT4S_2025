@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0220765008309418, , , , 4223511, False, 
+##[group]GITHUB_TOKEN Permissions, 121.5120795844616, , , , 3474030, False, 
+##[group]Run actions/checkout@v3, 13.205001801203196, , , , 165022, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 12.83508799734689, , , , 124711, False, 
+##[group]Cleaning the repository, 35.17603975733394, , , , 276292, False, 
+##[group]Fetching the repository, 51.2284568517638, , , , 433238, False, 
+##[group]Run actions/cache@v3, 484.8620233941372, , , , 58702648, False, 
+##[group]Run mvn -T 8 clean test -Dprops.file=testconfig/ebean-sqlserver17.properties, 67304.1032137208, , , , 16708546984, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.122 s <<< FAILURE![m -- in org.tests.cache.TestBeanCacheContactLazyLoad[m

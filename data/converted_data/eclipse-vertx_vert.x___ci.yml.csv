@@ -1,0 +1,10 @@
+##[group]==END_FILE==, 57.911365193663976, , , , 6033509, False, 
+##[group]GITHUB_TOKEN Permissions, 66.93567728910575, , , , 2149692, False, 
+##[group]Run actions/checkout@v2, 84.46531580252153, , , , 262485, False, 
+##[group]Getting Git version info, 162.54472495966868, , , , 36883, False, 
+##[group]Initializing the repository, 29.51900580117288, , , , 51930, False, 
+##[group]Setting up auth, 26.529066610412027, , , , 87627, False, 
+##[group]Fetching the repository, 13.04776542162583, , , , 1167862, False, 
+##[group]Checking out the ref, 219.5144020822895, , , , 128610, False, 
+##[group]Run actions/setup-java@v2, 130.59617236971727, , , , 225092, False, 
+##[group]Run mvn -s .github/maven-ci-settings.xml -q clean verify -B , 10605.651481542574, , , , 826012775, True, ##[error]Input required and not supplied: java-version

@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 91.21034956228148, , , , 5980121, False, 
+##[group]GITHUB_TOKEN Permissions, 13.955365036025771, , , , 310824, False, 
+##[group]Run dotnet tool install Azure.Sdk.Tools.GitHubEventProcessor --version 1.0.0-dev.20240311.2 --add-source https://pkgs.dev.azure.com/azure-sdk/public/_packaging/azure-sdk-for-net/nuget/v3/index.json --global, 41.84837768620898, , , , 1340250, True, ##[error]Process completed with exit code 127.

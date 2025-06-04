@@ -1,0 +1,9 @@
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/tracehubpm/reports-check-action/master/Dockerfile'., 127.55469581967137, , , , 73874103, False, 
+##[group]GITHUB_TOKEN Permissions, 101.0914952499694, , , , 1961919, False, 
+##[group]Run tracehubpm/reports-check-action@master, 9.713594491413936, , , , 6344173, True, ##[error]Neither `openai_token` nor `deepinfra_token` was not provided
+##[group]Fetching the repository, 2.3734480392876915, , , , 449234, False, 
+##[group]Setting up auth, 0.3948630092376026, , , , 75539, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.3682541430309574, , , , 91688, False, 
+##[group]Getting Git version info, 0.3416452768243121, , , , 48285, False, 
+##[group]Run actions/checkout@v4, 0.3150364106176669, , , , 161550, False, 
+##[group]==END_FILE==, 0.2538304250097334, , , , 4958489, False, 

@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 71.59826879256144, , , , 2569912, False, 
+##[group]Run echo "" > sec.gpg.asc, 25.44991966231437, , , , 503257, True, ##[error]Process completed with exit code 2.
+##[group]Fetching the repository, 21.761175930443525, , , , 433703, False, 
+##[group]Installed distributions, 4.844067683671485, , , , 27210, False, 
+##[group]Run actions/checkout@v4, 4.024346854366852, , , , 168665, False, 
+##[group]==END_FILE==, 0.5601180960668901, , , , 4942593, False, 

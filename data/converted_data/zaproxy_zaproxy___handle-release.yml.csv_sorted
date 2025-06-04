@@ -1,0 +1,9 @@
+##[group]Run ./gradlew handleReleaseFromGitHubRef, 2845.8360771627995, , , , 166299457, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:processResources, 624.3191222222108, , , , 20292420, False, 
+> Task :buildSrc:compileKotlin, 388.978544031509, , , , 22100634, False, 
+> Task :buildSrc:jar, 254.10240403159608, , , , 14100578, False, 
+> Task :buildSrc:compilePluginsBlocks, 230.72340751225343, , , , 11599930, False, 
+> Task :buildSrc:generateScriptPluginAdapters, 122.19008087412648, , , , 9707388, False, 
+> Task :buildSrc:extractPrecompiledScriptPluginPlugins, 44.7526170158734, , , , 1799912, False, 
+> Task :buildSrc:classes, 3.270853058187188, , , , 99833, False, 
+> Task :buildSrc:compileGroovy NO-SOURCE, 3.111507096806924, , , , 99391, False, 

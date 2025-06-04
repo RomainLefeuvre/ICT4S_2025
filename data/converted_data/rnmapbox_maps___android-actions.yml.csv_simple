@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assemble,142.92900543375933,33458517,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,110.25833415187743,3101168,False,
+##[group]Environment details,31.362527892942875,422297,False,
+##[group]Fetching the repository,22.28058942944768,432666,False,
+##[group]Run actions/checkout@v4,10.391112612082074,144525,False,
+##[group]Run yarn postinstall,6.834392155569898,14262,True,##[error]Process completed with exit code 127.
+##[group]Run mkdir -p ~/.gradle/,6.740744392739677,26326,False,
+##[group]Setting up auth,5.336027950286368,56565,False,
+Requested labels: self-hosted,0.730063909042569,4059044,False,

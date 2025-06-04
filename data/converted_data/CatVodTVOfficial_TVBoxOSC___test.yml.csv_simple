@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run chmod +x gradlew,153.3281968604267,37396661,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,10.00335700123736,1955249,False,
+##[group]GITHUB_TOKEN Permissions,5.203581118992277,1839962,False,
+##[group]Run actions/upload-artifact@v3,4.491439593301554,374637,False,
+##[group]Checking out the ref,0.5965304633765398,116296,False,
+##[group]Getting Git version info,0.4038052367471961,3252,False,
+##[group]Run actions/checkout@v3,0.3946278450029417,173051,False,
+Requested labels: self-hosted,0.0157357120084218,5264776,False,

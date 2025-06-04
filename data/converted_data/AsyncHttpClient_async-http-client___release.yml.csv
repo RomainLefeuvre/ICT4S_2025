@@ -1,0 +1,17 @@
+##[group]==END_FILE==, 396.4626383289525, , , , 4750974, False, 
+##[group]GITHUB_TOKEN Permissions, 246.24374532359587, , , , 3756459, False, 
+##[group]Run actions/checkout@v4, 69.94717194654814, , , , 195506, False, 
+##[group]Cleaning the repository, 33.5428944236836, , , , 43725, False, 
+##[group]Setting up auth, 5.5664580792996174, , , , 67745, False, 
+##[group]Fetching the repository, 4.989874287756038, , , , 456003, False, 
+##[group]Run s4u/maven-settings-action@v2.2.0, 22.527132225424843, , , , 1191322, False, 
+##[group]Run crazy-max/ghaction-import-gpg@v5.2.0, 14.52875023884984, , , , 321608, True, ##[error]servers must contain id, username and password
+##[group]Run mvn -ntp -B clean verify install -DskipTests, 880.6309120396214, , , , 29177769, True, ##[error]Input required and not supplied: gpg_private_key
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ async-http-client-project ---, 4.35477837636258, , , , 286723, False, 
+[INFO] --- jacoco-maven-plugin:0.8.9:prepare-agent (default) @ async-http-client-project ---, 35.97337448747933, , , , 2270771, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar-no-fork (attach-sources) @ async-http-client-project ---, 38.02570583895216, , , , 2091387, False, 
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (attach-javadocs) @ async-http-client-project ---, 97.71650232116993, , , , 5953616, False, 
+[INFO] --- maven-gpg-plugin:3.1.0:sign (sign-artifacts) @ async-http-client-project ---, 29.99905928560465, , , , 2690180, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.1.0:sign (sign-artifacts) on project async-http-client-project: Exit code: 2 -> [Help 1]
+##[group]Run mvn -ntp -B deploy -DskipTests -Dgpg.keyname=${GPG_KEY_NAME} -Dgpg.passphrase=${GPG_PASSPHRASE}, 41.21784624944033, , , , 3630685, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.1.0:sign (sign-artifacts) on project async-http-client-project: Exit code: 2 -> [Help 1]
+[INFO] --- maven-source-plugin:3.2.1:jar-no-fork (attach-sources) @ async-http-client-project ---__dup_16, 8.055766526670375, , , , 156145, False, 
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (attach-javadocs) @ async-http-client-project ---__dup_17, 13.857900374728477, , , , 397828, False, 

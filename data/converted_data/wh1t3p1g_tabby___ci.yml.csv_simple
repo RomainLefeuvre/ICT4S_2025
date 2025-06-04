@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew bootJar,70.2283623844313,12630535,False,
+> Task :resolveMainClassName,34.613865150126884,800062,False,
+> Task :classes,3.5995443619629524,99765,False,

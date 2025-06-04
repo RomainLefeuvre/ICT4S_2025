@@ -1,0 +1,3 @@
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final -x test, 70.77331518116033, , , , 31211945, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 48.47697041122692, , , , 17813488, False, 
+##[group]Run actions/cache@v1, 2.1047247058258054, , , , 69887, False, 

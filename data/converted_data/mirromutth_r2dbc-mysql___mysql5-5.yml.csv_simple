@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,207.99158142918827,2624160,False,
+##[group]Run actions/setup-java@v2,143.60611284141964,15696303,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ r2dbc-mysql ---,77.41382728798852,3155682,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/mirromutth/mysql-action/v1.1/Dockerfile'.,72.64584862628884,4458918,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ r2dbc-mysql ---,39.38579969446388,2190762,False,
+##[group]Run ./mvnw -B verify -Dmaven.javadoc.skip=true -Dmaven.surefire.skip=true -Dtest.mysql.password= -Dtest.mysql.version=5.5 -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN,28.88717838970437,11198160,True,"[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.065 s <<< FAILURE! - in dev.miku.r2dbc.mysql.JacksonPrepareIntegrationTest"
+[INFO] --- maven-failsafe-plugin:2.22.2:integration-test (default) @ r2dbc-mysql ---,28.88717838970437,1487766,True,"[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.065 s <<< FAILURE! - in dev.miku.r2dbc.mysql.JacksonPrepareIntegrationTest"
+[INFO] --- maven-javadoc-plugin:3.3.1:jar (attach-javadocs) @ r2dbc-mysql ---,12.2831552304002,367539,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ r2dbc-mysql ---,8.932251538554183,301743,False,
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-javadocs) @ r2dbc-mysql ---,6.301643263340652,201866,False,
+##[group]Run sudo service mysql stop,5.753990575678945,1192444,True,##[error]Process completed with exit code 5.
+##[group]Run mirromutth/mysql-action@v1.1,5.592657186260779,5508871,False,
+##[group]Fetching the repository,3.748539816190259,426035,False,
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ r2dbc-mysql ---,2.9240619634712104,84046,False,
+##[group]Run actions/checkout@v2,1.6098088896289509,206237,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ r2dbc-mysql ---,1.4834711302062389,116140,False,
+##[group]Setting up auth,0.8710196994310202,77345,False,
+##[group]Cleaning the repository,0.8445735975844021,32189,False,
+Requested labels: self-hosted,0.0149226037953489,3846734,False,

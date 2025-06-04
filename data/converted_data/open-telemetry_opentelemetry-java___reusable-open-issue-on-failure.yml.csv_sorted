@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 84.94630208365811, , , , 1359425, False, 
+##[group]Run gh issue create --title "$GITHUB_WORKFLOW #$GITHUB_RUN_NUMBER failed" \\, 71.96877607145693, , , , 698486, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 44.21221373719415, , , , 469225, False, 
+##[group]Run actions/checkout@v4, 15.834985667235491, , , , 141790, False, 
+##[group]Cleaning the repository, 8.225809471558106, , , , 32953, False, 
+##[group]==END_FILE==, 0.9459923828112456, , , , 4482559, False, 

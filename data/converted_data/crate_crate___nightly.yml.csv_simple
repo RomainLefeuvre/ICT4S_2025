@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn test -Dtests.crate.run-windows-incompatible=false -Dcheckstyle.skip,23342.1661088806,1878835044,True,"[ERROR[m] Tests run: 5[m, Failures: 4[m, Errors: 0, Skipped: 0, Time elapsed: 0.962 s <<< FAILURE![m -- in org.elasticsearch.test.test.InternalTestClusterTests[m"
+##[group]Installed distributions,226.41048938451328,27810935,False,
+##[group]GITHUB_TOKEN Permissions,105.77594212816705,2142520,False,
+##[group]Fetching the repository,74.78160173003894,449406,False,
+##[group]Run actions/checkout@v4,34.78317989743571,205282,False,
+##[group]Setting up auth,16.28464922021328,107556,False,
+##[group]==END_FILE==,1.2484943488740856,4494322,False,

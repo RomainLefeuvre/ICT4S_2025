@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 1.1814241461100692, , , , 5846932, False, 
+##[group]GITHUB_TOKEN Permissions, 30.608762109460155, , , , 8109782, False, 
+##[group]Run actions/checkout@v2, 2.0243016184050147, , , , 244841, False, 
+##[group]Initializing the repository, 1.3994744345305723, , , , 118917, False, 
+##[group]Fetching the repository, 7.59665243977961, , , , 978600, False, 
+##[group]Checking out the ref, 0.8145992684645794, , , , 36584, False, 
+##[group]Run actions/setup-java@v2, 13.567369628003872, , , , 1475469, False, 
+##[group]Install Android SDK, 0.9943833486026036, , , , 93179, False, 
+##[group]Run bash <(curl -s https://codecov.io/bash), 5.721017076921453, , , , 2706719, True, ##[error]The process '/usr/bin/sh' failed with exit code 1

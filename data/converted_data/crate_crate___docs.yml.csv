@@ -1,0 +1,16 @@
+##[group]==END_FILE==, 106.63164821969102, , , , 27885877, False, 
+Requested labels: self-hosted, 0.0280926477501413, , , , 4240337, False, 
+##[group]GITHUB_TOKEN Permissions, 65.5079422125059, , , , 6323808, False, 
+##[group]Run actions/checkout@v3, 2.743839890706138, , , , 179412, False, 
+##[group]Cleaning the repository, 4.080254939225758, , , , 305165, False, 
+##[group]Setting up auth, 1.3506170072529993, , , , 74715, False, 
+##[group]Fetching the repository, 6.682075242598096, , , , 497878, False, 
+##[group]Run errata-ai/vale-action@v2.1.0, 20.69238637011625, , , , 8886593, True, ##[error]Error: Unable to locate executable file: gem. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]GITHUB_TOKEN Permissions__dup_9, 4.453879419527679, , , , 2182155, False, 
+##[group]Run actions/checkout@v3__dup_10, 0.5585081542155464, , , , 169212, False, 
+##[group]Cleaning the repository__dup_11, 0.2881161939443641, , , , 52309, False, 
+##[group]Setting up auth__dup_12, 0.2940242718354247, , , , 68081, False, 
+##[group]Fetching the repository__dup_13, 1.8882152667248209, , , , 631230, False, 
+##[group]Installed versions, 0.7121181793831219, , , , 208407, False, 
+##[group]Run python -m pip install --upgrade pip setuptools, 718.6300625205035, , , , 104387965, True, ##[error]Error: Unable to locate executable file: gem. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]Run sphinx-build -n -W --keep-going -q -c docs/ -b linkcheck -E docs/ docs/out/html, 614.9529105565591, , , , 49195987, False, 

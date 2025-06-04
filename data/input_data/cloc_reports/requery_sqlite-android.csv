@@ -1,0 +1,73 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.06 s (1185.1 files/s 323274.3 lines/s)"
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDatabase.java,191,1306,1106
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteConnection.java,132,359,1094
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseGeneralTest.java,145,101,941
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/NewDatabasePerformanceTests.java,255,114,889
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_SQLiteConnection.cpp,141,87,820
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteConnectionPool.java,111,275,698
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseCursorTest.java,71,39,400
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteSession.java,71,505,399
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_CursorWindow.cpp,55,22,335
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/AbstractCursor.java,61,65,295
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseStatementTest.java,50,21,267
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/benchmark/Benchmark.java,49,17,256
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteQueryBuilder.java,46,315,251
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/CursorWindow.cpp,41,21,221
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_SQLiteFunction.cpp,39,9,181
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteOpenHelper.java,31,208,171
+Markdown,/tmp/clone_directory/CHANGELOG.md,83,0,170
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCursor.java,34,60,166
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/JNIHelp.cpp,32,34,151
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/CursorWindow.java,43,320,144
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteProgram.java,27,75,144
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/sqlite/SQLiteStatementTypeTest.java,13,2,139
+Markdown,/tmp/clone_directory/README.md,37,0,132
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteFunction.java,29,28,128
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseLocaleTest.java,18,19,106
+C/C++ Header,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/CursorWindow.h,39,43,106
+Bourne Shell,/tmp/clone_directory/gradlew,28,109,103
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_SQLiteCommon.cpp,11,34,95
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/AbstractWindowedCursor.java,20,64,93
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteStatement.java,11,69,92
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/CursorWindowTest.java,19,18,91
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseErrorHandlerTest.java,15,39,89
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteStatementType.java,13,45,88
+Gradle,/tmp/clone_directory/sqlite-android/build.gradle,17,0,82
+Java,/tmp/clone_directory/sqlite-android/src/androidTest/java/io/requery/android/database/NewDatabasePerformanceTestSuite.java,7,16,76
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDatabaseConfiguration.java,23,104,76
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/RequerySQLiteOpenHelperFactory.java,22,4,69
+C/C++ Header,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/JNIHelp.h,32,77,69
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,68
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/JNIString.cpp,12,45,61
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/CloseGuard.java,19,157,58
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDebug.java,23,92,58
+make,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/Android.mk,10,4,53
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDirectCursorDriver.java,11,24,50
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/DefaultDatabaseErrorHandler.java,9,49,48
+C/C++ Header,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/Errors.h,14,26,48
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_SQLiteDebug.cpp,14,19,48
+C++,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_SQLiteGlobal.cpp,17,32,43
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteQuery.java,7,38,41
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,7,0,40
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteGlobal.java,14,63,39
+C/C++ Header,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/ALog-priv.h,13,24,35
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteClosable.java,7,46,27
+Properties,/tmp/clone_directory/gradle.properties,0,17,23
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCustomFunction.java,5,30,19
+C/C++ Header,/tmp/clone_directory/sqlite-android/src/main/jni/sqlite/android_database_SQLiteCommon.h,12,23,17
+Gradle,/tmp/clone_directory/settings.gradle,3,0,15
+ProGuard,/tmp/clone_directory/sqlite-android/proguard-rules.pro,0,0,15
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCustomExtension.java,4,26,12
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCursorDriver.java,7,40,9
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,1,0,7
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,6
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/CursorWindowAllocationException.java,2,21,6
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteStatementInfo.java,4,30,6
+Java,/tmp/clone_directory/sqlite-android/src/main/java/io/requery/android/database/DatabaseErrorHandler.java,4,24,5
+make,/tmp/clone_directory/sqlite-android/src/main/jni/Application.mk,0,0,5
+Gradle,/tmp/clone_directory/build.gradle,0,0,4
+Properties,/tmp/clone_directory/sqlite-android/gradle.properties,0,0,3
+YAML,/tmp/clone_directory/jitpack.yml,0,0,2
+make,/tmp/clone_directory/sqlite-android/src/main/jni/Android.mk,2,0,2
+XML,/tmp/clone_directory/sqlite-android/src/main/AndroidManifest.xml,0,0,1
+SUM,,2304,5456,11607

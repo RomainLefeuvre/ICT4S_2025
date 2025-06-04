@@ -1,0 +1,5 @@
+##[group]GITHUB_TOKEN Permissions, 117.2459078130529, , , , 1289093, False, 
+##[group]Run actions/checkout@v4, 45.25581344810947, , , , 176418, False, 
+##[group]Cleaning the repository, 22.48297587019194, , , , 12237, False, 
+##[group]Fetching the repository, 110.96557081233172, , , , 450035, False, 
+##[group]Run ./gradlew test, 181.872003722177, , , , 29879137, True, ##[error]Process completed with exit code 1.

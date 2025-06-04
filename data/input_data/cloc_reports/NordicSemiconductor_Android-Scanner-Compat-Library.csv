@@ -1,0 +1,44 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.03 s (1595.0 files/s 267432.3 lines/s)"
+Bourne Again Shell,/tmp/clone_directory/moustache/mo,165,464,477
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScanFilter.java,59,141,434
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScanSettings.java,74,281,293
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeScannerCompat.java,52,326,265
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeScannerImplLollipop.java,46,40,223
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScanRecord.java,34,87,221
+Markdown,/tmp/clone_directory/README.md,53,0,198
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeScannerImplOreo.java,35,75,188
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeScannerImplJB.java,34,30,173
+Java,/tmp/clone_directory/scanner/src/androidTest/java/no/nordicsemi/android/support/v18/scanner/ScanFilterTest.java,17,16,172
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScanResult.java,40,134,169
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScannerService.java,23,25,126
+Bourne Again Shell,/tmp/clone_directory/gradlew,20,21,123
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/PendingIntentReceiver.java,17,28,94
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeUtils.java,11,33,86
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/PendingIntentExecutor.java,17,31,81
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScanCallbackWrapperSet.java,10,0,80
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+Java,/tmp/clone_directory/scanner/src/androidTest/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeScannerImplOreoTest.java,12,6,57
+Gradle,/tmp/clone_directory/gradle/publish-module.gradle,12,1,55
+Java,/tmp/clone_directory/scanner/src/test/java/no/nordicsemi/android/support/v18/scanner/ObjectsTest.java,25,23,49
+YAML,/tmp/clone_directory/.github/workflows/deploy-all.yml,0,0,43
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothUuid.java,9,33,41
+Java,/tmp/clone_directory/scanner/src/androidTest/java/no/nordicsemi/android/support/v18/scanner/ScanRecordTest.java,7,15,38
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/Objects.java,7,38,37
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/UserScanCallbackWrapper.java,9,7,36
+Gradle,/tmp/clone_directory/scanner/build.gradle,9,7,35
+Java,/tmp/clone_directory/scanner/src/androidTest/java/no/nordicsemi/android/support/v18/scanner/ScanSettingsTest.java,6,15,30
+Gradle,/tmp/clone_directory/gradle/git-tag-version.gradle,1,0,26
+Java,/tmp/clone_directory/scanner/src/androidTest/java/no/nordicsemi/android/support/v18/scanner/BluetoothUuidTest.java,6,15,25
+XML,/tmp/clone_directory/scanner/src/main/AndroidManifest.xml,7,26,25
+Java,/tmp/clone_directory/scanner/src/androidTest/java/no/nordicsemi/android/support/v18/scanner/ScanResultTest.java,7,16,24
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/BluetoothLeScannerImplMarshmallow.java,9,21,24
+Gradle,/tmp/clone_directory/build.gradle,5,3,23
+Java,/tmp/clone_directory/scanner/src/main/java/no/nordicsemi/android/support/v18/scanner/ScanCallback.java,13,63,19
+Gradle,/tmp/clone_directory/gradle/publish-root.gradle,4,3,15
+Properties,/tmp/clone_directory/gradle.properties,6,14,13
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+Bourne Shell,/tmp/clone_directory/moustache/split.sh,3,0,5
+Properties,/tmp/clone_directory/scanner/gradle.properties,0,0,3
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/scanner/scanner-proguard-rules.pro,2,15,0
+SUM,,890,2056,4096

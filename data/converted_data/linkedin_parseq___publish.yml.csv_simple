@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v2,71.05404177046849,15939530,False,
+##[group]GITHUB_TOKEN Permissions,23.719127464133496,2318153,False,
+##[group]Fetching the repository,12.291534811882288,916145,False,
+##[group]Run ./.github/scripts/publish.sh,11.58746878918824,574335,False,
+##[group]==END_FILE==,2.552614384868082,6640193,False,
+##[group]Run actions/checkout@v2,2.524405712636096,189767,False,
+##[group]Checking out the ref,1.4453593470484476,85325,False,
+##[group]Setting up auth,1.286092833369839,62907,False,

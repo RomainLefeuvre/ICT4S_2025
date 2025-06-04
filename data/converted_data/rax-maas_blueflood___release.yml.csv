@@ -1,0 +1,10 @@
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/repo-sync/pull-request/v2/Dockerfile'., 94.8179572007802, , , , 19261015, False, 
+##[group]Run actions/checkout@v2, 2.042725823216835, , , , 201401, False, 
+##[group]Cleaning the repository, 1.0728691533354406, , , , 62171, False, 
+##[group]Setting up auth, 1.1072066478201228, , , , 115504, False, 
+##[group]Fetching the repository, 7.364327271099063, , , , 622145, False, 
+##[group]Checking out the ref, 1.347569109212898, , , , 111491, False, 
+##[group]Run actions/setup-java@v2, 105.96185202834612, , , , 14571480, False, 
+##[group]Run metcalfc/changelog-generator@v0.4.4, 3.2673831187121465, , , , 487857, False, 
+##[group]Run repo-sync/pull-request@v2, 0.7329411031430192, , , , 46327, False, 
+##[group]Run ncipollo/release-action@v1, 30.321374442996827, , , , 3335239, True, ##[error]Error 422: Validation Failed: {"resource":"Release","code":"custom","field":"tag_name","message":"tag_name is not a valid tag"}, {"resource":"Release","code":"custom","field":"tag_name","message":"tag_name is not well-formed"}, {"resource":"Release","code":"custom","message":"Published releases must have a valid tag"}

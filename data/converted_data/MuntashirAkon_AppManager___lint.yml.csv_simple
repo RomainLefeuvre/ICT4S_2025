@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,525.7457520952308,54148999,False,
+##[group]GITHUB_TOKEN Permissions,114.0739910707714,2702809,False,
+##[group]Run ./gradlew lint,63.61868503089402,8392166,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,27.351073882465663,425108,False,
+##[group]Removing previously created refs_ to avoid conflicts,25.12740933917577,337467,False,
+##[group]Persisting credentials for submodules,14.787369212877778,212264,False,
+##[group]Fetching submodules,7.226909765692147,162501,False,
+##[group]Setting up auth for fetching submodules,7.115726538527653,21636,False,
+##[group]Run actions/upload-artifact@v3,7.041523671096872,791073,False,
+##[group]Setting up auth,6.559810402705179,89159,False,
+##[group]Run actions/checkout@v3,6.003894266882707,165560,False,
+##[group]Run chmod +x gradlew,0.6462999929174355,9029,False,
+Requested labels: self-hosted,0.012543535207222,5140731,False,

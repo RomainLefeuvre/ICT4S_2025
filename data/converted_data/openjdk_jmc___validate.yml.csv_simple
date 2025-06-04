@@ -1,0 +1,41 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,239.79158619256103,52596405,False,
+##[group]==END_FILE==__dup_12,228.2349247206791,45119926,False,
+##[group]GITHUB_TOKEN Permissions,111.089771811208,3334931,False,
+##[group]Fetching the repository,57.08933845894598,10513348,True,##[error]Process completed with exit code 2.
+##[group]Fetching the repository__dup_38,35.65191962428243,3175854,True,##[error]Process completed with exit code 2.
+##[group]Run ./scripts/runagenttests.sh,34.93572291863598,1395126,False,
+##[group]==END_FILE==,29.139975114158016,7002848,False,
+##[group]Run ./scripts/runagenttests.sh__dup_22,24.045651447594583,1426649,True,##[error]Process completed with exit code 2.
+##[group]Run ./scripts/checkcopyrightyear.sh,23.759432438510743,3847708,False,
+##[group]GITHUB_TOKEN Permissions__dup_35,15.988085851196924,1225251,False,
+##[group]Run actions/cache@v3,13.132746377329582,998558,False,
+##[group]Run actions/cache@v3__dup_19,13.099530335660551,574801,False,
+##[group]Fetching the repository__dup_18,12.527498664126274,640203,False,
+##[group]Run ./scripts/runcoretests.sh,11.73539285185017,1000912,False,
+##[group]Run actions/cache@v3__dup_31,11.222778138480932,664050,False,
+##[group]Run ./scripts/runagenttests.sh__dup_34,11.09987736400121,1365244,True,##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions__dup_13,9.34454001328459,3232194,False,
+##[group]Checking out the ref,8.168412515945638,780220,False,
+##[group]Fetching the repository__dup_29,7.688089925491539,466106,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_25,7.505767606922975,448483,False,
+##[group]GITHUB_TOKEN Permissions__dup_23,6.904103955646718,3137126,False,
+##[group]Run actions/checkout@v3,4.201004520212685,154022,False,
+##[group]Run actions/checkout@v3__dup_14,3.634861050096781,172251,False,
+##[group]Run actions/checkout@v3__dup_36,3.078283036631294,179209,False,
+##[group]Setting up auth__dup_28,3.049710845597017,220254,False,
+##[group]Cleaning the repository__dup_26,3.0278321673687896,178049,False,
+##[group]Run actions/checkout@v3__dup_24,2.976781918169592,155541,False,
+##[group]Setting up auth__dup_17,2.2552927481791225,70359,False,
+##[group]Cleaning the repository,2.130189255856056,73446,False,
+##[group]Run ./scripts/runcoretests.sh__dup_20,2.047423403118146,60304,True,##[error]Process completed with exit code 2.
+##[group]Run ./scripts/runapptests.sh__dup_21,2.008614359453781,40665,True,##[error]Process completed with exit code 2.
+##[group]Removing previously created refs_ to avoid conflicts,2.00508576353299,118609,False,
+##[group]Setting up auth,1.9978654118810384,61134,False,
+##[group]Run ./scripts/runapptests.sh__dup_33,1.621486251639847,29168,True,##[error]Process completed with exit code 2.
+##[group]Run ./scripts/runcoretests.sh__dup_32,1.6178398052684757,67018,True,##[error]Process completed with exit code 2.
+##[group]Cleaning the repository__dup_37,1.5736083567682977,65289,False,
+##[group]Run ./scripts/runapptests.sh,1.5666426903780446,31557,False,
+##[group]Checking out the ref__dup_30,1.5485573242124215,116836,False,
+##[group]Disabling automatic garbage collection,1.5193857532414516,79571,False,
+##[group]Checking out the ref__dup_39,1.4558289733053815,35739,False,

@@ -1,0 +1,6 @@
+##[group]Restoring cache, 201.0679106750447, , , , 19360494, False, 
+##[group]Updating tlmgr, 8.5648013952463, , , , 1737300, False, 
+##[group]Updating packages, 10.067996124596323, , , , 1413681, False, 
+##[group]TeX Live version info, 2.5452194381790694, , , , 239705, False, 
+##[group]Run actions/cache@v4, 5.683532060302122, , , , 597000, False, 
+##[group]Run # Clean the test classes to avoid caching issues and prepare testing environment, 5123.126593054342, , , , 384682576, True, [ERROR[m] Failed to parse '/home/power/actions-runner/_work/eo/eo/eo-runtime/src/main/eo/org/eolang/io/stdin.eo:29': Comment must be at least 64 characters long

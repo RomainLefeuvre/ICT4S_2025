@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,116.55250408172073,2088191,False,
+##[group]Fetching the repository,61.74715974600548,447729,False,
+##[group]Run actions/checkout@v4,30.501782710419093,154265,False,
+##[group]Run gradle-update/update-gradle-wrapper-action@v1,19.8371905481056,2425828,False,
+##[group]Cleaning the repository,14.283738219873396,25955,False,
+##[group]Working with Wrapper at: /home/power/actions-runner/_work/testng/testng/gradle/wrapper/gradle-wrapper.properties,7.789982846078738,360416,False,
+Requested labels: self-hosted,0.982287766652428,4142825,False,

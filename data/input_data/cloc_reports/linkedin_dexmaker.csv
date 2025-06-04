@@ -1,0 +1,149 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.07 s (2010.2 files/s 422401.9 lines/s)"
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/jdk/jvmti.h,430,250,1854
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/DexMakerTest.java,299,379,1690
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/stock/ProxyBuilderTest.java,192,51,1022
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/dex_bytecode.cc,26,45,826
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/writer.cc,182,110,817
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/reader.cc,194,91,693
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/stock/ProxyBuilder.java,79,298,617
+C++,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/jni/staticjvmtiagent/agent.cc,141,136,558
+C++,/tmp/clone_directory/dexmaker-mockito-inline/src/main/jni/dexmakerjvmtiagent/agent.cc,144,204,550
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/bytecode_encoder.cc,81,54,503
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/InlineDexmakerMockMaker.java,109,122,483
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/code_ir.cc,111,68,458
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/Code.java,83,400,445
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/DexMaker.java,63,252,358
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/dex_bytecode.h,25,39,357
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/dex_ir.h,90,56,329
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/MockStatic.java,73,39,320
+Java,/tmp/clone_directory/dexmaker-mockito-inline-tests/src/main/java/com/android/dx/mockito/inline/tests/MockNonPublic.java,78,21,305
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/instrumentation.cc,61,78,295
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/code_ir.h,100,36,287
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/AnnotationIdTest.java,67,67,278
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/StaticMockMethodAdvice.java,45,92,240
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/dex_format.h,39,60,212
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/dex_ir.cc,38,75,206
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/MockMethodAdvice.java,33,100,198
+Java,/tmp/clone_directory/dexmaker-mockito-tests/src/main/java/com/android/dx/mockito/tests/GeneralMocking.java,66,17,193
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/AppDataDirGuesserTest.java,25,20,176
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/ExtendedMockito.java,41,229,174
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/writer.h,40,33,171
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/VerifyStatic.java,31,17,169
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/hash_table.h,26,62,155
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/AppDataDirGuesser.java,26,55,155
+Java,/tmp/clone_directory/dexmaker-mockito-inline-tests/src/main/java/com/android/dx/mockito/inline/tests/MockFinal.java,46,32,150
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/dex_ir_builder.cc,40,41,150
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/InlineStaticMockMaker.java,31,55,148
+Java,/tmp/clone_directory/dexmaker-mockito/src/main/java/com/android/dx/mockito/DexmakerMockMaker.java,25,36,145
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/buffer.h,29,30,120
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/AnnotationId.java,26,113,118
+Markdown,/tmp/clone_directory/README.md,31,0,114
+C++,/tmp/clone_directory/dexmaker-mockito-inline-tests/src/main/jni/multiplejvmtiagentsinterferenceagent/agent.cc,28,23,111
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/debuginfo_encoder.cc,21,28,106
+Java,/tmp/clone_directory/dexmaker-mockito-tests/src/main/java/com/android/dx/mockito/tests/BlacklistedApis.java,23,48,103
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/intrusive_list.h,23,18,101
+Bourne Shell,/tmp/clone_directory/gradlew,27,108,99
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/control_flow_graph.cc,13,29,97
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/StaticClassTransformer.java,21,73,96
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/ClassTransformer.java,22,82,95
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/StaticCapableStubber.java,21,90,93
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/reader.h,23,39,90
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/MockMakerMultiplexer.java,22,19,90
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/instrumentation.h,25,53,88
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/MarkerToHandlerMap.java,23,8,87
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/JvmtiAgent.java,25,51,83
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/TypeId.java,28,42,83
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/StaticMockitoSessionBuilder.java,17,58,82
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/dex_leb128.h,13,31,81
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/MethodId.java,16,35,80
+Gradle,/tmp/clone_directory/gradle/publishing_aar.gradle,8,5,76
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/SpyOn.java,23,19,75
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/BinaryOp.java,14,42,73
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/InvocationHandlerAdapter.java,17,59,68
+Markdown,/tmp/clone_directory/CHANGELOG.md,18,0,67
+Java,/tmp/clone_directory/dexmaker-mockito-tests/src/main/java/com/android/dx/mockito/tests/CleanStackTrace.java,13,16,66
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/MockInstanceUsingExtendedMockito.java,18,15,64
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/StaticJvmtiAgent.java,20,44,64
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/dex_format.cc,18,25,64
+Java,/tmp/clone_directory/dexmaker-mockito-inline-dispatcher/src/main/java/com/android/dx/mockito/inline/MockMethodDispatcher.java,12,55,62
+Gradle,/tmp/clone_directory/gradle/publishing.gradle,5,3,62
+Java,/tmp/clone_directory/dexmaker-mockito/src/main/java/com/android/dx/mockito/UnsafeAllocator.java,7,35,61
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/tryblocks_encoder.cc,15,35,59
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/StaticMockitoSession.java,15,44,58
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/Stress.java,17,15,55
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/Label.java,16,21,55
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/StaticMockitoSession.java,13,17,54
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/control_flow_graph.h,23,27,54
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/examples/FibonacciMaker.java,11,15,53
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/bytecode_encoder.h,18,23,47
+Java,/tmp/clone_directory/dexmaker-mockito/src/main/java/com/android/dx/mockito/InvocationHandlerAdapter.java,13,20,47
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/examples/HelloWorldMaker.java,17,40,47
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/Constants.java,4,23,45
+Java,/tmp/clone_directory/dexmaker-mockito-inline-tests/src/main/java/com/android/dx/mockito/inline/tests/MemoryLeaks.java,15,15,44
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/FieldId.java,11,22,44
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/Comparison.java,10,24,43
+Gradle,/tmp/clone_directory/dexmaker-mockito-inline-extended/build.gradle,10,0,39
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/Local.java,10,26,39
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/StaticInOrder.java,11,99,38
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/dex_ir_builder.h,16,32,38
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/TypeList.java,8,21,38
+YAML,/tmp/clone_directory/.github/workflows/deploy-snapshot.yml,5,0,36
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/scopeguard.h,11,29,36
+Java,/tmp/clone_directory/dexmaker-mockito-inline-tests/src/main/java/com/android/dx/mockito/inline/tests/MultipleJvmtiAgentsInterference.java,13,17,35
+Gradle,/tmp/clone_directory/dexmaker-mockito-inline/build.gradle,9,0,35
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/dex_utf8.cc,7,28,35
+Java,/tmp/clone_directory/dexmaker-mockito-tests/src/main/java/com/android/dx/mockito/tests/PartialClasses.java,11,20,34
+Java,/tmp/clone_directory/dexmaker-mockito-tests/src/main/java/com/android/dx/mockito/tests/Stress.java,9,15,32
+YAML,/tmp/clone_directory/.github/workflows/merge-check.yml,5,0,31
+Gradle,/tmp/clone_directory/dexmaker-mockito-inline-tests/build.gradle,7,0,28
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/debuginfo_encoder.h,11,16,28
+Gradle,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/build.gradle,8,0,27
+C++,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/common.cc,9,22,27
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/chronometer.h,10,17,27
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/index_map.h,8,16,27
+CMake,/tmp/clone_directory/dexmaker-mockito-inline-extended/CMakeLists.txt,7,0,26
+CMake,/tmp/clone_directory/dexmaker-mockito-inline-tests/CMakeLists.txt,7,0,26
+CMake,/tmp/clone_directory/dexmaker-mockito-inline/CMakeLists.txt,7,0,26
+YAML,/tmp/clone_directory/.github/workflows/publish-maven-central.yml,3,0,25
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/arrayview.h,14,16,25
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/DexmakerStackTraceCleaner.java,7,22,24
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/memview.h,12,16,22
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/tryblocks_encoder.h,10,16,22
+Gradle,/tmp/clone_directory/dexmaker-mockito-tests/build.gradle,6,0,22
+Gradle,/tmp/clone_directory/dexmaker/build.gradle,7,0,21
+YAML,/tmp/clone_directory/.github/workflows/gradle-wrapper-validation.yml,3,0,20
+Markdown,/tmp/clone_directory/RELEASING.md,4,0,20
+Gradle,/tmp/clone_directory/dexmaker-mockito/build.gradle,7,0,19
+Java,/tmp/clone_directory/dexmaker/src/main/java/com/android/dx/UnaryOp.java,6,20,18
+Gradle,/tmp/clone_directory/build.gradle,2,0,17
+Gradle,/tmp/clone_directory/dexmaker-tests/build.gradle,5,0,17
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/common.h,8,26,14
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/MockFeatures.java,5,4,14
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/TypeIdTest.java,4,15,14
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,9,0,11
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/StaticMockitoSessionVsMockitoJUnitRunner.java,3,15,11
+Gradle,/tmp/clone_directory/dexmaker-mockito-inline-dispatcher/build.gradle,2,0,10
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/StaticMocking.java,4,20,10
+XML,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/AndroidManifest.xml,1,0,8
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended-tests/src/main/java/com/android/dx/mockito/inline/extended/tests/EmptyActivity.java,3,15,8
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/UnstableApi.java,3,20,8
+XML,/tmp/clone_directory/dexmaker-mockito-inline-tests/src/main/AndroidManifest.xml,0,0,6
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/UnmodifiableClassException.java,2,19,6
+Text,/tmp/clone_directory/dexmaker-mockito-inline/src/main/resources/README.txt,1,0,6
+XML,/tmp/clone_directory/dexmaker-mockito-tests/src/main/AndroidManifest.xml,1,0,6
+XML,/tmp/clone_directory/dexmaker-tests/src/main/AndroidManifest.xml,5,12,6
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/MockedMethod.java,2,20,5
+Java,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/java/com/android/dx/mockito/inline/extended/MockedVoidMethod.java,2,18,5
+C/C++ Header,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/export/slicer/dex_utf8.h,6,22,5
+Java,/tmp/clone_directory/dexmaker-tests/src/androidTest/java/com/android/dx/util/TestUtil.java,1,0,5
+Properties,/tmp/clone_directory/gradle.properties,6,10,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Gradle,/tmp/clone_directory/settings.gradle,0,0,5
+XML,/tmp/clone_directory/dexmaker-mockito-inline-dispatcher/src/main/AndroidManifest.xml,0,0,3
+XML,/tmp/clone_directory/dexmaker-mockito-inline/src/main/AndroidManifest.xml,0,0,3
+Java,/tmp/clone_directory/dexmaker-mockito-inline/src/main/java/com/android/dx/mockito/inline/IllegalClassFormatException.java,2,19,3
+XML,/tmp/clone_directory/dexmaker-mockito-inline-extended/src/main/AndroidManifest.xml,0,0,2
+Text,/tmp/clone_directory/dexmaker-mockito-inline/external/jdk/README.txt,0,0,1
+Text,/tmp/clone_directory/dexmaker-mockito-inline/external/slicer/README.txt,0,0,1
+SUM,,4404,6042,20443

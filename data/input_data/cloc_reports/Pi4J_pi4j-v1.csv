@@ -1,0 +1,332 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.14 s (2311.3 files/s 319542.5 lines/s)"
+Maven,/tmp/clone_directory/pom.xml,66,111,904
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/GpioControllerImpl.java,147,156,769
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_Serial.c,136,309,581
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/GpioPinImpl.java,112,62,497
+Maven,/tmp/clone_directory/pi4j-distribution/pom.xml,30,55,490
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_GpioUtil.c,97,212,431
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Gpio.c,48,188,309
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/impl/SerialImpl.java,94,486,291
+Maven,/tmp/clone_directory/pi4j-core/pom.xml,22,24,289
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/i2c/impl/I2CBusImplTest.java,57,51,276
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/impl/RaspiSystemInfoProvider.java,54,158,256
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioProviderBase.java,72,88,235
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/impl/DefaultSystemInfoProvider.java,38,91,229
+Bourne Again Shell,/tmp/clone_directory/pi4j-distribution/src/scripts/pi4j,20,20,229
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/i2c/impl/I2CDeviceImplTest.java,48,50,209
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_GpioInterrupt.c,59,143,208
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/impl/SystemInfoProviderBase.java,54,31,207
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_SerialInterrupt.c,66,143,202
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/Serial.java,85,668,200
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/WiringPiGpioProviderBase.java,55,89,197
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/util/StringUtil.java,47,35,193
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/impl/SerialByteBuffer.java,32,80,186
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/SystemInfo.java,56,30,180
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/impl/I2CBusImpl.java,56,87,172
+Maven,/tmp/clone_directory/pi4j-native/pom.xml,21,29,171
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/temperature/TemperatureConversion.java,43,186,170
+Text,/tmp/clone_directory/LICENSE.txt,32,0,169
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/w1/W1Master.java,32,93,167
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/GpioPinDigitalOutputTests.java,64,77,165
+Markdown,/tmp/clone_directory/BUILD.md,73,0,161
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioOutputAllExample.java,26,65,157
+XML,/tmp/clone_directory/src/site/site.xml,5,2,150
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/util/StringUtilTests.java,34,26,148
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_AnalogInputMonitor.c,49,123,146
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/GpioPinDigitalInputTests.java,48,69,145
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/util/NativeLibraryLoader.java,23,72,143
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/file/LinuxFile.java,54,83,139
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/GpioPinAnalogInputTests.java,43,62,135
+Java,/tmp/clone_directory/pi4j-example/src/main/java/SystemInfoExample.java,15,36,134
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/IFTTTMakerChannelTrigger.java,25,51,129
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/util/Console.java,30,26,124
+Maven,/tmp/clone_directory/pi4j-example/pom.xml,16,18,118
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Gpio.h,30,173,112
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/spi/impl/SpiDeviceImpl.java,37,80,110
+Markdown,/tmp/clone_directory/README.md,30,0,109
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioController.java,28,49,109
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/GpioPinPwmOutputTests.java,35,53,107
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/GpioPinAnalogOutputTests.java,35,53,106
+Velocity Template Language,/tmp/clone_directory/src/site/apt/install.apt.vm,55,0,105
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/RaspiPin.java,21,66,102
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Serial.c,19,89,102
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/GpioScheduledExecutorImpl.java,36,57,101
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/PinImpl.java,23,29,98
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/GpioInterrupt.java,26,122,98
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/w1/W1MasterTest.java,32,29,98
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioTest.java,29,48,95
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/concurrent/DefaultExecutorServiceFactory.java,20,60,94
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/impl/AbstractSerialDataWriter.java,29,164,94
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/util/CommandArgumentParser.java,16,78,92
+make,/tmp/clone_directory/pi4j-native/src/main/native/Makefile,17,8,87
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Gpio.java,89,686,86
+Ant,/tmp/clone_directory/pi4j-native/build.xml,29,36,83
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_io_file_LinuxFile.c,26,70,81
+Bourne Shell,/tmp/clone_directory/pi4j-native/src/main/native/build-wiringpi.sh,21,52,78
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/impl/I2CDeviceImpl.java,23,182,77
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialDataEvent.java,20,122,76
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_GpioPin.c,24,140,75
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Spi.c,26,73,75
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/wdt/impl/WDTimerImpl.java,16,80,73
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/PinProvider.java,18,41,71
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/I2CConstants.java,15,44,70
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/platform/Platform.java,17,66,70
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiSPIExample.java,20,55,70
+Java,/tmp/clone_directory/pi4j-example/src/main/java/ComputeModuleGpioExample.java,12,51,68
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/concurrent/ShutdownDisabledExecutorWrapper.java,17,29,67
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioOutputExample.java,31,73,67
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioInputPollingAllExample.java,18,62,65
+Arduino Sketch,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/hardware/i2c/I2CHardwareTest.ino,25,56,64
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/RCMPin.java,8,53,63
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/trigger/test/GpioToggleStateTriggerTests.java,33,57,63
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/hardware/i2c/I2CHardwareTest.java,17,59,62
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioListenAllExample.java,20,67,62
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Lcd.c,12,77,62
+XML,/tmp/clone_directory/src/site/fml/faq.fml,13,0,62
+Java,/tmp/clone_directory/pi4j-example/src/main/java/SerialExample.java,29,85,60
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/trigger/test/GpioCallbackTriggerTests.java,26,45,58
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/trigger/test/GpioSetStateTriggerTests.java,19,36,57
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/serial.apt.vm,33,0,56
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/SystemInfoProvider.java,3,30,55
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/temperature/test/TemperatureConversionTests.java,25,38,55
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioProviderPinCache.java,17,32,54
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioInputAllExample.java,14,58,54
+Java,/tmp/clone_directory/pi4j-example/src/main/java/I2CExample.java,20,80,54
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/PinMode.java,15,32,53
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/I2CFactory.java,15,67,53
+Java,/tmp/clone_directory/pi4j-example/src/main/java/UsageGpioExample.java,22,74,52
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_Serial.h,22,133,52
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/GpioEventMonitorImpl.java,12,34,51
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/util/ConsoleColor.java,12,26,51
+Java,/tmp/clone_directory/pi4j-example/src/main/java/SerialBufferedDataExample.java,18,78,50
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/PinState.java,16,32,49
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/impl/AbstractSerialDataReaderWriter.java,19,140,49
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/file/test/LinuxFileIntegrationTest.java,19,36,49
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/trigger/test/GpioInverseSyncStateTriggerTests.java,22,38,49
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/trigger/test/GpioSyncStateTriggerTests.java,22,38,49
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/hardware/spi/SpiHardwareTest.java,19,56,49
+Bourne Shell,/tmp/clone_directory/pi4j-native/src/main/native/build.sh,8,44,49
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/impl/AbstractSerialDataReader.java,20,140,48
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/tasks/impl/GpioEventDispatchTaskImpl.java,14,34,47
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiGpioExample.java,14,33,47
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/RaspiBcmPin.java,9,42,46
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/util/ExecUtil.java,12,34,46
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/trigger/test/GpioPulseStateTriggerTests.java,18,36,46
+Java,/tmp/clone_directory/pi4j-example/src/main/java/IFTTTMakerChannelTriggerExample.java,20,90,46
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiLcdExample.java,15,35,46
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_GpioUtil.h,11,78,46
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialPort.java,10,80,45
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/control.apt.vm,37,0,45
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/trigger.apt.vm,37,0,45
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPin.java,14,32,44
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/Serial.java,41,375,44
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/GpioEventMonitorExecutorImpl.java,11,37,43
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/impl/GpioPinShutdownImpl.java,12,26,43
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiGpioInterruptExample.java,13,34,43
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_Loader.c,16,50,43
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_WDT.c,7,56,43
+Arduino Sketch,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/hardware/spi/SpiHardwareTest.ino,17,48,42
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioListenExample.java,15,64,42
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiGpioInterruptExample2.java,17,47,42
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/system-info.apt.vm,23,0,42
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/w1/W1BaseDevice.java,14,31,41
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/NetworkInterface.java,10,26,41
+Java,/tmp/clone_directory/pi4j-example/src/main/java/SpiExample.java,18,71,41
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/listener.apt.vm,33,0,41
+JSON,/tmp/clone_directory/src/site/resources/manifest.json,0,0,41
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinDigitalOutput.java,7,32,40
+Bourne Shell,/tmp/clone_directory/pi4j-native/src/main/native/install-prerequisites.sh,7,36,40
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/shutdown.apt.vm,32,0,40
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioTriggerBase.java,14,26,39
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/AnalogInputMonitor.java,18,111,39
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioInputPollingExample.java,15,64,39
+Java,/tmp/clone_directory/pi4j-example/src/main/java/TriggerGpioExample.java,19,46,39
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioFactory.java,15,96,38
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/SerialInterrupt.java,18,109,38
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_I2C.c,8,62,38
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/PinEdge.java,12,32,36
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioBlinkStopStateTrigger.java,12,26,36
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/Baud.java,9,26,36
+Bourne Shell,/tmp/clone_directory/pi4j-example/src/main/java/build,13,40,36
+HTML,/tmp/clone_directory/src/site/root/index.html,5,1,36
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioCallbackTrigger.java,11,26,35
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioToggleStateTrigger.java,12,26,35
+Java,/tmp/clone_directory/pi4j-example/src/main/java/BlinkGpioExample.java,17,46,35
+Java,/tmp/clone_directory/pi4j-example/src/main/java/BroadcomPinNumberingGpioListenerExample.java,16,47,35
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_Exception.c,12,27,35
+SVG,/tmp/clone_directory/src/site/resources/safari-pinned-tab.svg,0,0,35
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/PinDirection.java,11,32,34
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/IFTTTMakerChannelTriggerEvent.java,18,77,34
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioSetStateTrigger.java,11,26,34
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/NetworkInfo.java,14,82,34
+Java,/tmp/clone_directory/pi4j-example/src/main/java/GpioInputExample.java,14,63,34
+Java,/tmp/clone_directory/pi4j-example/src/main/java/ListenMultipleGpioExample.java,14,43,34
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Nes.h,3,38,34
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialFactory.java,15,86,33
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/platform/PlatformManager.java,12,79,33
+Java,/tmp/clone_directory/pi4j-example/src/main/java/NonPrivilegedGpioExample.java,21,62,33
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/temperature/TemperatureScale.java,11,26,32
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Serial.java,22,242,32
+Bourne Again Shell,/tmp/clone_directory/pi4j-distribution/src/scripts/install,5,10,32
+Java,/tmp/clone_directory/pi4j-example/src/main/java/CylonGpioExample.java,14,41,32
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Serial.h,12,83,32
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioBlinkStateTrigger.java,10,26,31
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioPulseStateTrigger.java,10,26,31
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialConfig.java,18,65,31
+Java,/tmp/clone_directory/pi4j-example/src/main/java/SoftPwmExample.java,17,66,31
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/tasks/impl/GpioPulseTaskImpl.java,10,27,30
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioInverseSyncStateTrigger.java,9,26,30
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Spi.java,19,226,30
+Java,/tmp/clone_directory/pi4j-example/src/main/java/MultipurposePinGpioExample.java,12,45,30
+Java,/tmp/clone_directory/pi4j-example/src/main/java/PwmExample.java,18,59,30
+Bourne Shell,/tmp/clone_directory/pi4j-native/src/main/native/build-libpi4j.sh,5,35,30
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Lcd.h,11,78,30
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/file/test/LinuxFileManualTest.java,17,47,29
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/concurrent/SingleThreadGpioExecutorServiceFactory.java,10,32,28
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/RaspiGpioProvider.java,7,45,28
+Java,/tmp/clone_directory/pi4j-example/src/main/java/ControlGpioExample.java,19,43,28
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioProvider.java,13,32,27
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/OutputTargetedGpioTrigger.java,10,26,27
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialDataWriter.java,25,161,27
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/GpioUtil.java,23,265,27
+YAML,/tmp/clone_directory/.github/workflows/crosscompiling.yml,2,0,26
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/concurrent/ScheduledExecutorServiceWrapper.java,10,34,26
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/PinPullResistance.java,10,32,26
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/SimulatedGpioProvider.java,15,57,26
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioSyncStateTrigger.java,9,26,26
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/w1/W1DummyDeviceType.java,13,29,26
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Gertboard.h,5,48,26
+Text,/tmp/clone_directory/NOTICE.txt,8,0,25
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/I2CBus.java,7,46,25
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/MockPin.java,10,26,25
+Java,/tmp/clone_directory/pi4j-example/src/main/java/BroadcomPinNumberingGpioExample.java,19,45,25
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_SoftTone.c,4,42,25
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/impl/I2CProviderImpl.java,10,26,24
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialDataReader.java,19,140,24
+Java,/tmp/clone_directory/pi4j-example/src/main/java/BlinkTriggerGpioExample.java,14,42,24
+Java,/tmp/clone_directory/pi4j-example/src/main/java/DebounceGpioExample.java,15,61,24
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WDTExample.java,10,33,24
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_io_file_LinuxFile.h,9,63,24
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_I2C.h,8,63,24
+Velocity Template Language,/tmp/clone_directory/src/site/apt/example/more.apt.vm,19,0,24
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/tasks/impl/GpioEventDebounceTaskImpl.java,8,30,23
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Lcd.java,19,228,23
+XML,/tmp/clone_directory/pi4j-distribution/.project,0,0,23
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Gertboard.c,7,47,23
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/DataBits.java,8,26,22
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/tasks/SerialDataEventDispatchTaskImpl.java,10,28,22
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/spi/SpiChannel.java,8,26,22
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/spi/SpiMode.java,7,26,22
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/system/SystemInfoFactory.java,9,66,22
+Java,/tmp/clone_directory/pi4j-example/src/main/java/ShutdownGpioExample.java,14,41,22
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_WDT.h,7,58,22
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_GpioPin.h,13,117,22
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Spi.h,7,58,22
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinAnalogInput.java,7,32,21
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/SerialInterruptEvent.java,10,55,21
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/GpioInterruptEvent.java,9,63,21
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Nes.java,9,66,21
+Java,/tmp/clone_directory/pi4j-example/src/main/java/ListenGpioExample.java,14,43,21
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiSerialExample.java,9,31,21
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/GpioPinDigitalStateChangeEvent.java,9,50,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/GpioPinEvent.java,9,37,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/PinDigitalStateChangeEvent.java,11,50,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/PinProviderException.java,7,32,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/UnsupportedPinModeException.java,8,32,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/UnsupportedPinPullResistanceException.java,8,32,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/I2CDevice.java,18,148,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/StopBits.java,7,26,20
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/MockGpioProvider.java,11,30,20
+Bourne Again Shell,/tmp/clone_directory/pi4j-distribution/src/scripts/uninstall,7,10,20
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/PinEvent.java,10,43,19
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/spi/SpiFactory.java,10,84,19
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiPinAltExample.java,8,29,19
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_SoftPwm.c,4,42,19
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/tasks/impl/GpioBlinkStopTaskImpl.java,9,28,18
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/Parity.java,9,28,18
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/spi/SpiDevice.java,15,106,18
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/AnalogInputEvent.java,8,62,18
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/I2C.java,14,162,18
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Shift.h,3,38,18
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Gertboard.java,12,121,17
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/impl/GpioControllerImplTest.java,4,30,17
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/gpio/test/MockGpioFactory.java,9,60,17
+Java,/tmp/clone_directory/pi4j-example/src/main/java/WiringPiSoftPWMExample.java,8,33,17
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_GpioInterrupt.h,7,49,17
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/FlowControl.java,8,26,16
+Bourne Again Shell,/tmp/clone_directory/pi4j-distribution/src/deb/control/postinst,4,2,16
+Java,/tmp/clone_directory/pi4j-example/src/main/java/FrequencyGpioExample.java,11,41,16
+Bourne Shell,/tmp/clone_directory/pi4j-native/src/main/native/build-docker.sh,3,34,16
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_AnalogInputMonitor.h,6,46,16
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_SerialInterrupt.h,6,46,16
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_SoftPwm.h,4,43,16
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_SoftTone.h,4,43,16
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/WDT.java,14,31,15
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/io/file/test/ExposedLinuxFile.java,7,47,15
+Bourne Again Shell,/tmp/clone_directory/pi4j-distribution/src/deb/control/postrm,2,0,15
+Bourne Again Shell,/tmp/clone_directory/pi4j-example/src/main/java/run,7,34,15
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/Pin.java,5,32,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/GpioPinExistsException.java,8,32,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/GpioPinNotProvisionedException.java,9,32,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/InvalidPinException.java,8,32,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/InvalidPinModeException.java,6,32,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/UnsupportedPinEventsException.java,7,32,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialPortException.java,9,63,14
+XML,/tmp/clone_directory/pi4j-distribution/.classpath,0,0,14
+XML,/tmp/clone_directory/pi4j-distribution/src/assembly/distribution.xml,0,0,14
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Shift.c,3,37,14
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/concurrent/ExecutorServiceFactory.java,5,26,13
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinInput.java,7,33,13
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/GpioPinAnalogValueChangeEvent.java,7,44,13
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/PinAnalogValueChangeEvent.java,7,44,13
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/Shift.java,9,92,13
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_Exception.h,3,28,13
+C,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_wiringpi_Nes.c,3,37,13
+Bourne Shell,/tmp/clone_directory/build-docker.sh,2,34,12
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinShutdown.java,4,32,12
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/SoftPwm.java,9,124,12
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/SoftTone.java,9,103,12
+XML,/tmp/clone_directory/src/site/resources/browserconfig.xml,0,0,12
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/ValidationException.java,4,29,11
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/tasks/impl/GpioBlinkTaskImpl.java,7,26,11
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/trigger/GpioTrigger.java,9,26,11
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/exception/UnsupportedBoardType.java,6,32,10
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/w1/W1Device.java,9,48,10
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/wdt/WDTimer.java,9,31,10
+C/C++ Header,/tmp/clone_directory/pi4j-native/src/main/native/com_pi4j_jni_Loader.h,2,28,10
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinDigital.java,4,33,8
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinDigitalInput.java,6,55,8
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/i2c/I2CFactoryProvider.java,5,26,8
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/w1/W1MasterWatcher.java,4,30,8
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/platform/PlatformAlreadyAssignedException.java,4,41,8
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/w1/W1DeviceType.java,7,48,7
+Freemarker Template,/tmp/clone_directory/src/license/template.ftl,1,0,7
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinAnalogOutput.java,3,32,6
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinPwmOutput.java,4,46,6
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/RaspberryPiSerial.java,4,31,6
+Bourne Shell,/tmp/clone_directory/pi4j-distribution/src/deb/control/preinst,4,2,6
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinPwm.java,4,39,5
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/RaspiPinNumberingScheme.java,5,32,5
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/IFTTTMakerChannelTriggerListener.java,4,41,5
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/PinEventType.java,5,32,5
+INI,/tmp/clone_directory/pi4j-distribution/.settings/org.eclipse.jdt.core.prefs,0,0,5
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinAnalog.java,5,33,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinDigitalMultipurpose.java,4,33,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/GpioPinOutput.java,2,32,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/GpioPinListenerAnalog.java,6,45,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/GpioPinListenerDigital.java,6,45,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/PinListener.java,4,47,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/serial/SerialDataEventListener.java,4,55,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/AnalogInputListener.java,3,33,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/jni/SerialInterruptListener.java,3,33,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/GpioInterruptCallback.java,3,26,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/wiringpi/GpioInterruptListener.java,3,45,4
+INI,/tmp/clone_directory/pi4j-distribution/.settings/org.eclipse.m2e.core.prefs,0,0,4
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/file/FileException.java,2,29,3
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/gpio/event/GpioPinListener.java,4,45,3
+Java,/tmp/clone_directory/pi4j-core/src/test/java/com/pi4j/IntegrationTests.java,2,27,3
+INI,/tmp/clone_directory/pi4j-distribution/.settings/org.eclipse.core.resources.prefs,0,0,2
+Bourne Again Shell,/tmp/clone_directory/pi4j-distribution/src/scripts/deb-s3,0,0,2
+Java,/tmp/clone_directory/pi4j-core/src/main/java/com/pi4j/io/w1/package-info.java,1,31,1
+Bourne Shell,/tmp/clone_directory/pi4j-distribution/src/deb/control/prerm,0,0,1
+SUM,,5863,19469,20291

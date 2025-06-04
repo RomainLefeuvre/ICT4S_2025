@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,11775.603917616769,7730765529,False,
+##[group]==END_FILE==__dup_11,10549.092080497616,7404801311,False,
+##[group]Run lein test-ci,1157.291557541054,299793267,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,64.03521193864026,4390135,False,
+##[group]Fetching the repository,45.362987147677416,415533,False,
+##[group]Run DeLaGuardo/setup-clojure@12.5,19.42050822744183,2330832,False,
+##[group]Run actions/checkout@v4,11.829511987188916,164904,False,
+##[group]Setting up auth,11.612283009291335,62079,False,
+##[group]Run actions/cache@v4,7.649927789430069,608994,False,
+##[group]Installed distributions,5.084239865724438,12313835,False,
+Requested labels: self-hosted,0.1008277737355593,4746990,False,

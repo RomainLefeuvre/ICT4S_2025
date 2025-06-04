@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 33.39939042226895, , , , 18726373, False, 
+##[group]GITHUB_TOKEN Permissions, 9.96120588479206, , , , 1420573, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 0.8570638858153894, , , , 164128, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 18.04703518033565, , , , 1740821, False, 
+##[group]Cleaning the repository, 39.51701742856047, , , , 2926569, False, 
+##[group]Setting up auth, 1.5924702677546585, , , , 81291, False, 
+##[group]Fetching the repository, 8.805004484745371, , , , 1271587, False, 
+##[group]Checking out the ref, 1.711726031318722, , , , 74021, False, 
+##[group]Run current_version=$(grep -Po "val otelSdkVersion = \\"\\K[0-9]+.[0-9]+.[0-9]+" \\, 6.682654573173712, , , , 378002, True, ##[error]Process completed with exit code 127.

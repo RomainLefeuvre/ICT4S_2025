@@ -1,0 +1,11 @@
+##[group]Run pip3 install 'git+https://github.com/logicalclocks/feature-store-api@master#egg=hsfs[docs]&subdirectory=python', 2160.840657979566, , , , 211398742, False, 
+##[group]Fetching the repository, 359.72668360914355, , , , 24094147, False, 
+##[group]Run mike deploy 3.8.0-SNAPSHOT dev -u --push, 113.87624000860556, , , , 9939771, True, ##[error]Process completed with exit code 5.
+##[group]GITHUB_TOKEN Permissions, 91.14392591636276, , , , 2033865, False, 
+##[group]Run actions/checkout@v2, 15.302391682620154, , , , 216322, False, 
+##[group]Run git config --global user.name Mike, 9.567504661767424, , , , 815463, False, 
+##[group]Setting up auth, 6.475908136647582, , , , 64126, False, 
+##[group]Checking out the ref, 3.970691639968648, , , , 439992, False, 
+##[group]Run actions/setup-python@v2, 2.060001726636424, , , , 190627, False, 
+##[section]Starting: Prepare job publish-master, 0.0, , , , 1675, False, 
+##[group]==END_FILE==, 0.0, , , , 5350204, False, 

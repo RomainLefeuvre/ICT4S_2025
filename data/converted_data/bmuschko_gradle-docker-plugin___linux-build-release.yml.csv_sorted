@@ -1,0 +1,18 @@
+##[group]GITHUB_TOKEN Permissions, 99.73475780765926, , , , 4206852, False, 
+##[group]Fetching the repository, 6.93451084766733, , , , 436035, False, 
+##[group]Run docker run -d -p 5000:5000 --restart=always --name registry registry:2, 6.366531615022158, , , , 12614176, False, 
+##[group]Run actions/checkout@v4, 3.911045527087418, , , , 140660, False, 
+##[group]Run actions/upload-artifact@v3__dup_18, 2.301339515513157, , , , 864534, False, 
+##[group]Disabling automatic garbage collection, 1.87231211918363, , , , 3128, False, 
+##[group]Checking out the ref, 1.594943304650035, , , , 17841, False, 
+##[group]Run gradle/gradle-build-action@v2, 0.4744251641178925, , , , 321501, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'
+##[group]Run actions/upload-artifact@v3__dup_17, 0.2231835008659256, , , , 81112, False, 
+##[group]Run actions/upload-artifact@v3, 0.2166793229165961, , , , 82545, False, 
+##[group]Run ./gradlew assemble javadoc asciidoctorAllGuides, 0.2101751449672667, , , , 105659, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+##[group]Run ./gradlew docTest, 0.2036709670179371, , , , 96222, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+##[group]Run ./gradlew functionalTest, 0.1971667890686077, , , , 95074, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+##[group]Run ./gradlew integrationTest, 0.1906626111192782, , , , 96606, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+##[group]Run ./gradlew test, 0.1841584331699487, , , , 100490, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+##[group]Run ./gradlew validatePlugins, 0.1776542552206192, , , , 97861, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+##[group]Run ./gradlew classes, 0.1711500772712897, , , , 98217, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck
+Requested labels: self-hosted, 0.0643133088469957, , , , 4013855, False, 

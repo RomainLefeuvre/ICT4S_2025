@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 72.88530594089258, , , , 5986574, False, 
+##[group]Build container for action use: '/home/runner/work/_actions/micnncim/action-label-syncer/3abd5ab72fda571e69fffd97bd4e0033dd5f495c/Dockerfile'., 35.949405097214566, , , , 16411419, False, 
+##[group]Run micnncim/action-label-syncer@3abd5ab72fda571e69fffd97bd4e0033dd5f495c, 3.03578475819131, , , , 1636318, False, 
+##[group]Fetching the repository, 0.6924657653269791, , , , 412706, False, 
+##[group]Checking out the ref, 0.3238735528982341, , , , 202408, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 0.2300990593633491, , , , 161127, False, 
+##[group]GITHUB_TOKEN Permissions, 0.0634937073606723, , , , 788355, False, 

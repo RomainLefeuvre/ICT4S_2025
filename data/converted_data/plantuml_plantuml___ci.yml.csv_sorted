@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 118.5366505025736, , , , 23007392, False, 
+##[group]GITHUB_TOKEN Permissions, 57.28483070578887, , , , 3761159, False, 
+##[group]Installed distributions, 23.25498481763745, , , , 1034770, False, 
+##[group]Run actions/cache/save@v4, 12.508386864730408, , , , 730881, False, 
+##[group]Fetching the repository, 10.435694027291152, , , , 474281, False, 
+##[group]Run echo "print gradle.properties", 2.4602235161972965, , , , 51914, True, ##[error]Process completed with exit code 127.
+##[group]Checking out the ref, 2.149319590581408, , , , 29183, False, 
+##[group]Cleaning the repository, 2.024958020335053, , , , 33440, False, 
+##[group]Getting Git version info, 2.00423109196066, , , , 9367, False, 
+##[group]Run actions/checkout@v4, 1.9835041635862671, , , , 174738, False, 

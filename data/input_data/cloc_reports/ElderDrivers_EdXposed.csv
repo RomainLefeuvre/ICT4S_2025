@@ -1,0 +1,849 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.51 s (1646.3 files/s 312999.3 lines/s)"
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/StringUtils.java,292,4190,2100
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/ArrayUtils.java,246,3505,2046
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dexer/Main.java,286,406,1282
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/Rops.java,289,699,1143
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/android/content/res/XResources.java,156,459,1134
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/XposedHelpers.java,151,526,1048
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/BytecodeArray.java,82,335,1022
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/OpcodeInfo.java,252,67,976
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/Dops.java,241,59,961
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/InstructionCodec.java,133,54,925
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/Ropper.java,239,658,904
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/merge/DexMerger.java,186,126,889
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_elf.c,130,63,849
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/ToStringStyle.java,267,1208,796
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/hookstub/MethodHookerStubs64.java,504,254,757
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/hookstub/MethodHookerStubs32.java,470,237,706
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/FirstFitLocalCombiningAllocator.java,179,394,686
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/tree.h,40,66,662
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/Dex.java,93,74,652
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/Simulator.java,75,242,638
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/StdAttributeFactory.java,116,117,628
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/RopperMachine.java,93,313,626
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/stock/ProxyBuilder.java,79,298,617
+Markdown,/tmp/clone_directory/LICENSE.md,121,0,553
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/methodgen/HookerDexMaker.java,81,98,525
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ByteOps.java,48,86,516
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/EscapeAnalysis.java,66,265,515
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_core.c,90,66,500
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/DebugInfoEncoder.java,144,290,498
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SCCP.java,60,127,493
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/ClassUtils.java,74,571,490
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/RopTranslator.java,124,309,480
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/sandhook.cpp,83,4,480
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/OutputFinisher.java,99,366,473
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SsaBasicBlock.java,152,395,464
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/Code.java,84,400,452
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/app/ContextImpl.java,105,0,445
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/LocalList.java,132,371,444
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SsaMethod.java,129,294,434
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/EqualsBuilder.java,48,477,420
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/CompareToBuilder.java,38,563,419
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/XSharedPreferences.java,46,95,417
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/XposedInit.java,55,48,415
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/type/Type.java,134,372,407
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/wrapper/HookWrapper.java,34,2,407
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/DexMaker.java,70,251,403
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/edxp_context.cpp,40,11,392
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/XposedBridge.java,75,156,384
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/logging.cpp,0,42,381
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/ByteArrayAnnotatedOutput.java,94,190,371
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/file.cpp,0,61,366
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/DexFile.java,96,344,365
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/AxmlWriter.java,56,26,360
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/DebugInfoDecoder.java,96,142,359
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/queue.h,82,126,346
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/DirectClassFile.java,83,261,344
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/hookstub/HookStubManager.java,70,10,343
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/cst/ConstantPoolParser.java,32,77,341
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/SandHook.java,71,8,335
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/wrapper/StubMethodsFactory.java,7,0,333
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/ArscWriter.java,47,25,328
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/merge/IndexMap.java,42,29,318
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/BaseMachine.java,87,209,299
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/RegisterSpec.java,87,301,298
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/cf/CfTranslator.java,50,97,295
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/AnnotationParser.java,69,112,289
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/config_manager.cpp,19,65,287
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/RopToDop.java,36,279,284
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/HashCodeBuilder.java,48,632,281
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ValueEncoder.java,55,113,279
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/LocalsArraySet.java,78,106,277
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SsaRenamer.java,95,299,273
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/ToStringBuilder.java,90,717,272
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/trampoline/trampoline_manager.cpp,49,8,267
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/logging.h,0,164,265
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/methodgen/HookerDexMakerNew.java,38,15,261
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/InsnFormat.java,81,330,257
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/cf/AttributeTranslator.java,56,132,255
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/utils/hide_api.cpp,58,16,254
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/BasicBlocker.java,48,165,252
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/Opcodes.java,17,84,252
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/Validate.java,60,767,243
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/casts/cast_art_method.cpp,42,6,242
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/DecodedInstruction.java,91,156,241
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/utils/DexMakerUtils.java,17,3,234
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/dexmaker/HookerDexMaker.java,29,27,233
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/reflect/MethodUtils.java,21,286,230
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/BlockDumper.java,48,68,228
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/RegisterSpecList.java,68,146,227
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ClassDataItem.java,63,137,225
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/AnnotationsDirectoryItem.java,53,113,223
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstString.java,35,122,220
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/ConstCollector.java,63,117,220
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/dexmaker/DexMakerUtils.java,15,3,216
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/EncodedValueReader.java,32,60,215
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/IntList.java,79,160,214
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/utils/dlfcn_nougat.cpp,52,31,213
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/type/Prototype.java,64,147,210
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/customize.sh,45,10,209
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/SsaToRop.java,65,111,208
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/ObjectUtils.java,30,373,206
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/RegisterSpecSet.java,63,128,205
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/yahfa/src/HookMain.c,34,13,205
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ClassDefItem.java,49,158,204
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MixedItemSection.java,56,103,203
+Java,/tmp/clone_directory/edxp-service/src/main/java/com/elderdrivers/riru/edxp/service/PackageReceiver.java,26,4,201
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/TableOfContents.java,26,21,199
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/PhiInsn.java,54,151,198
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/BasicBlockList.java,58,153,197
+Gradle,/tmp/clone_directory/edxp-core/build.gradle,22,1,195
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/unique_fd.h,0,49,195
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/type/StdTypeList.java,70,148,192
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/CodeObserver.java,43,82,187
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/base/object.h,54,1,185
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/CodeItem.java,48,96,183
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/Rop.java,55,169,183
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/AxmlParser.java,37,55,182
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/trampoline.h,43,7,181
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/DalvInsn.java,58,250,179
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/Insn.java,64,233,179
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/Frame.java,55,183,177
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ValueAwareMachine.java,6,27,177
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/ArscParser.java,29,111,177
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SsaConverter.java,61,167,175
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/annotool/AnnotationLister.java,44,67,174
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/DexCreator.java,32,31,172
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/StdCatchBuilder.java,47,102,169
+Text,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/LICENSE.txt,33,0,169
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/AccessFlags.java,51,190,165
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/ReflectionToStringBuilder.java,36,492,163
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/CatchStructs.java,47,106,161
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/findusages/FindUsages.java,23,29,159
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/Hex.java,39,105,159
+Bourne Shell,/tmp/clone_directory/edxp-core/misc/EdXposedUninstaller/META-INF/com/google/android/update-binary,25,10,159
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/android/app/AndroidAppHelper.java,26,39,158
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/ByteArray.java,44,163,157
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/AppDataDirGuesser.java,26,55,155
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/Dominators.java,39,94,153
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/Merger.java,30,124,151
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/LivenessAnalyzer.java,44,94,151
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/art/art_method.cpp,35,11,151
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/OneLocalsArray.java,42,65,150
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/DalvInsnList.java,33,103,150
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/content/res/Resources.java,49,5,150
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstType.java,51,99,149
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/framework/androidfw/ResourceTypes.h,36,79,149
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ExecutionStack.java,48,147,148
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/LocalVariableList.java,46,180,147
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/RegOps.java,65,207,145
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/InvokePolymorphicInsn.java,26,70,143
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/ClassLoaderUtils.java,13,2,143
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/resource_hook.cpp,26,7,143
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/SystemUtils.java,98,1202,143
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/utils/elf_util.cpp,21,9,141
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/SandHookMethodResolver.java,20,8,139
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/SwitchData.java,40,80,138
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/post-fs-data.sh,23,17,138
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/AnnotationUtils.java,39,95,135
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/DeadCodeRemover.java,44,92,135
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/ClassPathOpener.java,38,120,134
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/services/BinderService.java,25,8,133
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MapItem.java,36,66,132
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/multidex/MainDexListBuilder.java,18,44,132
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ByteCatchList.java,41,145,131
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/BaseDumper.java,40,116,131
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/NormalSsaInsn.java,37,74,131
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/StringItems.java,15,17,131
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/ArrayData.java,28,43,130
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/FixedSizeList.java,38,109,130
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/Optimizer.java,49,78,129
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/class_linker.h,24,14,129
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/main.cpp,17,2,129
+Bourne Shell,/tmp/clone_directory/gradlew,21,22,129
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form45cc.java,30,65,127
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/utils/utils.cpp,13,3,127
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/Main.java,12,40,126
+Python,/tmp/clone_directory/edxp-sandhook/genhookstubs.py,37,33,126
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/TwoColumnOutput.java,35,94,125
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/methodgen/SandHookXposedBridge.java,21,8,125
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/OffsettedItem.java,44,147,124
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/annotation/Annotation.java,38,64,124
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/CharUtils.java,30,385,124
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/MemberListParser.java,29,89,122
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/MultiCstInsn.java,31,101,122
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ConcreteMethod.java,34,105,121
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form35c.java,28,64,120
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/impl/HandleBindApp.java,13,2,120
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/JNIHelper.h,34,0,120
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/CatchHandlerList.java,35,88,118
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/multidex/ClassReferenceListBuilder.java,19,30,118
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/AnnotationId.java,26,113,118
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/SsaDumper.java,24,37,117
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/LiteralOpUpgrader.java,26,66,117
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/utils/ParamWrapper.java,12,0,117
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/BasicBlock.java,33,135,115
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/DotDumper.java,29,32,113
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/EncodedMethod.java,28,57,113
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/config_manager.h,48,3,111
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/CstInsn.java,35,91,110
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/AnnotationItem.java,34,78,110
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/merge/InstructionTransformer.java,17,15,109
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/DomFront.java,36,56,108
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/Axml.java,19,15,108
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/UniformListItem.java,29,78,107
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/annotation/Annotations.java,35,72,107
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/Section.java,38,142,106
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/com/elderdrivers/riru/edxp/util/MetaDataReader.java,14,0,106
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstMethodHandle.java,23,77,105
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/trampoline/trampoline.cpp,28,12,104
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/TypeIdsSection.java,35,60,102
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/LocalVariableInfo.java,33,118,102
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstBaseMethodRef.java,16,99,101
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/yahfa/src/trampoline.c,18,21,101
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/inst/insts_arm32.cpp,28,5,101
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/PhiTypeResolver.java,36,63,100
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/ShortArrayCodeOutput.java,19,39,99
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/Bits.java,26,111,99
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form21c.java,19,35,98
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/DexIndexPrinter.java,13,18,98
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstInvokeDynamic.java,29,97,98
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/LocalVariableInfo.java,33,119,98
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/LocalVariableExtractor.java,33,78,96
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/parseint.h,0,26,96
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form12x.java,20,46,95
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ClassDefsSection.java,32,59,95
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/DebugInfoItem.java,28,70,95
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/utils/FileUtils.java,17,7,95
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/annotool/Main.java,27,26,94
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/Statistics.java,34,66,94
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/Unsafe.java,17,15,94
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/grep/Grep.java,18,20,93
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/CatchTable.java,27,73,93
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/BitIntSet.java,23,38,93
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/IndentingWriter.java,24,52,93
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/MethodHandle.java,17,23,92
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SsaInsn.java,36,165,92
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/HexParser.java,17,36,92
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/utils/Unsafe.java,17,15,92
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/Main.java,11,32,91
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/RopMethod.java,28,87,91
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/cast.h,29,3,91
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ParameterAnnotationStruct.java,27,48,90
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/PlainInsn.java,22,45,90
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/multidex/Path.java,12,16,90
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/rirud_socket.cpp,14,3,90
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/proxy/BaseRouter.java,14,2,89
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/EncodedValueCodec.java,20,79,88
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form31c.java,18,35,88
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ProtoIdItem.java,26,45,88
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/ListIntSet.java,22,31,88
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/edxp_context.h,36,0,88
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/MethodHooker.java,18,7,88
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/services/DirectAccessService.java,14,11,88
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/IdenticalBlockCombiner.java,29,61,87
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/riru_hook.cpp,20,17,87
+Assembly,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/trampoline/arch/arm32.S,15,22,87
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/StringIdsSection.java,30,66,85
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/LocalVariableExtractor.java,31,75,85
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/mutable/MutableInt.java,26,162,85
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/DumpAdapter.java,11,20,85
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/Code.java,21,19,84
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/EncodedField.java,22,51,84
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/gc/heap.h,12,3,84
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/XposedCompat.java,19,2,84
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/AttributeListParser.java,25,56,83
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/MoveParamCombiner.java,26,50,83
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/LabeledList.java,30,74,83
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/TypeId.java,28,42,83
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/inst.h,18,21,83
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/PositionList.java,27,83,82
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/SwitchList.java,26,86,81
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/trampoline_manager.h,29,5,81
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/XCallback.java,25,48,81
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/cf/OptimizerOptions.java,27,71,80
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/AnnotationSetItem.java,26,53,80
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ProtoIdsSection.java,27,48,80
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/RegisterAllocator.java,30,85,80
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/MethodId.java,16,35,80
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_util.c,18,23,80
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/merge/SortableType.java,13,25,79
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/native_hook.cpp,9,4,79
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/reflect/MemberUtils.java,13,93,79
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/DalvCode.java,26,127,78
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/CodeReader.java,20,39,78
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstArray.java,22,60,78
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_config_manager.cpp,18,4,78
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/hookstub/HookMethodEntity.java,15,0,78
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/utils/ArtDexOptimizer.java,9,14,78
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/yahfa/HookMain.java,12,3,77
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/FirstFitAllocator.java,28,45,76
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_pending_hooks.cpp,13,1,76
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/cf/CodeStatistics.java,24,65,75
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/StdConstantPool.java,21,57,75
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/strings.cpp,0,21,75
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/dexmaker/MethodInfo.java,9,0,75
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/XC_MethodHook.java,25,68,75
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/Mutf8.java,7,34,74
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/HighRegisterPrefix.java,25,47,74
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/LineNumberList.java,23,88,73
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form21h.java,19,33,73
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form4rcc.java,16,31,73
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/BinaryOp.java,14,42,73
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/config/SandHookProvider.java,14,0,73
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/DexTranslationAdvice.java,18,43,72
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstNat.java,23,76,72
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/nativehook/native_hook.cpp,21,3,72
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/ClassData.java,18,15,71
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/SourcePosition.java,25,72,71
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/ProcessUtils.java,10,4,71
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/ClassDef.java,15,18,70
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/Leb128.java,22,42,70
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/BootstrapMethodsList.java,17,53,70
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/thread_annotations.h,0,39,70
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/content/res/TypedArray.java,23,1,70
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/CharSequenceUtils.java,10,117,70
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/Dop.java,21,83,69
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form22c.java,15,31,68
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/multidex/ArchivePathElement.java,14,18,68
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/hooker/XposedInstallerHooker.java,16,1,68
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/impl/LoadedApkGetCL.java,19,0,67
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/Main.java,15,6,67
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/mirror/class.h,17,3,67
+Gradle,/tmp/clone_directory/edxp-sandhook/build.gradle,13,1,67
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/LocalItem.java,22,56,66
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/AxmlReader.java,8,20,66
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttCode.java,21,60,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form22s.java,17,31,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/FieldAnnotationStruct.java,19,42,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MethodAnnotationStruct.java,19,42,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MethodHandleItem.java,10,29,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/StringIdItem.java,18,44,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/InterferenceRegisterMapper.java,19,78,65
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/file.h,0,31,65
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/SELinuxHelper.java,12,41,65
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/util/ExceptionWithContext.java,17,67,64
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form22b.java,17,31,64
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/FieldIdsSection.java,25,47,64
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/HeaderItem.java,17,34,64
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MethodIdsSection.java,25,47,64
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/TypeListItem.java,20,38,64
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/DexFormat.java,29,78,63
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ByteBlock.java,20,63,63
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form3rc.java,15,30,63
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/dexmaker/DynamicBridge.java,13,4,63
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/CallSiteIdsSection.java,14,54,62
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/BasicRegisterMapper.java,21,45,62
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form21s.java,17,31,61
+Java,/tmp/clone_directory/edxp-service/src/main/java/com/elderdrivers/riru/edxp/service/ServiceProxy.java,13,10,61
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/services/BaseService.java,18,100,61
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form11n.java,18,31,60
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form22t.java,16,33,60
+Assembly,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/trampoline/arch/arm64.S,21,58,60
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/AttributeFactory.java,18,57,59
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/StdMember.java,19,38,59
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/ThrowingCstInsn.java,16,35,59
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/ThrowingInsn.java,18,43,59
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstCallSite.java,12,39,59
+Gradle,/tmp/clone_directory/edxp-yahfa/build.gradle,14,1,59
+DOS Batch,/tmp/clone_directory/gradlew.bat,23,2,59
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form31i.java,16,31,58
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/SwitchInsn.java,16,45,58
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/FileUtils.java,12,7,58
+Gradle,/tmp/clone_directory/edxp-service/build.gradle,14,1,58
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/StdAttributeList.java,17,34,57
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/EncodedArrayItem.java,20,46,57
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/InvokePolymorphicDecodedInstruction.java,14,16,57
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstMemberRef.java,18,48,57
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form21t.java,16,33,56
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form51l.java,15,31,56
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ReturnAddress.java,16,43,55
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/Label.java,16,21,55
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/DexUtils.java,11,3,55
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/elf_util.h,14,3,55
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/Util.java,7,16,55
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/inst/insts_arm64.cpp,17,3,54
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstProtoRef.java,14,32,53
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/hooker/LoadedApkConstructorHooker.java,8,0,53
+Gradle,/tmp/clone_directory/sandhook-hooklib/build.gradle,10,1,53
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/art_method.h,16,18,53
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form31t.java,15,32,52
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/InvokePolymorphicRangeDecodedInstruction.java,10,16,52
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/FillArrayDataInsn.java,17,46,52
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/util_functions.sh,6,1,52
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/utils/ClassStatusUtils.java,11,5,52
+Markdown,/tmp/clone_directory/README.md,34,0,51
+Markdown,/tmp/clone_directory/README_CN.md,35,0,51
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form23x.java,12,32,51
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstKnownNull.java,15,46,51
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/utils.h,7,3,51
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/JavaVersion.java,17,100,51
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/util/FileUtils.java,12,35,50
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/BlockAddresses.java,19,74,50
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/LocalSnapshot.java,15,38,50
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/ItemType.java,11,39,50
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MemberIdsSection.java,10,26,50
+Gradle,/tmp/clone_directory/edxp-common/build.gradle,10,1,50
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form32x.java,12,32,49
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/CallSiteIdItem.java,11,30,49
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/CallSiteItem.java,15,41,49
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/FiveRegisterDecodedInstruction.java,16,33,49
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form22x.java,12,32,48
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MethodHandlesSection.java,12,15,48
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/annotation/NameValuePair.java,17,45,48
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/InsnList.java,17,65,48
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstCallSiteRef.java,13,49,48
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/nativehelper/scoped_local_ref.h,0,23,48
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/XC_LayoutInflated.java,17,34,48
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/BagValue.java,7,15,48
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/MethodId.java,10,15,47
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MemberIdItem.java,14,48,47
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/StringDataItem.java,15,37,47
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/FillArrayDataPayloadDecodedInstruction.java,15,40,47
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstInteger.java,19,52,47
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/Utils.java,15,0,47
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/macros.h,0,87,47
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/tuple/Pair.java,16,114,47
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstAnnotation.java,15,36,46
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/dl_util.h,13,0,46
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/PendingHookHandler.java,10,3,46
+Gradle,/tmp/clone_directory/xposed-bridge/build.gradle,9,3,46
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/services/FileResult.java,6,8,46
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/FieldId.java,10,15,45
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/TargetInsn.java,16,71,45
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/Exceptions.java,19,69,45
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstLiteral32.java,11,31,45
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstLiteral64.java,11,31,45
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/Constants.java,4,23,45
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/impl/LoadedApkCstr.java,13,4,45
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/impl/StartBootstrapServices.java,11,1,45
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/strings.h,0,30,45
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/hidden_api.h,12,1,45
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_yahfa.cpp,11,0,45
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/core/SandHookRouter.java,10,2,45
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/ProtoId.java,11,15,44
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/InnerClassList.java,15,78,44
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form11x.java,11,32,44
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/FieldId.java,11,22,44
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/deopt/InlinedMethodCallers.java,12,18,44
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/art/base/macros.h,0,38,44
+Text,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/MODIFICATIONS.txt,0,0,44
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/UniformItemSection.java,15,53,43
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/FourRegisterDecodedInstruction.java,14,31,43
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/PlainCstInsn.java,11,33,43
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/Comparison.java,10,24,43
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_elf.h,19,23,43
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/utils/offset.cpp,13,3,43
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/ArscDumper.java,9,21,43
+YAML,/tmp/clone_directory/appveyor.yml,7,0,42
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/LocalStart.java,13,50,42
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/deopt/PrebuiltMethodsDeopter.java,9,2,42
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/XC_MethodReplacement.java,10,36,42
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/NodeVisitor.java,9,46,42
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form10t.java,13,32,41
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form20t.java,13,32,41
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstBoolean.java,12,48,41
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstByte.java,13,47,41
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstChar.java,13,47,41
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstShort.java,13,48,41
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/proxy/NormalProxy.java,12,0,41
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/ClassUtils.java,9,7,41
+Gradle,/tmp/clone_directory/build.gradle,8,5,40
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/FieldListParser.java,10,36,40
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/MethodListParser.java,10,36,40
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/ShortArrayCodeInput.java,11,26,40
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/hooker/HandleBindAppHooker.java,9,0,40
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form30t.java,12,31,39
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/Local.java,10,26,39
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/yahfa/LoadedApkConstructorHooker.java,8,0,39
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/hooker/StartBootstrapServicesHooker11.java,7,0,39
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/config/YahfaHookProvider.java,12,0,39
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/services/ZygoteService.java,10,5,39
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/StringItem.java,7,15,39
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/InterferenceGraph.java,15,50,38
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/TypeList.java,8,21,38
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/config/BaseEdxpConfig.java,11,0,38
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/hooker/SystemMainHooker.java,11,2,38
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/utils/DexLog.java,17,0,38
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/utils/ReflectionUtils.java,11,5,38
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/Annotation.java,10,18,37
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/ThreeRegisterDecodedInstruction.java,12,29,37
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstDouble.java,11,44,37
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/config/BaseHookProvider.java,14,0,37
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/AnnotationSetRefItem.java,15,30,36
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstFloat.java,12,45,36
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/BaseEdxpImpl.java,11,0,36
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/utf8.h,0,55,36
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android/fdsan.h,0,134,36
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/nativehelper/jni_macros.h,0,35,36
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/core/YahfaEdxpImpl.java,8,0,36
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/arch.h,7,5,36
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/hide_api.h,20,3,36
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/blacklist/HookBlackList.java,12,0,36
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/PendingHooks.java,9,1,36
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/OddSpacer.java,9,32,35
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/OutputCollector.java,13,73,35
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/multidex/FolderPathElement.java,10,18,35
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/ByteOrder.h,5,3,35
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/thread.h,8,0,35
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/config.h,12,2,35
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/zh_CN.sh,6,5,35
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/hooker/StartBootstrapServicesHooker.java,7,0,35
+YAML,/tmp/clone_directory/.github/workflows/android.yml,5,15,34
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/BootstrapMethodArgumentsList.java,4,37,34
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/TypeIdItem.java,9,27,34
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstLong.java,11,44,34
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/art/runtime/native/native_util.h,3,15,34
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_version.c,11,21,34
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/Pkg.java,5,15,34
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/TypeList.java,9,15,33
+Gradle,/tmp/clone_directory/dexmaker/build.gradle,6,0,33
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/EncodedValue.java,9,18,32
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttConstantValue.java,9,37,32
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/threads.cpp,0,15,32
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/verify.sh,6,1,32
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/ClassDumper.java,7,35,31
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Form10x.java,9,32,31
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/TwoRegisterDecodedInstruction.java,10,27,31
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/annotation/AnnotationsList.java,11,49,31
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/core/SandHookEdxpImpl.java,7,0,31
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstFieldRef.java,9,41,30
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/dalvik/system/BaseDexClassLoader.java,10,4,30
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/IXposedHookZygoteInit.java,10,31,30
+Gradle,/tmp/clone_directory/dalvikdx/build.gradle,4,0,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/RawAttribute.java,11,52,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/SpecialFormat.java,9,34,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/FieldIdItem.java,9,32,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/MethodIdItem.java,9,32,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/SparseSwitchPayloadDecodedInstruction.java,10,29,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/RegisterMapper.java,12,42,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/MutabilityControl.java,9,51,29
+Text,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/RELEASE-NOTES.txt,11,0,29
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/CallSiteId.java,9,18,28
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/BaseParameterAnnotations.java,9,37,28
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/CodeAddress.java,9,54,28
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/yahfa/SystemMainHooker.java,7,0,28
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/gc/gc_cause.h,2,36,28
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_resources_hook.cpp,7,1,28
+Markdown,/tmp/clone_directory/edxp-core/template_override/README.md,19,0,28
+CMake,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/CMakeLists.txt,5,0,28
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/android/content/res/XModuleResources.java,8,18,28
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/XC_LoadPackage.java,11,24,28
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttBootstrapMethods.java,9,23,27
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/BaseAnnotations.java,9,37,27
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/LocalsArray.java,19,135,27
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/RegisterRangeDecodedInstruction.java,9,27,27
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_jni.c,11,21,27
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xhook.c,8,21,27
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/art_class_linker.cpp,7,0,27
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/utils/ApplicationUtils.java,7,0,27
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/dexmaker/DexLog.java,10,0,27
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/SandHookConfig.java,6,2,27
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/ValueWrapper.java,7,0,27
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttEnclosingMethod.java,11,42,26
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/FixedSizeInsn.java,7,40,26
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/PackedSwitchPayloadDecodedInstruction.java,9,29,26
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/CstInsn.java,9,39,26
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/jni_env_ext.h,12,1,26
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/runtime.h,10,1,26
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/native_util.h,8,0,26
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/arch_base.h,5,3,26
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/cast_art_method.h,10,3,26
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttExceptions.java,9,35,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttLineNumberTable.java,9,32,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/BaseLocalVariables.java,8,33,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/Machine.java,19,172,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dexer/DxContext.java,5,4,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/HeaderSection.java,9,28,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/IndexedItem.java,9,47,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/BaseCodeCursor.java,8,29,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/OneRegisterDecodedInstruction.java,8,25,25
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/yahfa/HandleBindAppHooker.java,6,0,25
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/yahfa/StartBootstrapServicesHooker11.java,6,0,25
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/nativehelper/nativehelper_utils.h,0,19,25
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/logging.h,4,0,25
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/riru_hook.h,9,1,25
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/tuple/ImmutablePair.java,9,69,25
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/XC_InitPackageResources.java,8,24,25
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttInnerClasses.java,9,32,24
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/DexOptions.java,13,42,24
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/ZeroSizeInsn.java,7,31,24
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/SetFactory.java,11,60,24
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/EdxpImpl.java,12,0,24
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/rirud_socket.h,17,6,24
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/casts/cast_compiler_options.cpp,8,3,24
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/HookLog.java,13,0,24
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/IDKey.java,6,44,24
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/Type.java,5,15,24
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstEnumRef.java,9,37,23
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/Zeroes.java,4,28,23
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/back/NullRegisterAllocator.java,8,24,23
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/impl/SystemMain.java,6,4,23
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/ProxyClassLoader.java,7,0,23
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/art_method.h,6,3,23
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/IXposedHookInitPackageResources.java,7,15,23
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/IXposedHookLoadPackage.java,6,16,23
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttAnnotationDefault.java,10,36,22
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/ByteBlockList.java,9,43,22
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/ClassFile.java,15,94,22
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/ConservativeTranslationAdvice.java,6,27,22
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/_hooker/yahfa/StartBootstrapServicesHooker.java,6,0,22
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_util.h,8,21,22
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/yahfa/src/common.h,5,5,22
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/instrumentation.h,5,3,22
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/utils.h,16,3,22
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/StdField.java,6,28,21
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/StdMethod.java,6,29,21
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/SimpleInsn.java,6,32,21
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstLiteralBits.java,8,53,21
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/TypedConstant.java,6,26,21
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/config/ConfigManager.java,21,15,21
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/util/Unsigned.java,4,18,20
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttSignature.java,9,31,20
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttSourceDebugExtension.java,9,33,20
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttSourceFile.java,9,31,20
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/reflection.h,5,3,20
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/app/ActivityThread.java,5,0,20
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/utils/lock.h,7,3,20
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/SizeOf.java,15,89,19
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/EncodedMember.java,9,57,19
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/IdItem.java,7,35,19
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstInterfaceMethodRef.java,6,35,19
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/yahfa/include/HookMain.h,9,0,19
+C++,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/art_heap.cpp,7,0,19
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/art_compiler_options.h,6,3,19
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/ZeroRegisterDecodedInstruction.java,5,23,18
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/Output.java,15,99,18
+Java,/tmp/clone_directory/dexmaker/src/main/java/external/com/android/dx/UnaryOp.java,6,20,18
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/hooker/SliceProviderFix.java,6,0,18
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/include/art/runtime/gc/collector/gc_type.h,3,22,18
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/entry/SysInnerHookInfo.java,5,0,18
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/MethodReflectParams.java,4,0,18
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/com/elderdrivers/riru/edxp/config/EdXpConfigGlobal.java,5,0,18
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/ResSpec.java,3,15,18
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/Value.java,4,15,18
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/cst/ConstantTags.java,15,32,17
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/VariableSizeInsn.java,5,27,17
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/IndexType.java,15,32,17
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/Constant.java,8,44,17
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xhook.h,12,21,17
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/META-INF/com/google/android/update-binary,9,7,17
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/entry/SysBootstrapHookInfo.java,3,0,17
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/core/YahfaRouter.java,6,0,17
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/art/art_compiler_options.cpp,5,3,17
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,15,14,16
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/findusages/Main.java,4,15,16
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/DebugInfoConstants.java,17,121,16
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/annotation/AnnotationVisibility.java,6,25,16
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/framework/Zygote.java,3,0,16
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/proxy/BaseProxy.java,7,0,16
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_core.h,11,21,16
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_log.h,8,21,16
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/methodgen/ErrorCatch.java,6,0,16
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/app/LoadedApk.java,5,0,16
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/content/pm/PackageParser.java,5,3,16
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/com/elderdrivers/riru/edxp/hook/HookProvider.java,15,0,16
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/XC_InitZygote.java,5,18,16
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/Config.java,3,15,16
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/BaseAttribute.java,6,26,15
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/grep/Main.java,4,15,15
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/AddressMap.java,6,30,15
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/entry/yahfa/SysInnerHookInfo.java,4,0,15
+CMake,/tmp/clone_directory/edxp-core/src/main/cpp/external/CMakeLists.txt,3,0,15
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/art_jit.h,8,5,15
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/offset.h,10,3,15
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/android/content/res/XResForwarder.java,4,15,15
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/ResConst.java,3,15,15
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/SimException.java,5,18,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/ParseException.java,5,18,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/StdFieldList.java,5,31,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/StdMethodList.java,5,31,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/dump/Args.java,13,29,14
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/cf/package.html,1,0,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/CodeOutput.java,12,51,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/MutabilityException.java,5,18,14
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/Proxy.java,7,0,14
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/entry/AppBootstrapHookInfo.java,3,0,14
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/content/res/AssetManager.java,4,0,14
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/content/res/CompatibilityInfo.java,4,0,14
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/axml/AxmlVisitor.java,6,27,14
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/Member.java,8,54,13
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/cf/CfOptions.java,10,26,13
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/file/Item.java,8,59,13
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/Writers.java,5,30,13
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/uninstall.sh,2,0,13
+Gradle,/tmp/clone_directory/hiddenapi-stubs/build.gradle,2,0,13
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/HookMode.java,4,0,13
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/exception/CloneFailedException.java,6,43,13
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/util/ByteArrayByteInput.java,5,15,12
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/cst/MethodHandleKind.java,10,27,12
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/entry/yahfa/SysBootstrapHookInfo.java,2,0,12
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/proxy/Router.java,10,0,12
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/Hookers.java,5,0,12
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_errno.h,4,21,12
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_version.h,8,21,12
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/yahfa/include/trampoline.h,7,3,12
+ProGuard,/tmp/clone_directory/edxp-sandhook/proguard-rules.pro,8,18,12
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/os/SELinux.java,3,0,12
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/xposed/dummy/XResourcesSuperClass.java,3,9,12
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/cast_compiler_options.h,9,3,12
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/package.html,2,14,12
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/com/elderdrivers/riru/edxp/config/EdxpConfig.java,10,0,12
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/arsc/ResEntry.java,5,18,12
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttDeprecated.java,4,23,11
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttRuntimeInvisibleParameterAnnotations.java,4,27,11
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttRuntimeVisibleParameterAnnotations.java,4,27,11
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttSynthetic.java,4,23,11
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/direct/package.html,1,0,11
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/CstMethodRef.java,3,25,11
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/Yahfa.java,9,2,11
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/methodgen/HookMaker.java,3,0,11
+ProGuard,/tmp/clone_directory/edxp-yahfa/proguard-rules.pro,7,18,11
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/com/android/internal/util/XmlUtils.java,3,0,11
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/ClassNeverCall.java,2,0,11
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/exception/package.html,2,14,11
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/mutable/package.html,2,16,11
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/reflect/package.html,2,16,11
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/DexException.java,4,19,10
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/package.html,1,0,10
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/ParseObserver.java,6,52,10
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/type/TypeBearer.java,7,57,10
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/AnnotatedOutput.java,7,62,10
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/art/ClassLinker.java,6,1,10
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/entry/yahfa/AppBootstrapHookInfo.java,2,0,10
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/util/Versions.java,4,0,10
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/threads.h,0,16,10
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_pending_hooks.h,10,0,10
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/os/ServiceManager.java,3,0,10
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/HookClass.java,2,0,10
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/HookMethod.java,2,0,10
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/HookMethodBackup.java,2,0,10
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/HookReflectClass.java,2,0,10
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/MethodParams.java,2,0,10
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/Param.java,2,0,10
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/art_runtime.h,5,3,10
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/dlfcn_nougat.h,6,1,10
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/native_hook.h,6,3,10
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/annotation/ApiSensitive.java,2,5,10
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/DexIndexOverflowException.java,3,18,9
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttRuntimeInvisibleAnnotations.java,4,27,9
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttRuntimeVisibleAnnotations.java,4,27,9
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/code/package.html,1,0,9
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/AttributeList.java,7,59,9
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/package.html,1,0,9
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/IntSet.java,8,50,9
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/multidex/ClassPathElement.java,8,24,9
+CMake,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/CMakeLists.txt,2,0,9
+CMake,/tmp/clone_directory/edxp-core/src/main/cpp/main/CMakeLists.txt,3,0,9
+ProGuard,/tmp/clone_directory/edxp-service/proguard-rules.pro,7,18,9
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/xposed/dummy/XTypedArraySuperClass.java,2,9,9
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/SkipParamCheck.java,2,0,9
+Java,/tmp/clone_directory/sandhook-annotation/src/main/java/com/swift/sandhook/annotation/ThisObject.java,2,0,9
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/art_classlinker.h,2,3,9
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/wrapper/HookErrorException.java,2,0,9
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/package.html,2,14,9
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/IXposedHookCmdInit.java,5,14,9
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttLocalVariableTable.java,4,24,8
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/attrib/AttLocalVariableTypeTable.java,4,24,8
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/dex/code/CatchBuilder.java,5,34,8
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/CodeInput.java,6,31,8
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/ConstantPool.java,6,63,8
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/cst/package.html,1,0,8
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/type/TypeList.java,6,55,8
+ProGuard,/tmp/clone_directory/edxp-common/proguard-rules.pro,6,18,8
+CMake,/tmp/clone_directory/edxp-core/src/main/cpp/CMakeLists.txt,3,0,8
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/log.h,5,3,8
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/sandhook.h,5,3,8
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/FieldList.java,4,37,7
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/Method.java,3,24,7
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/TranslationAdvice.java,4,51,7
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/code/package.html,1,0,7
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/type/package.html,1,0,7
+CMake,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/CMakeLists.txt,3,0,7
+CMake,/tmp/clone_directory/edxp-core/src/main/cpp/external/yahfa/CMakeLists.txt,3,0,7
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/resource_hook.h,5,0,7
+C/C++ Header,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/includes/never_call.h,4,3,7
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/overview.html,2,14,7
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/Field.java,3,26,6
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/MethodList.java,4,37,6
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/io/instructions/CodeCursor.java,4,37,6
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/Warning.java,2,23,6
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/nativehelper/module_api.h,0,15,6
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_resources_hook.h,6,0,6
+Bourne Shell,/tmp/clone_directory/edxp-core/template_override/service.sh,2,0,6
+Properties,/tmp/clone_directory/gradle.properties,0,0,6
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/com/android/internal/os/RuntimeInit.java,1,0,6
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/com/android/internal/os/ZygoteInit.java,1,0,6
+Gradle,/tmp/clone_directory/sandhook-annotation/build.gradle,2,0,6
+Text,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/NOTICE.txt,2,0,6
+HTML,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/tuple/package.html,2,14,6
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/annotation/Level.java,3,0,6
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/IXUnhook.java,3,16,6
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/Attribute.java,3,30,5
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/merge/CollisionPolicy.java,4,25,5
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/IntIterator.java,4,29,5
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/core/ResourcesHook.java,4,0,5
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_config_manager.h,5,0,5
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/edxp_yahfa.h,5,0,5
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/native_hook.h,5,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+Java,/tmp/clone_directory/sandhook-hooklib/src/main/java/com/swift/sandhook/ArtMethodSizeTest.java,1,0,5
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/mutable/Mutable.java,5,44,5
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/util/ByteInput.java,3,23,4
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dex/util/ByteOutput.java,3,23,4
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/Version.java,2,19,4
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/cf/iface/HasAttribute.java,4,24,4
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/LabeledItem.java,3,23,4
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/ToHuman.java,2,25,4
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/edxp/art/Heap.java,3,0,4
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/external/android/android-base/off64_t.h,0,16,4
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/art_class_linker.h,4,0,4
+C/C++ Header,/tmp/clone_directory/edxp-core/src/main/cpp/main/src/jni/art_heap.h,4,0,4
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/elderdrivers/riru/edxp/sandhook/config/SandHookEdxpConfig.java,3,0,4
+Java,/tmp/clone_directory/edxp-sandhook/src/main/java/com/swift/sandhook/xposedcompat/hookstub/CallOriginCallBack.java,1,0,4
+Java,/tmp/clone_directory/edxp-yahfa/src/main/java/com/elderdrivers/riru/edxp/yahfa/config/YahfaEdxpConfig.java,3,0,4
+C++,/tmp/clone_directory/sandhook-hooklib/src/main/cpp/art/art_classlinker.cpp,2,3,4
+ProGuard,/tmp/clone_directory/xposed-bridge/proguard-rules.pro,4,18,4
+Java,/tmp/clone_directory/xposed-bridge/src/main/apacheCommonsLang/external/org/apache/commons/lang3/builder/Builder.java,2,83,4
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/IModuleContext.java,2,0,4
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/command/UsageException.java,2,20,3
+HTML,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/util/package.html,0,0,3
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/common/KeepAll.java,1,0,3
+Java,/tmp/clone_directory/edxp-common/src/main/java/com/elderdrivers/riru/common/KeepMembers.java,1,0,3
+C,/tmp/clone_directory/edxp-core/src/main/cpp/external/xhook/src/xh_log.c,3,21,3
+XML,/tmp/clone_directory/hiddenapi-stubs/src/main/AndroidManifest.xml,0,0,3
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/content/res/ResourcesImpl.java,1,0,3
+Java,/tmp/clone_directory/hiddenapi-stubs/src/main/java/android/os/IServiceManager.java,1,0,3
+XML,/tmp/clone_directory/sandhook-hooklib/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/sandhook-hooklib/src/main/AndroidManifest.xml,0,0,2
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/IXposedMod.java,1,1,2
+HTML,/tmp/clone_directory/xposed-bridge/src/main/java/pxb/android/package.html,0,0,2
+XML,/tmp/clone_directory/dalvikdx/src/main/AndroidManifest.xml,0,0,1
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/rop/package-info.java,2,197,1
+Java,/tmp/clone_directory/dalvikdx/src/main/java/external/com/android/dx/ssa/package-info.java,2,100,1
+XML,/tmp/clone_directory/dexmaker/src/main/AndroidManifest.xml,0,0,1
+XML,/tmp/clone_directory/edxp-common/src/main/AndroidManifest.xml,0,0,1
+XML,/tmp/clone_directory/edxp-core/src/main/AndroidManifest.xml,0,0,1
+XML,/tmp/clone_directory/edxp-sandhook/src/main/AndroidManifest.xml,0,0,1
+XML,/tmp/clone_directory/edxp-service/src/main/AndroidManifest.xml,0,0,1
+XML,/tmp/clone_directory/edxp-yahfa/src/main/AndroidManifest.xml,0,0,1
+ProGuard,/tmp/clone_directory/sandhook-hooklib/proguard-rules.pro,4,18,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+XML,/tmp/clone_directory/xposed-bridge/src/main/AndroidManifest.xml,0,0,1
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/android/app/package-info.java,0,3,1
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/android/content/res/package-info.java,0,3,1
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/callbacks/package-info.java,1,7,1
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/package-info.java,0,3,1
+Java,/tmp/clone_directory/xposed-bridge/src/main/java/de/robv/android/xposed/services/package-info.java,0,3,1
+SUM,,19921,54002,87107

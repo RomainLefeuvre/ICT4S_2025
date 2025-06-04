@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,57.102165083738726,2801514,False,
+##[group]Environment details,54.10520182508574,4984727,False,
+Requested labels: self-hosted,47.16087772654676,4283825,False,
+##[group]Removing previously created refs_ to avoid conflicts,11.196144148876716,610469,False,
+##[group]Fetching the repository,10.674641570274884,632774,False,
+##[group]Run actions/setup-node@v4,5.166326135062639,406212,False,
+##[group]Cleaning the repository,5.113386222617346,272581,False,
+##[group]Run yarn test:unit,4.994062967968796,492698,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4,4.019269295149136,157331,False,
+##[group]Run yarn && yarn lint,2.210809793847579,128644,True,##[error]Process completed with exit code 127.

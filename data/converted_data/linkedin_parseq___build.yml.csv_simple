@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./.github/scripts/build.sh,2.959398781350133,2100767,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.3-bin/8tpu6egwsccjzp10c1jckl0rx/gradle-6.3-bin.zip.lck"
+##[group]Run actions/setup-java@v2,1.6118154076996258,1531200,False,
+##[group]GITHUB_TOKEN Permissions,1.259506028967467,2169170,False,
+##[group]Fetching the repository,0.3558324725194803,455400,False,
+##[group]Checking out the ref,0.093361985364022,21291,False,
+##[group]Setting up auth,0.0845542508957181,65927,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.0827927040020573,49195,False,
+##[group]Run actions/checkout@v2,0.0810311571083965,182632,False,
+Requested labels: self-hosted,0.0,4326089,False,

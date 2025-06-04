@@ -1,0 +1,36 @@
+Requested labels: self-hosted, 0.2340183050370517, , , , 4469371, False, 
+##[group]GITHUB_TOKEN Permissions, 3.948022331338289, , , , 142364, False, 
+##[group]Run echo "$GITHUB_CONTEXT", 2.2946152232080523, , , , 173140, False, 
+Requested labels: self-hosted__dup_4, 0.8868040728608704, , , , 4441392, False, 
+##[group]GITHUB_TOKEN Permissions__dup_5, 7.964014864732401, , , , 4911067, False, 
+##[group]Run actions/checkout@v4, 1.4750517146619886, , , , 150781, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.4582301063356329, , , , 7518, False, 
+##[group]Fetching the repository, 7.038826406782824, , , , 442868, False, 
+##[group]Run # "Set branch names...", 1.3404788480511407, , , , 4919, False, 
+##[group]Docker info, 1.2731924147457168, , , , 113228, False, 
+##[group]Buildx version, 1.239549198093005, , , , 68843, False, 
+##[group]Creating a new builder instance, 2.4286335712069413, , , , 247542, False, 
+##[group]Booting builder, 9.861550463072737, , , , 7168086, False, 
+##[group]Docker info__dup_14, 0.6127256588380321, , , , 104227, False, 
+##[group]Pulling binfmt Docker image, 4.531258146253377, , , , 1329262, False, 
+##[group]Image info, 0.8754778527414219, , , , 28459, False, 
+##[group]Installing QEMU static binaries, 1.069208288962355, , , , 4486957, False, 
+##[group]Extracting available platforms, 3.691742337898951, , , , 4341664, False, 
+##[group]Run docker/login-action@v3, 1.4164871522148978, , , , 203187, True, ##[error]Username and password required
+##[group]Run docker/build-push-action@v3, 0.7092614412582793, , , , 1534, False, 
+##[group]Docker info__dup_21, 0.7106185947927194, , , , 83529, False, 
+##[group]Buildx version__dup_22, 5.002830387772282, , , , 767425, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-identity:": invalid reference format
+##[group]Docker info__dup_23, 0.7194400927665813, , , , 75093, False, 
+##[group]Buildx version__dup_24, 3.61077199917731, , , , 441193, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-workshop:": invalid reference format
+##[group]Docker info__dup_25, 0.7255472836715625, , , , 117531, False, 
+##[group]Buildx version__dup_26, 2.911689209427332, , , , 437910, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-community:": invalid reference format
+##[group]Docker info__dup_27, 0.7309758978093235, , , , 73913, False, 
+##[group]Buildx version__dup_28, 4.4041769595708855, , , , 504344, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-web:": invalid reference format
+##[group]Buildx version__dup_29, 3.7023798627520272, , , , 508161, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/gateway-service:": invalid reference format
+##[group]Docker info__dup_30, 1.4884162895402322, , , , 236268, False, 
+##[group]Buildx version__dup_31, 2.990404114424868, , , , 447961, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/mailhog:": invalid reference format
+##[group]Removing temp folder /tmp/docker-build-push-yqfzu2, 0.7499760472914874, , , , 23030, False, 
+##[group]Removing temp folder /tmp/docker-build-push-k8q8rS, 0.7520117775931477, , , , 15618, False, 
+##[group]Removing temp folder /tmp/docker-build-push-0rGmuS, 1.5114878996257173, , , , 214449, False, 
+##[group]Removing builder, 7.463950998809106, , , , 2342793, False, 
+##[group]Cleaning up certificates, 2.207752418940192, , , , 238324, False, 

@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 0.0284987941066796, , , , 4563213, False, 
+##[group]GITHUB_TOKEN Permissions, 14.99606158615518, , , , 1874300, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/gaurav-nelson/github-action-markdown-link-check/v1/Dockerfile'., 148.73932540600396, , , , 48250697, False, 
+##[group]Run actions/checkout@v4, 2.0594870258325355, , , , 139040, False, 
+##[group]Cleaning the repository, 1.0737294545050629, , , , 27946, False, 
+##[group]Fetching the repository, 5.808506688413262, , , , 431809, False, 
+##[group]Run gaurav-nelson/github-action-markdown-link-check@v1, 205.70553234256295, , , , 38829082, False, 

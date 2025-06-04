@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,130.0779080212352,3117673,False,
+##[group]Run chmod +x package.sh,122.8093073766442,6843891,False,
+##[group]Run softprops/action-gh-release@master,44.3596243503667,16210131,False,
+##[group]Fetching the repository,11.987737282105016,499174,False,
+##[group]Run chmod +x .github/scripts/test_jar.sh,10.724013121623775,970072,True,##[error]Process completed with exit code 1.
+##[group]Run chmod +x .github/scripts/gen_zip_sha1_for_release.sh,10.183397128548048,6214623,False,
+##[group]Run actions/checkout@v4,4.92745971755134,161853,False,
+##[group]Checking out the ref,2.353425854851226,17933,False,
+Requested labels: self-hosted,0.1399297114340882,4182670,False,

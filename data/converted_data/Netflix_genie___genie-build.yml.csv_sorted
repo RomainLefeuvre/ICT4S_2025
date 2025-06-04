@@ -1,0 +1,9 @@
+##[group]Waiting for all services to be ready, 151.58511921095698, , , , 21167900, False, 
+##[group]Starting postgres service container, 137.7437251371589, , , , 35860213, False, 
+##[group]Starting mysql service container, 82.51028154484116, , , , 34702998, False, 
+##[group]Service container mysql failed., 25.54836996426473, , , , 5997256, True, ##[error]Failed to initialize container mysql:8.0
+##[group]GITHUB_TOKEN Permissions, 13.207165583247845, , , , 3943404, False, 
+##[group]Checking docker version, 5.349055990884179, , , , 1013455, False, 
+##[group]Create local container network, 4.310030726467827, , , , 782663, False, 
+Requested labels: self-hosted, 1.5334117818826016, , , , 6158438, False, 
+##[group]Clean up resources from previous jobs, 1.162168999458289, , , , 134880, False, 

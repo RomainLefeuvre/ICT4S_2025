@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 169.96890895506843, , , , 5236758, False, 
+##[group]GITHUB_TOKEN Permissions, 11.907612857581412, , , , 5928946, False, 
+##[group]Run actions/checkout@v4, 1.5636218375904092, , , , 180436, False, 
+##[group]Setting up auth, 1.6198148440056683, , , , 69131, False, 
+##[group]Fetching the repository, 32.77786486248833, , , , 6080684, False, 
+##[group]Determining the checkout info, 0.9663714539769308, , , , 72688, False, 
+##[group]Checking out the ref, 3.649862595095966, , , , 477949, False, 
+##[group]Run gradle/actions/wrapper-validation@v3.3.2, 7.309488393245183, , , , 1038767, False, 

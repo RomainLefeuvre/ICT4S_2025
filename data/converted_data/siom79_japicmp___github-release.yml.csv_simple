@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,13.892994547033204,2079165,False,
+##[group]Fetching the repository,7.430944153081283,744088,False,
+##[group]Run ncipollo/release-action@v1,5.1322948702247615,460594,True,##[error]Error undefined: No tag found in ref or input!
+Requested labels: self-hosted,4.53450872121846,5340810,False,
+##[group]Disabling automatic garbage collection,0.8703134461892853,24096,False,
+##[group]Run actions/checkout@v3,0.8573013188679799,166358,False,

@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,0.2197958340317263,5338983,False,
+"##[group]Run crave clone destroy -y /crave-devspaces/pipeline/runs/${GITHUB_RUN_ID}_${GITHUB_RUN_NUMBER} || echo ""Clone did not exist""",0.0643725694498917,1397398,False,
+##[group]GITHUB_TOKEN Permissions,0.0135911599946269,302662,False,
+##[group]Run crave clone destroy -y /crave-devspaces/pipeline/runs/${GITHUB_RUN_ID}_${GITHUB_RUN_NUMBER},0.0046656946851088,116156,True,##[error]Process completed with exit code 127.

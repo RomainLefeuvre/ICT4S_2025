@@ -1,0 +1,104 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (2592.2 files/s 281226.4 lines/s)"
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/KafkaClusterManager.java,131,149,839
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/BrokerStatsRetriever.java,105,109,555
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/KafkaCluster.java,56,97,384
+Maven,/tmp/clone_directory/doctork/pom.xml,7,3,327
+Java,/tmp/clone_directory/doctork/src/test/java/com/pinterest/doctork/KafkaClusterTest.java,80,36,316
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/util/OperatorUtil.java,33,9,311
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/KafkaBroker.java,54,61,259
+Maven,/tmp/clone_directory/kafkastats/pom.xml,9,1,214
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/config/DoctorKConfig.java,37,22,196
+Maven,/tmp/clone_directory/pom.xml,9,1,191
+Markdown,/tmp/clone_directory/README.md,51,0,167
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/KafkaStatsMain.java,32,20,165
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/notification/Email.java,27,4,164
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/DoctorKMain.java,32,15,151
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/ZookeeperClient.java,22,5,141
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/ClusterInfoServlet.java,22,1,140
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/BrokerStatsFilter.java,20,6,139
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/util/KafkaUtils.java,25,5,136
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/DoctorKBrokerStatsServlet.java,18,0,125
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/DoctorKActionsServlet.java,20,0,122
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/DoctorKServlet.java,19,0,117
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/config/DoctorKClusterConfig.java,28,10,109
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/KafkaTopicStatsServlet.java,23,1,109
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/util/OpenTsdbMetricConverter.java,27,28,106
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/util/MetricsPusher.java,17,17,104
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/DoctorKActionRetriever.java,20,5,101
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/ReplicaStatsRetriever.java,18,7,87
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/util/OpenTsdbClient.java,20,22,87
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/ClusterLoadBalancer.java,16,11,86
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/DoctorK.java,26,0,84
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/replicastats/PastReplicaStatsProcessor.java,12,3,83
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/tools/BrokerStatsReader.java,13,0,83
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/replicastats/BrokerStatsProcessor.java,15,7,80
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/KafkaAvroPublisher.java,15,1,80
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/ReplicaStatsTask.java,18,10,80
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/replicastats/ReplicaStatsManager.java,22,8,78
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/OutOfSyncReplica.java,22,10,76
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/DoctorKInfoServlet.java,16,0,75
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/BrokerReplacer.java,14,0,72
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/DoctorKWebServer.java,13,0,71
+HTML,/tmp/clone_directory/doctork/src/main/resources/webapp/pages/index.html,26,5,71
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/tools/MetricsFetcher.java,19,5,70
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/DoctorKActionReporter.java,11,0,69
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/KafkaWriter.java,14,5,68
+Properties,/tmp/clone_directory/doctork/config/doctork.properties,24,51,67
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/URPChecker.java,19,6,66
+HTML,/tmp/clone_directory/doctork/src/main/resources/webapp/pages/clusterinfo.html,25,5,63
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/util/OstrichAdminService.java,8,0,59
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/DoctorKZookeeperClient.java,14,5,57
+XML,/tmp/clone_directory/doctork/src/main/assembly/doctork.xml,0,1,56
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/servlet/UnderReplicatedPartitionsServlet.java,16,0,55
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/BrokerStatsReporter.java,13,0,53
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/security/SampleAuthorizationFilter.java,11,3,52
+XML,/tmp/clone_directory/kafkastats/src/main/assembly/kafkastats.xml,0,1,51
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/api/ClustersMaintenanceApi.java,10,0,48
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/BrokerReplacement.java,10,3,48
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/tools/DoctorKActionWriter.java,11,5,47
+Markdown,/tmp/clone_directory/docs/DESIGN.md,21,0,46
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/api/BrokersDecommissionApi.java,10,0,46
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/DoctorKWatcher.java,11,3,34
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/api/DoctorKApi.java,9,0,33
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/security/DoctorKSecurityContext.java,11,0,33
+Java,/tmp/clone_directory/doctork/src/test/java/com/pinterest/doctork/ClusterInfoServletTest.java,9,2,33
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/KafkaMetricValue.java,9,0,30
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/MetricsRetriever.java,9,0,30
+Java,/tmp/clone_directory/doctork/src/test/java/com/pinterest/doctork/KafkaClusterManagerTest.java,10,4,28
+Markdown,/tmp/clone_directory/docs/APIs.md,17,0,27
+Bourne Shell,/tmp/clone_directory/doctork/scripts/run_in_container.sh,5,2,27
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/ReplicaStatsUtil.java,5,0,27
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/DoctorKHeartbeat.java,8,0,24
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/api/BrokersApi.java,7,0,24
+Java,/tmp/clone_directory/kafkastats/src/main/java/com/pinterest/doctork/stats/KafkaMetricRetrievingTask.java,6,0,24
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/api/ClustersApi.java,7,0,20
+Java,/tmp/clone_directory/doctork/src/test/java/com/pinterest/doctork/KafkaOperatorConfigTest.java,9,0,20
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/ReassignmentInfo.java,6,0,19
+XML,/tmp/clone_directory/doctork/config/log4j2.dev.xml,0,0,17
+XML,/tmp/clone_directory/doctork/config/log4j2.xml,0,0,17
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/config/DoctorKAppConfig.java,8,6,17
+Java,/tmp/clone_directory/doctork/src/test/java/com/pinterest/doctork/KafkaBrokerTest.java,9,0,17
+XML,/tmp/clone_directory/kafkastats/config/log4j2.xml,0,0,17
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/errors/ClusterInfoError.java,4,0,16
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/security/UserPrincipal.java,7,0,16
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/PreferredReplicaElectionInfo.java,6,0,15
+YAML,/tmp/clone_directory/.github/workflows/maven.yml,4,0,13
+Properties,/tmp/clone_directory/kafkastats/config/kafkastats.properties,0,0,12
+SVG,/tmp/clone_directory/docs/doctork_logo.svg,0,0,10
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/UnderReplicatedReason.java,1,0,10
+Bourne Shell,/tmp/clone_directory/kafkastats/scripts/metricsLocalhost.sh,4,3,10
+Bourne Shell,/tmp/clone_directory/kafkastats/scripts/metricsCollector.sh,2,3,9
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/util/ApiUtils.java,3,0,8
+Bourne Shell,/tmp/clone_directory/kafkastats/scripts/brokerStats.sh,3,3,8
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/DoctorKMetrics.java,2,0,7
+Bourne Shell,/tmp/clone_directory/kafkastats/scripts/metricsFetcher.sh,4,5,7
+Dockerfile,/tmp/clone_directory/doctork/Dockerfile,2,3,6
+Bourne Shell,/tmp/clone_directory/doctork/scripts/action_retriever.sh,2,0,6
+Bourne Shell,/tmp/clone_directory/doctork/scripts/run_prod.sh,2,0,6
+Java,/tmp/clone_directory/doctork/src/main/java/com/pinterest/doctork/security/DoctorKAuthorizationFilter.java,5,6,6
+Bourne Shell,/tmp/clone_directory/doctork/scripts/run_dev.sh,2,0,5
+Properties,/tmp/clone_directory/doctork/src/main/resources/log4j.properties,3,2,5
+Bourne Shell,/tmp/clone_directory/doctork/scripts/run.sh,2,0,4
+Bourne Again Shell,/tmp/clone_directory/doctork/teletraan/RESTARTING,2,0,3
+Properties,/tmp/clone_directory/doctork/src/main/resources/versioning.properties,0,0,2
+SUM,,1641,821,8604

@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run Mattraks/delete-workflow-runs@v2,166.4838531200014,2733980,False,
+##[group]GITHUB_TOKEN Permissions,55.72299061904025,1620601,False,
+Requested labels: self-hosted,0.0,4260541,False,

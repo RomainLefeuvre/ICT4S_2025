@@ -1,0 +1,8 @@
+##[group]Cleaning the repository, 1151.2815545358608, , , , 108423, False, 
+##[group]GITHUB_TOKEN Permissions, 897.0559646184091, , , , 4113987, False, 
+Requested labels: self-hosted, 679.9678143516702, , , , 5065070, False, 
+##[group]Run actions/checkout@v4, 416.2240608910904, , , , 198829, False, 
+##[group]Setting up auth, 139.60962350013628, , , , 122550, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 42.10907211202085, , , , 605002, False, 
+##[group]Fetching the repository, 18.19796194791253, , , , 481544, False, 
+##[group]Checking out the ref, 6.508925609275504, , , , 24685, False, 

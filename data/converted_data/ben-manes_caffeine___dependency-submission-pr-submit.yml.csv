@@ -1,0 +1,12 @@
+##[group]==END_FILE==, 0.0148097107557904, , , , 4274441, False, 
+##[group]GITHUB_TOKEN Permissions, 105.71986134892006, , , , 6908989, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6, 7.869754299630679, , , , 788419, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_4, 1.0000281984306827, , , , 65007, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29, 2.010929004179264, , , , 141053, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.010900805748581, , , , 150548, False, 
+##[group]Cleaning the repository, 1.01814921062718, , , , 125115, False, 
+##[group]Setting up auth, 1.0217734130664795, , , , 95058, False, 
+##[group]Fetching the repository, 6.206748729624168, , , , 595922, False, 
+##[group]Run gradle/actions/dependency-submission@db19848a5fa7950289d3668fb053140cf3028d43, 5.634376419030826, , , , 2290071, False, 
+##[group]Restore Gradle state from cache, 628.9184982575798, , , , 68418938, False, 
+##[group]Caching Gradle state, 28.380358092329505, , , , 4705437, True, ##[error]Gradle build failed: see console output for details

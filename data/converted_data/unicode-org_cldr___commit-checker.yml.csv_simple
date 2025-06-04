@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,2128.320843849425,197056856,False,
+##[group]Fetching the repository__dup_10,137.8644312758009,17287825,False,
+##[group]Checking out the ref,33.97359790978146,1784426,False,
+##[group]GITHUB_TOKEN Permissions,33.64299388940818,1970195,False,
+##[group]Checking out the ref__dup_11,13.919555243871946,1702208,False,
+##[group]Run actions/upload-artifact@v3,9.583239389639566,995800,False,
+##[group]Setup Checker,5.110342371743572,456843,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4,4.580650683021952,149503,False,
+##[group]Setting up auth,2.417028601311094,81510,False,
+##[group]Initializing the repository,2.366347297391047,81288,False,
+##[group]Run actions/checkout@v4__dup_8,1.3236038614680925,104979,False,
+##[group]Setting up auth__dup_9,1.2699068857889615,55288,False,
+Requested labels: self-hosted,0.2173274468115728,4774249,False,

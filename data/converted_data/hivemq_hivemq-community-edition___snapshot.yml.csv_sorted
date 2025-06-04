@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 131.65644248613938, , , , 2260961, False, 
+##[group]Run ./gradlew pushSnapshotToDockerHub, 77.35170589184287, , , , 758308, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck
+##[group]Fetching the repository, 45.28559236407894, , , , 444186, False, 
+##[group]Run git clone https://github.com/hivemq/hivemq-extension-sdk.git ../hivemq-extension-sdk, 9.721493548155422, , , , 41622, False, 
+##[group]Setting up auth, 8.55883716631106, , , , 116254, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 8.392743397476153, , , , 23322, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 8.226649628641242, , , , 142426, False, 
+##[group]==END_FILE==, 3.762150155351697, , , , 4447849, False, 

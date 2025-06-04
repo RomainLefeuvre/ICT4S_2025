@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0, , , , 4631582, False, 
+##[group]GITHUB_TOKEN Permissions, 57.23593598148132, , , , 4993217, False, 
+##[group]Run actions/checkout@v4, 11.848806336658086, , , , 154277, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 11.871118511122631, , , , 60831, False, 
+##[group]Cleaning the repository, 107.84411445100828, , , , 931849, False, 
+##[group]Setting up auth, 12.09424025576809, , , , 59688, False, 
+##[group]Fetching the repository, 60.80588389580865, , , , 541623, False, 
+##[group]Determining the checkout info, 12.228113302555366, , , , 9911, False, 
+##[group]Restore Gradle state from cache, 1418.6569301122674, , , , 92445935, True, ##[error]HttpError: Dependency submission failed for dependency-graph-reports/dependency_submission-dependency-submission.json.
+> Task :screen-diff-plugin:ForceDependencyResolutionPlugin_resolveProjectDependencies, 18.5263481893726, , , , 91893, False, 
+> Task :xunit-xml-plugin:ForceDependencyResolutionPlugin_resolveProjectDependencies, 42.04571811076474, , , , 1597346, False, 
+> Task :ForceDependencyResolutionPlugin_resolveAllDependencies, 16.276778643804974, , , , 799726, False, 
+##[group]Caching Gradle state, 236.21584024094503, , , , 21462028, False, 

@@ -1,0 +1,14 @@
+Requested labels: self-hosted, 272.077279674961, , , , 62377406, False, 
+##[group]==END_FILE==, 115.04041967796292, , , , 4481144, False, 
+##[group]Run nick-fields/retry@v3, 79.01655130489335, , , , 33770407, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Run nick-fields/retry@v3__dup_13, 70.74179722337972, , , , 33167061, True, ##[error]Final attempt failed. Child_process exited with error code 2
+##[group]Getting Git version info__dup_11, 44.029368299004986, , , , 9056234, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Getting Git version info, 28.725508271923097, , , , 9666969, False, 
+##[group]Run curl -Os https://uploader.codecov.io/latest/linux/codecov, 21.336117255535896, , , , 2289177, False, 
+##[group]GITHUB_TOKEN Permissions, 14.064574779847362, , , , 4815632, False, 
+##[group]Installed versions, 13.098146675349744, , , , 770354, False, 
+##[group]Run actions/checkout@v3, 4.179983129804419, , , , 121595, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 2.467911273304073, , , , 4290611, False, 
+##[group]Run python ts_scripts/install_dependencies.py --environment=dev, 2.037667034392193, , , , 180930, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v3__dup_10, 0.7329274798814208, , , , 117826, False, 
+##[group]Installed distributions, 0.7129820444463703, , , , 27022, False, 

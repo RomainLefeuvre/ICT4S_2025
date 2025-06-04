@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 77.64282817787347, , , , 4410799, False, 
+##[group]GITHUB_TOKEN Permissions, 0.7605481375588412, , , , 1260037, False, 
+##[group]Run actions/checkout@v3, 0.051701093927951, , , , 165896, False, 
+##[group]Getting Git version info, 0.0509452484878187, , , , 4493, False, 
+##[group]Setting up auth, 0.0494335576075541, , , , 61346, False, 
+##[group]Fetching the repository, 0.9283584834972324, , , , 2365244, False, 
+##[group]Checking out the ref, 0.0916122648127404, , , , 322629, False, 
+##[group]Run git config --global credential.helper cache, 0.0282698852838499, , , , 17302, False, 
+##[group]Run git -C main add ., 0.054272234247303, , , , 170523, True, ##[error]Process completed with exit code 128.

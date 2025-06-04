@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 133.5061352261163, , , , 3636867, False, 
+##[group]GITHUB_TOKEN Permissions, 145.50333288253165, , , , 4049343, False, 
+##[group]Run actions/checkout@v4, 6.911129034735763, , , , 157017, False, 
+##[group]Cleaning the repository, 20.63387002660212, , , , 602368, False, 
+##[group]Disabling automatic garbage collection, 3.424465430616267, , , , 10486, False, 
+##[group]Setting up auth, 3.420318885716052, , , , 119298, False, 
+##[group]Fetching the repository, 13.639810093862057, , , , 418369, False, 
+##[group]Run actions/setup-node@v4, 6.786732687729306, , , , 239405, False, 
+##[group]Environment details, 13.52370683665603, , , , 352260, False, 
+##[group]Run npm install, 98.94274259536216, , , , 23454535, False, 
+##[group]Run JamesIves/github-pages-deploy-action@v4.5.0, 43.54648995970916, , , , 2788580, True, ##[error]The deploy step encountered an error: The process '/usr/bin/git' failed with exit code 128 ❌

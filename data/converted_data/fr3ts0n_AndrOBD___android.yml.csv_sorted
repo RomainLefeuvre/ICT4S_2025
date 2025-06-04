@@ -1,0 +1,5 @@
+##[group]Run actions/checkout@v1, 61.15564742961654, , , , 9048750, False, 
+##[group]GITHUB_TOKEN Permissions, 46.84853250600513, , , , 1790854, False, 
+##[group]Run ./gradlew build, 10.265679326227357, , , , 1571835, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4-bin.zip.lck (Aucun fichier ou dossier de ce type)
+##[group]Run actions/setup-java@v1, 3.478961083816965, , , , 741117, False, 
+Requested labels: self-hosted, 0.0409987328857478, , , , 6042054, False, 

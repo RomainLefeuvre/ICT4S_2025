@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 11.90961621363812, , , , 6823038, False, 
+##[group]GITHUB_TOKEN Permissions, 17.44401394880183, , , , 2824153, False, 
+##[group]Run actions/checkout@v3, 93.7257701101538, , , , 1579030, False, 
+##[group]Setting up auth, 27.429293570163225, , , , 152234, False, 
+##[group]Fetching the repository, 108.40071221110672, , , , 985291, False, 
+##[group]Checking out the ref, 8.205043620803975, , , , 142130, False, 
+##[group]Run softprops/action-gh-release@v1, 22.28006408198912, , , , 442224, True, ##[error]⚠️ GitHub Releases requires a tag

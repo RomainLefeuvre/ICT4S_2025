@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 0.0134943529159287, , , , 5064090, False, 
+##[group]GITHUB_TOKEN Permissions, 15.78595221090896, , , , 3863518, False, 
+##[group]Run actions/checkout@v1, 102.33215975277236, , , , 25875369, False, 
+##[group]Run actions/setup-java@v4, 1.8109299293653185, , , , 303667, True, ##[error]Input required and not supplied: distribution
+##[group]Run ./gradlew --parallel release, 218.14783098395844, , , , 31583768, True, ##[error]Process completed with exit code 1.
+> Task :org.alloytools.alloy.wrappers:classes UP-TO-DATE, 8.451099541620943, , , , 196067, False, 
+> Task :org.alloytools.alloy.core:processResources, 4.321552797260631, , , , 107284, False, 
+> Task :org.alloytools.alloy.extra:classes UP-TO-DATE, 23.527824515306342, , , , 1292354, False, 
+> Task :org.alloytools.alloy.wrappers:jar, 3.7149572784741, , , , 96109, False, 
+> Task :org.alloytools.api:classes, 7.058436697728009, , , , 199658, False, 
+> Task :org.alloytools.api:jar, 35.14140447377957, , , , 705285, False, 
+> Task :org.alloytools.alloy.extra:release FAILED, 7.056931953094107, , , , 212812, False, 
+> Task :org.alloytools.pardinus.core:compileJava, 3.514533314026388, , , , 90499, False, 
+> Task :org.alloytools.alloy.wrappers:release FAILED, 34.000852618884394, , , , 2090944, False, 
+> Task :org.alloytools.pardinus.core:compileJava__dup_15, 15.91519172583527, , , , 507865, False, 
+##[group]Run cd org.alloytools.alloy.dist;./macos, 3.2677715355307786, , , , 216401, False, 
+##[group]Run actions/upload-artifact@v2, 8.243167486268955, , , , 2360927, False, 

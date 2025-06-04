@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn test,2059.1238825631026,232012683,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/mirromutth/mysql-action/v1.1/Dockerfile'.,103.7618911302792,21057414,False,
+##[group]Run mirromutth/mysql-action@v1.1,30.421456674634925,8995807,False,
+##[group]Run actions/setup-java@v2,21.13175451833976,1442718,False,
+##[group]Fetching the repository,4.45847186306192,461346,False,
+##[group]Run actions/checkout@v2,1.94907815173048,199241,False,
+##[group]Checking out the ref,1.1846574107155998,20595,False,
+##[group]Setting up auth,1.04457852081536,78037,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.016562742835312,70816,False,

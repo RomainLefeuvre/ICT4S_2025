@@ -1,0 +1,26 @@
+##[group]Run ./gradlew clean test --console=plain, 4539.391948517681, , , , 265027708, True, ##[error]Process completed with exit code 1.
+> Task :ngrinder-controller:test, 1633.9774650471377, , , , 107093781, False, 
+> Task :ngrinder-frontend:webpack, 753.2516091335708, , , , 32367028, False, 
+> Task :ngrinder-frontend:npmInstall, 493.7880327475457, , , , 27400383, False, 
+> Task :ngrinder-core:compileJava, 346.6292453568308, , , , 18400009, False, 
+##[group]Run actions/github-script@v6, 265.6714419209296, , , , 19307500, True, ##[error]Unhandled error: SyntaxError: Unexpected token ','
+> Task :ngrinder-runtime:compileJava, 248.3102043816592, , , , 9099789, False, 
+> Task :ngrinder-frontend:npmSetup SKIPPED, 207.91111852539444, , , , 8700082, False, 
+> Task :ngrinder-controller:compileJava, 164.29187201367287, , , , 5400035, False, 
+> Task :ngrinder-runtime:jar, 144.6410446404476, , , , 6605532, False, 
+> Task :ngrinder-controller:classes, 143.5975758826317, , , , 4932527, False, 
+> Task :ngrinder-groovy:compileJava, 105.70644346522428, , , , 5499653, False, 
+> Task :ngrinder-runtime:clean UP-TO-DATE, 95.49473744661384, , , , 7297930, False, 
+##[group]Installed distributions, 67.04236938501658, , , , 14641656, False, 
+##[group]GITHUB_TOKEN Permissions, 50.55726074226553, , , , 4418521, False, 
+##[group]📦 Process test results, 47.02683616917212, , , , 3200402, False, 
+> Task :ngrinder-controller:processResources, 16.40827204421425, , , , 1899927, False, 
+##[group]🚀 Publish results, 10.364677902486976, , , , 1674879, True, ##[error]❌ Tests reported 5 failures
+##[group]Fetching the repository, 10.28078268682433, , , , 1581533, False, 
+##[group]Checking out the ref, 3.935964471786911, , , , 139572, False, 
+##[group]Run actions/checkout@v3, 3.4591809981550097, , , , 179035, False, 
+> Task :ngrinder-core:classes, 3.0177488163992723, , , , 99374, False, 
+> Task :ngrinder-core:makeAgentDependencies, 2.9364354767982417, , , , 100006, False, 
+##[group]Setting up auth, 1.7658756144427674, , , , 53934, False, 
+##[group]Run izhangzhihao/delete-comment@master, 1.1353070356888395, , , , 487394, True, ##[error]Not Found
+Requested labels: self-hosted, 0.0419176159505266, , , , 4693069, False, 

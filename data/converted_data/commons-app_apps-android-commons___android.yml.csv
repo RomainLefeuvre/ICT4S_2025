@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 0.1837617816983179, , , , 5833744, False, 
+##[group]GITHUB_TOKEN Permissions, 114.4398675400722, , , , 4404348, False, 
+##[group]Run actions/checkout@v3, 2.274617148237824, , , , 161455, False, 
+##[group]Setting up auth, 1.1652448635724968, , , , 66652, False, 
+##[group]Fetching the repository, 6.66431300147003, , , , 1613958, False, 
+##[group]Checking out the ref, 2.49876901804947, , , , 176737, False, 
+##[group]Installed distributions, 2.400559498909151, , , , 230921, False, 
+##[group]Run actions/cache@v3, 5.651519862189652, , , , 1942087, False, 
+##[group]Run actions/cache@v3__dup_9, 1.428610510141289, , , , 604446, False, 
+##[group]Run reactivecircus/android-emulator-runner@v2, 0.3167342712961639, , , , 9252, False, 
+##[group]Install Android SDK, 0.3616671396424205, , , , 148107, False, 
+##[group]Install Android SDK__dup_12, 0.4066000079886771, , , , 18756, False, 
+##[group]Run ./gradlew -Pcoverage testBetaDebugUnitTestUnifiedCoverage --stacktrace, 633.4837933309963, , , , 59248921, True, ##[error]Process completed with exit code 1.
+##[group]Run curl -Os https://uploader.codecov.io/latest/linux/codecov, 10.07037062176184, , , , 1536666, True, ##[error]Process completed with exit code 255.
+##[group]Run bash ./gradlew assembleBetaDebug --stacktrace, 43.14404540100436, , , , 1392326, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 3.4046130688398195, , , , 102806, False, 
+##[group]Run bash ./gradlew assembleProdDebug --stacktrace, 34.06189983099925, , , , 1246200, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_18, 203.75696532577675, , , , 14711858, False, 

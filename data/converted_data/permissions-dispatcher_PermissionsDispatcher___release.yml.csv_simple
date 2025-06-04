@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew clean build,533.8944430515596,57338548,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew uploadArchives --no-daemon --no-parallel -PSONATYPE_NEXUS_USERNAME= -PSONATYPE_NEXUS_PASSWORD= -Psigning.keyId= -Psigning.password= -Psigning.secretKeyRingFile=$(echo ~/.gradle/secring.gpg),294.09489128713983,13089225,True,##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1,50.34184601881685,17471387,False,
+##[group]Run ./gradlew closeAndReleaseRepository,48.124841864505065,2094557,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,1.263628139765058,1904149,False,
+##[group]Fetching the repository,0.4644883450655496,459811,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.1725998756187453,130465,False,
+##[group]Run actions/checkout@v2,0.1667352256598678,186167,False,
+Requested labels: self-hosted,0.0906169101871058,4653520,False,
+##[group]Setting up auth,0.0884991815439517,91382,False,

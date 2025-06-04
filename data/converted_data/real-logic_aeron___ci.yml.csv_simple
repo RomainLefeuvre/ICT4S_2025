@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cppbuild/cppbuild --debug-build,127.80947760211724,13003294,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,44.4941357597577,2072966,False,
+Requested labels: self-hosted,44.4329460597645,32549574,False,
+##[group]Run actions/cache@v4__dup_8,16.248489753298344,1721798,False,
+##[group]Run actions/cache@v4,14.83290712908924,607524,False,
+##[group]Cleaning the repository,10.592942704912332,523688,False,
+##[group]Run actions/checkout@v4,10.59262158253768,195404,False,
+"##[group]Run echo 'Acquire::Retries ""${INSTALL_COMPILER_RETRIES}"";' | sudo tee -a /etc/apt/apt.conf.d/99retries",7.646363477733325,185964,True,##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions,6.23400098867273,4457106,False,
+##[group]Run java -Xinternalversion,2.63698223688807,41000,False,
+##[group]Setting up auth,2.118627075667425,119141,False,

@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./ci/danger/setup_bundler.sh,161.74048416383152,16746380,False,
+##[group]Installing Bundler,97.56437839690888,22067707,False,
+"##[group]Run [ ! -z $DANGER_GITHUB_API_TOKEN ] && bundle exec danger --dangerfile=./ci/danger/Dangerfile || echo ""Skipping Danger for External Contributor""",12.133785274580532,311211,False,
+##[group]Fetching the repository,10.110140642196829,1412225,False,
+##[group]GITHUB_TOKEN Permissions,9.136523559095684,2083038,False,
+##[group]Print Ruby version,1.7958327683721158,225819,False,
+##[group]Persisting credentials for submodules,1.6786571142574502,168163,False,
+##[group]Fetching submodules,1.6317868526115835,232772,False,
+##[group]Setting up auth,1.2568247594446529,102740,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.2099544977987868,147138,False,
+##[group]Run actions/checkout@v4.1.1,1.1630842361529203,153422,False,
+##[group]==END_FILE==,0.2419644592736528,3872763,False,

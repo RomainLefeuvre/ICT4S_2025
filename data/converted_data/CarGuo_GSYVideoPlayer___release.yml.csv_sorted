@@ -1,0 +1,8 @@
+##[group]Restore Gradle state from cache, 436.1531939638692, , , , 42151305, True, ##[error]Gradle build failed: see console output for details
+##[group]GITHUB_TOKEN Permissions, 185.8406029547172, , , , 3786111, False, 
+##[group]Caching Gradle state, 47.94881836928421, , , , 2986712, False, 
+##[group]Fetching the repository, 30.500155550010174, , , , 452402, False, 
+##[group]Run actions/checkout@v3, 14.198348273280594, , , , 161629, False, 
+##[group]Run ncipollo/release-action@v1, 9.760889876012408, , , , 597791, True, ##[error]Error undefined: No tag found in ref or input!
+##[group]Setting up auth, 7.362106512071421, , , , 66033, False, 
+Requested labels: self-hosted, 0.0167215456277036, , , , 5732990, False, 

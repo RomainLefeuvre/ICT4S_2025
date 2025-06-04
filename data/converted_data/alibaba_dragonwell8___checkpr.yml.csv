@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0, , , , 5458262, False, 
+##[group]GITHUB_TOKEN Permissions, 12.9967139718236, , , , 2314841, False, 
+##[group]Run actions/checkout@v2, 1.5225619024962431, , , , 183381, False, 
+##[group]Setting up auth, 0.7848257229362079, , , , 68256, False, 
+##[group]Fetching the repository, 40.50842564178245, , , , 26906466, False, 
+##[group]Checking out the ref, 88.84277077917, , , , 4919040, False, 
+##[group]Run dragonwell-releng/check_commit_action@master, 5.89213756286472, , , , 485094, True, ##[error]Can only be triggered on pull_request, current event=repository_dispatch

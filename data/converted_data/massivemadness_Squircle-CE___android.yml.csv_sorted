@@ -1,0 +1,18 @@
+##[group]Run ./gradlew :app:assembleDebug, 3569.4583445271887, , , , 107175461, True, ##[error]Process completed with exit code 1.
+Requested labels: self-hosted, 2319.693023029261, , , , 5024533, False, 
+##[group]GITHUB_TOKEN Permissions, 423.1992788259417, , , , 41300753, False, 
+##[group]Run actions/upload-artifact@v3__dup_18, 272.48868926332364, , , , 18191476, False, 
+> Task :build-logic:convention:processResources, 237.1565262300332, , , , 8396513, False, 
+##[group]Fetching the repository, 138.32037456387943, , , , 9863197, False, 
+##[group]Fetching submodules, 123.22878137609624, , , , 1136620, False, 
+##[group]Installed distributions, 101.03414721625026, , , , 1748028, False, 
+> Task :build-logic:convention:jar, 93.22851508787818, , , , 3995698, True, ##[error]Process completed with exit code 1.
+##[group]Checking out the ref, 57.91147725284176, , , , 536345, False, 
+##[group]Run ./gradlew testDebugUnitTest, 44.08768254809089, , , , 2425256, True, ##[error]Process completed with exit code 1.
+> Task :build-logic:convention:jar UP-TO-DATE, 38.275148801634806, , , , 1603962, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew ktlintCheck, 27.73748735494117, , , , 1249626, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3, 15.502399208282911, , , , 188251, False, 
+##[group]Run actions/upload-artifact@v3, 13.803763537529385, , , , 138088, False, 
+##[group]Setting up auth, 9.929825362880472, , , , 63039, False, 
+> Task :build-logic:convention:classes, 3.4060028996552774, , , , 99865, False, 
+##[group]Persisting credentials for submodules, 2.1107055780568498, , , , 162038, False, 

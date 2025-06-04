@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,241.49238107549888,24819766,False,
+##[group]==END_FILE==,97.24793191388014,4650664,False,
+##[group]Pull down action image 'ghcr.io/redhat-plumbers-in-action/differential-shellcheck:v3.3.1',84.16757163485055,27782008,False,
+##[group]Run redhat-plumbers-in-action/differential-shellcheck@v3,12.590848750958909,8300653,False,
+##[group]GITHUB_TOKEN Permissions,6.605233352608714,1979430,False,
+##[group]Getting Git version info,1.571164745872623,395528,False,
+##[group]Run actions/checkout@v3,1.2517096184559262,302958,False,
+##[group]Disabling automatic garbage collection,1.0212248614370556,249133,False,
+##[group]Setting up auth,0.9583653822500908,289123,False,
+##[group]Cleaning the repository,0.7157385071730176,268765,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.3753302200273322,124548,False,

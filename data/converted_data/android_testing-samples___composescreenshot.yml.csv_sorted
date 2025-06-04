@@ -1,0 +1,9 @@
+##[group]Run ./gradlew validateDebugScreenshotTest, 1643.3793804073307, , , , 96296602, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 657.7434702837415, , , , 846810, False, 
+##[group]Run actions/checkout@v3, 163.89427996941313, , , , 223337, False, 
+##[group]Checking out the ref, 114.44660993850954, , , , 90269, False, 
+##[group]Setting up auth, 95.0001805299807, , , , 77745, False, 
+##[group]Initializing the repository, 89.77896431187105, , , , 56482, False, 
+##[group]GITHUB_TOKEN Permissions, 44.32970763621314, , , , 4314307, False, 
+##[group]Installed distributions, 19.529236227211825, , , , 2258532, False, 
+Requested labels: self-hosted, 0.0, , , , 5184120, False, 

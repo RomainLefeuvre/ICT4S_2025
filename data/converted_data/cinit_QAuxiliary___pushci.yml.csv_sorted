@@ -1,0 +1,41 @@
+##[group]==END_FILE==, 1030.7830780422105, , , , 119101405, False, 
+##[group]==END_FILE==__dup_2, 1030.7830780422105, , , , 119097674, False, 
+Requested labels: self-hosted, 485.6248469160735, , , , 53813210, False, 
+##[group]Run git clone --recursive https://github.com/tdlib/telegram-bot-api.git, 296.5248550059256, , , , 22813177, False, 
+##[group]Fetching submodules, 273.2277093817131, , , , 37840224, False, 
+##[group]Run curl "https://gist.githubusercontent.com/qwq233/2a903f28a38d48d57731a1e4d6358948/raw/80e515d659a6f3c4737a1674f50fae5087e1f83c/taichi.py" -o taichi.py, 159.6999250100334, , , , 12455025, False, 
+##[group]==END_FILE==__dup_33, 86.0550370639701, , , , 12698131, False, 
+##[group]==END_FILE==__dup_38, 78.70278852701493, , , , 7929998, False, 
+##[group]Run sudo apt-get update, 76.88899843234105, , , , 8924819, False, 
+##[group]GITHUB_TOKEN Permissions__dup_14, 57.81531252832804, , , , 6821996, False, 
+##[group]Run actions/upload-artifact@v4__dup_32, 51.48295805399379, , , , 2640681, True, ##[error]Input required and not supplied: path
+##[group]Run sudo apt install -y ccache, 34.87206136204748, , , , 1913188, False, 
+##[group]GITHUB_TOKEN Permissions__dup_34, 33.152432238083904, , , , 1474823, False, 
+##[group]GITHUB_TOKEN Permissions, 32.64588921368535, , , , 3632725, False, 
+##[group]Run gradle/actions/setup-gradle@v3.2.1, 18.443698122558278, , , , 1507513, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.setup-gradle'
+##[group]Run actions/download-artifact@v4__dup_40, 15.982961802372172, , , , 939214, False, 
+##[group]Run actions/download-artifact@v4__dup_36, 15.885852971244914, , , , 640014, False, 
+##[group]Run actions/download-artifact@v4, 12.439901502428944, , , , 638468, False, 
+##[group]Run actions/upload-artifact@v4, 11.406987269076955, , , , 833112, False, 
+##[group]Run echo 'org.gradle.parallel=true' >> gradle.properties, 11.000285878264496, , , , 484941, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run actions/cache@v4.0.2__dup_25, 9.989224702123336, , , , 623515, False, 
+##[group]Run actions/upload-artifact@v4__dup_30, 9.74925739065916, , , , 288298, True, ##[error]Input required and not supplied: path
+##[group]GITHUB_TOKEN Permissions__dup_39, 8.282810214913756, , , , 1314958, False, 
+##[group]Run actions/upload-artifact@v4__dup_31, 7.532687807934119, , , , 278317, True, ##[error]Input required and not supplied: path
+##[group]Fetching the repository__dup_17, 7.424905911621473, , , , 2176680, False, 
+##[group]Run actions/upload-artifact@v4__dup_28, 6.578838702905734, , , , 290463, True, ##[error]Input required and not supplied: path
+##[group]Persisting credentials for submodules, 6.0968462532344345, , , , 392739, False, 
+##[group]Fetching the repository, 5.550084671873482, , , , 1127941, False, 
+##[group]Run actions/cache@v4.0.2, 4.864121651631746, , , , 1758944, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11__dup_15, 4.632354650483121, , , , 137190, False, 
+##[group]Run ESCAPED=`python3 -c 'import json_os_urllib.parse; msg = json.dumps(os.environ["COMMIT_MESSAGE"]); print(urllib.parse.quote(msg if len(msg) <= 1024 else json.dumps(os.environ["COMMIT_URL"])))'`, 4.340960875488583, , , , 177548, False, 
+##[group]Run actions/upload-artifact@v4__dup_29, 4.102281919738729, , , , 286844, True, ##[error]Input required and not supplied: path
+##[group]Installed distributions, 2.4267684290259277, , , , 32504, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 2.3293281387562312, , , , 139141, False, 
+##[group]Run echo "ANDROID_HOME=${ANDROID_HOME}", 2.244349124362115, , , , 177719, True, ##[error]Process completed with exit code 127.
+##[group]Initializing the repository, 2.193849116047171, , , , 80513, False, 
+##[group]Cleaning the repository, 2.089487468082306, , , , 56799, False, 
+##[group]Setting up auth, 2.058370093338112, , , , 56998, False, 
+##[group]Run actions/setup-java@v4.2.1, 1.934464684089208, , , , 830, False, 
+##[group]Checking out the ref, 1.0562482898268952, , , , 99439, False, 
+##[group]Setting up auth for fetching submodules, 0.7941654073371439, , , , 16089, False, 

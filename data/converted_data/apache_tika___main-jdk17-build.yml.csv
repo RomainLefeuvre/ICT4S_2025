@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 130.91505365958906, , , , 3638994, False, 
+##[group]GITHUB_TOKEN Permissions, 31.448228244724056, , , , 3173051, False, 
+##[group]Run actions/checkout@v4, 8.4147294368709, , , , 150223, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 17.89150228530384, , , , 6775311, False, 
+##[group]Cleaning the repository, 14.41488877348605, , , , 2564551, False, 
+##[group]Setting up auth, 2.329834570837108, , , , 145030, False, 
+##[group]Fetching the repository, 8.162284542984628, , , , 695717, False, 
+##[group]Run actions/setup-java@v1, 3.5026154013104103, , , , 288806, False, 
+##[group]Run mvn clean test install javadoc:aggregate, 27207.819628905647, , , , 1952499840, True, [ERROR[m] Surefire is going to kill self fork JVM. The exit has elapsed 30 seconds after System.exit(0).

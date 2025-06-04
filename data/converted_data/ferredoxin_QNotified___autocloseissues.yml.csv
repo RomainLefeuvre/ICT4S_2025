@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 0.0135295330749011, , , , 4525402, False, 
+##[group]GITHUB_TOKEN Permissions, 39.3631405592948, , , , 1941019, False, 
+##[group]Run actions/checkout@v2, 5.305466771035386, , , , 203852, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.738305430211812, , , , 61185, False, 
+##[group]Setting up auth, 2.795353460007891, , , , 90725, False, 
+##[group]Fetching the repository, 14.832487746980648, , , , 466622, False, 
+##[group]Run peter-evans/close-issue@v1, 20.023858458423877, , , , 662285, True, ##[error]Not Found

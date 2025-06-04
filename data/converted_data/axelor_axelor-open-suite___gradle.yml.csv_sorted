@@ -1,0 +1,17 @@
+##[group]Run actions/setup-java@v1, 152.58758742291585, , , , 32499043, False, 
+##[group]GITHUB_TOKEN Permissions, 39.65037131520701, , , , 4062673, False, 
+##[group]Run cd open-suite-webapp && ./gradlew test, 23.28683533094996, , , , 1006294, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Fetching the repository, 17.879748119910573, , , , 4329073, False, 
+##[group]Run cd open-suite-webapp && ./gradlew generateChangelog, 11.641463675458006, , , , 154469, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+Requested labels: self-hosted, 10.425965299155424, , , , 5471182, False, 
+##[group]Run git clone -b dev https://github.com/axelor/open-suite-webapp.git open-suite-webapp, 6.942875894108754, , , , 216844, False, 
+##[group]Run cd open-suite-webapp && ./gradlew -xtest clean build, 6.752752368171754, , , , 173965, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Run cd open-suite-webapp && ./gradlew checkXml, 5.821122635732397, , , , 151960, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Checking out the ref, 5.328884444175064, , , , 579740, False, 
+##[group]Run cd open-suite-webapp && ./gradlew spotlessCheck, 3.956421868937346, , , , 256702, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Run cd open-suite-webapp && ./gradlew checkCsvEOL, 3.478852450496414, , , , 200973, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Run actions/checkout@v2, 3.373717870716341, , , , 246842, False, 
+##[group]Setting up auth, 2.526923847983577, , , , 199708, False, 
+##[group]Run cd open-suite-webapp && ./gradlew checkBirtCredentials, 2.160045160850632, , , , 173491, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Cleaning the repository, 1.2171654905185638, , , , 107474, False, 
+##[group]Getting Git version info, 1.1863012015364138, , , , 103170, False, 

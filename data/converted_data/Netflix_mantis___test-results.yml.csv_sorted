@@ -1,0 +1,5 @@
+##[group]GITHUB_TOKEN Permissions, 93.79424582260869, , , , 1515494, False, 
+##[group]Pull down action image 'ghcr.io/enricomi/publish-unit-test-result-action:v2.16.1', 64.7173561462796, , , , 10140445, False, 
+##[group]Run EnricoMi/publish-unit-test-result-action@v2, 4.862287837894329, , , , 8524680, False, 
+##[group]Run mkdir -p artifacts && cd artifacts, 3.277460286952767, , , , 859328, False, 
+##[group]==END_FILE==, 0.0582090150617588, , , , 3787116, False, 

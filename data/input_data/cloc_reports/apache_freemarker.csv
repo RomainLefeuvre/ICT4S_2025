@@ -1,0 +1,1263 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.78 s (709.0 files/s 122550.5 lines/s)"
+XML,/tmp/clone_directory/freemarker-manual/src/main/docgen/en_US/book.xml,7104,16,37213
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Environment.java,328,947,2434
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/Configuration.java,288,1880,1661
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/StringUtil.java,164,530,1555
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Configurable.java,241,1744,1408
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/TaglibFactory.java,238,420,1343
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/ObjectBuilderSettingsTest.java,218,26,1272
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForSequences.java,181,58,1121
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/template/DefaultObjectWrapperTest.java,184,25,1065
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BeansWrapper.java,172,859,1045
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/utility/DateUtilTest.java,98,37,953
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/OverloadedNumberUtil.java,189,148,952
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/OutputFormatTest.java,121,33,940
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_ObjectBuilderSettingEvaluator.java,149,58,914
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/FreemarkerServlet.java,153,639,905
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ClassIntrospector.java,141,207,848
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/jdom/NodeListModel.java,92,308,831
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/OverloadedMethods2.java,261,18,819
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateConfigurationTest.java,131,35,801
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForStringsBasic.java,133,20,710
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateCache.java,105,256,649
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BeansWrapperSingletonsTest.java,125,46,632
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForMultipleTypes.java,81,50,631
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/DefaultObjectWrapperMemberAccessPolicyTest.java,122,23,618
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/DateUtil.java,109,194,610
+Gradle,/tmp/clone_directory/build.gradle.kts,112,35,585
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/DefaultTruncateBuiltinAlgorithmTest.java,66,27,576
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/NodeModel.java,68,173,555
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/MemberSelectorListMemberAccessPolicyTest.java,92,18,555
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/TemplateLookupStrategyTest.java,86,21,536
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/util/IdentityHashMap.java,97,227,524
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/TypeFlagsTest.java,118,19,524
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ArgumentTypes.java,52,162,521
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/Template.java,85,490,514
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/servlet/FreemarkerServletTest.java,58,38,509
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ArithmeticEngine.java,40,107,501
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DefaultTruncateBuiltinAlgorithm.java,72,206,494
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JSONParser.java,79,45,494
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/OverloadedNumberUtilTest.java,69,26,494
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/FreeMarkerPageContext.java,55,29,488
+Java,/tmp/clone_directory/freemarker-core/src/main/misc/identifierChars/src/main/freemarker/adhoc/IdentifierCharGenerator.java,41,23,483
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/test/templatesuite/TemplateTestCase.java,66,31,477
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/WithArgsBuiltInTest.java,81,31,463
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateConfiguration.java,56,218,462
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/EvalUtil.java,38,129,458
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ExtendedDecimalFormatParser.java,52,25,454
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/numerical-cast.txt,10,0,452
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AddConcatExpression.java,71,45,439
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltIn.java,53,42,439
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateException.java,75,166,428
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/_MethodUtil.java,41,76,426
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ParseException.java,56,159,425
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DynamicKeyName.java,45,48,413
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Macro.java,52,60,410
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/utility/StringUtilTest.java,83,36,409
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CamelCaseTest.java,75,32,408
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/IteratorBlock.java,38,83,396
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/RealServletContainertTest.java,89,30,378
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/ParameterListPreferabilityTest.java,40,34,374
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/DateFormatTest.java,62,29,366
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/cache/TemplateCacheTest.java,70,28,363
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/ClassUtil.java,45,139,359
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ConcatenatedSequenceTest.java,42,22,357
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/core/ASTPrinter.java,55,24,354
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/sequence-builtins.txt,69,0,335
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/TagTransformModel.java,54,36,334
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/RmiDebuggerService.java,38,31,326
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TextBlock.java,34,54,322
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/ant/FreemarkerXmlTask.java,68,253,309
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/Logger.java,65,211,305
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/_JdomNavigator.java,23,22,302
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltinVariable.java,28,26,301
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/TemplateTest.java,49,27,299
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_MessageUtil.java,54,43,298
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/SQLTimeZoneTest.java,48,19,297
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/FreemarkerRootExtension.kt,56,19,295
+XML,/tmp/clone_directory/src/ide-settings/Eclipse/Formatter-profile-FreeMarker.xml,2,16,295
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/NumberFormatTest.java,54,27,294
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateElement.java,63,176,291
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/sequence-builtins.ftl,54,16,291
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/testcases.xml,7,19,290
+Java,/tmp/clone_directory/freemarker-core16/src/test/java/freemarker/ext/beans/TestZeroArgumentNonVoidMethodPolicy.java,45,37,288
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ExtendedDecimalFormatTest.java,34,28,284
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateNameFormat.java,47,152,283
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/LazilyGeneratedCollectionTest.java,49,28,283
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/_DomNavigator.java,25,25,282
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/RmiDebuggedEnvironmentImpl.java,44,21,278
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnifiedCall.java,29,40,274
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BeanModel.java,40,148,274
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateConfigurationWithTemplateCacheTest.java,32,19,274
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_ErrorDescriptionBuilder.java,47,40,273
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/overloaded-methods-2-bwici-2.3.21.ftl,56,25,268
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/range-common.ftl,27,25,262
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/OverloadedMethodsSubset.java,45,120,261
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/test/servlet/WebAppTestCase.java,63,43,261
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForNumbers.java,37,24,259
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/IncludeAndImportConfigurableLayersTest.java,60,18,259
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/NodeListModel.java,26,285,255
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForStringsRegexp.java,50,23,248
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MemberSelectorListMemberAccessPolicy.java,30,133,247
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Assignment.java,30,29,245
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleHash.java,39,163,242
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultArrayAdapter.java,79,50,241
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultObjectWrapper.java,36,217,228
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/DOMNodeModel.java,27,23,228
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/Navigator.java,44,22,226
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/FileTestCase.java,47,22,226
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateNameSpecialVariablesTest.java,24,20,224
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/utility/TemplateModelUtilTest.java,53,22,223
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/JakartaSourceRootGeneratorTask.kt,37,18,222
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/NodeOutputter.java,16,25,218
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/test/templatesuite/TemplateTestSuite.java,46,42,215
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ISOLikeTemplateDateFormat.java,23,24,214
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/cache/TemplateNameFormatTest.java,47,87,213
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/overloaded-methods-2-bwici-2.3.20.ftl,48,25,212
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForCallables.java,38,23,211
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateProcessingTracerTest.java,17,18,210
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/ResourcesExtractor.java,23,55,209
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/OverloadedMethods.java,36,33,207
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/FileTemplateLoader.java,31,110,205
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/TestUtil.java,37,24,205
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/_Dom4jNavigator.java,23,22,202
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/test/MonitoredTemplateLoader.java,41,19,198
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins3.ftl,11,16,198
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/MruCacheStorage.java,34,96,197
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/IncludeAndImportTest.java,34,35,197
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/InitParamParser.java,35,35,196
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8BeansWrapperTest.java,12,34,193
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/template/MockServletContext.java,64,54,193
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/list2.txt,18,0,193
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ClassIntrospectorBuilder.java,40,61,192
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/HashLiteral.java,36,22,191
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Include.java,27,41,191
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/JaxenXPathSupport.java,21,27,191
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/comparisons.ftl,12,37,191
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/Version.java,42,68,190
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EnvironmentGetTemplateVariantsTest.java,16,18,190
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/ManyObjectsOfDifferentClasses.java,7,53,189
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/NodeListModel.java,20,29,185
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/DirectiveCallPlaceTest.java,44,20,184
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/CompileJavaccTask.kt,33,18,183
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/ElementModel.java,17,36,182
+Markdown,/tmp/clone_directory/README.md,51,5,181
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/ManyStaticsOfDifferentClasses.java,7,49,180
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/TemplateModelUtils.java,39,79,178
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/MapBiTest.java,30,25,175
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/cache/TemplateConfigurationFactoryTest.java,37,19,174
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/IncludePage.java,19,64,174
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonWrapper.java,26,78,173
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/dom/DOMConvenienceStaticsTest.java,23,20,172
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/OverloadedVarArgsMethods.java,19,63,169
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/VersionTest.java,35,24,168
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/OptInTemplateClassResolverTest.java,22,30,167
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TagSyntaxVariationsTest.java,33,38,167
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BeansWrapperConfiguration.java,48,101,166
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/template/TemplateNotFoundMessageTest.java,22,19,166
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/CustomAttributeTest.java,43,20,164
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/listhash.txt,37,0,164
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/PropertySetting.java,21,23,161
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/utility/NumberUtilTest.java,24,33,161
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/IntermediateStreamOperationLikeBuiltIn.java,33,46,160
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/Transform.java,11,42,160
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/EventForwarding.java,21,26,157
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/GetOptionalTemplateMethod.java,25,24,156
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/_BeansAPI.java,30,44,156
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/FilterBiTest.java,24,18,156
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_CoreAPI.java,25,48,155
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForDates.java,32,31,153
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Expression.java,33,66,153
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ListLiteral.java,20,26,151
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/StringLiteral.java,24,35,151
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/DefaultMemberAccessPolicy.java,18,33,150
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/HashAdapter.java,20,21,148
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/CustomTagAndELFunctionCombiner.java,38,38,148
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForStringsEncoding.java,40,19,146
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/RegexpHelper.java,32,29,145
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/StandardCompress.java,20,73,145
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/GetOptionalTemplateTest.java,22,18,145
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/HTMLOutputFormatTest.java,21,21,144
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CombinedMarkupOutputFormatTest.java,32,18,143
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForStringsMisc.java,25,23,141
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/_TemplateAPI.java,30,35,139
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/web.xml,15,25,139
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/cache/TemplateSourceMatcherTest.java,24,27,137
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/IsApplicableTest.java,20,18,137
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/SLF4JLoggerFactory.java,40,30,136
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ArgsSpecialVariableTest.java,19,18,136
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/OverloadedMethods.java,34,21,136
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/JSONParserTest.java,18,18,135
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/JspWriterAdapter.java,35,18,135
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/string-builtins2.txt,0,0,135
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ThreadInterruptingSupportTest.java,30,20,134
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/MethodMatcherTest.java,25,21,133
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/TemplateConfigurationExamples.java,33,20,133
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/Listables.java,35,21,133
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/JspTagModelBase.java,10,27,132
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/MultiTemplateLoader.java,31,76,131
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CTemplateNumberFormat.java,13,54,131
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleSequence.java,27,149,131
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/CommonSupertypeForUnwrappingHintTest.java,31,22,131
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ConfigurableTest.java,24,25,129
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NumericalOutput.java,20,28,128
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/FreeMarkerJspApplicationContext.java,18,18,128
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonModel.java,17,40,127
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/hashconcat.txt,11,0,127
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/dateformat-iso-bi-common.ftl,15,17,127
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SimpleMethod.java,20,29,126
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/servlet/InitParamParserTest.java,25,18,126
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/RmiDebugModelImpl.java,20,20,125
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CallerTemplateNameTest.java,20,18,125
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaTemplateDateFormatFactory.java,21,28,124
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/dateformat-iso-like.ftl,13,18,124
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/FineTuneMethodAppearanceTest.java,34,20,123
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/web.xml,18,31,123
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TokenMgrError.java,28,113,122
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TransformBlock.java,17,30,121
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/StaticModel.java,15,43,121
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TruncateBuiltInTest.java,31,20,119
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/ErrorMessagesTest.java,28,26,119
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/MethodUtilTest2.java,27,18,119
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/cache/WebappTemplateLoader.java,26,84,119
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/AssertFailsDirective.java,14,18,119
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CAndCnBuiltInTest.java,19,19,118
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins2.ftl,2,16,118
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateObject.java,32,113,117
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/InterpolationSyntaxTest.java,35,21,117
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LegacyConstructorParserConfiguration.java,21,23,116
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForNodes.java,18,22,115
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/dom/DOMTest.java,23,22,114
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LocalLambdaExpression.java,24,35,113
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DefaultToExpression.java,19,19,112
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/NumberUtil.java,13,52,112
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/TLDParsingTest.java,27,18,112
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/existence-operators.ftl,13,16,112
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/SunInternalXalanXPathSupport.java,17,27,111
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/XalanXPathSupport.java,15,24,111
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CTemplateNumberFormatTest.java,14,19,111
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/UncheckedExceptionHandlingTest.java,27,19,111
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/DefaultMemberAccessPolicyTest.java,20,18,111
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsWithLazyConditionals.java,26,22,110
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/DeepUnwrap.java,8,59,110
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BlockAssignment.java,17,21,109
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ResourceBundleModel.java,17,65,109
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DollarVariable.java,19,31,108
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/rhino/RhinoScriptableModel.java,18,21,108
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ListErrorsTest.java,16,18,108
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TakeWhileAndDropWhileBiTest.java,21,19,108
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateTransformModelTest.java,37,21,108
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BeansWrapperMiscTest.java,29,22,108
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/TransformModel1.java,15,51,108
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/InvalidReferenceException.java,17,45,107
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/template/SimpleObjectWrapperTest.java,19,18,107
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/bean-maps.txt,8,0,107
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/switch.ftl,11,25,106
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_CoreStringUtils.java,14,39,104
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/MethodUtilTest.java,34,18,104
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/ByteArrayTemplateLoader.java,19,40,103
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/StringTemplateLoader.java,21,98,103
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BodyInstruction.java,24,38,103
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/boolean.ftl,27,16,103
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CoercionToTextualTest.java,16,19,102
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/IteratorIssuesTest.java,29,18,101
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins-regexps.ftl,20,16,101
+Text,/tmp/clone_directory/freemarker-manual/src/main/docgen/en_US/docgen-help/editors-readme.txt,29,0,101
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Interpret.java,15,44,100
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/SwitchBlock.java,21,32,100
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/expected/customTags1.txt,6,0,100
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LegacyCFormat.java,24,50,99
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultMapAdapter.java,19,44,99
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins1.ftl,20,18,98
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/URLTemplateSource.java,13,36,96
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ArithmeticExpression.java,18,22,95
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/FreemarkerTag.java,20,25,95
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/string-builtins1.txt,18,0,95
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForLoopVariables.java,45,18,94
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ClassBasedModelFactory.java,21,33,94
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/string-builtins-regexps.txt,18,0,94
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/RecurseNode.java,18,22,93
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/Constants.java,40,38,93
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/if.txt,11,0,93
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/OptInTemplateClassResolver.java,15,51,92
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/DebuggerServer.java,13,21,92
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SimpleMapModel.java,16,25,92
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BeansAPINewInstanceTest.java,22,23,92
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/DebuggerClient.java,16,39,91
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/RTFOutputFormatTest.java,20,18,91
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/SoftCacheStorage.java,18,37,90
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/MethodCall.java,20,28,90
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/VisitNode.java,17,22,90
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ParsingErrorMessagesTest.java,15,22,90
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/StringLiteralInterpolationTest.java,16,23,90
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SimpleMethodModel.java,13,37,89
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/CaptureOutput.java,12,46,89
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/test/servlet/Model2TesterServlet.java,23,27,89
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForExistenceHandling.java,20,26,88
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CustomAttribute.java,22,155,88
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ArithmeticEngineTest.java,20,18,88
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/AbstractParallelIntrospectionTest.java,21,18,88
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/ExceptionTest.java,16,18,88
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins-regexps-matches.ftl,14,16,88
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/TypeFlags.java,13,30,87
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/string-builtins-regexps-matches.txt,12,0,87
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/number-literal.ftl,30,16,87
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/FreemarkerRootPlugin.kt,19,19,86
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/ClassTemplateLoader.java,23,110,86
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/MemberAccessMonitoringTest.java,24,18,86
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/util/ModelCache.java,18,40,85
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateExceptionHandler.java,16,58,85
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/PrintfGTemplateNumberFormatFactory.java,21,25,85
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/WEB-INF/web.xml,10,18,85
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/comparisons.txt,7,0,85
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInWithParseTimeParameters.java,22,25,84
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LibraryLoad.java,17,29,84
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Range.java,17,22,84
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/cache/FileTemplateLoaderTest.java,19,18,84
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/SimpleTagDirectiveModel.java,12,22,84
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/whitespace-trim.ftl,2,16,84
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/IfBlock.java,15,23,83
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/MiscNumericalOperationsTest.java,17,22,83
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/JavaCCExceptionAsEOFFixTest.java,18,24,83
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/TemplateConstructorsTest.java,10,19,83
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/assignments.ftl,9,16,83
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/transforms.ftl,21,16,83
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/FreeMarkerTree.java,21,23,82
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/BaseNTemplateNumberFormatFactory.java,15,24,82
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateLevelSettings.java,15,18,82
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleCollection.java,22,66,81
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ComparisonExpression.java,15,25,80
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnexpectedTypeException.java,14,28,80
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Items.java,14,27,79
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AssignmentInstruction.java,16,23,78
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaTemplateNumberFormatFactory.java,17,23,78
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/LegacyDefaultMemberAccessPolicy.java,15,24,78
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CommonMarkupOutputFormat.java,19,38,77
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ArrayModel.java,16,34,77
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/AppMetaTemplateDateFormatFactory.java,23,19,77
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/NullTransparencyTest.java,21,20,77
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/boolean.txt,25,0,77
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/multimodels.txt,16,0,77
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ConditionalBlock.java,16,22,76
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/if.ftl,13,20,76
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/EscapeBlock.java,18,22,75
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/TaglibMethodUtil.java,15,28,75
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/TLDParsingTest.tld,10,16,75
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ListBreakContinueTest.java,18,19,74
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnaryPlusMinusExpression.java,15,18,73
+Properties,/tmp/clone_directory/freemarker-core/src/main/resources/freemarker/ext/beans/unsafeMethods.properties,13,22,73
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TypeErrorMessagesTest.java,15,18,73
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/ConfigureOutputFormatExamples.java,22,22,73
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/switch.txt,9,0,73
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TrimInstruction.java,15,23,72
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/iterators.txt,15,0,71
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/MixedContent.java,17,31,70
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_TemplateModelException.java,31,32,70
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultObjectWrapperConfiguration.java,18,45,70
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/HttpRequestHashModel.java,15,29,70
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ThreadInterruptionSupportTemplatePostProcessor.java,22,50,69
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ListWithStreamLikeBuiltinsTest.java,11,24,69
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/SpecialVariableTest.java,15,18,69
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Dot.java,16,25,68
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ListElseContainer.java,16,18,68
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_AvalonLoggerFactory.java,18,22,68
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_JULLoggerFactory.java,18,22,68
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_Log4jLoggerFactory.java,18,22,68
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/HttpRequestParametersHashModel.java,13,24,68
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/expected/attributes-2.3.0.txt,0,0,68
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/expected/attributes-2.3.22-future.txt,5,0,68
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/expected/attributes.txt,5,0,68
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonHashModel.java,9,40,68
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonModelCache.java,9,24,68
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/stringliteral.txt,11,0,68
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/hashliteral.ftl,23,16,68
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/AllTemplateModels.java,24,21,68
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/CommonsLoggingLoggerFactory.java,21,22,67
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/IsMoreSpecificParameterTypeTest.java,17,18,67
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Identifier.java,15,24,66
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ASTTest.java,22,18,66
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/TaglibMethodUtilTest.java,23,18,66
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/attributes.ftl,8,16,66
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/test/servlet/web.xml,12,23,66
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/boolean-formatting.ftl,6,16,66
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MemberMatcher.java,13,45,65
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/OverloadedFixArgsMethods.java,12,26,65
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultEnumerationAdapter.java,19,35,65
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/HTMLISOTemplateDateFormatFactory.java,20,19,65
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/MinMaxBITest.java,13,19,65
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TabSizeTest.java,14,18,65
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestTag.java,13,20,65
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/expected/test1.txt,8,0,65
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/macros.ftl,21,16,65
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/Java7MembersOnlyBeansWrapper.java,14,22,65
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MapModel.java,10,47,64
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BeansWrapperCachesTest.java,15,19,64
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/include.txt,16,0,64
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/xml.txt,1,0,64
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultIteratorAdapter.java,20,45,63
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BeansWrapperReadOnlyTest.java,12,22,63
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/MistakenlyPublicImportAPIsTest.java,18,25,63
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/dom/DOMSiblingTest.java,19,18,62
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_MiscTemplateException.java,29,36,61
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/SequenceBuiltInTest.java,17,19,61
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/escapes.ftl,2,16,61
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/list2.ftl,13,16,61
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/FirstMatchTemplateConfigurationFactory.java,15,43,60
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateLookupResult.java,25,52,60
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CombinedMarkupOutputFormat.java,19,32,60
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ListableRightUnboundedRangeModel.java,14,23,60
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_UnmodifiableCompositeSet.java,17,21,60
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/HttpSessionHashModel.java,14,41,60
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/whitespace-trim.txt,0,0,60
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/dateparsing.ftl,8,16,60
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/MultiModel1.java,10,41,60
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/DebugModel.java,17,29,59
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EpochMillisDivTemplateDateFormatFactory.java,16,19,59
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonSequenceModel.java,10,27,59
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CollectionAndSequence.java,11,22,58
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DebugBreak.java,12,24,58
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ParameterRole.java,10,25,58
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/EmptyMap.java,16,28,58
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/XmlEscape.java,8,25,58
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/main/misc/overloadedNumberRules/generator.ftl,6,16,58
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/InterpretSettingInheritanceTest.java,16,22,58
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/transforms.txt,17,0,58
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/RationalNumber.java,14,18,58
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/AssertEqualsDirective.java,12,20,58
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Case.java,13,21,57
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ReturnInstruction.java,14,22,57
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_ParserConfigurationWithInheritedFormat.java,16,21,57
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/OptimizerUtil.java,6,34,57
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/AttemptLoggingTest.java,17,21,57
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/CustomFormatsExample.java,17,18,57
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/el-functions.tld,11,16,57
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ExistsExpression.java,15,19,56
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ParentheticalExpression.java,17,18,56
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/XSTemplateDateFormat.java,14,21,56
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/CollectionAdapter.java,11,21,56
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/Namespaces.java,10,20,56
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_NullLoggerFactory.java,16,22,56
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/StaticModelsTest.java,17,18,56
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ISOTemplateDateFormat.java,14,18,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonSequenceOrCollectionException.java,13,24,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NumberLiteral.java,17,22,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Sep.java,13,22,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_JavaVersions.java,8,32,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/RmiDebuggerImpl.java,15,20,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/HtmlEscape.java,8,45,55
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/ant/JythonAntTask.java,11,26,55
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/beans.txt,1,0,55
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/number-literal.txt,24,0,55
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/number-math-builtins.ftl,7,16,55
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/overloaded-methods-23bc.ftl,14,0,55
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/variables.ftl,15,0,55
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AttemptBlock.java,14,21,54
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NewBI.java,10,22,54
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/EmptyMemberAndArguments.java,14,25,54
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ReflectionCallableMemberDescriptor.java,17,24,54
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultNonListCollectionAdapter.java,15,45,54
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/LocAndTZSensitiveTemplateDateFormatFactory.java,16,19,54
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/utility/DeepUnwrapTest.java,19,19,54
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/loopvariable.txt,0,0,54
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/overloaded-methods-2-common.ftl,14,21,54
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BooleanLiteral.java,17,18,53
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/SecurityUtilities.java,7,20,53
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplatGetEncodingTest.java,14,18,53
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/AllHttpScopesHashModel.java,13,53,53
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/dateformat-java.txt,2,0,53
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/exthash.txt,23,0,53
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/hashliteral.txt,21,0,53
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/listliteral.txt,22,0,53
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/numerical-cast.ftl,13,16,53
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/ChecksumFileTask.kt,11,18,52
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/CollectionModel.java,11,47,52
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/GeneralPurposeNothing.java,18,23,52
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/EnumModelsTest.java,15,18,52
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/test/servlet/DefaultModel2TesterAction.java,18,21,52
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/test.tld,7,16,52
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/errors/WEB-INF/web.xml,18,22,52
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/dateformat-java.ftl,4,19,52
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/identifier-escaping.ftl,13,16,52
+XML,/tmp/clone_directory/src/ide-settings/IntelliJ-IDEA/Java-code-style-FreeMarker.xml,2,16,52
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaCFormat.java,15,23,51
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/OutputFormatBlock.java,15,21,51
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/NormalizeNewlines.java,8,55,51
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/cache/MultiTemplateLoaderTest.java,16,18,51
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CFormatTemplateTest.java,10,18,51
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/multipleLoaders/WEB-INF/web.xml,10,22,51
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/FreemarkerVersionService.kt,13,18,50
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Comment.java,16,25,50
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/XSCFormat.java,14,35,50
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/DebuggerService.java,17,26,50
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultListAdapter.java,17,47,50
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CustomCFormat.java,15,18,50
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EpochMillisTemplateDateFormatFactory.java,16,19,50
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/InterpretAndEvalTemplateNameTest.java,12,22,50
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8DefaultMethodsBeanBase.java,13,27,50
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/FreeMarkerJspFactory.java,10,27,50
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/multimodels.ftl,18,16,50
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AndExpression.java,14,18,49
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CompressedBlock.java,14,23,49
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/OrExpression.java,14,18,49
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/StopInstruction.java,13,21,49
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/rhino/RhinoWrapper.java,7,32,49
+Java,/tmp/clone_directory/freemarker-core16/src/test/java/freemarker/ext/beans/TestZeroArgumentNonVoidMethodPolicyAndClashingBeansProps.java,13,19,49
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/escapes.txt,0,0,49
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/list3.txt,8,0,49
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/macros.txt,18,0,49
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/variables.txt,13,0,49
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BeanTestClass.java,20,20,49
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/DomStringUtil.java,8,37,48
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/MistakenlyPublicMacroAPIsTest.java,17,24,48
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/cano-identifier-escaping.ftl,12,16,48
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/identifier-escaping.txt,9,0,48
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,4,16,47
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/APINotSupportedTemplateException.java,8,21,47
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForOutputFormatRelated.java,13,23,47
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateElementArrayBuilder.java,13,42,47
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/EnumerationModel.java,11,50,47
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/IteratorModel.java,11,54,47
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/BreakAndContinuePlacementTest.java,10,18,47
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/DummyOutputFormat.java,14,19,47
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestFunctions.java,13,19,47
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/xmlns1.txt,16,0,47
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/hashconcat.ftl,13,0,47
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/range-lazy.ftl,13,17,47
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/URLTemplateLoader.java,15,61,46
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ExpressionWithFixedResult.java,14,21,46
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_SortedArraySet.java,15,19,46
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/MiscErrorMessagesTest.java,14,18,46
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8DefaultMethodsBean.java,13,24,46
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/stringliteral.ftl,7,16,46
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NoEscapeBlock.java,14,20,45
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ASTBasedErrorMessagesTest.java,17,18,45
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CapturingAssignmentTest.java,10,18,45
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/template/utility/JythonRuntime.java,9,21,45
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/MergingTemplateConfigurationFactory.java,9,25,44
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AutoEscBlock.java,14,21,44
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NoAutoEscBlock.java,14,21,44
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NotExpression.java,13,18,44
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/OverloadedMethodsModel.java,10,29,44
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/DocumentModel.java,11,22,44
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/test/TreeView.java,8,18,44
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/exception2.txt,3,0,44
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/bean-maps.ftl,14,0,44
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/list3.ftl,10,16,44
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/listliteral.ftl,24,16,44
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/number-format.ftl,2,16,44
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/ConditionalTemplateConfigurationFactory.java,9,24,43
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AliasTemplateDateFormatFactory.java,8,40,43
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ElseOfList.java,13,21,43
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/RecoveryBlock.java,13,18,43
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateClassResolver.java,14,52,43
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/AttributeNodeModel.java,9,18,43
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/ToCanonical.java,8,26,43
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/encoding-builtins-ici-2.3.20.txt,1,0,43
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/encoding-builtins.txt,1,0,43
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/list-bis.txt,8,0,43
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/noparse.txt,11,0,43
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/AssertDirective.java,11,18,43
+HTML,/tmp/clone_directory/src/dist/bin/documentation/index.html,6,16,43
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/ManualBuildTask.kt,9,18,42
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AliasTemplateNumberFormatFactory.java,8,40,42
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonStringOrTemplateOutputException.java,13,22,42
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BeansModelCache.java,11,20,42
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateModelException.java,15,83,42
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/AbsoluteTemplateNameBITest.java,12,18,42
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CanonicalFormTest.java,14,18,42
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CoreLocaleUtilsTest.java,12,18,42
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EndTagSyntaxTest.java,16,18,42
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/LegacyDefaultMemberAccessPolicyTest.java,12,19,42
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/beans.ftl,2,16,42
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/listhash.ftl,12,16,42
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonNumericalException.java,12,21,41
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/DateModel.java,8,31,41
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/UnitAwareTemplateNumberFormatFactory.java,14,25,41
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/exception.txt,2,0,41
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/HashAndScalarModel.java,16,18,41
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/FileExtensionMatcher.java,10,35,40
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonMethodException.java,12,32,40
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/NullWriter.java,16,34,40
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EncodingOverrideTest.java,12,18,40
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/UnclosedCommentTest.java,10,18,40
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/WhitespaceStrippingTest.java,12,19,40
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/list.txt,11,0,40
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/iterators.ftl,17,16,40
+Text,/tmp/clone_directory/freemarker-manual/src/main/docgen/en_US/docgen-originals/figures/odg-convert-howto.txt,3,0,40
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AbstractJSONLikeFormat.java,10,28,39
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaTemplateDateFormat.java,12,21,39
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonStringException.java,13,22,39
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/LocaleSensitiveTemplateNumberFormatFactory.java,14,19,39
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/AttributeAccessorTag.java,11,18,39
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/classic-compatible.txt,2,0,39
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/include2.txt,5,0,39
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/varargs.txt,5,0,39
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/wstripping.txt,0,0,39
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/FallbackInstruction.java,13,18,38
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/Breakpoint.java,10,35,38
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SequenceAdapter.java,10,20,38
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/HexTemplateNumberFormatFactory.java,14,19,38
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/SeldomEscapedOutputFormat.java,13,19,38
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/GetlessMethodsAsPropertyGettersRule.java,11,20,38
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonNumberModel.java,6,27,38
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/precedence.txt,10,0,38
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/arithmetic.ftl,12,0,38
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/SignatureTask.kt,7,18,37
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/FileNameGlobMatcher.java,12,37,37
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/PathGlobMatcher.java,12,51,37
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaTemplateNumberFormat.java,11,18,37
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/MiscUtil.java,13,26,37
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BeansWrapperBuilder.java,14,111,37
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/HeaderParsingTest.java,10,18,37
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/ActualNamingConvetionTest.java,10,18,37
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/TemplateLanguageVersionTest.java,9,18,37
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/var-layers.txt,0,0,37
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/RmiDebuggerListenerImpl.java,9,21,36
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ExecutableMemberSignature.java,9,29,36
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/MapKeyValuePairIterator.java,13,24,36
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/AutoEscapingExample.java,11,18,36
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/ActualTagSyntaxTest.java,12,18,36
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/ServletContextHashModel.java,9,32,36
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonVersionAdapterHolder.java,7,27,36
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/arithmetic.txt,10,0,36
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanList1.java,12,38,36
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/VarArgTestModel.java,9,18,36
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NestedContentNotSupportedException.java,10,23,35
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8BeansWrapperBridgeMethodsTest.java,12,18,35
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/GetAndSetTag.java,13,18,35
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/customTags1.ftl,8,16,35
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/compress.txt,5,0,35
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xmlns3.ftl,11,24,35
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xmlns4.ftl,11,24,35
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/HTMLOutputFormat.java,12,34,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/RTFOutputFormat.java,12,34,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/StopException.java,11,21,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/XHTMLOutputFormat.java,12,34,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/XMLOutputFormat.java,12,34,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultIterableAdapter.java,12,44,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleNumber.java,14,27,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/WrappingTemplateModel.java,12,69,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/Execute.java,11,57,34
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BeansWrapperBasics.java,10,19,34
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/GetPropertyNameFromReaderMethodNameTest.java,9,18,34
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/ModelCacheTest.java,14,18,34
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/import.txt,6,0,34
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/root.txt,10,0,34
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/classic-compatible.ftl,4,16,34
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/noparse.ftl,13,16,34
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/LegacyList.java,10,34,34
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BoundedRangeModel.java,11,26,33
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/FlushInstruction.java,11,21,33
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/DefaultObjectWrapperBuilder.java,12,37,33
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleDate.java,9,39,33
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/IncudeFromNamelessTest.java,9,18,33
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/CONTENTS.txt,3,0,33
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/listhashliteral-ici-2.3.20.txt,6,0,33
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/type-builtins-ici-2.3.21.txt,0,0,33
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/type-builtins-ici-2.3.24.txt,0,0,33
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/type-builtins.txt,0,0,33
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/xmlns4.txt,14,0,33
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/encoding-builtins.ftl,3,16,33
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/precedence.ftl,12,16,33
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonUserDefinedDirectiveLikeException.java,11,24,32
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateFormatUtil.java,8,36,32
+Text,/tmp/clone_directory/freemarker-core/src/main/misc/overloadedNumberRules/README.txt,2,0,32
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/XHTMLOutputFormatTest.java,10,18,32
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/XMLOutputFormatTest.java,10,18,32
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/ExamplesTest.java,8,18,32
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/AttributeInfoTag.java,9,18,32
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/expected/test-noClasspath.txt,0,0,32
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/ant/UnlinkedJythonOperationsImpl.java,8,21,32
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/comment.txt,2,0,32
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/non-strict-syntax.txt,5,0,32
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BreakInstruction.java,12,21,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForDate.java,7,19,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForHashEx.java,7,18,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ContinueInstruction.java,12,21,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonSequenceException.java,11,23,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/AllowAllMemberAccessPolicy.java,9,18,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/MethodCallAwareTemplateHashModel.java,10,84,31
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/BooleanFormatEnvironmentCachingTest.java,7,18,31
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/NumberBiTest.java,8,18,31
+Java,/tmp/clone_directory/freemarker-core9/src/test/java/freemarker/core/Java9ImplTest.java,10,18,31
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/JspContextModel.java,8,21,31
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/loopvariable.ftl,2,16,31
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/setting.ftl,12,16,31
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/StrongCacheStorage.java,10,33,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonBooleanException.java,11,21,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonExtendedHashException.java,11,21,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonExtendedNodeException.java,11,23,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonHashException.java,11,23,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonNodeException.java,11,23,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/JRebelClassChangeNotifier.java,10,18,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/AtAtKey.java,7,21,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/rhino/RhinoFunctionModel.java,8,20,30
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CustomHTMLOutputFormat.java,11,25,30
+Properties,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/TemplateConfigurationExamples3.properties,1,16,30
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/listhashliteral-ici-2.3.21.txt,6,0,30
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/number-format.txt,0,0,30
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/switch-builtin.ftl,8,16,30
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateLookupContext.java,13,66,29
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DotBeforeMethodCall.java,4,26,29
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonMarkupOutputException.java,11,23,29
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonNamespaceException.java,11,23,29
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_SettingEvaluationEnvironment.java,11,22,29
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/DocumentTypeModel.java,10,18,29
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestSimpleTag.java,7,18,29
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/CONTENTS.txt,8,0,29
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/test1.ftl,10,16,29
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/number-to-date.txt,2,0,29
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/stringbimethods.txt,0,0,29
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/recover.ftl,2,16,29
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CommandLine.java,7,25,28
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DynamicKeyNameBeforeMethodCall.java,4,18,28
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazySequenceIterator.java,6,23,28
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/StringArraySequence.java,6,26,28
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/GettingStartedExample.java,11,28,28
+Java,/tmp/clone_directory/freemarker-core16/src/test/java/freemarker/ext/beans/NotExportedInternalPackageTest.java,11,21,28
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/boolean-formatting.txt,4,0,28
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/helloworld.txt,3,0,28
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/localization.txt,4,0,28
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/new-optin.txt,4,0,28
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/newlines2.txt,2,0,28
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/include2.ftl,7,16,28
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xml.ftl,2,17,28
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/CopyrightCommentRemoverTemplateLoader.java,11,23,28
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/MultiModel5.java,10,36,28
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/TransformHashWrapper.java,8,37,28
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/BadParameterTypeException.java,9,23,28
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForHashes.java,9,22,27
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazyCollectionTemplateModelIterator.java,8,21,27
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LocalContextStack.java,7,23,27
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonDateException.java,10,21,27
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MemberAndArguments.java,11,26,27
+Java,/tmp/clone_directory/freemarker-core16/src/main/java/freemarker/core/_Java16Impl.java,6,24,27
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/WEB-INF/el-function-tag-name-clash.tld,7,16,27
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/lastcharacter.txt,4,0,27
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/newlines1.txt,2,0,27
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/xml-ns_prefix-scope.txt,2,0,27
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/compress.ftl,16,16,27
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/range-ici-2.3.21.ftl,7,16,27
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/then-builtin.ftl,10,16,27
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateConfigurationFactory.java,9,56,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CommonTemplateMarkupOutputModel.java,9,45,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ISOLikeTemplateDateFormatFactory.java,8,18,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazilyGeneratedCollectionModelWithSameSizeCollEx.java,7,22,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazilyGeneratedCollectionModelWithSameSizeSeq.java,7,22,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/RangeModel.java,12,21,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/SingleIterationCollectionModel.java,6,24,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_ArrayIterator.java,9,19,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/Debugger.java,12,57,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/NumberModel.java,4,31,26
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/CONTENTS.txt,7,0,26
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/charset-in-header.txt,0,0,26
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/output-encoding1.txt,1,0,26
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/recover.txt,0,0,26
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/specialvars.txt,0,0,26
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/xmlns5.txt,0,0,26
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/type-builtins.ftl,2,16,26
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/NullCacheStorage.java,10,37,25
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedConversionToString.java,8,19,25
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EnvironmentCustomStateTest.java,7,18,25
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestTag2.java,5,20,25
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestTag3.java,5,20,25
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/errors/CONTENTS.txt,3,0,25
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/logging.txt,2,0,25
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/output-encoding3.txt,1,0,25
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/MultiModel4.java,10,32,25
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TruncateBuiltinAlgorithm.java,10,109,24
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_ArrayEnumeration.java,8,19,24
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/JspTestFreemarkerServlet.java,8,18,24
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/nested.txt,1,0,24
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/api-builtins.ftl,6,16,24
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/date-type-builtins.ftl,7,16,24
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xmlns1.ftl,9,20,24
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/MarkupOutputFormat.java,17,104,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedOrdinal.java,5,19,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/EnvironmentSuspendedEvent.java,8,36,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/FastPropertyDescriptor.java,6,30,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/WhitelistMemberAccessPolicy.java,9,40,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/IteratorToTemplateModelIteratorAdapter.java,7,22,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/ObjectConstructor.java,4,31,23
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/GetSourceTest.java,9,21,23
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/default-xmlns.txt,2,0,23
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/macros-return.txt,0,0,23
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/xml-fragment.txt,2,0,23
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/include.ftl,10,16,23
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/TransformMethodWrapper2.java,9,31,23
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaScriptOrJSONCFormat.java,6,36,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazilyGeneratedCollectionModelWithAlreadyKnownSize.java,7,18,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/OutputFormatBoundBuiltIn.java,7,19,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/RightUnboundedRangeModel.java,8,18,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/SequenceIterator.java,6,18,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/StandardCFormats.java,6,18,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BlacklistMemberAccessPolicy.java,8,38,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/GenericObjectModel.java,7,43,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/_EnumModels.java,6,26,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/NullArgumentException.java,8,29,22
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/ParseTimeParameterBIErrorMessagesTest.java,7,18,22
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/WithArgsLastExamples.ftl,5,16,22
+HTML,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/test/templatesuite/package.html,4,16,22
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/default.txt,4,0,22
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/interpret.txt,1,0,22
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/macros2.txt,0,0,22
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/wstrip-in-header.txt,1,0,22
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/list-bis.ftl,10,16,22
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/overloaded-methods-2-inc-bwici-2.3.20.ftl,8,17,22
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/simplehash-char-key.ftl,6,16,22
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/varargs.ftl,7,16,22
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/MultiModel3.java,7,37,22
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/NewTestModel.java,8,21,22
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/NewTestModel2.java,8,21,22
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/NoOutputDirective.java,8,19,22
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/ParameterException.java,10,22,22
+Gradle,/tmp/clone_directory/gradle/repositories.gradle.kts,5,18,22
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForLegacyEscaping.java,5,22,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForLoopVariable.java,9,19,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/OutputFormat.java,8,61,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedJoinWithComma.java,8,19,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_UnmodifiableSet.java,7,19,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/CharacterDataNodeModel.java,8,18,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleObjectWrapper.java,9,35,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/_VersionInts.java,3,27,21
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/PrallelStaticIntrospectionTest.java,8,18,21
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/JspTestFreemarkerServletWithDefaultOverride.java,8,18,21
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/multipleLoaders/CONTENTS.txt,3,0,21
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/exception3.txt,0,0,21
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/strictinheader.txt,0,0,21
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/var-layers.ftl,2,16,21
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/hamcerst/StringContainsIgnoringCase.java,8,18,21
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/MissingRequiredParameterException.java,8,22,21
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BugException.java,9,23,20
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/MarkupOutputFormatBoundBuiltIn.java,7,19,20
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/StringModel.java,6,39,20
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/PINodeModel.java,8,18,20
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/ResourceBundleLocalizedString.java,8,26,20
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleScalar.java,9,42,20
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/trivial-jstl-@Ignore.ftl,9,19,20
+Text,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/expected/subdir/test-rel.txt,0,0,20
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/not-auto-scanned/fmtesttag.tld,4,16,20
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/new-safer.txt,0,0,20
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/new-unrestricted.txt,0,0,20
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/import.ftl,8,17,20
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/root.ftl,12,16,20
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/specialvars.ftl,2,17,20
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/MultiModel2.java,8,33,20
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/UnsupportedParameterException.java,8,22,20
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateLookupStrategy.java,11,85,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForNode.java,3,18,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JSONCFormat.java,6,31,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaScriptCFormat.java,6,31,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UndefinedOutputFormat.java,8,30,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/CallableMemberDescriptor.java,13,24,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/LoggingAttemptExceptionReporter.java,7,22,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/MalformedTemplateNameException.java,9,28,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateDateModel.java,10,46,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateModelListSequence.java,9,26,19
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-range.ftl,12,16,19
+JSP,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/trivial.jsp,9,17,19
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/identifier-non-ascii.txt,0,0,19
+Text,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/expected/new-allowsnothing.txt,0,0,19
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/comment.ftl,9,23,19
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/logging.ftl,7,16,19
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/AlphabeticalMethodSorter.java,7,18,19
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanHash1.java,5,32,19
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/NumberAndStringModel.java,8,18,19
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/_CacheAPI.java,8,24,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForNodeEx.java,2,18,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForSequence.java,3,18,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CSSOutputFormat.java,7,27,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JSONOutputFormat.java,7,27,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/JavaScriptOutputFormat.java,7,28,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazilyGeneratedCollectionModel.java,9,53,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/PlainTextOutputFormat.java,7,31,18
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/package.html,5,16,18
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/PrallelObjectIntrospectionTest.java,7,18,18
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-locations.ftl,2,16,18
+Java,/tmp/clone_directory/freemarker-core9/src/main/java/freemarker/core/_Java9Impl.java,7,24,18
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/overloaded-methods-2-desc-bwici-2.3.20.ftl,8,17,18
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/stringbimethods.ftl,2,16,18
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/OverloadedConstructor.java,9,18,18
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/PathRegexMatcher.java,7,30,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/DirectiveCallPlace.java,11,112,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/Interpolation.java,8,23,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateNumberFormat.java,8,64,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_ObjectBuilderSettingEvaluationException.java,7,22,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/APIModel.java,6,31,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/PrimtiveArrayBackedReadOnlyList.java,8,22,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateNotFoundException.java,8,36,17
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/Collections12.java,8,23,17
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/LamdaAndEscapeTest.java,7,18,17
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/Product.java,7,25,17
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/UnitAwareTemplateNumberModel.java,7,18,17
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/test/RuntimeEnvironmentReporterTest.java,6,21,17
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/cano-assignments.ftl,2,16,17
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/PageContextFactory.java,4,18,17
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/_Jython20And21VersionAdapter.java,7,24,17
+Java,/tmp/clone_directory/freemarker-jython22/src/main/java/freemarker/ext/jython/_Jython22VersionAdapter.java,7,24,17
+Java,/tmp/clone_directory/freemarker-jython25/src/main/java/freemarker/ext/jython/_Jython25VersionAdapter.java,7,24,17
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/macros2.ftl,2,16,17
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/utility/AssertationFailedInTemplateException.java,8,21,17
+YAML,/tmp/clone_directory/.asf.yaml,1,16,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/AndMatcher.java,6,23,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/OrMatcher.java,6,23,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForMarkupOutput.java,6,18,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ISOTemplateDateFormatFactory.java,7,20,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ParserConfiguration.java,14,62,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/XSTemplateDateFormatFactory.java,7,20,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_TimeZoneBuilder.java,6,22,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/NonPrimitiveArrayBackedReadOnlyList.java,8,18,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/ObjectWrapper.java,9,73,16
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/SettingDirectiveTest.java,6,18,16
+HTML,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/package.html,5,16,16
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xml-ns_prefix-scope-main.ftl,4,16,16
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanList2.java,7,26,16
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CFormat.java,12,55,15
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateDateFormat.java,10,83,15
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateElementsToVisit.java,7,26,15
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateProcessingTracer.java,13,67,15
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_CoreLocaleUtils.java,4,26,15
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/utility/ConstantsTest.java,6,18,15
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-multipleignoredchildren.ftl,2,16,15
+Properties,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/TemplateConfigurationExamples2.properties,1,16,15
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/list.ftl,13,16,15
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/non-strict-syntax.ftl,7,16,15
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/number-to-date.ftl,4,16,15
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/range-ici-2.3.20.ftl,5,17,15
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtin-coercion.ftl,3,16,15
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperWithSortedMethods.java,7,18,15
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanVsStringMethods.java,7,18,15
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/SimpleTestMethod.java,5,28,15
+XML,/tmp/clone_directory/src/ide-settings/IntelliJ-IDEA/Editor-Inspections-FreeMarker.xml,2,16,15
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/SignatureConfiguration.kt,5,18,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForNumber.java,4,18,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInForString.java,5,18,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateCombinedMarkupOutputModel.java,5,31,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateDateFormatFactory.java,5,73,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedGetCanonicalForm.java,6,19,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/CharacterOrString.java,8,23,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateHashModelEx2.java,10,56,14
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/EvalJsonBuiltInTest.java,9,18,14
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/LegacyFMParserConstructorsTest.java,5,18,14
+Properties,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/ConfigureOutputFormatExamples2.properties,1,16,14
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/fmtesttag4.tld,2,16,14
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/lib/taglib-foo.jar/META-INF/foo bar.tld,2,16,14
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/subdir-with-tld/fmtesttag3.tld,2,16,14
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/test-noClasspath.ftl,2,16,14
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/xmlns.xml,2,16,14
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/xmlns2.xml,2,16,14
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/xmlns3.xml,2,16,14
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/listhashliteral.ftl,5,16,14
+Text,/tmp/clone_directory/freemarker-manual/src/main/docgen/en_US/docgen-misc/copyrightComment.txt,2,0,14
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/TransformMethodWrapper1.java,6,28,14
+XML,/tmp/clone_directory/freemarker-test-utils/src/main/resources/logback-test.xml,6,16,14
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedToString.java,6,18,13
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_MarkupBuilder.java,7,24,13
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BooleanModel.java,5,22,13
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/StaticModels.java,5,25,13
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/TemplateAccessible.java,4,28,13
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java9InstrospectorBugWorkaroundTest.java,7,18,13
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-whitespacestripping.ftl,10,17,13
+HTML,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/jsp/package.html,4,16,13
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/META-INF/tldDiscovery MetaInfTldSources-1.tld,2,16,13
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/tldDiscovery-ClassPathTlds-1.tld,2,16,13
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/tldDiscovery-ClassPathTlds-2.tld,2,16,13
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/trivial.ftl,7,17,13
+XML,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/WEB-INF/taglib 2.jar/META-INF/taglib.tld,2,16,13
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PublicWithMixedConstructors.java,7,18,13
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/xml.xml,2,16,13
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/newlines2.ftl,4,16,13
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanAndScalarModel.java,7,18,13
+Gradle,/tmp/clone_directory/settings.gradle.kts,5,18,13
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/NotMatcher.java,6,23,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateLoader.java,9,137,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateLoaderUtils.java,7,19,12
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/package.html,2,16,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInsForMarkupOutputs.java,7,21,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedFTLTypeDescription.java,6,19,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ConstructorMatcher.java,4,23,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/FieldMatcher.java,4,23,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MethodMatcher.java,4,27,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/_ExtDomApi.java,7,24,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_Log4jOverSLF4JTester.java,5,26,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/LocalizedString.java,8,35,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/UndeclaredThrowableException.java,7,24,12
+XML,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/ext/dom/DOMSiblingTest.xml,2,17,12
+JSP,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/customELFunctions1.jsp,3,16,12
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/default.ftl,6,16,12
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/macros-return.ftl,6,16,12
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanAndStringTemplateModel.java,6,18,12
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazilyGeneratedCollectionModelWithUnknownSize.java,4,18,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/NonListableRightUnboundedRangeModel.java,6,23,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedAOrAn.java,5,19,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedGetMessage.java,5,19,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedGetMessageWithoutStackTop.java,6,19,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedJQuote.java,6,19,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_DelayedShortClassName.java,6,18,11
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/package.html,4,16,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TransformControl.java,9,79,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/UnrecognizedTimeZoneException.java,6,21,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/UnsupportedNumberClassException.java,6,21,11
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/StaticObjectWrappersTest.java,6,19,11
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-1.ftl,2,16,11
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-assignments.ftl,2,16,11
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/cano-macros.ftl,2,16,11
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/customELFunctions1.ftl,3,16,11
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/import_lib.ftl,4,16,11
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/nested.ftl,2,16,11
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/output-encoding1.ftl,3,16,11
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/BeansWrapperWithShortedMethods.java,7,21,11
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BooleanHash2.java,5,32,11
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/EnumTestClass.java,3,20,11
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BooleanExpression.java,4,18,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/FlowControlException.java,4,21,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateHTMLOutputModel.java,4,29,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateRTFOutputModel.java,4,29,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateXHTMLOutputModel.java,4,29,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateXMLOutputModel.java,4,29,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UncheckedParseException.java,5,22,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnformattableValueException.java,6,25,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MemberAccessPolicy.java,4,73,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/FalseTemplateBooleanModel.java,5,21,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TrueTemplateBooleanModel.java,5,21,10
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/CustomTemplateHTMLModel.java,4,18,10
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateDummyOutputModel.java,4,18,10
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/TemplateSeldomEscapedOutputModel.java,4,18,10
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/WithArgsExamples.java,7,18,10
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/WithArgsLastExamples.java,7,18,10
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/NullConfigurationTest.java,6,18,10
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/AbsoluteTemplateNameBIExample-lib.ftl,3,25,10
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestSimpleTag2.java,4,18,10
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/TestSimpleTag3.java,4,18,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/exception2.ftl,5,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/exception3.ftl,5,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/included.ftl,4,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/localization.ftl,6,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/localization_en.ftl,6,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/localization_en_AU.ftl,6,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/varlayers_lib.ftl,2,16,10
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xmlns5.ftl,2,16,10
+HTML,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/package.html,2,16,10
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/JavaObjectInfo.java,7,18,10
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateConfigurationFactoryException.java,4,23,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/AliasTargetTemplateValueFormatException.java,4,23,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/InvalidFormatParametersException.java,4,24,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/InvalidFormatStringException.java,4,24,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LazilyGeneratedCollectionModelEx.java,3,21,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/LocalContext.java,7,37,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ParsingNotSupportedException.java,5,23,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplatePostProcessorException.java,5,21,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateValueFormatException.java,4,24,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UndefinedCustomFormatException.java,4,21,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnparsableValueException.java,5,24,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnregisteredOutputFormatException.java,4,21,9
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/package.html,2,16,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ClassMemberAccessPolicy.java,3,26,9
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/jdom/package.html,4,16,9
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/package.html,3,16,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SimpleList.java,6,27,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateDirectiveModel.java,4,61,9
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateTransformModel.java,5,56,9
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/package.html,2,16,9
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/core/LambdaParsingTest.java,6,18,9
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8BridgeMethodsWithDefaultMethodBeanBase.java,4,18,9
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/WithArgsExamples-usingWithArgsSpecialVariable.ftl,4,16,9
+HTML,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/package.html,4,16,9
+HTML,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/ant/package.html,2,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/charset-in-header.ftl,2,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/helloworld.ftl,5,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/lastcharacter.ftl,6,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/new-optin.ftl,5,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/newlines1.ftl,4,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/output-encoding3.ftl,3,16,9
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/subdir/include-subdir.ftl,2,16,9
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/hamcerst/Matchers.java,6,19,9
+Gradle,/tmp/clone_directory/buildSrc/build.gradle.kts,3,18,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/SuppressFBWarnings.java,3,18,8
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/package.html,2,16,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/DebuggerListener.java,3,25,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/impl/SuppressFBWarnings.java,3,18,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MethodAppearanceFineTuner.java,6,106,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SetAdapter.java,4,20,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SuppressFBWarnings.java,3,18,8
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/rhino/package.html,4,16,8
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/package.html,3,16,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/AttemptExceptionReporter.java,7,33,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SuppressFBWarnings.java,3,18,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateMethodModelEx.java,6,40,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateNodeModel.java,8,62,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/_ObjectWrappers.java,3,47,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/CollectionUtils.java,8,22,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/ObjectWrapperWithAPISupport.java,5,38,8
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BridgeMethodsBean.java,4,18,8
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/manual/AbsoluteTemplateNameBIExample.java,5,18,8
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-mixedcontentsimplifications.ftl,2,16,8
+Properties,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/TemplateConfigurationExamples1.properties,1,16,8
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/main/java/freemarker/ext/servlet/SuppressFBWarnings.java,3,18,8
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/taglibmembers/EnclosingClass.java,6,18,8
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/ant/UnlinkedJythonOperations.java,7,24,8
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/xml-ns_prefix-scope.xml,2,16,8
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/classic-compatible-mode2.ftl,2,16,8
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/default-xmlns.ftl,4,16,8
+HTML,/tmp/clone_directory/freemarker-manual/src/main/docgen/en_US/docgen-misc/googleAnalytics.html,1,5,8
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BeanTestSuperclass.java,4,18,8
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/ExceptionModel.java,4,26,8
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/CacheStorage.java,2,28,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/ICIChainMember.java,6,28,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateNumberFormatFactory.java,5,52,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnknownDateTypeFormattingUnsupportedException.java,5,23,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/UnknownDateTypeParsingUnsupportedException.java,5,24,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_Java16.java,5,22,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/debug/DebuggedEnvironment.java,6,43,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/InvalidPropertyException.java,5,22,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ZeroArgumentNonVoidMethodPolicy.java,6,52,7
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/package.html,2,16,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/ObjectWrapperAndUnwrapper.java,7,78,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateMethodModel.java,6,47,7
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/package.html,2,16,7
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/BridgeMethodsBeanBase.java,4,18,7
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8BridgeMethodsWithDefaultMethodBean.java,4,18,7
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8BridgeMethodsWithDefaultMethodBeanBase2.java,3,18,7
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-strlitinterpolation.ftl,2,16,7
+Java,/tmp/clone_directory/freemarker-jython20/src/main/java/freemarker/ext/jython/JythonVersionAdapter.java,7,34,7
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/subdir/new-optin.ftl,3,16,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/BeansWrapperDesc2003020.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/BeansWrapperDesc2003021.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/BeansWrapperInc2003020.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/BeansWrapperInc2003021.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperDesc2003020.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperDesc2003021.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperDesc2003022.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperInc2003020.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperInc2003021.java,5,18,7
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/ext/beans/DefaultObjectWrapperInc2003022.java,5,18,7
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BreakOrContinueException.java,3,21,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/CallPlaceCustomDataInitializationException.java,4,23,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateMarkupOutputModel.java,4,42,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateNullModel.java,3,30,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/EmptyCallableMemberDescriptor.java,5,24,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MethodSorter.java,5,25,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/dom/XPathSupport.java,5,19,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/util/ModelFactory.java,3,25,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateBooleanModel.java,7,34,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateCollectionModelEx.java,6,33,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateDirectiveBody.java,3,34,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateHashModelEx.java,5,41,6
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateScalarModel.java,6,34,6
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/AutoEscapingExample-convert2.ftl,2,17,6
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/test/servlet/Model2Action.java,5,26,6
+JSP,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/elFunctionsTagNameClash.jsp,4,16,6
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PackageVisibleAllWithBuilderBuilder.java,4,18,6
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/defaultxmlns1.xml,2,16,6
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/interpret.ftl,3,16,6
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/new-safer.ftl,2,16,6
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/subdir/subsub/new-optin.ftl,2,16,6
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/url.ftl,2,16,6
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xml-fragment.ftl,4,16,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,6
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/FreemarkerPathExtensions.kt,3,18,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/StatefulTemplateLoader.java,3,27,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/TemplateSourceMatcher.java,4,21,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplatePostProcessor.java,7,22,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_UnexpectedTypeErrorExplainerTemplateModel.java,5,26,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/BeansWrapperSingletonHolder.java,4,24,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/util/WrapperTemplateModel.java,3,27,5
+HTML,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/util/package.html,2,16,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/NodeOperator.java,3,20,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateCollectionModel.java,5,42,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateHashModel.java,4,33,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateModel.java,4,45,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateModelIterator.java,4,30,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateModelWithAPISupport.java,5,27,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateNodeModelEx.java,4,29,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateNumberModel.java,5,32,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateSequenceModel.java,4,39,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/RichObjectWrapper.java,4,28,5
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/WriteProtectable.java,5,27,5
+Properties,/tmp/clone_directory/freemarker-core/src/main/resource-templates/freemarker/version.properties,6,87,5
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-lambda.ftl,2,16,5
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/cano-builtins.ftl,2,16,5
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/dir/AbsoluteTemplateNameBIExample-main.ftl,3,16,5
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/basic/elFunctionsTagNameClash.ftl,4,16,5
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PackageVisibleWithPublicConstructor.java,4,18,5
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/new-allowsnothing.ftl,2,16,5
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/strictinheader.ftl,2,16,5
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/wstrip-in-header.ftl,5,16,5
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/xml-ns_prefix-scope-lib.ftl,2,16,5
+Java,/tmp/clone_directory/freemarker-test-utils/src/main/java/freemarker/test/templatesuite/models/BeanTestInterface.java,2,18,5
+Kotlin,/tmp/clone_directory/buildSrc/src/main/kotlin/freemarker/build/FreemarkerStringExtensions.kt,3,18,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/CacheStorageWithGetSize.java,4,28,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/cache/ConcurrentCacheStorage.java,3,28,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BackwardCompatibleTemplateNumberFormat.java,3,23,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInWithDirectCallOptimization.java,4,23,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateValueFormat.java,3,26,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/_Java9.java,3,22,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/ClassChangeNotifier.java,4,24,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/SingletonCustomizer.java,4,43,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/xml/_JaxenNamespaces.java,3,22,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/LoggerFactory.java,2,18,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/AdapterTemplateModel.java,2,43,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/TemplateModelAdapter.java,2,28,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/utility/ObjectFactory.java,4,23,4
+Properties,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/ConfigureOutputFormatExamples1.properties,1,16,4
+Java,/tmp/clone_directory/freemarker-javax-servlet/src/test/java/freemarker/ext/jsp/webapps/config/WebappLocalFreemarkerServlet.java,3,18,4
+JSP,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/errors/failing-runtime.jsp,3,16,4
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PackageVisibleAll.java,4,18,4
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PackageVisibleAllWithBuilder.java,4,18,4
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PublicWithPackageVisibleConstructor.java,4,18,4
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/dateformat-iso-bi-ici-2.3.21.ftl,3,16,4
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/dateformat-iso-bi.ftl,3,16,4
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/wsstripinheader_inc.ftl,2,16,4
+Properties,/tmp/clone_directory/gradle.properties,4,30,4
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInBannedWhenAutoEscaping.java,2,22,3
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/SpecialBuiltIn.java,3,21,3
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/TemplateValueFormatFactory.java,2,23,3
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_CommonsLoggingLoggerFactory.java,3,22,3
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/log/_SLF4JLoggerFactory.java,4,22,3
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/template/SerializableTemplateBooleanModel.java,3,18,3
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/ext/beans/Java8BridgeMethodsWithDefaultMethodBean2.java,1,19,3
+Java,/tmp/clone_directory/freemarker-jython25/src/test/java/freemarker/core/subpkg/PublicAll.java,3,18,3
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/identifier-non-ascii.ftl,2,16,3
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/strictinheader_inc1.ftl,2,16,3
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins-ici-2.3.19.ftl,2,17,3
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/string-builtins-ici-2.3.20.ftl,2,16,3
+Gradle,/tmp/clone_directory/buildSrc/settings.gradle.kts,2,18,2
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/core/BuiltInBannedWhenForcedAutoEscaping.java,1,22,2
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MaybeEmptyCallableMemberDescriptor.java,2,21,2
+Java,/tmp/clone_directory/freemarker-core/src/main/java/freemarker/ext/beans/MaybeEmptyMemberAndArguments.java,2,18,2
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/encodingOverride-ISO-8859-1.ftl,2,16,2
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/encodingOverride-UTF-8.ftl,2,16,2
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/tldDiscovery/subdir/test-rel.ftl,2,16,2
+Properties,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/BeansTestResources.properties,1,16,2
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/charset-in-header_inc1.ftl,2,16,2
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/include2-included-encoding.ftl,2,16,2
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/nestedinclude.ftl,2,17,2
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/new-unrestricted.ftl,2,16,2
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/strictinheader_inc2.ftl,2,16,2
+Properties,/tmp/clone_directory/buildSrc/src/main/resources/META-INF/gradle-plugins/freemarker-root.properties,1,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/cache/test.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/ast-nestedignoredchildren.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/core/cano-strlitinterpolation.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/AbsoluteTemplateNameBIExample-foo.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/manual/dir/AbsoluteTemplateNameBIExample-foo.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/template/toCache1.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-core/src/test/resources/freemarker/template/toCache2.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/templates/classpath-test.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/WEB-INF/classes/sub/test.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/WEB-INF/classes/test.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/WEB-INF/lib/templates.jar/sub/test2.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/WEB-INF/templates/test.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/config/test.ftl,2,16,1
+JSP,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/errors/failing-parsetime.jsp,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/errors/failing-runtime.ftl,2,23,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/errors/not-failing.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-javax-servlet/src/test/resources/freemarker/ext/jsp/webapps/multipleLoaders/WEB-INF/templates/test.ftl,2,16,1
+XML,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/models/xmlfragment.xml,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/charset-in-header_inc2.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/include2-included.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/subdir/include-subdir2.ftl,2,16,1
+Freemarker Template,/tmp/clone_directory/freemarker-jython25/src/test/resources/freemarker/test/templatesuite/templates/undefined.ftl,2,16,1
+Java,/tmp/clone_directory/freemarker-core/src/test/java/freemarker/template/ConfigurationTest.java,310,1877,0
+SUM,,28067,43613,146282

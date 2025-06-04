@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,72.6535114713217,7700819,False,
+##[group]==END_FILE==,44.85020306202524,7676586,False,
+##[group]Run actions/cache@v4,16.906943389306317,591542,False,
+##[group]Run .ci/update-github-milestone.sh ,16.35751582276672,1201631,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_5,15.34509611478266,2340124,False,
+##[group]Setting up auth,11.148605727802146,72046,False,
+##[group]Fetching the repository,9.38936678436755,467325,False,
+"##[group]Run echo ""Latest Version: """,9.296178479555412,116143,False,
+##[group]Run actions/checkout@v4,4.585337002730274,179171,False,
+##[group]GITHUB_TOKEN Permissions,3.3949382972179154,173409,False,
+##[group]Run git config user.name 'github-actions[bot]',2.9690503203295946,97673,False,
+##[group]Run ./.ci/bump-version.sh ,2.935444448749178,36606,False,
+##[group]Determining the checkout info,2.431356375042929,22108,False,
+##[group]Cleaning the repository,2.229721145560429,58929,False,

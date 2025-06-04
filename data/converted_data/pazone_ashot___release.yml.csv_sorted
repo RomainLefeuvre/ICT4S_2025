@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 21.756820442378757, , , , 2125799, False, 
+##[group]Fetching the repository, 13.357000459357945, , , , 779603, False, 
+##[group]Run actions/checkout@v4, 9.02834045568098, , , , 1829707, False, 
+##[group]Run git config user.email "pazonec@yandex.ru", 7.381503731744973, , , , 593915, True, ##[error]Process completed with exit code 5.
+##[group]Setting up auth, 1.734066494443326, , , , 64731, False, 
+##[group]Installed distributions, 1.5335820237032909, , , , 28282, False, 
+Requested labels: self-hosted, 0.323520844464636, , , , 6460251, False, 

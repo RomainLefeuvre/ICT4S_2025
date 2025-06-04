@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0, , , , 4501964, False, 
+##[group]GITHUB_TOKEN Permissions, 93.7083033610873, , , , 3938767, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 7.11080654916486, , , , 153964, False, 
+##[group]Cleaning the repository, 3.638087071665741, , , , 64115, False, 
+##[group]Setting up auth, 3.693209603054617, , , , 90259, False, 
+##[group]Fetching the repository, 19.292885986106207, , , , 486050, False, 
+##[group]Installed distributions, 68.62755157914921, , , , 1506114, False, 
+##[group]Run actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8, 15.379186257496093, , , , 309358, False, 
+##[group]Environment details, 76.74115740580436, , , , 4298442, False, 
+##[group]Run npm i -g vega-cli --unsafe, 44.58791887150765, , , , 12666408, False, 
+##[group]Run gradle/wrapper-validation-action@b231772637bb498f11fdbc86052b6e8a8dc9fc92, 4.485379498780196, , , , 263824, False, 
+##[group]Run sudo apt-get update, 60.21992453619733, , , , 21922881, True, ##[error]Process completed with exit code 100.
+##[group]Run ./gradlew --no-daemon --console=plain doc, 11.849617537546369, , , , 899254, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck

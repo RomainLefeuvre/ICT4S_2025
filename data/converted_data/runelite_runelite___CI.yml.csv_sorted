@@ -1,0 +1,8 @@
+##[group]Run ./ci/build.sh, 4756.97264645304, , , , 230775546, True, [ERROR[m] Tests run: 4[m, Failures: 0, Errors: 2[m, Skipped: 0, Time elapsed: 3.851 s <<< FAILURE![m - in net.runelite.client.plugins.PluginManagerTest[m
+##[group]GITHUB_TOKEN Permissions, 7.175440430543633, , , , 3475322, False, 
+##[group]Fetching the repository, 4.33641702012552, , , , 1606357, False, 
+##[group]Run actions/cache@v4, 3.975266884331543, , , , 1649921, False, 
+##[group]Checking out the ref, 3.816686579605098, , , , 506317, False, 
+##[group]Run actions/checkout@v4, 2.107695599133732, , , , 189674, False, 
+##[group]Setting up auth, 1.0295133131918532, , , , 55469, False, 
+Requested labels: self-hosted, 0.0410553806172263, , , , 6351735, False, 

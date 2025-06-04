@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assembleDebug,2051.625264780003,132327923,True,##[error]Process completed with exit code 1.
+##[group]Run npm install__dup_9,493.3386520442386,58672706,False,
+> Task :react-native-gradle-plugin:jar,278.4818832601504,13601134,False,
+##[group]Run npm install,197.20610082241504,18400153,False,
+##[group]Environment details,45.0501663205004,7290346,False,
+##[group]GITHUB_TOKEN Permissions,12.195086508831974,3314359,False,
+##[group]Fetching the repository,4.101082307109053,644811,False,
+##[group]Run actions/setup-node@v3,3.5602802446331334,490842,False,
+> Task :react-native-gradle-plugin:processResources,3.039665548872145,90940,False,
+##[group]Installed distributions,1.3429917884818656,268287,False,
+##[group]Run actions/checkout@v3,0.540802062475919,174502,False,
+##[group]==END_FILE==,0.0443261679219643,6186358,False,

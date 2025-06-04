@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,21.665131159394804,2281779,False,
+##[group]Fetching the repository,8.637576710081783,697950,False,
+##[group]Run ./gradlew,6.872458996322804,554422,True,"##[error]Exception in thread ""main"" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.4.2-bin/27i1u3m3dkhueqps8aeto1bums/gradle-7.4.2-bin.zip.lck (Aucun fichier ou dossier de ce type)"
+Requested labels: self-hosted,2.872570055910655,5935032,False,
+##[group]Run actions/checkout@v3,2.327326790770489,172062,False,
+##[group]Checking out the ref,1.2850494461036388,58915,False,
+##[group]Setting up auth,1.182829613919728,74079,False,

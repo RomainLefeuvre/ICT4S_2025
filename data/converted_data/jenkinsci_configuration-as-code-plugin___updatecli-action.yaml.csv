@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 37.53550728280548, , , , 5213572, False, 
+##[group]GITHUB_TOKEN Permissions, 220.7435482063628, , , , 2088581, False, 
+##[group]Run actions/checkout@v4, 24.89841558364192, , , , 177405, False, 
+##[group]Fetching the repository, 90.56591277484972, , , , 690610, False, 
+##[group]Determining the checkout info, 13.372458425880495, , , , 68375, False, 
+##[group]Run updatecli/updatecli-action@v2, 438.19991719801953, , , , 2850162, False, 
+##[group]Run updatecli diff --config updatecli/updatecli.d --values updatecli/values.yaml, 93.69048949674747, , , , 6448390, False, 
+##[group]Run updatecli apply --config updatecli/updatecli.d --values updatecli/values.yaml, 9.09363188817782, , , , 1853951, True, ##[error]Process completed with exit code 1.

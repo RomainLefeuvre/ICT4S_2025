@@ -1,0 +1,14 @@
+Requested labels: self-hosted, 88.01913404468405, , , , 3900458, False, 
+##[group]GITHUB_TOKEN Permissions, 94.3881534553299, , , , 2691228, False, 
+##[group]Run actions/checkout@v2, 5.042681002616724, , , , 174391, False, 
+##[group]Getting Git version info, 5.139357469318857, , , , 10277, False, 
+##[group]Cleaning the repository, 10.568744338744116, , , , 159001, False, 
+##[group]Setting up auth, 5.429386869425257, , , , 76154, False, 
+##[group]Fetching the repository, 28.597081347658293, , , , 478159, False, 
+##[group]Run actions/setup-java@v1, 6.106122136340192, , , , 121606, False, 
+##[group]Run ./build.sh, 64.73053877117025, , , , 20022766, True, [ERROR[m] Tests run: 4[m, Failures: 1[m, Errors: 0, Skipped: 1[m, Time elapsed: 0.361 s <<< FAILURE![m - in org.robovm.llvm.ObjectFileTest[m
+##[group]Run mvn clean deploy, 35.31420985082664, , , , 4344605, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:3.0.0-M1:deploy[m (default-deploy)[m on project robovm-parent[m: ArtifactDeployerException[m: Failed to deploy artifacts: Could not transfer artifact com.mobidevelop.robovm:robovm-parent:pom:2.3.22-20240404.025318-10 from/to sonatype-nexus-snapshots (https://oss.sonatype.org/content/repositories/snapshots/): Transfer failed for https://oss.sonatype.org/content/repositories/snapshots/com/mobidevelop/robovm/robovm-parent/2.3.22-SNAPSHOT/robovm-parent-2.3.22-20240404.025318-10.pom 401 Unauthorized -> [Help 1][m
+##[group]Run cd plugins/gradle && ./gradlew clean build publish, 4.080675730874137, , , , 160354, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.0-bin/ca5e32bp14vu59qr306oxotwh/gradle-8.0-bin.zip.lck
+##[group]Run aws-actions/configure-aws-credentials@v1, 4.768528163485878, , , , 7625925, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run aws s3 sync ./plugins/idea/build/distributions/ s3:///snapshots/idea --acl public-read --follow-symlinks --delete, 12.31130672152332, , , , 5817485, True, ##[error]Process completed with exit code 255.
+##[group]Run aws s3 sync ./plugins/eclipse/update-site/target/repository/ s3:///snapshots/eclipse --acl public-read --follow-symlinks --delete, 0.5987502495119904, , , , 2364275, True, ##[error]Process completed with exit code 255.

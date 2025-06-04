@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -Pjacoco clean verify -B -V --no-transfer-progress ,4334.199002110163,660687001,False,
+##[group]Run codecov/codecov-action@v4,186.3885662260751,10669970,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce (display-info) on project parent: 
+##[group]Installed distributions,159.92942862464645,1617973,False,
+##[group]GITHUB_TOKEN Permissions,122.7888739463044,3114860,False,
+##[group]Fetching the repository,70.09266058716608,423492,False,
+##[group]Run actions/checkout@v4,31.00122623631796,141469,False,
+[INFO] --- maven-clean-plugin:3.3.2:clean (default-clean) @ parent ---,4.83640824358567,1557251,False,
+##[group]==END_FILE==,0.1071864484236562,4303797,False,

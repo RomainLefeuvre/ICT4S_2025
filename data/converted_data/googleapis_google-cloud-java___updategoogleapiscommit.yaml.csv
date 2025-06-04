@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 188.27936630107183, , , , 5935759, False, 
+##[group]GITHUB_TOKEN Permissions, 168.91344255911926, , , , 1328870, False, 
+##[group]Run actions/checkout@v4, 22.99813996668733, , , , 138504, False, 
+##[group]Setting up auth, 20.841230257660023, , , , 74401, False, 
+##[group]Fetching the repository, 405.06392623149657, , , , 16857876, False, 
+##[group]Checking out the ref, 487.3374525519465, , , , 18207666, False, 
+##[group]Run set -x, 1787.5632345946426, , , , 143602400, True, ##[error]Process completed with exit code 4.

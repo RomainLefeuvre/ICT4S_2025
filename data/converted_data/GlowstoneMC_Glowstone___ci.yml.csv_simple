@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run BUILD_EXTRAS=true ./gradlew assemble --no-daemon --stacktrace,870.5280408812562,77791277,False,
+##[group]Run rm -f ~/.gradle/caches/modules-2/modules-2.lock,192.50962266111796,16606246,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,9.398592539024984,3660876,False,
+##[group]Run gradle/wrapper-validation-action@v1,8.025764415347178,1594058,False,
+##[group]Fetching the repository,3.74887679927401,892682,False,
+##[group]Run actions/cache@v3,3.549917007417561,1832545,False,
+##[group]Checking out the ref,0.4458758008526209,108665,False,
+##[group]Setting up auth,0.3872079323193814,61494,False,
+##[group]Run actions/checkout@v3,0.3813411454660574,162902,False,
+##[group]==END_FILE==,0.0615540442335426,6058867,False,

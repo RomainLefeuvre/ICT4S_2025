@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0754029030242762, , , , 4485888, False, 
+##[group]GITHUB_TOKEN Permissions, 165.86508326811577, , , , 2624512, False, 
+##[group]Run actions/checkout@v2, 17.98982162670615, , , , 191105, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 48.02595268954389, , , , 463440, False, 
+##[group]Cleaning the repository, 10.12828744467081, , , , 54363, False, 
+##[group]Fetching the repository, 53.25692175716421, , , , 424007, False, 
+##[group]Run actions/setup-java@v1, 11.34884689378222, , , , 123905, False, 
+##[group]Run ./gradlew build, 157.2258429958397, , , , 38533171, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew publishToMavenLocal --info --warning-mode all, 11.08879647397369, , , , 1842782, True, ##[error]Process completed with exit code 1.
+##[group]Run badasintended/autojitpack@v0, 326.88987280763126, , , , 86734920, False, 

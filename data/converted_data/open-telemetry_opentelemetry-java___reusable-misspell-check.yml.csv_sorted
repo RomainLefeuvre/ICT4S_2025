@@ -1,0 +1,7 @@
+##[group]Run curl -L -o install-misspell.sh https://raw.githubusercontent.com/client9/misspell/master/install-misspell.sh, 106.5957328251296, , , , 2851347, False, 
+##[group]==END_FILE==, 84.2427208818929, , , , 4423956, False, 
+##[group]GITHUB_TOKEN Permissions, 31.53558848804995, , , , 1333384, False, 
+##[group]Fetching the repository, 26.207448469294963, , , , 475598, False, 
+##[group]Run bin/misspell -error ., 13.989033178618389, , , , 693638, False, 
+##[group]Run actions/checkout@v4, 11.220721851853291, , , , 158584, False, 
+##[group]Cleaning the repository, 5.487403848570762, , , , 33124, False, 

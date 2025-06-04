@@ -1,0 +1,45 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2925.8 files/s 222493.3 lines/s)"
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/LocaleContract.java,141,76,490
+Markdown,/tmp/clone_directory/README.md,80,0,191
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/issue_zh_template_bug.yml,1,1,171
+Markdown,/tmp/clone_directory/HelpDoc.md,57,0,167
+Java,/tmp/clone_directory/app/src/main/java/com/hjq/language/demo/MainActivity.java,25,33,139
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/MultiLanguages.java,25,81,132
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_main.xml,19,0,106
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/LanguagesUtils.java,12,36,77
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/issue_zh_template_question.yml,1,1,63
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/LanguagesConfig.java,19,25,62
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/issue_zh_template_suggest.yml,1,1,58
+Gradle,/tmp/clone_directory/app/build.gradle,15,15,55
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/LocaleChangeReceiver.java,16,11,51
+Gradle,/tmp/clone_directory/library/build.gradle,9,2,42
+Gradle,/tmp/clone_directory/build.gradle,4,11,41
+Java,/tmp/clone_directory/app/src/main/java/com/hjq/language/demo/AppApplication.java,11,14,31
+XML,/tmp/clone_directory/app/src/main/AndroidManifest.xml,9,2,30
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/ActivityLanguages.java,10,6,29
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/ConfigurationObserver.java,7,14,26
+Java,/tmp/clone_directory/app/src/main/java/com/hjq/language/demo/LanguagesWebView.java,7,7,19
+YAML,/tmp/clone_directory/.github/workflows/android.yml,4,0,11
+XML,/tmp/clone_directory/app/src/main/res/values-v23/styles.xml,2,3,11
+YAML,/tmp/clone_directory/.github/FUNDING.yml,1,1,10
+Java,/tmp/clone_directory/app/src/main/java/com/hjq/language/demo/BaseActivity.java,5,7,10
+XML,/tmp/clone_directory/app/src/main/res/values/styles.xml,2,3,9
+XML,/tmp/clone_directory/app/src/main/res/anim/activity_alpha_in.xml,2,0,8
+XML,/tmp/clone_directory/app/src/main/res/anim/activity_alpha_out.xml,2,0,8
+XML,/tmp/clone_directory/app/src/main/res/values-en/strings.xml,1,0,8
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rCN/strings.xml,1,0,8
+XML,/tmp/clone_directory/app/src/main/res/values-zh-rTW/strings.xml,1,0,8
+XML,/tmp/clone_directory/app/src/main/res/values/strings.xml,1,0,8
+XML,/tmp/clone_directory/app/src/main/res/values/colors.xml,0,0,6
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/language/OnLanguageListener.java,4,18,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Properties,/tmp/clone_directory/app/gradle.properties,0,0,4
+XML,/tmp/clone_directory/app/src/main/res/xml/network_security_config.xml,0,2,4
+Properties,/tmp/clone_directory/gradle.properties,5,14,3
+XML,/tmp/clone_directory/library/src/main/AndroidManifest.xml,0,0,2
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/library/proguard-rules.pro,4,21,0
+SUM,,547,427,2296

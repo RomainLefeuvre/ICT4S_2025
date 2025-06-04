@@ -1,0 +1,20 @@
+##[group]==END_FILE==, 959.494874831895, , , , 84729299, False, 
+Requested labels: self-hosted, 12.319691883376702, , , , 6391644, False, 
+##[group]GITHUB_TOKEN Permissions, 173.8527278907139, , , , 3962319, False, 
+##[group]Run actions/checkout@v4, 24.10026860634812, , , , 180733, False, 
+##[group]Setting up auth, 4.459059052659911, , , , 63616, False, 
+##[group]Fetching the repository, 61.04172191399903, , , , 9029031, False, 
+##[group]Determining the checkout info, 2.520428153401146, , , , 80050, False, 
+##[group]Checking out the ref, 22.718027149606584, , , , 450857, False, 
+##[group]Installed distributions, 23.09248378834127, , , , 1793973, False, 
+##[group]Run bash ./gradlew assembleDebug --stacktrace, 548.4213791321081, , , , 50805031, True, ##[error]Process completed with exit code 1.
+##[group]Run bash ./gradlew assembleRelease --stacktrace, 20.97704130335013, , , , 1198117, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4, 7.366199886467157, , , , 297424, False, 
+##[group]Run actions/upload-artifact@v4__dup_13, 9.408783586820144, , , , 829710, False, 
+##[group]GITHUB_TOKEN Permissions__dup_14, 5.961135511188424, , , , 2335761, False, 
+##[group]Run actions/checkout@v4__dup_15, 6.940455689791658, , , , 206056, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 14.54987481868008, , , , 553764, False, 
+##[group]Fetching the repository__dup_17, 13.466546657193708, , , , 458728, False, 
+##[group]Installed distributions__dup_18, 1.4352974550792517, , , , 79753, False, 
+##[group]Run bash ./gradlew testDebugUnitTest --stacktrace, 196.7119921592185, , , , 8362885, False, 
+##[group]Run bash ./gradlew lint --stacktrace, 24.513758685667813, , , , 1893705, True, ##[error]Process completed with exit code 1.

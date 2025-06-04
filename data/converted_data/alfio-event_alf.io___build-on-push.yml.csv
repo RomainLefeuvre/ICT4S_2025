@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 73.1039227514188, , , , 23388959, False, 
+Requested labels: self-hosted__dup_2, 0.0506448601920755, , , , 4812756, False, 
+##[group]GITHUB_TOKEN Permissions, 35.318570285174914, , , , 4080587, False, 
+##[group]Run actions/checkout@v3, 6.101152162082943, , , , 162340, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.020938670836939, , , , 126070, False, 
+##[group]Cleaning the repository, 5.940725179590936, , , , 37375, False, 
+##[group]Setting up auth, 5.860511688344932, , , , 65747, False, 
+##[group]Fetching the repository, 22.639911840919694, , , , 438471, False, 
+##[group]Run actions/cache@v3, 55.40643088838258, , , , 1223377, False, 
+##[group]Run actions/cache@v3__dup_10, 21.44656312700303, , , , 589961, False, 
+##[group]Run ./gradlew build distribution jacocoTestReport -Dpgsql.version=10, 44.29124339689496, , , , 1834934, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-all/3zlzzgtsutfj0pbojr50n2l7z/gradle-8.5-all.zip.lck
+##[group]GITHUB_TOKEN Permissions__dup_12, 10.218178072588302, , , , 3661461, False, 
+##[group]Run actions/checkout@v3__dup_13, 0.8204488126211089, , , , 167893, False, 
+##[group]Cleaning the repository__dup_14, 0.4200334866551204, , , , 34882, False, 
+##[group]Fetching the repository__dup_15, 2.198258236721262, , , , 461730, False, 
+##[group]Run actions/cache@v3__dup_16, 2.557924516022016, , , , 563843, False, 
+##[group]Run actions/cache@v3__dup_17, 3.4814907936981907, , , , 575525, False, 
+##[group]Run ./gradlew build distribution jacocoTestReport -Dpgsql.version=16, 12.210106843116453, , , , 1783803, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-all/3zlzzgtsutfj0pbojr50n2l7z/gradle-8.5-all.zip.lck

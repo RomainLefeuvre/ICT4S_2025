@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean install -DskipTests -q,172.54300509943667,22685164,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Run mvn -pl '!tests' clean deploy -P bom_central_gradlePlugin,39.50881714113066,10063592,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-versions)[m on project jooby-project[m: [m
+##[group]Installed distributions,31.1391140279434,1642518,False,
+##[group]Fetching the repository,28.23521000926165,1595889,False,
+##[group]==END_FILE==,18.443632529486624,19942961,False,
+##[group]GITHUB_TOKEN Permissions,8.410522417672283,2234934,False,
+##[group]Checking out the ref,3.5855042910369184,129281,False,
+##[group]Run actions/checkout@v3,3.473298211278494,161207,False,

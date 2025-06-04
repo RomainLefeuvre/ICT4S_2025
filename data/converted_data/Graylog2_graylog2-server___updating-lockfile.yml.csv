@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.0144500450161885, , , , 4439335, False, 
+##[group]GITHUB_TOKEN Permissions, 81.2956347390619, , , , 2401858, False, 
+##[group]Run actions/checkout@v3, 96.86026832836646, , , , 698928, False, 
+##[group]Setting up auth, 13.2316947502552, , , , 74654, False, 
+##[group]Fetching the repository, 335.1022187584933, , , , 3084540, False, 
+##[group]Checking out the ref, 62.86402079672972, , , , 797821, False, 
+##[group]Run yarn install, 13.89954588064812, , , , 180011, True, ##[error]Process completed with exit code 127.
+##[group]Prepare git configuration, 6.419972305751554, , , , 41264, False, 
+##[group]Checking the base repository state, 29.82928738058989, , , , 504996, False, 
+##[group]Create or update the pull request branch, 52.30373056804618, , , , 1081838, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Restore git configuration, 20.80935547879984, , , , 604610, False, 

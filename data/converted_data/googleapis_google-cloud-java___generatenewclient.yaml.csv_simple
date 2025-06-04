@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Cleaning the repository,282.96605188624807,4986012,False,
+##[group]Run pip install --require-hashes -r generation/new_client/requirements.txt,149.19736352343784,37707286,False,
+##[group]Installed versions,130.84404207556216,29356832,True,##[error]WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+##[group]Fetching the repository,54.6796988541329,678061,False,
+##[group]Run set -x__dup_13,51.21469035452275,5381534,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,49.14073697720923,2094041,False,
+##[group]Checking out the ref,32.85047166958335,413208,False,
+##[group]Removing previously created refs_ to avoid conflicts,21.262393167414547,598989,False,
+##[group]Setting up auth,7.519580192913743,127247,False,
+##[group]Run actions/checkout@v3,6.503853673784839,158709,False,
+##[group]Run set -x,2.705708700795209,177298,True,##[error]Process completed with exit code 123.
+"##[group]Run echo ""::set-output name=week_of_year::$(date +'%W' --utc)""",1.3769675617016013,76226,False,
+Requested labels: self-hosted,0.7988300059224542,4562392,False,

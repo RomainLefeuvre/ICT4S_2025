@@ -1,0 +1,28 @@
+##[group]==END_FILE==, 1353.5675768827505, , , , 199259737, False, 
+##[group]GITHUB_TOKEN Permissions, 5.491669307570915, , , , 7799979, True, ##[error]Parameter token or opts.auth is required
+##[group]Run actions/checkout@v3, 1.0500869750730804, , , , 160949, False, 
+##[group]Cleaning the repository, 14.509838334806748, , , , 1380287, False, 
+##[group]Fetching the repository, 7.99961064123105, , , , 4730735, False, 
+##[group]Installed distributions, 746.7067795517169, , , , 84242852, False, 
+##[group]Run ./mvnw -B -ntp versions:set -DnewVersion=, 7.975196187683652, , , , 2495968, False, 
+##[group]Run svenstaro/upload-release-action@2.7.0, 0.3289511039345905, , , , 115096, False, 
+##[group]Run actions/upload-artifact@v3, 0.3297159698136093, , , , 93637, False, 
+##[group]Docker info, 0.6632562690223127, , , , 156802, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project kafka-ui: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]Pulling binfmt Docker image, 3.0225140716118384, , , , 911197, False, 
+##[group]Installing QEMU static binaries, 35.914908673416555, , , , 17614754, False, 
+##[group]Extracting available platforms, 2.364488311564931, , , , 5201140, False, 
+##[group]Docker info__dup_14, 0.1693812927112925, , , , 101183, False, 
+##[group]Buildx version, 0.1747791067134955, , , , 67419, False, 
+##[group]Creating a new builder instance, 0.540530762147096, , , , 329284, False, 
+##[group]Booting builder, 10.250177771738835, , , , 6891713, False, 
+##[group]BuildKit version, 22.38827626600853, , , , 5216836, False, 
+##[group]Run actions/cache@v3, 392.6937153127721, , , , 42446126, False, 
+##[group]Run docker/login-action@v2, 0.3703491675066747, , , , 170213, False, 
+##[group]Docker info__dup_21, 0.3677839309838172, , , , 81950, True, ##[error]Username and password required
+##[group]Buildx version__dup_22, 2.552041697311719, , , , 732018, False, 
+##[group]Removing temp folder /tmp/docker-actions-toolkit-I6fYup, 1.7972345614226537, , , , 455445, False, 
+##[group]Removing builder, 9.590607723830916, , , , 4031261, False, 
+##[group]Cleaning up certificates, 3.30475045499944, , , , 543176, False, 
+Requested labels: self-hosted, 13.759282784627256, , , , 4345061, False, 
+##[group]GITHUB_TOKEN Permissions__dup_27, 10.344321157567602, , , , 1251584, False, 
+##[group]Run peter-evans/repository-dispatch@v2, 2.890340785614319, , , , 206752, True, ##[error]Parameter token or opts.auth is required

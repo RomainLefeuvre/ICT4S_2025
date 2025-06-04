@@ -1,0 +1,7 @@
+##[group]Run ./gradlew assembleDebug lintVitalRelease, 237.4947593610588, , , , 43345223, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 15.428071851823267, , , , 2218801, False, 
+##[group]Fetching the repository, 5.78600272716796, , , , 781936, False, 
+Requested labels: self-hosted, 3.7248584194773446, , , , 5820919, False, 
+##[group]Run actions/setup-java@v2, 2.1923036426253724, , , , 312661, False, 
+##[group]Run actions/checkout@v3, 1.432622146445905, , , , 196355, False, 
+##[group]Setting up auth, 0.718045890141213, , , , 55150, False, 

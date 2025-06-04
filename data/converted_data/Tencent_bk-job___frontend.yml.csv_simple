@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run export JOB_VERSION=3.latest,355.96955022616453,56309517,True,##[error]Process completed with exit code 1.
+##[group]Cleaning the repository,90.70084865479376,1745295,False,
+Requested labels: self-hosted,41.69680382181882,4091309,False,
+##[group]GITHUB_TOKEN Permissions,37.99028451878864,1331810,False,
+##[group]Fetching the repository,19.424113520147262,494036,False,
+##[group]Getting Git version info,19.181294192618648,336316,False,
+##[group]Removing previously created refs_ to avoid conflicts,18.27807506295501,296625,False,
+"##[group]Run echo ""npm version=$(npm -v)""",13.331421832495597,437501,False,
+##[group]Run actions/checkout@v2,13.28931786711445,184082,False,
+##[group]Checking out the ref,3.583749660808241,31463,False,

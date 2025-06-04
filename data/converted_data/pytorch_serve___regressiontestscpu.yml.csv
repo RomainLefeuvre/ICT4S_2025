@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.2066978427413622, , , , 3855913, False, 
+##[group]GITHUB_TOKEN Permissions, 3.3905560678811995, , , , 3033524, False, 
+##[group]Installed versions, 1.0616458255324115, , , , 732497, True, ##[error]The version '3.10' with architecture 'arm64' was not found for Ubuntu 22.04.
+##[group]Run actions/checkout@v3, 0.1663735721369065, , , , 123361, False, 
+##[group]Getting Git version info, 55.832624858627, , , , 9048535, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Run python test/regression_tests.py, 6.794681963504203, , , , 625292, True, ##[error]Process completed with exit code 127.
+##[group]==END_FILE==, 37.4793052881946, , , , 9217044, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 5.659591778172518, , , , 2905716, False, 
+##[group]Run actions/checkout@v3__dup_9, 1.3765800955336622, , , , 120278, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Getting Git version info__dup_10, 51.06334442226329, , , , 9057938, True, ##[error]Process completed with exit code 127.
+##[group]Run python ts_scripts/install_dependencies.py --environment=dev, 1.0645252380812755, , , , 102285, True, ##[error]Process completed with exit code 127.
+##[group]Run python test/regression_tests.py__dup_12, 6.921056675780564, , , , 659962, False, 

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,73.25283663666185,5403593,False,
+##[group]GITHUB_TOKEN Permissions,37.86511098027784,2929999,False,
+##[group]Getting Git version info,20.923532480014448,9046932,False,
+##[group]Run python binaries/upload.py --upload-pypi-packages,4.782532801239985,389691,True,##[error]Process completed with exit code 127.
+##[group]Run actions/setup-java@v2,3.8163554956790056,244496,True,"##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'"
+##[group]Run actions/checkout@v3,1.9107709493832377,144764,True,##[error]The process '/usr/bin/which' failed with exit code 1
+##[group]Run conda --version,1.8789247668935167,28682,False,

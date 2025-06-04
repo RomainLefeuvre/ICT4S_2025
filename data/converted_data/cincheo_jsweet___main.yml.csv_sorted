@@ -1,0 +1,8 @@
+##[group]Run export JSWEET_VERBOSE=false, 3640.5750437898, , , , 207406405, True, [ERROR[m] MavenReportException: Error while generating Javadoc: 
+##[group]Installed distributions, 13.134806701992655, , , , 1473868, False, 
+##[group]GITHUB_TOKEN Permissions, 10.0700184715277, , , , 2276485, False, 
+##[group]Fetching the repository, 6.070410664974984, , , , 980960, False, 
+##[group]Checking out the ref, 1.479144898873047, , , , 169873, False, 
+##[group]Run actions/checkout@v4, 1.195149078289422, , , , 166858, False, 
+##[group]Setting up auth, 0.6153242779311876, , , , 44573, False, 
+Requested labels: self-hosted, 0.2289614218040559, , , , 5774367, False, 

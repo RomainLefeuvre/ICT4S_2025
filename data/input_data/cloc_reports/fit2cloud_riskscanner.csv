@@ -1,0 +1,764 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.33 s (2341.5 files/s 397669.4 lines/s)"
+JavaScript,/tmp/clone_directory/frontend/src/common/js/codemirror.js,959,1019,7811
+JavaScript,/tmp/clone_directory/backend/src/main/resources/javascript/func.js,180,17,6843
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-gcp-plugin.json,0,0,2927
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskExample.java,358,102,1402
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ResourceExample.java,262,102,1018
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/CloudAccount.vue,17,21,884
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ResourceItemExample.java,224,102,866
+JavaScript,/tmp/clone_directory/frontend/src/common/js/javascript.js,44,24,866
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleExample.java,222,102,858
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemExample.java,222,102,858
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/PlatformUtils.java,20,44,846
+JavaScript,/tmp/clone_directory/frontend/src/i18n/zh-CN.js,0,1,826
+JavaScript,/tmp/clone_directory/frontend/src/i18n/en-US.js,0,1,823
+JavaScript,/tmp/clone_directory/frontend/src/i18n/zh-TW.js,0,1,823
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/UserExample.java,210,102,810
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/home/Rule.vue,15,11,761
+Maven,/tmp/clone_directory/backend/pom.xml,40,43,758
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/CloudAccountQuartzTaskExample.java,194,102,746
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/AccountExample.java,180,102,690
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/home/Statistics.vue,25,7,672
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/home/Result.vue,18,11,667
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/OperationLogExample.java,170,102,650
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ScheduleExample.java,170,102,650
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/QuartzTask.vue,19,8,646
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/RuleService.java,73,13,619
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/CloudAccountQuartzTaskRelaLogExample.java,154,102,586
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageTaskExample.java,152,102,578
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ProxyExample.java,152,102,578
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/ResourceService.java,67,23,576
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/OrderService.java,62,73,573
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/CardContentRule.vue,3,17,570
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/TaskService.java,65,15,569
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemResourceExample.java,142,102,538
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ResourceMapper.xml,0,100,529
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageOrderItemExample.java,138,102,522
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemLogExample.java,138,102,522
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/WebMsgExample.java,136,102,514
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ScanHistoryExample.java,134,102,506
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ScanTaskHistoryExample.java,134,102,506
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabResult.vue,16,83,505
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskMapper.xml,0,75,496
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/UserKeyExample.java,128,0,482
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageOrderExample.java,126,102,474
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RoleExample.java,126,0,474
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleGroupExample.java,126,102,474
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/UserRoleExample.java,126,0,474
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/User.vue,13,6,447
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskItemMapper.xml,0,100,443
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/CloudAccountQuartzTaskRelationExample.java,114,102,426
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/PluginExample.java,114,102,426
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleInspectionReportExample.java,114,102,426
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ResourceItemMapper.xml,0,100,411
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/UserService.java,63,14,405
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/huawei-conf.json,0,0,405
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/Crontab.vue,12,15,402
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/home/RuleGroup.vue,14,10,401
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V6__init_rule.sql,28,0,390
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/AccountScan.vue,8,4,387
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/ExcelExportUtils.java,70,106,382
+CSS,/tmp/clone_directory/frontend/src/common/css/codemirror.css,95,15,381
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/AccountMapper.xml,0,100,375
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleAccountParameterExample.java,100,102,370
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/SystemParameterExample.java,100,0,370
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/home/RuleTag.vue,14,10,370
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/NucleiService.java,41,12,369
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/ProwlerService.java,43,18,364
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleTagExample.java,98,102,362
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtResourceMapper.xml,18,0,359
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/NodeTree.vue,16,5,355
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/OperationLogMapper.xml,0,100,341
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ScheduleMapper.xml,0,100,340
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/MessageTaskMapper.xml,0,100,338
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleMapper.xml,0,75,338
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/SystemParameterService.java,26,3,327
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/CloudAccountQuartzTaskRelaLogMapper.xml,0,100,324
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/UserMapper.xml,0,75,323
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ResourceRuleExample.java,88,102,322
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleTypeExample.java,88,102,322
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskItemResourceMapper.xml,0,100,321
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/HistoryList.vue,7,8,320
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/ScenarioModule.vue,20,6,317
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleGroupMappingExample.java,86,102,314
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleInspectionReportMappingExample.java,86,102,314
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleTagMappingExample.java,86,102,314
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/CloudAccountQuartzTaskMapper.xml,0,75,306
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ScanHistoryMapper.xml,0,100,304
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ScanTaskHistoryMapper.xml,0,100,304
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskItemLogMapper.xml,0,100,304
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/AccountService.java,40,11,300
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/RuleListExpandChart.vue,7,8,292
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/RuleListPieChart.vue,7,8,292
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/DashboardPieChart.vue,8,12,287
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtAccountMapper.xml,11,0,281
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtVulnMapper.xml,12,0,279
+JavaScript,/tmp/clone_directory/frontend/src/business/components/common/components/search/search-components.js,20,1,278
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/CloudAccountQuartzTaskRelationMapper.xml,0,100,270
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/ScheduleEdit.vue,10,9,267
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/Proxy.vue,8,3,267
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/home/Regulation.vue,10,6,263
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/ResourceNotification.vue,6,3,259
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ProxyMapper.xml,0,75,258
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleAccountParameterMapper.xml,0,100,251
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/ResourceCreateService.java,20,5,247
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/ScoreChart.vue,4,12,245
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/MessageOrderItemMapper.xml,0,75,243
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/WebMsgMapper.xml,0,75,243
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron.js,59,41,239
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/personal/PersonSetting.vue,8,4,237
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/MessageOrderMapper.xml,0,75,228
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RoleMapper.xml,0,0,228
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/UserKeyMapper.xml,0,0,228
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/UserRoleMapper.xml,0,0,228
+Vuejs Component,/tmp/clone_directory/frontend/src/login/Login.vue,23,7,227
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleGroupMapper.xml,0,75,226
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/MdCardContentRule.vue,4,2,222
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/home/ResultLog.vue,6,3,217
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-qcloud-plugin.json,0,0,214
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/PluginMapper.xml,0,75,211
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleInspectionReportMapper.xml,0,75,211
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/home/MetricChart.vue,19,1,211
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/home/ResultDetails.vue,8,5,210
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleMapper.xml,12,0,209
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/LogUtil.java,36,18,207
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/EmailSetting.vue,7,2,198
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleTagMapper.xml,0,75,196
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/SystemParameterMapper.xml,0,0,196
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/azure/AzureClient.java,19,1,196
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/personal/ApiKeys.vue,11,1,196
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/DingSetting.vue,7,4,183
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/WechatSetting.vue,7,4,183
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ResourceRuleMapper.xml,0,75,181
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleGroupMappingMapper.xml,0,75,181
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleInspectionReportMappingMapper.xml,0,75,181
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleTagMappingMapper.xml,0,75,181
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleTypeMapper.xml,0,75,181
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/DBEncryptInterceptor.java,18,6,180
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/RegionsConstants.java,16,14,179
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/interceptor/MybatisInterceptor.java,16,1,178
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/NoticeCreateService.java,22,4,176
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/RuleController.java,31,3,173
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Task.java,71,535,166
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/Msg.vue,11,1,166
+JavaScript,/tmp/clone_directory/frontend/src/common/js/format-utils.js,6,16,166
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabDay.vue,8,12,160
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/UserController.java,26,6,159
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/NoticeService.java,21,0,159
+JavaScript,/tmp/clone_directory/frontend/src/common/js/ajax.js,18,1,158
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabWeek.vue,8,11,156
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V4__init_schedule.sql,11,2,152
+JavaScript,/tmp/clone_directory/frontend/src/common/js/func-filter.js,29,4,152
+XML,/tmp/clone_directory/backend/src/main/resources/logback.xml,14,4,150
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/CenterChart.vue,4,5,150
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/SearchList.vue,10,4,149
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/sechedule/ScheduleManager.java,72,75,147
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/MdCardContentOverall.vue,6,2,147
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/ScheduleService.java,18,3,146
+JavaScript,/tmp/clone_directory/frontend/src/common/js/FileSaver.js,11,25,146
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/ParamConstants.java,45,1,144
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/AccountController.java,25,0,144
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V10__insert_tencent_rule.sql,11,0,143
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/MailService.java,13,10,140
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/search/TableAdvSearchBar.vue,12,3,140
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/home/ResultReadOnly.vue,3,6,139
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleGroupMapper.xml,8,0,138
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/head/ScanHeader.vue,10,0,135
+JavaScript,/tmp/clone_directory/frontend/src/common/js/utils.js,20,11,134
+JavaScript,/tmp/clone_directory/frontend/src/common/js/shell.js,15,5,132
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V9__insert_huawei_rule.sql,11,0,131
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/MdCardContentSeverity.vue,2,1,131
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/TaskController.java,28,0,130
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V7__init_result.sql,9,0,130
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabYear.vue,6,9,130
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/AbstractNoticeSender.java,14,6,128
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/MdCardContentTag.vue,4,1,127
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/Active.vue,4,2,122
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/huawei/ClientUtil.java,18,6,121
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/AsideItem.vue,15,1,120
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabSecond.vue,4,10,120
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/ResourceController.java,17,3,119
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Resource.java,50,374,117
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabMouth.vue,4,8,117
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/head/TableHeader.vue,13,0,114
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/ReadFileUtils.java,9,28,111
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/PieChart.vue,8,2,111
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabHour.vue,4,8,111
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/cron/CrontabMin.vue,6,8,107
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/CommandUtils.java,19,51,106
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/vsphere/VsphereClient.java,19,0,106
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V28__insert_rule.sql,2,0,106
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/realm/ShiroDBRealm.java,18,17,105
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/RsCodeEdit.vue,3,4,105
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ResourceItem.java,44,328,103
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/CodingUtil.java,18,48,101
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/DescCornUtils.java,21,58,100
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/DingtalkService.java,11,0,100
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V2__init_tables.sql,9,0,100
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtTaskMapper.xml,11,0,98
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V26__insert_prowler_rule.sql,6,0,98
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/ScheduleConfig.vue,11,1,98
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TableHeader.vue,12,1,98
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/resource/ResourceRequest.java,30,3,97
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Rule.java,41,305,96
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItem.java,41,305,96
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/ShiroConfig.java,17,23,96
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/WechatService.java,12,0,96
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/openstack/OpenStackRequest.java,15,2,95
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/account/CloudAccountRequest.java,36,3,94
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-aliyun-plugin.json,0,0,94
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/LanguageSwitch.vue,6,1,93
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/RecentList.vue,8,1,92
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/CompressUtils.java,8,24,91
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/RuleDTO.java,34,3,91
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/NoticeModel.java,30,24,91
+Vuejs Component,/tmp/clone_directory/frontend/src/business/App.vue,12,1,91
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/SystemParameterController.java,14,0,90
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/History.vue,4,1,90
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron/en-US.js,1,0,90
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron/zh-CN.js,1,0,90
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/User.java,38,282,89
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/EndpointUtil.java,9,3,89
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/BeanUtils.java,11,4,89
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleTagMapper.xml,5,0,88
+Properties,/tmp/clone_directory/backend/src/main/resources/i18n/messages_en_US.properties,0,4,88
+Properties,/tmp/clone_directory/backend/src/main/resources/i18n/messages_zh_CN.properties,4,4,88
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/RegionsExpandChart.vue,5,3,88
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/RegionsPieChart.vue,5,3,88
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/CodeEdit.vue,3,4,88
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/RegionsListExpand.vue,4,1,88
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/head/ProxyTableHeader.vue,10,1,88
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ExportDTO.java,26,3,87
+Properties,/tmp/clone_directory/backend/src/main/resources/i18n/messages_zh_TW.properties,0,4,87
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/Notification.vue,3,1,87
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V13__insert_aws_rule.sql,11,0,86
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/QuartzTaskLog.vue,5,1,86
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/AboutUs.vue,16,6,86
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/head/ResourceHeaderMenus.vue,9,0,86
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/OperationLogService.java,17,0,85
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/AccountExpandChart.vue,7,2,85
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/AccountPieChart.vue,7,2,85
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/BasicSwaggerConfig.java,10,2,84
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/RegionsList.vue,5,1,84
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V14__insert_azure_rule.sql,11,0,83
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/CloudAccountQuartzTask.java,35,259,82
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/head/DetailTableHeader.vue,13,0,82
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/HeaderUser.vue,7,5,81
+Java,/tmp/clone_directory/backend/src/test/Test.java,10,13,80
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/EncryptConfig.java,22,12,79
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/OrganizationMemberDTO.java,23,0,79
+JSON,/tmp/clone_directory/frontend/package.json,0,0,79
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/excel/ExcelExportRequest.java,23,0,78
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/head/ResourceTableHeader.vue,11,0,77
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/task/TaskSearchRequest.java,20,0,76
+CSS,/tmp/clone_directory/frontend/src/common/css/main.css,16,1,76
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Account.java,32,236,75
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/OperationLog.java,32,236,75
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Schedule.java,32,236,75
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/WorkspaceMemberDTO.java,23,0,75
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/MybatisInterceptorConfig.java,20,7,74
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/SessionUtils.java,10,2,74
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/UserKeyService.java,13,3,74
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V18__insert_openstack_rule.sql,12,0,74
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/Regions.vue,3,4,74
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/AccountOverview.vue,7,1,73
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/DeleteConfirm.vue,11,1,73
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aws/AWSRequest.java,10,0,71
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/RuleGroupPieChart.vue,6,1,71
+YAML,/tmp/clone_directory/.github/workflows/release.yml,6,4,70
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aliyun/AliyunRequest.java,11,0,70
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/head/TableHeader.vue,11,0,70
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/RuleList.vue,6,1,69
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/CloudAccountQuartzTaskRelaLog.java,29,213,68
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/MybatisConfig.java,9,4,66
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/handler/GlobalExceptionHandler.java,11,0,66
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/openstack/OpenStackUtils.java,11,0,65
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/AsideContainer.vue,8,1,65
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/AccountList.vue,6,1,65
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/CurrentUser.vue,7,1,65
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/SettingMenu.vue,9,0,65
+CSS,/tmp/clone_directory/frontend/src/common/css/bespin.css,23,6,65
+JSON,/tmp/clone_directory/package-lock.json,0,0,64
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/DashboardService.java,14,0,63
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/SvgIcon/index.vue,4,1,63
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/rule/CreateRuleRequest.java,28,3,62
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/listener/AppStartListener.java,9,2,62
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/WebMsgService.java,13,0,62
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageTask.java,26,190,61
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Proxy.java,26,190,61
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ScanHistory.java,26,190,61
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ScanTaskHistory.java,26,190,61
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemLog.java,26,190,61
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ResourceDTO.java,20,3,61
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/search/TableSearchComponet.vue,6,1,61
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/ChartData.java,25,4,60
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/HeaderTopMenus.vue,4,0,60
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/UserKeysController.java,10,0,59
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/CommonThreadPool.java,17,38,58
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtUserRoleMapper.xml,12,0,57
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/QuartzTaskDTO.java,25,0,57
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/ProxyService.java,12,4,57
+Maven,/tmp/clone_directory/frontend/pom.xml,5,8,57
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/pagination/TablePagination.vue,2,1,57
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/LoginController.java,10,1,56
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/ResultHolder.java,16,3,56
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/ApiKeyHandler.java,8,1,56
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/head/HeaderMenus.vue,8,0,56
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/UserRoleService.java,7,3,55
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V19__insert_vsphere_rule.sql,12,0,55
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/head/AccountHeaderMenus.vue,9,0,55
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/Dropdown.vue,5,1,55
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageOrderItem.java,23,167,54
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemResource.java,23,167,54
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/WebMsg.java,23,167,54
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/vsphere/VsphereBaseRequest.java,14,0,54
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V23__insert_aliyun_rule.sql,5,0,54
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-openstack-plugin.json,0,0,53
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/search/TableSearchSelect.vue,2,1,53
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/MessageNotification.vue,6,1,53
+JavaScript,/tmp/clone_directory/frontend/src/common/js/filter.js,17,2,53
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MailInfo.java,15,0,52
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/huawei/HuaweiCloudCredential.java,23,3,52
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TipButton.vue,5,1,52
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/ProxyController.java,10,0,51
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/TextMessage.java,13,0,51
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/PluginService.java,9,3,51
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V22__insert_gcp_rule.sql,11,0,51
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-aws-plugin.json,0,0,51
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TableOperatorButton.vue,2,1,51
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/SettingMenuBackup.vue,9,0,51
+JavaScript,/tmp/clone_directory/frontend/src/common/css/report.css.js,9,1,51
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/DashboardController.java,11,0,50
+Text,/tmp/clone_directory/backend/src/main/resources/banner.txt,3,0,50
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/head/ProxyDialogCreateFooter.vue,4,0,50
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/ScenarioList.vue,2,1,50
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/AccountSwitch.vue,7,2,50
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/Dashboard.vue,2,1,50
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/ScenarioList.vue,2,1,50
+JavaScript,/tmp/clone_directory/frontend/src/i18n/i18n.js,7,0,50
+Markdown,/tmp/clone_directory/README_EN.md,26,0,49
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/interceptor/UserDesensitizationInterceptor.java,7,3,49
+JavaScript,/tmp/clone_directory/frontend/src/business/main.js,6,4,49
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/ShiroUtils.java,10,2,48
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/WebMsgController.java,11,0,48
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/SourceDTO.java,22,0,48
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/gcp/GcpClient.java,13,0,48
+JavaScript,/tmp/clone_directory/frontend/src/business/components/settings/router.js,0,2,48
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/CloudAccountQuartzTaskRelation.java,20,144,47
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageOrder.java,20,144,47
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Role.java,20,0,47
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleGroup.java,20,144,47
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/UserKey.java,20,0,47
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/UserRole.java,20,0,47
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/search/TableSearchDatePicker.vue,4,1,47
+JavaScript,/tmp/clone_directory/frontend/src/business/permission.js,9,7,47
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/I18nController.java,8,1,46
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/AccountDTO.java,21,0,46
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/TaskDTO.java,15,3,46
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V24__insert_nuclei_rule.sql,13,0,46
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/head/DialogFooter.vue,4,0,46
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TableButton.vue,3,1,46
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TableOperator.vue,5,1,46
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/search/TableSearchDateTimePicker.vue,4,1,46
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/websocket/WebSocket.vue,4,3,46
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtUserMapper.xml,6,1,45
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/openstack/OpenStackCredential.java,13,0,45
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/tencent/QCloudBaseRequest.java,7,0,45
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/account/CreateCloudAccountRequest.java,13,3,44
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/account/UpdateCloudAccountRequest.java,17,3,44
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/InstructionsIcon.vue,5,1,44
+JavaScript,/tmp/clone_directory/frontend/src/common/js/constants.js,5,1,44
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/sechedule/ScheduleJob.java,15,0,43
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/ApiKeySessionHandler.java,16,0,43
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/NoticeSendService.java,6,0,43
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/home/AccountStatus.vue,3,1,43
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/head/RuleHeaderMenus.vue,9,0,43
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/PluginController.java,7,0,42
+XML,/tmp/clone_directory/backend/src/main/resources/generatorConfig.xml,5,55,42
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/head/ProxyDialogFooter.vue,4,0,42
+Markdown,/tmp/clone_directory/README.md,19,0,41
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/MailNoticeSender.java,5,0,41
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/ApiKeyFilter.java,6,0,41
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/Compliance.vue,4,1,41
+JavaScript,/tmp/clone_directory/frontend/src/common/js/message.js,6,1,41
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Plugin.java,17,121,40
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ResourceWithBLOBs.java,17,121,40
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleAccountParameter.java,17,121,40
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleInspectionReport.java,17,121,40
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/TaskConstants.java,13,19,40
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-huawei-plugin.json,0,0,40
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/DashboardTarget.java,17,4,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/RestTemplateUtils.java,8,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/WorkspaceDTO.java,12,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/i18n/Lang.java,9,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aliyun/ProxyUtils.java,6,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aws/ProxyUtils.java,4,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/azure/ProxyUtils.java,6,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/tencent/ProxyUtils.java,5,0,39
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/Help.vue,2,1,39
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/Setting.vue,9,0,39
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/ProjectUtil.java,8,3,38
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/IndexController.java,7,0,38
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/UserRoleHelpDTO.java,12,0,38
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/vsphere/VsphereCredential.java,10,0,38
+JavaScript,/tmp/clone_directory/frontend/src/business/components/common/router/router.js,3,2,37
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/UserRoleController.java,7,0,36
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/Plugin/PluginRequest.java,14,0,36
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/TaskCopyDTO.java,12,3,36
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-azure-plugin.json,0,0,36
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtScanHistoryMapper.xml,2,0,35
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtScheduleMapper.xml,1,0,35
+Properties,/tmp/clone_directory/backend/src/main/resources/application.properties,10,6,35
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V21__init_quartz_task.sql,9,0,35
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TableSearchBar.vue,5,1,35
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/EncryptUtils.java,8,0,34
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/I18nConfig.java,9,6,34
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/TagController.java,8,0,34
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/task/TaskRequest.java,13,0,34
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/UserModularRealmAuthenticator.java,7,7,34
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/chart/RsChart.vue,2,6,34
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/TableOperators.vue,3,1,34
+SVG,/tmp/clone_directory/frontend/src/icons/svg/iconfont.svg,34,3,34
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleTag.java,14,98,33
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/SystemParameter.java,14,0,33
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtWebMsgMapper.xml,3,0,33
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ScanHistoryDTO.java,15,0,33
+Java,/tmp/clone_directory/backend/src/test/io/riskscanner/Test3.java,12,4,33
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/RuleDialogFooter.vue,4,1,33
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/SystemParameterSetting.vue,3,1,33
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/OperationLogController.java,6,0,32
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/handler/ResultResponseBodyAdvice.java,6,4,32
+JavaScript,/tmp/clone_directory/frontend/src/business/store.js,4,0,32
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/Mail.java,12,4,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/Pager.java,11,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/DingNoticeSender.java,6,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aws/AWSProxySetting.java,1,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/azure/AzureCredential.java,11,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/azure/AzureProxySetting.java,1,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/tencent/QCloudProxySetting.java,1,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/LoginFilter.java,5,0,31
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/RolesTag.vue,3,1,31
+CSS,/tmp/clone_directory/frontend/src/common/css/menu-header.css,6,0,31
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/NoticeController.java,8,0,30
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/azure/AzureResourceObject.java,11,0,30
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-vsphere-plugin.json,0,0,30
+JavaScript,/tmp/clone_directory/frontend/src/business/components/account/router.js,0,1,30
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/home/MdCardContentPie.vue,3,1,30
+JavaScript,/tmp/clone_directory/frontend/src/business/components/rule/router.js,0,1,30
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/RequestUtil.java,4,3,29
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/NoticeConstants.java,6,0,29
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/member/AddMemberRequest.java,10,0,29
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/organization/AddOrgMemberRequest.java,10,0,29
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/WeComNoticeSender.java,6,0,29
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/router/CsView.vue,4,0,29
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/ScriptEngineUtils.java,5,0,28
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/RoleController.java,7,0,28
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/member/EditPassWordRequest.java,8,0,28
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/TaskItemLogDTO.java,10,0,28
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/UserRoleDTO.java,10,0,28
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-huawei-plugin.json,0,0,28
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/home/RuleType.vue,5,0,28
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtWebMsgMapper.java,7,0,27
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/CommonBeanFactory.java,7,0,27
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/search/TableSearchInput.vue,3,1,27
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/system/MessageSetting.vue,4,0,27
+JavaScript,/tmp/clone_directory/frontend/vue.config.js,0,0,27
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/ResourceRule.java,11,75,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleGroupMapping.java,11,75,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleInspectionReportMapping.java,11,75,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleTagMapping.java,11,75,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/RuleType.java,11,75,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemWithBLOBs.java,11,75,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/CloudAccountConstants.java,7,0,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/QueryScheduleRequest.java,10,0,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/CloudAccountQuartzTaskDTO.java,13,0,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ResourceDetailDTO.java,9,3,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/azure/AzureBaseRequest.java,6,0,26
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/account/base.vue,5,0,26
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/ShowAll.vue,2,1,26
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/dashboard/base.vue,5,0,26
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/resource/base.vue,5,0,26
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/rule/base.vue,5,0,26
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/EndpointNode.java,11,3,25
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V5__init_cloud_account.sql,2,0,25
+JavaScript,/tmp/clone_directory/frontend/src/business/components/dashboard/router.js,0,1,25
+JavaScript,/tmp/clone_directory/frontend/src/business/components/resource/router.js,0,1,25
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MailAttachmentInfo.java,10,0,24
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/UserDetail.java,8,0,24
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/TemplateUtils.java,6,10,24
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/TemplateUtils.java,6,10,24
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aliyun/AliyunProxySetting.java,7,0,24
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/gcp/GcpBaseRequest.java,8,0,24
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/DialogFooter.vue,4,0,24
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/settings/CreateBox.vue,2,0,24
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtResourceMapper.java,15,4,23
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/UserDTO.java,10,0,23
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/Request.java,10,0,23
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/nuclei/NucleiCredential.java,6,0,23
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/Tag.vue,3,1,23
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron/filed.js,0,6,23
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron/index.js,4,3,23
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/AccountMapper.java,16,84,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/MessageTaskMapper.java,16,84,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ResourceMapper.java,16,84,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskItemMapper.java,16,84,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskItemResourceMapper.java,16,84,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/handler/RestControllerExceptionHandler.java,7,1,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/handler/SubscribeNode.java,11,0,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/log/OperayionLogRequest.java,8,3,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/RoleService.java,6,3,22
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V8__init_history.sql,1,0,22
+JavaScript,/tmp/clone_directory/frontend/src/login/login.js,5,0,22
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/CloudAccountQuartzTaskRelaLogMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/CloudAccountQuartzTaskRelationMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/OperationLogMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ResourceItemMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleAccountParameterMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ScanHistoryMapper.java,15,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ScanTaskHistoryMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ScheduleMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskItemLogMapper.java,16,84,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/LoginRequest.java,6,0,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/OrderRequest.java,6,0,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/WorkspaceRequest.java,6,0,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/vsphere/VsphereRegion.java,3,0,21
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/Container.vue,6,0,21
+CSS,/tmp/clone_directory/frontend/src/common/css/project-style.css,5,0,21
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/Application.java,2,3,20
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/RegionUtil.java,5,3,20
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/swagger/F2cRequestHandlerSelectors.java,4,0,20
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/IDGenerator.java,7,5,20
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ReportDTO.java,10,0,20
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/security/RsUserToken.java,8,0,20
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-aliyun-plugin.json,0,0,20
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-aws-plugin.json,0,0,20
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-nuclei-plugin.json,0,0,20
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-qcloud-plugin.json,0,0,20
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/head/CreateButton.vue,2,0,20
+Maven,/tmp/clone_directory/pom.xml,3,0,20
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug.md,7,0,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/AccountWithBLOBs.java,8,52,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/MessageTaskWithBLOBs.java,8,52,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/domain/TaskItemResourceWithBLOBs.java,8,52,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtUserRoleMapper.java,12,0,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtVulnMapper.java,14,4,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/ConfigEntity.java,9,3,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/SelectTag.java,8,0,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/IOUtils.java,4,0,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/HelloController.java,4,0,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/rule/RuleGroupRequest.java,10,3,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/rule/RuleTagRequest.java,10,3,19
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/GroupDTO.java,10,0,19
+Dockerfile,/tmp/clone_directory/Dockerfile,14,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/CloudAccountQuartzTaskMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/MessageOrderItemMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/MessageOrderMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/PluginMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ProxyMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ResourceRuleMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RoleMapper.java,13,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleGroupMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleGroupMappingMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleInspectionReportMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleInspectionReportMappingMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleTagMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleTagMappingMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/RuleTypeMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/SystemParameterMapper.java,13,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/TaskMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/UserKeyMapper.java,13,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/UserMapper.java,13,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/UserRoleMapper.java,13,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/WebMsgMapper.java,12,66,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/RequestWithParam.java,6,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/exception/PluginException.java,6,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/exception/RSException.java,6,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/GlobalConfigurations.java,8,4,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/member/UserRequest.java,6,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/RuleGroupDTO.java,8,3,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ScheduleDao.java,7,0,18
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-azure-plugin.json,0,0,18
+Markdown,/tmp/clone_directory/frontend/required.md,11,0,18
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtAccountMapper.java,11,0,17
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtTaskMapper.java,11,0,17
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/ServiceUtils.java,4,0,17
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/WebConfig.java,4,5,17
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/NotificationBasicResponse.java,7,0,17
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aliyun/AliyunCredential.java,1,0,17
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/aws/AWSCredential.java,1,0,17
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleTypeMapper.xml,3,0,16
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/IamRequest.java,6,3,16
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/components/MainContainer.vue,4,0,16
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/ResourceConstants.java,6,3,15
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/ResourceTypeConstants.java,1,0,15
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/PageUtils.java,2,0,15
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/listener/InitListener.java,7,0,15
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/tableItem/ReportTriggerModeItem.vue,3,0,15
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtWorkspaceMapper.xml,2,0,14
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/CommandEnum.java,5,3,14
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/DashboardConstants.java,3,3,14
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/OrganizationRequest.java,4,0,14
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/i18n/Translator.java,5,3,14
+LESS,/tmp/clone_directory/frontend/src/common/css/cron/global.less,1,0,14
+JavaScript,/tmp/clone_directory/frontend/src/common/js/chart.js,1,0,14
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtUserMapper.java,9,0,13
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/AuthUtil.java,5,3,13
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/ServiceUtil.java,4,3,13
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/OpenApiConfig.java,2,0,13
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/MessageDetail.java,7,0,13
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V12__init_proxy.sql,1,0,13
+HTML,/tmp/clone_directory/frontend/src/business/index.html,0,0,13
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron/tools.js,1,0,13
+HTML,/tmp/clone_directory/frontend/src/login/login.html,0,0,13
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/user/SessionUser.java,7,0,12
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ShowAccountQuartzTaskDTO.java,7,0,12
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ShowAccountQuartzTaskRelationDto.java,6,0,12
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V27__web_msg.sql,2,3,12
+JSON,/tmp/clone_directory/backend/src/main/resources/support/credential/fit2cloud-gcp-plugin.json,0,0,12
+INI,/tmp/clone_directory/frontend/.editorconfig,2,0,12
+Vuejs Component,/tmp/clone_directory/frontend/src/business/components/common/router/RouterSidebar.vue,3,0,12
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtOrganizationMapper.xml,2,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleGroupMapper.java,7,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleMapper.java,6,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/CsRequestBodyType.java,6,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/ResourceOperation.java,5,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/WebSocketConfig.java,4,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/ResourceLogDTO.java,6,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/dto/RuleTagDTO.java,6,3,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/MessageSettingDetail.java,5,0,11
+JavaScript,/tmp/clone_directory/frontend/src/common/js/icon.js,1,0,11
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/rs/BusiRequest.java,4,3,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/SwaggerParameterType.java,2,0,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/swagger/annotation/ApiHasModules.java,2,0,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/swagger/annotation/ApiLackModules.java,2,0,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/UUIDUtil.java,3,0,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/CommonConfig.java,3,4,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/UserRequest.java,2,0,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/resource/JsonRequest.java,4,3,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/proxy/gcp/GcpCredential.java,4,0,10
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-vsphere-plugin.json,0,0,10
+JavaScript,/tmp/clone_directory/frontend/src/common/js/NodeTree.js,1,1,10
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/MathUtils.java,3,7,9
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/config/DBEncryptConfig.java,3,0,9
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/member/QueryMemberRequest.java,2,0,9
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/controller/request/organization/QueryOrgMemberRequest.java,2,0,9
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleTagMapper.java,5,0,8
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtScheduleMapper.java,3,0,8
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtWorkspaceMapper.java,4,0,8
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/utils/FuzzyQuery.java,4,4,8
+JavaScript,/tmp/clone_directory/frontend/src/common/js/validate.js,3,11,8
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/questions.md,0,0,7
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/v1.0.md,0,0,7
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRoleMapper.java,4,0,7
+XML,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRoleMapper.xml,2,0,7
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtRuleTypeMapper.java,4,0,7
+Properties,/tmp/clone_directory/backend/src/main/resources/properties/quartz.properties,0,0,7
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtScanHistoryMapper.java,5,0,6
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/NoticeSender.java,2,0,6
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V3__init_data.sql,2,0,6
+Bourne Shell,/tmp/clone_directory/build.sh,1,0,6
+SVG,/tmp/clone_directory/frontend/src/assets/browser/chrome.svg,0,0,6
+SVG,/tmp/clone_directory/frontend/src/assets/browser/firefox.svg,0,0,6
+SVG,/tmp/clone_directory/frontend/src/assets/browser/ie.svg,0,0,6
+SVG,/tmp/clone_directory/frontend/src/assets/browser/opera.svg,0,0,6
+JavaScript,/tmp/clone_directory/frontend/src/common/js/calendar-heatmap.js,1,0,6
+JavaScript,/tmp/clone_directory/frontend/src/icons/index.js,2,1,6
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/base/mapper/ext/ExtOrganizationMapper.java,3,0,5
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/UserStatus.java,1,0,5
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V20__update_rule.sql,1,0,5
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V25__update_rule.sql,1,0,5
+JavaScript,/tmp/clone_directory/frontend/babel.config.js,0,0,5
+YAML,/tmp/clone_directory/frontend/src/icons/svgo.yml,4,13,5
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/ApiKeyConstants.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/I18nConstants.java,2,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/RoleConstants.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/ScanTypeConstants.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/SessionConstants.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/SsoMode.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/commons/constants/UserSource.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/message/Message.java,1,0,4
+Java,/tmp/clone_directory/backend/src/main/java/io/riskscanner/service/SSOService.java,1,0,4
+SVG,/tmp/clone_directory/frontend/src/icons/svg/docs.svg,0,0,4
+SVG,/tmp/clone_directory/frontend/src/icons/svg/ds-sql.svg,0,0,4
+SVG,/tmp/clone_directory/frontend/src/icons/svg/exclamationmark.svg,0,0,4
+SVG,/tmp/clone_directory/frontend/src/icons/svg/language.svg,0,0,4
+SVG,/tmp/clone_directory/frontend/src/icons/svg/lock_open.svg,0,0,4
+JavaScript,/tmp/clone_directory/frontend/src/business/components/common/head/ListEvent.js,2,0,3
+JavaScript,/tmp/clone_directory/frontend/src/common/js/bus.js,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/bar-horizontal.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/bar-stack-horizontal.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/bar-stack.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/bar.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/database.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/datasource.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/doc.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/ds-custom.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/ds-db.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/ds-excel.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/field_location.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/field_text.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/field_time.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/field_value.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/folder.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/funnel.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/gauge.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/line-stack.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/line.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/lock_closed.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/msg-setting.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/notification.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/panel.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/pie-rose.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/pie.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/radar.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/readed-msg.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/scatter.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/scene.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/sys-tools.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/table-normal.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/text.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/unread-msg.svg,0,0,3
+SVG,/tmp/clone_directory/frontend/src/icons/svg/warn-tre.svg,0,0,3
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V17__update_rule.sql,1,0,2
+Properties,/tmp/clone_directory/backend/src/main/resources/properties/log.properties,0,0,2
+JavaScript,/tmp/clone_directory/frontend/src/common/js/cron/reg.js,0,0,2
+SVG,/tmp/clone_directory/frontend/src/icons/svg/dept.svg,0,0,2
+SVG,/tmp/clone_directory/frontend/src/icons/svg/menu.svg,0,0,2
+SVG,/tmp/clone_directory/frontend/src/icons/svg/role.svg,0,0,2
+SVG,/tmp/clone_directory/frontend/src/icons/svg/system.svg,0,0,2
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V11__modify_message_order.sql,0,0,1
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V15__alter_user.sql,1,0,1
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V16__alter_message_task.sql,1,0,1
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V1__init.sql,0,0,1
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V29__update_rule.sql,1,0,1
+SQL,/tmp/clone_directory/backend/src/main/resources/db/migration/V30__alter_history.sql,2,0,1
+Properties,/tmp/clone_directory/backend/src/main/resources/i18n/messages.properties,0,0,1
+JSON,/tmp/clone_directory/backend/src/main/resources/support/strategy/fit2cloud-nuclei-plugin.json,0,0,1
+CSS,/tmp/clone_directory/frontend/src/common/css/cron/index.css,0,0,1
+JavaScript,/tmp/clone_directory/frontend/src/common/js/vue-codemirror.js,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/all-msg.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/dashboard.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/example.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/exit-fullscreen.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/eye-open.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/eye.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/form.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/fullscreen.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/international.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/link.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/map.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/nested.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/password.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/people.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/peoples.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/size.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/sort-asc.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/sort-desc.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/table.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/task.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/tree.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/treemap.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/user.svg,0,0,1
+SVG,/tmp/clone_directory/frontend/src/icons/svg/web-msg.svg,0,0,1
+SUM,,12897,17493,99022

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run chmod +x gradlew,600.5193887272209,57391961,True,##[error]Process completed with exit code 1.
+##[group]Caching Gradle state,126.26862592413164,11897954,False,
+##[group]Fetching the repository,99.44805950806176,13588182,False,
+##[group]GITHUB_TOKEN Permissions,10.40169850319309,3288010,False,
+##[group]Run actions/upload-artifact@v3,5.162998825130063,365525,False,
+##[group]Run actions/checkout@v3,0.9035127033694792,217885,False,
+##[group]Checking out the ref,0.6082068011696988,46397,False,
+##[group]Restore Gradle state from cache,0.5589542846660849,1718639,False,
+Requested labels: self-hosted,0.5138046431185492,5431338,False,
+##[group]Setting up auth,0.4692631935744182,81410,False,
+##[group]Getting Git version info,0.4622604568185468,107346,False,

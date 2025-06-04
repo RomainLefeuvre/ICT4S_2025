@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gradle/actions/setup-gradle@v3__dup_18,878.9420107059201,37037495,False,
+##[group]==END_FILE==,727.7367095322882,107550436,False,
+##[group]Restore Gradle state from cache,584.1703581728867,74979455,False,
+##[group]GITHUB_TOKEN Permissions,213.97844760892173,4491275,False,
+##[group]Fetching the repository,131.92808306479148,1569074,False,
+##[group]Caching Gradle state,98.63791051014698,12199571,True,##[error]Gradle build failed: see console output for details
+##[group]Run gradle/actions/setup-gradle@v3,49.06834377793241,514294,False,
+##[group]Run gradle/actions/setup-gradle@v3__dup_19,42.89754990092086,3840020,True,##[error]Gradle build failed: see console output for details
+##[group]GITHUB_TOKEN Permissions__dup_12,28.664205235827904,4951450,False,
+##[group]Run actions/checkout@v4,14.46757352627698,197631,False,
+##[group]Fetching the repository__dup_16,10.101359603979072,466647,False,
+##[group]Installed distributions,9.510153227063189,25330,False,
+##[group]Checking out the ref,9.1054658556988,133538,False,
+##[group]Run actions/checkout@v4__dup_13,8.472785291454398,188073,False,
+##[group]Setting up auth,7.385544527400136,54092,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.714828979086694,141884,False,
+##[group]Setting up auth__dup_15,1.9551289482948275,67166,False,
+##[group]Determining the checkout info,1.747382491405112,8797,False,
+##[group]==END_FILE==__dup_2,0.0,5311863,False,

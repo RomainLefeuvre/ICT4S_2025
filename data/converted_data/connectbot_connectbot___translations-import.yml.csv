@@ -1,0 +1,15 @@
+Requested labels: self-hosted, 440.6901272418819, , , , 4456794, False, 
+##[group]GITHUB_TOKEN Permissions, 316.9115887706647, , , , 2079060, False, 
+##[group]Run actions/checkout@v4, 34.19562735975259, , , , 172519, False, 
+##[group]Cleaning the repository, 17.338627957057646, , , , 10748, False, 
+##[group]Fetching the repository, 70.95994034277298, , , , 416313, False, 
+##[group]Determining the checkout info, 18.14134221432884, , , , 8637, False, 
+##[group]Run sudo apt-get update && \\, 127.83241060817976, , , , 29230184, True, ##[error]Process completed with exit code 100.
+##[group]Run cd /home/power/actions-runner/_work/_temp, 0.9407110028323248, , , , 54261, True, ##[error]Process completed with exit code 127.
+##[group]Run rsync -av --exclude .bzr --exclude '**/oc.po' --exclude '**/ca@valencia.po' \\, 2.8280276771424164, , , , 294907, True, ##[error]Process completed with exit code 23.
+##[group]Run TRANSLATIONS_ONLY=1 ./gradlew :translations:importToAndroid, 79.2025118870336, , , , 43583687, False, 
+> Task :translations:build_envs, 6.33005757131964, , , , 1902616, False, 
+##[group]Prepare git configuration, 1.5601243825488678, , , , 34233, False, 
+##[group]Checking the base repository state, 7.964017950680415, , , , 416100, False, 
+##[group]Create or update the pull request branch, 4.344215841340904, , , , 528578, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run echo "Created pull request number ", 4.856563996037014, , , , 290401, False, 

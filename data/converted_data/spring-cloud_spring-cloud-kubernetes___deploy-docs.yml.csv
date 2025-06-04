@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 617.922175604284, , , , 5064390, False, 
+##[group]GITHUB_TOKEN Permissions, 30.05098273999321, , , , 1707652, False, 
+##[group]Run actions/checkout@v3, 46.97019377912184, , , , 354808, False, 
+##[group]Getting Git version info, 9.670607033807494, , , , 62020, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 19.61778234559812, , , , 187572, False, 
+##[group]Cleaning the repository, 30.11809421335499, , , , 263405, False, 
+##[group]Setting up auth, 10.223743589773749, , , , 81183, False, 
+##[group]Fetching the repository, 170.5571740868207, , , , 37349667, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run gh workflow run deploy-docs.yml -r $(git rev-parse --abbrev-ref HEAD) -f build-refname=main, 9.929110608190276, , , , 2618540, True, ##[error]Process completed with exit code 1.

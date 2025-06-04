@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/dbelyaev/action-checkstyle/v0.8.4/Dockerfile'.,83.26588154415023,35394609,False,
+##[group]Run dbelyaev/action-checkstyle@v0.8.4,52.13585465866416,13621349,False,
+##[group]GITHUB_TOKEN Permissions,14.859346745182686,1930380,False,
+Requested labels: self-hosted,3.2477581747461373,5207291,False,
+##[group]Fetching the repository,1.5321526631787514,431158,False,
+##[group]Setting up auth,0.3478571649803594,84876,False,
+##[group]Getting Git version info,0.3197123643288966,66160,False,
+##[group]Run actions/checkout@v3,0.3056399640031653,149782,False,

@@ -1,0 +1,7 @@
+##[group]Run crazy-max/ghaction-github-labeler@v3, 170.79131287698715, , , , 23225743, False, 
+##[group]GITHUB_TOKEN Permissions, 31.30192190344908, , , , 1981432, False, 
+##[group]Fetching the repository, 12.158346883802414, , , , 462040, False, 
+##[group]Setting up auth, 2.283113957059678, , , , 103153, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.233595483826076, , , , 14253, False, 
+##[group]Run actions/checkout@v4, 2.1840770105924743, , , , 172177, False, 
+Requested labels: self-hosted, 0.3575849064056354, , , , 4524730, False, 

@@ -1,0 +1,8 @@
+##[group]Fetching the repository, 174.45584534863085, , , , 3026084, False, 
+##[group]GITHUB_TOKEN Permissions, 42.10523305289425, , , , 1247414, False, 
+##[group]Checking out the ref, 37.91632488542743, , , , 488535, False, 
+##[group]Removing auth, 32.55577664587821, , , , 382301, True, ##[error]Can't find 'action.yml', 'action.yaml' or 'Dockerfile' under '/home/power/actions-runner/_work/chunjun/chunjun/.github/actions/get-workflow-origin'. Did you forget to run actions/checkout before running your local action?
+##[group]Run actions/checkout@v2, 8.195282004625394, , , , 215847, False, 
+##[group]Fetching submodules, 7.886362714022249, , , , 98794, False, 
+##[group]Setting up auth, 4.24918987078108, , , , 51035, False, 
+##[group]==END_FILE==, 0.0291077683319, , , , 4520700, False, 

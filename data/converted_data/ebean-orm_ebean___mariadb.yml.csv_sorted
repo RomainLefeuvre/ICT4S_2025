@@ -1,0 +1,8 @@
+##[group]Run mvn -T 8 clean test -Dprops.file=testconfig/ebean-mariadb.properties, 2286.734210307037, , , , 164054923, False, 
+##[group]Run actions/cache@v3, 443.1868451698447, , , , 58791040, False, 
+##[group]GITHUB_TOKEN Permissions, 99.55610263762784, , , , 3220972, False, 
+##[group]Fetching the repository, 62.16631505279227, , , , 719079, False, 
+##[group]Cleaning the repository, 32.008807283312365, , , , 267304, False, 
+##[group]Run actions/checkout@v3, 22.82978842001815, , , , 168560, False, 
+##[group]Setting up auth, 10.073369001980156, , , , 76037, False, 
+Requested labels: self-hosted, 0.0401953142230026, , , , 4221017, False, 

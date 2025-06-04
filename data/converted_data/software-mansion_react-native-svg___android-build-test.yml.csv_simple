@@ -1,0 +1,25 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,1355.2654527476288,431960188,False,
+##[group]Run ./gradlew assembleDebug --build-cache --console=plain -PreactNativeArchitectures=arm64-v8a,1318.371218552404,408930523,True,##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v2__dup_21,390.53304448604416,186629281,False,
+##[group]GITHUB_TOKEN Permissions,288.792529790661,3842399,False,
+##[group]Run actions/cache@v2,280.2863278026214,2029821,False,
+##[group]Run ./gradlew assembleDebug --build-cache --console=plain -PreactNativeArchitectures=arm64-v8a__dup_24,238.2748819850043,18220130,True,##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v3,104.16611286992942,622153,False,
+##[group]Run actions/cache@v2__dup_11,96.6360324215008,602906,False,
+##[group]Fetching the repository,57.870062705516354,501770,False,
+##[group]Run actions/setup-java@v1,36.39538883407173,216921,False,
+##[group]GITHUB_TOKEN Permissions__dup_15,27.05100124313279,3857565,False,
+##[group]Getting Git version info,21.614119805674783,132153,False,
+##[group]Run actions/checkout@v2,21.056336068754145,189265,False,
+##[group]Run yarn install --frozen-lockfile,16.594066173389024,21166,True,##[error]Process completed with exit code 127.
+##[group]Setting up auth,11.155674738412792,84527,False,
+##[group]Removing previously created refs_ to avoid conflicts,11.016228804182632,103394,False,
+##[group]Fetching the repository__dup_18,10.1218745461565,422119,False,
+##[group]Run actions/cache@v3__dup_23,9.262806430222692,580471,False,
+##[group]Run actions/setup-java@v1__dup_19,8.138112066991933,123016,False,
+##[group]Run actions/cache@v2__dup_22,5.245613987616578,578385,False,
+##[group]Run actions/checkout@v2__dup_16,3.900630971877873,180622,False,
+##[group]Setting up auth__dup_17,2.0243749092313,68329,False,
+"##[group]Run /bin/bash -c ""yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses > /dev/null""",1.458335715816416,49662,True,##[error]Process completed with exit code 127.
+Requested labels: self-hosted,0.0,4832070,False,

@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 5.778892994046073, , , , 5862031, False, 
+##[group]GITHUB_TOKEN Permissions, 6.713701585099547, , , , 1584497, False, 
+##[group]Run OpenGamma/OGBot@main, 3.536516311116292, , , , 301413, True, ##[error]Invalid event: repository_dispatch

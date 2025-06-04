@@ -1,0 +1,10 @@
+##[group]Run eskatos/gradle-command-action@v1, 520.2038999929447, , , , 73878981, False, 
+##[group]Run actions/upload-artifact@v2, 54.05595468452758, , , , 7032094, True, ##[error]Gradle process exited with status 1
+##[group]GITHUB_TOKEN Permissions, 47.65077185927502, , , , 4235937, False, 
+##[group]Fetching the repository, 15.496886706031798, , , , 1507106, False, 
+##[group]==END_FILE==, 9.45018094271894, , , , 5737895, False, 
+##[group]Run styfle/cancel-workflow-action@0.5.0, 7.483495851647766, , , , 673692, False, 
+##[group]Checking out the ref, 2.0226039933536293, , , , 130813, False, 
+##[group]Run actions/checkout@v2, 1.0562333161112665, , , , 164025, False, 
+##[group]Disabling automatic garbage collection, 1.0536658121435831, , , , 4949, False, 
+##[group]Run actions/setup-java@v1, 1.0074507407252902, , , , 126992, False, 

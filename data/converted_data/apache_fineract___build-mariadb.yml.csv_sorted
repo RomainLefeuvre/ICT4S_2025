@@ -1,0 +1,9 @@
+##[group]Starting mock-oauth2-server service container, 256.7932679872933, , , , 71464009, False, 
+##[group]GITHUB_TOKEN Permissions, 81.38058345655982, , , , 4812065, False, 
+##[group]Run actions/upload-artifact@5d5d22a31266ced268874388b861e4b58bb5c2f3, 68.52302660535014, , , , 5077006, False, 
+##[group]Starting mariad service container, 50.30841766412628, , , , 39046638, False, 
+##[group]Create local container network, 48.99730483098659, , , , 610119, False, 
+##[group]Run actions/upload-artifact@5d5d22a31266ced268874388b861e4b58bb5c2f3__dup_9, 40.35542768580198, , , , 6884517, False, 
+##[group]Checking docker version, 9.78819731572727, , , , 47647, False, 
+##[group]Service container mariad failed., 0.6532931638565447, , , , 170090, True, ##[error]Failed to initialize container mariadb:11.2
+##[group]Waiting for all services to be ready, 0.2738700059953249, , , , 47058, False, 

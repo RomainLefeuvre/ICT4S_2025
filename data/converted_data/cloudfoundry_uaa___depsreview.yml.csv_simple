@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,14.951357946223888,2136929,False,
+##[group]Fetching the repository,9.990144757480396,3663487,False,
+##[group]==END_FILE==,9.42164421976539,6443476,False,
+##[group]Run actions/dependency-review-action@v4,2.166967567680536,437540,True,"##[error]Both a base ref and head ref must be provided, either via the `base_ref`/`head_ref` config options, `base-ref`/`head-ref` workflow action options, or by running a `pull_request`/`pull_request_target` workflow."
+##[group]Setting up auth,1.005133307309169,63184,False,
+##[group]Run actions/checkout@v4,0.9841930300735614,137780,False,
+##[group]Checking out the ref,0.916992821609528,198966,False,

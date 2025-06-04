@@ -1,0 +1,10 @@
+##[group]Fetching the repository, 48.20145422612477, , , , 4213010, False, 
+##[group]Installed distributions, 44.916828607544936, , , , 1306614, False, 
+##[group]Run actions/checkout@v3, 7.322075629262971, , , , 157777, False, 
+##[group]Run ./gradlew build, 6.472132289812, , , , 591766, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4-bin.zip.lck
+##[group]GITHUB_TOKEN Permissions, 6.238408278316533, , , , 2131350, False, 
+##[group]Run chmod +x gradlew, 5.846522784253686, , , , 133525, False, 
+##[group]Run ./gradlew -PSONATYPE_USERNAME="$SONATYPE_USERNAME" -PSONATYPE_PASSWORD="$SONATYPE_PASSWORD" publish, 4.764792164887911, , , , 567326, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4-bin.zip.lck
+##[group]Checking out the ref, 4.665261001618245, , , , 200094, False, 
+##[group]Setting up auth, 3.929188498961284, , , , 61490, False, 
+Requested labels: self-hosted, 0.0, , , , 5453708, False, 

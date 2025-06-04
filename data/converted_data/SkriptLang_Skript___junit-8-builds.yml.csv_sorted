@@ -1,0 +1,11 @@
+##[group]GITHUB_TOKEN Permissions, 88.21881029659421, , , , 2860640, False, 
+##[group]Installed distributions, 21.799497741367887, , , , 700708, False, 
+##[group]Run ./gradlew clean JUnitJava8, 18.76137174722984, , , , 578440, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.3-bin/dxjbbhstwasg8cbags9q7cvli/gradle-8.3-bin.zip.lck
+##[group]Fetching the repository, 15.4442565337386, , , , 436196, False, 
+Requested labels: self-hosted, 14.595583034307564, , , , 5079144, False, 
+##[group]Cleaning the repository, 9.237289316814502, , , , 325587, False, 
+##[group]Run gradle/wrapper-validation-action@v2, 6.199163322676454, , , , 148777, False, 
+##[group]Run actions/checkout@v4, 6.148438010066783, , , , 143060, False, 
+##[group]Persisting credentials for submodules, 3.0966552009953614, , , , 117590, False, 
+##[group]Fetching submodules, 3.0947042274334517, , , , 96383, False, 
+##[group]Disabling automatic garbage collection, 3.0829983860619885, , , , 4159, False, 

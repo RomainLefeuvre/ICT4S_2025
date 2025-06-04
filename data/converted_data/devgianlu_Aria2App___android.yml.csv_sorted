@@ -1,0 +1,11 @@
+##[group]Run ./gradlew connectedCheck --no-daemon, 278.7029546003193, , , , 46123000, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 18.76125304925449, , , , 2762534, False, 
+##[group]Fetching submodules, 15.57208930122761, , , , 3426760, False, 
+##[group]GITHUB_TOKEN Permissions, 11.792787630959968, , , , 3146422, False, 
+Requested labels: self-hosted, 8.249578236487935, , , , 5982196, False, 
+##[group]Run actions/setup-java@v2, 3.064794953551727, , , , 292275, False, 
+##[group]Checking out the ref, 2.4121611063327206, , , , 319229, False, 
+##[group]Persisting credentials for submodules, 1.959696773494592, , , , 150180, False, 
+##[group]Run .github/decrypt_secrets.sh, 1.071698235174511, , , , 110495, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v2, 1.0634258640821672, , , , 184485, False, 
+##[group]Setting up auth, 0.5446815401396466, , , , 62416, False, 

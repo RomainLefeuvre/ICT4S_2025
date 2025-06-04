@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn package --file pom.xml,131.86839776890875,23186059,False,
+##[group]Run actions/setup-java@v1,82.58513211037403,18112296,False,
+##[group]Run actions/checkout@v1,13.378545050291876,1400491,False,
+##[group]GITHUB_TOKEN Permissions,6.268731332612539,1734773,False,
+Requested labels: self-hosted,5.714660348073664,5988544,False,

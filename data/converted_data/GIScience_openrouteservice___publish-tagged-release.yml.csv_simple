@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,213.78217779686247,22912051,False,
+##[group]Run echo ::set-output name=tag::,13.256455279099004,481474,False,
+##[group]GITHUB_TOKEN Permissions,8.445947502948856,3091267,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.194332695777852,377527,False,
+##[group]Fetching the repository,4.847127072093134,457248,False,
+##[group]Run actions/checkout@v4,2.7013280349943414,156509,False,
+##[group]Setting up auth,1.255182470983873,57976,False,
+Requested labels: self-hosted,0.4192101517509182,2617225,False,

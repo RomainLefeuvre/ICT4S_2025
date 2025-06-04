@@ -1,0 +1,22 @@
+name,energy,seconds,has_error,error_msg
+##[group]Attempting to automatically build java code,2878.2790548582925,187806709,False,
+[2024-03-16 17:17:45] [autobuild] > Task :compileJava,1443.347480316285,89400277,False,
+##[group]Running queries for java,965.7772982256216,30312672,False,
+##[group]Setup CodeQL tools,626.0732996439865,74082589,False,
+##[group]Finalizing java,257.7581468488549,8410704,False,
+[2024-03-16 17:17:15] [autobuild] > Task :generateEffectiveLombokConfig,241.43517750387355,30097496,False,
+##[group]Augmented user configuration file contents,84.49819497031358,1926153,False,
+##[group]Interpreting results for java,68.56252767064666,2762210,False,
+##[group]Uploading results,65.92733073411921,2216157,False,
+##[group]Load language configuration,43.262500950163925,1531787,False,
+##[group]Waiting for processing to finish,33.98347755496184,2213179,False,
+##[group]GITHUB_TOKEN Permissions,20.995465262113704,10261389,False,
+##[group]Run github/codeql-action/analyze@v1,16.29813751918138,1463562,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+##[group]Cleaning up databases,14.815734690417036,830384,False,
+##[group]Fetching the repository,11.387751365891422,897747,False,
+##[group]Run github/codeql-action/autobuild@v1,6.873845739455764,734974,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+##[group]Run github/codeql-action/init@v1,5.195687622321141,373568,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+Requested labels: self-hosted,4.607639014578059,6089719,False,
+##[group]Run actions/checkout@v2,2.472343337660244,182002,False,
+##[group]Checking out the ref,1.287716506160613,51423,False,
+##[group]Setting up auth,1.2428949084819252,61942,False,

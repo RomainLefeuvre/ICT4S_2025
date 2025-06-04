@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 75.0428984994121, , , , 4478963, False, 
+##[group]GITHUB_TOKEN Permissions, 9.851620065783994, , , , 1320702, False, 
+##[group]Fetching the repository, 4.328414881104088, , , , 457978, False, 
+##[group]Checking out the ref, 3.5705979529668586, , , , 348505, False, 
+##[group]Run actions/checkout@v4, 1.923995001930717, , , , 196181, False, 
+##[group]Determining the checkout info, 1.1421568299313538, , , , 14940, False, 
+##[group]Setting up auth, 1.0220506106206904, , , , 64224, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.9980293667585576, , , , 21405, False, 

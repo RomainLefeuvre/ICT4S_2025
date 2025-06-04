@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0, , , , 6206843, False, 
+##[group]GITHUB_TOKEN Permissions, 8.317815921716567, , , , 1920505, False, 
+##[group]Run actions/checkout@v1, 35.53154732763805, , , , 2770126, False, 
+##[group]Run actions/setup-java@v1, 71.5352890162189, , , , 19571118, False, 
+##[group]Run mvn -B -DskipTests=true package --file pom.xml, 248.25392215640957, , , , 35708932, True, [ERROR] Failed to execute goal on project qsql-calcite-parser: Could not resolve dependencies for project com.qihoo.qsql:qsql-calcite-parser:jar:0.7.1: Failed to collect dependencies at org.apache.calcite.avatica:avatica-core:jar:1.17.0: Failed to read artifact descriptor for org.apache.calcite.avatica:avatica-core:jar:1.17.0: Could not transfer artifact org.apache.calcite.avatica:avatica-core:pom:1.17.0 from/to central (http://repo.maven.apache.org/maven2): Transfer failed for http://repo.maven.apache.org/maven2/org/apache/calcite/avatica/avatica-core/1.17.0/avatica-core-1.17.0.pom 501 HTTPS Required -> [Help 1]
+[INFO] --- maven-checkstyle-plugin:3.0.0:checkstyle (default) @ qsql ---, 84.44054129124974, , , , 12745212, False, 
+[INFO] --- maven-enforcer-plugin:3.0.0-M2:enforce (enforce-java) @ qsql ---, 11.267238077672737, , , , 1054714, False, 
+[INFO] --- build-helper-maven-plugin:3.0.0:add-resource (add-resource) @ qsql ---, 9.798289819731718, , , , 882451, False, 

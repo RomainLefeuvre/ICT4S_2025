@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --no-transfer-progress \\,1023.7885245411512,73737049,True,[ERROR[m] Failed to execute goal org.sonatype.plugins:nexus-staging-maven-plugin:1.6.13:deploy[m (injected-nexus-deploy)[m on project jedis[m: Failed to deploy artifacts: Could not transfer artifact redis.clients:jedis:jar:5.2.0-20240608.053954-82 from/to ossrh (https://oss.sonatype.org/content/repositories/snapshots): Transfer failed for https://oss.sonatype.org/content/repositories/snapshots/redis/clients/jedis/5.2.0-SNAPSHOT/jedis-5.2.0-20240608.053954-82.jar 401 Unauthorized[m -> [Help 1][m
+##[group]GITHUB_TOKEN Permissions,22.01774981295917,2767107,False,
+##[group]Run actions/cache@v2,21.20227759766439,1252503,False,
+##[group]Fetching the repository,12.741753363981005,1008341,False,
+##[group]Run actions/setup-java@v2,2.874539558914115,236123,False,
+##[group]Checking out the ref,1.3863027660011331,81436,False,
+##[group]Initializing the repository,1.1620479067950675,13765,False,
+##[group]Run actions/checkout@v2,1.141661101412698,187899,False,
+##[section]Starting: Prepare job snapshot,0.0,1221,False,
+##[group]==END_FILE==,0.0,6312584,False,

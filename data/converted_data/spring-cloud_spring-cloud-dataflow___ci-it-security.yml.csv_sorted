@@ -1,0 +1,17 @@
+##[group]Run mvn \\, 539.1295242944683, , , , 76514450, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:3.0.0:test (default-test) on project spring-cloud-dataflow-server: No tests were executed!  (Set -DfailIfNoTests=false to ignore this error.) -> [Help 1]
+##[group]GITHUB_TOKEN Permissions, 59.21797348145855, , , , 5084096, False, 
+##[group]Fetching the repository, 50.753253844864936, , , , 447170, False, 
+[INFO] --- spring-boot-maven-plugin:2.7.18:build-info (build-info) @ spring-cloud-dataflow-server ---, 37.47788718406255, , , , 4135271, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-cloud-dataflow-server ---, 21.879255466628, , , , 2446404, False, 
+##[group]Run actions/checkout@v4, 21.197565970055887, , , , 141961, False, 
+[INFO] --- jacoco-maven-plugin:0.8.8:prepare-agent (agent) @ spring-cloud-dataflow-server ---, 20.795091125247858, , , , 1894281, False, 
+##[group]Run docker/login-action@v3, 18.807527484429457, , , , 168155, True, ##[error]Username and password required
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-cloud-dataflow-server ---, 12.374623471310953, , , , 1472893, False, 
+##[group]Run actions/upload-artifact@v3__dup_17, 11.258532560050158, , , , 1159273, False, 
+##[group]Cleaning the repository, 10.449405579676291, , , , 42151, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-cloud-dataflow-server ---, 7.565740426652755, , , , 675149, False, 
+##[group]Listing all files tracked by git, 6.129415152466177, , , , 544408, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-cloud-dataflow-server ---, 6.113583341719156, , , , 1589850, False, 
+##[group]Run actions/upload-artifact@v3, 4.944106746196455, , , , 527236, False, 
+##[group]Run dorny/test-reporter@v1, 1.0424087284294088, , , , 163395, False, 
+Requested labels: self-hosted, 0.0912990235655652, , , , 4507368, False, 

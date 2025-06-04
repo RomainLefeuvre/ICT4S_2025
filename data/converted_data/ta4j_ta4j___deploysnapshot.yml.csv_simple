@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,34.76023529568328,2493494,False,
+##[group]GITHUB_TOKEN Permissions,10.62621735652554,3803719,False,
+##[group]Run xvfb-run mvn -B deploy,3.778899984118983,489171,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v3,3.749463720239005,160285,False,
+##[group]Checking out the ref,0.9561892857722816,21277,False,
+##[group]Installed distributions,0.855984641298039,26423,False,
+##[group]==END_FILE==,0.0235702260228968,4860494,False,

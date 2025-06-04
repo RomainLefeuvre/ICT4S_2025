@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,84.98255719728994,16245618,False,
+##[group]Run actions/checkout@v1,23.35556045931306,7162832,False,
+##[group]GITHUB_TOKEN Permissions,7.816149456490944,1726424,False,
+##[group]Run ./gradlew build,2.960585550372993,186924,True,##[error]Process completed with exit code 127.
+Requested labels: self-hosted,0.1654981354507118,5974570,False,

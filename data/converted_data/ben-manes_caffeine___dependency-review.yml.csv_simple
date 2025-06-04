@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,54.9474954304072,5456798,False,
+##[group]==END_FILE==,50.02475086669376,6107303,False,
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6,33.03955190967794,830735,False,
+##[group]Fetching the repository,22.354361465211426,1123888,False,
+##[group]Cleaning the repository,18.6377821784713,701682,False,
+##[group]Removing previously created refs_ to avoid conflicts,15.203678453714732,442950,False,
+##[group]Run actions/dependency-review-action@72eb03d02c7872a771aacd928f3123ac62ad6d3a,9.813223322706872,674368,True,"##[error]Both a base ref and head ref must be provided, either via the `base_ref`/`head_ref` config options, `base-ref`/`head-ref` workflow action options, or by running a `pull_request`/`pull_request_target` workflow."
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29,3.229833380509328,169557,False,
+##[group]Setting up auth,2.410410058188345,77373,False,
+##[group]Checking out the ref,1.6540192991228224,54602,False,

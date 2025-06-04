@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 0.0814665702974132, , , , 4609042, False, 
+##[group]GITHUB_TOKEN Permissions, 13.58726981289474, , , , 2254621, False, 
+##[group]Run actions/checkout@v3, 1.6506274069373403, , , , 172343, False, 
+##[group]Setting up auth, 0.8513762414729441, , , , 62025, False, 
+##[group]Fetching the repository, 6.446134399723721, , , , 668277, False, 
+##[group]Run pwd, 6.51563450106845, , , , 522809, True, ##[error]Process completed with exit code 2.

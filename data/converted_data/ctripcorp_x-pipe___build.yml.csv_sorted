@@ -1,0 +1,13 @@
+##[group]Run mvn clean install -Plocal, 4248.559663739763, , , , 284454189, True, [00:42:28:983][ERROR][main][XpipeNettyClientPool][borrowObject]redis://localhost:17161 java.util.NoSuchElementException: Pool exhausted
+##[group]Run git clone https://github.com/ctripcorp/x-pipe.git, 2547.428320611405, , , , 113684077, False, 
+##[group]Fetching the repository, 358.9306214160049, , , , 3443965, False, 
+##[group]Run curl -s https://codecov.io/bash | bash, 121.96635453751706, , , , 7798976, False, 
+Requested labels: self-hosted, 27.19032610325975, , , , 6203684, False, 
+##[group]Run codecov/codecov-action@v2.0.1, 24.64552713410531, , , , 2009385, False, 
+##[group]GITHUB_TOKEN Permissions, 23.734305042561694, , , , 3629305, False, 
+##[group]Checking out the ref, 21.34124502237542, , , , 491956, False, 
+##[group]Run actions/setup-java@v2, 11.86498573768565, , , , 242994, False, 
+##[group]Run actions/cache@v2, 5.30279855349182, , , , 1192845, False, 
+##[group]Run actions/checkout@v2, 2.720505544083416, , , , 194490, False, 
+##[group]Initializing the repository, 1.3453833832759998, , , , 145142, False, 
+##[group]Setting up auth, 1.3354704574321945, , , , 68368, False, 

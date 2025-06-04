@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B package --file src/parent/pom.xml,390.9120650680765,45389321,True,[ERROR] COMPILATION ERROR : 
+##[group]Run actions/setup-java@v1,58.788353981349545,20483624,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ tio-utils ---,21.19083936926449,2130367,False,
+##[group]Run actions/checkout@v1,11.018176451697828,5883867,False,
+Requested labels: self-hosted,7.002560431567432,5599659,False,
+##[group]GITHUB_TOKEN Permissions,3.365209095919554,1825785,False,

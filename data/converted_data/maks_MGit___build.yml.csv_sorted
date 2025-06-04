@@ -1,0 +1,8 @@
+##[group]Run ./gradlew --no-daemon clean assembleDebug testDebug, 377.7445601793208, , , , 49926514, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 94.6111868489427, , , , 795457, False, 
+##[group]GITHUB_TOKEN Permissions, 89.84959482939492, , , , 2117306, False, 
+##[group]Run actions/setup-java@v2, 29.049929313952312, , , , 338963, False, 
+##[group]Run actions/checkout@v2, 27.081738447916315, , , , 183031, False, 
+Requested labels: self-hosted, 16.404158524525954, , , , 5346030, False, 
+##[group]Setting up auth, 13.112251506998076, , , , 92708, False, 
+##[group]Checking out the ref, 10.540545205237596, , , , 60096, False, 

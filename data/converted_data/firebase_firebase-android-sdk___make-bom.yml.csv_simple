@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,2140.02158241231,223788039,False,
+##[group]Run ./ci/run.sh \\,1001.2607947611506,116250203,True,##[error]Process completed with exit code 1.
+[I] fireci.gradle: > Task :buildSrc:jar,122.13813816324172,4807527,False,
+##[group]GITHUB_TOKEN Permissions,74.9002338177184,4114318,False,
+##[group]Fetching the repository,41.18583780738044,445901,False,
+##[group]Run actions/upload-artifact@v4.3.3,37.937269425282,1787555,False,
+##[group]Run actions/checkout@v4.1.1,23.47512648012011,171415,False,
+##[group]Setting up auth,22.034022691905164,119492,False,
+##[group]Removing previously created refs_ to avoid conflicts,11.37728729300632,100689,False,
+[I] fireci.gradle: > Task :buildSrc:classes,6.9547017848514185,199293,False,
+Requested labels: self-hosted,0.0338099275232663,4197430,False,

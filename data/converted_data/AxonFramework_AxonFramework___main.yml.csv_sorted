@@ -1,0 +1,39 @@
+##[group]==END_FILE==, 23349.37731129277, , , , 2087964346, False, 
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Pintegration-test -Djacoco.skip=true clean verify__dup_27, 7178.216113075188, , , , 608553613, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.6 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Pintegration-test -Djacoco.skip=true clean verify__dup_37, 6967.744771027976, , , , 561936510, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.6 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Dcoverage clean verify, 6954.313595973094, , , , 683658552, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.6 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh -Pintegration-test -Djacoco.skip=true clean verify, 6791.274579184272, , , , 565101547, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 385.6 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Run ./mvnw -B -Dstyle.color=always sonar:sonar \\, 891.6131707634479, , , , 56047701, True, [ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 388.2 s <<< FAILURE![m -- in org.axonframework.eventsourcing.eventstore.jdbc.MysqlJdbcEventStorageEngineTest[m
+##[group]Installed distributions__dup_36, 554.3518323934787, , , , 53209554, False, 
+##[group]Installed distributions__dup_17, 470.6562516152752, , , , 55800757, False, 
+##[group]Installed distributions__dup_26, 445.35407119600313, , , , 52899369, False, 
+##[group]Run ./mvnw -B -U -Dstyle.color=always -Possrh deploy -DskipTests=true, 184.39212021644664, , , , 12742813, True, [ERROR[m] Errors: [m
+##[group]Run voxmedia/github-action-slack-notify-build@v2, 179.3569610342214, , , , 13121840, False, 
+##[group]==END_FILE==__dup_20, 97.25952496412064, , , , 9602475, False, 
+##[group]GITHUB_TOKEN Permissions__dup_29, 49.92445589365696, , , , 4233348, False, 
+##[group]GITHUB_TOKEN Permissions__dup_21, 44.46740944241443, , , , 4058855, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 38.98410161678386, , , , 3307437, False, 
+##[group]Run voxmedia/github-action-slack-notify-build@v2__dup_19, 18.149585889301463, , , , 1000776, True, [ERROR[m] 
+##[group]GITHUB_TOKEN Permissions, 17.55206588261204, , , , 3416282, False, 
+##[group]Run voxmedia/github-action-slack-notify-build@v2__dup_28, 11.990981825711772, , , , 897781, False, 
+##[group]Fetching the repository__dup_34, 9.186450393381245, , , , 512079, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 8.979427398903493, , , , 116442, False, 
+##[group]Fetching the repository__dup_25, 8.26124725553421, , , , 441679, False, 
+##[group]Run voxmedia/github-action-slack-notify-build@v2__dup_39, 7.940544810138135, , , , 900092, False, 
+##[group]Fetching the repository, 7.846267261885121, , , , 1562745, False, 
+##[group]Fetching the repository__dup_16, 7.742779030274812, , , , 476493, False, 
+##[group]Getting Git version info, 7.299784223817272, , , , 10427, False, 
+##[group]Run actions/checkout@v4__dup_12, 2.9262668651650285, , , , 162932, False, 
+##[group]Run actions/checkout@v4__dup_30, 2.895794985319155, , , , 147656, False, 
+##[group]Installed distributions, 2.6548811626047986, , , , 2510067, False, 
+##[group]Run actions/checkout@v4__dup_22, 2.63202430756031, , , , 163973, False, 
+##[group]Cleaning the repository, 1.7464195450355513, , , , 105539, False, 
+##[group]Setting up auth__dup_15, 1.696953610290404, , , , 70586, False, 
+##[group]Disabling automatic garbage collection, 1.6108901383285723, , , , 4115, False, 
+##[group]Determining the checkout info, 1.6024931366162962, , , , 10809, False, 
+##[group]Setting up auth__dup_24, 1.5561816518706455, , , , 66947, False, 
+##[group]Cleaning the repository__dup_32, 1.5354234915460132, , , , 98849, False, 
+##[group]Cleaning the repository__dup_23, 1.4601138526344497, , , , 101390, False, 
+##[group]Checking out the ref, 1.050114842448992, , , , 179425, False, 
+##[group]Run actions/checkout@v4, 1.0417588735598668, , , , 143897, False, 
+##[group]Setting up auth, 0.5212276021503136, , , , 61976, False, 

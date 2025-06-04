@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0, , , , 5926805, False, 
+##[group]GITHUB_TOKEN Permissions, 2.4532783952292783, , , , 4089377, False, 
+##[group]Run actions/checkout@v3, 0.5546713627361016, , , , 177908, False, 
+##[group]Getting Git version info, 0.5592439115711193, , , , 4998, False, 
+##[group]Fetching the repository, 27.389172589082516, , , , 8612503, False, 
+##[group]Checking out the ref, 2.931456217021569, , , , 140475, False, 
+##[group]Installed distributions, 4.962056109943551, , , , 257460, False, 
+##[group]Run bash ./gradlew build --stacktrace, 981.6986927658194, , , , 71814417, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 1.3497097147521733, , , , 91454, False, 
+##[group]Run echo "::set-output name=current_branch::development", 8.614801169094122, , , , 540135, False, 

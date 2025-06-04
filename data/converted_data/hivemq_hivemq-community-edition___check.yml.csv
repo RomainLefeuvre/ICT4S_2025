@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 43.69195098816887, , , , 5885298, False, 
+##[group]GITHUB_TOKEN Permissions, 33.69408112060969, , , , 2513658, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 3.993647237145936, , , , 1863668, False, 
+##[group]Setting up auth, 2.201633596698891, , , , 350880, False, 
+##[group]Fetching the repository, 5.976488036887783, , , , 1521827, False, 
+##[group]Checking out the ref, 1.124828043128674, , , , 131570, False, 
+##[group]Run git clone https://github.com/hivemq/hivemq-extension-sdk.git ../hivemq-extension-sdk, 23.28816935041067, , , , 1163354, False, 
+##[group]Installed distributions, 9.149853367249364, , , , 260057, False, 
+##[group]Run ./gradlew test license forbiddenApis javadoc hivemqZip, 33.69949542745576, , , , 2251992, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-bin/5t9huq95ubn472n8rpzujfbqh/gradle-8.5-bin.zip.lck

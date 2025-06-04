@@ -1,0 +1,11 @@
+##[group]==END_FILE==, 70.00272860316953, , , , 4867036, False, 
+##[group]GITHUB_TOKEN Permissions, 53.52407804270475, , , , 3407613, False, 
+##[group]Run actions/checkout@v2, 4.5877781179461214, , , , 204445, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.3527067271518574, , , , 80444, False, 
+##[group]Setting up auth, 2.391918505937721, , , , 82092, False, 
+##[group]Fetching the repository, 23.291796598803387, , , , 886701, False, 
+##[group]Run actions/setup-java@v1, 8.70501489046187, , , , 364886, False, 
+##[group]Run ./gradlew publishPlugin, 736.5953029012073, , , , 110506528, False, 
+> Task :patchPluginXml FAILED, 1.4365869708161398, , , , 106981, False, 
+##[group]Run actions/create-release@v1, 6.05867879717323, , , , 584299, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-release-asset@v1, 10.100649162146624, , , , 749548, True, ##[error]ENOENT: no such file or directory, stat './build/distributions/leetcode-editor-.zip'

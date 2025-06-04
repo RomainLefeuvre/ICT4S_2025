@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 2.972958392995486, , , , 888602, False, 
+##[group]==END_FILE==__dup_2, 8.422399959796493, , , , 6889151, False, 
+Requested labels: self-hosted, 132.94966618285315, , , , 42467236, False, 
+##[group]GITHUB_TOKEN Permissions, 11.119568522169963, , , , 3842530, False, 
+##[group]Pull down action image 'ghcr.io/enricomi/publish-unit-test-result-action:v1.40', 45.19783779943528, , , , 15265862, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v4.1.5, 5.950032747145056, , , , 669222, False, 
+##[group]Run EnricoMi/publish-unit-test-result-action@v1, 27.34524454584954, , , , 9918561, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 1.362350290756806, , , , 139477, False, 
+##[group]Run exit 1, 2.6116154080591585, , , , 154880, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 0.0179950427740685, , , , 6345296, False, 
+##[group]GITHUB_TOKEN Permissions, 5.285635351539937, , , , 2777999, False, 
+##[group]Run actions/checkout@v3, 23.13696804265694, , , , 185019, False, 
+##[group]Setting up auth, 14.741649521871006, , , , 58762, False, 
+##[group]Fetching the repository, 73.70824760935503, , , , 717727, False, 
+##[group]Checking out the ref, 6.533823428986104, , , , 47429, False, 
+##[group]Run gradle/wrapper-validation-action@v1.1.0, 17.279443220771334, , , , 1268301, False, 
+##[group]Installed distributions, 3.2002125560226844, , , , 302489, False, 
+##[group]Run ./gradlew build jacocoTestReport --stacktrace, 536.8654377940073, , , , 45979053, True, ##[error]Process completed with exit code 1.

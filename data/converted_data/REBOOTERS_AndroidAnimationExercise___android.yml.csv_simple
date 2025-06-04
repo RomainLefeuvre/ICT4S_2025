@@ -1,0 +1,32 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,1312.6383007410702,118906740,False,
+##[group]Run ./gradlew :app:assembleChargeRelease;,1173.243044409575,95201778,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :app:assembleChargeDebug;,343.46850333401056,10656873,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar,332.5708544321491,19050262,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:processResources,191.4552627837785,8701204,False,
+> Task :buildSrc:jar__dup_28,165.63752124218794,4708914,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:compileJava NO-SOURCE,114.17183867693257,6798474,False,
+##[group]Run ./gradlew :imitate:assembleRelease;,61.76482497435844,2431916,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :imitate:assembleDebug;,59.2192640139514,1866882,True,##[error]Process completed with exit code 1.
+> Task :buildSrc:jar UP-TO-DATE,28.59939996485091,901528,False,
+##[group]Fetching the repository,26.32498257827088,3530590,False,
+##[group]Configuration,23.29152321716433,752829,False,
+> Task :buildSrc:jar UP-TO-DATE__dup_31,18.264750122861024,406237,False,
+##[group]Fetching the repository__dup_21,12.773482997150849,472358,False,
+##[group]GITHUB_TOKEN Permissions,9.412524383087874,2325954,False,
+##[group]Commit and push diagram,8.568455547033727,1085192,False,
+##[group]Run actions/checkout@v2__dup_18,6.831316222327238,189804,False,
+##[group]GITHUB_TOKEN Permissions__dup_17,5.024998258730704,3259670,False,
+##[group]Run actions/setup-java@v2__dup_22,4.237194501852156,237119,False,
+##[group]Run actions/setup-java@v2,4.018589177254412,341907,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.920959843895616,249952,False,
+> Task :buildSrc:checkKotlinGradlePluginConfigurationErrors__dup_30,3.434707130421714,99554,False,
+> Task :buildSrc:classes,2.99309922196747,100444,False,
+> Task :buildSrc:classes__dup_27,2.9657990232482407,99240,False,
+##[group]Checking out the ref,2.868885856489112,319355,False,
+> Task :buildSrc:checkKotlinGradlePluginConfigurationErrors,2.6910388953046454,97750,False,
+##[group]Cleaning the repository,2.317009928437225,31758,False,
+##[group]Run githubocto/repo-visualizer@0.8.2,1.950866732270658,101628,False,
+Requested labels: self-hosted__dup_2,1.6256074300577998,5917237,False,
+##[group]Run actions/checkout@v2,1.0852339756756566,185103,False,
+##[group]Setting up auth,0.558734324110239,65003,False,

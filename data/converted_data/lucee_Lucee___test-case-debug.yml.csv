@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 1.022001884648544, , , , 4509479, False, 
+##[group]GITHUB_TOKEN Permissions, 15.082174429940515, , , , 3024056, False, 
+##[group]Run actions/checkout@v2, 5.59677250530848, , , , 178545, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.779696369797052, , , , 38312, False, 
+##[group]Setting up auth, 2.76723644789226, , , , 69504, False, 
+##[group]Fetching the repository, 10.944346572521116, , , , 441044, False, 
+##[group]Checking out the ref, 2.7049368383682992, , , , 34013, False, 
+##[group]Run actions/setup-java@v2, 5.372493911022222, , , , 229502, False, 
+##[group]Run actions/cache@v2, 33.544389051164906, , , , 1280451, False, 
+##[group]Run actions/cache@v2__dup_10, 69.20849114624475, , , , 8371919, False, 
+##[group]Run ant -noinput -buildfile loader/build.xml -DtestDebug="true" -DtestDebugAbort="true", 449.4168509427149, , , , 37451436, True, ##[error]Process completed with exit code 1.

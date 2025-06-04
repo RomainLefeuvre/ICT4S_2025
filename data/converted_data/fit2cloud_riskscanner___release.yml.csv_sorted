@@ -1,0 +1,10 @@
+##[group]GITHUB_TOKEN Permissions, 10.402143279027298, , , , 2443643, False, 
+##[group]Fetching the repository, 9.220081542774196, , , , 1366394, False, 
+##[group]Run actions/create-release@v1, 4.728246945012408, , , , 576643, True, ##[error]Validation Failed: {"resource":"Release",code:"custom",field:"pre_receive",message:"pre_receive Sorry, branch or tag names starting with 'refs/' are not allowed."}, {"resource":"Release",code:"custom",message:"Published releases must have a valid tag"}
+##[group]Run actions/upload-release-asset@v1__dup_10, 4.165360403939502, , , , 394670, True, ##[error]Input required and not supplied: upload_url
+##[group]Run git clone https://github.com/riskscanner/riskscanner-installer.git --depth=1, 2.668082204685573, , , , 355420, True, ##[error]Process completed with exit code 128.
+##[group]Run actions/checkout@v2, 1.8237523930762145, , , , 272493, False, 
+##[group]Run actions/upload-release-asset@v1, 1.001938043109772, , , , 112051, True, ##[error]Input required and not supplied: upload_url
+##[group]Checking out the ref, 0.7880411575020679, , , , 115311, False, 
+##[group]Setting up auth, 0.6304329260016543, , , , 57932, False, 
+Requested labels: self-hosted, 0.0511588660238172, , , , 6664731, False, 

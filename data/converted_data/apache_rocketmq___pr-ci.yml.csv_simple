@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -Prelease-all -DskipTests -Dspotbugs.skip=true clean install -U,1849.2345532099755,114582782,False,
+##[group]Run actions/upload-artifact@v3,970.3909487014624,91242053,False,
+##[group]Installed distributions,339.44103740010115,43716788,False,
+##[group]GITHUB_TOKEN Permissions,146.263915840845,3496502,False,
+##[group]Fetching the repository,55.82269316167088,461905,False,
+##[group]Run actions/checkout@v3,32.345291472937255,175462,False,
+##[group]Setting up auth,15.064159513443174,71682,False,
+##[group]Checking out the ref,12.847187067392264,15300,False,
+##[group]Fetching submodules,12.40379257818208,97919,False,
+##[group]Persisting credentials for submodules,11.9603980889719,128732,False,
+##[group]Run actions/upload-artifact@v2,10.68273899785833,1701155,False,
+Requested labels: self-hosted,0.1336048374420136,4856205,False,

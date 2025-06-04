@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 26.22644584478456, , , , 5786363, False, 
+##[group]Run gh release create "$GITHUB_REF_NAME" --repo="$GITHUB_REPOSITORY" --generate-notes, 16.3442289695352, , , , 1705800, False, 
+##[group]GITHUB_TOKEN Permissions, 11.586633985471572, , , , 173306, False, 

@@ -1,0 +1,12 @@
+##[group]GITHUB_TOKEN Permissions, 93.06008899065289, , , , 5878247, False, 
+##[group]Run actions/checkout@v3, 15.639518978357597, , , , 180564, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.34692495076737, , , , 56947, False, 
+##[group]Disabling automatic garbage collection, 7.03170192515975, , , , 4556, False, 
+##[group]Fetching the repository, 49.10028117409488, , , , 911853, False, 
+##[group]Checking out the ref, 3.879471669083556, , , , 19086, False, 
+##[group]Installed distributions, 8.713573901660993, , , , 229794, False, 
+##[group]Run android-actions/setup-android@v2, 134.03595306566547, , , , 25322250, False, 
+##[group]Restore Gradle state from cache, 6.7314008708080975, , , , 402893, False, 
+##[group]🔨 Processing gradle dependencies for root module - ':app', 1785.1687106068791, , , , 98994579, False, 
+##[group]📦️ Preparing Dependency Snapshot - ':app', 50.40440584546627, , , , 1721946, True, ##[error]HTTP Status 404 for request POST https://api.github.com/repos/diversepwmeasurement/FoxMagiskModuleManager/dependency-graph/snapshots
+##[group]Caching Gradle state, 191.6587044632212, , , , 12646323, False, 

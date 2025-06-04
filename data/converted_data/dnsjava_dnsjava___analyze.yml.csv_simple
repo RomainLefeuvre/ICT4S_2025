@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,20.92475327875393,1756973,False,
+##[group]Run dawidd6/action-download-artifact@v2,13.122080631582971,688270,False,
+##[group]GITHUB_TOKEN Permissions,12.510967788832629,5902152,False,
+##[group]Removing previously created refs_ to avoid conflicts,9.002582808561277,608154,False,
+##[group]Run octokit/request-action@v2.x,8.528054299771384,445071,True,##[error]Process completed with exit code 1.
+##[group]Run rm -rf base,3.491279430784067,380097,True,"##[error]The template is not valid. .github/workflows/analyze.yml (Line: 52, Col: 14): Error reading JToken from JsonReader. Path '', line 0, position 0."
+##[group]Run actions/checkout@v4,3.193971893232485,118914,True,##[error]Not Found
+##[group]Run PR=$(cat pr_number.txt),1.7780274688462991,100296,True,##[error]no matching workflow run found with any artifacts?
+##[group]Cleaning the repository,1.4159444243861865,128958,False,
+##[group]Setting up auth,1.391805554755512,72444,False,
+##[group]==END_FILE==,0.8750402927657082,5073938,False,

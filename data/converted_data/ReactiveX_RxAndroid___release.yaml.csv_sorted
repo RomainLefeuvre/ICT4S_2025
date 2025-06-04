@@ -1,0 +1,8 @@
+##[group]Run ./gradlew publish, 97.5561200733753, , , , 28613134, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 88.37133996179749, , , , 9156300, False, 
+##[group]Fetching the repository, 35.33354902974026, , , , 486931, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 16.03450527829238, , , , 254581, False, 
+##[group]Run actions/checkout@v4, 11.809870464078433, , , , 198638, False, 
+##[group]Run ./gradlew closeAndReleaseRepository, 6.699622149771502, , , , 2843065, True, ##[error]Process completed with exit code 1.
+##[group]Setting up auth, 6.43301458381596, , , , 70754, False, 
+Requested labels: self-hosted, 0.0131618414620827, , , , 5250207, False, 

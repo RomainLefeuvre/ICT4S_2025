@@ -1,0 +1,12 @@
+##[group]Installed distributions, 327.7391097569905, , , , 40110930, False, 
+##[group]Run mvn ${MAVEN_ARGS} versions:set -DnewVersion="${RELEASE_VERSION:1}" versions:commit -DprocessAllModules, 6.188812864694396, , , , 1223737, True, [ERROR[m] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Run samuelmeuli/action-maven-publish@v1, 6.869669315096905, , , , 1624429, True, [ERROR[m] [Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+Requested labels: self-hosted, 6.86354971431616, , , , 2864915, False, 
+##[group]GITHUB_TOKEN Permissions, 18.657613129567512, , , , 2869163, False, 
+##[group]Run actions/checkout@v4, 0.6043945598507888, , , , 143750, False, 
+##[group]Getting Git version info, 0.6019588467173952, , , , 25548, False, 
+##[group]Setting up auth, 0.5995231335840016, , , , 57526, False, 
+##[group]Fetching the repository, 2.3737354030020703, , , , 429719, False, 
+##[group]Installed distributions__dup_10, 334.102445625082, , , , 40174665, False, 
+##[group]Run mvn ${MAVEN_ARGS} build-helper:parse-version versions:set -DnewVersion=\\${parsedVersion.majorVersion}.\\${parsedVersion.minorVersion}.\\${parsedVersion.nextIncrementalVersion}-SNAPSHOT versions:commit -DprocessAllModules, 7.920990650900816, , , , 1196375, True, [ERROR[m] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Run ad-m/github-push-action@master, 6.237978106243126, , , , 1171115, False, 

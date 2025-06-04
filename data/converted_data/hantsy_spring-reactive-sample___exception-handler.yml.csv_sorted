@@ -1,0 +1,7 @@
+##[group]Installed distributions, 135.7886688431514, , , , 15410764, False, 
+[INFO] --- maven-surefire-plugin:3.1.2:test (default-test) @ spring-reactive-sample-exception-handler ---, 106.6052695295377, , , , 5127914, False, 
+##[group]Run cd exception-handler, 54.955232998612885, , , , 21221095, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ spring-reactive-sample-exception-handler ---, 24.453583933163323, , , , 1521911, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ spring-reactive-sample-exception-handler ---, 6.9934502560283605, , , , 392014, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-reactive-sample-exception-handler ---, 4.839604348434159, , , , 187546, False, 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-exception-handler ---, 3.04909872120752, , , , 126715, False, 

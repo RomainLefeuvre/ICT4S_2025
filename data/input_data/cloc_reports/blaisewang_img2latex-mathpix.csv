@@ -1,0 +1,42 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2621.9 files/s 227055.7 lines/s)"
+Java,/tmp/clone_directory/src/main/java/ui/BackGridPane.java,92,81,259
+Java,/tmp/clone_directory/src/main/java/ui/App.java,54,73,138
+Java,/tmp/clone_directory/src/main/java/io/IOUtils.java,53,68,129
+Bourne Shell,/tmp/clone_directory/gradlew,23,36,126
+Java,/tmp/clone_directory/src/main/java/ui/FrontGridPane.java,32,49,90
+Java,/tmp/clone_directory/src/main/java/io/PreferenceHelper.java,26,86,79
+Java,/tmp/clone_directory/src/main/java/ui/APICredentialsTab.java,25,18,75
+Java,/tmp/clone_directory/src/main/java/ui/FormattingTab.java,22,14,73
+Java,/tmp/clone_directory/src/main/java/ui/ProxyTab.java,26,17,71
+Markdown,/tmp/clone_directory/README.md,45,6,70
+Gradle,/tmp/clone_directory/build.gradle,10,0,69
+Markdown,/tmp/clone_directory/README-ZH.md,44,6,68
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,19,0,57
+Java,/tmp/clone_directory/src/main/java/io/OCRRequestHelper.java,16,17,50
+Java,/tmp/clone_directory/src/main/java/ui/PressCopyTextField.java,19,25,50
+Java,/tmp/clone_directory/src/main/java/ui/UIUtils.java,23,34,50
+Java,/tmp/clone_directory/src/main/java/io/Response.java,21,22,48
+XML,/tmp/clone_directory/macos/Info.plist,0,0,47
+Java,/tmp/clone_directory/src/main/java/io/Recognition.java,21,31,45
+Java,/tmp/clone_directory/src/main/java/ui/GeneralTab.java,17,13,42
+YAML,/tmp/clone_directory/.travis.yml,5,0,35
+Java,/tmp/clone_directory/src/main/java/ui/JLaTeXMathRenderingHelper.java,13,36,30
+Java,/tmp/clone_directory/src/main/java/ui/PreferencesDialog.java,16,13,30
+Bourne Shell,/tmp/clone_directory/scripts/macos_release.sh,17,0,26
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,7,0,24
+Java,/tmp/clone_directory/src/main/java/io/ProxyConfig.java,9,16,21
+YAML,/tmp/clone_directory/.github/workflows/stale.yml,1,0,19
+Bourne Shell,/tmp/clone_directory/scripts/jdk_setup.sh,6,0,19
+Java,/tmp/clone_directory/src/main/java/ui/CopiedButton.java,8,7,19
+Java,/tmp/clone_directory/src/main/java/ui/CopyResultButton.java,12,10,19
+Java,/tmp/clone_directory/src/main/java/io/APICredentialConfig.java,8,13,18
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+Java,/tmp/clone_directory/src/main/java/entry/Main.java,9,10,14
+Bourne Shell,/tmp/clone_directory/scripts/windows_release.sh,7,0,12
+YAML,/tmp/clone_directory/.github/workflows/greetings.yml,2,0,10
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,2,0,4
+Properties,/tmp/clone_directory/src/main/resources/project.properties,0,0,2
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,736,703,2025

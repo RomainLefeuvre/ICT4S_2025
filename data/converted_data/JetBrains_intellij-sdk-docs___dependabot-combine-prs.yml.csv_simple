@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,135.11040106118867,5856429,False,
+##[group]GITHUB_TOKEN Permissions,103.6614487149163,1894476,False,
+##[group]Run actions/github-script@v7,54.899648825991854,614190,False,
+##[group]Setting up auth,9.036277601793692,56604,False,
+##[group]Removing previously created refs_ to avoid conflicts,8.865781797986262,12945,False,
+##[group]Run actions/checkout@v4,8.695285994178835,126895,True,##[error]No PRs/branches matched criteria
+"##[group]Run echo ""$BRANCHES_TO_COMBINE""",8.64150087015827,898345,False,
+##[group]Run actions/github-script@v7__dup_9,2.3893511057700016,377694,True,##[error]Unhandled error: TypeError: Cannot read properties of undefined (reading 'create')
+##[group]==END_FILE==,0.0861426024626347,4674007,False,

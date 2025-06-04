@@ -1,0 +1,23 @@
+##[group]Run ./stream/clients/python/scripts/test.sh, 8307.326764289995, , , , 513277729, False, 
+##[group]Run ./stream/clients/python/scripts/docker_integration_tests.sh, 1741.3425258672794, , , , 83692467, False, 
+##[group]Run actions/cache@v4, 942.9766199929164, , , , 69400340, True, ##[error]Process completed with exit code 32.
+##[group]Run mvn -q -T 1C -B -nsu clean install -DskipTests -Dcheckstyle.skip -Dspotbugs.skip -Drat.skip -Dmaven.javadoc.skip, 496.3020278916712, , , , 20361099, False, 
+##[group]Run ./stream/clients/python/docker/build-local-image.sh, 418.451448696408, , , , 123428736, True, ##[error]Process completed with exit code 32.
+##[group]==END_FILE==, 85.75988478085435, , , , 8627523, False, 
+Requested labels: self-hosted, 66.73657244435962, , , , 6767909, False, 
+##[group]GITHUB_TOKEN Permissions__dup_12, 49.63678160610095, , , , 3670323, False, 
+##[group]Configure and tune OS__dup_17, 26.450587689583465, , , , 846384, False, 
+##[group]Configure and tune OS, 26.333698192019423, , , , 2541081, True, ##[error]Process completed with exit code 32.
+##[group]Run # pick the closest ubuntu mirror and set it to UBUNTU_MIRROR environment variable, 22.178170854549872, , , , 2935497, False, 
+##[group]Cleaning the repository__dup_14, 17.120991111327168, , , , 347082, False, 
+##[group]Run actions/checkout@v4, 17.066482519664028, , , , 143580, False, 
+##[group]Cleaning the repository, 16.60476367194849, , , , 517031, False, 
+##[group]Fetching the repository, 16.29695110680479, , , , 1254773, False, 
+##[group]Fetching the repository__dup_16, 11.161422813205531, , , , 447747, False, 
+##[group]Installed distributions, 10.64790561645238, , , , 188420, False, 
+##[group]GITHUB_TOKEN Permissions, 10.30618183892743, , , , 4324489, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.749639866579687, , , , 181532, False, 
+##[group]Run actions/checkout@v4__dup_13, 6.465966391242662, , , , 138843, False, 
+##[group]Setting up auth, 3.2747808496181428, , , , 73192, False, 
+##[group]Checking out the ref, 2.8668219749649784, , , , 135696, False, 
+##[group]Setting up auth__dup_15, 2.709050026490837, , , , 74358, False, 

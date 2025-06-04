@@ -1,0 +1,17 @@
+##[group]Run ./gradlew -Prelease=true build -S, 883.2139855477984, , , , 104762845, True, ##[error]Process completed with exit code 5.
+##[group]GITHUB_TOKEN Permissions, 218.828489278058, , , , 4135331, False, 
+##[group]Run actions/cache@v2, 205.7173443743356, , , , 1771820, False, 
+##[group]Run actions/upload-artifact@v2, 189.3705124380269, , , , 25060411, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 96.9992667213449, , , , 1123219, False, 
+> Task :bootstrapfx-core:compileJava FAILED, 69.91601212095031, , , , 2823377, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v2__dup_9, 64.97558536358032, , , , 587118, False, 
+##[group]Run ./gradlew -Prelease=true -Pfull-release=true \\, 53.18803771055693, , , , 2424462, True, ##[error]Process completed with exit code 1.
+##[group]📦 Download JReleaser, 51.31711681516133, , , , 4486783, False, 
+##[group]Run actions/setup-java@v2, 49.3118281777172, , , , 429999, False, 
+> Task :build UP-TO-DATE, 17.104001296493532, , , , 803681, False, 
+##[group]Run actions/checkout@v2, 15.8958128478759, , , , 180937, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar full-release", 14.310618320970208, , , , 1343006, False, 
+##[group]Checking out the ref, 9.51428214252426, , , , 34791, False, 
+##[group]Setting up auth, 8.12194817044754, , , , 62035, False, 
+> Task :bootstrapfx-core:compileJava FAILED__dup_14, 3.157226848118566, , , , 109808, False, 
+##[group]==END_FILE==, 0.0, , , , 4610960, False, 

@@ -1,0 +1,6 @@
+##[group]Installed distributions, 114.97723279425762, , , , 13538479, False, 
+##[group]Run docker-compose up -d mongodb, 0.6981168983844339, , , , 43785, True, ##[error]Process completed with exit code 127.
+##[group]Run cd session-data-mongo, 991.757090223938, , , , 111277413, True, [ERROR] Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.468 s <<< FAILURE! -- in com.example.demo.AttributeTests
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-session-data-mongo ---, 2.1794069008835444, , , , 98826, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ spring-reactive-sample-session-data-mongo ---, 28.72662665603215, , , , 1176538, False, 
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ spring-reactive-sample-session-data-mongo ---, 18.951480494494, , , , 739874, False, 

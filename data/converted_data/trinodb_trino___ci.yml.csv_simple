@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,1604.6557597713536,117820926,False,
+Requested labels: self-hosted,1306.3950408425148,75518557,False,
+##[group]Fetching the repository,98.77164706423966,27114810,True,##[error]fatal: spécificateur de réference invalide : '+refs/pull//head:refs/remotes/pull//head'
+##[group]Fetching the repository__dup_15,95.24871563273078,29119489,True,##[error]fatal: spécificateur de réference invalide : '+refs/pull//head:refs/remotes/pull//head'
+##[group]GITHUB_TOKEN Permissions,42.27843403009385,3094283,False,
+"##[group]Run echo ""Matrix: $(jq '.' matrix.json)""",25.85848370105003,396399,False,
+##[group]Run # GIB doesn't run on master_ so make sure the file always exist,24.566138121543784,326721,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_11,22.32939028594103,1350354,False,
+##[group]Setting up auth,17.071424467708866,66202,False,
+##[group]Run actions/upload-artifact@v4,12.61095975159774,335910,False,
+##[group]Run actions/checkout@v4,6.156632935014113,190679,False,
+##[group]Cleaning the repository,3.414284893541773,13607,True,##[error]fatal: argument 'HEAD' ambigu : révision inconnue ou chemin inexistant.
+"##[group]Run export MAVEN_OPTS=""${MAVEN_INSTALL_OPTS}""__dup_16",2.0256756143206283,31497,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4__dup_12,2.0007575527966277,194360,False,
+##[group]Getting Git version info,1.9553563946908648,6295,False,
+"##[group]Run export MAVEN_OPTS=""${MAVEN_INSTALL_OPTS}""",1.9412098503732664,24314,True,##[error]Process completed with exit code 127.
+##[group]Setting up auth__dup_14,1.9099552365851031,90058,False,

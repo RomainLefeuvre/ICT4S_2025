@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run release-drafter/release-drafter@v6,173.989167558416,60529267,False,
+##[group]GITHUB_TOKEN Permissions,85.73340026448793,1586107,False,
+Requested labels: self-hosted,0.0278317076864456,4547951,False,

@@ -1,0 +1,23 @@
+##[group]Run mvn install -Pdistribution -pl documentation -am -s maven-settings.xml, 169.1987719464876, , , , 8941476, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-maven-version)[m on project infinispan-build-configuration-parent[m: [m
+##[group]GITHUB_TOKEN Permissions, 141.79737694659286, , , , 9899013, False, 
+##[group]Fetching the repository__dup_20, 99.72087623890006, , , , 10347914, False, 
+##[group]Run cpina/github-action-push-to-another-repository@main, 88.82153249057865, , , , 18581727, True, ##[error]API_TOKEN_GITHUB and SSH_DEPLOY_KEY are empty. Please fill one (recommended the SSH_DEPLOY_KEY)
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/cpina/github-action-push-to-another-repository/main/Dockerfile'., 39.0446617529397, , , , 20511240, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 26.82631800389418, , , , 463611, False, 
+##[group]Checking out the ref__dup_21, 20.665347082551754, , , , 1583619, False, 
+##[group]Run echo "version=$(mvn -q -v)" >> $GITHUB_OUTPUT, 19.227014819088957, , , , 546962, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run actions/checkout@master, 18.813193942702163, , , , 165908, False, 
+##[group]Cleaning the repository, 18.25011918506912, , , , 94121, False, 
+##[group]Fetching the repository__dup_12, 16.64162454148128, , , , 484131, False, 
+Requested labels: self-hosted, 15.02783996666474, , , , 4877865, False, 
+##[group]Fetching the repository, 12.83288288993436, , , , 3485525, False, 
+##[group]Checking out the ref, 7.268817205860865, , , , 801935, False, 
+##[group]Run actions/checkout@v4__dup_9, 4.97411358481817, , , , 109065, False, 
+##[group]Checking out the ref__dup_13, 3.006625979578687, , , , 60183, False, 
+##[group]Setting up auth, 2.915575236352014, , , , 123837, False, 
+##[group]Removing auth, 2.899393003339498, , , , 63154, False, 
+##[group]Run actions/cache@v4, 2.1651727491907, , , , 1400969, False, 
+##[group]Run cp -r documentation/target/generated/1*/html/* infinispan.github.io/docs/dev/, 1.5841775028714975, , , , 78432, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4, 1.2305588004694152, , , , 432999, False, 
+##[group]Getting Git version info, 0.2769564491875425, , , , 40846, False, 
+##[group]Disabling automatic garbage collection, 0.264683148815618, , , , 25320, False, 

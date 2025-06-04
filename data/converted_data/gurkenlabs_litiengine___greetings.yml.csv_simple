@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/actions/first-interaction/v1/Dockerfile'.,142.83706587901656,50325359,False,
+##[group]GITHUB_TOKEN Permissions,88.71102240406871,1316116,False,
+##[group]Run actions/first-interaction@v1,42.04192106724293,6047902,False,
+Requested labels: self-hosted,0.7332748477425871,4217650,False,

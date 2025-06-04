@@ -1,0 +1,10 @@
+##[group]Run gradle/gradle-build-action@v2, 10.767337231176002, , , , 1312841, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'
+##[group]GITHUB_TOKEN Permissions, 7.853844012214982, , , , 4195957, False, 
+##[group]Run actions/setup-java@v2, 7.422042172654402, , , , 648273, False, 
+##[group]Run mshick/add-pr-comment@v2, 5.901671018918636, , , , 1273500, False, 
+##[group]Fetching the repository, 4.84445803083895, , , , 474491, False, 
+Requested labels: self-hosted, 4.4077994455679885, , , , 4134236, False, 
+##[group]Run actions/checkout@v3, 2.700671050051675, , , , 165907, False, 
+##[group]Cleaning the repository, 2.6078570385076087, , , , 150553, False, 
+##[group]Setting up auth, 1.2691232649247792, , , , 73929, False, 
+##[group]Determining the checkout info, 1.1531057504946958, , , , 170, False, 

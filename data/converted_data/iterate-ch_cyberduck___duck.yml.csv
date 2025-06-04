@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 3.7772418710730222, , , , 5013711, False, 
+##[group]GITHUB_TOKEN Permissions, 145.04988289753143, , , , 5225455, False, 
+##[group]Installed distributions, 4.459696216510559, , , , 37802, False, 
+##[group]Run actions/checkout@v4, 4.502768865839582, , , , 142045, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 4.545841515168604, , , , 40678, False, 
+##[group]Cleaning the repository, 4.588914164497627, , , , 59790, False, 
+##[group]Fetching the repository, 2437.388587142247, , , , 214516471, False, 
+##[group]Run export COUNT=$(git rev-list --count $GITHUB_SHA), 119.295846123173, , , , 14175814, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-maven)[m on project parent[m: [m
+##[group]Run docker/login-action@v3, 12.738071202851538, , , , 972762, False, 
+##[group]Docker info, 17.21726881762868, , , , 2211759, False, 
+##[group]Buildx version, 29.40340683207447, , , , 8033970, True, ##[error]buildx failed with: ERROR: failed to solve: failed to compute cache key: failed to calculate checksum of ref 328d7f94-78ae-43e5-9f4a-422778477331::d40z0795ub5an5y6ko5plbh78: "/opt/duck": not found
+##[group]Removing temp folder /home/power/actions-runner/_work/_temp/docker-actions-toolkit-vg4yMA, 3.051984740491726, , , , 739762, False, 

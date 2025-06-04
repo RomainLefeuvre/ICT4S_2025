@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 643.4768082981718, , , , 76923358, False, 
+##[group]GITHUB_TOKEN Permissions, 87.5997493508452, , , , 5350549, False, 
+##[group]Run actions/checkout@v4, 5.703344425217078, , , , 178587, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.603977479294086, , , , 19710, False, 
+##[group]Setting up auth, 5.5046105333710935, , , , 65453, False, 
+##[group]Fetching the repository, 21.02477267425445, , , , 431282, False, 
+##[group]Checking out the ref, 5.007775803756132, , , , 110614, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 21.56103591147592, , , , 507252, False, 
+##[group]Restore Gradle state from cache, 504.98829800204425, , , , 55455016, True, ##[error]Gradle build failed: see console output for details
+##[group]Caching Gradle state, 7.8941171016926575, , , , 2874944, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 31.46073350587464, , , , 5437739, False, 
+##[group]Run actions/checkout@v4__dup_12, 2.7616127708000984, , , , 175069, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_13, 1.452314058325305, , , , 24228, False, 
+##[group]Setting up auth__dup_14, 1.4999858402754755, , , , 68762, False, 
+##[group]Fetching the repository__dup_15, 6.476661180603608, , , , 439596, False, 
+##[group]Determining the checkout info, 1.7383447500263287, , , , 10268, False, 
+##[group]Run gradle/actions/setup-gradle@v3__dup_17, 553.1270966564059, , , , 40623065, True, ##[error]Gradle build failed: see console output for details

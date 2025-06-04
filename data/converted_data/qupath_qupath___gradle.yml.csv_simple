@@ -1,0 +1,24 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,248.594646630292,4126739,False,
+Requested labels: self-hosted__dup_3,94.79420054949276,39183711,False,
+##[group]GITHUB_TOKEN Permissions__dup_11,63.03278648655534,4081380,False,
+##[group]Run gradle/wrapper-validation-action@v1,61.87608283985253,1271427,False,
+##[group]Run gradle/gradle-build-action@v2,56.36843459175624,1352027,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'"
+Requested labels: self-hosted,45.65451332560703,22279099,False,
+Requested labels: self-hosted__dup_2,36.84725184355904,5054273,False,
+##[group]GITHUB_TOKEN Permissions__dup_17,26.53591353733608,4771225,False,
+##[group]Fetching the repository,20.668276450160636,427648,False,
+##[group]Run gradle/wrapper-validation-action@v1__dup_22,18.32449551057787,1532302,False,
+##[group]Run gradle/wrapper-validation-action@v1__dup_15,15.793423402286384,1222430,False,
+##[group]Run gradle/gradle-build-action@v2__dup_16,13.768692075198013,1076247,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'"
+##[group]Run actions/checkout@v3,10.59485530191328,163204,False,
+##[group]Fetching the repository__dup_14,6.930698178273728,471778,False,
+##[group]Run gradle/gradle-build-action@v2__dup_23,6.388413521786656,1073161,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'"
+##[group]Setting up auth,5.2485431990504585,62287,False,
+##[group]Checking out the ref,5.085595026029858,28686,False,
+##[group]Fetching the repository__dup_20,4.508196861502157,424139,False,
+##[group]Run actions/checkout@v3__dup_12,2.822694404843725,154820,False,
+##[group]Run actions/checkout@v3__dup_18,2.198048760432272,168669,False,
+##[group]Setting up auth__dup_13,1.402944680166157,62031,False,
+##[group]Checking out the ref__dup_21,1.144564737350166,19573,False,
+##[group]Cleaning the repository,1.109533693400912,17395,False,

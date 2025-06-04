@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 2277.566123023371, , , , 156091404, False, 
+##[group]GITHUB_TOKEN Permissions, 25.8995542053728, , , , 3451837, False, 
+##[group]Run actions/checkout@v4, 1.6231201205986048, , , , 163918, False, 
+##[group]Getting Git version info, 1.743626517168994, , , , 4762, False, 
+##[group]Cleaning the repository, 8.71813258584497, , , , 14044, False, 
+##[group]Setting up auth, 1.6239177777981757, , , , 123164, False, 
+##[group]Fetching the repository, 5.725414101574506, , , , 464001, False, 
+##[group]Installed distributions, 10.20306506452646, , , , 150961, False, 
+##[group]Run actions/cache@v4, 12.277238538667724, , , , 600170, False, 
+##[group]Run ./gradlew --scan --stacktrace \\, 2688.1578384516565, , , , 134528906, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:processResources NO-SOURCE, 132.07417610456716, , , , 4798902, False, 
+> Task :buildSrc:jar, 599.3016764519718, , , , 24507329, False, 

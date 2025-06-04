@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run curl -f -k --retry 10 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/health,377.0171403327949,300251163,True,##[error]Process completed with exit code 7.
+##[group]Run docker compose -f docker-compose-postgresql.yml up -d,150.023830665848,1314227,True,##[error]Process completed with exit code 18.
+##[group]Installed distributions,140.6646822824496,1499383,False,
+##[group]GITHUB_TOKEN Permissions,98.55738559870994,2245524,False,
+##[group]Fetching the repository,37.347128099069735,515555,False,
+##[group]Removing previously created refs_ to avoid conflicts,26.57012137873911,392323,False,
+##[group]Run ./gradlew --no-daemon --console=plain :fineract-provider:clean :fineract-provider:build :fineract-provider:jibDockerBuild -x test -x cucumber,20.91794015210033,242362,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"
+##[group]Setting up auth,7.087781646677408,70993,False,
+##[group]Cleaning the repository,6.960566988965227,103516,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,6.32449370040433,160258,False,
+##[group]Run ./gradlew --no-daemon --console=plain fineract-e2e-tests-runner:cucumber --tags 'not @Skip' allureReport,1.904047234082972,642551,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"
+##[group]Run docker ps,0.5682513548953972,30799,False,
+Requested labels: self-hosted,0.4548773625376457,4172001,False,

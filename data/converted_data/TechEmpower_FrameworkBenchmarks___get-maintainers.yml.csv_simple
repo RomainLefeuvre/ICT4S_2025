@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,183.66869939252425,3239551,False,
+##[group]Fetching the repository,172.21890516943813,1807648,False,
+##[group]Run python ./toolset/github_actions/get_maintainers.py > ./maintainers/maintainers.md,104.7592186279174,851313,False,
+##[group]Run actions/upload-artifact@v4,78.02315191758146,2081605,False,
+##[group]Checking out the ref,55.63909088626299,487937,False,
+##[group]Run actions/checkout@v4,16.150892436872883,198527,False,
+##[group]Run mkdir -p ./maintainers,12.213105984831676,54395,False,
+##[group]Installed versions,12.077445008884292,94838,False,
+##[group]Setting up auth,8.278937682357519,64039,False,
+##[group]==END_FILE==,0.041271584871568,5017974,False,

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,2157.674120340649,6563163,False,
+##[group]Run mvn --version,1622.740907305713,73493628,True,[ERROR[m] COMPILATION ERROR : 
+##[group]Run actions/setup-java@v1,447.8445274463976,21856080,False,
+##[group]Fetching the repository,151.10097435706544,16171154,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/AutoModality/action-clean/v1/Dockerfile'.,104.71086312380544,18484004,False,
+##[group]GITHUB_TOKEN Permissions,94.65177197319792,3637689,False,
+##[group]Run styfle/cancel-workflow-action@0.8.0,26.398064731480247,2095517,False,
+##[group]Checking out the ref,11.445620105812992,401324,False,
+##[group]Run AutoModality/action-clean@v1,0.9277401272347834,57811,False,
+##[group]Run actions/checkout@v2,0.8287670375139748,203785,False,
+##[group]Setting up auth,0.165753407502795,118057,False,

@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 49.21263597167145, , , , 4036004, False, 
+##[group]GITHUB_TOKEN Permissions, 179.61396739887678, , , , 3336170, False, 
+##[group]Clean up resources from previous jobs, 3.2444775304450046, , , , 31657, False, 
+##[group]Create local container network, 25.727533740173048, , , , 1038699, False, 
+##[group]Starting mongodb service container, 42.580609108607504, , , , 24495280, True, ##[error]Docker start fail with exit code 1
+##[group]Run actions/upload-artifact@v4, 18.266627903071683, , , , 2619691, False, 

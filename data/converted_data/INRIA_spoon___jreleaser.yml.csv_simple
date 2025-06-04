@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9,301.94716948780086,40470531,False,
+##[group]Run DeterminateSystems/magic-nix-cache-action@fc6aaceb40b9845a02b91e059ec147e78d1b4e41,150.1270157185673,10095014,False,
+##[group]Run actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808,57.23242530278964,10143430,True,##[error]Process completed with exit code 1.
+##[group]Run set -eu,5.556545136114842,3763623,False,
+##[group]Run nix develop .#jReleaser --command ,3.418793323557977,274056,False,

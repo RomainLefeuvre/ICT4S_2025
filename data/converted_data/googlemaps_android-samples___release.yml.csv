@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0, , , , 4296417, False, 
+##[group]GITHUB_TOKEN Permissions, 81.87060094102347, , , , 3968219, False, 
+##[group]Run actions/checkout@v2, 32.05513805442432, , , , 171421, True, ##[error]Input required and not supplied: token
+##[group]Installed distributions, 15.681017866219625, , , , 68350, False, 
+##[group]Run echo "Generating ApiDemos (Java) APKs", 95.14384477230226, , , , 27935739, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-node@v2, 14.788943088049942, , , , 586108, False, 
+##[group]Run cycjimmy/semantic-release-action@v3.4.1, 379.79242013827553, , , , 61371348, True, ##[error]SemanticReleaseError: Cannot push to the Git repository.

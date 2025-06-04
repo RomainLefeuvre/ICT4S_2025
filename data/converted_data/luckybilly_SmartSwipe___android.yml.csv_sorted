@@ -1,0 +1,5 @@
+##[group]Run ./gradlew clean smart-swipe:assembleDebug app:assembleDebug, 180.9632821388037, , , , 33256659, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 67.07845724230052, , , , 19025728, False, 
+##[group]Run actions/checkout@v1, 32.06119951108097, , , , 3208639, False, 
+##[group]GITHUB_TOKEN Permissions, 8.453848817800715, , , , 1658795, False, 
+Requested labels: self-hosted, 0.0456868834763999, , , , 5142379, False, 

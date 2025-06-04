@@ -1,0 +1,95 @@
+Requested labels: self-hosted, 107226.28678623024, , , , 4239226374, False, 
+##[group]==END_FILE==__dup_19, 53030.11933581633, , , , 2139211089, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_56, 18115.87266671804, , , , 567695903, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_34, 16822.199794716314, , , , 567046576, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_54, 13883.853764386142, , , , 464409014, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json", 12988.59196306354, , , , 542836519, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_62, 8992.970410145279, , , , 385036124, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_40, 8641.004078228587, , , , 384223511, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_42, 8630.691564521669, , , , 384877747, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_65, 6413.297168896631, , , , 383709639, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_59, 6141.307308411455, , , , 198809603, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_38, 5396.421639367809, , , , 198363764, False, 
+##[group]Caching Gradle state, 227.9587023778616, , , , 16677795, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338, 196.8132805734716, , , , 10686030, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/popsiclestick/gist-sync-action/88f8633178625914f2a01abf1a765f7272a580fa/Dockerfile'., 108.3787118606048, , , , 40068992, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_95, 99.54812810947624, , , , 4286441, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 79.13584453711864, , , , 3669321, False, 
+##[group]Checking out the ref__dup_51, 56.72763336443701, , , , 5900472, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/popsiclestick/gist-sync-action/88f8633178625914f2a01abf1a765f7272a580fa/Dockerfile'.__dup_67, 52.97628847950798, , , , 5921068, False, 
+##[group]Checking out the ref__dup_75, 47.882592502034285, , , , 5626105, False, 
+##[group]Checking out the ref__dup_28, 38.32696717059533, , , , 5542805, False, 
+##[group]GITHUB_TOKEN Permissions__dup_44, 34.91962088776204, , , , 2932233, False, 
+##[group]GITHUB_TOKEN Permissions__dup_66, 30.83210547532136, , , , 3582082, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_82, 27.59302697331508, , , , 1089734, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_20, 27.44861400127396, , , , 3082475, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/popsiclestick/gist-sync-action/88f8633178625914f2a01abf1a765f7272a580fa/Dockerfile'.__dup_45, 26.50496542510583, , , , 5408858, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 26.502089327711865, , , , 3304152, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_91, 25.6507542587962, , , , 1036179, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_87, 25.518598594562317, , , , 1029864, True, ##[error]Process completed with exit code 1.
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_15, 24.66311896198053, , , , 858004, True, ##[error]Process completed with exit code 1.
+##[group]Checking out the ref, 23.287356618577903, , , , 5793474, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_16, 22.70593348204974, , , , 897426, True, ##[error]Process completed with exit code 1.
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_78, 21.00431844537588, , , , 544271, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_17, 20.748748002118955, , , , 845570, True, ##[error]Process completed with exit code 1.
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/popsiclestick/gist-sync-action/88f8633178625914f2a01abf1a765f7272a580fa/Dockerfile'.__dup_21, 17.84270367565582, , , , 5828696, False, 
+##[group]Run echo "::add-matcher::.github/problem-matcher.json"__dup_79, 14.57098156855532, , , , 1058510, True, ##[error]Process completed with exit code 1.
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_53, 12.50472903707767, , , , 450908, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_94, 12.453341992648308, , , , 472797, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_81, 12.437948423784375, , , , 511884, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_55, 12.42087253407009, , , , 430941, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_41, 12.27677945334596, , , , 439099, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_86, 12.22013787607795, , , , 487832, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_61, 12.217916702811149, , , , 484204, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_64, 12.1785856822123, , , , 426682, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_74, 12.127615194817656, , , , 435836, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_58, 11.834920018782189, , , , 427329, False, 
+##[group]Fetching the repository__dup_50, 11.817432679139923, , , , 452339, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_90, 11.11477926495626, , , , 517313, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_18, 11.08213774201604, , , , 1303051, True, ##[error]Process completed with exit code 1.
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_37, 10.939394606363727, , , , 428488, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_22, 10.483643372137369, , , , 813163, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6, 9.882356404443968, , , , 889313, False, 
+##[group]Cleaning the repository__dup_72, 9.625968091814093, , , , 163408, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_39, 9.473121689274413, , , , 456696, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_23, 9.11492073364062, , , , 67786, False, 
+##[group]Installed distributions__dup_36, 8.749446953221849, , , , 28170, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338__dup_92, 8.571608796138833, , , , 248729, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_68, 8.27964450708723, , , , 846225, False, 
+##[group]Cleaning the repository__dup_49, 8.194225512857665, , , , 163380, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338__dup_80, 7.804054357433976, , , , 252984, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_6, 7.300624536174006, , , , 67646, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_46, 7.156638337130019, , , , 834352, False, 
+##[group]Fetching the repository, 6.994040023403161, , , , 496404, False, 
+##[group]Fetching the repository__dup_26, 6.863386854186151, , , , 485912, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43__dup_33, 6.740924685158436, , , , 415643, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338__dup_88, 6.616826193444749, , , , 432906, False, 
+##[group]Run gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43, 4.335789550580925, , , , 450516, False, 
+##[group]Run echo "JAVA_VERSION=23" >> $GITHUB_ENV, 4.255265960064416, , , , 231757, False, 
+##[group]Run graalvm/setup-graalvm@2f25c0caae5b220866f732832d5e3e29ff493338__dup_84, 4.0954371699858765, , , , 247726, False, 
+##[group]Restore Gradle state from cache, 3.600258277778473, , , , 446495, False, 
+##[group]Installed distributions, 3.220003547761023, , , , 459280, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29, 2.893971141946387, , , , 140465, False, 
+##[group]Installed distributions__dup_57, 2.1863716392606065, , , , 35302, False, 
+##[group]Disabling automatic garbage collection, 2.125325386603104, , , , 6021, False, 
+##[group]Run ./.github/actions/run-gradle, 2.102765448140395, , , , 1933, False, 
+##[group]Successfully set up 'graalvm-jdk-21.0.3+7.1'__dup_89, 2.043037730130792, , , , 79162, False, 
+##[group]Successfully set up 'graalvm-jdk-21.0.3+7.1'__dup_93, 2.0248604149485248, , , , 75673, False, 
+##[group]Successfully set up 'graalvm-jdk-21.0.3+7.1'__dup_85, 1.992671721845482, , , , 71841, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_71, 1.9251936183628184, , , , 7936, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29__dup_24, 1.7900187826722516, , , , 156948, False, 
+##[group]Setting up auth, 1.7570534186163786, , , , 65699, False, 
+##[group]Successfully set up 'graalvm-jdk-21.0.3+7.1', 1.7410175552339433, , , , 89111, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29__dup_70, 1.6773841542234798, , , , 159205, False, 
+##[group]Determining the checkout info__dup_27, 1.674640008476697, , , , 8112, False, 
+##[group]Run echo "JAVA_VERSION=21" >> $GITHUB_ENV, 1.6263102296784315, , , , 5260, False, 
+##[group]Getting Git version info, 1.5806448730631075, , , , 9021, False, 
+##[group]Run actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29__dup_47, 1.5224446435546826, , , , 155633, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.433846234711586, , , , 28461, False, 
+##[group]Run step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6__dup_69, 1.4295746900841408, , , , 65930, False, 
+##[group]Cleaning the repository, 1.4250866772038473, , , , 58995, False, 
+##[group]Run echo "JAVA_VERSION=11" >> $GITHUB_ENV__dup_60, 1.4209319371450737, , , , 7339, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "JAVA_VERSION=11" >> $GITHUB_ENV__dup_63, 1.4078817198054625, , , , 5637, False, 
+##[group]Determining the checkout info, 1.372529332157417, , , , 8677, False, 
+##[group]Run echo "JAVA_VERSION=11" >> $GITHUB_ENV, 1.2745432594893429, , , , 4157, False, 
+##[group]==END_FILE==, 0.1728011640847918, , , , 4999961, False, 

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run if [[ ""$GITHUB_EVENT_NAME"" == 'schedule' ]]; then",71.90358361852137,1671174,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck"
+##[group]Removing previously created refs_ to avoid conflicts,53.51735679920405,615100,False,
+##[group]GITHUB_TOKEN Permissions,53.08016952255818,4162880,False,
+##[group]Fetching the repository,39.80341305142892,438244,False,
+##[group]Run actions/cache@v4,37.58524903384893,605850,False,
+##[group]Run actions/checkout@v4,9.43587777374459,150529,False,
+Requested labels: self-hosted,8.671068999734446,4362080,False,

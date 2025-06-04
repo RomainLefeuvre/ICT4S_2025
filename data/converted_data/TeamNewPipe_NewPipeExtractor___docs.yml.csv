@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 23.219192945568413, , , , 5241404, False, 
+##[group]GITHUB_TOKEN Permissions, 9.4477045726296, , , , 3993707, False, 
+##[group]Run actions/checkout@v4, 0.6754584282298183, , , , 139461, False, 
+##[group]Setting up auth, 0.3446521641012161, , , , 57018, False, 
+##[group]Fetching the repository, 8.303829744016813, , , , 2181310, False, 
+##[group]Checking out the ref, 1.8124468555467688, , , , 375168, False, 
+##[group]Installed distributions, 0.4784958638364845, , , , 28735, False, 
+##[group]Run actions/cache@v4, 2.8078563183608423, , , , 1703089, False, 
+##[group]Run ./gradlew aggregatedJavadocs, 1.096519737824755, , , , 241797, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1-bin.zip.lck
+##[group]Run peaceiris/actions-gh-pages@v3, 0.5349484741525867, , , , 103407, False, 
+##[group]Prepare publishing assets, 2.086548317571184, , , , 397145, False, 
+##[group]Push the commit or tag, 9.154847690915997, , , , 2024910, False, 

@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 15.34994762182698, , , , 4267187, False, 
+##[group]GITHUB_TOKEN Permissions, 57.89471061603789, , , , 2859173, False, 
+##[group]Run actions/checkout@v1, 329.2562943905521, , , , 32254177, False, 
+##[group]Run actions/setup-java@v2, 26.49518262264785, , , , 248198, False, 
+##[group]Run actions/cache@v2, 222.7152346069037, , , , 24358460, False, 
+##[group]Run Disable-NetAdapterChecksumOffload -Name * -TcpIPv4 -UdpIPv4 -TcpIPv6 -UdpIPv6, 0.8699287883140523, , , , 145317, True, ##[error]Process completed with exit code 127.
+##[group]Run mvn --% -B clean install -Dall -T2 --file pom.xml -Dmaven.wagon.httpconnectionManager.ttlSeconds=120 -Dorg.slf4j.simpleLogger.showDateTime=true -Dorg.slf4j.simpleLogger.dateTimeFormat=HH:mm:ss_SSS, 1.7573043264361303, , , , 226354, True, ##[error]Process completed with exit code 1.
+##[group]Run cmd --% /c for /f %i in ('dir /a:d /s /b %userprofile%\\*SNAPSHOT*') do rd /s /q %i, 19.97828603578166, , , , 2177767, True, ##[error]Process completed with exit code 2.

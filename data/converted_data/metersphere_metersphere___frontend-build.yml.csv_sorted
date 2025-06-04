@@ -1,0 +1,11 @@
+##[group]Run mvn -T 1C -B package --file pom.xml -pl frontend, 3579.373033651971, , , , 437533154, True, [ERROR] Failed to execute goal com.github.eirslett:frontend-maven-plugin:1.12.1:pnpm (pnpm run build) on project frontend: Failed to run task: 'pnpm run build' failed. org.apache.commons.exec.ExecuteException: Process exited with an error: 134 (Exit value: 134) -> [Help 1]
+[INFO] --- frontend-maven-plugin:1.12.1:install-node-and-pnpm (install node and pnpm) @ frontend ---, 784.7568154991003, , , , 268804909, False, 
+[INFO] --- frontend-maven-plugin:1.12.1:pnpm (pnpm install) @ frontend ---, 471.11449898177295, , , , 44182525, False, 
+##[group]Fetching the repository, 72.94724749341547, , , , 13990538, False, 
+Requested labels: self-hosted, 44.435808845702326, , , , 4623100, False, 
+##[group]GITHUB_TOKEN Permissions, 41.18147677260558, , , , 2530475, False, 
+##[group]Checking out the ref, 36.3793945016495, , , , 586923, False, 
+##[group]Installed distributions, 24.60776499166548, , , , 1681212, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (default) @ frontend ---, 21.94364690542261, , , , 1657573, False, 
+##[group]Setting up auth, 1.729993557995022, , , , 72818, False, 
+##[group]Run actions/checkout@v3, 1.7248226525518473, , , , 168257, False, 

@@ -1,0 +1,11 @@
+##[group]Run mvn verify -pl protocols -am --no-transfer-progress --batch-mode --fail-at-end -Denforcer.skip, 13932.005598031905, , , , 970390801, True, [ERROR[m] 
+##[group]Run ScaCap/action-surefire-report@v1.8.0, 12709.23384309132, , , , 479420889, False, 
+##[group]Fetching the repository, 30.24986617743306, , , , 5777219, False, 
+##[group]GITHUB_TOKEN Permissions, 18.1674190894145, , , , 3928006, False, 
+##[group]Checking out the ref, 14.483853952422209, , , , 1229620, False, 
+##[group]Run actions/cache@v4, 4.625520276789542, , , , 1413143, False, 
+##[group]Run actions/checkout@v4, 3.052080270755742, , , , 186459, False, 
+##[group]Setting up auth, 1.5679994761635487, , , , 74986, False, 
+##[group]Initializing the repository, 1.5512157398492776, , , , 96191, False, 
+##[group]Determining the checkout info, 1.1554947959300392, , , , 99021, False, 
+Requested labels: self-hosted, 0.0, , , , 5667232, False, 

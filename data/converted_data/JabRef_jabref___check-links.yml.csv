@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.1588184914362375, , , , 4739489, False, 
+##[group]GITHUB_TOKEN Permissions, 8.332596050414885, , , , 2789376, False, 
+##[group]Run actions/checkout@v4, 0.4009176769986767, , , , 173261, False, 
+##[group]Getting Git version info, 0.4071797958418543, , , , 19317, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.574583270757855, , , , 617361, False, 
+##[group]Cleaning the repository, 3.2886068899154126, , , , 704419, False, 
+##[group]Setting up auth, 0.4948494596463407, , , , 102766, False, 
+##[group]Fetching the repository, 4.735440484760059, , , , 913281, False, 
+##[group]Checking out the ref, 0.5574706480781169, , , , 73296, False, 
+##[group]Run actions/cache@v4, 3.513901097234497, , , , 662350, False, 
+##[group]Run # Cleanup artifacts from previous run in case it crashed, 9.958900026182045, , , , 1570865, False, 
+##[group]Run /home/power/actions-runner/_work/_actions/lycheeverse/lychee-action/v1.10.0/entrypoint.sh, 1518.0184987807506, , , , 306668252, True, ##[error]Process completed with exit code 2.

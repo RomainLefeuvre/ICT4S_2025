@@ -1,0 +1,7 @@
+##[group]Run mvn clean install, 792.569466265863, , , , 106558167, True, [ERROR[m] Tests run: 3[m, Failures: 0, Errors: 3[m, Skipped: 0, Time elapsed: 0.56 s <<< FAILURE![m - in com.willwinder.universalgcodesender.listeners.LongPressKeyListenerTest[m
+##[group]Fetching the repository, 68.42543552442922, , , , 2763904, False, 
+##[group]Run actions/cache@v3, 23.12654011933774, , , , 1082534, False, 
+##[group]GITHUB_TOKEN Permissions, 14.575787694444823, , , , 3077677, False, 
+Requested labels: self-hosted, 13.74763084736237, , , , 6544526, False, 
+##[group]Checking out the ref, 9.08151998778746, , , , 381688, False, 
+##[group]Run actions/checkout@v3, 5.2126290291947415, , , , 181655, False, 

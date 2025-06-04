@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,83.62558412294585,7270049,False,
+##[group]Fetching the repository,40.18659876892614,472535,False,
+##[group]Get Vault Secrets,10.427571411547891,250537,True,##[error]Input required and not supplied: url
+##[group]Run actions/checkout@v4,10.209269021486213,153783,False,
+##[group]Setting up auth,9.34048931440582,66331,False,

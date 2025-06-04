@@ -1,0 +1,12 @@
+##[group]Installed distributions, 194.06836794681604, , , , 18244658, False, 
+##[group]Run mvn -Pcoverage -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar, 116.14246145560168, , , , 25863594, True, [ERROR] Failed to execute goal biz.aQute.bnd:bnd-maven-plugin:7.0.0:bnd-process (default) on project weasis-opencv: The plugin biz.aQute.bnd:bnd-maven-plugin:7.0.0 requires Maven version 3.8.1 -> [Help 1]
+##[group]GITHUB_TOKEN Permissions, 65.26971710313035, , , , 3065394, False, 
+##[group]Fetching the repository, 64.46881043207831, , , , 4448688, False, 
+[INFO] --- flatten-maven-plugin:1.3.0:flatten (flatten) @ weasis-parent ---, 45.33438344490414, , , , 5313807, False, 
+##[group]==END_FILE==, 13.424530226930056, , , , 5164876, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (min-requirement) @ weasis-parent ---, 9.037143056696095, , , , 772294, False, 
+[INFO] --- jacoco-maven-plugin:0.8.11:prepare-agent (prepare-agent) @ weasis-parent ---, 8.880347148753359, , , , 1361436, False, 
+##[group]Run actions/cache@v3, 7.108618980795907, , , , 594956, False, 
+##[group]Run actions/checkout@v3, 3.670958941465856, , , , 190520, False, 
+##[group]Checking out the ref, 2.220698609708253, , , , 136834, False, 
+##[group]Setting up auth, 1.8123370186304133, , , , 54729, False, 

@@ -1,0 +1,13 @@
+##[group]Run echo $SPARK_2_3, 145.60967975214268, , , , 13073078, False, 
+##[group]GITHUB_TOKEN Permissions, 142.1152071830688, , , , 2958064, False, 
+##[group]Run actions/setup-java@v2, 94.51116487938047, , , , 10870513, False, 
+##[group]Run sudo apt-get update, 68.8603139897123, , , , 20455501, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn test -pl $TEST_MODULES $PROFILES -Dtest.spark.master=spark://localhost:7077, 64.68717730145325, , , , 3619594, True, [ERROR[m] [ERROR] Could not find the selected project in the reactor: core @ 
+##[group]Run mvn clean package $STANDARD_BUILD_OPTS -DskipTests -DskipCli, 58.88910693416996, , , , 1213786, True, [ERROR] The goal you specified requires a project to execute but there is no POM in this directory (/home/power/actions-runner/_work/mahout/mahout). Please verify you invoked Maven from the correct directory. -> [Help 1]
+##[group]Fetching the repository, 36.22544248328917, , , , 1007295, False, 
+##[group]Setting up auth, 21.43390127909067, , , , 65760, False, 
+Requested labels: self-hosted, 18.62026014050821, , , , 5944047, False, 
+##[group]Run actions/cache@v2, 4.311872237751325, , , , 1664470, False, 
+##[group]Disabling automatic garbage collection, 4.286780255818134, , , , 4020, False, 
+##[group]Run actions/checkout@v3, 4.180129718381859, , , , 159958, False, 
+##[group]Checking out the ref, 2.958308240839701, , , , 73937, False, 

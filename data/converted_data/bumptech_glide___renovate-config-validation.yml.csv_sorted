@@ -1,0 +1,7 @@
+##[group]Run pkg=renovate, 1623.8368571828755, , , , 143137791, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 112.469099233256, , , , 1899868, False, 
+##[group]Fetching the repository, 49.020248843442175, , , , 508579, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 35.146593510392506, , , , 391594, False, 
+##[group]Run actions/checkout@v2, 16.463404328552276, , , , 187540, False, 
+##[group]Setting up auth, 9.249103555366448, , , , 76634, False, 
+##[group]==END_FILE==, 0.0, , , , 4754068, False, 

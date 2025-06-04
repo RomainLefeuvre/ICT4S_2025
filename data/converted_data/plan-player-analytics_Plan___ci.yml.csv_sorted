@@ -1,0 +1,8 @@
+##[group]Waiting for all services to be ready, 132.8379661025052, , , , 30924770, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/SonarSource/sonarcloud-github-action/master/Dockerfile'., 82.38487692714962, , , , 43214159, False, 
+##[group]GITHUB_TOKEN Permissions, 68.23966243820662, , , , 6961380, False, 
+##[group]Starting mariadb service container, 35.90015493574957, , , , 23732780, False, 
+##[group]Service container mariadb failed., 14.16913281987546, , , , 3383404, True, ##[error]Failed to initialize container mariadb:11.1-rc
+##[group]==END_FILE==, 7.593040694007796, , , , 4310723, False, 
+##[group]Create local container network, 5.976820357173868, , , , 724190, False, 
+##[group]Checking docker version, 0.415445291038613, , , , 53349, False, 

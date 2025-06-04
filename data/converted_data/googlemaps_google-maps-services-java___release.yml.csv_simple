@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cycjimmy/semantic-release-action@v3.4.1,320.56883355373014,66964776,True,##[error]SemanticReleaseError: Cannot push to the Git repository.
+##[group]Run npm i -D conventional-changelog-conventionalcommits,111.7661077545004,9405437,False,
+##[group]GITHUB_TOKEN Permissions,10.367724439142624,3516826,False,
+##[group]Run actions/setup-node@v2,1.9685552732549283,358812,False,
+##[group]Run actions/setup-java@v2.3.1,1.3561158549089507,359697,False,
+##[group]Run echo $GPG_KEY_ARMOR | base64 --decode > ./release.asc,0.4739114546724828,142128,True,##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v4,0.4301657819334843,140112,True,##[error]Input required and not supplied: token
+Requested labels: self-hosted,0.0,4132623,False,

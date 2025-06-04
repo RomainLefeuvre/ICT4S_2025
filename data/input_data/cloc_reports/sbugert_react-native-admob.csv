@@ -1,0 +1,79 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (4467.1 files/s 261241.1 lines/s)"
+Java,/tmp/clone_directory/android/src/main/java/com/sbugert/rnadmob/RNPublisherBannerViewManager.java,41,2,273
+Markdown,/tmp/clone_directory/README.md,90,0,256
+Java,/tmp/clone_directory/android/src/main/java/com/sbugert/rnadmob/RNAdMobBannerViewManager.java,34,2,232
+JavaScript,/tmp/clone_directory/Example/App.js,14,0,210
+Java,/tmp/clone_directory/android/src/main/java/com/sbugert/rnadmob/RNAdMobRewardedVideoAdModule.java,31,0,175
+Java,/tmp/clone_directory/android/src/main/java/com/sbugert/rnadmob/RNAdMobInterstitialAdModule.java,16,0,161
+Objective-C,/tmp/clone_directory/ios/RNAdMobRewarded.m,26,0,141
+Bourne Shell,/tmp/clone_directory/Example/android/gradlew,22,37,129
+XML,/tmp/clone_directory/Example/ios/Example.xcodeproj/xcshareddata/xcschemes/Example-tvOS.xcscheme,0,0,129
+XML,/tmp/clone_directory/Example/ios/Example.xcodeproj/xcshareddata/xcschemes/Example.xcscheme,0,0,129
+Objective-C,/tmp/clone_directory/ios/RNAdMobInterstitial.m,26,0,129
+Objective-C,/tmp/clone_directory/ios/RNDFPBannerView.m,24,7,124
+XML,/tmp/clone_directory/android/RNAdMob.iml,0,0,108
+Objective-C,/tmp/clone_directory/ios/RNGADBannerView.m,17,7,106
+Gradle,/tmp/clone_directory/Example/android/app/build.gradle,17,108,85
+JavaScript,/tmp/clone_directory/RNPublisherBanner.js,17,25,82
+DOS Batch,/tmp/clone_directory/Example/android/gradlew.bat,24,2,74
+YAML,/tmp/clone_directory/.github/workflows/integrate.yml,0,0,71
+JavaScript,/tmp/clone_directory/RNAdMobBanner.js,15,22,69
+XML,/tmp/clone_directory/Example/ios/Example/Info.plist,0,0,59
+JavaScript,/tmp/clone_directory/RNAdMobRewarded.js,9,1,58
+JavaScript,/tmp/clone_directory/RNAdMobInterstitial.js,8,1,55
+Objective-C,/tmp/clone_directory/Example/ios/ExampleTests/ExampleTests.m,18,6,49
+XML,/tmp/clone_directory/Example/ios/Example/Base.lproj/LaunchScreen.xib,0,0,42
+Objective-C,/tmp/clone_directory/ios/RNDFPBannerViewManager.m,8,0,40
+Objective-C,/tmp/clone_directory/ios/RNGADBannerViewManager.m,9,0,39
+Java,/tmp/clone_directory/Example/android/app/src/main/java/com/example/MainApplication.java,9,2,38
+JSON,/tmp/clone_directory/Example/ios/Example/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,38
+Gradle,/tmp/clone_directory/Example/android/build.gradle,4,5,29
+JSON,/tmp/clone_directory/Example/package.json,0,0,29
+Java,/tmp/clone_directory/android/src/main/java/com/sbugert/rnadmob/RNAdMobPackage.java,6,1,29
+Objective-C,/tmp/clone_directory/ios/RCTConvert+GADAdSize.m,3,0,29
+Objective-C,/tmp/clone_directory/Example/ios/Example/AppDelegate.m,8,6,28
+XML,/tmp/clone_directory/Example/android/app/src/main/AndroidManifest.xml,3,0,26
+JSON,/tmp/clone_directory/package.json,0,0,25
+XML,/tmp/clone_directory/Example/ios/ExampleTests/Info.plist,0,0,24
+Gradle,/tmp/clone_directory/android/build.gradle,4,0,22
+JavaScript,/tmp/clone_directory/Example/metro.config.js,2,6,19
+C/C++ Header,/tmp/clone_directory/ios/RNDFPBannerView.h,7,0,19
+Ruby,/tmp/clone_directory/react-native-admob.podspec,4,5,19
+C/C++ Header,/tmp/clone_directory/ios/RNGADBannerView.h,7,0,17
+Starlark,/tmp/clone_directory/Example/android/app/build_defs.bzl,2,1,16
+Objective-C,/tmp/clone_directory/ios/RNAdMobUtils.m,1,0,15
+JavaScript,/tmp/clone_directory/index.js,0,1,14
+INI,/tmp/clone_directory/.editorconfig,3,0,13
+XML,/tmp/clone_directory/Example/ios/Example.xcworkspace/contents.xcworkspacedata,0,0,10
+C/C++ Header,/tmp/clone_directory/ios/RNAdMobInterstitial.h,2,0,10
+C/C++ Header,/tmp/clone_directory/ios/RNAdMobRewarded.h,3,0,10
+Java,/tmp/clone_directory/Example/android/app/src/main/java/com/example/MainActivity.java,3,4,8
+XML,/tmp/clone_directory/Example/ios/Example.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+Markdown,/tmp/clone_directory/Example/README.md,1,0,7
+Objective-C,/tmp/clone_directory/Example/ios/Example/main.m,3,6,7
+XML,/tmp/clone_directory/ios/RNAdMobManager.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+C/C++ Header,/tmp/clone_directory/ios/RNDFPBannerViewManager.h,2,0,7
+C/C++ Header,/tmp/clone_directory/ios/RNGADBannerViewManager.h,2,0,7
+JavaScript,/tmp/clone_directory/Example/.prettierrc.js,0,0,6
+XML,/tmp/clone_directory/Example/android/app/src/debug/AndroidManifest.xml,2,0,6
+JSON,/tmp/clone_directory/Example/ios/Example/Images.xcassets/Contents.json,0,0,6
+JavaScript,/tmp/clone_directory/utils.js,0,0,6
+XML,/tmp/clone_directory/Example/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/Example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/Example/ios/Example/AppDelegate.h,4,6,5
+C/C++ Header,/tmp/clone_directory/ios/RCTConvert+GADAdSize.h,3,0,5
+JavaScript,/tmp/clone_directory/Example/.eslintrc.js,0,0,4
+JSON,/tmp/clone_directory/Example/app.json,0,0,4
+JavaScript,/tmp/clone_directory/Example/index.js,2,3,4
+JSON,/tmp/clone_directory/.watchmanconfig,0,0,3
+XML,/tmp/clone_directory/Example/android/app/src/main/res/values/strings.xml,0,0,3
+Gradle,/tmp/clone_directory/Example/android/settings.gradle,0,0,3
+JavaScript,/tmp/clone_directory/Example/babel.config.js,0,0,3
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,0,0,3
+XML,/tmp/clone_directory/android/src/main/res/values/strings.xml,0,0,3
+Properties,/tmp/clone_directory/Example/android/gradle.properties,5,14,2
+C/C++ Header,/tmp/clone_directory/ios/RNAdMobUtils.h,1,0,2
+JSON,/tmp/clone_directory/Example/.watchmanconfig,0,0,1
+ProGuard,/tmp/clone_directory/Example/android/app/proguard-rules.pro,1,9,0
+ProGuard,/tmp/clone_directory/android/proguard-rules.pro,2,11,0
+SUM,,567,302,3634

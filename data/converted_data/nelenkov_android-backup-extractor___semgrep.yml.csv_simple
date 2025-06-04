@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Pull down action image 'returntocorp/semgrep-agent:v1',56.87598356423115,20001237,False,
+##[group]Run returntocorp/semgrep-action@v1,32.045549727239504,13033117,False,
+##[group]GITHUB_TOKEN Permissions,9.987194012367276,2817970,False,
+##[group]Initializing the repository,3.229902527683804,569725,False,
+##[group]==END_FILE==,3.18889692292801,6604257,False,
+##[group]Fetching the repository,2.272380374802521,473149,False,
+##[group]Run actions/checkout@v4,1.0340941676755588,167424,False,
+##[group]Checking out the ref,0.578730095755391,73896,False,
+##[group]Setting up auth,0.5574600916458697,76443,False,
+##[group]Disabling automatic garbage collection,0.5532060908239655,94082,False,
+##[group]Getting Git version info,0.5234280850706358,126060,False,

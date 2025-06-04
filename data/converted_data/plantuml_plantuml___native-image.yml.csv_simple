@@ -1,0 +1,31 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,543.9373353473105,76727123,False,
+Requested labels: self-hosted,469.77371618302783,58001340,False,
+##[group]Run graalvm/setup-graalvm@v1,392.2212685650518,36546054,False,
+##[group]GITHUB_TOKEN Permissions,353.3929824647245,2980056,False,
+##[group]Fetching the repository,74.31385842626152,447490,False,
+##[group]GITHUB_TOKEN Permissions__dup_22,40.2996012877169,7620727,False,
+##[group]Run actions/checkout@v4,34.31581823802468,193285,False,
+##[group]Checking out the ref,19.28874235034189,65505,False,
+##[group]Setting up auth,17.868186862788857,66030,False,
+##[group]Fetching the repository__dup_25,16.63121267940252,439709,False,
+##[group]Run actions/cache/save@v4__dup_30,13.517850691559834,735144,False,
+##[group]Run actions/cache/restore@v4__dup_28,11.894382477425316,628867,True,##[error]Failed to restore cache entry. Exiting as fail-on-cache-miss is set. Input key: libs-9498392844
+##[group]Run graalvm/setup-graalvm@v1__dup_27,11.417598042956456,484595,False,
+##[group]GITHUB_TOKEN Permissions__dup_13,10.957850449582818,3637840,False,
+##[group]Run actions/cache/restore@v4,9.657672920279673,644880,True,##[error]Failed to restore cache entry. Exiting as fail-on-cache-miss is set. Input key: libs-9498392844
+##[group]Run actions/cache/save@v4,7.508295030634071,705694,False,
+##[group]Run actions/cache/save@v4__dup_21,6.501468032155508,722373,False,
+##[group]Run actions/checkout@v4__dup_23,6.160104940908933,191384,False,
+##[group]Run actions/cache/restore@v4__dup_20,5.46435334236999,611387,True,##[error]Failed to restore cache entry. Exiting as fail-on-cache-miss is set. Input key: libs-9498392844
+##[group]Run graalvm/setup-graalvm@v1__dup_18,4.484591704408742,500216,False,
+##[group]Fetching the repository__dup_16,3.5409412472257364,447591,False,
+##[group]Setting up auth__dup_24,3.2559025171873497,68213,False,
+##[group]Checking out the ref__dup_26,2.730400863143811,26314,False,
+"##[group]Run native-image -H:ConfigurationFileDirectories=native-image-config-dir --no-fallback --report-unsupported-elements-at-runtime -jar ""build/libs/plantuml-.jar"" -H:Path=""build/libs"" -H:Name=""plantuml-linux-amd64-""",2.1869815091481897,23715,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4__dup_14,1.7492287525668422,170885,False,
+##[group]Successfully set up 'graalvm-ce-java17-22.3.1',1.5331945521574963,115106,False,
+##[group]Run mkdir native-image-config-dir,1.2261405679224104,71346,True,##[error]Process completed with exit code 1.
+##[group]Successfully set up 'graalvm-ce-java17-22.3.1'__dup_19,0.903290902195556,77286,False,
+##[group]Checking out the ref__dup_17,0.8905457795679405,26539,False,
+##[group]Setting up auth__dup_15,0.8799248440449277,67775,False,

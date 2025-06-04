@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,5.154484226775727,9694872,False,
+##[group]GITHUB_TOKEN Permissions,0.4590619603660986,1097023,False,
+##[group]Run $GITHUB_ACTION_PATH/run.sh,0.0,83928,False,

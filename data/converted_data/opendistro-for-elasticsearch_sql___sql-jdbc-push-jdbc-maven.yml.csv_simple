@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run aws-actions/configure-aws-credentials@v1,45.51799860226269,6590874,False,
+##[group]GITHUB_TOKEN Permissions,7.42767962311517,2722318,False,
+##[group]Fetching the repository,1.3273611318665697,461224,False,
+##[group]Run cd ..,1.28961092168123,488651,True,##[error]Process completed with exit code 127.
+##[group]==END_FILE==,1.008348335722289,4213692,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.9521306436258654,296475,False,
+##[group]Setting up auth,0.6503297335412658,150508,False,
+##[group]Run actions/checkout@v2,0.6236280687572279,210099,False,
+##[group]Run actions/setup-java@v1,0.5889719884075726,126110,True,"##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers"
+##[group]Checking out the ref,0.3374031297966501,68429,False,
+##[group]Cleaning the repository,0.3218271586726282,156462,False,

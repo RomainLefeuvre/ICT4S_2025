@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.7181627322779851, , , , 3921187, False, 
+##[group]GITHUB_TOKEN Permissions, 55.35400271950697, , , , 1228916, False, 
+##[group]Run actions/checkout@v3, 11.106528206035064, , , , 157077, False, 
+##[group]Setting up auth, 5.9342240717895, , , , 71215, False, 
+##[group]Fetching the repository, 31.9568801715793, , , , 462282, False, 
+##[group]Run bash .github/workflows/support/setup.sh, 6.84852799684222, , , , 65438, False, 
+##[group]Run export APIMAN_VERSION=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout), 189.37617625893435, , , , 21191125, False, 
+##[section]Starting: Prepare job build-and-push, 0.5346558432171331, , , , 6339, False, 

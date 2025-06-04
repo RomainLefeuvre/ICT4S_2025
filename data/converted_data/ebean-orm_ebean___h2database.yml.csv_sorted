@@ -1,0 +1,9 @@
+##[group]Run mvn -T 8 clean package, 3351.201026140053, , , , 149175216, True, [ERROR[m] MavenInvocationException: Error when invoking Maven, consult the invoker log file: /home/power/actions-runner/_work/ebean/ebean/ebean-core/target/invoker/maven-javadoc-plugin383220100.txt
+##[group]Run actions/cache@v3, 580.9978201460825, , , , 61427560, False, 
+##[group]GITHUB_TOKEN Permissions, 211.85176680719545, , , , 3048676, False, 
+##[group]Fetching the repository, 58.11914717596276, , , , 526065, False, 
+##[group]Cleaning the repository, 32.18789779089959, , , , 258943, False, 
+##[group]Run actions/checkout@v3, 20.564068355707043, , , , 176674, False, 
+##[group]Setting up auth, 11.08711133225694, , , , 77708, False, 
+##[group]Run mvn --version, 3.452636319621406, , , , 272980, False, 
+Requested labels: self-hosted, 0.8692161961641184, , , , 4759454, False, 

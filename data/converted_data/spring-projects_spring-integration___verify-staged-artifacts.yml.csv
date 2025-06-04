@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.036224287845712, , , , 4396443, False, 
+##[group]GITHUB_TOKEN Permissions, 70.3311328833417, , , , 5827943, False, 
+##[group]Run actions/checkout@v4, 1.9111280516467055, , , , 139484, False, 
+##[group]Setting up auth, 1.9161785801096545, , , , 61483, False, 
+##[group]Fetching the repository, 19.439564866558708, , , , 973220, False, 
+##[group]Checking out the ref, 1.971734393202087, , , , 96252, False, 
+##[group]Run mkdir -p $HOME/.gradle, 1.996987035516829, , , , 47583, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 8.038453426696803, , , , 319675, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 12.209195993933657, , , , 648867, False, 
+##[group]Restore Gradle state from cache, 10.313219527675798, , , , 460588, False, 
+##[group]Run gradle check --init-script staging-repo-init.gradle, 10.439482739249508, , , , 409387, True, ##[error]Process completed with exit code 127.
+##[group]Caching Gradle state, 38.62759725312856, , , , 1877453, False, 

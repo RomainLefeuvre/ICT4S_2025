@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run git submodule update --init --recursive,5651.480855282245,256192319,True,##[error]The operation was canceled.
+##[group]Run apt -y install ant,2164.277979701744,289025863,False,
+##[group]Run wget --quiet --tries=0 --output-document=android-sdk.zip https://dl.google.com/android/repository/sdk-tools-linux-${ANDROID_SDK_TOOLS}.zip;,744.6662273683123,28361486,False,
+##[group]==END_FILE==,456.99472673511167,4574154,False,
+##[group]Run apt update,407.42203892907145,29970122,False,
+##[group]Fetching the repository,167.46687877692415,28892190,False,
+##[group]GITHUB_TOKEN Permissions,154.29685916659184,2220567,False,
+##[group]Create local container network,43.73591614493921,834989,False,
+##[group]Starting job container,26.18514535402296,9297319,False,
+##[group]Checking out the ref,12.691528323440837,2269643,False,
+##[group]Removing previously created refs_ to avoid conflicts,7.792502216412844,2176389,False,
+##[group]Checking docker version,5.939532431561972,47498,False,
+##[group]Clean up resources from previous jobs,5.853615538208413,103265,False,
+##[group]Run actions/checkout@v2,1.9370133441468471,725946,False,
+##[group]Setting up auth,0.0273286084399777,72750,False,

@@ -1,0 +1,19 @@
+##[group]Installed distributions, 1377.8819064803638, , , , 137200282, False, 
+##[group]Run ./gradlew :app:calculateNativeCacheHash, 291.789890589714, , , , 23109055, True, ##[error]Process completed with exit code 1.
+##[group]Run android-actions/setup-android@v3, 245.52622065291465, , , , 30976297, False, 
+> Task :build-logic:convention:processResources, 216.1633051389817, , , , 9100112, False, 
+##[group]Fetching submodules, 111.33793946701856, , , , 2877271, False, 
+> Task :build-logic:convention:jar, 46.51430812948054, , , , 2301784, False, 
+##[group]Cleaning the repository, 29.81755413973472, , , , 1602599, False, 
+##[group]Persisting credentials for submodules, 23.79700696530428, , , , 505849, False, 
+##[group]Run ncipollo/release-action@v1, 18.257937786624936, , , , 1080236, True, ##[error]Error undefined: No tag found in ref or input!
+##[group]Fetching the repository, 12.971570481837231, , , , 461465, False, 
+##[group]🔖 Resolve tags, 12.616088186838269, , , , 470019, True, ##[error]The process '/usr/bin/git' failed with exit code 128
+##[group]Run actions/cache@v4, 12.403374385569895, , , , 644152, False, 
+##[group]Checking out the ref, 8.919613119866378, , , , 281608, False, 
+##[group]Setting up auth, 7.133416100094315, , , , 242844, False, 
+##[group]GITHUB_TOKEN Permissions, 5.664400855496969, , , , 5615268, False, 
+> Task :build-logic:convention:classes, 3.3315393718171427, , , , 99980, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.7529049839548048, , , , 248568, False, 
+##[group]Run actions/checkout@v4, 2.536396254285464, , , , 141907, False, 
+Requested labels: self-hosted, 0.0, , , , 4674119, False, 

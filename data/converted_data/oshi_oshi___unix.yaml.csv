@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 0.2767135884488657, , , , 5126208, False, 
+##[group]GITHUB_TOKEN Permissions, 4.903159331539337, , , , 2079576, False, 
+##[group]Run actions/checkout@v4, 0.6282999136632862, , , , 152771, False, 
+##[group]Cleaning the repository, 0.3238298983283583, , , , 86052, False, 
+##[group]Setting up auth, 0.3302831926595018, , , , 75313, False, 
+##[group]Fetching the repository, 1.7482153782646617, , , , 509203, False, 
+##[group]Importing VM, 107.81644368380556, , , , 13376980, True, ##[error]The process '/usr/bin/bash' failed with exit code 100

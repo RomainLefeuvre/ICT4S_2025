@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B package,3597.9477683854275,295184080,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce (display-info) on project parent: 
+Requested labels: self-hosted,1936.4371236011016,793721047,False,
+[INFO] --- buildnumber-maven-plugin:3.2.0:create (default) @ parent ---,538.282135440894,48375869,False,
+##[group]GITHUB_TOKEN Permissions,81.61362524629916,4872085,False,
+##[group]Removing previously created refs_ to avoid conflicts,37.14852475547956,764403,False,
+##[group]Cleaning the repository,20.482686945024685,60101,False,
+##[group]Installed distributions,17.37436484168531,316240,False,
+##[group]Run actions/checkout@v2,11.651990935330868,220516,False,
+##[group]Setting up auth,3.27722991120395,86224,False,
+##[group]Fetching the repository,0.0,710423,False,

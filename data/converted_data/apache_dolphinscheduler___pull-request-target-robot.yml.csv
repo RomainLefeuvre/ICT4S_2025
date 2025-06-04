@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 15.123300970781695, , , , 4586656, False, 
+##[group]GITHUB_TOKEN Permissions, 23.29140467776017, , , , 2059898, False, 
+##[group]Run actions/checkout@v4, 2.962180646304786, , , , 202028, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.525727420914908, , , , 132128, False, 
+##[group]Cleaning the repository, 1.5554854860899177, , , , 74282, False, 
+##[group]Setting up auth, 3.2002451677048653, , , , 142544, False, 
+##[group]Fetching the repository, 12.138237139979838, , , , 738004, False, 
+##[group]Checking out the ref, 1.8530661378400168, , , , 44512, False, 
+##[group]Fetching submodules, 3.795406471205062, , , , 186802, False, 
+##[group]Removing auth, 1.9423403333650464, , , , 98445, False, 
+##[group]Run actions/labeler@v4, 1.972098398540056, , , , 106485, False, 
+##[group]Run ./.github/actions/auto-assign-action, 19.355821106311037, , , , 975453, True, ##[error]the webhook payload is not exist

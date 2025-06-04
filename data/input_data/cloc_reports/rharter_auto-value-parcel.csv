@@ -1,0 +1,38 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2009.4 files/s 262838.2 lines/s)"
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/com/ryanharter/auto/value/parcel/AutoValueParcelExtensionTest.java,106,0,2263
+Java,/tmp/clone_directory/auto-value-parcel/src/main/java/com/ryanharter/auto/value/parcel/AutoValueParcelExtension.java,55,3,457
+Java,/tmp/clone_directory/auto-value-parcel/src/main/java/com/ryanharter/auto/value/parcel/Parcelables.java,48,14,429
+Gradle,/tmp/clone_directory/gradle/gradle-mvn-push.gradle,32,15,171
+Text,/tmp/clone_directory/LICENSE.txt,33,0,169
+Bourne Shell,/tmp/clone_directory/gradlew,21,36,126
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,74
+Markdown,/tmp/clone_directory/README.md,26,0,61
+Markdown,/tmp/clone_directory/CHANGELOG.md,32,0,55
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/com/ryanharter/auto/value/parcel/util/TestProcessingEnvironment.java,13,0,52
+Gradle,/tmp/clone_directory/auto-value-parcel/build.gradle,7,4,46
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/com/ryanharter/auto/value/parcel/util/TestMessager.java,7,0,31
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,2,0,20
+Gradle,/tmp/clone_directory/build.gradle,3,0,18
+Markdown,/tmp/clone_directory/RELEASING.md,2,0,13
+Java,/tmp/clone_directory/adapter/src/main/java/com/ryanharter/auto/value/parcel/ParcelAdapter.java,3,17,12
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/com/ryanharter/auto/value/parcel/ParcelAdapter.java,3,0,12
+Properties,/tmp/clone_directory/gradle.properties,4,0,12
+Java,/tmp/clone_directory/auto-value-parcel/src/main/java/com/ryanharter/auto/value/parcel/TypeSimplifier.java,4,0,10
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/os/Parcel.java,3,0,9
+Gradle,/tmp/clone_directory/adapter/build.gradle,3,0,7
+Java,/tmp/clone_directory/adapter/src/main/java/com/ryanharter/auto/value/parcel/TypeAdapter.java,5,45,6
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/com/ryanharter/auto/value/parcel/TypeAdapter.java,5,0,6
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/os/Parcelable.java,3,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Properties,/tmp/clone_directory/adapter/gradle.properties,0,0,3
+Properties,/tmp/clone_directory/auto-value-parcel/gradle.properties,0,0,3
+Java,/tmp/clone_directory/auto-value-parcel/src/main/java/com/ryanharter/auto/value/parcel/AutoValueParcelException.java,1,0,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/os/Bundle.java,1,3,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/os/IBinder.java,1,3,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/os/PersistableBundle.java,1,3,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/util/Size.java,1,3,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/util/SizeF.java,1,3,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/util/SparseArray.java,1,3,3
+Java,/tmp/clone_directory/auto-value-parcel/src/test/java/android/util/SparseBooleanArray.java,1,3,3
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,452,157,4100

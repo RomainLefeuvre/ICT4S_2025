@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 60.83209665163173, , , , 3719769, False, 
+##[group]GITHUB_TOKEN Permissions, 2.1817411693410724, , , , 1256569, False, 
+##[group]Run actions/checkout@v4, 0.4285169641326909, , , , 193022, False, 
+##[group]Cleaning the repository, 0.4612926617356638, , , , 264719, False, 
+##[group]Setting up auth, 0.2388402552685751, , , , 103017, False, 
+##[group]Fetching the repository, 1.276140520350308, , , , 470835, False, 
+##[group]Checking out the ref, 0.2716159528715481, , , , 54058, False, 
+##[group]Run npm install -g markdownlint-cli, 8.626574898447252, , , , 10682047, False, 
+##[group]Run find ./ -name "*.md" | grep -v vendor | grep -v commandline | grep -v .github | grep -v swagger | grep -v api | \\, 6.515527655755214, , , , 515301, True, ##[error]Process completed with exit code 123.

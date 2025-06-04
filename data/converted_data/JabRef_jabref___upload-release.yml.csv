@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 526.0564315957795, , , , 4761891, False, 
+##[group]GITHUB_TOKEN Permissions, 97.9496350826636, , , , 2153404, False, 
+##[group]Run mkdir build, 8.279579966905272, , , , 93662, True, ##[error]Process completed with exit code 1.
+##[group]Run softprops/action-gh-release@v2, 1206.6822805478075, , , , 86584671, True, ##[error]Not Found

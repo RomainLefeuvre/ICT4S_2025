@@ -1,0 +1,1124 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.45 s (2480.1 files/s 440086.6 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,18614
+XML,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/_CodeSignature/CodeResources,0,0,15231
+XML,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/_CodeSignature/CodeResources,0,0,15231
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/tiny_obj_loader.h,236,273,1245
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTNode.java,191,143,1090
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec3.inl,129,14,879
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTNode.mm,169,102,858
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec4.inl,146,14,809
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/fwd.hpp,629,1136,805
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/optional.hpp,236,53,763
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec2.inl,121,14,759
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/_swizzle.hpp,43,56,698
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_common.inl,121,43,685
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/setup.hpp,89,60,679
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/_swizzle_func.hpp,40,8,648
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/packing.inl,100,61,620
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/noise.inl,99,127,582
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/quaternion.inl,114,106,575
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTParticleEmitter.java,122,58,574
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x4.inl,80,36,555
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/matrix.h,180,302,546
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTMaterialManager.mm,89,47,532
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTParticleEmitter.mm,97,54,509
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRONode.h,185,478,500
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_transform.inl,77,4,494
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/MaterialManager.java,70,59,491
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x3.inl,60,11,491
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat3x3.inl,68,11,482
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x2.inl,61,11,473
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat3x4.inl,60,11,461
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec1.inl,85,14,459
+TypeScript,/tmp/clone_directory/components/AR/ViroARScene.tsx,34,50,436
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec4_simd.inl,57,2,422
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat3x2.inl,60,11,421
+TypeScript,/tmp/clone_directory/components/AR/ViroARSceneNavigator.tsx,59,197,411
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat2x2.inl,66,11,407
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/bitfield.inl,109,2,404
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat2x4.inl,60,11,396
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/string_cast.inl,62,2,394
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/platform.h,31,28,393
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat2x3.inl,60,11,387
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTSound.mm,86,54,378
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/io.inl,71,3,367
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTImage.java,58,38,362
+TypeScript,/tmp/clone_directory/components/Viro3DSceneNavigator.tsx,53,118,359
+TypeScript,/tmp/clone_directory/components/ViroSceneNavigator.tsx,52,119,358
+TypeScript,/tmp/clone_directory/components/ViroVRSceneNavigator.tsx,57,116,357
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_matrix.inl,52,2,347
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROLog.h,59,101,333
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARSceneNavigator.js,0,183,332
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPlatformUtil.h,109,116,332
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec4.hpp,99,30,325
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/type_ptr.inl,46,89,315
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROUniform.h,82,38,313
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/associated_min_max.inl,25,20,310
+TypeScript,/tmp/clone_directory/components/ViroParticleEmitter.tsx,16,87,309
+JavaScript,/tmp/clone_directory/dist/components/ViroSceneNavigator.js,0,97,305
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_integer.inl,51,12,305
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/random.inl,45,2,303
+JavaScript,/tmp/clone_directory/dist/components/Viro3DSceneNavigator.js,0,95,302
+JavaScript,/tmp/clone_directory/dist/components/ViroVRSceneNavigator.js,0,95,302
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec3.hpp,94,24,291
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMaterial.h,83,237,286
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/ARSceneNavigatorModule.java,34,33,285
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTText.mm,46,32,284
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/dual_quaternion.inl,54,13,284
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ComponentEventDelegate.java,50,24,283
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/euler_angles.inl,28,2,282
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/ulp.inl,30,10,281
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_gentype.inl,53,10,278
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/round.inl,48,18,278
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARScene.js,0,43,277
+TypeScript,/tmp/clone_directory/plugins/withViroAndroid.ts,23,50,275
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec2.hpp,93,21,274
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRT3DSceneNavigator.java,81,97,273
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTImage.mm,44,34,265
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTNodeManager.java,51,35,259
+TypeScript,/tmp/clone_directory/components/ViroScene.tsx,10,24,256
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRT360Video.java,51,24,253
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTVideoSurface.java,50,21,253
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTText.java,37,31,252
+TypeScript,/tmp/clone_directory/index.ts,1,7,246
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Modules/VRTARTrackingTargetsModule.mm,51,31,241
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARSceneNavigator.mm,52,41,236
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRODeviceUtil.h,43,42,234
+Objective-C++,/tmp/clone_directory/ios/VRTVRSceneNavigator.mm,44,75,223
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTScene.mm,57,54,223
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTScene.java,40,38,220
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/gif_lib.h,49,43,220
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/type_precision.hpp,225,416,220
+TypeScript,/tmp/clone_directory/components/ViroButton.tsx,30,39,218
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/type_aligned.hpp,278,470,218
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/type_trait.hpp,22,15,215
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTManagedAnimation.java,43,79,214
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_int.hpp,52,40,214
+TypeScript,/tmp/clone_directory/components/Types/ViroEvents.ts,50,50,212
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRT3DObject.java,43,31,210
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTAnimatedImage.java,43,30,210
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTMaterialVideo.java,40,23,209
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSkyBox.java,44,22,208
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRT360Image.java,40,20,206
+JavaScript,/tmp/clone_directory/dist/plugins/withViroAndroid.js,2,50,205
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROLight.h,72,127,205
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTComponent.java,42,104,204
+JavaScript,/tmp/clone_directory/dist/components/ViroParticleEmitter.js,0,24,204
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTShadowView.mm,49,31,201
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_geometric.inl,37,10,200
+Objective-C++,/tmp/clone_directory/ios/VRT3DSceneNavigator.mm,49,46,198
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/simd_common.h,32,11,197
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_common_simd.inl,22,14,195
+TypeScript,/tmp/clone_directory/dist/components/Types/ViroEvents.d.ts,0,50,194
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec.hpp,89,293,194
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/NodeModule.java,28,22,193
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/glm.cpp,48,17,192
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTSceneNavigator.mm,48,81,190
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec1.hpp,67,45,190
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARScene.java,49,34,189
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROText.h,36,81,185
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/AnimationManager.java,36,59,181
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROParticleEmitter.h,83,238,181
+TypeScript,/tmp/clone_directory/components/ViroAnimatedImage.tsx,19,39,180
+TypeScript,/tmp/clone_directory/components/ViroController.tsx,19,11,178
+TypeScript,/tmp/clone_directory/components/ViroBase.tsx,24,3,176
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/type_aligned.hpp,78,111,173
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/ARSceneModule.java,25,21,172
+TypeScript,/tmp/clone_directory/components/ViroVideo.tsx,16,31,172
+JavaScript,/tmp/clone_directory/dist/components/ViroScene.js,0,21,170
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARScene.mm,35,29,169
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRT3DObject.mm,41,42,169
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTexture.h,52,154,168
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_integer.hpp,112,206,168
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/quaternion.inl,31,14,167
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_transform.hpp,33,266,166
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/vector_query.inl,25,2,166
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRT360Video.mm,33,29,164
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/ViroKit.h,23,45,164
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Modules/VRTARSceneNavigatorModule.mm,23,28,163
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROGeometry.h,49,143,163
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderContext.h,42,73,163
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat.hpp,145,459,163
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/ViroKit.h,23,45,162
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROGLTFLoader.h,18,59,160
+TypeScript,/tmp/clone_directory/components/Viro3DObject.tsx,16,19,159
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/quaternion.hpp,71,167,159
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/hash.inl,16,11,158
+JavaScript,/tmp/clone_directory/dist/components/ViroImage.js,0,26,156
+TypeScript,/tmp/clone_directory/components/ViroImage.tsx,17,49,155
+JavaScript,/tmp/clone_directory/dist/components/ViroButton.js,2,18,155
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTButton.mm,24,31,155
+JavaScript,/tmp/clone_directory/dist/components/ViroVideo.js,0,11,154
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTVideoSurface.mm,33,35,153
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_major_storage.inl,12,2,153
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTNodeModule.mm,34,32,151
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROInputPresenter.h,46,48,151
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/reciprocal.inl,27,14,151
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTBaseSound.java,32,30,150
+JavaScript,/tmp/clone_directory/dist/components/ViroAnimatedImage.js,0,16,149
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/constants.inl,30,2,149
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/rotate_vector.inl,20,19,149
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderer.h,79,206,147
+Objective-C++,/tmp/clone_directory/ios/VRTManagedAnimation.mm,26,35,145
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_packing.inl,43,2,145
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_trigonometric.inl,39,16,145
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/ARTrackingTargetsModule.java,31,36,144
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROShaderProgram.h,52,139,143
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/intersect.inl,26,2,142
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/ReactViroPackage.java,13,24,141
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROParticleModifier.h,32,76,139
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x4.hpp,47,11,137
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROGeometrySource.h,26,80,136
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRT360Image.mm,26,29,135
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/io.hpp,40,23,134
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROEventDelegate.h,37,75,133
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat3x3.hpp,47,11,132
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ImageDownloader.java,22,46,131
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARSession.h,55,171,131
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyPlayeriOS.h,30,25,131
+TypeScript,/tmp/clone_directory/components/ViroText.tsx,10,20,130
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTSkybox.mm,30,29,130
+Bourne Shell,/tmp/clone_directory/android/gradlew,21,22,129
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/integer.inl,28,25,129
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTLight.mm,48,27,128
+Objective-C++,/tmp/clone_directory/ios/ViroReact/ViroViewManager.mm,37,22,128
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARSession.h,55,171,128
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTMaterialVideo.mm,18,31,127
+TypeScript,/tmp/clone_directory/components/AR/ViroARPlane.tsx,10,16,126
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_interpolation.inl,6,2,126
+JavaScript,/tmp/clone_directory/dist/components/ViroBase.js,0,3,125
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat2x2.hpp,47,11,125
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/quaternion_simd.inl,24,49,125
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/extended_min_max.inl,13,2,125
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x2.hpp,42,11,124
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x3.hpp,42,11,124
+Objective-C++,/tmp/clone_directory/ios/VRTGeometry.mm,23,26,123
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRODriver.h,37,137,123
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTAnimationManager.mm,39,49,122
+JavaScript,/tmp/clone_directory/dist/components/ViroController.js,0,11,121
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTAnimatedComponent.mm,39,30,121
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTPolygon.mm,18,27,121
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_half.inl,41,82,121
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_decompose.inl,31,43,120
+TypeScript,/tmp/clone_directory/components/ViroCamera.tsx,13,14,119
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat3x2.hpp,43,11,119
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat3x4.hpp,42,11,119
+JavaScript,/tmp/clone_directory/dist/index.js,0,5,118
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTView.mm,28,39,118
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_exponential.inl,19,9,118
+TypeScript,/tmp/clone_directory/__test__/infoPlistDefined.ts,4,40,117
+TypeScript,/tmp/clone_directory/components/ViroBox.tsx,9,10,117
+TypeScript,/tmp/clone_directory/components/ViroGeometry.tsx,9,10,117
+TypeScript,/tmp/clone_directory/components/ViroPolyline.tsx,9,16,117
+TypeScript,/tmp/clone_directory/components/ViroSphere.tsx,10,15,117
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyTrackerController.h,46,121,117
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/color_space.inl,16,8,117
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/SceneModule.java,14,21,116
+TypeScript,/tmp/clone_directory/components/AR/ViroARImageMarker.tsx,9,16,116
+TypeScript,/tmp/clone_directory/dist/components/ViroParticleEmitter.d.ts,0,0,116
+JavaScript,/tmp/clone_directory/dist/components/ViroSurface.js,0,17,116
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/dual_quaternion.hpp,63,87,116
+JavaScript,/tmp/clone_directory/dist/components/ViroPolygon.js,0,17,115
+JavaScript,/tmp/clone_directory/dist/components/ViroQuad.js,0,17,115
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROBodyTracker.h,25,43,115
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyTracker.h,25,43,115
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPostProcessEffectFactory.h,21,63,115
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROScene.h,54,148,115
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/associated_min_max.hpp,28,59,115
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTLightingEnvironment.java,23,22,114
+TypeScript,/tmp/clone_directory/components/AR/ViroARObjectMarker.tsx,10,16,114
+TypeScript,/tmp/clone_directory/components/ViroPortalScene.tsx,12,15,114
+JavaScript,/tmp/clone_directory/dist/components/ViroFlexView.js,0,16,114
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROInputControllerBase.h,56,175,114
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat2x4.hpp,42,11,114
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVector3f.h,29,69,113
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/fast_trigonometry.inl,21,9,113
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTFlexView.java,29,41,112
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsBody.h,36,130,112
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/_features.hpp,100,187,112
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/_vectorize.hpp,17,2,112
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat2x3.hpp,42,11,112
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Modules/VRTARSceneModule.mm,13,27,111
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/epsilon.inl,11,3,111
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARSessioniOS.h,49,89,110
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/transform2.inl,14,2,110
+TypeScript,/tmp/clone_directory/components/ViroPolygon.tsx,9,51,109
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/component_wise.inl,17,2,109
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTVRSceneNavigator.java,28,24,108
+JavaScript,/tmp/clone_directory/dist/components/Viro3DObject.js,0,10,108
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTFlexView.mm,26,29,108
+TypeScript,/tmp/clone_directory/plugins/withViroIos.ts,13,1,108
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/SceneNavigatorModule.java,13,21,107
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/VRT3DSceneNavigatorModule.java,11,21,107
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBoundingBox.h,24,70,107
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_operation.inl,9,2,107
+TypeScript,/tmp/clone_directory/components/ViroMaterialVideo.tsx,18,33,106
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAction.h,36,67,106
+TypeScript,/tmp/clone_directory/components/AR/ViroARPlaneSelector.tsx,15,20,105
+TypeScript,/tmp/clone_directory/components/Material/ViroMaterials.ts,11,23,105
+TypeScript,/tmp/clone_directory/components/Viro360Video.tsx,21,36,105
+JavaScript,/tmp/clone_directory/dist/components/ViroCamera.js,0,14,105
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/geometric.h,17,2,105
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/CameraModule.java,17,25,104
+TypeScript,/tmp/clone_directory/components/ViroSurface.tsx,10,17,104
+TypeScript,/tmp/clone_directory/components/AR/ViroCommonProps.ts,7,16,103
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_query.inl,9,2,103
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTARSceneNavigator.java,21,29,102
+TypeScript,/tmp/clone_directory/components/ViroFlexView.tsx,7,16,101
+TypeScript,/tmp/clone_directory/components/ViroQuad.tsx,9,17,101
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_inverse.inl,18,2,100
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSpotLight.java,25,20,99
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/hash.hpp,24,11,99
+TypeScript,/tmp/clone_directory/components/ViroSound.tsx,17,30,98
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARObjectMarker.js,0,16,98
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROOpenGL.h,27,26,98
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/color_space_YCoCg.inl,8,2,98
+TypeScript,/tmp/clone_directory/components/ViroPortal.tsx,9,15,97
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARImageMarker.js,0,16,97
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARPlane.js,0,16,97
+JavaScript,/tmp/clone_directory/dist/components/ViroText.js,0,20,97
+TypeScript,/tmp/clone_directory/components/ViroNode.tsx,8,15,96
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROChoreographer.h,53,153,96
+JavaScript,/tmp/clone_directory/dist/components/ViroBox.js,0,10,95
+JavaScript,/tmp/clone_directory/dist/components/ViroSound.js,0,28,95
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROByteBuffer.h,38,124,95
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_common.hpp,51,281,95
+JavaScript,/tmp/clone_directory/dist/components/ViroOrbitCamera.js,0,14,94
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARSessioniOS.h,38,75,94
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/compatibility.hpp,20,16,94
+TypeScript,/tmp/clone_directory/components/ViroSpatialSound.tsx,15,27,93
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/common.inl,16,3,93
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTAnimatedComponent.java,24,33,92
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARPlaneSelector.js,0,20,92
+JavaScript,/tmp/clone_directory/dist/components/Viro360Video.js,0,16,92
+JavaScript,/tmp/clone_directory/dist/components/ViroPolyline.js,0,10,92
+JavaScript,/tmp/clone_directory/dist/plugins/withViroIos.js,0,1,92
+JavaScript,/tmp/clone_directory/dist/components/ViroPortalScene.js,0,15,91
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/norm.inl,13,2,91
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTTextManager.java,26,20,90
+JavaScript,/tmp/clone_directory/dist/components/ViroGeometry.js,0,10,90
+JavaScript,/tmp/clone_directory/dist/components/ViroSphere.js,0,15,90
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTLightingEnvironment.mm,17,29,90
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMath.h,35,81,90
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSpotLightManager.java,27,20,89
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTPolygonManager.java,22,21,89
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ARUtils.java,14,30,88
+JavaScript,/tmp/clone_directory/dist/components/ViroMaterialVideo.js,0,13,88
+JavaScript,/tmp/clone_directory/dist/components/ViroSpatialSound.js,0,25,87
+JavaScript,/tmp/clone_directory/dist/components/ViroSpinner.js,2,15,87
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTAnimatedImage.mm,17,27,87
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTSoundManager.mm,16,26,86
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRT3DObjectManager.java,21,24,85
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTVideoSurfaceManager.java,24,25,85
+TypeScript,/tmp/clone_directory/components/ViroOrbitCamera.tsx,11,14,85
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARScene.h,30,76,85
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_geometric_simd.inl,12,2,85
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_vector_relational.inl,18,2,85
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARPlane.mm,15,27,84
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROCamera.h,25,67,84
+Markdown,/tmp/clone_directory/CHANGELOG.md,23,0,83
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSpatialSoundManager.java,21,21,83
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARDeclarativePlane.h,13,42,83
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTController.java,19,22,82
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTGeometryManager.java,17,20,82
+JavaScript,/tmp/clone_directory/dist/components/ViroNode.js,0,15,82
+JavaScript,/tmp/clone_directory/dist/components/ViroPortal.js,0,15,82
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPortal.h,56,181,82
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/ext.hpp,10,27,82
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/brdf_fsh.glsl,19,5,82
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTNode.h,22,41,82
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/SoundModule.java,12,30,81
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARSceneNavigator.d.ts,0,178,81
+JavaScript,/tmp/clone_directory/dist/components/ViroSoundField.js,0,25,81
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/quaternion.hpp,25,79,81
+TypeScript,/tmp/clone_directory/components/ViroSoundField.tsx,13,27,80
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARBodyMeshingPointsiOS.h,19,10,80
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROVisionEngine.h,42,126,80
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoTextureiOS.h,31,64,80
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVisionEngine.h,42,126,80
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_matrix.hpp,20,50,79
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTPolygon.java,14,27,78
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTPolyline.java,17,21,78
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTController.mm,18,23,78
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROIKRig.h,39,123,78
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROShaderModifier.h,63,196,78
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/scalar_relational.inl,9,2,78
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTDirectionalLightManager.java,22,20,77
+JavaScript,/tmp/clone_directory/dist/components/Telemetry/index.js,0,20,77
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFBXLoader.h,18,43,77
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFieldOfView.h,20,28,77
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRT360VideoManager.java,19,24,76
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSpatialSound.java,19,21,76
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTQuad.java,14,28,76
+TypeScript,/tmp/clone_directory/components/ViroSpinner.tsx,14,15,76
+Objective-C++,/tmp/clone_directory/ios/VRT3DSceneNavigatorModule.mm,17,27,76
+XML,/tmp/clone_directory/ios/ViroReact.xcworkspace/xcshareddata/xcschemes/ViroReact.xcscheme,0,0,76
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTSceneNavigatorModule.mm,17,27,76
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVector4f.h,18,49,76
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/prefilter_convolution_fsh.glsl,24,5,76
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTAnimatedImageManager.java,21,24,75
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARImageMarker.mm,15,40,75
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARObjectMarker.mm,15,40,75
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyAnimData.h,27,74,75
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_matrix_simd.inl,11,2,75
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/extended_min_max.hpp,18,40,75
+TypeScript,/tmp/clone_directory/dist/components/Types/ViroUtils.d.ts,0,73,74
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARSceneManager.java,18,20,73
+TypeScript,/tmp/clone_directory/components/Types/ViroUtils.ts,22,74,73
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTSoundModule.mm,11,33,73
+Objective-C,/tmp/clone_directory/ios/ViroReact/Utility/VRTCubeMap.m,17,26,73
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTVideoSurfaceManager.mm,6,26,73
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTQuad.mm,12,26,73
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoTexture.h,27,53,73
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/fast_exponential.inl,16,48,73
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSpatialSoundWrapper.java,21,24,72
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTVRSceneNavigatorManager.java,20,24,72
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/Helper.java,20,35,72
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTSceneModule.mm,8,25,72
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTLightManager.mm,32,28,72
+C/C++ Header,/tmp/clone_directory/ios/ViroReactFramework/ViroReactFramework.h,6,29,72
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTypeface.h,28,66,72
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewRecorder.h,17,32,72
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTMaterialVideoManager.java,18,23,71
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSoundFieldManager.java,18,21,71
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARImageMarker.java,12,34,71
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROGaussianBlurRenderPass.h,31,107,71
+JavaScript,/tmp/clone_directory/dist/components/Telemetry/ViroTelemetry.js,0,19,70
+JavaScript,/tmp/clone_directory/dist/components/Viro360Image.js,0,14,70
+JavaScript,/tmp/clone_directory/dist/components/ViroLightingEnvironment.js,0,14,70
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMatrix4f.h,21,47,70
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/_noise.hpp,14,23,70
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/vec1.hpp,26,68,70
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/euler_angles.hpp,23,50,70
+JSON,/tmp/clone_directory/package.json,0,0,70
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRT3DSceneNavigatorManager.java,22,24,69
+JavaScript,/tmp/clone_directory/dist/components/ViroSkyBox.js,0,17,69
+Objective-C,/tmp/clone_directory/ios/ViroReact/Utility/VRTPhotoLibraryAsyncLoader.m,21,52,69
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROGeometryElement.h,20,49,69
+TypeScript,/tmp/clone_directory/components/Utilities/ViroUtils.tsx,9,41,68
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROOneEuroFilter.h,29,42,68
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewport.h,22,30,68
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/pbr_fsh.glsl,24,31,68
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARPlane.java,15,20,67
+TypeScript,/tmp/clone_directory/components/Telemetry/ViroTelemetry.ts,9,19,67
+TypeScript,/tmp/clone_directory/components/Utilities/ViroProps.tsx,11,32,67
+Objective-C,/tmp/clone_directory/ios/VRTUIImageWrapper.m,13,14,67
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Utility/VRTHDRImageAsyncLoader.mm,16,38,67
+Objective-C,/tmp/clone_directory/ios/ViroReact/Utility/VRTUIImageWrapper.m,13,33,67
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTTextManager.mm,8,26,67
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMorpher.h,36,138,67
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/constants.hpp,35,74,67
+JSON,/tmp/clone_directory/tsconfig.json,7,0,67
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSoundManager.java,16,20,66
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTransaction.h,39,118,66
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTOmniLight.java,21,20,65
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTPortalScene.java,16,20,65
+TypeScript,/tmp/clone_directory/components/Viro360Image.tsx,13,37,65
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTPolyline.mm,18,26,65
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTControllerManager.java,18,20,64
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTCamera.java,19,24,64
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTImageManager.java,23,20,64
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/color_space.inl,9,2,64
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/bit.inl,17,12,64
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/standard_vsh.glsl,18,0,64
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTBundleURLProvider.mm,12,27,63
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/packing.hpp,54,462,63
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/integer.h,23,29,63
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/lighting_general_functions_fsh.glsl,20,4,63
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroCommonProps.d.ts,0,16,62
+JSON,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/bodymesh.mlmodelc/metadata.json,2,0,62
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimationQuaternion.h,15,25,62
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimationVector3f.h,15,25,62
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMaterialVisual.h,25,63,62
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsShape.h,16,64,62
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORendererTestHarness.h,13,25,62
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/standard_vsh_adreno.glsl,18,0,62
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTLight.java,22,20,61
+JavaScript,/tmp/clone_directory/dist/components/Material/ViroMaterials.js,1,21,61
+Objective-C,/tmp/clone_directory/ios/ViroReact/AR/VRTARUtils.m,22,28,61
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTPerfMonitor.mm,20,39,61
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/fast_square_root.inl,13,7,61
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTDirectionalLight.java,15,20,60
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/PerfMonitor.java,18,21,60
+TypeScript,/tmp/clone_directory/components/ViroLightingEnvironment.tsx,14,37,60
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTImageManager.mm,5,26,60
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VRORendererTestHarness.h,13,25,60
+JSON,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/hourglass_2_1.mlmodelc/metadata.json,2,0,60
+JSON,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/hourglass_2_1_ds_t.mlmodelc/metadata.json,2,0,60
+JSON,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/hourglass_2_1_t.mlmodelc/metadata.json,2,0,60
+DOS Batch,/tmp/clone_directory/android/gradlew.bat,23,2,59
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTSceneManager.java,14,23,59
+TypeScript,/tmp/clone_directory/components/Animation/ViroAnimations.ts,7,11,59
+JavaScript,/tmp/clone_directory/dist/components/Utilities/ViroUtils.js,0,28,59
+TypeScript,/tmp/clone_directory/dist/components/ViroVRSceneNavigator.d.ts,0,97,59
+TypeScript,/tmp/clone_directory/components/ViroSkyBox.tsx,12,17,58
+TypeScript,/tmp/clone_directory/dist/components/Viro3DSceneNavigator.d.ts,0,99,58
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTAnimatedImageManager.mm,6,25,58
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimBodyDataiOS.h,10,26,58
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimationFloat.h,15,25,58
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/standard_fsh.glsl,15,0,58
+TypeScript,/tmp/clone_directory/dist/index.d.ts,0,5,57
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTCameraModule.mm,12,26,57
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARDeclarativeNode.h,20,71,57
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAllocationTracker.h,12,25,57
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSceneController.h,17,33,57
+CMake,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/CMakeLists.txt,10,0,57
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_major_storage.hpp,18,40,57
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/rotate_vector.hpp,17,43,57
+JavaScript,/tmp/clone_directory/dist/components/Utilities/ViroProps.js,3,32,56
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROEventDelegateiOS.h,15,41,56
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_integer.hpp,18,129,56
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/integer.inl,11,4,56
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/round.hpp,23,95,56
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/type_ptr.hpp,23,70,56
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_transform_2d.inl,10,3,56
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTGeometry.java,16,20,55
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTParticleEmitterManager.java,15,24,55
+JavaScript,/tmp/clone_directory/dist/components/ViroAnimatedComponent.js,0,17,55
+TypeScript,/tmp/clone_directory/dist/components/ViroSceneNavigator.d.ts,0,88,55
+Objective-C,/tmp/clone_directory/ios/ViroReact/Utility/VRTImageAsyncLoader.m,11,32,55
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROLineSegment.h,40,154,55
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROView.h,17,30,55
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/compatibility.inl,7,3,55
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/range.hpp,15,15,55
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTSphere.java,12,20,54
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARSceneManager.mm,9,26,54
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTFlexViewManager.mm,9,26,54
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSceneDelegateiOS.h,8,39,54
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSound.h,15,28,54
+TypeScript,/tmp/clone_directory/__test__/noInfoPlistDefined.ts,3,40,53
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTOmniLightManager.java,15,20,53
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/HdrImageDownloader.java,15,31,53
+TypeScript,/tmp/clone_directory/dist/components/Material/ViroMaterials.d.ts,0,11,53
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRT3DObjectManager.mm,5,26,53
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTSphere.mm,12,25,53
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimationGroup.h,19,29,53
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyPlayer.h,13,38,53
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_access.inl,8,2,53
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/spline.inl,8,2,53
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSceneNavigatorManager.java,15,24,52
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARNode.java,11,21,52
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARScene.d.ts,0,20,52
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPolyline.h,20,54,52
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROReticle.h,20,56,52
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_integer_simd.inl,14,2,52
+Gradle,/tmp/clone_directory/android/viro_bridge/build.gradle,4,0,51
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSoundField.java,16,20,51
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTViroViewGroupManager.java,17,34,51
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/ControllerModule.java,5,21,51
+TypeScript,/tmp/clone_directory/components/ViroAnimatedComponent.tsx,11,17,51
+Objective-C++,/tmp/clone_directory/ios/VRTGeometryManager.mm,6,26,51
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTSphereManager.mm,6,25,51
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROQuaternion.h,46,101,51
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundGVR.h,18,37,51
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/precision.hpp,10,2,51
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_gentype.hpp,31,113,51
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/color_encoding.inl,12,2,51
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTQuadManager.java,16,21,50
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTBoxManager.mm,7,26,50
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTPolygonManager.mm,7,25,50
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTPortalManager.mm,6,26,50
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTPortalSceneManager.mm,7,26,50
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTQuadManager.mm,6,26,50
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPropertyAnimation.h,17,37,50
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/transform2.hpp,17,40,50
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTARSceneNavigatorManager.java,16,25,49
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARPlaneManager.java,15,20,49
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTPortalScene.mm,15,26,49
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTViewContainerManager.mm,6,26,49
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARDeclarativeSession.h,23,46,49
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARImageTarget.h,18,33,49
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSkinner.h,39,118,49
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/bitfield.hpp,32,126,49
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/scalar_multiplication.hpp,9,11,49
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/vector_angle.inl,6,3,49
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARAnchor.h,21,70,48
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/wrap.inl,8,2,48
+TypeScript,/tmp/clone_directory/dist/components/ViroAnimatedImage.d.ts,0,21,47
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTPolylineManager.mm,4,26,47
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROOBJLoader.h,11,31,47
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSurface.h,19,37,47
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSound.h,19,27,47
+JavaScript,/tmp/clone_directory/dist/components/ViroAmbientLight.js,0,17,46
+JavaScript,/tmp/clone_directory/dist/components/ViroDirectionalLight.js,0,17,46
+JavaScript,/tmp/clone_directory/dist/components/ViroOmniLight.js,0,17,46
+JavaScript,/tmp/clone_directory/dist/components/ViroSpotLight.js,0,17,46
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORendererTest.h,11,25,46
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSparseBitSet.h,19,57,46
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/rotate_normalized_axis.inl,10,3,46
+TypeScript,/tmp/clone_directory/dist/components/Animation/ViroAnimations.d.ts,0,11,45
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARPlaneAnchor.h,17,51,45
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimatedTextureOpenGL.h,21,83,45
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAudioPlayeriOS.h,18,48,45
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/intersect.hpp,12,30,45
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRT360ImageManager.java,14,20,44
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARPlaneManager.mm,6,26,44
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARAnchorNode.mm,11,27,44
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARConstraintMatcher.h,29,69,44
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimationChain.h,19,30,44
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRONodeCamera.h,19,63,44
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsWorld.h,21,94,44
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTAnimatedComponentManager.java,14,20,43
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/gif_lib_private.h,12,4,43
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/extend.inl,4,2,43
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/skinning_vsh.glsl,11,2,43
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTSphereManager.java,13,24,42
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTSceneManager.mm,11,26,42
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFixedParticleEmitter.h,17,73,42
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSkyBoxManager.java,14,23,41
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTSound.java,12,20,41
+TypeScript,/tmp/clone_directory/components/ViroSpotLight.tsx,8,18,41
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARImageMarkerManager.mm,6,26,41
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARObjectMarkerManager.mm,7,26,41
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VROTextManager.mm,11,8,41
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTCamera.mm,12,26,41
+Bourne Shell,/tmp/clone_directory/prepare_release.sh,10,4,41
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Utility/VRTARHitTestUtil.mm,10,25,40
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTHUDComponent.mm,11,26,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARFrameiOS.h,15,26,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARFrameiOS.h,15,26,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROExecutableAnimation.h,19,46,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROHitTestResult.h,16,25,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsContactResultCallback.h,10,33,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewAR.h,19,58,40
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/norm.hpp,14,32,40
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTImage.h,10,26,40
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTAmbientLightManager.java,14,20,39
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARSceneDelegateiOS.h,13,25,39
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyTrackeriOS.h,21,59,39
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundDelegateiOS.h,13,25,39
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTAmbientLight.java,12,20,38
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTBoxManager.java,13,24,38
+TypeScript,/tmp/clone_directory/components/ViroDirectionalLight.tsx,9,18,38
+JavaScript,/tmp/clone_directory/dist/components/Types/ViroEvents.js,0,12,38
+TypeScript,/tmp/clone_directory/dist/components/ViroButton.d.ts,0,24,38
+JavaScript,/tmp/clone_directory/dist/components/ViroSceneContext.js,0,0,38
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_geometric.hpp,13,62,38
+TypeScript,/tmp/clone_directory/__test__/withViro.test.ts,3,1,37
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ViroEvents.java,3,25,37
+TypeScript,/tmp/clone_directory/components/AR/ViroARTrackingTargets.tsx,11,30,37
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARCamera.js,0,12,37
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimation.h,17,49,37
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_trigonometric.hpp,20,119,37
+Markdown,/tmp/clone_directory/README.md,16,0,36
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARImageMarkerManager.java,13,20,36
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTBox.java,9,20,36
+JavaScript,/tmp/clone_directory/dist/components/AR/ViroARTrackingTargets.js,0,17,36
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrustum.h,18,66,36
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionCubicBezier.h,15,25,36
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_operation.hpp,15,33,36
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARSceneNavigator.h,10,26,36
+TypeScript,/tmp/clone_directory/plugins/withViro.ts,7,32,36
+Objective-C,/tmp/clone_directory/ios/ViroReact/Utility/VRTTreeNode.m,12,31,35
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARImageTarget.h,13,33,35
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROModelIOUtil.h,19,68,35
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundDataGVR.h,9,25,35
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROStringUtil.h,24,59,35
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTriangle.h,19,56,35
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/closest_point.inl,7,4,35
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTLight.h,9,26,35
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARObjectMarkerManager.java,12,22,34
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTFlexViewManager.java,9,20,34
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTOrbitCameraManager.java,10,20,34
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTPolylineManager.java,11,20,34
+TypeScript,/tmp/clone_directory/dist/components/ViroCamera.d.ts,0,11,34
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRT360VideoManager.mm,7,26,34
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTBox.mm,9,26,34
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARFrameInertial.h,14,26,34
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/random.hpp,13,51,34
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/VRTLightingEnvironmentManager.java,9,20,33
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTUtils.mm,5,30,33
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROCameraTexture.h,15,45,33
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRODefines.h,9,26,33
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoSurface.h,13,25,33
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/reciprocal.hpp,18,84,33
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/fast_exponential.hpp,18,40,33
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_cross_product.inl,3,2,33
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/VROPolygon.h,13,47,33
+Markdown,/tmp/clone_directory/readmes/INSTALL.md,28,0,33
+TypeScript,/tmp/clone_directory/components/ViroOmniLight.tsx,8,17,32
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTParticleEmitterManager.mm,7,26,32
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROInputType.h,5,28,32
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROParticleUBO.h,17,67,32
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsMotionState.h,10,31,32
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPlane.h,14,31,32
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_float.hpp,13,22,32
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/glm.hpp,6,50,32
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/gradient_paint.inl,3,2,32
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTText.h,9,26,32
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTView.h,13,43,32
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTPortalSceneManager.java,10,20,31
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARPlaneSelector.d.ts,0,15,31
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTMaterialVideoManager.mm,5,26,31
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTShadowFlexView.mm,8,30,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROBodyTrackerYolo.h,15,25,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARFrame.h,17,72,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARHitTestResult.h,17,58,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyTrackerYolo.h,15,25,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMaterialSubstrate.h,13,55,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROShapeUtils.h,11,39,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTransformDelegate.h,7,32,31
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/spline.hpp,9,21,31
+Gradle,/tmp/clone_directory/android/build.gradle,3,6,30
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTCameraManager.java,10,20,30
+TypeScript,/tmp/clone_directory/dist/components/Viro360Video.d.ts,0,23,30
+TypeScript,/tmp/clone_directory/dist/components/ViroBase.d.ts,0,0,30
+JavaScript,/tmp/clone_directory/dist/plugins/util/insertLinesHelper.js,0,3,30
+Objective-C++,/tmp/clone_directory/ios/VRTVRSceneNavigatorManager.mm,9,26,30
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/AR/Modules/VRTARTrackingTargetsModule.h,26,75,30
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARCamera.h,13,54,30
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/epsilon.hpp,10,33,30
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_transform_2d.hpp,12,36,30
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/polar_coordinates.inl,5,2,30
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/DisplayRotationListener.java,9,25,29
+TypeScript,/tmp/clone_directory/components/ViroAmbientLight.tsx,8,17,29
+TypeScript,/tmp/clone_directory/dist/components/ViroMaterialVideo.d.ts,0,28,29
+Objective-C++,/tmp/clone_directory/ios/VRT3DSceneNavigatorManager.mm,8,26,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARImageAnchor.h,12,25,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsBodyDelegate.h,10,41,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderPass.h,13,48,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTaskQueue.h,17,53,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoDelegateiOS.h,12,25,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/color_space.hpp,12,27,29
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/fast_square_root.hpp,15,44,29
+TypeScript,/tmp/clone_directory/plugins/util/insertLinesHelper.ts,1,3,29
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,18,0,28
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/module/VRTImageModule.java,8,21,28
+TypeScript,/tmp/clone_directory/dist/components/ViroController.d.ts,0,0,28
+TypeScript,/tmp/clone_directory/dist/components/ViroScene.d.ts,0,8,28
+TypeScript,/tmp/clone_directory/dist/components/ViroSpatialSound.d.ts,0,0,28
+TypeScript,/tmp/clone_directory/dist/components/ViroVideo.d.ts,0,21,28
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARNodeDelegateiOS.h,11,25,28
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROConcurrentBuffer.h,15,43,28
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROParticle.h,17,46,28
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPencil.h,10,42,28
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSortKey.h,24,101,28
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_exponential_simd.inl,5,2,28
+TypeScript,/tmp/clone_directory/dist/components/ViroSpotLight.d.ts,0,3,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBodyMesher.h,13,45,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROData.h,15,42,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrameTimer.h,14,47,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROInputPresenterCardboardiOS.h,7,24,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPoseFilter.h,17,59,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTypefaceCollection.h,14,55,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_access.hpp,10,22,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/noise.hpp,9,24,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/bit.hpp,17,51,27
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_query.hpp,14,32,27
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTOrbitCamera.java,9,20,26
+TypeScript,/tmp/clone_directory/dist/plugins/withViro.d.ts,0,32,26
+JavaScript,/tmp/clone_directory/dist/plugins/withViro.js,0,9,26
+C/C++ Header,/tmp/clone_directory/ios/VRT3DSceneNavigator.h,8,26,26
+XML,/tmp/clone_directory/ios/ViroReactFramework/Info.plist,0,0,26
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROCameraTextureiOS.h,15,39,26
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrameScheduler.h,16,58,26
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROThreadRestricted.h,16,52,26
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/integer.hpp,12,64,26
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_interpolation.hpp,10,25,26
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/constant_q_fsh.glsl,10,0,26
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/constant_q_fsh_adreno.glsl,10,0,26
+JavaScript,/tmp/clone_directory/dist/components/ViroConstants.js,0,15,25
+TypeScript,/tmp/clone_directory/dist/components/ViroImage.d.ts,0,24,25
+C/C++ Header,/tmp/clone_directory/ios/VRTVRSceneNavigator.h,7,26,25
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Modules/VRTControllerModule.mm,6,25,25
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTSceneNavigatorManager.mm,8,26,25
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTPortal.mm,10,26,25
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/irradiance_convolution_fsh.glsl,12,13,25
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROImage.h,17,49,25
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSkeletalAnimationLayer.h,14,33,25
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSkeletonRenderer.h,11,28,25
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_vector_relational.hpp,14,72,25
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/functions.inl,4,2,25
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/fast_trigonometry.hpp,14,36,25
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/vector_angle.hpp,9,26,25
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/irradiance_convolution_fsh.glsl,12,13,25
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTMaterialManager.h,12,26,25
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTControl.java,8,24,24
+TypeScript,/tmp/clone_directory/dist/components/ViroDirectionalLight.d.ts,0,3,24
+TypeScript,/tmp/clone_directory/dist/components/ViroSound.d.ts,0,3,24
+XML,/tmp/clone_directory/ios/ViroReactFrameworkTests/Info.plist,0,0,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARImageTargetiOS.h,12,25,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARImageTargetiOS.h,12,25,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARPointCloud.h,9,33,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPortalDelegateiOS.h,8,37,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPortalFrame.h,21,76,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderMetadata.h,10,39,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSphere.h,12,25,24
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_exponential.hpp,12,67,24
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/constant_fsh.glsl,9,0,24
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/constant_fsh_adreno.glsl,9,0,24
+TypeScript,/tmp/clone_directory/dist/components/Viro360Image.d.ts,0,23,23
+TypeScript,/tmp/clone_directory/dist/components/Viro3DObject.d.ts,0,13,23
+TypeScript,/tmp/clone_directory/dist/components/ViroSoundField.d.ts,0,0,23
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTOrbitCamera.mm,10,26,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARDeclarativeImageNode.h,9,29,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARDeclarativeObjectNode.h,9,29,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARNode.h,13,39,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAudioPlayer.h,10,25,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROInputControllerCardboardiOS.h,9,24,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPortalTraversalListener.h,13,36,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderParameters.h,9,29,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/ulp.hpp,12,28,23
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/handed_coordinate_space.inl,2,2,23
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/vector_query.hpp,12,27,23
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARScene.h,10,26,23
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTScene.h,7,26,23
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTPortal.java,7,20,22
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTHUD.mm,8,27,22
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROConstraint.h,7,25,22
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROImageiOS.h,11,29,22
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/color_space.hpp,10,24,22
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/component_wise.hpp,12,31,22
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/number_precision.hpp,12,23,22
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/orthonormalize.inl,6,2,22
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSceneNavigator.h,7,26,22
+TypeScript,/tmp/clone_directory/dist/components/ViroText.d.ts,0,4,21
+Objective-C++,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARSceneNavigatorManager.mm,6,26,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Headers/VROARObjectTargetiOS.h,12,25,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARImageDatabase.h,8,24,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARObjectTargetiOS.h,12,25,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBillboardConstraint.h,12,25,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBoneConstraint.h,7,38,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPhysicsBodyDelegateiOS.h,6,33,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTextureUtil.h,13,45,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTransformDelegateiOS.h,8,27,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/gif_hash.h,10,8,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/functions.hpp,9,23,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/color_space_YCoCg.hpp,10,25,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/gradient_paint.hpp,8,19,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/integer.hpp,16,35,21
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/rotate_normalized_axis.hpp,8,35,21
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ViroLog.java,9,20,20
+JavaScript,/tmp/clone_directory/dist/components/Animation/ViroAnimations.js,0,11,20
+TypeScript,/tmp/clone_directory/dist/components/ViroAnimatedComponent.d.ts,0,3,20
+TypeScript,/tmp/clone_directory/dist/components/ViroOrbitCamera.d.ts,0,0,20
+TypeScript,/tmp/clone_directory/dist/components/ViroSkyBox.d.ts,0,3,20
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTControllerManager.mm,5,25,20
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROBox.h,12,25,20
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrustumPlane.h,9,25,20
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROGeometryUtil.h,9,41,20
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSkybox.h,11,25,20
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionBounce.h,6,25,20
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/transform.hpp,9,27,20
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTVideoSurface.h,5,26,20
+TypeScript,/tmp/clone_directory/components/ViroConstants.ts,3,15,19
+TypeScript,/tmp/clone_directory/dist/components/ViroConstants.d.ts,0,12,19
+TypeScript,/tmp/clone_directory/dist/components/ViroLightingEnvironment.d.ts,0,23,19
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VROHUDManager.mm,11,27,19
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTAnimatedComponentManager.mm,7,25,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrustumBoxIntersectionMetadata.h,11,34,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunction.h,10,25,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionEaseInEaseOut.h,8,25,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTree.h,8,25,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_packing.hpp,17,132,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/closest_point.hpp,8,18,19
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/handed_coordinate_space.hpp,8,19,19
+TypeScript,/tmp/clone_directory/components/AR/ViroARCamera.tsx,3,12,18
+TypeScript,/tmp/clone_directory/dist/components/ViroOmniLight.d.ts,0,3,18
+C/C++ Header,/tmp/clone_directory/ios/VRTManagedAnimation.h,8,41,18
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRT360ImageManager.mm,6,26,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARObjectTarget.h,9,25,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROMaterialAnimation.h,11,28,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionEaseIn.h,8,25,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionEaseOut.h,8,25,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_decompose.hpp,7,17,18
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/optimum_pow.inl,3,2,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/std_based_type.hpp,14,31,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/string_cast.hpp,8,21,18
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/transform.inl,4,2,18
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/wrap.hpp,10,23,18
+Ruby,/tmp/clone_directory/ios/ViroReact.podspec,2,0,17
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Views/VRTMaterialVideo.h,4,26,17
+Objective-C,/tmp/clone_directory/ios/ViroReactFrameworkTests/ViroReactFrameworkTests.m,9,32,17
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTorusKnot.h,10,25,17
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/matrix_inverse.hpp,8,24,17
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/log_base.hpp,8,19,17
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/optimum_pow.hpp,9,24,17
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/surface_functions_fsh.glsl,3,0,17
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRT360Video.h,5,26,17
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTHDRImageAsyncLoader.h,5,30,17
+C/C++ Header,/tmp/clone_directory/ios/dist/include/ViroViewManager.h,8,20,17
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTNodeManagerImpl.java,6,23,16
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTPortalManager.java,8,20,16
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTSceneManagerImpl.java,7,24,16
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARPlane.d.ts,0,14,16
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTSkyboxManager.mm,6,26,16
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Views/VRTParticleEmitter.h,5,26,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARObjectAnchor.h,6,25,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROImageUtil.h,7,25,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPoseFilterEuro.h,9,29,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundData.h,9,25,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoTextureCache.h,11,34,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/_fixes.hpp,7,7,16
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/common.hpp,8,29,16
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/equirect_to_cube_fsh.glsl,4,0,16
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTAnimationManager.h,10,26,16
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTController.h,7,25,16
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTCubeMap.h,8,26,16
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTQuadEmitter.h,5,7,16
+YAML,/tmp/clone_directory/.github/workflows/npm-release.yml,2,2,15
+JSON,/tmp/clone_directory/.release-it.json,0,0,15
+Markdown,/tmp/clone_directory/ISSUE_TEMPLATE.md,7,0,15
+TypeScript,/tmp/clone_directory/components/ViroSceneContext.tsx,1,0,15
+TypeScript,/tmp/clone_directory/dist/components/ViroAmbientLight.d.ts,0,3,15
+TypeScript,/tmp/clone_directory/dist/components/ViroPortalScene.d.ts,0,14,15
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTLog.mm,6,25,15
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTLabelShadowView.mm,5,27,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARShadow.h,12,34,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAnimatable.h,7,29,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROHDRLoader.h,9,32,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionPowerDeceleration.h,11,41,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/matrix_cross_product.hpp,8,20,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/orthonormalize.hpp,8,22,15
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/polar_coordinates.hpp,8,21,15
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRT360Image.h,5,26,15
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTShadowView.h,12,30,15
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/control/VRTControlManager.java,7,20,14
+TypeScript,/tmp/clone_directory/dist/components/Utilities/ViroUtils.d.ts,0,41,14
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTCameraManager.mm,5,26,14
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTLightingEnvironmentManager.mm,6,25,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROPortalDelegate.h,3,28,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderDelegate.h,7,25,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORenderToTextureDelegate.h,6,33,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTransformConstraint.h,10,25,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoDelegateInternal.h,7,25,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/extend.hpp,7,17,14
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/log_base.inl,2,2,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/mixed_product.hpp,7,16,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/normal.hpp,7,18,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/perpendicular.hpp,7,18,14
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/raw_data.hpp,10,23,14
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTAnimatedComponent.h,5,26,14
+Handlebars,/tmp/clone_directory/changelog-template.hbs,3,0,13
+TypeScript,/tmp/clone_directory/dist/components/ViroPolygon.d.ts,0,38,13
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Utility/VRTPhotoLibraryAsyncLoader.h,8,26,13
+Ruby,/tmp/clone_directory/ios/dist/ViroRenderer/ViroKit.podspec,0,0,13
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARSceneController.h,5,25,13
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewScene.h,9,39,13
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/mixed_product.inl,1,2,13
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/normal.inl,1,2,13
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/normalize_dot.hpp,8,24,13
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/normalize_dot.inl,2,2,13
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSkybox.h,5,26,13
+TypeScript,/tmp/clone_directory/dist/components/ViroGeometry.d.ts,0,9,12
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Views/VRTLightingEnvironment.h,6,25,12
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROARDeclarativeNodeDelegate.h,8,36,12
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROAtomic.h,8,26,12
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VRORendererConfiguration.h,4,25,12
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTimingFunctionLinear.h,6,25,12
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/perpendicular.inl,1,2,12
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/exponential.h,6,2,12
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRT3DObject.h,6,26,12
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTCamera.h,8,26,12
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTLightManager.h,15,26,12
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARObjectMarker.d.ts,0,14,11
+TypeScript,/tmp/clone_directory/dist/components/ViroSphere.d.ts,0,14,11
+Objective-C++,/tmp/clone_directory/ios/ViroReact/VRTOrbitCameraManager.mm,5,26,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrameListener.h,8,28,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROFrameSynchronizer.h,9,25,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundDelegateInternal.h,8,28,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVideoDelegate.h,6,25,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_half.hpp,6,2,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/projection.hpp,7,18,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat2x2.hpp,9,32,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat3x3.hpp,9,32,11
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat4x4.hpp,9,32,11
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTHUDComponent.h,9,26,11
+TypeScript,/tmp/clone_directory/dist/components/Telemetry/index.d.ts,0,6,10
+TypeScript,/tmp/clone_directory/dist/components/ViroPolyline.d.ts,0,15,10
+TypeScript,/tmp/clone_directory/dist/components/ViroSpinner.d.ts,0,4,10
+XML,/tmp/clone_directory/ios/ViroReact.xcworkspace/contents.xcworkspacedata,0,0,10
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROTime.h,6,31,10
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewGVR.h,6,25,10
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROVisionModel.h,8,31,10
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/surface_functions_fsh_adreno.glsl,2,0,10
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARAnchorNode.h,8,39,10
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTImageAsyncLoader.h,8,26,10
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARImageMarker.d.ts,0,14,9
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARTrackingTargets.d.ts,0,11,9
+TypeScript,/tmp/clone_directory/dist/components/ViroFlexView.d.ts,0,4,9
+TypeScript,/tmp/clone_directory/dist/components/ViroQuad.d.ts,0,4,9
+TypeScript,/tmp/clone_directory/dist/components/ViroSurface.d.ts,0,4,9
+C/C++ Header,/tmp/clone_directory/ios/VRTGeometry.h,4,26,9
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTControl.mm,5,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROLazyMaterial.h,8,29,9
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROProjector.h,8,32,9
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundDataDelegate.h,8,28,9
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewMetal.h,5,25,9
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/float_notmalize.inl,3,2,9
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/scalar_relational.hpp,8,15,9
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/irradiance_convolution_vsh.glsl,3,0,9
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/prefilter_convolution_vsh.glsl,2,0,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARPlane.h,6,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTBox.h,5,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTFlexView.h,6,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTHUD.h,5,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPerfMonitor.h,7,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPolyline.h,5,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPortalScene.h,7,26,9
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSphere.h,5,25,9
+C/C++ Header,/tmp/clone_directory/ios/VRTUIImageWrapper.h,5,7,8
+XML,/tmp/clone_directory/ios/ViroReact.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Utility/VRTUIImageWrapper.h,5,26,8
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Views/VRTPolygon.h,4,25,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROHoverDistanceListener.h,7,30,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROSoundDelegate.h,5,25,8
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/projection.inl,1,2,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat2x3.hpp,7,17,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat2x4.hpp,6,17,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat3x2.hpp,6,17,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat3x4.hpp,6,17,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat4x2.hpp,6,17,8
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/mat4x3.hpp,6,17,8
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/brdf_vsh.glsl,1,0,8
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/image_vsh.glsl,3,0,8
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTQuad.h,5,26,8
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSoundManager.h,7,26,8
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSurface.h,5,7,8
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTTreeNode.h,5,30,8
+Properties,/tmp/clone_directory/android/gradle/wrapper/gradle-wrapper.properties,0,0,7
+XML,/tmp/clone_directory/android/viro_bridge/src/main/AndroidManifest.xml,3,0,7
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/component/node/VRTARObjectMarker.java,3,20,7
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ImageDownloadListener.java,3,23,7
+Java,/tmp/clone_directory/android/viro_bridge/src/main/java/com/viromedia/bridge/utility/ViroCommands.java,2,20,7
+TypeScript,/tmp/clone_directory/dist/components/AR/ViroARCamera.d.ts,0,0,7
+TypeScript,/tmp/clone_directory/dist/components/ViroSceneContext.d.ts,0,0,7
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/AR/VRTARUtils.h,5,25,7
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARImageMarker.h,6,26,7
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/AR/Views/VRTARObjectMarker.h,6,26,7
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Utility/VRTARHitTestUtil.h,5,25,7
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Views/VRTAnimatedImage.h,5,25,7
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/image_fsh.glsl,5,0,7
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTMaterialChangedDelegate.h,7,25,7
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTOrbitCamera.h,5,26,7
+JavaScript,/tmp/clone_directory/babel.config.js,0,0,6
+TypeScript,/tmp/clone_directory/dist/components/ViroPortal.d.ts,0,14,6
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/Utility/VRTImageAsyncLoaderEventDelegate.h,4,26,6
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/VROViewControllerGVR.h,6,29,6
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VROHUDManager.h,5,26,6
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTLog.h,3,39,6
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSoundModule.h,4,26,6
+C/C++ Header,/tmp/clone_directory/ios/VRT3DSceneNavigatorModule.h,4,26,5
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_packing_simd.inl,2,2,5
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/func_vector_relational_simd.inl,2,2,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRT3DObjectManager.h,3,26,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARSceneManager.h,3,26,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARSceneModule.h,3,26,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTCameraModule.h,3,26,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTControllerModule.h,3,25,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTNodeModule.h,3,25,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPortal.h,4,26,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPortalFrame.h,4,7,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSceneManager.h,3,26,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSceneModule.h,3,25,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSceneNavigatorModule.h,3,25,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTShadowFlexView.h,5,30,5
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTUtils.h,4,28,5
+Properties,/tmp/clone_directory/android/gradle.properties,6,12,4
+JavaScript,/tmp/clone_directory/dist/components/Utilities/ViroVersion.js,0,0,4
+TypeScript,/tmp/clone_directory/dist/components/ViroBox.d.ts,0,9,4
+TypeScript,/tmp/clone_directory/dist/components/ViroNode.d.ts,0,14,4
+TypeScript,/tmp/clone_directory/dist/plugins/withViroIos.d.ts,0,0,4
+C/C++ Header,/tmp/clone_directory/ios/VRT3DSceneNavigatorManager.h,4,26,4
+C/C++ Header,/tmp/clone_directory/ios/VRTGeometryManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/VRTVRSceneNavigatorManager.h,4,26,4
+XML,/tmp/clone_directory/ios/ViroReact.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,4
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARImageMarkerManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/AR/Managers/VRTARObjectMarkerManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/VRTAnimatedImageManager.h,3,25,4
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/VRTLightingEnvironmentManager.h,3,25,4
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/VRTMaterialVideoManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/ViroReact/VRTParticleEmitterManager.h,3,26,4
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTNodeContainer.mm,3,26,4
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/dummy.cpp,20,183,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRT360ImageManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRT360VideoManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARPlaneManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARSceneNavigatorManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTARSceneNavigatorModule.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTAnimatedComponentManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTAnimatedComponentShadowView.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTBoxManager.h,2,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTBundleURLProvider.h,2,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTCameraManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTControl.h,4,27,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTControllerManager.h,2,25,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTFlexViewManager.h,2,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTImageManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTLabelShadowView.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTNodeContainer.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTNodeContainerShadowView.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTOrbitCameraManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPolygonManager.h,2,25,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPolylineManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPortalFrameManager.h,3,7,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPortalManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTPortalSceneManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTQuadEmitterManager.h,3,7,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTQuadManager.h,2,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSceneNavigatorManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSceneShadowView.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSkyboxManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSphereManager.h,3,25,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTSurfaceManager.h,2,7,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTTextManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTVideoSurfaceManager.h,3,26,4
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTViewContainerManager.h,3,26,4
+TypeScript,/tmp/clone_directory/jest.config.ts,55,140,4
+XML,/tmp/clone_directory/android/viro_bridge/src/main/res/values/strings.xml,0,0,3
+TypeScript,/tmp/clone_directory/components/Styles/ViroStyle.ts,2,18,3
+TypeScript,/tmp/clone_directory/components/Styles/ViroTextStyle.ts,2,14,3
+TypeScript,/tmp/clone_directory/dist/components/Styles/ViroTextStyle.d.ts,0,14,3
+TypeScript,/tmp/clone_directory/dist/plugins/withViroAndroid.d.ts,0,0,3
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTAnimatedComponentShadowView.mm,3,26,3
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTNodeContainerShadowView.mm,3,26,3
+Objective-C++,/tmp/clone_directory/ios/ViroReact/Views/VRTSceneShadowView.mm,3,26,3
+XML,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/Info.plist,0,0,3
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat4x4_simd.inl,2,2,3
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/type_precision.inl,2,2,3
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/number_precision.inl,2,2,3
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/std_based_type.inl,2,2,3
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/type_aligned.inl,2,2,3
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/packing.h,3,2,3
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/trigonometric.h,4,2,3
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/simd/vector_relational.h,3,2,3
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/particles_fsh.glsl,0,1,3
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/particles_vsh.glsl,0,1,3
+Gradle,/tmp/clone_directory/android/arcore_client/build.gradle,0,0,2
+Gradle,/tmp/clone_directory/android/gvr_common/build.gradle,0,0,2
+Markdown,/tmp/clone_directory/android/react_viro/README.md,2,0,2
+Gradle,/tmp/clone_directory/android/react_viro/build.gradle,0,0,2
+Gradle,/tmp/clone_directory/android/viro_renderer/build.gradle,2,0,2
+TypeScript,/tmp/clone_directory/dist/components/Styles/ViroStyle.d.ts,0,7,2
+JavaScript,/tmp/clone_directory/dist/components/Styles/ViroStyle.js,0,11,2
+JavaScript,/tmp/clone_directory/dist/components/Styles/ViroTextStyle.js,0,11,2
+JavaScript,/tmp/clone_directory/dist/components/Types/ViroUtils.js,0,0,2
+Text,/tmp/clone_directory/ios/README.txt,0,0,2
+XML,/tmp/clone_directory/ios/dist/ViroRenderer/armv7_arm64/ViroKit.framework/ARCoreResources.bundle/Info.plist,0,0,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/common.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/exponential.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/geometric.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/integer.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/matrix.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/packing.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/trigonometric.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/vec2.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/vec3.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/vec4.hpp,2,2,2
+C/C++ Header,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/vector_relational.hpp,2,2,2
+XML,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Info.plist,0,0,2
+Gradle,/tmp/clone_directory/android/settings.gradle,0,0,1
+JavaScript,/tmp/clone_directory/app.plugin.js,0,0,1
+TypeScript,/tmp/clone_directory/components/Utilities/ViroVersion.ts,0,0,1
+TypeScript,/tmp/clone_directory/dist/components/Utilities/ViroProps.d.ts,0,8,1
+TypeScript,/tmp/clone_directory/dist/components/Utilities/ViroVersion.d.ts,0,0,1
+TypeScript,/tmp/clone_directory/dist/plugins/util/insertLinesHelper.d.ts,0,0,1
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/constant_functions_fsh.glsl,0,0,1
+GLSL,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/constant_functions_fsh_adreno.glsl,0,0,1
+C/C++ Header,/tmp/clone_directory/ios/dist/include/VRTNotifications.h,1,26,1
+ProGuard,/tmp/clone_directory/android/viro_bridge/proguard-rules.pro,2,15,0
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_mat.inl,1,2,0
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/detail/type_vec.inl,0,2,0
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtc/vec1.inl,0,2,0
+C++,/tmp/clone_directory/ios/dist/ViroRenderer/x86_64/ViroKit.framework/Headers/glm/gtx/raw_data.inl,0,2,0
+SUM,,20309,38438,140349

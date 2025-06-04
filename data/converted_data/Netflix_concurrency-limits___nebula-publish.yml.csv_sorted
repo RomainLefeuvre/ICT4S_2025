@@ -1,0 +1,6 @@
+##[group]Run actions/setup-java@v1, 68.67179888160108, , , , 18155703, False, 
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final, 19.748865112091583, , , , 19387418, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 2.6992475528047475, , , , 2409951, False, 
+##[group]Run actions/checkout@v1, 1.469508949315674, , , , 1050180, False, 
+##[group]Run actions/cache@v1, 1.1640305000907194, , , , 62413, False, 
+Requested labels: self-hosted, 0.2402064599360013, , , , 3944321, False, 

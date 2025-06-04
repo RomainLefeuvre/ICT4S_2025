@@ -1,0 +1,8 @@
+##[group]Run cycjimmy/semantic-release-action@v3.4.1, 408.38175829795057, , , , 73063738, True, ##[error]SemanticReleaseError: Cannot push to the Git repository.
+##[group]GITHUB_TOKEN Permissions, 79.38572719962004, , , , 4240454, False, 
+##[group]Run gradle/wrapper-validation-action@v1.1.0, 16.837112473216134, , , , 1205012, False, 
+##[group]Run actions/setup-node@v2, 7.772667617763845, , , , 468676, False, 
+##[group]Run actions/checkout@v3, 6.226787739278835, , , , 157428, True, ##[error]Input required and not supplied: token
+##[group]Run echo $GPG_KEY_ARMOR | base64 --decode > ./release.asc, 4.672129996579724, , , , 185360, True, ##[error]Process completed with exit code 2.
+##[group]Installed distributions, 4.43968446138158, , , , 42914, False, 
+Requested labels: self-hosted, 0.0, , , , 4965555, False, 

@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,137.58955305765528,26050299,False,
+##[group]GITHUB_TOKEN Permissions,110.30629181767296,10891959,False,
+##[group]Pull down action image 'ghcr.io/madhead/read-java-properties:latest',9.755113307715538,11097611,False,
+##[group]Run actions/cache@v4,9.619072693339405,1795531,False,
+##[group]Run tsickert/discord-webhook@v6.0.0,7.155947460553593,1530161,True,##[error]Invalid URL
+##[group]Run SamhammerAG/last-successful-build-action@v4,4.882196257137923,640533,False,
+##[group]Run SamhammerAG/last-successful-build-action@v4__dup_11,4.4008038812520445,617173,False,
+Requested labels: self-hosted,2.4759193191189333,4082927,False,
+##[group]Run gradle/actions/setup-gradle@v3.3.0__dup_18,1.759476819409767,523169,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-all/aan3ydargesu18aqyqjwhr3pc/gradle-8.7-all.zip.lck"
+##[group]Run softprops/action-gh-release@v1,1.157245855217908,398676,True,"##[error]ENOENT: no such file or directory, open 'build/changelog.md'"
+##[group]Run actions/checkout@v4,1.0632131483401652,163299,False,
+##[group]Run gradle/actions/setup-gradle@v3.3.0,1.019848909403227,451660,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.setup-gradle'"
+##[group]Getting Git version info,1.0029858561605618,5826,False,
+##[group]Cleaning the repository,0.9427585639809584,92460,False,
+##[group]Setting up auth,0.8825312718013548,71710,False,
+##[group]Run madhead/read-java-properties@latest,0.7528576933617097,54698,False,
+##[group]Run actions/upload-artifact@v4,0.7484560367200668,288531,False,
+##[group]Checking out the ref,0.6752961740829008,45510,False,
+##[group]Installed distributions,0.1698331091111128,29760,False,

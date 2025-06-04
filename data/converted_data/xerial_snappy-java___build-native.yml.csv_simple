@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,107.8365248812864,2625239,False,
+##[group]Fetching the repository,59.18391209045453,448150,False,
+##[group]Run jwlawson/actions-setup-cmake@v2.0,45.017645995819976,7116886,False,
+##[group]Run actions/checkout@v4,27.322510795494203,139963,False,
+##[group]Run make clean-native native-all,24.9638313931206,8106750,True,##[error]Process completed with exit code 2.
+##[group]Cleaning the repository,13.053097737861702,34410,False,
+##[group]Checking the base repository state,4.630086359630086,436036,False,
+##[group]Restore git configuration,2.2080295044721825,237624,False,
+##[group]Prepare git configuration,1.2043400728700235,116929,False,
+##[group]Configuring credential for HTTPS authentication,1.1909633634521657,68606,False,
+##[group]Create or update the pull request branch,1.1240798163628776,65889,True,##[error]The process '/usr/bin/git' failed with exit code 128

@@ -1,0 +1,8 @@
+##[group]Run mvn -P lint --quiet --batch-mode checkstyle:check, 450.4455767649589, , , , 67103426, False, 
+##[group]GITHUB_TOKEN Permissions, 129.744340412612, , , , 2176603, False, 
+##[group]Fetching the repository, 76.11660048322929, , , , 447024, False, 
+##[group]Run actions/checkout@v3, 20.71232476014342, , , , 158266, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 20.338285951402064, , , , 28501, False, 
+##[group]Setting up auth, 19.96424714266071, , , , 64016, False, 
+##[group]Checking out the ref, 18.09405309895393, , , , 42386, False, 
+Requested labels: self-hosted, 0.1683748031151387, , , , 5243386, False, 

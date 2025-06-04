@@ -1,0 +1,47 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2413.4 files/s 232382.3 lines/s)"
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/TitleBar.java,156,213,652
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_main.xml,48,0,294
+Markdown,/tmp/clone_directory/README.md,86,10,245
+Markdown,/tmp/clone_directory/Adaptive.md,59,21,244
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/style/CommonBarStyle.java,48,10,207
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/TitleBarSupport.java,23,54,184
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/issue_zh_template_bug.yml,1,1,171
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+XML,/tmp/clone_directory/library/src/main/res/values/attrs.xml,8,10,114
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/SelectorDrawable.java,12,13,68
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/issue_zh_template_question.yml,1,1,63
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/issue_zh_template_suggest.yml,1,1,58
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/ITitleBarStyle.java,49,165,57
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/style/LightBarStyle.java,11,6,50
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/style/NightBarStyle.java,11,6,50
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/style/TransparentBarStyle.java,11,6,50
+Gradle,/tmp/clone_directory/app/build.gradle,12,8,48
+Gradle,/tmp/clone_directory/library/build.gradle,10,3,43
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/style/RippleBarStyle.java,6,9,30
+Java,/tmp/clone_directory/app/src/main/java/com/hjq/bar/demo/AppApplication.java,10,2,29
+Gradle,/tmp/clone_directory/build.gradle,3,6,29
+Java,/tmp/clone_directory/app/src/main/java/com/hjq/bar/demo/MainActivity.java,9,6,28
+XML,/tmp/clone_directory/app/src/main/AndroidManifest.xml,5,0,22
+XML,/tmp/clone_directory/library/src/main/res/values/style.xml,2,0,16
+XML,/tmp/clone_directory/library/src/main/res/drawable/bar_arrows_left_black.xml,1,0,15
+XML,/tmp/clone_directory/library/src/main/res/drawable/bar_arrows_left_white.xml,1,0,15
+YAML,/tmp/clone_directory/.github/workflows/android.yml,4,0,11
+YAML,/tmp/clone_directory/.github/FUNDING.yml,1,1,10
+XML,/tmp/clone_directory/app/src/main/res/drawable/shape_gradient.xml,0,0,8
+XML,/tmp/clone_directory/app/src/main/res/values-v21/styles.xml,2,2,8
+XML,/tmp/clone_directory/app/src/main/res/values/styles.xml,2,2,8
+XML,/tmp/clone_directory/app/src/main/res/values/colors.xml,0,0,6
+Java,/tmp/clone_directory/library/src/main/java/com/hjq/bar/OnTitleBarListener.java,4,21,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Properties,/tmp/clone_directory/app/gradle.properties,0,0,4
+XML,/tmp/clone_directory/app/src/main/res/values/strings.xml,0,0,4
+XML,/tmp/clone_directory/library/src/main/res/values/string.xml,0,0,4
+Properties,/tmp/clone_directory/gradle.properties,5,14,3
+XML,/tmp/clone_directory/library/src/main/res/drawable/bar_drawable_placeholder.xml,0,0,2
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,1
+ProGuard,/tmp/clone_directory/app/proguard-rules.pro,0,0,1
+XML,/tmp/clone_directory/library/src/main/AndroidManifest.xml,0,0,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/library/proguard-rules.pro,4,21,0
+SUM,,649,634,3050

@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 80.28442409782363, , , , 4273488, False, 
+##[group]Run gradle/wrapper-validation-action@e6e38bacfdf1a337459f332974bb2327a31aaf4b, 30.53725353623728, , , , 1411081, False, 
+##[group]Run actions/checkout@v3, 11.910992256685471, , , , 1837908, False, 
+##[group]Run gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1, 10.207890088112809, , , , 2002185, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'
+##[group]Fetching the repository, 9.079174832845192, , , , 446493, False, 
+##[group]==END_FILE==, 5.620526932897698, , , , 4450498, False, 
+##[group]Setting up auth, 2.286824729897025, , , , 63252, False, 
+##[group]Installed distributions, 2.2323254605027, , , , 25471, False, 

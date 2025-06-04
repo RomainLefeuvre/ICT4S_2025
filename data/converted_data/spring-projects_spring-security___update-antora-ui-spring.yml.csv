@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 501.46678587503567, , , , 152012666, False, 
+##[group]GITHUB_TOKEN Permissions, 11.31656828412982, , , , 2775409, False, 
+##[group]Run actions/checkout@v4, 6.188666239912038, , , , 181037, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 15.726059312983176, , , , 32437, False, 
+##[group]Setting up auth, 2.779365444694717, , , , 106615, False, 
+##[group]Fetching the repository, 56.85114724616603, , , , 21663200, True, ##[error]The process '/usr/bin/git' failed with exit code 1

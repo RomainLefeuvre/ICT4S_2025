@@ -1,0 +1,13 @@
+##[group]Run mvn --show-version --batch-mode --no-transfer-progress test jacoco:report, 130.2359522134934, , , , 26737154, True, [ERROR] Failed to execute goal org.apache.rat:apache-rat-plugin:0.16.1:check (rat-check) on project commons-lang3: Too many files with unapproved license: 4 See RAT report in: /home/power/actions-runner/_work/commons-lang/commons-lang/target/rat.txt -> [Help 1]
+##[group]Run codecov/codecov-action@5ecb98a3c6b747ed38dc09f787459979aebb39be, 41.12646886198672, , , , 7330320, False, 
+##[group]Run actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9, 12.911725257732629, , , , 1038313, False, 
+##[group]Fetching the repository, 11.315249740816316, , , , 906261, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-maven-version) @ commons-lang3 ---, 7.621204914888668, , , , 888218, False, 
+##[group]GITHUB_TOKEN Permissions, 5.758565673786512, , , , 4007051, False, 
+##[group]Installed distributions, 3.945131859192848, , , , 340046, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-java-version) @ commons-lang3 ---, 1.5753604819837044, , , , 18565, False, 
+##[group]Removing auth, 1.272326662122457, , , , 75763, False, 
+##[group]Checking out the ref, 1.2698138803023498, , , , 77289, False, 
+##[group]Setting up auth, 1.244686062101276, , , , 61499, False, 
+##[group]Run actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b, 1.2421732802811685, , , , 143819, False, 
+Requested labels: self-hosted, 0.4656076452617912, , , , 5410383, False, 

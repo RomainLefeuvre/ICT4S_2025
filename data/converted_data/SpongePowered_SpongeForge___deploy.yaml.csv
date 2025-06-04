@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0931130170716455, , , , 3692871, False, 
+##[group]GITHUB_TOKEN Permissions, 3.196280385685333, , , , 2790173, False, 
+##[group]Run actions/checkout@v2, 0.3224515127071926, , , , 189403, False, 
+##[group]Setting up auth, 0.1653792462450312, , , , 87455, False, 
+##[group]Fetching the repository, 0.6892069175896915, , , , 409925, False, 
+##[group]Setting up auth for fetching submodules, 0.1792242125498145, , , , 24361, False, 
+##[group]Fetching submodules, 0.3667554048824989, , , , 271163, False, 
+##[group]Persisting credentials for submodules, 0.7667387288964775, , , , 344759, False, 
+##[group]Run actions/setup-java@v1, 81.89034090628026, , , , 18236210, False, 
+##[group]Run echo "GIT_COMMIT=${GITHUB_SHA}" >> $GITHUB_ENV, 1.586211626968149, , , , 133535, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-4.10.3-all/81msde2dx9p4vji0mjgtvxkcb/gradle-4.10.3-all.zip.lck
+##[group]Run ./gradlew -s clean build :uploadArchives, 1.579398215525938, , , , 119773, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-4.10.3-all/81msde2dx9p4vji0mjgtvxkcb/gradle-4.10.3-all.zip.lck
+##[group]Run actions/upload-artifact@v2, 1.5725848040837271, , , , 79138, False, 
+##[group]Run actions/upload-artifact@v2__dup_13, 7.760722848785472, , , , 431322, False, 

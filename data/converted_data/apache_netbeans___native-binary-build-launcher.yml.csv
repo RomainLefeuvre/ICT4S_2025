@@ -1,0 +1,25 @@
+Requested labels: self-hosted, 129.32040524667568, , , , 4733737, False, 
+##[group]GITHUB_TOKEN Permissions, 521.3344376404431, , , , 2244703, False, 
+##[group]Run actions/checkout@v4, 29.730446782620124, , , , 251761, False, 
+##[group]Getting Git version info, 9.66714514163453, , , , 184262, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 201.19626977171592, , , , 48161539, False, 
+##[group]Cleaning the repository, 483.7171626735646, , , , 61343532, False, 
+##[group]Setting up auth, 5.294122494246317, , , , 144748, False, 
+##[group]Fetching the repository, 43.93930640593314, , , , 1418010, False, 
+##[group]Determining the checkout info, 7.259965050306011, , , , 187765, False, 
+##[group]Checking out the ref, 15.257121059134402, , , , 365852, False, 
+##[group]Removing auth, 19.532145672994496, , , , 122043, False, 
+##[group]Run SOURCES="nbbuild/build/native/launcher/sources", 17.948244020341463, , , , 553777, False, 
+##[group]Run actions/upload-artifact@v4, 39.4642332131781, , , , 3500457, False, 
+Requested labels: self-hosted__dup_14, 28.40323344329371, , , , 3032679, False, 
+##[group]GITHUB_TOKEN Permissions__dup_15, 63.37340911112853, , , , 2350336, False, 
+##[group]Run sudo apt install mingw-w64 mingw-w64-tools, 23.48496505405003, , , , 842105, True, ##[error]Process completed with exit code 100.
+##[group]Run actions/download-artifact@v4, 39.13155655717818, , , , 1480173, False, 
+##[group]Run echo "Building bootstrap binaries", 1.9784370014613224, , , , 169572, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/upload-artifact@v4__dup_19, 8.991131512662148, , , , 357236, True, ##[error]No files were found with the provided path: platform/o.n.bootstrap/launcher/windows/build/. No artifacts will be uploaded.
+##[group]Run actions/upload-artifact@v4__dup_20, 8.197816368699371, , , , 310155, True, ##[error]No files were found with the provided path: harness/apisupport.harness/windows-launcher-src/build/. No artifacts will be uploaded.
+##[group]Run actions/upload-artifact@v4__dup_21, 16.8951778016162, , , , 336185, True, ##[error]No files were found with the provided path: nb/ide.launcher/windows/build/. No artifacts will be uploaded.
+Requested labels: self-hosted__dup_22, 22.085917580321706, , , , 2850174, False, 
+##[group]GITHUB_TOKEN Permissions__dup_23, 50.92773851820596, , , , 2489627, False, 
+##[group]Run actions/download-artifact@v4__dup_24, 41.39946180698268, , , , 1493191, False, 
+##[group]Run actions/upload-artifact@v4__dup_25, 29.37838124849616, , , , 1766152, False, 

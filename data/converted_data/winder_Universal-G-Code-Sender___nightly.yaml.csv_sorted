@@ -1,0 +1,10 @@
+##[group]Run mvn clean install, 265.32742557573044, , , , 55574337, True, [ERROR[m] Tests run: 3[m, Failures: 0, Errors: 3[m, Skipped: 0, Time elapsed: 0.245 s <<< FAILURE![m - in com.willwinder.universalgcodesender.listeners.LongPressKeyListenerTest[m
+##[group]Run actions/cache@v3, 122.50497816853884, , , , 16485096, False, 
+##[group]GITHUB_TOKEN Permissions, 50.1564703753028, , , , 4244507, False, 
+##[group]Fetching the repository, 35.85464210896127, , , , 431918, False, 
+##[group]Run xresloader/upload-to-github-release@v1, 14.84395525606498, , , , 1290243, True, ##[error]Can not find any file by ugs-classic/target/UniversalGcodeSender.zip,ugs-platform/application/target/macosx-*-ugs-platform-app-*.dmg,ugs-platform/application/target/linux-*-ugs-platform-app*.tar.gz,ugs-platform/application/target/win-ugs-platform-app-*.zip,ugs-platform/application/target/win64-ugs-platform-app-*.zip,ugs-platform/application/target/ugs-platform-app-*.zip
+##[group]Run sudo apt-get install -qq genisoimage, 8.449791608814667, , , , 4698898, True, [ERROR[m] Failed to execute goal on project ugs-classic[m: Could not resolve dependencies for project com.willwinder.universalgcodesender:ugs-classic:jar:2.0-SNAPSHOT: The following artifacts could not be resolved: com.willwinder.universalgcodesender:ugs-core:jar:2.0-SNAPSHOT, com.willwinder.universalgcodesender:ugs-pendant:jar:2.0-SNAPSHOT, com.willwinder.universalgcodesender:ugs-cli:jar:2.0-SNAPSHOT: Could not find artifact com.willwinder.universalgcodesender:ugs-core:jar:2.0-SNAPSHOT in jogamp-remote (https://www.jogamp.org/deployment/maven/)[m -> [Help 1][m
+##[group]Run actions/checkout@v3, 7.923656225283914, , , , 165147, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.773110664585582, , , , 29302, False, 
+##[group]Disabling automatic garbage collection, 7.62256510388725, , , , 4268, False, 
+Requested labels: self-hosted, 2.1996798589241697, , , , 4561457, False, 

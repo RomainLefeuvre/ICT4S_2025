@@ -1,0 +1,373 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.13 s (2843.2 files/s 363773.5 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,15130
+CSS,/tmp/clone_directory/src/main/client/app/assets/css/style.css,543,167,2316
+HCL,/tmp/clone_directory/src/test/resources/hcl/variables_aws_vpc.tf,290,0,1530
+Markdown,/tmp/clone_directory/CHANGELOG.md,120,0,863
+CSS,/tmp/clone_directory/src/main/client/app/assets/css/github-markdown.css,178,0,779
+HTML,/tmp/clone_directory/src/test/resources/rest/hashicorp/releases.html,142,0,435
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/stack-edition.vue,18,7,365
+Maven,/tmp/clone_directory/pom.xml,40,13,352
+JSON,/tmp/clone_directory/src/test/resources/sample-plan.json,0,0,324
+JSON,/tmp/clone_directory/src/test/resources/rest/github/selmak-public-repos.json,0,0,305
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/runner/RunnerCommandBuilderTest.java,60,0,283
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/job/job-history.vue,27,0,255
+HCL,/tmp/clone_directory/src/test/resources/hcl/variables_aws_eks.tf,46,0,249
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/module.vue,22,0,244
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/runner/RunnerControllerIT.java,55,8,242
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/login/login.vue,27,0,234
+CSS,/tmp/clone_directory/src/main/client/app/assets/css/responsive.css,56,12,230
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/job/job-step.vue,23,2,217
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/credentials/CredentialsRestControllerIT.java,20,6,213
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/modules/controller/ModuleRestControllerTest.java,73,52,209
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/controller/StackRestControllerTest.java,65,43,200
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/AuthenticationHandlerTest.kt,53,20,180
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/user-edit.vue,10,0,178
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/stack-creation.vue,17,2,175
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/modules/controller/ModuleRestControllerIT.java,26,8,167
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/job/job-metadata.vue,18,0,165
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/controller/UsersRestControllerIT.java,31,6,163
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/modules.vue,26,0,146
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/job/job.vue,7,0,146
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/controller/StackRestControllerIT.java,19,8,146
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/typeahead/form-typeahead.vue,11,18,145
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/stacks.vue,14,0,144
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/Stack.java,50,27,141
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/hcl/HCLParserTest.kt,40,39,139
+ANTLR Grammar,/tmp/clone_directory/src/main/antlr4/io/gaia_app/hcl/antlr/hcl.g4,31,5,138
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/JobWorkflowTest.java,53,47,136
+JavaScript,/tmp/clone_directory/src/test/resources/db/60_terraformState.js,0,0,132
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/runner/RunnerControllerTest.java,48,22,128
+HCL,/tmp/clone_directory/src/test/resources/hcl/outputs_aws_eks.tf,26,0,127
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/modules/bo/TerraformModule.java,49,0,126
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/console/console.vue,11,3,124
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/sidebar/side-bar-links.vue,13,0,124
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/bo/JobTest.java,52,46,124
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/runner/RunnerController.java,33,26,123
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/Job.java,32,3,121
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/registries/github/GitHubRawContentTest.java,39,23,121
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/service/RegistryServiceImplTest.kt,51,4,121
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/config/fontawesome-config.js,1,0,117
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/modules/api/DockerRegistryApiTest.kt,24,18,117
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/modules/controller/ModuleRestController.java,31,13,115
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/controller/GithubRegistryControllerIT.kt,28,5,113
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/dashboard/controller/DashboardRestControllerTest.kt,28,12,112
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/terraform-image-input.vue,7,3,111
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/service/StackCostCalculatorTest.java,36,23,111
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/credentials.vue,16,0,110
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/controller/GitlabRegistryControllerIT.kt,28,5,109
+JSON,/tmp/clone_directory/src/test/resources/rest/gitlab/selmak-terraform-docker-mongo.json,0,0,109
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/import/registry-import.vue,9,0,108
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/controller/StackRestController.java,21,5,108
+JSON,/tmp/clone_directory/src/test/resources/rest/gitlab/selmak-public-repos.json,0,0,108
+JSON,/tmp/clone_directory/src/test/resources/rest/github/selmak-terraform-docker-mongo.json,0,0,106
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/stack-variable.vue,7,7,105
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/JobWorkflow.java,17,16,105
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/user-new.vue,7,0,104
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/SecurityConfigIT.kt,23,0,104
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/dashboard/dashboard-widget.vue,13,0,101
+JavaScript,/tmp/clone_directory/src/test/resources/db/20_module.js,0,0,100
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/module-description.vue,9,1,99
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/oauth2/OAuth2SuccessHandlerTest.kt,21,10,98
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/credentials-list.vue,16,0,96
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/vault/VaultCredentialsService.kt,21,6,96
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/vault/VaultCredentialsServiceTest.kt,26,0,96
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/sidebar/side-bar.vue,7,1,95
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/Step.java,28,3,94
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/controller/JobRestControllerTest.kt,30,24,93
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/github/GithubRegistryApiTest.kt,27,15,89
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/service/RegexStackVariablesValidatorTest.java,33,0,89
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/service/MandatoryStackVariablesValidatorTest.java,33,0,88
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/SecurityConfig.kt,10,2,87
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/registries/gitlab/GitLabRawContentTest.java,26,13,87
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/controller/OrganizationsRestControllerIT.java,20,3,86
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/ApplyStartedStateTest.java,25,12,86
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/PlanStartedStateTest.java,25,12,86
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/organizations.vue,4,0,85
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/mustache/TerraformScript.java,22,3,83
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/providers/credentials-azurerm.vue,3,0,82
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/dashboard/dashboard.vue,2,0,82
+JavaScript,/tmp/clone_directory/src/test/resources/db/30_stack.js,0,0,82
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,17,0,81
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/module-variable.vue,4,0,81
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/modules/controller/DockerRegistryRestControllerIT.kt,15,9,81
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/users.vue,4,0,80
+JSON,/tmp/clone_directory/src/test/resources/rest/docker-hub/terraform-tags.json,0,0,79
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/runner/RunnerCommandBuilder.java,16,26,78
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/login/login-oauth-signin.vue,11,0,77
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/AuthenticationHandler.kt,19,1,76
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/settings/settings.vue,6,0,75
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/ApplyPendingStateTest.java,23,0,74
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/PlanPendingStateTest.java,23,0,74
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/job/job-apply-confirm.vue,8,0,73
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/bo/StepTest.java,29,0,72
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/ApplyFailedStateTest.java,20,6,72
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/PlanFailedStateTest.java,19,6,72
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/oauth2/OAuth2ClientSecurityConfigIT.kt,16,0,71
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/topbar/top-bar-user.vue,9,0,70
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/modules/ModuleServiceImplTest.java,17,0,70
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/NotStartedStateTest.java,19,6,70
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/job/job-timer.vue,1,0,69
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/PlanFinishedStateTest.java,19,6,69
+Vuejs Component,/tmp/clone_directory/src/main/client/app/layouts/default-layout.vue,6,0,67
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/hcl/HclVisitor.kt,19,5,67
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/gitlab/GitlabRegistryApiTest.kt,20,9,67
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/new-credentials.vue,5,0,65
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/sidebar/side-bar-toggle.vue,4,2,65
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/service/EncryptedStateServiceImplTest.kt,18,9,65
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/import/manual-import.vue,6,0,64
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/providers/provider-header.vue,8,0,63
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/store/modules/session-store-module.js,5,0,63
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/registries/github/GitHubOAuth2ProviderTest.java,15,6,63
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/registries/gitlab/GitLabOAuth2ProviderTest.java,15,6,63
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/stack-outputs.vue,2,0,62
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/RunnerApiSecurityConfig.java,19,1,62
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/AbstractRegistryApi.kt,18,6,62
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/client/controller/AuthenticationRestControllerTest.kt,14,7,60
+JavaScript,/tmp/clone_directory/src/test/resources/db/40_job.js,1,0,60
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/stacks/stacks-routes.js,1,0,59
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/repository/StackRepositoryIT.java,24,7,59
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/settings/settings-variable.vue,3,0,57
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/client/controller/BuildInfoRestControllerTest.kt,17,11,57
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/services/authentication-guard.js,7,7,56
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/vault/VaultCredentialsServiceIT.kt,10,4,56
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/providers/provider-logo.vue,10,1,55
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/config/bootstrap-vue-config.js,1,0,55
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/credentials/CredentialsRestController.java,11,6,53
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/settings/bo/Settings.java,16,13,53
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/settings/bo/SettingsIT.java,16,0,53
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/bo/StackTest.kt,15,7,53
+JavaScript,/tmp/clone_directory/src/main/client/app/router.js,6,0,52
+JavaScript,/tmp/clone_directory/src/test/resources/db/50_step.js,0,0,52
+JavaScript,/tmp/clone_directory/vue.config.js,1,0,52
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/controller/JobRestController.kt,12,0,51
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/RunnerApiSecurityConfigIT.java,11,0,51
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/test/MongoContainer.java,12,3,51
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/sidebar/side-bar-infos.vue,4,0,50
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/credentials/PlainCredentialsServiceTest.kt,16,0,50
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/modules/ModuleServiceImpl.java,10,23,48
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/service/StackCostCalculator.java,17,15,48
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/controller/UserControllerAdviceTest.java,15,6,48
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/settings/repository/SettingsRepositoryTest.java,19,6,48
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/module-import.vue,5,0,47
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/service/RegistryService.kt,15,10,47
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/vault/VaultConfiguration.java,10,0,46
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/providers/credentials-google.vue,4,0,45
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/modules/modules-routes.js,1,0,45
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/users/users-routes.js,1,0,45
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/client/controller/AuthenticationRestControllerIT.kt,7,0,45
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/ldap/LdapSecurityConfigIT.java,7,0,45
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/CucumberContextConfiguration.java,9,5,45
+JSON,/tmp/clone_directory/package.json,0,0,44
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/credentials/Credentials.kt,13,0,44
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/modules/bo/TerraformModuleTest.java,21,12,43
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/modules/repository/TerraformModuleGitRepositoryTest.java,13,6,43
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/AdminUserInitializationTest.kt,14,0,43
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/controller/UsersRestControllerTest.java,16,0,43
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/vault/VaultEncryptionServiceIT.kt,7,1,43
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/providers/credentials-aws.vue,3,0,42
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/credentials/providers/credentials-vault-aws.vue,3,0,42
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/modules/readme.vue,7,0,42
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/workflow/state/ApplyFinishedStateTest.java,12,0,42
+INI,/tmp/clone_directory/.editorconfig,4,0,41
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/user-type.vue,4,0,41
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/service/StateService.kt,12,9,41
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/settings/controller/SettingsRestControllerTest.kt,11,5,41
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/topbar/top-bar.vue,5,0,40
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/oauth2/OAuth2SuccessHandler.kt,8,2,40
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/ModuleStepDefs.java,13,0,40
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/dashboard/controller/DashboardRestController.kt,4,0,39
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/hcl/HclParserImpl.kt,11,5,38
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/credentials/CredentialsRestControllerVaultIT.java,7,0,38
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/modules/repository/TerraformModuleRepositoryIT.java,14,3,38
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/bo/PlanTest.kt,13,0,38
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/UserService.kt,20,3,37
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/controller/UsersRestController.java,11,0,37
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/controller/UserControllerAdvice.java,7,3,36
+Markdown,/tmp/clone_directory/README.md,19,0,35
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/user-name.vue,6,0,35
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/api/DockerRegistryApi.kt,6,0,35
+Mustache,/tmp/clone_directory/src/main/resources/mustache/terraform.mustache,11,0,35
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/controller/GithubRegistryControllerTest.kt,10,6,35
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/registries/controller/GitlabRegistryControllerTest.kt,10,6,35
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/credentials/credentials-routes.js,1,0,34
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/oauth2/OAuth2ClientSecurityConfig.kt,5,2,34
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/RegistryRawContent.kt,10,1,34
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/DashboardStepDefs.java,12,1,34
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/modules/controller/DockerRegistryRestControllerTest.kt,12,6,34
+JSON,/tmp/clone_directory/src/test/resources/rest/docker-hub/terraform-repositories.json,0,0,34
+JavaScript,/tmp/clone_directory/.eslintrc.js,5,0,33
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/registries/config/RegistryConfigIT.java,5,0,32
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/repository/StepRepositoryIT.java,10,0,32
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/markdown/markdown.vue,6,1,31
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/service/StateServiceImplTest.kt,10,0,31
+JavaScript,/tmp/clone_directory/src/main/client/app/main.js,9,3,30
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/users/user-badge.vue,4,0,30
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/AdminUserInitialization.java,10,4,30
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/controller/OrganizationsRestController.java,9,0,30
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/controller/StackValidationExceptionHandler.java,6,0,30
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/controller/TerraformStateController.java,8,0,30
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/DashboardPage.kt,11,1,30
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/settings/repository/SettingsRepositoryIT.java,12,6,30
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/service/RegexStackVariablesValidator.kt,5,6,29
+YAML,/tmp/clone_directory/.github/workflows/visual-non-regression-tests.yml,2,1,28
+Cucumber,/tmp/clone_directory/src/test/features/io/gaia_app/e2e/basic_navigation.feature,8,1,28
+JavaScript,/tmp/clone_directory/src/test/resources/db/10_user.js,0,1,28
+YAML,/tmp/clone_directory/docker-compose-with-vault.yml,2,0,27
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/error-pages/page-forbidden.vue,1,0,27
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/error-pages/page-not-found.vue,1,0,27
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/controller/OrganizationsRestControllerTest.java,9,3,27
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/cli-badge/cli-badge.vue,1,1,26
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/controller/GithubRegistryController.kt,4,0,26
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/controller/GitlabRegistryController.kt,4,0,26
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/settings/repository/SettingsRepository.java,11,8,26
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/LoginPage.kt,9,1,26
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/stacks/controller/StackValidationExceptionHandlerTest.java,9,3,26
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,7,0,25
+Markdown,/tmp/clone_directory/.github/pull_request_template.md,11,0,25
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/config/RegistryConfig.kt,4,3,25
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/Plan.kt,8,9,25
+Vuejs Component,/tmp/clone_directory/src/main/client/app/app.vue,2,2,24
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/ldap/LdapSecurityConfig.java,5,0,24
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/credentials/CredentialsService.kt,11,9,24
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/modules/repository/TerraformModuleGitRepository.java,9,6,24
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/filters/index.js,5,2,23
+HTML,/tmp/clone_directory/src/main/client/public/index.html,3,1,23
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/client/controller/AuthenticationRestController.kt,7,0,23
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/gitlab/GitlabRegistryApi.kt,4,3,23
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/config/security/actuator/ActuatorSecurityConfigIT.java,5,0,23
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/organizations/repository/UserRepositoryIT.kt,7,3,23
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/client/controller/BuildInfoRestController.kt,4,0,22
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/service/MandatoryStackVariablesValidator.kt,4,3,22
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/JobState.java,8,3,22
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/UsersPage.kt,8,0,22
+Vuejs Component,/tmp/clone_directory/src/main/client/app/shared/components/breadcrumb/breadcrumb.vue,1,0,21
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/bo.kt,7,6,21
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/credentials/CredentialsTest.kt,6,0,21
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/ModulesPage.kt,8,0,21
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/UsersStepDefs.java,7,0,21
+JavaScript,/tmp/clone_directory/src/test/resources/db/80_plan.js,0,0,21
+YAML,/tmp/clone_directory/.github/workflows/test.yml,2,1,20
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/settings/controller/SettingsRestController.kt,5,5,20
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/ModulePage.kt,10,0,20
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/controller/DockerRegistryRestController.kt,6,0,19
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/bo.kt,7,9,19
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/registries/RegistryOAuth2Provider.java,5,12,19
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/github/GithubRegistryApi.kt,5,4,19
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/repository/StackRepository.kt,2,3,19
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/actuator/ActuatorSecurityConfig.java,2,4,18
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/TerraformState.java,8,0,18
+JSON,/tmp/clone_directory/src/test/resources/rest/github/selmak-terraform-docker-mongo-content-main.json,0,0,18
+JSON,/tmp/clone_directory/src/test/resources/rest/github/selmak-terraform-docker-mongo-content-outputs.json,0,0,18
+JSON,/tmp/clone_directory/src/test/resources/rest/github/selmak-terraform-docker-mongo-content-variables.json,0,0,18
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/services/modal-service.js,1,0,17
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/ApplyStartedState.java,5,3,17
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/PlanStartedState.java,5,3,17
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/test/VaultContainerTestInitializer.java,4,0,17
+YAML,/tmp/clone_directory/docker-compose.yml,1,0,16
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/MandatoryStackVariablesValidation.java,6,0,16
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/RegexStackVariablesValidation.java,6,0,16
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/vault/VaultEncryptionService.kt,7,0,16
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/MongoConfig.java,5,0,15
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/PlanFinishedState.java,3,3,15
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/GaiaIT.java,6,0,15
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/JobStepDefs.java,7,0,15
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/StackStepDefs.java,7,0,15
+HCL,/tmp/clone_directory/src/test/resources/hcl/terraform_docker_mongo_main_with_provider.tf,2,3,15
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/dashboard/dashboard-routes.js,2,0,14
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/config/SpringSecurityUserAuditorAware.kt,5,0,14
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/RetryableState.java,4,1,14
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/JobPage.kt,6,0,14
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/ModuleDescriptionPage.kt,6,0,14
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/pages/StackPage.kt,6,0,14
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/login/login-routes.js,2,0,13
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/settings/settings-routes.js,1,0,13
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/MustacheConfig.java,4,3,13
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/repository/TerraformModuleRepository.kt,2,0,13
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/NotStartedState.java,4,4,13
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/StepDefs.java,6,0,13
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/modules/bo/TerraformImageTest.kt,5,0,13
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/test/SharedMongoContainerTest.java,6,0,13
+JavaScript,/tmp/clone_directory/src/test/resources/db/00_organization.js,0,0,13
+JavaScript,/tmp/clone_directory/src/test/resources/db/70_credentials.js,0,0,13
+HCL,/tmp/clone_directory/src/test/resources/hcl/variables.tf,2,5,13
+Vuejs Component,/tmp/clone_directory/src/main/client/app/layouts/error-layout.vue,1,0,12
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/ApplyPendingState.java,5,0,12
+Kotlin,/tmp/clone_directory/src/test/java/io/gaia_app/test/KotlinUtils.kt,9,17,12
+HCL,/tmp/clone_directory/src/test/resources/hcl/terraform_docker_mongo_main_without_provider.tf,1,2,12
+JSON,/tmp/clone_directory/src/test/resources/rest/gitlab/selmak-terraform-docker-mongo-content-main.json,0,0,12
+JSON,/tmp/clone_directory/src/test/resources/rest/gitlab/selmak-terraform-docker-mongo-content-outputs.json,0,0,12
+JSON,/tmp/clone_directory/src/test/resources/rest/gitlab/selmak-terraform-docker-mongo-content-variables.json,0,0,12
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/components/index.js,0,0,11
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/store/index.js,4,0,11
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/BeansConfig.java,4,0,11
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/bo/TerraformImage.kt,5,0,11
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/repository/StepRepository.java,5,3,11
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/PlanPendingState.java,5,3,11
+Properties,/tmp/clone_directory/src/main/resources/application.properties,9,7,11
+Vuejs Component,/tmp/clone_directory/src/main/client/app/layouts/none-layout.vue,1,0,10
+Vuejs Component,/tmp/clone_directory/src/main/client/app/pages/stacks/stack.vue,3,0,10
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/users-api.js,6,0,10
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/security/ldap/CustomLdapAutoConfiguration.java,2,1,10
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/bo/ModuleMetadata.kt,2,0,10
+Dockerfile,/tmp/clone_directory/Dockerfile,4,0,9
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/config/axios-config.js,1,0,9
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/Gaia.java,4,0,9
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/bo/Variable.kt,2,8,9
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/repository/JobRepository.kt,4,3,9
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/stepDefs/PercyStepDef.java,3,0,9
+HCL,/tmp/clone_directory/src/test/resources/hcl/outputs.tf,1,0,9
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/modules-api.js,7,0,8
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/stacks-api.js,7,0,8
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/services/cookie-service.js,2,0,8
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/credentials/CredentialsRepository.kt,4,0,8
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/api/DockerRegistryResponse.kt,5,0,8
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/RegistryApi.kt,7,6,8
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/registries/github/GitHubOAuth2Provider.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/registries/gitlab/GitLabOAuth2Provider.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/StackState.java,7,18,8
+Properties,/tmp/clone_directory/src/main/resources/application-gitlab.properties,0,0,8
+YAML,/tmp/clone_directory/.percy.yml,1,2,7
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/credentials-api.js,6,0,7
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/jobs-api.js,6,0,7
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/config/AsyncConfig.java,2,0,7
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/repository/OrganizationsRepository.java,2,0,7
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/github/GitHubRawContent.kt,2,0,7
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/registries/gitlab/GitLabRawContent.kt,2,0,7
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/repository/TerraformStateRepository.java,2,0,7
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/authentication-api.js,5,0,6
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/services/update-page-title-guard.js,2,1,6
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/modules/bo/Output.kt,1,3,6
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/organizations/repository/UserRepository.kt,2,0,6
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/repository/PlanRepository.java,2,3,6
+Properties,/tmp/clone_directory/src/main/resources/application-github.properties,0,0,6
+JavaScript,/tmp/clone_directory/babel.config.js,0,0,5
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/registries-api.js,2,0,5
+Kotlin,/tmp/clone_directory/src/main/java/io/gaia_app/encryption/EncryptionService.kt,4,3,5
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/modules/ModuleService.java,4,5,5
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/JobStatus.java,1,0,5
+Properties,/tmp/clone_directory/src/main/resources/application-vault.properties,2,2,5
+Cucumber,/tmp/clone_directory/src/test/features/io/gaia_app/e2e/login_page.feature,1,0,5
+Java,/tmp/clone_directory/src/test/java/io/gaia_app/e2e/CucumberIT.java,2,3,5
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/organizations-api.js,3,0,4
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/services/session-storage-service.js,3,0,4
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/JobType.java,1,0,4
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/StepStatus.java,1,0,4
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/bo/StepType.java,1,0,4
+JavaScript,/tmp/clone_directory/src/main/client/app/layouts/index.js,0,0,3
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/settings-api.js,2,0,3
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/ApplyFailedState.java,1,3,3
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/ApplyFinishedState.java,1,3,3
+Java,/tmp/clone_directory/src/main/java/io/gaia_app/stacks/workflow/state/PlanFailedState.java,1,3,3
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/build-infos-api.js,1,0,2
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/dashboard-api.js,1,0,2
+JavaScript,/tmp/clone_directory/src/main/client/app/shared/api/state-api.js,1,0,2
+Properties,/tmp/clone_directory/src/test/resources/junit-platform.properties,1,0,2
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/credentials/index.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/dashboard/index.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/login/index.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/modules/index.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/settings/index.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/stacks/index.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/client/app/pages/users/index.js,0,0,1
+SUM,,5075,1387,41005

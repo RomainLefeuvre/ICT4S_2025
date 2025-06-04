@@ -1,0 +1,10 @@
+##[group]Run pre-commit run --all-files, 480.4893117953011, , , , 56570475, True, ##[error]Process completed with exit code 1.
+##[group]Run python -m pip install --upgrade pip, 129.90878468984067, , , , 16831489, False, 
+##[group]GITHUB_TOKEN Permissions, 31.64052027472598, , , , 3277944, False, 
+##[group]Cleaning the repository, 10.387039484127216, , , , 686757, False, 
+##[group]Installed versions, 9.245606573783563, , , , 1285338, False, 
+##[group]Fetching the repository, 8.218316954474282, , , , 446418, False, 
+##[group]Run actions/cache@v3, 6.029003774302615, , , , 593642, False, 
+##[group]Run actions/checkout@v4, 2.7622676430316333, , , , 152318, False, 
+##[group]Setting up auth, 1.5751774162742371, , , , 65212, False, 
+Requested labels: self-hosted, 0.0148532852674073, , , , 5262564, False, 

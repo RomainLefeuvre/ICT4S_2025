@@ -1,0 +1,10 @@
+##[group]==END_FILE==, 454.699892296901, , , , 85642128, False, 
+Requested labels: self-hosted, 2.171426160294152, , , , 5754845, False, 
+##[group]GITHUB_TOKEN Permissions, 6.235082799205629, , , , 1794493, False, 
+##[group]Run actions/checkout@v1, 17.64029545788963, , , , 4877809, False, 
+##[group]Run actions/setup-java@v2.2.0, 2.795029339828099, , , , 157849, False, 
+##[group]Run mvn verify, 380.11965482747416, , , , 63808066, True, [ERROR[m] Tests run: 12[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.485 s <<< FAILURE![m - in com.github.sarxos.webcam.WebcamStaticsTest[m
+##[group]GITHUB_TOKEN Permissions__dup_7, 21.42680050524657, , , , 1698515, False, 
+##[group]Run actions/checkout@v1__dup_8, 15.960675445958127, , , , 1055376, False, 
+##[group]Run actions/setup-java@v2.2.0__dup_9, 1.847388367482493, , , , 155525, False, 
+##[group]Run mvn verify__dup_10, 63.6840341298306, , , , 6610709, False, 

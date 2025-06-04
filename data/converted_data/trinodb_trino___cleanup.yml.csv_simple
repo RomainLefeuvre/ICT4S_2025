@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run styfle/cancel-workflow-action@85880fa0301c86cca9da44039ee3bb12d3bedbfa,36.061291673646814,959677,False,
+##[group]GITHUB_TOKEN Permissions,28.67524398145409,1085111,False,
+Requested labels: self-hosted,0.0,4515520,False,

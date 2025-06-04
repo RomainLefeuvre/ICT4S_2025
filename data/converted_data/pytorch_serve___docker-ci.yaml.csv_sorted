@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 162.52988106808007, , , , 45704351, False, 
+Requested labels: self-hosted__dup_3, 83.97224951763057, , , , 25034538, False, 
+##[group]Getting Git version info__dup_16, 47.830598295500536, , , , 9013512, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Getting Git version info__dup_11, 39.50690289078663, , , , 9028771, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Getting Git version info, 24.780549918243267, , , , 9023023, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]GITHUB_TOKEN Permissions__dup_9, 21.37994411789379, , , , 1273925, False, 
+##[group]GITHUB_TOKEN Permissions__dup_14, 13.068126552268016, , , , 1253306, False, 
+##[group]Run ./test_container_model_prediction.sh __dup_18, 9.159671757228985, , , , 163035, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/serve/serve/docker'. No such file or directory
+##[group]GITHUB_TOKEN Permissions, 4.078114044750616, , , , 1259961, False, 
+##[group]Run actions/checkout@v3__dup_10, 2.7536650845966664, , , , 186252, False, 
+##[group]Run ./test_container_model_prediction.sh , 2.007601372513129, , , , 190926, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/serve/serve/docker'. No such file or directory
+##[group]Run ./test_container_model_prediction.sh __dup_13, 1.8638646991295669, , , , 164545, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/serve/serve/docker'. No such file or directory
+##[group]Run actions/checkout@v3__dup_15, 1.8608859438422387, , , , 174241, False, 
+##[group]Run ./test_build_image_tagging.sh 3.8, 1.5777202613027357, , , , 36165, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/serve/serve/docker'. No such file or directory
+##[group]Run ./test_build_image_tagging.sh 3.9, 1.0147247922792693, , , , 36598, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/serve/serve/docker'. No such file or directory
+##[group]Run ./test_build_image_tagging.sh 3.10, 0.9621564833714982, , , , 37135, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/serve/serve/docker'. No such file or directory
+##[group]Run actions/checkout@v3, 0.8560791954107317, , , , 175065, False, 
+Requested labels: self-hosted__dup_2, 0.2047690744206208, , , , 4276545, False, 

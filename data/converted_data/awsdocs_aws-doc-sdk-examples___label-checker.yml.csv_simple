@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,96.85277046124428,23196227,False,
+##[group]Pull down action image 'agilepathway/pull-request-label-checker:latest',75.41811673755859,4933381,False,
+##[group]Run docker://agilepathway/pull-request-label-checker:latest__dup_8,14.297228228585697,8024002,False,
+##[group]GITHUB_TOKEN Permissions,13.233272101618171,141373,False,
+##[group]Run docker://agilepathway/pull-request-label-checker:latest,10.621689909882043,6552351,False,
+##[group]Pull down action image 'agilepathway/pull-request-label-checker:latest'__dup_7,10.290961716146136,916708,False,
+Requested labels: self-hosted,2.720495962062635,4647753,False,
+##[group]GITHUB_TOKEN Permissions__dup_6,1.002422308859573,135346,False,

@@ -1,0 +1,11 @@
+##[group]Run ./sbt publish, 644.2043965721172, , , , 53281641, True, [error] java.net.ProtocolException: Server redirected too many  times (20)
+##[group]Fetching the repository, 96.30084704675473, , , , 8126018, False, 
+##[group]Install Java, 35.7886758864274, , , , 15447199, False, 
+##[group]Install sbt, 21.02433031624153, , , , 1062103, False, 
+##[group]GITHUB_TOKEN Permissions, 20.102478949526866, , , , 3627095, False, 
+##[group]Run actions/cache@v4, 12.13126417047388, , , , 603255, False, 
+##[group]Setting up auth, 6.347077182172252, , , , 58078, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.114419042945565, , , , 14832, False, 
+##[group]Run actions/checkout@v4, 5.8817609037188765, , , , 139547, False, 
+Requested labels: self-hosted, 4.309472303454498, , , , 4423803, False, 
+##[group]Run olafurpg/setup-scala@v14, 0.7693954105028977, , , , 89367, False, 

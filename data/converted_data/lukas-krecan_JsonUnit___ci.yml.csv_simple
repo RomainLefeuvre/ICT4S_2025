@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,405.1497490098367,52098197,False,
+##[group]Run mvn -B clean spotless:check package biz.aQute.bnd:bnd-resolver-maven-plugin:resolve --file pom.xml,313.36095193154495,31324897,True,[ERROR] Failed to execute goal biz.aQute.bnd:bnd-resolver-maven-plugin:7.0.0:resolve (default-cli) on project json-unit-parent: The plugin biz.aQute.bnd:bnd-resolver-maven-plugin:7.0.0 requires Maven version 3.8.1 -> [Help 1]
+##[group]Installed distributions__dup_15,148.15942188436426,21011083,False,
+[INFO] --- spotless-maven-plugin:2.43.0:check (default-cli) @ json-unit-parent ---,93.49532878434528,10329140,False,
+##[group]Installed distributions,81.78616577297566,2257641,False,
+##[group]Run java -version,46.74205503078235,926281,False,
+##[group]Run mvn -B clean spotless:check package biz.aQute.bnd:bnd-resolver-maven-plugin:resolve --file pom.xml__dup_17,45.30813029023018,4531285,True,[ERROR] Failed to execute goal biz.aQute.bnd:bnd-resolver-maven-plugin:7.0.0:resolve (default-cli) on project json-unit-parent: The plugin biz.aQute.bnd:bnd-resolver-maven-plugin:7.0.0 requires Maven version 3.8.1 -> [Help 1]
+[INFO] --- spotless-maven-plugin:2.43.0:check (default-cli) @ json-unit-parent ---__dup_18,34.18597641199788,1166063,False,
+##[group]GITHUB_TOKEN Permissions,30.846865925929038,2707657,False,
+Requested labels: self-hosted,23.72915482919284,5819220,False,
+##[group]GITHUB_TOKEN Permissions__dup_12,18.226347032888288,2753780,False,
+##[group]Fetching the repository,16.351808922932538,709411,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ json-unit-parent ---,5.301831704015646,289179,False,
+##[group]Run java -version__dup_16,5.235959849097981,1213161,False,
+##[group]Fetching the repository__dup_14,4.740098327615176,434663,False,
+##[group]Run actions/checkout@v4,3.926421905165959,137462,False,
+##[group]Setting up auth,2.0648732482265517,60739,False,
+##[group]Run actions/checkout@v4__dup_13,0.9946867036209016,146439,False,

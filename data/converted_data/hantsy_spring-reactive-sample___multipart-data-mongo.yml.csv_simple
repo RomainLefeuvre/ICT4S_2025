@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,82.65688996889008,18393634,False,
+##[group]GITHUB_TOKEN Permissions,77.32223056211922,2340564,False,
+##[group]Run cd multipart-data-mongo,65.22410091627025,23655075,False,
+##[group]Fetching the repository,50.2009288955666,468609,False,
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ spring-reactive-sample-multipart-data-mongo ---,15.10692228570697,1311807,False,
+##[group]Run actions/checkout@v4,11.331676334663443,153785,False,
+##[group]Getting Git version info,11.07337822355342,7289,False,
+##[group]Setting up auth,10.815080112443392,73975,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-multipart-data-mongo ---,2.5114300071917435,220982,False,
+[INFO] --- maven-surefire-plugin:3.1.2:test (default-test) @ spring-reactive-sample-multipart-data-mongo ---,2.136853773025786,186395,False,
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-reactive-sample-multipart-data-mongo ---,2.0869102751369915,174013,False,
+Requested labels: self-hosted,0.4761676930353007,4272859,False,

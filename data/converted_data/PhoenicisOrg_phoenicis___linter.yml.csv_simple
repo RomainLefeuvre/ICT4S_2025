@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,35.97718604871574,1689061,False,
+##[group]GITHUB_TOKEN Permissions,33.33544142673981,3075897,False,
+##[group]Outputs,31.13306392286772,5120430,False,
+##[group]Run mvn formatter:format,25.76651042031386,11023975,False,
+##[group]Fetching the repository,6.928811339201626,2761795,False,
+Requested labels: self-hosted,4.93252473036025,4620273,False,
+##[group]Internal logs,2.0809923876914778,188717,False,
+##[group]Checking out the ref,1.77913146452816,117703,False,
+##[group]Setting up auth,1.2628156020422665,60756,False,
+##[group]Run actions/checkout@v3,1.254619157655729,145900,False,
+##[group]Run EndBug/add-and-commit@v9,1.0566625061967072,138945,False,

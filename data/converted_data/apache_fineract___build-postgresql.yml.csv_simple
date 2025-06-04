@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,66.70435968260236,4919165,False,
+##[group]Create local container network,56.70473075196568,638689,False,
+##[group]Starting postgresql service container,34.36836784474221,34404202,True,##[error]Docker start fail with exit code 1
+##[group]Run actions/upload-artifact@5d5d22a31266ced268874388b861e4b58bb5c2f3__dup_7,10.079319403549704,3474525,False,
+##[group]Checking docker version,9.265163847222958,75547,False,
+##[group]Run actions/upload-artifact@5d5d22a31266ced268874388b861e4b58bb5c2f3,1.4097668351219692,331266,False,
+##[group]Starting mock-oauth2-server service container,1.201908247463738,4763575,False,

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v2,919.2789164600326,103157451,False,
+##[group]GITHUB_TOKEN Permissions,98.8281798154597,2263913,False,
+##[group]Run ./gradlew publishToSonatypeSnapshot,90.51731867463458,10568295,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,47.62235260238106,456519,False,
+##[group]Run actions/checkout@v2,28.19817973142124,190603,False,
+##[group]Removing previously created refs_ to avoid conflicts,26.735845254677667,166603,False,
+##[group]Setting up auth,12.819547198559995,81419,False,
+##[group]Checking out the ref,10.991629102630537,20722,False,

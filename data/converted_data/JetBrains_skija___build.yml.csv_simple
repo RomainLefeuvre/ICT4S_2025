@@ -1,0 +1,55 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_12,385.7660706961737,77208855,False,
+Requested labels: self-hosted__dup_11,214.70340284471695,62481398,False,
+Requested labels: self-hosted__dup_10,76.40016109853539,33994625,False,
+##[group]Run python3 script/build.py --arch=x64,52.90511656456003,14459360,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_34,36.76946432558558,2426412,False,
+##[group]GITHUB_TOKEN Permissions__dup_43,31.192621210432332,3475713,False,
+##[group]Run python3 script/build.py__dup_51,20.322862179539893,2380178,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_38,20.04682515462957,471839,False,
+##[group]GITHUB_TOKEN Permissions__dup_23,19.60522165638043,2522011,False,
+##[group]GITHUB_TOKEN Permissions,16.976731334882253,1883255,False,
+##[group]Fetching the repository__dup_18,16.817487159518656,497162,False,
+##[group]Run actions/upload-artifact@v2__dup_42,14.650519985674704,357110,False,
+##[group]Run python3 script/build.py,13.544477545604424,2353270,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2__dup_54,12.965882788070676,347583,False,
+##[group]Run actions/upload-artifact@v2__dup_22,12.126531906250603,488612,False,
+##[group]Run actions/upload-artifact@v2__dup_33,12.095755258478777,369651,False,
+##[group]Run seanmiddleditch/gha-setup-ninja@master,11.5540271592029,940173,False,
+##[group]Run seanmiddleditch/gha-setup-ninja@master__dup_50,9.898450978462831,589258,False,
+##[group]Run python3 script/deploy_shared.py,9.567274299185325,822445,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v2__dup_35,9.33886377985586,188024,False,
+##[group]Run seanmiddleditch/gha-setup-ninja@master__dup_39,8.260228677826234,624234,False,
+##[group]Fetching the repository,8.05836442984755,4056266,False,
+##[group]Run python3 script/build.py --arch=arm64,7.33158716223063,415098,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_47,6.658768035005708,438508,False,
+##[group]Run actions/checkout@v2__dup_15,5.665087728514103,181080,False,
+##[group]Run python3 script/deploy_platform.py,4.982954355506599,137936,True,##[error]Process completed with exit code 1.
+##[group]Run python3 script/test.py__dup_52,4.430377474118262,124774,True,##[error]Process completed with exit code 1.
+##[group]Run python3 script/deploy_platform.py --arch=x64,4.2988259921430485,139287,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_27,4.273428962872993,456074,False,
+##[group]Run actions/upload-artifact@v2,4.271928105197162,339315,False,
+##[group]Setting up auth__dup_17,3.363497431903731,74551,False,
+##[group]Setting up auth__dup_37,3.1527281209440168,73980,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.15111600484506,90727,False,
+##[group]Cleaning the repository,2.7244096659530688,65589,False,
+##[group]Checking out the ref,2.647673096994082,126491,False,
+##[group]Run python3 script/test.py,2.5198360905403754,129054,True,##[error]Process completed with exit code 1.
+##[group]Run python3 script/deploy_platform.py__dup_53,2.37718351729699,137777,True,##[error]Process completed with exit code 1.
+##[group]Run python3 script/deploy_platform.py --arch=arm64,2.344926820293724,150721,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v2,2.1898949934874565,183440,False,
+##[group]Run actions/checkout@v2__dup_24,2.027907637433944,189807,False,
+##[group]Run python3 script/test.py__dup_31,1.987570162696986,133175,True,##[error]Process completed with exit code 1.
+##[group]Run ilammy/msvc-dev-cmd@v1,1.8827676766337544,124000,False,
+##[group]Run microsoft/setup-msbuild@v1,1.8343064171043484,79704,True,##[error]setup-msbuild can only be run on Windows runners
+##[group]Setting up auth__dup_46,1.5435388599279125,68423,False,
+##[group]Getting Git version info,1.4950776003985062,10574,False,
+##[group]Run actions/checkout@v2__dup_44,1.4466163408691004,182107,False,
+##[group]GITHUB_TOKEN Permissions__dup_13,1.1795112231370044,1774449,False,
+##[group]Setting up auth,1.1212216690772427,67797,False,
+##[group]Checking out the ref__dup_28,1.0955589517188862,23077,False,
+##[group]Setting up auth__dup_26,1.04115552971761,74122,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_25,1.030274845317355,25479,False,
+"##[group]Run echo ""JAVA_HOME=$JAVA_HOME_11_X64"" >> $GITHUB_ENV",0.8888801301182712,16649451,True,##[error]Process completed with exit code 2.
+Requested labels: self-hosted__dup_9,0.2489695720460474,2919240,False,
+Requested labels: self-hosted,0.2476380021706128,6045322,False,

@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository__dup_11,132.36810715629866,34326173,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run sudo apt-get install jq python3-pip,19.155284092396396,3326268,True,##[error]Process completed with exit code 1.
+##[group]Run git add index.yml,13.81962873431498,1439920,True,##[error]Process completed with exit code 127.
+Requested labels: self-hosted,10.23668922168971,4850574,False,
+##[group]GITHUB_TOKEN Permissions,10.165495075673546,1449602,False,
+##[group]Fetching the repository,7.954106931166022,506586,False,
+##[group]Run wget https://repo1.maven.org/maven2/io/opentelemetry/javaagent/opentelemetry-javaagent/maven-metadata.xml,6.872752909652598,390767,False,
+##[group]Cleaning the repository,3.513350994142537,230017,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633__dup_8,2.77622161264003,103434,False,
+##[group]Setting up auth__dup_10,2.4813698600390266,122651,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,1.8488166697590824,146717,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.8119602006839568,39517,False,
+##[group]Setting up auth,1.7013907934585806,88157,False,
+##[group]Cleaning the repository__dup_9,1.2959696336322015,170674,False,
+##[group]Run pip install yq,1.2957716270220545,14795,True,##[error]Process completed with exit code 127.

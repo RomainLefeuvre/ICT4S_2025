@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,65.37020649203488,2867772,False,
+##[group]Fetching the repository,14.363567509653077,408117,False,
+##[group]Cleanup JFrog CLI servers configuration,13.195427377238502,302233,False,
+##[group]Run jf rt download \\,11.939185731683622,247461,True,19:55:16 [Error] the --url option is mandatory
+##[group]Run spring-io/nexus-sync-action@main,8.258562308159291,239880,True,##[error]Input required and not supplied: username
+##[group]Run echo ,4.219012700190708,27973,False,
+##[group]Setting up auth,3.4413393005614967,66579,False,
+##[group]Getting Git version info,3.3815182698207886,13886,False,
+##[group]Run actions/checkout@v2,3.32169723908008,182652,False,
+Requested labels: self-hosted,1.653228510223255,3767764,False,

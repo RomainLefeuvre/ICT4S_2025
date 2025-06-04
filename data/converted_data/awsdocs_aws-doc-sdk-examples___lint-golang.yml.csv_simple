@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,54.00937410523435,2915303,False,
+Requested labels: self-hosted,13.059185864840844,3915440,False,
+##[group]changed-files,12.69409201012838,1134419,False,
+##[group]Fetching the repository,8.06636091890366,622794,False,
+##[group]changed-files-patterns,3.5260040387240363,400242,False,
+##[group]Run actions/checkout@v3,2.997381957503177,165346,False,
+##[group]Checking out the ref,2.5124469818048647,125053,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.4656272304085216,89921,False,
+##[group]Cleaning the repository,1.4435847315131438,47547,False,
+##[group]Setting up auth,1.4215422326177658,94213,False,

@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,592.021585290372,74625636,False,
+##[group]Run .build/install-mkdocs-deps.sh,111.1542124229202,32361828,False,
+##[group]Pull down action image 'mikefarah/yq:4-githubaction',41.82894034933294,1371564,False,
+"##[group]Run curl -s ""https://get.sdkman.io"" | bash",19.387998436122555,7836009,True,##[error]Process completed with exit code 2.
+"##[group]Run bash --noprofile --norc ""${GITHUB_ACTION_PATH:?}/main.sh""",10.634533417582176,1328662,False,
+##[group]Run actions/checkout@v4,6.839583281453192,140933,True,##[error]Input required and not supplied: token

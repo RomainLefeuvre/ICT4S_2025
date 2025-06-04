@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,260.7901819539616,1335074,False,
+##[group]Fetching the repository,231.21333512668957,9350998,False,
+##[group]Run ant test,68.40325129300025,958825,True,##[error]Process completed with exit code 1.
+##[group]Run pwd,56.95310986172191,1542537,False,
+##[group]Run actions/checkout@v2,54.59268812712341,201898,False,
+##[group]Run ant itest,41.33652575316331,1071989,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref,36.56431643981209,779283,False,
+##[group]Setting up auth,22.324005598115587,70553,False,
+##[group]==END_FILE==,8.250766116387931,5017594,False,
+"##[group]Run echo ""🍏 This job's status is success.""",5.578790666059829,811030,True,##[error]Process completed with exit code 1.

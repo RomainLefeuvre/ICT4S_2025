@@ -1,0 +1,281 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.13 s (2186.6 files/s 608544.2 lines/s)"
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/glext.h,635,38,12159
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_core.h,1656,16,9637
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/glcorearb.h,262,50,5606
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/gl.h,421,154,1528
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/EGL/eglext.h,154,39,1179
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/GLFW.java,205,169,979
+C/C++ Header,/tmp/clone_directory/Natives/jni.h,160,67,915
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/internal/dri_interface.h,278,1100,868
+Objective-C,/tmp/clone_directory/Natives/SurfaceViewController.m,153,43,863
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/glxext.h,75,40,854
+Objective-C,/tmp/clone_directory/Natives/CustomControlsViewController.m,153,31,813
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/wglext.h,64,36,764
+C,/tmp/clone_directory/Natives/external/ballpa1n/HostManager.c,177,1,671
+Objective-C,/tmp/clone_directory/Natives/LauncherPrefManageJREViewController.m,89,14,553
+Java,/tmp/clone_directory/JavaApp/src/main/java/android/util/ArrayMap.java,84,261,539
+Objective-C,/tmp/clone_directory/Natives/input_bridge_v3.m,70,56,469
+Java,/tmp/clone_directory/JavaApp/src/main/java/android/util/MapCollections.java,75,20,462
+Objective-C,/tmp/clone_directory/Natives/customcontrols/CustomControlsUtils.m,70,43,449
+Objective-C,/tmp/clone_directory/Natives/JavaGUIViewController.m,74,20,439
+C/C++ Header,/tmp/clone_directory/Natives/ctxbridges/osmesa_internal.h,60,11,405
+Objective-C,/tmp/clone_directory/Natives/LauncherPreferencesViewController.m,17,5,393
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_beta.h,67,9,383
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/Tools.java,63,61,376
+Objective-C,/tmp/clone_directory/Natives/LauncherNavigationController.m,56,16,369
+Objective-C,/tmp/clone_directory/Natives/PLPrefTableViewController.m,64,17,354
+make,/tmp/clone_directory/Makefile,42,27,342
+Objective-C,/tmp/clone_directory/Natives/LauncherMenuViewController.m,49,12,310
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/EGL/egl.h,14,39,308
+Objective-C,/tmp/clone_directory/Natives/main.m,47,16,305
+Objective-C,/tmp/clone_directory/Natives/MinecraftResourceDownloadTask.m,41,17,273
+Objective-C,/tmp/clone_directory/Natives/LauncherPrefContCfgViewController.m,48,1,271
+XML,/tmp/clone_directory/Natives/resources/glfw_keycodes.plist,0,0,268
+Objective-C,/tmp/clone_directory/Natives/LauncherPrefGameDirViewController.m,34,5,264
+Objective-C,/tmp/clone_directory/Natives/LauncherProfileEditorViewController.m,28,21,260
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/glx.h,108,74,259
+Objective-C,/tmp/clone_directory/Natives/authenticator/MicrosoftAuthenticator.m,35,5,251
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_win32.h,56,9,250
+Objective-C,/tmp/clone_directory/Natives/external/ballpa1n/wrapped/HostManagerBridge.m,14,6,245
+Objective-C,/tmp/clone_directory/Natives/AccountListViewController.m,39,7,239
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/EGL/eglext_angle.h,39,10,233
+C,/tmp/clone_directory/Natives/external/gl4es/tinygl4angle.c,37,27,227
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/MoltenVK/vk_mvk_moltenvk.h,78,912,226
+Objective-C,/tmp/clone_directory/Natives/JavaLauncher.m,50,70,225
+Objective-C,/tmp/clone_directory/Natives/customcontrols/ControlButton.m,50,61,224
+Objective-C,/tmp/clone_directory/Natives/PLPreferences.m,27,10,221
+Objective-C,/tmp/clone_directory/Natives/LauncherProfilesViewController.m,37,6,220
+Objective-C,/tmp/clone_directory/Natives/awt_xawt/xawt_fake.m,58,8,215
+Objective-C,/tmp/clone_directory/Natives/input/ControllerInput.m,25,14,204
+C/C++ Header,/tmp/clone_directory/Natives/glfw_keycodes.h,21,131,201
+XML,/tmp/clone_directory/Natives/Info.plist,0,0,199
+C,/tmp/clone_directory/Natives/external/gl4es/string_utils.c,23,16,195
+C/C++ Header,/tmp/clone_directory/Natives/external/UnzipKit/UZKArchive.h,95,666,188
+Objective-C,/tmp/clone_directory/Natives/installer/ForgeInstallViewController.m,31,2,188
+Objective-C,/tmp/clone_directory/Natives/customcontrols/ControlJoystick.m,36,15,183
+Objective-C,/tmp/clone_directory/Natives/installer/FabricInstallViewController.m,19,12,182
+Objective-C,/tmp/clone_directory/Natives/PLLogOutputView.m,29,4,181
+Objective-C,/tmp/clone_directory/Natives/SurfaceViewController+Navigation.m,36,9,180
+CMake,/tmp/clone_directory/Natives/CMakeLists.txt,23,10,177
+Objective-C,/tmp/clone_directory/Natives/LauncherPreferences.m,21,3,165
+Objective-C,/tmp/clone_directory/Natives/installer/ModpackInstallViewController.m,27,2,162
+Objective-C,/tmp/clone_directory/Natives/MinecraftResourceUtils.m,19,23,156
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/MoltenVK/mvk_datatypes.h,108,225,154
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vk_icd.h,27,51,150
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/LWJGLGLFWKeycode.java,12,10,147
+YAML,/tmp/clone_directory/.github/workflows/development.yml,19,1,146
+Objective-C,/tmp/clone_directory/Natives/ctxbridges/gl_bridge.m,20,3,137
+Objective-C,/tmp/clone_directory/Natives/ios_uikit_bridge.m,21,10,133
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vk_layer.h,30,49,131
+Objective-C,/tmp/clone_directory/Natives/UIKit+hook.m,29,6,129
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma.h,40,161,127
+Objective-C,/tmp/clone_directory/Natives/dyld_bypass_validation.m,32,13,125
+Objective-C,/tmp/clone_directory/Natives/utils.m,24,2,125
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/index.h,103,658,122
+Objective-C,/tmp/clone_directory/Natives/installer/modpack/ModrinthAPI.m,16,11,122
+YAML,/tmp/clone_directory/.github/workflows/release.yml,16,1,118
+Objective-C,/tmp/clone_directory/Natives/TrackedTextField.m,31,17,108
+Objective-C,/tmp/clone_directory/Natives/CustomControlsViewController+UndoManager.m,15,0,107
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/osmesa.h,76,211,103
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/KHR/khrplatform.h,27,154,103
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/GLFWVulkan.java,29,226,101
+Objective-C,/tmp/clone_directory/Natives/DownloadProgressViewController.m,19,2,100
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/container.h,85,814,97
+Objective-C,/tmp/clone_directory/Natives/egl_bridge.m,18,5,95
+Objective-C,/tmp/clone_directory/Natives/customcontrols/ControlDrawer.m,20,7,94
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/GL/mesa_glinterop.h,40,174,94
+Objective-C,/tmp/clone_directory/Natives/LauncherNewsViewController.m,17,1,92
+Markdown,/tmp/clone_directory/README.md,21,1,90
+Objective-C,/tmp/clone_directory/Natives/input/KeyboardInput.m,24,15,89
+Objective-C,/tmp/clone_directory/Natives/ctxbridges/osm_bridge.m,15,3,87
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vk_android_native_buffer.h,17,33,85
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/PojavLauncher.java,15,10,82
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_android.h,21,9,82
+C/C++ Header,/tmp/clone_directory/Natives/utils.h,20,5,80
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/base.h,65,605,78
+Objective-C,/tmp/clone_directory/Natives/PLProfiles.m,18,1,77
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/EGL/eglplatform.h,38,61,77
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/block.h,61,559,75
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/filter.h,61,635,74
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/utils/MCOptionUtils.java,11,0,70
+Objective-C,/tmp/clone_directory/Natives/main_hook.m,13,1,70
+Objective-C,/tmp/clone_directory/Natives/customcontrols/ControlLayout.m,16,0,67
+Objective-C,/tmp/clone_directory/Natives/PickTextField.m,18,0,66
+Java,/tmp/clone_directory/JavaApp/src/main/java/android/util/Objects.java,0,23,64
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/lzma12.h,50,455,64
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.yml,6,0,62
+Objective-C,/tmp/clone_directory/Natives/authenticator/BaseAuthenticator.m,17,1,61
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/JMinecraftVersionList.java,10,3,60
+Objective-C,/tmp/clone_directory/Natives/customcontrols/NSPredicateUtilitiesExternal.m,10,0,59
+C/C++ Header,/tmp/clone_directory/Natives/environ.h,9,13,59
+Objective-C,/tmp/clone_directory/Natives/input/GyroInput.m,10,3,58
+Objective-C,/tmp/clone_directory/Natives/FileListViewController.m,16,1,56
+Objective-C,/tmp/clone_directory/Natives/LauncherSplitViewController.m,13,0,56
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan.h,26,5,56
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/uikit/UIKit.java,15,5,53
+Objective-C,/tmp/clone_directory/Natives/installer/modpack/ModpackAPI.m,9,2,48
+Objective-C,/tmp/clone_directory/Natives/external/NRFileManager/NSFileManager+NRFileManager.m,19,27,47
+Objective-C,/tmp/clone_directory/Natives/installer/modpack/ModpackUtils.m,5,0,44
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/MinecraftAccount.java,6,1,43
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/JVersion.java,1,0,42
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/stream_flags.h,36,190,40
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/version.h,24,71,40
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vk_platform.h,9,33,40
+XML,/tmp/clone_directory/entitlements.trollstore.xml,5,4,39
+C/C++ Header,/tmp/clone_directory/Natives/SurfaceViewController.h,20,2,38
+Java,/tmp/clone_directory/JavaApp/src/main/java/android/util/ContainerHelpers.java,8,16,35
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_ggp.h,14,9,35
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_xcb.h,12,9,34
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_xlib.h,12,9,34
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_directfb.h,12,9,33
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_wayland.h,12,9,33
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/PojavClassLoader.java,7,14,32
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/AppLogo.imageset/Contents.json,0,0,32
+Objective-C,/tmp/clone_directory/Natives/SurfaceViewController+ExternalDisplay.m,9,0,32
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_metal.h,13,9,32
+C/C++ Header,/tmp/clone_directory/Natives/ctxbridges/gl_bridge.h,4,1,31
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_intel.h,10,22,30
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.yml,2,0,29
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/Callbacks.java,6,16,29
+Objective-C,/tmp/clone_directory/Natives/SceneExternalDelegate.m,17,13,29
+XML,/tmp/clone_directory/Natives/resources/log4j-rce-patch-1.7.xml,0,0,29
+XML,/tmp/clone_directory/Natives/resources/log4j-rce-patch-1.12.xml,0,0,28
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_fuchsia.h,11,9,27
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_ios.h,11,9,27
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_macos.h,11,9,27
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_vi.h,11,9,27
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/informational.yml,2,0,26
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/LauncherProfiles.java,3,10,25
+Objective-C,/tmp/clone_directory/Natives/SceneDelegate.m,16,13,25
+C/C++ Header,/tmp/clone_directory/Natives/UIKit+hook.h,8,6,25
+C/C++ Header,/tmp/clone_directory/Natives/external/Apple/codesign.h,10,30,25
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/vulkan/vulkan_xlib_xrandr.h,11,9,25
+C/C++ Header,/tmp/clone_directory/Natives/CustomControlsViewController.h,9,0,24
+C/C++ Header,/tmp/clone_directory/Natives/ctxbridges/osm_bridge.h,4,0,23
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/check.h,21,120,23
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/CallbackBridge.java,10,12,22
+C/C++ Header,/tmp/clone_directory/Natives/ctxbridges/bridge_tbl.h,5,1,22
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/GLFWNativeCocoa.java,15,56,21
+Objective-C,/tmp/clone_directory/Natives/GameSurfaceView.m,6,0,21
+C/C++ Header,/tmp/clone_directory/Natives/external/gl4es/string_utils.h,6,2,21
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/utils/JSONUtils.java,3,0,20
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/input/InfdevMouse.java,5,0,20
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/GLFWWindowProperties.java,3,0,19
+Objective-C,/tmp/clone_directory/Natives/AppDelegate.m,9,6,19
+C/C++ Header,/tmp/clone_directory/Natives/LauncherPreferences.h,8,0,19
+Objective-C,/tmp/clone_directory/Natives/customcontrols/ControlSubButton.m,7,3,19
+C/C++ Header,/tmp/clone_directory/Natives/external/UnzipKit/UZKFileInfo.h,22,49,19
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/delta.h,19,58,19
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/index_hash.h,13,92,19
+Objective-C,/tmp/clone_directory/Natives/installer/FabricUtils.m,3,0,19
+XML,/tmp/clone_directory/entitlements.sideload.xml,3,2,19
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/ForgeInstallProfile.java,4,2,18
+C/C++ Header,/tmp/clone_directory/Natives/LauncherMenuViewController.h,6,0,18
+C/C++ Header,/tmp/clone_directory/Natives/external/ballpa1n/wrapped/HostManagerBridge.h,4,6,18
+C/C++ Header,/tmp/clone_directory/Natives/JavaLauncher.h,3,0,17
+Objective-C,/tmp/clone_directory/Natives/PLPickerView.m,2,1,17
+C/C++ Header,/tmp/clone_directory/Natives/authenticator/BaseAuthenticator.h,11,0,17
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/vli.h,17,134,17
+XML,/tmp/clone_directory/entitlements.codesign.xml,0,0,17
+Java,/tmp/clone_directory/JavaApp/src/main/java/com/mojang/text2speech/NarratorDummy.java,5,0,16
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/MinecraftProfile.java,1,0,16
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/MinecraftLauncherProfiles.java,2,2,15
+C/C++ Header,/tmp/clone_directory/Natives/PLPrefTableViewController.h,7,0,15
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/ControlButton.h,6,7,15
+C/C++ Header,/tmp/clone_directory/Natives/installer/modpack/ModpackAPI.h,6,0,15
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/question.yml,0,0,14
+Java,/tmp/clone_directory/JavaApp/src/main/java/android/util/EmptyArray.java,1,15,14
+Java,/tmp/clone_directory/JavaApp/src/main/java/com/mojang/text2speech/Narrator.java,6,0,14
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/MinecraftLauncherSettings.java,1,0,14
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/AppIcon-Dark.appiconset/Contents.json,0,0,14
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/AppIcon-Development.appiconset/Contents.json,0,0,14
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/AppIcon-Light.appiconset/Contents.json,0,0,14
+C/C++ Header,/tmp/clone_directory/Natives/PLProfiles.h,7,1,14
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/ControlDrawer.h,5,0,14
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/CustomControlsUtils.h,3,0,14
+C/C++ Header,/tmp/clone_directory/Natives/external/ballpa1n/HostManager.h,5,1,14
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/DependentLibrary.java,3,1,13
+C/C++ Header,/tmp/clone_directory/Natives/MinecraftResourceDownloadTask.h,5,0,13
+Objective-C,/tmp/clone_directory/Natives/authenticator/MinecraftAccountJNI.m,2,1,13
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/bcj.h,14,67,13
+C/C++ Header,/tmp/clone_directory/Natives/external/mesa/MoltenVK/mvk_vulkan.h,11,26,13
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/AppLogo-Vector.imageset/Contents.json,0,0,12
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/DefaultAccount.imageset/Contents.json,0,0,12
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/MenuNews.imageset/Contents.json,0,0,12
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/MenuSettings.imageset/Contents.json,0,0,12
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/MousePointer.imageset/Contents.json,0,0,12
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/SpinnerArrow.imageset/Contents.json,0,0,12
+C/C++ Header,/tmp/clone_directory/Natives/MinecraftResourceUtils.h,5,0,12
+C/C++ Header,/tmp/clone_directory/Natives/PLPickerView.h,4,1,12
+C/C++ Header,/tmp/clone_directory/Natives/external/ballpa1n/include/IOKitLib.h,6,0,12
+C/C++ Header,/tmp/clone_directory/Natives/ios_uikit_bridge.h,4,0,12
+C/C++ Header,/tmp/clone_directory/Natives/PLPreferences.h,5,0,11
+Objective-C,/tmp/clone_directory/Natives/SurfaceViewController+LogView.m,4,0,11
+Objective-C,/tmp/clone_directory/Natives/authenticator/LocalAuthenticator.m,4,1,11
+C/C++ Header,/tmp/clone_directory/Natives/external/AltKit/ALTServerConnection.h,8,0,11
+C/C++ Header,/tmp/clone_directory/Natives/LauncherNavigationController.h,5,0,10
+JSON,/tmp/clone_directory/Natives/Assets.xcassets/Contents.json,0,0,9
+C/C++ Header,/tmp/clone_directory/Natives/JavaGUIViewController.h,3,0,9
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/MinecraftAuthenticationDatabase.java,1,1,8
+C/C++ Header,/tmp/clone_directory/Natives/external/Apple/WFWorkflowProgressView.h,5,2,8
+C/C++ Header,/tmp/clone_directory/Natives/input/ControllerInput.h,3,0,8
+Objective-C,/tmp/clone_directory/Natives/non_darwin_utils.m,2,1,8
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/MinecraftClientInfo.java,1,0,7
+C/C++ Header,/tmp/clone_directory/Natives/PLLogOutputView.h,1,0,7
+C/C++ Header,/tmp/clone_directory/Natives/TrackedTextField.h,4,0,7
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/ControlLayout.h,4,0,7
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/ControlSubButton.h,4,0,7
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/JAssetInfo.java,1,1,6
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/JAssets.java,3,0,6
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/MinecraftResolution.java,1,0,6
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/launcherprofiles/MinecraftSelectedUser.java,1,0,6
+C/C++ Header,/tmp/clone_directory/Natives/DownloadProgressViewController.h,3,0,6
+C/C++ Header,/tmp/clone_directory/Natives/FileListViewController.h,3,0,6
+C/C++ Header,/tmp/clone_directory/Natives/input/GyroInput.h,3,0,6
+C/C++ Header,/tmp/clone_directory/Natives/installer/modpack/ModpackUtils.h,3,0,6
+Java,/tmp/clone_directory/JavaApp/src/main/java/com/mojang/text2speech/Text2Speech.java,1,0,5
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/value/MinecraftLibraryArtifact.java,1,0,5
+C/C++ Header,/tmp/clone_directory/Natives/AccountListViewController.h,4,0,5
+C/C++ Header,/tmp/clone_directory/Natives/LauncherProfileEditorViewController.h,1,0,5
+C/C++ Header,/tmp/clone_directory/Natives/external/UnzipKit/UnzipKit.h,5,9,5
+C/C++ Header,/tmp/clone_directory/Natives/external/lzma/lzma/hardware.h,6,52,5
+C/C++ Header,/tmp/clone_directory/Natives/input/KeyboardInput.h,3,0,5
+Java,/tmp/clone_directory/JavaApp/src/main/java/net/kdt/pojavlaunch/uikit/UIKitCallback.java,1,0,4
+C/C++ Header,/tmp/clone_directory/Natives/AppDelegate.h,4,3,4
+C/C++ Header,/tmp/clone_directory/Natives/GameSurfaceView.h,1,0,4
+C/C++ Header,/tmp/clone_directory/Natives/LauncherPreferencesViewController.h,2,0,4
+C/C++ Header,/tmp/clone_directory/Natives/SceneDelegate.h,3,0,4
+C/C++ Header,/tmp/clone_directory/Natives/SceneExternalDelegate.h,3,0,4
+C/C++ Header,/tmp/clone_directory/Natives/external/NRFileManager/NSFileManager+NRFileManager.h,6,5,4
+C/C++ Header,/tmp/clone_directory/Natives/external/ballpa1n/include/CoreFoundation.h,1,0,4
+C/C++ Header,/tmp/clone_directory/Natives/installer/FabricInstallViewController.h,1,0,4
+C/C++ Header,/tmp/clone_directory/Natives/installer/FabricUtils.h,3,0,4
+C/C++ Header,/tmp/clone_directory/Natives/installer/modpack/CurseForgeAPI.h,1,0,4
+Objective-C,/tmp/clone_directory/Natives/installer/modpack/CurseForgeAPI.m,1,0,4
+C/C++ Header,/tmp/clone_directory/Natives/installer/modpack/ModrinthAPI.h,1,0,4
+Java,/tmp/clone_directory/JavaApp/src/main/java/com/mojang/text2speech/NarratorLinux.java,1,0,3
+Java,/tmp/clone_directory/JavaApp/src/main/java/com/mojang/text2speech/NarratorOSX.java,1,0,3
+Java,/tmp/clone_directory/JavaApp/src/main/java/com/mojang/text2speech/NarratorWindows.java,1,0,3
+Java,/tmp/clone_directory/JavaApp/src/main/java/org/lwjgl/glfw/GLFWNativeEGL.java,1,1,3
+C/C++ Header,/tmp/clone_directory/Natives/LauncherNewsViewController.h,2,0,3
+C/C++ Header,/tmp/clone_directory/Natives/LauncherPrefContCfgViewController.h,3,0,3
+C/C++ Header,/tmp/clone_directory/Natives/LauncherPrefGameDirViewController.h,3,0,3
+C/C++ Header,/tmp/clone_directory/Natives/LauncherPrefManageJREViewController.h,3,0,3
+C/C++ Header,/tmp/clone_directory/Natives/LauncherProfilesViewController.h,3,0,3
+C/C++ Header,/tmp/clone_directory/Natives/LauncherSplitViewController.h,2,0,3
+C/C++ Header,/tmp/clone_directory/Natives/PickTextField.h,2,0,3
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/ControlJoystick.h,1,0,3
+C/C++ Header,/tmp/clone_directory/Natives/customcontrols/NSPredicateUtilitiesExternal.h,1,0,3
+Markdown,/tmp/clone_directory/Natives/external/ballpa1n/README.md,3,0,3
+INI,/tmp/clone_directory/Natives/external/mesa/vulkan/.editorconfig,0,0,3
+C/C++ Header,/tmp/clone_directory/Natives/installer/ForgeInstallViewController.h,1,0,3
+C/C++ Header,/tmp/clone_directory/Natives/installer/ModpackInstallViewController.h,1,0,3
+YAML,/tmp/clone_directory/crowdin.yml,0,0,3
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,0,2
+XML,/tmp/clone_directory/Natives/resources/Frameworks/AltKit.framework/Info.plist,0,0,2
+XML,/tmp/clone_directory/Natives/resources/Frameworks/CAltKit.framework/Info.plist,0,0,2
+XML,/tmp/clone_directory/Natives/resources/Frameworks/UnzipKit.framework/Info.plist,0,0,2
+XML,/tmp/clone_directory/Natives/resources/Frameworks/libEGL.framework/Info.plist,0,0,2
+XML,/tmp/clone_directory/Natives/resources/Frameworks/libGLESv2.framework/Info.plist,0,0,2
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,1
+SUM,,8851,11138,57657

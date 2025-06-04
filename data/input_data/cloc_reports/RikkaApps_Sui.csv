@@ -1,0 +1,165 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.05 s (3343.5 files/s 292425.5 lines/s)"
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/SuiService.java,87,32,474
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/settings/SettingsInstrumentation.java,95,22,446
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/main/adb_root.hpp,74,9,397
+C,/tmp/clone_directory/module/src/main/cpp/util/plt.c,40,4,333
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/Preconditions.java,58,272,281
+Gradle,/tmp/clone_directory/module/build.gradle,25,1,205
+C++,/tmp/clone_directory/module/src/main/cpp/core/main_zygisk.cpp,52,0,205
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/shortcut/SuiShortcut.java,46,18,203
+C++,/tmp/clone_directory/module/src/main/cpp/core/main_riru.cpp,40,23,179
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/settings/SettingsProcess.java,46,18,175
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/management/ManagementAppItemViewHolder.kt,26,18,167
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/binder/TransactionCodeExporter.java,31,2,165
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/InstrumentationUtil.java,14,19,165
+C++,/tmp/clone_directory/module/src/main/cpp/util/dex_file.cpp,35,18,162
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/TextUtilsCompat.java,43,112,147
+Bourne Shell,/tmp/clone_directory/gradlew,21,22,129
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/bridge/BridgeServiceClient.java,34,22,129
+C++,/tmp/clone_directory/module/src/main/cpp/util/misc.cpp,21,18,128
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/permission/ConfirmationDialog.java,25,18,128
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/include/zygisk.hpp,46,114,125
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/resource/SuiApk.java,27,18,124
+C++,/tmp/clone_directory/module/src/main/cpp/core/bridge_service.cpp,35,48,122
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/Logger.java,26,18,119
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/manager/ManagerProcess.java,28,19,118
+C++,/tmp/clone_directory/module/src/main/cpp/core/settings_process.cpp,26,21,117
+C++,/tmp/clone_directory/module/src/main/cpp/util/socket.cpp,22,0,116
+Gradle,/tmp/clone_directory/ui/build.gradle,12,0,108
+YAML,/tmp/clone_directory/.github/workflows/module.yml,2,0,104
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/management/ManagementFragment.kt,17,18,102
+C++,/tmp/clone_directory/module/src/main/cpp/util/app_process.cpp,15,18,101
+C++,/tmp/clone_directory/module/src/main/cpp/core/system_server.cpp,26,35,99
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/AppIconCache.kt,18,3,99
+Bourne Shell,/tmp/clone_directory/template/magisk_module/customize.sh,25,5,97
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/systemserver/BridgeService.java,23,18,96
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/ktx/Resources.kt,17,18,96
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/BridgeServiceClient.java,18,18,91
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/BridgeServiceClient.java,19,19,91
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/app/AppActivity.java,21,18,89
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/permission/SystemDialogRootView.java,22,18,89
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/shell/Shell.java,15,0,88
+C++,/tmp/clone_directory/module/src/main/cpp/util/selinux.cpp,15,1,84
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/SuiDatabase.java,17,0,84
+XML,/tmp/clone_directory/ui/src/main/res/layout/confirmation_dialog.xml,11,0,83
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/SuiConfigManager.java,17,18,77
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/settings/ActivityThreadUtil.java,18,19,77
+CMake,/tmp/clone_directory/module/src/main/cpp/CMakeLists.txt,19,0,76
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/userservice/Starter.java,18,18,76
+Markdown,/tmp/clone_directory/template/magisk_module/CHANGELOG.md,53,0,75
+C++,/tmp/clone_directory/module/src/main/cpp/core/binder_hook.cpp,21,22,74
+C++,/tmp/clone_directory/module/src/main/cpp/core/manager_process.cpp,15,18,73
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/installer/Uninstaller.java,18,21,71
+XML,/tmp/clone_directory/ui/src/main/res/values/themes.xml,15,1,70
+Markdown,/tmp/clone_directory/README.md,49,0,59
+DOS Batch,/tmp/clone_directory/gradlew.bat,23,2,59
+Bourne Shell,/tmp/clone_directory/template/magisk_module/util_functions.sh,6,0,59
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/ParcelFileDescriptorUtil.java,14,18,58
+XML,/tmp/clone_directory/ui/src/main/res/layout/management_app_item.xml,7,0,57
+Bourne Shell,/tmp/clone_directory/template/magisk_module/post-fs-data.sh,12,4,55
+Gradle,/tmp/clone_directory/settings.gradle,14,0,54
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/binder/IBinderWrapper.java,16,0,52
+C++,/tmp/clone_directory/module/src/main/cpp/adbd/adbd_wrapper_main.cpp,8,18,51
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/systemserver/PackageReceiver.java,10,18,51
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/systemserver/SystemProcess.java,16,18,49
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/management/ManagementViewModel.kt,13,18,46
+ProGuard,/tmp/clone_directory/module/proguard-rules.pro,15,0,44
+C++,/tmp/clone_directory/module/src/main/cpp/util/memory.cpp,12,7,42
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/SuiUserServiceManager.java,11,18,42
+Gradle,/tmp/clone_directory/build.gradle,7,0,40
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/dex_file.h,26,18,38
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/ktx/Drawable.kt,6,35,38
+C++,/tmp/clone_directory/module/src/main/cpp/adbd/adbd_preload.cpp,6,0,37
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/SuiConfig.java,18,18,37
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/ktx/TextView.kt,8,18,37
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/AppNameComparator.java,11,20,36
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/Starter.java,11,18,35
+Bourne Shell,/tmp/clone_directory/template/magisk_module/riru.sh,6,3,35
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/model/AppInfo.java,10,18,35
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/installer/Installer.java,9,18,34
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/ktx/Window.kt,7,18,34
+C++,/tmp/clone_directory/module/src/main/cpp/util/android.cpp,13,18,33
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/ParcelUtils.java,9,19,33
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/SQLiteDataBaseRemoteCompat.java,7,0,33
+Bourne Shell,/tmp/clone_directory/template/magisk_module/verify.sh,6,1,32
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/AppInfoComparator.java,10,18,32
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/systemserver/Bridge.java,9,18,31
+XML,/tmp/clone_directory/ui/src/main/res/layout/management.xml,5,0,30
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/settings/HandlerUtil.java,9,18,27
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/BuildUtils.java,12,18,27
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/main/sui_main.hpp,9,21,26
+XML,/tmp/clone_directory/ui/src/main/res/layout/appbar.xml,2,0,26
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/main/uninstall_main.hpp,9,21,25
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/plt.h,7,0,25
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/OsUtils.java,10,18,25
+ProGuard,/tmp/clone_directory/ui/proguard-rules.pro,9,0,25
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/SuiActivity.java,10,18,25
+XML,/tmp/clone_directory/ui/src/main/res/anim/stagger_layout_animation.xml,0,0,25
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/AppLabel.java,9,33,23
+C++,/tmp/clone_directory/module/src/main/cpp/main/main.cpp,5,0,22
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/ktx/LayoutInflater.kt,4,18,22
+XML,/tmp/clone_directory/ui/src/main/res/animator/alpha_animator.xml,0,0,22
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/management/ManagementAdapter.kt,6,18,21
+C++,/tmp/clone_directory/module/src/main/cpp/core/main.cpp,3,0,20
+XML,/tmp/clone_directory/ui/src/main/res/values-zh-rCN/strings.xml,0,0,20
+XML,/tmp/clone_directory/ui/src/main/res/values-zh-rTW/strings.xml,0,0,20
+XML,/tmp/clone_directory/ui/src/main/res/values/strings.xml,0,0,20
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/LabelComparator.java,5,22,19
+Gradle,/tmp/clone_directory/module.gradle,5,0,18
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/include/logging.h,5,18,18
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/AppIconUtil.java,5,18,18
+XML,/tmp/clone_directory/ui/src/main/res/layout/appbar_fragment_activity.xml,4,0,18
+Bourne Shell,/tmp/clone_directory/template/magisk_module/META-INF/com/google/android/update-binary,9,7,17
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/manager/WorkerHandler.java,6,18,15
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/settings/WorkerHandler.java,6,18,15
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/MapUtil.java,5,18,15
+Bourne Shell,/tmp/clone_directory/template/magisk_module/post-install.example.sh,6,20,15
+Bourne Shell,/tmp/clone_directory/template/magisk_module/uninstall.sh,2,0,15
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/misc.h,5,18,14
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/UserHandleCompat.java,7,18,14
+XML,/tmp/clone_directory/ui/src/main/res/values-v31/colors.xml,2,0,13
+XML,/tmp/clone_directory/ui/src/main/res/values/colors.xml,1,0,13
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/SuiRequestPermissionDialog.java,5,18,12
+XML,/tmp/clone_directory/ui/src/main/res/drawable/ic_shortcut_24.xml,0,0,11
+XML,/tmp/clone_directory/ui/src/main/res/drawable/ic_su_24.xml,0,0,11
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/util/UserHandleCompat.java,6,18,10
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/app/AppFragment.java,5,18,10
+XML,/tmp/clone_directory/ui/src/main/res/drawable/ic_close_24.xml,0,0,10
+Properties,/tmp/clone_directory/gradle.properties,0,15,9
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/socket.h,1,0,9
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/binder/Transaction.java,2,0,9
+Bourne Shell,/tmp/clone_directory/template/magisk_module/rish,2,0,9
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/core/binder_hook.h,7,18,8
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/core/bridge_service.h,5,18,8
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/selinux.h,2,0,8
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/ServerConstants.java,6,18,8
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/include/config.h,3,18,7
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/android.h,6,18,7
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/server/SuiClientManager.java,6,18,7
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/shortcut/ShortcutConstants.java,5,18,7
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/server/SuiConfig.java,3,18,7
+Java,/tmp/clone_directory/ui/src/main/java/rikka/sui/util/Unsafe.java,3,18,7
+XML,/tmp/clone_directory/.idea/copyright/GPL_v3.xml,0,0,6
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/core/manager_process.h,3,18,6
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/core/settings_process.h,3,18,6
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/core/system_server.h,3,18,6
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/binder/HookedBinderProxy.java,4,0,6
+Kotlin,/tmp/clone_directory/ui/src/main/java/rikka/sui/ktx/Handler.kt,3,18,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/app_process.h,4,18,5
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/util/include/memory.h,2,0,5
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/manager/ManagerConstants.java,4,18,5
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/settings/SettingsConstants.java,5,18,5
+Java,/tmp/clone_directory/module/src/main/java/rikka/sui/systemserver/SystemServerConstants.java,4,18,5
+XML,/tmp/clone_directory/ui/src/main/res/color/confirmation_dialog_button_text.xml,0,0,5
+XML,/tmp/clone_directory/ui/src/main/res/drawable/confirmation_dialog_background.xml,0,0,5
+XML,/tmp/clone_directory/ui/src/main/res/layout/main.xml,2,18,5
+C/C++ Header,/tmp/clone_directory/module/src/main/cpp/core/main.h,2,0,4
+XML,/tmp/clone_directory/ui/src/main/res/raw/keep.xml,0,0,4
+XML,/tmp/clone_directory/ui/src/main/res/values-night/styles.xml,0,0,4
+XML,/tmp/clone_directory/ui/src/main/res/values/dimens.xml,0,0,4
+XML,/tmp/clone_directory/.idea/copyright/profiles_settings.xml,0,0,3
+XML,/tmp/clone_directory/ui/src/main/res/values/styles.xml,1,0,3
+XML,/tmp/clone_directory/module/src/main/AndroidManifest.xml,0,0,1
+XML,/tmp/clone_directory/ui/src/main/AndroidManifest.xml,0,0,1
+SUM,,2204,2323,9729

@@ -1,0 +1,150 @@
+Requested labels: self-hosted__dup_3, 2317.896667605348, , , , 171994960, False, 
+##[group]Run mvn -B package javadoc:javadoc__dup_110, 932.034637098707, , , , 40257574, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-test-util/../commonmark/target/apidocs is not a dir.
+##[group]Run mvn -B package javadoc:javadoc__dup_59, 815.2504445590545, , , , 35256295, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-test-util/../commonmark/target/apidocs is not a dir.
+Requested labels: self-hosted__dup_2, 647.408636908392, , , , 84885067, False, 
+##[group]Run mvn -B package javadoc:javadoc, 604.946800102967, , , , 66580769, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-test-util/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark ---__dup_119, 138.37442730830514, , , , 5669765, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark ---__dup_69, 122.21824605173356, , , , 4794993, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark ---, 79.39619364626779, , , , 4793116, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark ---__dup_121, 78.35920148230336, , , , 2578571, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-integration-test ---, 64.37959128272283, , , , 1776124, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-integration-test ---__dup_150, 63.39782875062051, , , , 1588098, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark ---, 60.85705624968741, , , , 2599070, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-integration-test ---__dup_99, 53.49441625129039, , , , 1623123, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark ---__dup_117, 50.45955467251124, , , , 1311244, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark ---__dup_71, 49.59009543113355, , , , 2458278, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-parent ---, 46.30947424902436, , , , 7363303, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-test-util ---__dup_66, 45.32440353952961, , , , 1522026, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-test-util/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-test-util ---__dup_62, 43.95484720165869, , , , 1270643, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-yaml-front-matter ---, 41.31034293052292, , , , 1758462, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-yaml-front-matter/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-gfm-tables ---__dup_81, 39.980011151083936, , , , 1219251, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-gfm-tables/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-test-util ---, 39.88076136549532, , , , 2057636, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-test-util/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-ins ---, 39.5905236218554, , , , 1304309, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-ins/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-test-util ---, 38.21620478046071, , , , 2267329, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-yaml-front-matter ---__dup_147, 35.64150551950371, , , , 1191983, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-yaml-front-matter/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-heading-anchor ---__dup_84, 35.14441219135435, , , , 1144216, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-heading-anchor/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-image-attributes ---, 35.10691963459125, , , , 1336347, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-image-attributes/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-test-util ---__dup_113, 33.32088911140476, , , , 2313819, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-autolink ---, 32.85915202582308, , , , 1270193, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-autolink/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-yaml-front-matter ---__dup_96, 32.30122661128948, , , , 1112093, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-yaml-front-matter/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-heading-anchor ---__dup_133, 31.05846837869308, , , , 761787, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-gfm-strikethrough ---__dup_126, 31.014092400998493, , , , 874006, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-test-util ---__dup_116, 30.983793858125757, , , , 2050821, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-test-util/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-autolink ---__dup_123, 30.24522143488476, , , , 702657, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-task-list-items ---__dup_143, 29.764711856138607, , , , 719256, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-ins ---__dup_140, 29.71297964002008, , , , 695445, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-gfm-strikethrough ---__dup_76, 28.443551023181275, , , , 731609, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-gfm-tables ---__dup_131, 27.905854622061547, , , , 1347774, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-gfm-tables/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-task-list-items ---__dup_144, 27.800318240188723, , , , 1079918, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-task-list-items/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-autolink ---__dup_124, 27.344984339014623, , , , 1041044, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-autolink/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-ins ---__dup_141, 26.695345489392512, , , , 1120654, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-ins/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-yaml-front-matter ---, 25.59471890385325, , , , 723200, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-task-list-items ---__dup_92, 25.20757495331342, , , , 685112, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-heading-anchor ---, 25.05480104844213, , , , 761139, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-gfm-strikethrough ---__dup_77, 24.08737928797113, , , , 1117362, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-gfm-strikethrough/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-autolink ---, 23.328493676995794, , , , 698478, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-heading-anchor ---__dup_134, 22.74145367333967, , , , 1154027, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-heading-anchor/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-image-attributes ---__dup_138, 20.93905669805547, , , , 1068858, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-image-attributes/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark ---__dup_68, 20.164005419995924, , , , 932332, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-ins ---__dup_90, 19.867892370147462, , , , 1082552, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-ins/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-test-util ---__dup_65, 19.08090734368849, , , , 407107, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-heading-anchor ---, 18.52294340714461, , , , 1328761, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-heading-anchor/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-gfm-tables ---__dup_79, 18.45647144416733, , , , 914975, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-autolink ---__dup_74, 18.13616366572072, , , , 984097, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-autolink/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark ---__dup_67, 17.536826130479362, , , , 1010751, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-parent ---__dup_111, 17.386280284158055, , , , 552450, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-image-attributes ---, 17.13986899113649, , , , 56372, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-gfm-tables ---, 17.015219797275982, , , , 1424988, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-gfm-tables/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark ---__dup_118, 16.948080119195744, , , , 932957, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-parent ---__dup_60, 16.913935210566542, , , , 515168, False, 
+##[group]GITHUB_TOKEN Permissions__dup_101, 16.52459216441197, , , , 2081407, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-task-list-items ---, 16.505881808374454, , , , 1296546, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-task-list-items/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-gfm-tables ---__dup_78, 16.499705022179924, , , , 89472, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-gfm-tables ---, 16.48562036755058, , , , 87002, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark ---, 16.4368137138222, , , , 913702, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-image-attributes ---__dup_136, 16.153089285776367, , , , 41470, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-task-list-items ---, 15.934600684713162, , , , 696972, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ commonmark-test-util ---, 15.840915691219148, , , , 1695021, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-image-attributes ---__dup_137, 15.813099081471904, , , , 752112, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-test-util ---, 15.755435249891066, , , , 744587, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-ins ---__dup_89, 15.47680329440716, , , , 763913, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-heading-anchor ---__dup_83, 15.329282810169024, , , , 699668, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-autolink ---__dup_73, 15.121882160182864, , , , 681137, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-yaml-front-matter ---__dup_95, 15.056461326755755, , , , 668698, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-ins ---, 14.943403216929308, , , , 37831, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-image-attributes ---__dup_86, 14.85539688276556, , , , 704249, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-gfm-tables ---__dup_130, 14.524352111393494, , , , 803968, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-ins ---, 14.165910147791214, , , , 715867, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-yaml-front-matter ---__dup_146, 14.05176467218916, , , , 699838, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-image-attributes ---__dup_87, 13.970300130613008, , , , 1041790, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-image-attributes/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-gfm-tables ---, 13.90471583799446, , , , 823349, False, 
+##[group]GITHUB_TOKEN Permissions, 13.806589706270389, , , , 2039815, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-gfm-strikethrough ---, 13.580216801857745, , , , 784124, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-gfm-strikethrough ---, 13.025602501276431, , , , 1359662, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-gfm-strikethrough/../commonmark/target/apidocs is not a dir.
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-ext-image-attributes ---, 12.82983220531944, , , , 705105, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark ---, 12.512509149285089, , , , 776827, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-test-util ---, 10.053332210270328, , , , 1928692, False, 
+##[group]GITHUB_TOKEN Permissions__dup_53, 9.437145479989349, , , , 2199700, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-test-util ---__dup_115, 8.836619889258571, , , , 439915, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-task-list-items ---__dup_93, 8.779990730382695, , , , 1022173, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-task-list-items/../commonmark/target/apidocs is not a dir.
+##[group]Fetching the repository__dup_57, 8.178245491273177, , , , 434963, False, 
+##[group]Fetching the repository, 7.356645559908252, , , , 712159, False, 
+##[group]Run actions/checkout@v2__dup_102, 7.113478039198292, , , , 196359, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-integration-test ---, 6.988175465146688, , , , 410561, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-integration-test ---__dup_98, 6.766333822552821, , , , 215062, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-integration-test ---__dup_149, 6.561811839151892, , , , 211093, False, 
+[INFO] --- maven-javadoc-plugin:3.5.0:javadoc (default-cli) @ commonmark-ext-gfm-strikethrough ---__dup_127, 6.10957812628175, , , , 1256141, True, [ERROR] The given File link: /home/power/actions-runner/_work/commonmark-java/commonmark-java/commonmark-ext-gfm-strikethrough/../commonmark/target/apidocs is not a dir.
+##[group]Run actions/setup-java@v2__dup_109, 4.468137675527131, , , , 249972, False, 
+##[group]Setting up auth__dup_106, 4.256620905139926, , , , 310886, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-test-util ---__dup_114, 3.9023208141301056, , , , 145830, False, 
+##[group]Checking out the ref__dup_108, 3.846728370700236, , , , 333494, False, 
+##[group]Fetching the repository__dup_107, 3.6276938605640665, , , , 490564, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ commonmark-ext-gfm-strikethrough ---, 3.550253821471772, , , , 1327, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-ext-gfm-tables ---__dup_80, 3.534934857133551, , , , 19613, False, 
+##[group]Run actions/setup-java@v2, 3.523771402645129, , , , 246532, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-integration-test ---__dup_148, 3.4801591651585384, , , , 111300, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-gfm-strikethrough ---__dup_75, 3.461450762425537, , , , 53181, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ commonmark-test-util ---__dup_64, 3.458308589966041, , , , 180525, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-image-attributes ---__dup_85, 3.433391940006102, , , , 47546, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-integration-test ---__dup_97, 3.38933415316224, , , , 92694, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-autolink ---, 3.386079688596105, , , , 61988, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ commonmark-test-util ---__dup_112, 3.3797259897708294, , , , 77116, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-autolink ---, 3.3753921416481925, , , , 56019, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-ins ---__dup_139, 3.3700266352332187, , , , 44073, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-heading-anchor ---, 3.321234498401819, , , , 40757, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-task-list-items ---, 3.3202231949131686, , , , 46276, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-heading-anchor ---, 3.3051633451796683, , , , 51427, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-autolink ---__dup_122, 3.29808361502366, , , , 61303, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ commonmark-test-util ---__dup_61, 3.292710860945601, , , , 74997, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ commonmark-test-util ---, 3.279372150580214, , , , 5030, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-image-attributes ---, 3.255572326794616, , , , 35577, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-ext-task-list-items ---, 3.232622626835536, , , , 18509, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-image-attributes ---__dup_135, 3.230617857155273, , , , 80144, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-gfm-tables ---, 3.227923716184633, , , , 94113, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-gfm-strikethrough ---, 3.220059808704072, , , , 57146, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-yaml-front-matter ---, 3.219606818414792, , , , 42824, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-ins ---, 3.167952404378564, , , , 40731, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-task-list-items ---, 3.156249525989278, , , , 37330, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-autolink ---__dup_72, 3.1408967365733957, , , , 53757, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-heading-anchor ---__dup_82, 3.128400334713771, , , , 41304, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-gfm-strikethrough ---, 3.094055696620941, , , , 56744, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-ext-gfm-tables ---, 2.9468367120939067, , , , 16934, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-yaml-front-matter ---, 2.7602334414962284, , , , 41299, False, 
+##[group]Run actions/checkout@v2__dup_54, 2.6978281340712638, , , , 199117, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-ext-heading-anchor ---, 2.109060197525745, , , , 24529, False, 
+##[group]Run actions/setup-java@v2__dup_58, 2.062972296080385, , , , 245344, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark ---__dup_120, 2.0518688304030386, , , , 121421, False, 
+##[group]Run actions/checkout@v2, 1.8752233780158287, , , , 204865, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ commonmark-ext-gfm-tables ---__dup_129, 1.653645362469322, , , , 99611, False, 
+##[group]Setting up auth, 1.6356490982546354, , , , 63371, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-ext-gfm-tables ---__dup_128, 1.617667884368241, , , , 109108, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark ---, 1.5352276761560832, , , , 86526, False, 
+##[group]Cleaning the repository, 1.520955085767034, , , , 69011, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark ---__dup_70, 1.468345662408277, , , , 99440, False, 
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ commonmark-integration-test ---, 1.3976350930293375, , , , 30509, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ commonmark-integration-test ---, 1.3054738540447008, , , , 8268, False, 
+##[group]Getting Git version info, 1.2665332893358392, , , , 184081, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.2144791831678996, , , , 30813, False, 
+##[group]Cleaning the repository__dup_105, 1.1624250769999598, , , , 120884, False, 
+##[group]Checking out the ref, 1.1333767669326438, , , , 53595, False, 
+Requested labels: self-hosted, 0.0247357034110223, , , , 6074920, False, 

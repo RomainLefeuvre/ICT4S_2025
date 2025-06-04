@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run PR_NUMBERS=$(curl -s -H ""Accept: application/vnd.github.v3+json"" ""https://api.github.com/repos/gravitee-io/gravitee-api-management/issues?state=open&labels=ready_to_test&type=pr"" | jq -r '.[].number')",672.4424221740989,1505871,False,
+Requested labels: self-hosted,34.7598043679585,6464982,False,
+##[group]GITHUB_TOKEN Permissions,9.519888799243546,171035,False,

@@ -1,0 +1,974 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.37 s (2594.5 files/s 433796.2 lines/s)"
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp2/src/main/resources/FIX50SP2.modified.xml,0,6,9936
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp2/src/main/resources/FIX50SP2.xml,0,0,9934
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp1/src/main/resources/FIX50SP1.modified.xml,0,6,9421
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp1/src/main/resources/FIX50SP1.xml,0,0,9419
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50/src/main/resources/FIX50.xml,2,4,8209
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix44/src/main/resources/FIX44.xml,1,8,6804
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix44/src/main/resources/FIX44.modified.xml,1,18,6800
+XML,/tmp/clone_directory/quickfixj-core/src/test/resources/FIX44_Custom_Test.xml,5,2,6648
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix43/src/main/resources/FIX43.xml,1,6,3984
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix42/src/main/resources/FIX42.xml,1,6,2663
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionTest.java,529,314,2305
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Session.java,359,640,2138
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/configuration.html,100,0,1398
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix41/src/main/resources/FIX41.xml,0,0,1268
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MessageTest.java,213,128,1179
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionScheduleTest.java,170,173,1064
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/DataDictionary.java,186,286,978
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix40/src/main/resources/FIX40.xml,0,0,857
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ssl/SSLCertificateTest.java,188,32,776
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/Message.java,119,127,763
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/DataDictionaryTest.java,91,55,651
+Maven,/tmp/clone_directory/pom.xml,13,13,596
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/ApplicationFunctionalAdapterTest.java,164,0,591
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/MessageTest.java,117,43,581
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionSettingsTest.java,99,32,576
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SocketInitiatorTest.java,93,28,573
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FieldMap.java,119,48,558
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionSettings.java,91,312,496
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/BanzaiApplication.java,88,21,494
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/FieldConvertersTest.java,53,56,480
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/DataDictionaryTest.java,111,125,470
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-all/pom.xml,5,13,462
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/RepeatingGroupTest.java,110,75,413
+Java,/tmp/clone_directory/quickfixj-codegenerator/src/main/java/org/quickfixj/codegenerator/MessageCodeGenerator.java,60,28,412
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/message/FIXMessageDecoderTest.java,77,46,391
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionState.java,100,74,389
+XML,/tmp/clone_directory/quickfixj-base/src/test/resources/FIXT11_Custom_Test.xml,0,4,381
+XML,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fixt11/src/main/resources/FIXT11.xml,0,4,380
+XML,/tmp/clone_directory/quickfixj-class-pruner-maven-plugin/src/test/resources/qfj-dictionaries/FIXT11.xml,0,4,379
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/CachedFileStore.java,83,88,375
+Java,/tmp/clone_directory/quickfixj-class-pruner-maven-plugin/src/test/java/org/quickfixj/ClassPrunerMojoTest.java,26,10,372
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/DefaultSessionFactory.java,71,29,370
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/SessionConnectorTest.java,68,42,365
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/installation.html,27,0,355
+Java,/tmp/clone_directory/quickfixj-examples/executor/src/main/java/quickfix/examples/executor/Application.java,72,23,340
+XSLT,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-all/src/main/xsl/minimiseOrchestra.xsl,37,52,340
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/SingleThreadedEventHandlingStrategyTest.java,64,33,332
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/SessionConnector.java,51,98,329
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/DefaultSessionSchedule.java,61,35,328
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SocketAcceptorTest.java,50,39,327
+Maven,/tmp/clone_directory/quickfixj-core/pom.xml,10,7,313
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/initiator/IoSessionInitiator.java,44,23,312
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/acceptor/AcceptorIoHandlerTest.java,81,45,301
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/FileStore.java,46,77,292
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/acceptor/AbstractSocketAcceptor.java,50,29,292
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionDisconnectConcurrentlyTest.java,61,19,289
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/initiator/AbstractSocketInitiator.java,44,24,287
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/session/SessionAdmin.java,83,88,284
+Maven,/tmp/clone_directory/quickfixj-base/pom.xml,9,5,277
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SleepycatStore.java,49,60,257
+Java,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-all/src/test/java/quickfix/SerializationTest.java,38,43,255
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/JdbcStore.java,41,20,251
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/FieldTest.java,39,19,250
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/Generator.java,24,33,249
+XML,/tmp/clone_directory/quickfixj-core/src/main/eclipse/formatter.xml,0,0,246
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ThreadPerSessionEventHandlingStrategyTest.java,52,40,244
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MultiAcceptorTest.java,44,19,239
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/message/FIXMessageDecoder.java,34,69,238
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ATServer.java,37,30,238
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/OrderEntryPanel.java,43,18,234
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fixlatest/pom.xml,3,3,232
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/AcceptanceTestSuite.java,37,2,226
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MessageCrackerTest.java,59,22,222
+Markdown,/tmp/clone_directory/README.md,106,0,216
+Bourne Shell,/tmp/clone_directory/mvnw,30,63,215
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/MessageUtils.java,29,99,215
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fixt11/pom.xml,4,2,214
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/ThreadPerSessionEventHandlingStrategy.java,39,49,213
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/SingleThreadedEventHandlingStrategy.java,41,56,212
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/DefaultSessionFactoryTest.java,35,24,212
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/Repository.java,27,24,210
+Java,/tmp/clone_directory/quickfixj-examples/ordermatch/src/main/java/quickfix/examples/ordermatch/Application.java,42,22,210
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionFactoryTestSupport.java,35,0,208
+XSLT,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/MessageSubclass.xsl,44,45,205
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SLF4JLogTest.java,46,27,205
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp1/pom.xml,8,1,201
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50/pom.xml,8,1,200
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp2/pom.xml,8,1,200
+Maven,/tmp/clone_directory/quickfixj-distribution/pom.xml,8,22,197
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/acceptor/DynamicAcceptorSessionProviderTest.java,36,24,196
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/FieldTest.java,23,18,193
+XSLT,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/Message.xsl,47,37,187
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ssl/SSLAndNonSSLTest.java,32,21,183
+XSLT,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/Fields.xsl,25,14,176
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/SessionIDTest.java,27,69,175
+DOS Batch,/tmp/clone_directory/mvnw.cmd,36,0,169
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/receiving_messages.html,29,0,168
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ssl/SecureSocketTest.java,26,33,168
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/DictionaryTest.java,37,29,166
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/ProtocolFactory.java,32,23,166
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/jmx.html,18,0,165
+Java,/tmp/clone_directory/quickfixj-class-pruner-maven-plugin/src/main/java/org/quickfixj/ClassPrunerMojo.java,29,15,161
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/mina_filters.html,24,0,161
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/JdbcLog.java,31,31,161
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/JdbcUtil.java,34,18,161
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/ConnectorAdmin.java,35,16,158
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/resynch/ResynchTestServer.java,29,30,156
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/AbstractIoHandler.java,13,22,155
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/Order.java,43,18,154
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/FileLogTest.java,45,25,152
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/SessionID.java,32,40,151
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/LostLogoutTest.java,35,58,151
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/LostLogoutThreadedTest.java,35,58,151
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/AbstractMessageStoreTest.java,50,22,150
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/openmbean/TabularDataAdapter.java,10,16,149
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/TestConnection.java,22,21,148
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix40/pom.xml,5,1,144
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix42/pom.xml,8,1,144
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix44/pom.xml,8,1,144
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix43/pom.xml,8,7,143
+Maven,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix41/pom.xml,8,1,142
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/JdbcLogTest.java,25,27,139
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ApplicationFunctionalAdapter.java,37,110,138
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/DummySLF4JLogger.java,62,6,138
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MessageUtilsTest.java,34,26,138
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/UtcTimestampConverter.java,18,60,136
+Java,/tmp/clone_directory/quickfixj-codegenerator/src/main/java/org/quickfixj/codegenerator/GenerateMojo.java,43,164,134
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/resynch/ResynchTestClient.java,27,19,133
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ATMessageCracker.java,32,18,132
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MessageComponentTest.java,32,0,130
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MessageComponentTestFixLatest.java,32,0,130
+XSLT,/tmp/clone_directory/quickfixj-orchestration/src/main/xsl/extractForQuickFIXJ.xsl,7,20,130
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/NetworkingOptions.java,16,22,129
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/JdbcStoreTest.java,27,19,126
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ExpectMessageStep.java,13,18,125
+Java,/tmp/clone_directory/quickfixj-examples/executor/src/main/java/quickfix/examples/executor/Executor.java,24,22,125
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/WatermarkTracker.java,28,27,121
+Maven,/tmp/clone_directory/quickfixj-orchestration/pom.xml,5,0,118
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/acceptor/DynamicAcceptorSessionProvider.java,20,55,116
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/ssl/SSLConfig.java,29,21,116
+Markdown,/tmp/clone_directory/quickfixj-messages/readme.md,33,0,116
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SocketInitiator.java,21,22,115
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/application.html,10,0,114
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MessageCracker.java,19,28,114
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/acceptor/AcceptorIoHandler.java,10,19,113
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/ssl/SSLSupport.java,22,21,113
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/ApplicationExtendedFunctionalAdapterTest.java,40,0,113
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/ssl/SSLContextFactory.java,17,26,112
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionResetTest.java,32,2,111
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/InitiateMessageStep.java,17,19,110
+XSLT,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/MessageCracker.xsl,19,14,109
+Java,/tmp/clone_directory/quickfixj-codegenerator/src/test/java/org/quickfixj/codegenerator/OverwriteTest.java,25,1,109
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/OrderTableModel.java,28,18,107
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/Banzai.java,23,21,105
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/Dictionary.java,24,24,104
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/initiator/InitiatorIoHandlerTest.java,25,14,104
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/FileLog.java,27,35,103
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/sending_messages.html,30,0,102
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/DefaultSessionScheduleTest.java,18,0,102
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/DefaultDataDictionaryProviderTest.java,32,18,101
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SocketAcceptor.java,18,22,100
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/codegen.html,0,0,99
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/secure_communications.html,18,0,99
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/JdbcTestSupport.java,23,20,98
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SLF4JLog.java,33,27,96
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/UnitTestApplication.java,21,18,96
+Java,/tmp/clone_directory/quickfixj-examples/ordermatch/src/main/java/quickfix/examples/ordermatch/Market.java,16,18,95
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/CancelReplacePanel.java,21,18,94
+Java,/tmp/clone_directory/quickfixj-examples/ordermatch/src/main/java/quickfix/examples/ordermatch/Order.java,24,18,94
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/IoSessionResponderTest.java,28,18,93
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/util/ReflectionUtil.java,13,62,93
+Maven,/tmp/clone_directory/quickfixj-class-pruner-maven-plugin/pom.xml,8,1,92
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FileUtil.java,17,64,91
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/UtcTimeOnlyConverter.java,13,49,91
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/DefaultMessageFactory.java,19,69,91
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ThreadedSocketInitiator.java,21,21,89
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/message/FIXMessageEncoderTest.java,22,25,89
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/BanzaiPanel.java,20,21,89
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/FileStoreTest.java,18,20,88
+XSLT,/tmp/clone_directory/quickfixj-orchestration/src/main/xsl/extractSessionLayer.xsl,6,5,88
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/WatermarkTrackerTest.java,29,35,87
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/DefaultMessageFactoryTest.java,11,6,86
+XML,/tmp/clone_directory/quickfixj-distribution/src/main/assembly/distribution.xml,0,11,86
+Maven,/tmp/clone_directory/quickfixj-all/pom.xml,7,1,84
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/LoginTestCase.java,22,18,83
+XSLT,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/MessageFactory.xsl,18,14,82
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ThreadedSocketAcceptor.java,18,21,82
+Maven,/tmp/clone_directory/quickfixj-codegenerator/pom.xml,6,1,81
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/index.html,3,0,79
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/validation.html,6,0,79
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/SocketInitiatorAdmin.java,19,16,78
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/Field.java,18,61,77
+CSS,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/style.css,20,0,77
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MemoryStore.java,21,29,77
+Maven,/tmp/clone_directory/quickfixj-dictgenerator/pom.xml,6,4,76
+Maven,/tmp/clone_directory/quickfixj-examples/pom.xml,6,3,76
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/IntConverter.java,13,81,75
+XSLT,/tmp/clone_directory/quickfixj-base/src/main/xsl/extractRequiredFields.xsl,8,64,75
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/MessageUtilsTest.java,13,27,75
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/JmxExporter.java,20,54,75
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/FileUtilTest.java,13,22,68
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/create_all.sql,16,0,68
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ATApplication.java,12,19,68
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/FieldMapTest.java,10,6,67
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/QueueTrackers.java,13,9,67
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SessionStateTest.java,18,22,67
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ExecutionTableModel.java,22,18,67
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/ScreenLogTest.java,17,18,66
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/CompositeLog.java,12,24,65
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/repeating_groups.html,17,0,64
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/SocketAcceptorAdmin.java,15,19,64
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/AbstractSessionConnectorBuilder.java,12,0,64
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/message/PatternMatcher.java,10,52,64
+Java,/tmp/clone_directory/quickfixj-examples/ordermatch/src/main/java/quickfix/examples/ordermatch/Main.java,7,19,64
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MessageSessionUtils.java,15,26,63
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ssl/SSLContextFactoryTest.java,18,5,63
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/IoSessionResponder.java,10,29,62
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/LogUtilTest.java,11,20,62
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/DoubleConverter.java,9,43,61
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mssql/quickfix_database.sql,4,0,61
+Markdown,/tmp/clone_directory/customising-quickfixj.md,34,0,60
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/session/SessionSettingsAdmin.java,14,21,60
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/UtcDateOnlyConverter.java,13,40,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/8_AdminAndApplicationMessages.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/8_AdminAndApplicationMessages.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/8_AdminAndApplicationMessages.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/8_AdminAndApplicationMessages.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/8_AdminAndApplicationMessages.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/8_AdminAndApplicationMessages.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/8_AdminAndApplicationMessages-FIX50SP2.def,12,0,59
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/8_AdminAndApplicationMessages.def,12,0,59
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FieldType.java,10,21,56
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ScreenLog.java,24,25,56
+PlantUML,/tmp/clone_directory/quickfixj-messages/src/main/puml/qfj_build_dependencies.puml,16,0,56
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/session/SessionJmxExporter.java,12,16,55
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/openmbean/CompositeDataBeanAdapter.java,9,16,55
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/initiator/InitiatorIoHandler.java,9,18,55
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/acceptor_dynamic.html,3,0,54
+YAML,/tmp/clone_directory/.github/workflows/maven.yml,5,0,53
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/user_defined_fields.html,15,0,53
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/ConnectorJmxExporter.java,13,16,52
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/session/SessionAdminMBean.java,52,115,52
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ScreenLogFactory.java,14,76,52
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/Field.java,15,18,52
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/SystemTime.java,15,21,51
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ConnectToServerStep.java,8,18,51
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/AbstractDateTimeConverter.java,10,18,50
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/acceptor_failover.html,1,0,50
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SLF4JLogFactory.java,13,44,50
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/util/StackTraceUtil.java,10,26,50
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/DefaultDataDictionaryProvider.java,10,18,49
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/resynch/ResynchTest.java,11,21,49
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/Message.java,15,18,49
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/Execution.java,15,18,49
+Markdown,/tmp/clone_directory/quickfixj-class-pruner-maven-plugin/readme.md,9,2,48
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/FieldMapTest.java,11,11,48
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/message/FIXMessageEncoder.java,10,24,47
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/PausableThreadPoolExecutor.java,7,0,47
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/BanzaiFrame.java,15,21,47
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/OrderTable.java,15,18,47
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/license.html,1,0,46
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/NoopStore.java,16,24,46
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/org/quickfixj/jmx/openmbean/CompositeTypeFactoryTest.java,16,0,46
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/util/ExpectedTestFailureTest.java,9,10,46
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/DoubleField.java,14,22,45
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/CachedFileStoreTest.java,10,19,44
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UtcTimeStampField.java,15,21,43
+XML,/tmp/clone_directory/quickfixj-core/src/main/eclipse/codetemplates.xml,2,0,43
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/ssl/X509TrustManagerWrapper.java,13,23,43
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ConfigureSessionStep.java,8,18,43
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ssl/X509TrustManagerWrapperTest.java,14,2,42
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/IncorrectTagValue.java,11,21,41
+XML,/tmp/clone_directory/quickfixj-codegenerator/src/test/resources/FIX42.xml,0,0,41
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/rejectGarbledMessages/fix50/QFJ950-RejectGarbledMessages.def,8,0,41
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/rejectGarbledMessages/fixLatest/QFJ950-RejectGarbledMessages.def,8,0,41
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/OrderSide.java,10,18,41
+PlantUML,/tmp/clone_directory/quickfixj-messages/src/main/puml/custom_build_dependencies.puml,14,0,41
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/DayConverterTest.java,12,22,40
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/org/quickfixj/CharsetSupport.java,13,33,39
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/MessageComponent.java,7,17,39
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UtcTimeOnlyField.java,14,21,39
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MockSystemTimeSource.java,12,20,39
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/SleepycatStoreTest.java,9,18,39
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/BusinessRejectReasonText.java,9,40,38
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/util/ExpectedTestFailure.java,7,35,38
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/DecimalField.java,14,21,36
+XML,/tmp/clone_directory/quickfixj-codegenerator/src/test/resources/FIX41.xml,0,0,36
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ListenerSupport.java,9,18,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2k_CompIDDoesNotMatchProfile.def,11,0,36
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/OrderTIF.java,10,18,36
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/OrderType.java,9,18,35
+Maven,/tmp/clone_directory/quickfixj-class-pruner-maven-plugin/src/test/resources/project-to-test/pom.xml,2,0,34
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/openmbean/CompositeDataFactory.java,9,16,34
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/BigDecimalFieldTest.java,8,33,34
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/IncorrectDataFormat.java,10,35,33
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/initiator/InitiatorProxyIoHandler.java,10,18,33
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/ExpectDisconnectStep.java,9,18,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/ReverseRouteWithEmptyRoutingTags.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/ReverseRouteWithEmptyRoutingTags.def,8,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/ReverseRouteWithEmptyRoutingTags.def,8,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/ReverseRouteWithEmptyRoutingTags.def,8,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/ReverseRouteWithEmptyRoutingTags.def,8,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14a_BadField.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/ReverseRoute.def,9,0,33
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/ReverseRouteWithEmptyRoutingTags.def,8,0,33
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/InvalidMessage.java,12,22,32
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/BoundInMemoryMessageQueue.java,8,5,32
+PlantUML,/tmp/clone_directory/src/main/puml/dependencies_fixt11_fixlatest.puml,11,0,32
+PlantUML,/tmp/clone_directory/src/main/puml/dependencies_qfj_all.puml,7,0,32
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UtcTimeField.java,12,21,31
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/CharArrayConverter.java,12,3,31
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/openmbean/CompositeTypeFactory.java,8,16,31
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/FileLogFactory.java,13,49,31
+PlantUML,/tmp/clone_directory/src/main/puml/custom_dependencies_fixt11_fixlatest.puml,11,0,31
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/UTCDateOnlyFieldTest.java,8,0,30
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/javadoc_overview.html,0,0,30
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ApplicationExtendedFunctionalAdapter.java,9,34,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix40/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix41/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix42/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix43/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix44/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix50/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fixLatest/SequenceGapFollowedBySequenceResetWithGapFill.def,11,0,30
+Java,/tmp/clone_directory/quickfixj-examples/ordermatch/src/main/java/quickfix/examples/ordermatch/OrderMatcher.java,11,18,30
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FieldException.java,10,18,29
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/support.html,3,0,29
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/org/quickfixj/jmx/mbean/session/SessionAdminTest.java,8,6,29
+Maven,/tmp/clone_directory/quickfixj-messages/pom.xml,7,4,29
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,10,30,28
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/CharField.java,11,21,28
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/IntField.java,11,21,28
+XSLT,/tmp/clone_directory/quickfixj-base/src/main/xsl/addRequiredFields.xsl,5,3,28
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/FileStoreFactory.java,8,49,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix40/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix41/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix42/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix43/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix44/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fix50/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/resendRequestChunkSize/fixLatest/SequenceGapFollowedByMessageResent.def,9,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/8_OnlyApplicationMessages.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/8_OnlyApplicationMessages.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14e_IncorrectEnumValue.def,8,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/8_OnlyApplicationMessages.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14e_IncorrectEnumValue.def,8,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/8_OnlyApplicationMessages.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14e_IncorrectEnumValue.def,8,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/8_OnlyApplicationMessages.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14e_IncorrectEnumValue.def,8,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/8_OnlyApplicationMessages.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14e_IncorrectEnumValue.def,8,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2m_BodyLengthValueNotCorrect.def,6,0,28
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/8_OnlyApplicationMessages.def,6,0,28
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/BooleanField.java,10,18,27
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/SessionRejectReasonText.java,7,18,27
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/examples.html,4,0,27
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/LogUtil.java,7,38,27
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionStateListener.java,13,68,27
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/message/ProtocolDecoderOutputForTest.java,10,19,27
+XML,/tmp/clone_directory/quickfixj-core/src/test/resources/FIX_External_DTD.xml,0,0,27
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/SessionReset.def,7,0,27
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/SessionReset.def,7,0,27
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/SessionReset.def,7,0,27
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/ComponentComponent.java,6,18,27
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/ComponentField.java,6,18,27
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/MsgTypeComponent.java,6,18,27
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/MsgTypeField.java,6,18,27
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SleepycatStoreFactory.java,8,32,26
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/message/IoSessionStub.java,10,18,26
+Maven,/tmp/clone_directory/quickfixj-examples/banzai/pom.xml,5,0,26
+Maven,/tmp/clone_directory/quickfixj-examples/executor/pom.xml,5,0,26
+Maven,/tmp/clone_directory/quickfixj-examples/ordermatch/pom.xml,5,0,26
+PlantUML,/tmp/clone_directory/src/main/puml/custom_dependencies.puml,7,0,26
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/DayConverter.java,5,37,25
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/NumbersCache.java,8,34,25
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/AbstractLog.java,9,19,25
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/JdbcSetting.java,24,117,25
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/RejectLogon.java,9,33,25
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/org/quickfixj/jmx/mbean/ObjectNameFactoryTest.java,9,18,25
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ssl/SSLSupportTest.java,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/ReverseRouteWithEmptyRoutingTags.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14b_RequiredFieldMissing.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14g_HeaderBodyTrailerFieldsOutOfOrder.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/15_HeaderAndBodyFieldsOrderedDifferently.def,7,0,25
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/bugfix_QFJ634_ResendRequestAndSequenceReset.def,10,0,25
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/OrderPanel.java,9,21,25
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/Group.java,8,46,24
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/charset.html,0,0,24
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/initiator/ConnectException.java,9,18,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/20_SimultaneousResendRequest.def,9,0,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/20_SimultaneousResendRequest.def,9,0,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/20_SimultaneousResendRequest.def,9,0,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/20_SimultaneousResendRequest.def,9,0,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/20_SimultaneousResendRequest.def,9,0,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/20_SimultaneousResendRequest.def,9,0,24
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/20_SimultaneousResendRequest.def,9,0,24
+XML,/tmp/clone_directory/quickfixj-distribution/src/main/assembly/src.xml,0,0,24
+XML,/tmp/clone_directory/quickfixj-orchestration/src/main/assembly/assembly.xml,0,0,24
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/ProtocolFactoryTest.java,8,18,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/8_OnlyAdminMessages.def,5,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/8_OnlyAdminMessages.def,5,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/8_OnlyAdminMessages.def,5,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/8_OnlyAdminMessages.def,5,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/8_OnlyAdminMessages.def,5,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/8_OnlyAdminMessages.def,6,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/19a_PossResendMessageThatHAsAlreadyBeenSent.def,7,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/8_OnlyAdminMessages.def,6,0,23
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/timestamps/fix44/QFJ873_timestamps.def,9,0,23
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/Component.java,6,18,23
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/MsgType.java,6,18,23
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/JdbcLogFactory.java,7,40,22
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/JdbcStoreFactory.java,7,34,22
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/ListenerSupportTest.java,9,19,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2b_MsgSeqNumTooHigh.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2o_SendingTimeValueOutOfRange.def,3,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2b_MsgSeqNumTooHigh.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2o_SendingTimeValueOutOfRange.def,3,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/21_RepeatingGroupSpecifierWithValueOfZero.def,5,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2b_MsgSeqNumTooHigh.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2o_SendingTimeValueOutOfRange.def,3,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/21_RepeatingGroupSpecifierWithValueOfZero.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2b_MsgSeqNumTooHigh.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2o_SendingTimeValueOutOfRange.def,3,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2b_MsgSeqNumTooHigh.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2o_SendingTimeValueOutOfRange.def,3,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/21_RepeatingGroupSpecifierWithValueOfZero.def,6,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2b_MsgSeqNumTooHigh.def,7,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2o_SendingTimeValueOutOfRange.def,7,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2b_MsgSeqNumTooHigh.def,7,0,22
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2o_SendingTimeValueOutOfRange.def,7,0,22
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/ExceptionTest.java,7,18,21
+HTML,/tmp/clone_directory/quickfixj-core/src/main/doc/usermanual/usage/version.html,0,0,21
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/ObjectNameFactory.java,7,16,21
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/InMemoryMessageQueue.java,8,26,21
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/JdbcStoreLegacyTest.java,5,22,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/RejectResentMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/RejectResentMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14j_OutOfOrderRepeatingGroupMembers.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/RejectResentMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/RejectResentMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/21_RepeatingGroupSpecifierWithValueOfZero.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/RejectResentMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/RejectResentMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14c_TagNotDefinedForMsgType.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14d_TagSpecifiedWithoutValue.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/19b_PossResendMessageThatHasNotBeenSent.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/21_RepeatingGroupSpecifierWithValueOfZero.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2d_GarbledMessage.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2g_PossDupNoOrigSendingTime.def,6,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/3c_GarbledMessage.def,5,0,21
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/RejectResentMessage.def,5,0,21
+Java,/tmp/clone_directory/quickfixj-dictgenerator/src/main/java/org/quickfixj/dictgenerator/Enum.java,7,18,21
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,6,0,20
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/BytesField.java,8,22,20
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UtcDateField.java,9,21,20
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UtcDateOnlyField.java,9,21,20
+Java,/tmp/clone_directory/quickfixj-codegenerator/src/main/java/org/quickfixj/codegenerator/MavenMessageCodeGenerator.java,9,18,20
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/CompositeLogTest.java,6,18,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14e_IncorrectEnumValue.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14e_IncorrectEnumValue.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/14i_RepeatingGroupCountNotEqual.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/14i_RepeatingGroupCountNotEqual.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14i_RepeatingGroupCountNotEqual.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/14j_OutOfOrderRepeatingGroupMembers.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14i_RepeatingGroupCountNotEqual.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/14j_OutOfOrderRepeatingGroupMembers.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14f_IncorrectDataFormat.def,5,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14h_RepeatedTag.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14i_RepeatingGroupCountNotEqual.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/14j_OutOfOrderRepeatingGroupMembers.def,6,0,20
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/timestamps/fix44/QFJ921_HigherResolutionTimestamps.def,3,0,20
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/ExecutionPanel.java,8,21,20
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/DateField.java,8,21,19
+XML,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/COPYRIGHT.xml,0,0,19
+XML,/tmp/clone_directory/quickfixj-core/src/main/eclipse/QFJ Banzai.launch,0,0,19
+XML,/tmp/clone_directory/quickfixj-core/src/main/eclipse/QFJ Order Executor.launch,0,0,19
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/CompositeLogFactory.java,5,37,19
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MessageStore.java,15,67,19
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/RegularExpressionTest.java,6,0,19
+INI,/tmp/clone_directory/quickfixj-core/src/test/resources/configWithSessionVariables.ini,1,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/6_SendTestRequest.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/6_SendTestRequest.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/6_SendTestRequest.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/6_SendTestRequest.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/6_SendTestRequest.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/6_SendTestRequest.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/3b_InvalidChecksum.def,5,0,19
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/6_SendTestRequest.def,5,0,19
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/TwoWayMap.java,7,18,19
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/StringField.java,7,21,18
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/BooleanConverter.java,5,34,18
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/DecimalConverter.java,7,39,18
+XML,/tmp/clone_directory/quickfixj-core/src/main/eclipse/QFJ Order Matcher.launch,0,0,18
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Initiator.java,18,90,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/QFJ934_MissingDelimiterNestedRepeatingGroup.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/11c_NewSeqNoLess.def,6,0,18
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2f_PossDupOrigSendingTimeTooHigh.def,4,0,18
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/ui/ExecutionTable.java,8,19,18
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ApplicationAdapter.java,10,49,17
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/CachedFileStoreFactory.java,4,32,17
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/hsqldb/messages_table.sql,0,0,17
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/hsqldb/sessions_table.sql,0,0,17
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/messages_table.sql,2,0,17
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/sessions_table.sql,2,0,17
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/validateChecksum/fix50/QFJ973-ProcessMessageWithInvalidChecksum.def,3,0,17
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/DoubleNumberTextField.java,5,18,17
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/ConfigError.java,7,25,16
+Java,/tmp/clone_directory/quickfixj-base/src/test/java/quickfix/BusinessRejectReasonTextTest.java,5,0,16
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/CompositeIoFilterChainBuilder.java,5,26,16
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/event_log_table.sql,2,0,16
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/messages_log_table.sql,2,0,16
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/ExceptionTest.java,6,18,16
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/JdbcLogLegacyTest.java,5,18,16
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/message/ProtocolEncoderOutputForTest.java,6,18,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/4a_NoDataSentDuringHeartBtInt.def,6,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/4a_NoDataSentDuringHeartBtInt.def,7,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/4a_NoDataSentDuringHeartBtInt.def,6,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/4a_NoDataSentDuringHeartBtInt.def,6,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/4a_NoDataSentDuringHeartBtInt.def,7,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/4a_NoDataSentDuringHeartBtInt.def,7,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/11a_NewSeqNoGreater.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/11b_NewSeqNoEqual.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2i_BeginStringValueUnexpected.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2t_FirstThreeFieldsOutOfOrder.def,4,0,16
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/4a_NoDataSentDuringHeartBtInt.def,7,0,16
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/LogonEvent.java,6,18,16
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/org/quickfixj/QFJException.java,7,18,15
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/org/quickfixj/SimpleCache.java,6,22,15
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FixVersions.java,6,25,15
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/RuntimeError.java,6,22,15
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionException.java,6,18,15
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/CriticalProtocolCodecException.java,8,21,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/hsqldb/event_log_table.sql,0,0,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/hsqldb/messages_log_table.sql,0,0,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/oracle/sessions_table.sql,0,0,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/postgresql/event_log_table.sql,1,0,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/postgresql/messages_log_table.sql,1,0,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/postgresql/messages_table.sql,0,0,15
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/postgresql/sessions_table.sql,0,0,15
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/SessionConnectorStub.java,6,0,15
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/future/server/fix43/14k_EmbeddedSOH.def,5,0,15
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/NoTagValue.java,6,21,14
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/oracle/event_log_table.sql,0,0,14
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/oracle/messages_log_table.sql,0,0,14
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/oracle/messages_table.sql,0,0,14
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/PrintComment.java,7,18,14
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/MinQty41.def,3,0,14
+Markdown,/tmp/clone_directory/quickfixj-orchestration/readme.md,11,0,14
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/CharConverter.java,5,35,13
+CSS,/tmp/clone_directory/quickfixj-core/src/main/doc/javadoc.css,2,0,13
+HTML,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/package.html,5,1,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2e_PossDupNotReceived.def,4,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2e_PossDupNotReceived.def,4,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2e_PossDupNotReceived.def,4,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2e_PossDupNotReceived.def,4,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2e_PossDupNotReceived.def,4,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2e_PossDupNotReceived.def,5,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/10_MsgSeqNumGreater.def,3,0,13
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2e_PossDupNotReceived.def,5,0,13
+YAML,/tmp/clone_directory/.github/dependabot.yml,1,3,12
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/MessageParseError.java,4,0,12
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Application.java,9,105,12
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/EventHandlingStrategy.java,8,30,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/lastMsgSeqNumProcessed/fix42/LastProcessedMsgSeqNum.def,9,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/lastMsgSeqNumProcessed/fix43/LastProcessedMsgSeqNum.def,9,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/lastMsgSeqNumProcessed/fix44/LastProcessedMsgSeqNum.def,9,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/lastMsgSeqNumProcessed/fix50/LastProcessedMsgSeqNum.def,9,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/lastMsgSeqNumProcessed/fixLatest/LastProcessedMsgSeqNum.def,9,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix44/2a_NextExpectedMsgSeqNumCorrect.def,6,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix50/2a_NextExpectedMsgSeqNumCorrect.def,4,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fixLatest/2a_NextExpectedMsgSeqNumCorrect.def,4,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2a_MsgSeqNumCorrect.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/MinQty40.def,5,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2a_MsgSeqNumCorrect.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2a_MsgSeqNumCorrect.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/MinQty42.def,4,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2a_MsgSeqNumCorrect.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/MinQty43.def,4,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2a_MsgSeqNumCorrect.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/MinQty44.def,5,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2a_MsgSeqNumCorrect.def,4,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/MinQty50.def,5,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/10_MsgSeqNumEqual.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/10_MsgSeqNumLess.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1b_DuplicateIdentity.def,3,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2a_MsgSeqNumCorrect.def,4,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/MinQty50.def,5,0,12
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/validateChecksum/fixLatest/QFJ973-ProcessMessageWithInvalidChecksum.def,2,0,12
+Java,/tmp/clone_directory/quickfixj-examples/banzai/src/main/java/quickfix/examples/banzai/IntegerNumberTextField.java,4,18,12
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,11
+Markdown,/tmp/clone_directory/SECURITY.md,8,0,11
+Markdown,/tmp/clone_directory/quickfixj-base/readme.md,8,0,11
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FieldNotFound.java,5,23,11
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/JmxSupport.java,4,16,11
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/ConnectorAdminMBean.java,10,45,11
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Connector.java,8,50,11
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/DefaultSessionScheduleFactory.java,3,21,11
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MemoryStoreFactory.java,4,23,11
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MessageQueue.java,6,43,11
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/FileStoreLowMemTest.java,2,19,11
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/FileStoreZeroMemTest.java,2,19,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2c_MsgSeqNumTooLow.def,1,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2e_PossDupAlreadyReceived.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2q_MsgTypeNotValid.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/AlreadyLoggedOn.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2c_MsgSeqNumTooLow.def,1,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2e_PossDupAlreadyReceived.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2q_MsgTypeNotValid.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/AlreadyLoggedOn.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1a_ValidLogonMsgSeqNumTooHigh.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2c_MsgSeqNumTooLow.def,1,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2e_PossDupAlreadyReceived.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2q_MsgTypeNotValid.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/AlreadyLoggedOn.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2c_MsgSeqNumTooLow.def,1,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2e_PossDupAlreadyReceived.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2q_MsgTypeNotValid.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/AlreadyLoggedOn.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2c_MsgSeqNumTooLow.def,1,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2e_PossDupAlreadyReceived.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2q_MsgTypeNotValid.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/AlreadyLoggedOn.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2c_MsgSeqNumTooLow.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2e_PossDupAlreadyReceived.def,4,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2q_MsgTypeNotValid.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/AlreadyLoggedOn.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2c_MsgSeqNumTooLow.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2e_PossDupAlreadyReceived.def,4,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2q_MsgTypeNotValid.def,3,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/2r_UnregisteredMsgType.def,2,0,11
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/AlreadyLoggedOn.def,3,0,11
+Java,/tmp/clone_directory/quickfixj-examples/ordermatch/src/main/java/quickfix/examples/ordermatch/IdGenerator.java,4,18,11
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/org/quickfixj/Version.java,3,18,10
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/CriticalSessionProtocolExceptionTest.java,4,19,10
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/mina/message/FIXProtocolCodecFactoryTest.java,3,19,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix44/ResetSeqNumFlagAndNextExpectedMsgSeqNum.def,4,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix50/ResetSeqNumFlagAndNextExpectedMsgSeqNum.def,4,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fixLatest/ResetSeqNumFlagAndNextExpectedMsgSeqNum.def,4,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1a_ValidLogonMsgSeqNumTooHigh.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/2r_UnregisteredMsgType.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/4b_ReceivedTestRequest.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1a_ValidLogonMsgSeqNumTooHigh.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/2r_UnregisteredMsgType.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/4b_ReceivedTestRequest.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/2r_UnregisteredMsgType.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/4b_ReceivedTestRequest.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1a_ValidLogonMsgSeqNumTooHigh.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/2r_UnregisteredMsgType.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/4b_ReceivedTestRequest.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1a_ValidLogonMsgSeqNumTooHigh.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/2r_UnregisteredMsgType.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/4b_ReceivedTestRequest.def,2,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1a_ValidLogonMsgSeqNumTooHigh.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/2r_UnregisteredMsgType.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/4b_ReceivedTestRequest.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1a_ValidLogonMsgSeqNumTooHigh.def,3,0,10
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/4b_ReceivedTestRequest.def,3,0,10
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/MessageFactory.java,6,53,9
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionNotFound.java,4,21,9
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/message/FIXProtocolCodecFactory.java,4,21,9
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/MemoryStoreTest.java,3,18,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix44/2c_NextExpectedMsgSeqNumTooLow.def,4,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix50/2c_NextExpectedMsgSeqNumTooLow.def,4,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fixLatest/2c_NextExpectedMsgSeqNumTooLow.def,4,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/7_ReceiveRejectMessage.def,3,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/7_ReceiveRejectMessage.def,3,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/7_ReceiveRejectMessage.def,3,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/7_ReceiveRejectMessage.def,3,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/7_ReceiveRejectMessage.def,3,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/7_ReceiveRejectMessage.def,3,0,9
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/7_ReceiveRejectMessage.def,3,0,9
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Log.java,8,44,8
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionFactory.java,7,30,8
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/QueueTracker.java,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1a_ValidLogonWithCorrectMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/QFJ650_MissingMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1a_ValidLogonWithCorrectMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/QFJ650_MissingMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1a_ValidLogonWithCorrectMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/QFJ650_MissingMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1a_ValidLogonWithCorrectMsgSeqNum.def,3,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/QFJ650_MissingMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1a_ValidLogonWithCorrectMsgSeqNum.def,3,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/QFJ650_MissingMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1a_ValidLogonWithCorrectMsgSeqNum.def,3,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/QFJ650_MissingMsgSeqNum.def,2,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1a_ValidLogonWithCorrectMsgSeqNum.def,3,0,8
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/QFJ650_MissingMsgSeqNum.def,2,0,8
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fixlatest/readme.md,4,0,8
+Java,/tmp/clone_directory/quickfixj-codegenerator/src/main/java/org/quickfixj/codegenerator/CodeGenerationException.java,3,24,7
+HTML,/tmp/clone_directory/quickfixj-codegenerator/src/main/resources/org/quickfixj/codegenerator/package.html,0,0,7
+Markdown,/tmp/clone_directory/quickfixj-core/readme.md,6,0,7
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Acceptor.java,5,35,7
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ExecutorFactory.java,5,20,7
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/InMemoryMessageQueueFactory.java,3,23,7
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/NoopStoreFactory.java,3,24,7
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionSchedule.java,7,32,7
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/acceptor/AcceptorSessionProvider.java,4,30,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/13b_UnsolicitedLogoutMessage.def,1,0,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/13b_UnsolicitedLogoutMessage.def,1,0,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/13b_UnsolicitedLogoutMessage.def,1,0,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/13b_UnsolicitedLogoutMessage.def,1,0,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/13b_UnsolicitedLogoutMessage.def,1,0,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/13b_UnsolicitedLogoutMessage.def,2,0,7
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/13b_UnsolicitedLogoutMessage.def,2,0,7
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50/readme.md,3,0,7
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp1/readme.md,3,0,7
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix50sp2/readme.md,3,0,7
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fixt11/readme.md,3,0,7
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/DoNotSend.java,3,22,6
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/FieldConvertError.java,3,21,6
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/HasFieldAndReason.java,3,18,6
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/SystemTimeSource.java,5,32,6
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UnsupportedMessageType.java,3,21,6
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UnsupportedVersion.java,3,18,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-base/src/test/resources/quickfix/test/acceptance/definitions/client/Normal.def,0,0,6
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/SocketAcceptorAdminMBean.java,6,22,6
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/org/quickfixj/jmx/mbean/connector/SocketInitiatorAdminMBean.java,6,19,6
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/DataDictionaryProvider.java,5,37,6
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/Responder.java,5,40,6
+HTML,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/package.html,0,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1d_InvalidLogonBadSendingTime.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/QFJ648_NegativeHeartBtInt.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1d_InvalidLogonBadSendingTime.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/QFJ648_NegativeHeartBtInt.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1d_InvalidLogonBadSendingTime.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/QFJ648_NegativeHeartBtInt.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1d_InvalidLogonBadSendingTime.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/QFJ648_NegativeHeartBtInt.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1d_InvalidLogonBadSendingTime.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/QFJ648_NegativeHeartBtInt.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/QFJ648_NegativeHeartBtInt.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/LogonUnknownDefaultApplVerID.def,1,0,6
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/QFJ648_NegativeHeartBtInt.def,1,0,6
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix40/readme.md,2,0,6
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix41/readme.md,2,0,6
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix42/readme.md,2,0,6
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix43/readme.md,2,0,6
+Markdown,/tmp/clone_directory/quickfixj-messages/quickfixj-messages-fix44/readme.md,2,0,6
+HTML,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/field/converter/package.html,0,0,5
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ApplicationExtended.java,4,35,5
+HTML,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/acceptor/package.html,0,0,5
+HTML,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/initiator/package.html,0,0,5
+HTML,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/mina/message/package.html,0,0,5
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/mysql.sql,0,0,5
+Java,/tmp/clone_directory/quickfixj-core/src/test/java/quickfix/test/acceptance/TestStep.java,3,18,5
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix44/2b_NextExpectedMsgSeqNumTooHigh.def,2,0,5
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fix50/2b_NextExpectedMsgSeqNumTooHigh.def,2,0,5
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/nextExpectedMsgSeqNum/fixLatest/2b_NextExpectedMsgSeqNumTooHigh.def,2,0,5
+Java,/tmp/clone_directory/quickfixj-examples/executor/src/main/java/quickfix/examples/executor/MarketDataProvider.java,4,22,5
+Java,/tmp/clone_directory/quickfixj-base/src/main/java/quickfix/UtcTimestampPrecision.java,2,22,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/FromAdminListener.java,1,0,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/FromAppListener.java,1,0,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/LocationAwareLogFactory.java,4,31,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/LogFactory.java,4,27,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MessageQueueFactory.java,3,29,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/MessageStoreFactory.java,3,29,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/SessionScheduleFactory.java,2,21,4
+Java,/tmp/clone_directory/quickfixj-core/src/main/java/quickfix/ToAppListener.java,1,0,4
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/postgresql/postgresql.sql,0,0,4
+Properties,/tmp/clone_directory/quickfixj-core/src/test/resources/logging.properties,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix40/1e_NotLogonMessage.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix41/1e_NotLogonMessage.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix42/1e_NotLogonMessage.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix43/1e_NotLogonMessage.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1d_InvalidLogonWrongBeginString.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix44/1e_NotLogonMessage.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1d_InvalidLogonBadSendingTime.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fix50/1d_InvalidLogonWrongBeginString.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1c_InvalidSenderCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1c_InvalidTargetCompID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1d_InvalidLogonBadSendingTime.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1d_InvalidLogonLengthInvalid.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1d_InvalidLogonNoDefaultApplVerID.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1d_InvalidLogonWrongBeginString.def,1,0,4
+Windows Module Definition,/tmp/clone_directory/quickfixj-core/src/test/resources/quickfix/test/acceptance/definitions/server/fixLatest/1e_NotLogonMessage.def,1,0,4
+Bourne Shell,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/postgresql/create.sh,0,0,3
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,16,2
+Text,/tmp/clone_directory/quickfixj-core/src/main/eclipse/README.txt,0,0,2
+SQL,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/quickfix_database.sql,0,0,2
+YAML,/tmp/clone_directory/_config.yml,0,0,1
+DOS Batch,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mssql/create.bat,0,0,1
+Bourne Shell,/tmp/clone_directory/quickfixj-core/src/main/resources/config/sql/mysql/create.sh,0,0,1
+XML,/tmp/clone_directory/quickfixj-core/src/test/resources/FIX44_Invalid_Test.xml,0,0,1
+SUM,,12223,11881,138413

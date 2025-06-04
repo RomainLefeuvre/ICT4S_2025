@@ -1,0 +1,11 @@
+##[group]Run mvn package -Dmaven.test.skip=true, 465.3094769031355, , , , 19616003, True, [ERROR[m] COMPILATION ERROR : 
+##[group]GITHUB_TOKEN Permissions, 297.5482532882924, , , , 99760911, False, 
+##[group]Determining release tags, 35.72587979171523, , , , 4895953, True, ##[error]The parameter "automatic_release_tag" was not set and this does not appear to be a GitHub tag event. (Event: refs/heads/master)
+##[group]Fetching the repository, 12.041454164069494, , , , 1396512, False, 
+Requested labels: self-hosted, 8.87435455132668, , , , 6306427, False, 
+##[group]Run mkdir staging && cp target/releases/* staging, 3.566957698205893, , , , 52520, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 3.4672680656413832, , , , 100081, False, 
+##[group]Checking out the ref, 2.721836969500103, , , , 68836, False, 
+##[group]Run actions/checkout@v3, 1.8490812945514843, , , , 163924, False, 
+##[group]Installed distributions, 1.2931970797847874, , , , 1879349, False, 
+##[group]Setting up auth, 0.9347103441780164, , , , 75774, False, 

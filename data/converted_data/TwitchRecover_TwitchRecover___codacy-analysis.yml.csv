@@ -1,0 +1,10 @@
+##[group]==END_FILE==, 11.054969014823753, , , , 4558088, False, 
+##[group]GITHUB_TOKEN Permissions, 111.50112736420404, , , , 11174278, False, 
+##[group]Run actions/checkout@v2, 1.9216993628994927, , , , 192873, False, 
+##[group]Setting up auth, 0.9500729593731364, , , , 65494, False, 
+##[group]Fetching the repository, 4.642597576099583, , , , 483695, False, 
+##[group]Run wget -O - https://raw.githubusercontent.com/codacy/codacy-analysis-cli/4.0.0/bin/codacy-analysis-cli.sh > /home/power/actions-runner/_work/_actions/codacy/codacy-analysis-cli-action/1.1.0/codacy-analysis-cli.sh, 3.5560194704227177, , , , 432814, False, 
+##[group]Run /home/power/actions-runner/_work/_actions/codacy/codacy-analysis-cli-action/1.1.0/codacy-analysis-cli.sh analyze $(if [ true = true ]; then echo "--verbose"; fi) $(if [  ]; then echo "--project-token "; fi) $(if [  ]; then echo "--codacy-api-base-url "; fi) $(if [ sarif ]; then echo "--format sarif"; fi) $(if [ results.sarif ]; then echo "--output results.sarif"; fi) $(if [  ]; then echo "--directory "; fi) $(if [  ]; then echo "--parallel "; fi) $(if [ 2147483647 ]; then echo "--max-allowed-issues 2147483647"; fi) $(if [  ]; then echo "--tool "; fi) $(if [  ]; then echo "--tool-timeout "; fi) $(if [  = true ]; then echo "--upload"; fi) $(if [  = true ]; then echo "--fail-if-incomplete"; fi) $(if [  = true ]; then echo "--allow-network"; fi) $(if [  = true ]; then echo "--force-file-permissions"; fi) $(if [ true = true ]; then echo "--gh-code-scanning-compat"; fi), 495.3717668349849, , , , 186118070, False, 
+##[group]Run github/codeql-action/upload-sarif@v1, 10.31315449184053, , , , 385353, False, 
+##[group]Uploading results, 12.410237278003486, , , , 393351, False, 
+##[group]Waiting for processing to finish, 24.90251106204172, , , , 6145613, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/

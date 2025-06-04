@@ -1,0 +1,4 @@
+##[group]GITHUB_TOKEN Permissions, 99.13626294392336, , , , 2499004, False, 
+##[group]Run actions/labeler@8558fd74291d67161a8a78ce36a881fa63b766a9, 12.12294872571406, , , , 249219, False, 
+##[group]Run step-security/harden-runner@f086349bfa2bd1361f7909c78558e816508cdc10, 11.216560035941043, , , , 228697, False, 
+Requested labels: self-hosted, 0.0, , , , 4446480, False, 

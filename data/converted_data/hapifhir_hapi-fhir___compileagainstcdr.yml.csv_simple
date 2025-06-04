@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,233.01471621571784,42299989,False,
+##[group]Installed versions,221.58471616768549,33436854,True,##[error]Process completed with exit code 127.
+##[group]==END_FILE==,208.15413495352587,6191244,False,
+##[group]Checking out the ref,120.13742836147162,3034065,False,
+##[group]GITHUB_TOKEN Permissions,80.10801083149263,2236672,False,
+##[group]Run pipx install poetry,53.188812390280425,91516,False,
+##[group]Run actions/checkout@v3,18.366738328361453,163433,False,
+##[group]Setting up auth,8.70067549129057,67558,False,
+##[group]Run poetry run python trigger_and_poll_gitlab.py,5.243734631951983,458893,True,##[error]Process completed with exit code 127.

@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0642671334469691, , , , 5023652, False, 
+##[group]GITHUB_TOKEN Permissions, 686.9278462136396, , , , 2978758, False, 
+##[group]Run actions/checkout@v4, 65.49344820836968, , , , 141825, False, 
+##[group]Cleaning the repository, 33.615764918631626, , , , 46699, False, 
+##[group]Fetching the repository, 176.76923273762594, , , , 409632, False, 
+##[group]Run mvn spotless:check, 368.3008761092861, , , , 21047249, False, 
+##[group]Run mvn test, 39.57728048825077, , , , 26191103, False, 

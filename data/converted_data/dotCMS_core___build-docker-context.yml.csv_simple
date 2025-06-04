@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,234.7782294691694,30836936,False,
+##[group]Buildx version,55.85632242465476,13019545,True,##[error]buildx failed with: ERROR: failed to solve: failed to read dockerfile: open /var/lib/docker/tmp/buildkit-mount2298965204/Dockerfile: no such file or directory
+##[group]GITHUB_TOKEN Permissions,22.123000582555665,4372470,False,
+##[group]Removing temp folder /tmp/docker-actions-toolkit-98USfS,18.756591334598333,1253391,False,
+##[group]Docker info,15.592922467535452,1440512,False,
+##[group]Checking out the ref,12.454978492190468,5022451,False,
+Requested labels: self-hosted,6.907834798005419,5232478,False,
+##[group]Run PLATFORMS='linux/amd64',6.346185018956069,412600,False,
+##[group]Run actions/checkout@v4,3.418931121552903,165764,False,
+##[group]Setting up auth,1.778567971788248,98946,False,
+##[group]Run docker/login-action@v3.0.0,1.4447164311930718,155131,True,##[error]Username and password required

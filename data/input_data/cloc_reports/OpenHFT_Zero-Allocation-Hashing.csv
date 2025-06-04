@@ -1,0 +1,55 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.08 s (640.4 files/s 311331.8 lines/s)"
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/XXH3Test.java,16,42,4143
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/XXH128Test.java,15,44,2606
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/City64_1_1_Test.java,14,36,2090
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/MetroHashTest.java,12,26,2088
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/WyHashTest.java,10,27,2088
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/XxHashTest.java,13,41,2088
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/OriginalFarmHashTest.java,24,18,1956
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/XXH3.java,83,84,769
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/CityAndFarmHash_1_1.java,93,33,558
+Maven,/tmp/clone_directory/pom.xml,31,37,324
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/LongTupleHashFunction.java,71,617,313
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/LongTupleHashFunctionTest.java,44,5,221
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/MurmurHash_3.java,40,86,217
+Bourne Shell,/tmp/clone_directory/mvnw,33,62,215
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/WyHash.java,22,19,178
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/XxHash.java,38,20,176
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/LongHashFunction.java,58,594,172
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/LongHashFunctionTest.java,39,19,172
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/MetroHash.java,41,1,153
+DOS Batch,/tmp/clone_directory/mvnw.cmd,35,0,147
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/CharSequenceAccess.java,31,15,135
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/Access.java,22,211,113
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/UnsafeAccess.java,27,17,105
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/DualHashFunction.java,19,3,100
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/UnsafeAccessTest.java,20,0,100
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/CompactLatin1CharSequenceAccess.java,17,64,99
+AsciiDoc,/tmp/clone_directory/README.adoc,33,1,94
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/CharSequenceAccessTest.java,23,2,89
+Java,/tmp/clone_directory/.mvn/wrapper/MavenWrapperDownloader.java,10,31,76
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/Maths.java,9,8,60
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/ModernCompactStringHash.java,7,2,57
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/Util.java,9,14,52
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/CompactLatin1CharSequenceAccessTest.java,13,0,47
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/ByteBufferAccess.java,13,15,44
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/PrimitivesTest.java,11,0,41
+YAML,/tmp/clone_directory/.travis.yml,8,0,40
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/Primitives.java,12,15,38
+YAML,/tmp/clone_directory/.github/workflows/build.yml,0,0,37
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/FarmHashTest.java,10,19,34
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/HotSpotPrior7u6StringHash.java,8,15,32
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/MurmurHash3Test.java,10,15,32
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/ModernHotSpotStringHash.java,7,15,27
+Bourne Shell,/tmp/clone_directory/mvnw-in-be-docker,6,1,26
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/MathsTest.java,3,0,26
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/XxHashCollisionTest.java,9,15,24
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/UnknownJvmStringHash.java,5,15,15
+Java,/tmp/clone_directory/src/main/java-stub/sun/misc/Unsafe.java,3,8,12
+Java,/tmp/clone_directory/src/test/java/net/openhft/hashing/UtilTest.java,4,2,9
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/StringHash.java,3,15,7
+Java,/tmp/clone_directory/src/main/java-stub/java/lang/Math.java,2,8,4
+Java,/tmp/clone_directory/src/main/java/sun/nio/ch/DirectBuffer.java,2,11,4
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,0,2
+Java,/tmp/clone_directory/src/main/java/net/openhft/hashing/package-info.java,1,75,1
+SUM,,1089,2423,22256

@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assembleAospOmega,1362.3465316130116,86997206,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3,896.9070786790203,67267627,True,##[error]Input required and not supplied: path
+##[group]Installed distributions,150.0911443085632,18559138,False,
+##[group]GITHUB_TOKEN Permissions,12.201966037645192,3642586,False,
+##[group]Fetching the repository,11.471105989123338,2176190,False,
+##[group]Run actions/cache@v3,8.379974215179725,581468,False,
+Requested labels: self-hosted,6.777402841551474,5946296,False,
+##[group]Checking out the ref,4.08672609084104,238064,False,
+##[group]Run actions/checkout@v3,3.43875228519301,164688,False,
+##[group]Run ARTIFACT_PATHNAME_APK=$(ls build/outputs/apk/aospOmega/debug/*.apk | head -n 1),2.37111570072145,148328,True,##[error]Process completed with exit code 1.

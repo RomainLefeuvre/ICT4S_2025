@@ -1,0 +1,143 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.03 s (4624.0 files/s 276096.0 lines/s)"
+XML,/tmp/clone_directory/ios/gcm/GcmServerDemo/Base.lproj/MainMenu.xib,0,0,680
+Java,/tmp/clone_directory/android/signin/app/src/main/java/com/google/samples/quickstart/signin/RestApiActivity.java,63,35,237
+XML,/tmp/clone_directory/ios/analytics/AnalyticsExample/Base.lproj/Main.storyboard,0,6,197
+Objective-C,/tmp/clone_directory/ios/gcm/GcmExample/AppDelegate.m,17,70,144
+Java,/tmp/clone_directory/android/analytics/app/src/main/java/com/google/samples/quickstart/analytics/MainActivity.java,35,57,134
+Java,/tmp/clone_directory/android/signin/app/src/main/java/com/google/samples/quickstart/signin/IdTokenActivity.java,27,33,134
+XML,/tmp/clone_directory/ios/gcm/GcmServerDemo/MasterViewController.xib,0,0,132
+Bourne Shell,/tmp/clone_directory/android/signin/gradlew,21,22,129
+Swift,/tmp/clone_directory/ios/gcm/GcmExampleSwift/AppDelegate.swift,20,68,128
+XML,/tmp/clone_directory/ios/signin/SignInExample/Base.lproj/Main.storyboard,0,1,127
+Java,/tmp/clone_directory/android/signin/app/src/main/java/com/google/samples/quickstart/signin/ServerAuthCodeActivity.java,26,28,116
+Java,/tmp/clone_directory/android/signin/app/src/main/java/com/google/samples/quickstart/signin/SignInActivityWithDrive.java,25,36,116
+Java,/tmp/clone_directory/android/signin/app/src/main/java/com/google/samples/quickstart/signin/SignInActivity.java,24,40,110
+XML,/tmp/clone_directory/ios/analytics/AnalyticsExample.xcodeproj/xcshareddata/xcschemes/AnalyticsExample.xcscheme,0,0,101
+XML,/tmp/clone_directory/ios/gcm/GcmExample.xcodeproj/xcshareddata/xcschemes/GcmExample.xcscheme,0,0,101
+XML,/tmp/clone_directory/ios/signin/SignInExample.xcodeproj/xcshareddata/xcschemes/SignInExample.xcscheme,0,0,101
+XML,/tmp/clone_directory/android/signin/app/src/main/res/layout/activity_main.xml,15,0,98
+JSON,/tmp/clone_directory/ios/shared/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,97
+XML,/tmp/clone_directory/ios/analytics/AnalyticsExample.xcodeproj/xcshareddata/xcschemes/AnalyticsExampleSwift.xcscheme,0,0,91
+XML,/tmp/clone_directory/ios/gcm/GcmExample.xcodeproj/xcshareddata/xcschemes/GcmExampleSwift.xcscheme,0,0,91
+XML,/tmp/clone_directory/ios/signin/SignInExample.xcodeproj/xcshareddata/xcschemes/SignInExampleSwift.xcscheme,0,0,91
+Java,/tmp/clone_directory/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart/MainActivity.java,14,22,83
+JSON,/tmp/clone_directory/ios/shared/Images.xcassets/LaunchImage.launchimage/Contents.json,0,0,81
+Swift,/tmp/clone_directory/ios/gcm/GcmServerDemo/MasterViewController.swift,15,20,79
+XML,/tmp/clone_directory/ios/gcm/GcmExample/Base.lproj/Main.storyboard,0,2,76
+Java,/tmp/clone_directory/android/signin/app/src/main/java/com/google/samples/quickstart/signin/ChooserActivity.java,18,6,67
+Objective-C,/tmp/clone_directory/ios/analytics/AnalyticsExampleTests/AppTests.m,17,17,62
+Swift,/tmp/clone_directory/ios/gcm/GcmExampleSwift/ViewController.swift,9,16,62
+Objective-C,/tmp/clone_directory/ios/gcm/GcmExample/ViewController.m,11,17,60
+XML,/tmp/clone_directory/ios/signin/SignInExample/Info.plist,0,0,60
+DOS Batch,/tmp/clone_directory/android/signin/gradlew.bat,23,2,59
+Java,/tmp/clone_directory/android/gcm/gcmsender/src/main/java/gcm/play/android/samples/com/gcmsender/GcmSender.java,10,27,58
+JSON,/tmp/clone_directory/ios/gcm/GcmServerDemo/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,58
+Objective-C,/tmp/clone_directory/ios/signin/SignInExample/AppDelegate.m,10,35,58
+Swift,/tmp/clone_directory/ios/signin/SignInExampleSwift/ViewController.swift,14,36,58
+Objective-C,/tmp/clone_directory/ios/signin/SignInExample/ViewController.m,14,37,56
+XML,/tmp/clone_directory/ios/gcm/GcmExample/Info.plist,0,0,55
+XML,/tmp/clone_directory/ios/analytics/AnalyticsExample/Info.plist,0,0,51
+Markdown,/tmp/clone_directory/android/gcm/README.md,17,0,50
+XML,/tmp/clone_directory/ios/gcm/GcmExampleSwift/Base.lproj/Main.storyboard,0,1,50
+Swift,/tmp/clone_directory/ios/signin/SignInExampleSwift/AppDelegate.swift,8,36,50
+XML,/tmp/clone_directory/android/gcm/app/src/main/AndroidManifest.xml,6,8,47
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,11,0,46
+Java,/tmp/clone_directory/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart/RegistrationIntentService.java,15,48,44
+Markdown,/tmp/clone_directory/android/analytics/README.md,15,0,43
+XML,/tmp/clone_directory/android/signin/app/src/main/AndroidManifest.xml,8,0,43
+Markdown,/tmp/clone_directory/ios/gcm/README.md,16,0,43
+Java,/tmp/clone_directory/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart/MyGcmListenerService.java,13,43,41
+Markdown,/tmp/clone_directory/ios/analytics/README.md,16,0,41
+Gradle,/tmp/clone_directory/android/signin/app/build.gradle,10,4,38
+Java,/tmp/clone_directory/android/analytics/app/src/main/java/com/google/samples/quickstart/analytics/ImageFragment.java,12,24,36
+Markdown,/tmp/clone_directory/android/signin/README.md,15,0,36
+Objective-C++,/tmp/clone_directory/ios/analytics/AnalyticsExampleTests/LogWrapper.mm,14,15,36
+Markdown,/tmp/clone_directory/ios/signin/README.md,15,0,36
+Gradle,/tmp/clone_directory/android/build.gradle,4,2,35
+XML,/tmp/clone_directory/android/signin/app/src/main/res/values/strings.xml,11,10,35
+XML,/tmp/clone_directory/ios/gcm/GcmServerDemo/Info.plist,0,0,34
+Objective-C,/tmp/clone_directory/ios/analytics/AnalyticsExample/CircleImageView.m,10,16,33
+JSON,/tmp/clone_directory/ios/shared/Images.xcassets/Logo.imageset/Contents.json,0,0,33
+XML,/tmp/clone_directory/ios/shared/LaunchScreen.xib,0,0,31
+Gradle,/tmp/clone_directory/android/gcm/app/build.gradle,7,1,30
+Gradle,/tmp/clone_directory/android/analytics/app/build.gradle,4,2,24
+Objective-C,/tmp/clone_directory/ios/analytics/AnalyticsExample/PatternTabBarController.m,6,17,24
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/favorite.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/flash_on.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/icon-favorite.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/icon-flash_on.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/icon-tag_faces.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/icon-wb_incandescent.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/tag_faces.imageset/Contents.json,0,0,23
+JSON,/tmp/clone_directory/ios/analytics/Images/AnalyticsImages.xcassets/wb_incandescent.imageset/Contents.json,0,0,23
+Java,/tmp/clone_directory/android/gcm/app/src/androidTest/java/gcm/play/android/samples/com/gcmquickstart/MainActivityEspressoTest.java,8,15,22
+XML,/tmp/clone_directory/ios/signin/SignInExampleTests/Info.plist,0,0,22
+YAML,/tmp/clone_directory/.github/workflows/canonical-gradle.yml,5,2,21
+YAML,/tmp/clone_directory/.travis.yml,4,0,21
+Markdown,/tmp/clone_directory/ISSUE_TEMPLATE.md,12,0,21
+XML,/tmp/clone_directory/android/analytics/app/src/main/AndroidManifest.xml,3,0,21
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/layout/fragment_main.xml,5,11,21
+JSON,/tmp/clone_directory/ios/shared/Images.xcassets/Icon.imageset/Contents.json,0,0,21
+JSON,/tmp/clone_directory/ios/shared/Images.xcassets/Watermark.imageset/Contents.json,0,0,21
+Java,/tmp/clone_directory/android/analytics/app/src/main/java/com/google/samples/quickstart/analytics/AnalyticsApplication.java,9,24,19
+Gradle,/tmp/clone_directory/android/signin/build.gradle,2,1,19
+Gradle,/tmp/clone_directory/android/gcm/build.gradle,2,1,18
+Gradle,/tmp/clone_directory/android/analytics/build.gradle,2,1,17
+XML,/tmp/clone_directory/android/gcm/app/src/main/res/layout/activity_main.xml,3,0,17
+Objective-C,/tmp/clone_directory/ios/gcm/GcmExampleTests/GcmExampleTests.m,9,13,17
+Objective-C,/tmp/clone_directory/ios/signin/SignInExampleTests/SignInExampleTests.m,9,13,17
+Gradle,/tmp/clone_directory/android/gcm/gcmsender/build.gradle,3,0,16
+Java,/tmp/clone_directory/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart/MyInstanceIDListenerService.java,6,23,15
+Swift,/tmp/clone_directory/ios/analytics/AnalyticsExampleSwift/AppDelegate.swift,9,21,15
+XML,/tmp/clone_directory/android/signin/app/src/main/res/layout/activity_chooser.xml,2,0,14
+Bourne Shell,/tmp/clone_directory/ios/test.sh,4,0,14
+Objective-C,/tmp/clone_directory/ios/analytics/AnalyticsExample/ViewController.m,7,23,13
+Swift,/tmp/clone_directory/ios/analytics/AnalyticsExampleSwift/PatternTabBarController.swift,5,22,13
+Swift,/tmp/clone_directory/ios/gcm/GcmServerDemo/AppDelegate.swift,6,16,13
+XML,/tmp/clone_directory/android/signin/app/src/main/res/values/styles.xml,4,4,12
+Objective-C,/tmp/clone_directory/ios/analytics/AnalyticsExample/AppDelegate.m,10,21,12
+Swift,/tmp/clone_directory/ios/analytics/AnalyticsExampleSwift/ViewController.swift,7,21,12
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/layout/activity_main.xml,6,11,11
+Java,/tmp/clone_directory/android/analytics/app/src/main/java/com/google/samples/quickstart/analytics/ImageInfo.java,5,23,9
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/values/strings.xml,4,11,9
+XML,/tmp/clone_directory/android/gcm/app/src/main/res/values/strings.xml,0,0,9
+YAML,/tmp/clone_directory/android/signin/.google/packaging.yml,5,14,9
+C/C++ Header,/tmp/clone_directory/ios/gcm/GcmExample/AppDelegate.h,4,15,9
+XML,/tmp/clone_directory/android/gcm/app/src/main/res/values-v21/styles.xml,0,0,8
+XML,/tmp/clone_directory/android/gcm/app/src/main/res/values/colors.xml,0,0,8
+XML,/tmp/clone_directory/android/signin/app/src/main/res/values/colors.xml,0,0,8
+C/C++ Header,/tmp/clone_directory/ios/signin/SignInExample/ViewController.h,4,19,8
+Objective-C,/tmp/clone_directory/ios/gcm/GcmExample/main.m,2,15,7
+Objective-C,/tmp/clone_directory/ios/signin/SignInExample/main.m,2,15,7
+Markdown,/tmp/clone_directory/README.md,3,0,6
+XML,/tmp/clone_directory/android/gcm/app/src/main/res/values/styles.xml,2,2,6
+JSON,/tmp/clone_directory/ios/shared/Images.xcassets/Contents.json,0,0,6
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/drawable/circle.xml,0,0,5
+Java,/tmp/clone_directory/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart/QuickstartPreferences.java,4,15,5
+Properties,/tmp/clone_directory/android/gcm/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Properties,/tmp/clone_directory/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+XML,/tmp/clone_directory/android/signin/app/src/main/res/values/dimens.xml,1,1,5
+Properties,/tmp/clone_directory/android/signin/gradle/wrapper/gradle-wrapper.properties,0,1,5
+C/C++ Header,/tmp/clone_directory/ios/gcm/GcmExample/ViewController.h,2,15,5
+C/C++ Header,/tmp/clone_directory/ios/signin/SignInExample/AppDelegate.h,4,19,5
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/values/dimens.xml,3,11,4
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/values/styles.xml,5,12,4
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/xml/global_tracker.xml,0,0,4
+XML,/tmp/clone_directory/android/gcm/app/src/main/res/values/dimens.xml,0,1,4
+XML,/tmp/clone_directory/android/signin/app/src/main/res/values-land/dimens.xml,0,0,4
+C/C++ Header,/tmp/clone_directory/ios/analytics/AnalyticsExample/AppDelegate.h,4,15,4
+C/C++ Header,/tmp/clone_directory/ios/analytics/AnalyticsExample/CircleImageView.h,2,21,4
+C/C++ Header,/tmp/clone_directory/ios/analytics/AnalyticsExample/PatternTabBarController.h,4,20,4
+C/C++ Header,/tmp/clone_directory/ios/analytics/AnalyticsExampleTests/LogWrapper.h,5,23,4
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/menu/main.xml,3,11,3
+XML,/tmp/clone_directory/android/analytics/app/src/main/res/values-w820dp/dimens.xml,3,11,3
+XML,/tmp/clone_directory/android/signin/app/src/main/res/values-w820dp/dimens.xml,0,3,3
+Properties,/tmp/clone_directory/android/signin/gradle.properties,4,12,3
+C/C++ Header,/tmp/clone_directory/ios/analytics/AnalyticsExample/ViewController.h,2,15,3
+C/C++ Header,/tmp/clone_directory/ios/analytics/AnalyticsExampleSwift/BridgingHeader.h,1,19,3
+Properties,/tmp/clone_directory/android/gcm/gradle.properties,4,12,1
+Gradle,/tmp/clone_directory/android/gcm/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/android/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/android/signin/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/android/signin/app/proguard-rules.pro,2,15,0
+SUM,,887,1469,6063

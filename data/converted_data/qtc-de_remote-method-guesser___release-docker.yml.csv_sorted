@@ -1,0 +1,12 @@
+##[group]Buildx version, 233.7236989965656, , , , 81313672, False, 
+#13 8.308 [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ remote-method-guesser ---, 36.89381270192479, , , , 4933677, False, 
+##[group]GITHUB_TOKEN Permissions, 23.58188742179528, , , , 4309151, False, 
+##[group]Fetching the repository, 13.486417122316931, , , , 1456612, False, 
+#13 5.870 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ remote-method-guesser ---, 9.3156269020131, , , , 414222, False, 
+#13 6.326 [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ remote-method-guesser ---, 9.102054929177475, , , , 2060816, False, 
+#13 13.26 [INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ remote-method-guesser ---, 6.9455577541851525, , , , 595726, False, 
+##[group]Docker info, 4.626495958571029, , , , 360316, False, 
+##[group]Removing temp folder /home/power/actions-runner/_work/_temp/docker-actions-toolkit-6kmsnc, 2.253963759174942, , , , 477231, False, 
+##[group]Run docker/login-action@v3, 0.9977227996464332, , , , 169499, True, ##[error]Username and password required
+##[group]Run actions/checkout@v4, 0.8004661499958237, , , , 155587, False, 
+Requested labels: self-hosted, 0.263426327274156, , , , 4902803, False, 

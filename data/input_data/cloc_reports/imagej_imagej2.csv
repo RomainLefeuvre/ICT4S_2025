@@ -1,0 +1,45 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (1994.1 files/s 513262.7 lines/s)"
+SVG,/tmp/clone_directory/logo/ImageJ2.svg,1,1,6343
+Maven,/tmp/clone_directory/pom.xml,35,62,880
+SVG,/tmp/clone_directory/logo/256x256-shadow-gray-square.svg,1,1,324
+Bourne Shell,/tmp/clone_directory/bin/ImageJ.sh,23,37,278
+SVG,/tmp/clone_directory/logo/256x256-shadow-gray-circle.svg,0,0,222
+Perl,/tmp/clone_directory/bin/check-headers.pl,32,23,210
+SVG,/tmp/clone_directory/logo/256x256-flat-gray-square.svg,0,0,191
+SVG,/tmp/clone_directory/logo/256x256-flat-gray-circle.svg,0,0,189
+Markdown,/tmp/clone_directory/RELEASES.md,51,0,149
+Text,/tmp/clone_directory/NOTICE.txt,81,0,143
+Markdown,/tmp/clone_directory/WELCOME.md,17,0,107
+Markdown,/tmp/clone_directory/README.md,28,0,106
+Java,/tmp/clone_directory/src/test/java/net/imagej/debug/TypeHierarchy.java,25,35,104
+Java,/tmp/clone_directory/src/main/java/net/imagej/ImageJ.java,27,115,79
+Java,/tmp/clone_directory/src/test/java/net/imagej/app/ServiceCompletenessTest.java,13,34,77
+XML,/tmp/clone_directory/src/main/assembly/application.xml,12,32,65
+Bourne Shell,/tmp/clone_directory/bin/trigger-jenkins-deploy.sh,19,2,64
+DOS Batch,/tmp/clone_directory/bin/ImageJ.bat,19,24,54
+XML,/tmp/clone_directory/src/main/assembly/application/Contents/Info.plist,0,0,52
+Java,/tmp/clone_directory/src/test/java/net/imagej/app/MainTest.java,16,42,52
+Bourne Shell,/tmp/clone_directory/bin/populate-app.sh,1,0,38
+Java,/tmp/clone_directory/src/main/java/net/imagej/app/ToplevelImageJApp.java,13,38,37
+XML,/tmp/clone_directory/src/main/assembly/all.xml,2,26,30
+YAML,/tmp/clone_directory/.github/workflows/build-main.yml,3,0,29
+Java,/tmp/clone_directory/src/test/java/net/imagej/app/ToplevelImageJAppTest.java,10,33,29
+YAML,/tmp/clone_directory/.github/workflows/build-pr.yml,3,0,20
+Text,/tmp/clone_directory/LICENSE.txt,4,0,20
+Bourne Shell,/tmp/clone_directory/bin/gen-graphs.sh,7,7,16
+Java,/tmp/clone_directory/src/main/java/net/imagej/Main.java,6,35,15
+XML,/tmp/clone_directory/src/main/assembly/dir.xml,2,26,13
+XML,/tmp/clone_directory/src/main/assembly/zip.xml,4,26,13
+Text,/tmp/clone_directory/logo/readme.txt,4,0,12
+Text,/tmp/clone_directory/logo/imagej2-v1/readme.txt,2,0,6
+Text,/tmp/clone_directory/logo/original/readme.txt,2,0,6
+Text,/tmp/clone_directory/INSTALL.txt,3,0,4
+Text,/tmp/clone_directory/about/about1.tif.txt,0,0,4
+Text,/tmp/clone_directory/about/about2.tif.txt,0,0,4
+Text,/tmp/clone_directory/about/about3.tif.txt,0,0,4
+Text,/tmp/clone_directory/about/about5.tif.txt,0,0,4
+Bourne Shell,/tmp/clone_directory/.github/build.sh,0,0,3
+Bourne Shell,/tmp/clone_directory/.github/setup.sh,0,0,3
+Text,/tmp/clone_directory/about/about4.tif.txt,0,0,3
+Text,/tmp/clone_directory/src/main/assembly/application/plugins/readme.txt,0,0,1
+SUM,,466,599,10003

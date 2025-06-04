@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0, , , , 4144240, False, 
+##[group]GITHUB_TOKEN Permissions, 214.2492158800063, , , , 4229952, False, 
+##[group]Run actions/checkout@v4, 7.856977265440843, , , , 176359, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.974245582835481, , , , 18140, False, 
+##[group]Setting up auth, 8.091513900230122, , , , 66333, False, 
+##[group]Fetching the repository, 42.2165942620702, , , , 453180, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 64.02850129747313, , , , 652404, False, 

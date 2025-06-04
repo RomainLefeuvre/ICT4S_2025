@@ -1,0 +1,9 @@
+##[group]Restore Gradle state from cache, 3641.61574696078, , , , 37723045, True, ##[error]Gradle build failed: see console output for details
+##[group]Caching Gradle state, 150.7230508987649, , , , 18832883, False, 
+##[group]Fetching the repository, 13.922322436254715, , , , 3231951, False, 
+##[group]Run actions/upload-artifact@v3, 6.037795039473135, , , , 343688, True, ##[error]No files were found with the provided path: app/build/outputs/apk/. No artifacts will be uploaded.
+##[group]Installed distributions, 4.47587733589965, , , , 436233, False, 
+##[group]GITHUB_TOKEN Permissions, 3.938922280201597, , , , 4416271, False, 
+##[group]Run actions/checkout@v3, 1.7959778461793692, , , , 179416, False, 
+##[group]Checking out the ref, 1.1628384734380917, , , , 166190, False, 
+Requested labels: self-hosted, 0.0, , , , 6183916, False, 

@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,49.74623407096502,2919466,False,
+##[group]Fetching the repository,12.540288273579764,447892,False,
+##[group]Cleanup JFrog CLI servers configuration,5.767145411509048,254510,False,
+##[group]Run jvalkeal/nexus-sync@v0,5.5299780108531085,162210,True,##[error]Input required and not supplied: username
+##[group]Setup JFrog CLI,2.666169255153246,24463,True,[Error] unexpected end of JSON input
+##[group]Cleaning the repository,2.3894739543879826,47009,False,
+##[group]Getting Git version info,2.3499460542786594,9766,False,
+##[group]Run actions/checkout@v4,2.3104181541693363,145460,False,
+Requested labels: self-hosted,0.0889997391429131,4964952,False,

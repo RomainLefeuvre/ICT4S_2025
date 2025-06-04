@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/codelytv/pr-size-labeler/v1/Dockerfile'.,83.34724663911486,22223717,False,
+##[group]Run codelytv/pr-size-labeler@v1,5.744480160697931,5172001,False,
+##[group]GITHUB_TOKEN Permissions,1.4213076203129071,1090372,False,
+##[group]==END_FILE==,0.0188315808770435,4895582,False,

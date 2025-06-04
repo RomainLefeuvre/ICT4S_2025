@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,46.57075067419702,4453802,False,
+##[group]GITHUB_TOKEN Permissions,38.63411047239285,2654407,False,
+##[group]Run actions/upload-artifact@v3__dup_10,20.764210780840692,539240,False,
+##[group]Fetching the repository,20.668318824916827,439319,False,
+##[group]Run actions/setup-java@v2,9.561406993364267,235526,False,
+##[group]Run ./gradlew build,9.175030783817192,125656,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.4.2-bin/48ivgl02cpt2ed3fh9dbalvx8/gradle-7.4.2-bin.zip.lck"
+##[group]Run actions/checkout@v2,5.601752941969664,179599,False,
+##[group]Getting Git version info,5.505158889582897,4786,False,
+##[group]Setting up auth,5.408564837196128,67588,False,
+##[group]Run actions/upload-artifact@v3,4.442624313328444,88428,False,

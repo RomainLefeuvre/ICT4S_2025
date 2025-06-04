@@ -1,0 +1,13 @@
+##[group]==END_FILE==, 35.69983351526205, , , , 4735656, False, 
+##[group]GITHUB_TOKEN Permissions, 31.957753735737025, , , , 2823407, False, 
+##[group]Run actions/checkout@v3, 4.802425058195457, , , , 161966, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 13.385694374545835, , , , 379160, False, 
+##[group]Setting up auth, 4.1213711915017655, , , , 73701, False, 
+##[group]Fetching the repository, 18.904221290774597, , , , 503488, False, 
+##[group]Installed distributions, 3.678278859412952, , , , 2967853, False, 
+##[group]Run ./gradlew checkStyle, 346.9496597508829, , , , 49067642, False, 
+##[group]Run ./gradlew lint, 42.13600531597025, , , , 1782215, False, 
+##[group]Run ./gradlew test, 15.846476581750816, , , , 1236710, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build, 27.70655000948396, , , , 1155930, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2, 17.33603192470117, , , , 72143, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2__dup_13, 218.40989446044205, , , , 17630710, False, 

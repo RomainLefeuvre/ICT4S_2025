@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B clean --file pom.xml,1919.157534664404,125960958,True,"[ERROR] Tests run: 36, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.136 s <<< FAILURE! -- in com.endava.cats.io.ServiceCallerTest"
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ cats ---,363.5551157926626,14976411,False,
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ cats ---,350.1712604891832,19527668,False,
+##[group]Run actions/setup-java@v1,233.17097866645284,568514,False,
+##[group]Fetching the repository,218.93971250802957,3063671,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ cats ---,87.66696980886631,18019210,False,
+##[group]Checking out the ref,39.74600385638436,19697,False,
+[INFO] --- quarkus-maven-plugin:3.8.2:generate-code-tests (default) @ cats ---,32.85609157888419,1435501,False,
+[INFO] --- quarkus-maven-plugin:3.8.2:generate-code (default) @ cats ---,21.04427467350162,994051,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ cats ---,14.13874192354382,630302,False,
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-maven) @ cats ---,10.055901748797066,452687,False,
+[INFO] --- maven-resources-plugin:3.3.1:testResources (default-testResources) @ cats ---,3.383142209607036,68813,False,
+[INFO] --- maven-install-plugin:3.1.1:install-file (ok-http-jar) @ cats ---,2.56607009471591,287540,False,

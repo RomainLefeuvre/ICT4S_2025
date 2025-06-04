@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,84.79306934746324,1784481,False,
+##[group]Fetching the repository,51.81092991517488,471184,False,
+##[group]Run exit 0,22.18856197185979,318560,False,
+##[group]Run actions/checkout@v4,14.115730301899855,141068,False,
+##[group]Removing previously created refs_ to avoid conflicts,13.857286341209605,31276,False,
+##[group]Setting up auth,13.598842380519352,57716,False,
+##[group]Checking out the ref,12.306622577068085,21356,False,
+Requested labels: self-hosted,5.050692930952766,4415405,False,

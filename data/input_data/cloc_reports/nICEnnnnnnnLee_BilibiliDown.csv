@@ -1,0 +1,227 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.12 s (1936.1 files/s 369640.7 lines/s)"
+JavaScript,/tmp/clone_directory/src/resources/geetest-validator/js/jquery.js,1515,1504,6578
+Java,/tmp/clone_directory/src/org/json/JSONObject.java,148,1266,1144
+Text,/tmp/clone_directory/release/wiki/langs.txt,0,0,745
+Java,/tmp/clone_directory/src/org/json/JSONArray.java,88,847,523
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/AbstractBaseParser.java,34,103,481
+Java,/tmp/clone_directory/src/nicelee/ui/item/MJMenuBar.java,38,56,470
+Markdown,/tmp/clone_directory/UPDATE.md,21,0,466
+Java,/tmp/clone_directory/src/org/json/XML.java,60,239,384
+Java,/tmp/clone_directory/src/nicelee/ui/Global.java,12,33,351
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/CmdUtil.java,25,111,350
+Java,/tmp/clone_directory/src/nicelee/ui/DialogLogin.java,38,26,319
+Java,/tmp/clone_directory/src/nicelee/ui/DialogSMSLogin.java,38,28,315
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/HttpRequestUtil.java,35,96,313
+JavaScript,/tmp/clone_directory/src/resources/geetest-validator/js/gt.js,40,5,309
+Java,/tmp/clone_directory/src/org/json/JSONML.java,58,182,302
+Java,/tmp/clone_directory/src/org/json/JSONTokener.java,47,181,301
+Java,/tmp/clone_directory/src/nicelee/ui/item/DownloadInfoPanel.java,47,58,299
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/batchdownload/BatchDownload.java,43,23,272
+Java,/tmp/clone_directory/src/org/json/XMLTokener.java,38,106,263
+Java,/tmp/clone_directory/src/nicelee/ui/TabVideo.java,56,52,257
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/ResourcesUtil.java,24,3,248
+Java,/tmp/clone_directory/src/nicelee/bilibili/INeedLogin.java,25,55,242
+Java,/tmp/clone_directory/src/nicelee/ui/TabSettings.java,23,8,241
+Java,/tmp/clone_directory/src/nicelee/bilibili/PackageScanLoader.java,21,35,239
+Java,/tmp/clone_directory/src/nicelee/bilibili/API.java,20,47,235
+Java,/tmp/clone_directory/src/nicelee/ui/thread/BatchDownloadRbyRThread.java,21,32,231
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4UPAllMedialistParser.java,20,41,228
+Java,/tmp/clone_directory/src/nicelee/ui/TabIndex.java,29,52,206
+Text,/tmp/clone_directory/release/LICENSE/third-party/LICENSE-zxing.txt,40,0,205
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/VersionManagerUtil.java,19,47,200
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/HttpRequestUtilEx.java,11,26,199
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/RepoUtil.java,18,37,198
+Java,/tmp/clone_directory/src/nicelee/ui/thread/MonitoringThread.java,7,24,195
+Java,/tmp/clone_directory/src/nicelee/ui/thread/CookieRefreshThread.java,18,9,192
+Java,/tmp/clone_directory/src/nicelee/server/core/PathDealer.java,14,58,185
+Java,/tmp/clone_directory/src/org/json/JSONWriter.java,31,197,185
+Text,/tmp/clone_directory/release/LICENSE/LICENSE.txt,36,0,180
+Java,/tmp/clone_directory/src/nicelee/ui/item/MJTitleBar.java,23,28,179
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/check/FlvMerger.java,24,62,178
+Java,/tmp/clone_directory/src/nicelee/ui/FrameMain.java,22,40,178
+Java,/tmp/clone_directory/src/nicelee/test/junit/UtilTest.java,27,59,173
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/danmuku/Xml2Ass.java,16,6,171
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/CheeseSSParser.java,23,14,169
+Java,/tmp/clone_directory/src/nicelee/bilibili/pushers/impl/MailPush.java,20,40,168
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/HttpHeaders.java,27,87,164
+Markdown,/tmp/clone_directory/release/wiki/Q&A.md,58,0,156
+Java,/tmp/clone_directory/src/nicelee/ui/item/MJTextField.java,27,17,155
+Java,/tmp/clone_directory/src/org/json/CDL.java,17,117,153
+Java,/tmp/clone_directory/src/nicelee/ui/TabDownload.java,19,19,152
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/FLVDownloader.java,19,32,149
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/MLParser.java,18,26,147
+Java,/tmp/clone_directory/src/nicelee/ui/thread/LoginThread.java,13,49,143
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4ChannelSeriesMedialistParser.java,19,18,142
+Java,/tmp/clone_directory/src/nicelee/ui/item/ClipInfoPanel.java,19,18,142
+Java,/tmp/clone_directory/src/nicelee/ui/item/MJTabVideo.java,16,9,142
+Java,/tmp/clone_directory/src/nicelee/ui/thread/DownloadRunnable.java,9,24,141
+Java,/tmp/clone_directory/src/nicelee/test/junit/ParserTest.java,24,26,139
+Java,/tmp/clone_directory/src/org/json/JSONPointer.java,25,130,138
+HTML,/tmp/clone_directory/src/resources/geetest-validator/index.html,17,4,137
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/Downloader.java,19,1,136
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/batchdownload/Condition.java,21,3,134
+Java,/tmp/clone_directory/src/nicelee/bilibili/model/ClipInfo.java,37,6,133
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4ChannelCollectionParserEx.java,15,15,133
+Java,/tmp/clone_directory/src/nicelee/ui/thread/BatchDownloadThread.java,12,3,133
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/InputParser.java,17,9,129
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/CCDownloader.java,21,12,127
+Java,/tmp/clone_directory/src/nicelee/ui/item/MJButton.java,36,7,123
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/ConfigUtil.java,10,10,122
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/check/RafRBuffered.java,17,11,119
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/DanmuDownloader.java,18,14,117
+CSS,/tmp/clone_directory/src/resources/geetest-validator/css/style.css,20,0,117
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/danmuku/Danmuku.java,13,1,115
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4UPAllParser.java,16,29,113
+Java,/tmp/clone_directory/src/nicelee/ui/SysTray.java,21,17,113
+Java,/tmp/clone_directory/src/nicelee/ui/FrameWaiting.java,25,7,112
+Java,/tmp/clone_directory/src/nicelee/test/junit/RepoTest.java,12,7,111
+Java,/tmp/clone_directory/src-launcher/nicelee/memory/App.java,10,25,109
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4PictureFavParser.java,17,2,104
+Text,/tmp/clone_directory/release/LICENSE/third-party/LICENSE-ffmpeg.txt,18,0,102
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/AudioAmParser.java,18,5,101
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/AudioCollectParser.java,17,7,99
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4ChannelSeriesParser.java,19,32,98
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/SSParser.java,14,14,97
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4ChannelCollectionParser.java,17,18,97
+YAML,/tmp/clone_directory/.github/workflows/release.yml,17,7,96
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/net/HostSetUtil.java,16,12,96
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4ChannelParser.java,17,48,94
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4PictureParser.java,16,2,94
+Markdown,/tmp/clone_directory/src/org/json/README.md,42,0,94
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4WatchLater.java,15,2,91
+YAML,/tmp/clone_directory/.github/workflows/upload-manually.yml,14,2,89
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/HttpCookies.java,13,4,87
+Java,/tmp/clone_directory/src/nicelee/test/junit/FFmpegTest.java,16,8,87
+Java,/tmp/clone_directory/src/nicelee/ui/FrameMain_v3_4.java,17,28,86
+Java,/tmp/clone_directory/src/org/json/Cookie.java,13,70,86
+Java,/tmp/clone_directory/src-launcher/nicelee/memory/classloader/MemoryClassLoader.java,14,71,83
+Java,/tmp/clone_directory/src/nicelee/bilibili/model/VideoInfo.java,21,0,82
+Java,/tmp/clone_directory/src/nicelee/test/junit/M4sTest.java,14,14,82
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/VersionBetaDownloader.java,10,12,81
+Java,/tmp/clone_directory/src/nicelee/server/controller/ControllerCookieRefresh.java,6,4,80
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/M4SDownloader.java,9,11,78
+Java,/tmp/clone_directory/src/nicelee/ui/thread/GetVideoDetailThread.java,6,3,78
+Java,/tmp/clone_directory/src/nicelee/server/core/SocketDealer.java,12,12,77
+Java,/tmp/clone_directory/src/nicelee/test/junit/INeedAVTest.java,12,20,77
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/VersionDownloader.java,10,9,76
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/VersionParser.java,13,2,76
+Java,/tmp/clone_directory/src-launcher/nicelee/memory/url/MemoryURLHandler.java,14,4,74
+Java,/tmp/clone_directory/src/nicelee/ui/item/OperationPanel.java,14,8,73
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/AudioAuParser.java,14,1,72
+Java,/tmp/clone_directory/src/nicelee/ui/FrameAbout.java,12,7,72
+Java,/tmp/clone_directory/src/nicelee/bilibili/INeedAV.java,16,37,70
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/check/RafWBuffered.java,13,15,70
+Java,/tmp/clone_directory/src/nicelee/server/core/SocketServer.java,11,15,70
+Java,/tmp/clone_directory/src/nicelee/bilibili/model/TaskInfo.java,19,0,68
+Java,/tmp/clone_directory/src/nicelee/server/controller/ControllerLogin.java,5,2,66
+Java,/tmp/clone_directory/src/nicelee/bilibili/plugin/Plugin.java,12,18,64
+HTML,/tmp/clone_directory/src/resources/cookieRefresh/index.html,3,0,64
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/FFmpegDownloader.java,8,9,63
+Java,/tmp/clone_directory/src/nicelee/ui/item/MJMenuWithRadioGroupBuilder.java,14,2,62
+Java,/tmp/clone_directory/src/org/json/HTTP.java,19,81,62
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/FFmpegParser.java,11,0,61
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/convert/ConvertUtil.java,8,24,61
+Java,/tmp/clone_directory/src/nicelee/test/junit/UITest.java,11,3,60
+Java,/tmp/clone_directory/src/nicelee/bilibili/enums/VideoQualityEnum.java,9,0,59
+XML,/tmp/clone_directory/BilibiliDown.iml,0,0,58
+Java,/tmp/clone_directory/src/nicelee/test/junit/VersionManagerTest.java,12,20,58
+Java,/tmp/clone_directory/src/nicelee/bilibili/model/FavList.java,15,0,55
+YAML,/tmp/clone_directory/.github/workflows/document.yml,4,3,54
+Java,/tmp/clone_directory/src/nicelee/server/controller/ControllerStaticFiles.java,8,2,54
+Java,/tmp/clone_directory/src/nicelee/test/junit/common/PackageScanLoaderTest.java,12,2,54
+YAML,/tmp/clone_directory/.github/workflows/closeStaleIssue.yml,9,2,53
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/SysUtil.java,6,0,53
+HTML,/tmp/clone_directory/src/resources/about.html,0,0,53
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/Encrypt.java,6,3,52
+Java,/tmp/clone_directory/src/nicelee/bilibili/enums/AudioQualityEnum.java,9,0,51
+Java,/tmp/clone_directory/src/nicelee/ui/Audio.java,9,0,51
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/EPParser.java,11,7,50
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/QrCodeUtil.java,8,33,50
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/CheeseEPParser.java,10,0,49
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/TestParser.java,14,1,49
+Markdown,/tmp/clone_directory/README.md,11,0,47
+Java,/tmp/clone_directory/src/nicelee/ui/FrameQRCode.java,7,7,47
+Java,/tmp/clone_directory/src/nicelee/ui/item/JOptionPane.java,12,4,47
+Java,/tmp/clone_directory/src/nicelee/bilibili/model/StoryClipInfo.java,5,1,46
+Java,/tmp/clone_directory/src/nicelee/bilibili/pushers/impl/SimplePrintPush.java,9,0,45
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/AbstractPageQueryParser.java,9,36,44
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/MdParser.java,10,9,43
+Java,/tmp/clone_directory/src/nicelee/ui/item/JOptionPaneManager.java,13,21,43
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/AudioDownloader.java,6,9,40
+YAML,/tmp/clone_directory/.github/workflows/pre-release-artifacts.yml,9,0,39
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/IDownloader.java,19,76,39
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/JPGDownloader.java,6,9,39
+Java,/tmp/clone_directory/src/nicelee/bilibili/pushers/Push.java,7,0,39
+Java,/tmp/clone_directory/src/nicelee/ui/item/impl/TextTransferable.java,8,4,39
+Bourne Shell,/tmp/clone_directory/release/Create-Shortcut-on-Desktop-for-Linux.sh,11,3,38
+Java,/tmp/clone_directory/src/nicelee/test/junit/INeedLoginTest.java,13,3,38
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/AVParser.java,10,19,37
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/Logger.java,4,20,37
+Java,/tmp/clone_directory/src/nicelee/test/junit/RenameTest.java,9,3,36
+Java,/tmp/clone_directory/src/nicelee/server/util/ResponseUtil.java,12,0,35
+Java,/tmp/clone_directory/src/nicelee/bilibili/plugin/CustomClassLoader.java,6,0,34
+Java,/tmp/clone_directory/src/org/json/HTTPTokener.java,9,34,34
+Bourne Shell,/tmp/clone_directory/.github/scripts/gen_zip_sha1_for_release.sh,5,2,32
+Java,/tmp/clone_directory/src/nicelee/bilibili/util/net/TrustAllCertSSLUtil.java,9,0,32
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/B23Parser.java,8,0,31
+Java,/tmp/clone_directory/src/org/json/CookieList.java,8,47,31
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/BVParser.java,7,0,28
+Java,/tmp/clone_directory/src/nicelee/ui/thread/StreamManager.java,4,1,28
+Java,/tmp/clone_directory/src/org/json/Property.java,8,39,28
+Bourne Shell,/tmp/clone_directory/.github/scripts/gen_zip_for_pre_release.sh,2,2,26
+DOS Batch,/tmp/clone_directory/package.bat,9,8,26
+Java,/tmp/clone_directory/src/nicelee/server/controller/ControllerSystemInfo.java,10,0,26
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,5,0,25
+Bourne Shell,/tmp/clone_directory/package.sh,8,8,25
+DOS Batch,/tmp/clone_directory/release/update.bat,8,5,25
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/TestDownloader.java,7,9,24
+Java,/tmp/clone_directory/src/nicelee/bilibili/model/UserInfo.java,2,0,24
+Java,/tmp/clone_directory/src/nicelee/ui/item/impl/TextTransferHandler.java,9,4,24
+Bourne Shell,/tmp/clone_directory/src/resources/update.sh,6,2,23
+Python,/tmp/clone_directory/.github/scripts/read_version_and_save_build_info.py,3,4,21
+Java,/tmp/clone_directory/src/nicelee/bilibili/enums/StatusEnum.java,4,0,21
+Java,/tmp/clone_directory/src/nicelee/bilibili/enums/DownloadModeEnum.java,6,0,20
+Bourne Shell,/tmp/clone_directory/.github/scripts/upload_cloudinary.sh,3,2,19
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/impl/URL4FavlistParser.java,8,0,19
+Text,/tmp/clone_directory/release/LICENSE/third-party/LICENSE-AV-BV-Convert.txt,4,0,18
+Text,/tmp/clone_directory/release/LICENSE/third-party/LICENSE-JSON.org.txt,5,0,18
+Java,/tmp/clone_directory/src/nicelee/bilibili/downloaders/impl/MP4Downloader.java,6,8,18
+XML,/tmp/clone_directory/.project,0,0,17
+Bourne Shell,/tmp/clone_directory/release/Create-Shortcut-on-Desktop-for-Mac.sh,8,1,17
+DOS Batch,/tmp/clone_directory/.github/scripts/package_launcher.bat,8,8,16
+Java,/tmp/clone_directory/src/nicelee/bilibili/annotations/Config.java,11,0,16
+XML,/tmp/clone_directory/.classpath,0,0,15
+Java,/tmp/clone_directory/src/nicelee/bilibili/annotations/Bilibili.java,9,0,15
+Bourne Shell,/tmp/clone_directory/.github/scripts/package_launcher.sh,7,8,14
+Java,/tmp/clone_directory/src/nicelee/bilibili/annotations/Controller.java,8,0,13
+Java,/tmp/clone_directory/src/org/json/JSONException.java,5,27,13
+Bourne Shell,/tmp/clone_directory/.github/scripts/upload_imagekit.sh,2,2,12
+Visual Basic Script,/tmp/clone_directory/release/Create-Shortcut-on-Desktop-for-Win.vbs,0,1,12
+Java,/tmp/clone_directory/src/org/json/JSONPropertyName.java,8,27,12
+INI,/tmp/clone_directory/.settings/org.eclipse.jdt.core.prefs,0,0,11
+Java,/tmp/clone_directory/src/org/json/JSONStringer.java,8,60,11
+Bourne Shell,/tmp/clone_directory/.github/scripts/upload_supabase.sh,2,2,10
+DOS Batch,/tmp/clone_directory/release/uninstall.bat,1,0,10
+Java,/tmp/clone_directory/src/nicelee/bilibili/annotations/Value.java,5,0,10
+Java,/tmp/clone_directory/src/nicelee/bilibili/exceptions/ApiLinkQueryParseError.java,3,0,10
+Java,/tmp/clone_directory/src/nicelee/bilibili/exceptions/BilibiliError.java,3,0,10
+Java,/tmp/clone_directory/src/nicelee/bilibili/exceptions/QualityTooLowException.java,3,0,10
+Java,/tmp/clone_directory/src/nicelee/bilibili/exceptions/Status412Exception.java,3,0,10
+Java,/tmp/clone_directory/src/org/json/JSONPointerException.java,9,26,10
+Java,/tmp/clone_directory/src/org/json/JSONPropertyIgnore.java,8,25,10
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/IInputParser.java,9,16,9
+Java,/tmp/clone_directory/src/nicelee/bilibili/pushers/IPush.java,7,0,9
+Bourne Shell,/tmp/clone_directory/.github/scripts/sync_push_to_bitbucket.sh,1,2,7
+Bourne Shell,/tmp/clone_directory/.github/scripts/sync_push_to_gitee.sh,1,2,7
+Bourne Shell,/tmp/clone_directory/.github/scripts/test_jar.sh,1,2,7
+Java,/tmp/clone_directory/src/nicelee/bilibili/parsers/IParamSetter.java,6,0,7
+Bourne Shell,/tmp/clone_directory/.github/scripts/upload_bitbucket.sh,2,2,6
+Bourne Shell,/tmp/clone_directory/.github/scripts/upload_railway.sh,2,2,6
+DOS Batch,/tmp/clone_directory/release/Double-Click-to-Run-for-Win-debug.bat,0,2,4
+Java,/tmp/clone_directory/src/org/json/JSONString.java,0,14,4
+Bourne Again Shell,/tmp/clone_directory/release/Double-Click-to-Run-for-Mac.command,1,2,3
+DOS Batch,/tmp/clone_directory/release/Double-Click-to-Run-for-Win.bat,0,3,3
+Java,/tmp/clone_directory/src-launcher/nicelee/memory/url/MemoryURLHandlerProvider.java,2,14,3
+INI,/tmp/clone_directory/.settings/org.eclipse.core.resources.prefs,0,0,2
+Java,/tmp/clone_directory/src/nicelee/server/package-info.java,0,6,1
+SUM,,4871,7960,30126

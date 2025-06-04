@@ -1,0 +1,216 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.07 s (3236.1 files/s 453976.5 lines/s)"
+JSON,/tmp/clone_directory/web/package-lock.json,0,0,12884
+JavaScript,/tmp/clone_directory/web/src/api/index.js,72,5,659
+Vuejs Component,/tmp/clone_directory/web/src/components/tabs/TabTreeview.vue,17,6,605
+JavaScript,/tmp/clone_directory/web/src/constants/index.js,9,1,469
+SCSS,/tmp/clone_directory/web/src/assets/scss/custom.scss,33,0,468
+JavaScript,/tmp/clone_directory/web/src/store/modules/result.js,53,0,404
+Vuejs Component,/tmp/clone_directory/web/src/components/tabs/TabResult.vue,4,2,390
+JavaScript,/tmp/clone_directory/web/src/store/modules/treeview.js,36,0,374
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/PrestoService.java,37,1,373
+JavaScript,/tmp/clone_directory/web/src/store/index.js,15,0,340
+Vuejs Component,/tmp/clone_directory/web/src/components/tabs/TabQlist.vue,6,1,334
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/HiveService.java,36,0,315
+Java,/tmp/clone_directory/src/main/java/yanagishima/config/YanagishimaConfig.java,60,0,270
+Vuejs Component,/tmp/clone_directory/web/src/views/DefaultView.vue,22,10,267
+Vuejs Component,/tmp/clone_directory/web/src/components/TheSettings.vue,4,0,264
+Vuejs Component,/tmp/clone_directory/web/src/views/ShareView.vue,7,0,258
+Markdown,/tmp/clone_directory/docs/release.md,18,0,227
+Vuejs Component,/tmp/clone_directory/web/src/components/TheHeaderLower.vue,7,1,214
+Vuejs Component,/tmp/clone_directory/web/src/components/tabs/TabHistory.vue,6,0,208
+Vuejs Component,/tmp/clone_directory/web/src/components/TheHeaderUpper.vue,19,3,191
+Vuejs Component,/tmp/clone_directory/web/src/components/base/BaseAce.vue,8,0,188
+Vuejs Component,/tmp/clone_directory/web/src/components/modals/ModalPartition.vue,7,0,178
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/ShareController.java,13,0,158
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/PrestoPartitionController.java,12,0,136
+Vuejs Component,/tmp/clone_directory/web/src/components/modals/ModalHelp.vue,3,2,135
+Gradle,/tmp/clone_directory/build.gradle,31,11,133
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/QueryService.java,18,0,133
+JavaScript,/tmp/clone_directory/web/src/store/modules/history.js,14,0,132
+Bourne Shell,/tmp/clone_directory/gradlew,21,22,129
+JavaScript,/tmp/clone_directory/web/src/store/modules/bookmark.js,12,0,128
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/CheckPrestoQueryController.java,15,1,125
+Vuejs Component,/tmp/clone_directory/web/src/components/TheComment.vue,3,0,125
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/PrestoController.java,11,0,122
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HiveQueryStatusController.java,11,0,120
+JavaScript,/tmp/clone_directory/web/src/store/modules/editor.js,8,0,118
+Markdown,/tmp/clone_directory/docs/config.md,9,0,117
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HivePartitionController.java,9,0,114
+JavaScript,/tmp/clone_directory/web/build/webpack.prod.conf.js,7,24,114
+JavaScript,/tmp/clone_directory/web/src/store/modules/qlist.js,15,0,106
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/CommentController.java,9,0,105
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/SparkUtil.java,11,3,103
+Java,/tmp/clone_directory/src/test/java/yanagishima/controller/ShareControllerTest.java,23,0,102
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/YarnJobListController.java,19,0,100
+XML,/tmp/clone_directory/config/checkstyle/checkstyle.xml,6,4,96
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/BookmarkController.java,12,0,95
+Vuejs Component,/tmp/clone_directory/web/src/components/tabs/TabTimeline.vue,4,0,95
+Vuejs Component,/tmp/clone_directory/web/src/components/modals/ModalTheme.vue,3,0,92
+Vuejs Component,/tmp/clone_directory/web/src/views/DiffView.vue,4,0,91
+JSON,/tmp/clone_directory/web/package.json,0,0,90
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HistoryController.java,11,0,87
+JavaScript,/tmp/clone_directory/web/build/webpack.base.conf.js,3,4,86
+Vuejs Component,/tmp/clone_directory/web/src/components/tabs/TabBookmark.vue,4,0,86
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/QueryController.java,14,0,84
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HiveController.java,13,2,83
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/PrestoAsyncController.java,10,0,83
+Vuejs Component,/tmp/clone_directory/web/src/components/modals/ModalAuth.vue,3,0,83
+JavaScript,/tmp/clone_directory/web/build/webpack.dev.conf.js,6,7,82
+JavaScript,/tmp/clone_directory/web/build/utils.js,16,5,80
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/HistoryUtil.java,8,0,79
+SCSS,/tmp/clone_directory/web/src/assets/scss/_variables.scss,21,0,78
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HiveQueryDetailController.java,6,1,76
+Vuejs Component,/tmp/clone_directory/web/src/components/TheBottomPanel.vue,4,0,75
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/SparkJobListController.java,11,0,73
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/KillHiveController.java,9,0,72
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/StarredSchemaController.java,8,0,72
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/DownloadController.java,10,0,67
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HiveAsyncController.java,12,0,66
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/QueryStatusController.java,11,0,65
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/QueryHistoryUserController.java,13,0,64
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/YarnUtil.java,10,0,64
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/PublishController.java,6,0,62
+Java,/tmp/clone_directory/src/test/java/yanagishima/util/YarnUtilTest.java,5,1,62
+JavaScript,/tmp/clone_directory/web/src/mixins/pivot.js,5,3,62
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/QueryHistoryController.java,11,0,61
+DOS Batch,/tmp/clone_directory/gradlew.bat,23,2,59
+Java,/tmp/clone_directory/src/main/java/yanagishima/client/fluentd/FluencyClient.java,12,0,59
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/DownloadUtil.java,14,0,59
+Vuejs Component,/tmp/clone_directory/web/src/components/ResultTable.vue,3,0,59
+JavaScript,/tmp/clone_directory/web/src/main.js,8,3,59
+YAML,/tmp/clone_directory/src/main/resources/config/application.yml,6,5,58
+SQL,/tmp/clone_directory/src/main/resources/schema.sql,5,0,57
+Markdown,/tmp/clone_directory/docs/developers.md,17,0,56
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/SqlController.java,9,0,56
+Java,/tmp/clone_directory/src/test/java/yanagishima/util/SparkUtilTest.java,6,1,56
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/DatasourceAuthController.java,9,0,53
+JavaScript,/tmp/clone_directory/web/src/store/localStorage.js,8,1,53
+Vuejs Component,/tmp/clone_directory/web/src/components/TheSideHistory.vue,3,0,52
+JavaScript,/tmp/clone_directory/web/src/filters/index.js,0,1,52
+Vuejs Component,/tmp/clone_directory/web/src/components/ResultTableColumn.vue,7,0,50
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/CommentService.java,11,0,48
+JavaScript,/tmp/clone_directory/web/src/store/modules/timeline.js,7,0,48
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/PrestoKillController.java,7,0,47
+Vuejs Component,/tmp/clone_directory/web/src/components/TheHeader.vue,3,0,47
+JavaScript,/tmp/clone_directory/web/build/check-versions.js,9,0,45
+Vuejs Component,/tmp/clone_directory/web/src/components/modals/ModalNotification.vue,3,0,44
+JavaScript,/tmp/clone_directory/web/src/mixins/chart.js,9,0,44
+Vuejs Component,/tmp/clone_directory/web/src/components/TheContent.vue,3,0,43
+Markdown,/tmp/clone_directory/docs/index.md,3,0,42
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/PublishService.java,11,0,42
+Java,/tmp/clone_directory/src/main/java/yanagishima/filter/YanagishimaFilter.java,8,2,40
+Java,/tmp/clone_directory/src/main/java/yanagishima/client/presto/PrestoClient.java,9,0,39
+Java,/tmp/clone_directory/src/main/java/yanagishima/config/WebMvcConfig.java,8,0,39
+Java,/tmp/clone_directory/src/main/java/yanagishima/interceptor/DatasourceInterceptor.java,10,0,38
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/BookmarkService.java,10,0,37
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/Query.java,13,0,36
+JavaScript,/tmp/clone_directory/web/src/store/modules/announce.js,5,0,36
+JavaScript,/tmp/clone_directory/web/src/store/modules/notification.js,5,0,36
+YAML,/tmp/clone_directory/.github/workflows/main.yml,2,0,35
+JavaScript,/tmp/clone_directory/web/build/build.js,6,0,35
+Markdown,/tmp/clone_directory/README.md,4,0,33
+Vuejs Component,/tmp/clone_directory/web/src/components/base/BaseHighlight.vue,4,0,33
+JavaScript,/tmp/clone_directory/web/src/components/base/ace/themes.js,0,0,33
+JavaScript,/tmp/clone_directory/web/src/mixins/util.js,1,0,33
+Java,/tmp/clone_directory/src/main/java/yanagishima/YanagishimaApplication.java,7,0,32
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/SessionProperty.java,9,0,32
+Vuejs Component,/tmp/clone_directory/web/src/views/ErrorView.vue,3,0,32
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/Bookmark.java,10,0,31
+JavaScript,/tmp/clone_directory/web/config/index.js,15,30,31
+JavaScript,/tmp/clone_directory/web/src/components/base/ace/CustomSqlMode.js,7,2,31
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/Comment.java,9,0,30
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/StarredSchemaService.java,8,0,30
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/AccessControlUtil.java,8,0,30
+Vuejs Component,/tmp/clone_directory/web/src/App.vue,5,0,30
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/StarredSchema.java,9,0,29
+Java,/tmp/clone_directory/src/test/java/yanagishima/util/PathUtilTest.java,7,0,28
+Java,/tmp/clone_directory/src/main/java/yanagishima/service/SessionPropertyService.java,6,0,27
+JavaScript,/tmp/clone_directory/web/src/router/index.js,2,0,27
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,14,0,24
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/QueryDetailController.java,7,0,24
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/Publish.java,9,0,24
+Java,/tmp/clone_directory/src/main/java/yanagishima/resolver/UserArgumentResolver.java,5,0,24
+JavaScript,/tmp/clone_directory/web/.eslintrc.js,1,8,23
+Markdown,/tmp/clone_directory/docs/deployment.md,10,0,22
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/HealthCheckController.java,6,0,22
+Vuejs Component,/tmp/clone_directory/web/src/components/TheFooter.vue,3,1,22
+Vuejs Component,/tmp/clone_directory/web/src/components/base/BaseAutoLink.vue,2,1,22
+Java,/tmp/clone_directory/src/main/java/yanagishima/config/SwaggerConfig.java,3,0,21
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/TypeCoerceUtil.java,3,0,21
+Java,/tmp/clone_directory/src/test/java/yanagishima/util/PublishUtilTest.java,4,0,21
+JavaScript,/tmp/clone_directory/web/build/vue-loader.conf.js,1,0,21
+Java,/tmp/clone_directory/src/main/java/yanagishima/pool/StatementPool.java,6,0,20
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/QueryIdUtil.java,6,0,20
+Java,/tmp/clone_directory/src/main/java/yanagishima/repository/QueryRepository.java,10,0,19
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/JsonUtil.java,6,0,19
+Java,/tmp/clone_directory/src/main/java/yanagishima/controller/ControllerExceptionHandler.java,4,0,18
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/DefaultProfileUtil.java,6,5,18
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/PublishUtil.java,5,0,18
+YAML,/tmp/clone_directory/docker/hive/docker-compose.yml,0,0,17
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/PathUtil.java,5,0,17
+Java,/tmp/clone_directory/src/main/java/yanagishima/exception/QueryErrorException.java,6,0,16
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/presto/PrestoQueryResult.java,3,0,16
+Java,/tmp/clone_directory/src/test/java/yanagishima/TestHelper.java,5,0,16
+Java,/tmp/clone_directory/src/test/java/yanagishima/util/FormatUtilTest.java,3,0,16
+YAML,/tmp/clone_directory/src/test/resources/config/application.yml,2,0,16
+Markdown,/tmp/clone_directory/docs/upgrade.md,1,0,15
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/hive/HiveQueryResult.java,3,0,15
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/spark/SparkSqlJob.java,13,0,15
+Java,/tmp/clone_directory/src/main/java/yanagishima/repository/CommentRepository.java,6,0,15
+Java,/tmp/clone_directory/src/test/java/yanagishima/util/QueryIdUtilTest.java,5,0,15
+Java,/tmp/clone_directory/src/main/java/yanagishima/config/AppConfig.java,2,0,14
+Java,/tmp/clone_directory/src/main/java/yanagishima/repository/PublishRepository.java,6,0,14
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/FormatUtil.java,3,0,14
+HTML,/tmp/clone_directory/web/index.html,0,1,14
+YAML,/tmp/clone_directory/docker/mysql/docker-compose.yml,1,0,13
+YAML,/tmp/clone_directory/mkdocs.yml,0,0,13
+Java,/tmp/clone_directory/src/main/java/yanagishima/exception/HiveQueryErrorException.java,5,0,13
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/BookmarkDto.java,4,0,13
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/PublishListDto.java,3,0,13
+Bourne Shell,/tmp/clone_directory/src/package/bin/yanagishima-config.sh,4,0,13
+XML,/tmp/clone_directory/config/checkstyle/checkstyle-suppressions.xml,3,2,12
+Java,/tmp/clone_directory/src/main/java/yanagishima/exception/YanagishimaParseException.java,3,0,12
+Java,/tmp/clone_directory/src/main/java/yanagishima/repository/BookmarkRepository.java,7,0,12
+Properties,/tmp/clone_directory/src/main/resources/log4j.properties,0,0,12
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/CommentId.java,3,0,11
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/db/QueryId.java,3,0,11
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/BookmarkCreateDto.java,3,0,11
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/PublishDto.java,4,0,11
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/StarredSchemaCreateDto.java,3,0,11
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/StarredSchemaDto.java,3,0,11
+Java,/tmp/clone_directory/src/main/java/yanagishima/repository/StarredSchemaRepository.java,5,0,11
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,4,5,10
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/ParseErrorResponse.java,2,0,10
+Java,/tmp/clone_directory/src/main/java/yanagishima/repository/SessionPropertyRepository.java,4,0,10
+YAML,/tmp/clone_directory/docker/spark/docker-compose.yml,0,0,9
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/HistoryStatusDto.java,2,0,9
+Bourne Shell,/tmp/clone_directory/web/deploy.sh,1,0,9
+SCSS,/tmp/clone_directory/web/src/assets/scss/_buttons.scss,2,0,9
+JavaScript,/tmp/clone_directory/web/src/utils/index.js,0,0,9
+Java,/tmp/clone_directory/src/main/java/yanagishima/annotation/DatasourceAuth.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/User.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/FormatSqlDto.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/HiveQueryDto.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/yanagishima/model/dto/PrestoQueryDto.java,2,0,8
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/Constants.java,4,0,8
+Java,/tmp/clone_directory/src/test/java/yanagishima/YanagishimaApplicationTest.java,2,0,8
+INI,/tmp/clone_directory/web/.editorconfig,1,0,8
+JavaScript,/tmp/clone_directory/web/src/assets/data/notifications.js,0,8,8
+Bourne Shell,/tmp/clone_directory/src/package/bin/yanagishima-shutdown.sh,2,0,7
+JavaScript,/tmp/clone_directory/web/.postcssrc.js,1,2,7
+JavaScript,/tmp/clone_directory/web/config/dev.env.js,1,0,7
+YAML,/tmp/clone_directory/docker/trino/docker-compose.yml,0,0,6
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/QueryEngine.java,1,0,6
+Text,/tmp/clone_directory/src/main/resources/banner.txt,2,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Java,/tmp/clone_directory/src/main/java/yanagishima/util/Status.java,1,0,5
+Bourne Shell,/tmp/clone_directory/src/package/bin/yanagishima-start.sh,3,0,5
+JavaScript,/tmp/clone_directory/web/config/prod.env.js,0,0,5
+Bourne Shell,/tmp/clone_directory/src/package/bin/yanagishima-run.sh,2,0,4
+JavaScript,/tmp/clone_directory/web/src/assets/data/announce.js,0,6,4
+SVG,/tmp/clone_directory/docs/images/logo.svg,0,0,1
+SVG,/tmp/clone_directory/docs/yanagishima.svg,0,0,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SVG,/tmp/clone_directory/web/src/assets/yanagishima.svg,0,0,1
+JavaScript,/tmp/clone_directory/web/src/components/base/ace/snippets.js,0,0,1
+SUM,,1668,206,28147

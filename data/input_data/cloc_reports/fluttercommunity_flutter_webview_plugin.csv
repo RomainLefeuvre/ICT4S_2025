@@ -1,0 +1,67 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (3285.6 files/s 249153.1 lines/s)"
+Objective-C,/tmp/clone_directory/ios/Classes/FlutterWebviewPlugin.m,78,4,452
+Java,/tmp/clone_directory/android/src/main/java/com/flutter_webview_plugin/WebviewManager.java,76,37,444
+Java,/tmp/clone_directory/android/src/main/java/com/flutter_webview_plugin/FlutterWebviewPlugin.java,33,21,273
+Dart,/tmp/clone_directory/example/lib/main.dart,37,9,267
+Dart,/tmp/clone_directory/lib/src/base.dart,53,59,266
+Dart,/tmp/clone_directory/lib/src/webview_scaffold.dart,24,5,231
+Markdown,/tmp/clone_directory/README.md,71,0,228
+XML,/tmp/clone_directory/android/flutter_webview_plugin.iml,0,0,154
+Bourne Again Shell,/tmp/clone_directory/example/android/gradlew,19,20,121
+JSON,/tmp/clone_directory/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json,0,0,116
+Markdown,/tmp/clone_directory/CHANGELOG.md,55,0,115
+Java,/tmp/clone_directory/android/src/main/java/com/flutter_webview_plugin/BrowserClient.java,19,7,93
+XML,/tmp/clone_directory/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme,0,0,87
+YAML,/tmp/clone_directory/analysis_options.yaml,1,46,74
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,24,2,64
+Dart,/tmp/clone_directory/test/flutter_webview_plugin_test.dart,8,0,63
+XML,/tmp/clone_directory/flutter_webview_plugin.iml,0,0,55
+Gradle,/tmp/clone_directory/android/build.gradle,11,7,53
+XML,/tmp/clone_directory/example/ios/Runner/Info.plist,0,0,50
+Gradle,/tmp/clone_directory/example/android/app/build.gradle,9,3,38
+Java,/tmp/clone_directory/android/src/main/java/com/flutter_webview_plugin/ObservableWebView.java,9,3,37
+Java,/tmp/clone_directory/android/src/main/java/com/flutter_webview_plugin/JavaScriptChannel.java,7,17,36
+Gradle,/tmp/clone_directory/example/android/build.gradle,5,0,33
+Java,/tmp/clone_directory/android/src/test/java/com/flutter_webview_plugin/FlutterWebviewPluginTest.java,11,0,30
+XML,/tmp/clone_directory/example/ios/Flutter/AppFrameworkInfo.plist,0,0,30
+YAML,/tmp/clone_directory/pubspec.yaml,5,0,29
+Objective-C,/tmp/clone_directory/ios/Classes/WebviewJavaScriptChannelHandler.m,5,3,28
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/BUG.md,19,28,26
+XML,/tmp/clone_directory/example/ios/Runner/Base.lproj/LaunchScreen.storyboard,0,1,26
+XML,/tmp/clone_directory/example/ios/Runner/Base.lproj/Main.storyboard,0,1,25
+Bourne Shell,/tmp/clone_directory/scripts/before_build_apks.sh,0,1,25
+XML,/tmp/clone_directory/example/android/app/src/main/AndroidManifest.xml,2,9,21
+Objective-C,/tmp/clone_directory/example/ios/Runner/AppDelegate.m,8,8,21
+XML,/tmp/clone_directory/android/src/main/res/xml/filepaths.xml,0,0,20
+Java,/tmp/clone_directory/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java,3,3,19
+YAML,/tmp/clone_directory/.github/workflows/android_ut.yml,3,0,17
+YAML,/tmp/clone_directory/.github/workflows/flutter_ut.yml,3,0,17
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,1,0,16
+Ruby,/tmp/clone_directory/ios/flutter_webview_plugin.podspec,2,3,16
+XML,/tmp/clone_directory/example/flutter_webview_plugin_example.iml,0,0,15
+YAML,/tmp/clone_directory/example/pubspec.yaml,3,0,13
+XML,/tmp/clone_directory/example/android.iml,0,0,12
+Gradle,/tmp/clone_directory/example/android/settings.gradle,3,0,12
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/yourcompany/flutter_webview_plugin_example/MainActivity.java,3,0,11
+Objective-C,/tmp/clone_directory/example/ios/Runner/GeneratedPluginRegistrant.m,5,3,11
+Dart,/tmp/clone_directory/lib/src/javascript_channel.dart,5,17,11
+XML,/tmp/clone_directory/example/ios/Runner.xcworkspace/contents.xcworkspacedata,0,0,10
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,12,25,9
+C/C++ Header,/tmp/clone_directory/example/ios/Runner/GeneratedPluginRegistrant.h,5,3,9
+Objective-C,/tmp/clone_directory/example/ios/Runner/main.m,1,0,9
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/SUPPORT.md,6,11,8
+XML,/tmp/clone_directory/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+C/C++ Header,/tmp/clone_directory/ios/Classes/WebviewJavaScriptChannelHandler.h,6,3,8
+C/C++ Header,/tmp/clone_directory/ios/Classes/FlutterWebviewPlugin.h,2,0,7
+Markdown,/tmp/clone_directory/example/README.md,3,0,5
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,1,5
+Dart,/tmp/clone_directory/lib/flutter_webview_plugin.dart,1,0,5
+Properties,/tmp/clone_directory/example/android/gradle.properties,0,0,4
+C/C++ Header,/tmp/clone_directory/example/ios/Runner/AppDelegate.h,2,0,4
+Dart,/tmp/clone_directory/lib/src/javascript_message.dart,2,5,4
+Bourne Shell,/tmp/clone_directory/android_test.sh,0,0,3
+Properties,/tmp/clone_directory/android/gradle.properties,0,0,2
+Gradle,/tmp/clone_directory/android/settings.gradle,0,0,1
+JSON,/tmp/clone_directory/example/ios/Flutter/flutter_assets/AssetManifest.json,0,0,1
+JSON,/tmp/clone_directory/example/ios/Flutter/flutter_assets/FontManifest.json,0,0,1
+SUM,,660,365,3904

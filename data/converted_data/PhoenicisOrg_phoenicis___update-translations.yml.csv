@@ -1,0 +1,5 @@
+##[group]Run sudo apt-get install -y gettext, 4.268862183631275, , , , 3136584, False, 
+##[group]Run mvn -Pupdate-translations validate, 262.2322503829683, , , , 13892738, False, 
+##[group]Run EndBug/add-and-commit@v6, 2.0500009960325403, , , , 430233, False, 
+##[group]Internal logs, 6.078706145099318, , , , 1609275, True, ##[error]Error: Poussée vers https://github.com/diversepwmeasurement/phoenicis
+##[group]Outputs, 0.7619012246287535, , , , 277376, True, ##[error]Error: Poussée vers https://github.com/diversepwmeasurement/phoenicis

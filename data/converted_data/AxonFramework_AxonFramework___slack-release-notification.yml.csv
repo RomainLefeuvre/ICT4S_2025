@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 2.1590984485434364, , , , 4534541, False, 
+##[group]GITHUB_TOKEN Permissions, 9.463986749637533, , , , 1254990, False, 
+##[group]Run slackapi/slack-github-action@v1.26.0, 2.4907962277720324, , , , 268792, True, ##[error]Error: Need to provide at least one botToken or webhookUrl

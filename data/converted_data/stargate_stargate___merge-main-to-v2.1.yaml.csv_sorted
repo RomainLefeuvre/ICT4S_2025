@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 100.35587423381791, , , , 3873705, False, 
+##[group]Fetching the repository, 38.61516656050392, , , , 3670877, False, 
+##[group]GITHUB_TOKEN Permissions, 9.700126738665247, , , , 1961252, False, 
+##[group]Create or update the pull request branch, 7.5607634418909875, , , , 492664, False, 
+##[group]Checking the base repository state, 5.757817936764598, , , , 426206, False, 
+##[group]Restore git configuration, 4.73031994296672, , , , 252630, True, ##[error]The process '/usr/bin/git' failed with exit code 128
+##[group]Run actions/checkout@v4, 1.4249448846413442, , , , 162048, False, 
+##[group]Prepare git configuration, 1.399066592976123, , , , 73594, False, 
+##[group]Setting up auth, 0.736705177049688, , , , 61523, False, 

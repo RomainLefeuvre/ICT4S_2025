@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B package --file pom.xml,1926.6654123769797,93161793,True,[ERROR] Failed to execute goal com.github.eirslett:frontend-maven-plugin:1.12.1:pnpm (pnpm run build) on project frontend: Failed to run task: 'pnpm run build' failed. org.apache.commons.exec.ExecuteException: Process exited with an error: 134 (Exit value: 134) -> [Help 1]
+"##[group]Run docker buildx build --output ""type=image_push=true"" --platform linux/amd64_linux/arm64 --build-arg VERSION=v3.x-oss --build-arg MS_VERSION=v3.x-c2ebecc2 --build-arg BUILD_DATE=2024-06-26T16:16:06Z --build-arg VCS_REF=c2ebecc2 --tag metersphere/metersphere:v3.x-oss --tag metersphere/metersphere:latest-oss .",205.3448480773513,26732856,True,##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v2__dup_5,137.4654985615865,15528197,False,
+##[group]Run actions/cache@v2,117.86635111174236,1251163,False,
+"##[group]Run docker buildx build --output ""type=image_push=false"" --platform linux/amd64_linux/arm64 --build-arg VERSION=v3.x-oss --build-arg MS_VERSION=v3.x-c2ebecc2 --build-arg BUILD_DATE=2024-06-26T16:16:06Z --build-arg VCS_REF=c2ebecc2 --tag metersphere/metersphere:v3.x-oss --tag metersphere/metersphere:latest-oss .",75.77596152917127,22716048,True,##[error]Process completed with exit code 1.
+##[group]Run crazy-max/ghaction-docker-buildx@v3,39.90618426835938,20302562,False,
+##[group]GITHUB_TOKEN Permissions,38.771459995413096,4465778,False,
+[INFO] --- frontend-maven-plugin:1.12.1:pnpm (pnpm install) @ frontend ---,16.845798544186415,1982918,False,
+##[group]Run actions/checkout@v3,7.928065438317571,148660,True,##[error]Input required and not supplied: token
+[INFO] --- frontend-maven-plugin:1.12.1:install-node-and-pnpm (install node and pnpm) @ frontend ---,7.040477965964374,357241,False,
+[INFO] --- flatten-maven-plugin:1.6.0:flatten (flatten) @ metersphere ---,4.272691033705027,226293,False,
+##[group]Run mkdir -p backend/target/dependency && (cd backend/target/dependency; jar -xf ../*.jar),3.68274603444112,138905,True,##[error]Process completed with exit code 1.
+[INFO] --- jacoco-maven-plugin:0.8.12:report (report) @ metersphere ---,2.226551433339204,19368,False,
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (default) @ metersphere ---,2.046139600365824,117043,False,
+##[group]Run actions/setup-java@v1,1.3861017061309338,134924,False,
+##[group]Run docker/login-action@v1,1.2578219139458502,161804,True,##[error]Username and password required
+Requested labels: self-hosted,0.80659907547076,4562302,False,

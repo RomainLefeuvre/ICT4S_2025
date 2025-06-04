@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 614.2076547964364, , , , 4448763, False, 
+##[group]Cleaning the repository, 221.2906815368787, , , , 9914246, False, 
+##[group]GITHUB_TOKEN Permissions, 156.7398342915778, , , , 1515665, False, 
+##[group]Building docker image, 137.6566838058663, , , , 30180792, True, ##[error]Docker build failed with exit code 1
+##[group]Removing previously created refs_ to avoid conflicts, 122.45121788752394, , , , 731665, False, 
+##[group]Run actions/checkout@v2, 45.89048506461915, , , , 186229, False, 
+##[group]Removing auth, 33.9454703322307, , , , 123335, False, 
+##[group]Fetching submodules, 28.606759518707044, , , , 628719, False, 
+##[group]Fetching the repository, 11.162300963462108, , , , 1416068, False, 
+##[group]Run ./.github/actions/translate-on-issue, 9.62611893607275, , , , 186619, True, ##[error]This Action now only support "issues" or "pull_request" or "pull_request_target" "opened". If you need other, you can open a issue to https://github.com/actions-cool/translation-helper
+##[group]Setting up auth for fetching submodules, 2.7464924397895407, , , , 21399, False, 
+##[group]Setting up auth, 2.2225205610230554, , , , 117226, False, 

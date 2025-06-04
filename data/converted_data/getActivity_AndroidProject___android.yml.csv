@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 7.693281897189657, , , , 5544831, False, 
+##[group]GITHUB_TOKEN Permissions, 3.0207699101848737, , , , 1950637, False, 
+##[group]Run actions/checkout@v2, 0.4041875231937508, , , , 204779, False, 
+##[group]Setting up auth, 0.2084756698578293, , , , 64848, False, 
+##[group]Fetching the repository, 28.076214741427, , , , 9373253, False, 
+##[group]Checking out the ref, 3.425379768067026, , , , 166428, False, 
+##[group]Run actions/setup-java@v1, 49.67967341968858, , , , 16333681, False, 
+##[group]Run ./gradlew build aR, 6.657423592570415, , , , 511249, True, ##[error]Process completed with exit code 126.

@@ -1,0 +1,10 @@
+##[group]Run mvn --batch-mode --no-transfer-progress deploy -DskipTests -DperformRelease -DcreateChecksum=true, 1011.334238480664, , , , 14723862, True, [ERROR] Failed to execute goal com.diffplug.spotless:spotless-maven-plugin:2.43.0:check (default) on project orientdb-parent: Execution default of goal com.diffplug.spotless:spotless-maven-plugin:2.43.0:check failed: Unable to load the mojo 'check' in the plugin 'com.diffplug.spotless:spotless-maven-plugin:2.43.0' due to an API incompatibility: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com/diffplug/spotless/maven/SpotlessCheckMojo has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+##[group]==END_FILE==, 285.7640686159421, , , , 4865774, False, 
+[INFO] --- buildnumber-maven-plugin:3.2.0:create (default) @ orientdb-parent ---, 91.17535138453609, , , , 4270884, False, 
+[INFO] --- maven-enforcer-plugin:3.5.0:enforce (enforce-maven) @ orientdb-parent ---, 44.39093574690512, , , , 1267255, False, 
+##[group]GITHUB_TOKEN Permissions, 27.218349543101965, , , , 2447254, False, 
+##[group]Installed distributions, 20.09740975029457, , , , 232411, False, 
+##[group]Fetching the repository, 14.033005295070154, , , , 469957, False, 
+##[group]Cleaning the repository, 9.546706148194373, , , , 400904, False, 
+##[group]Run actions/checkout@v4, 4.315253595589435, , , , 199350, False, 
+##[group]Setting up auth, 2.5775513197601554, , , , 70363, False, 

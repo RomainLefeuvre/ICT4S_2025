@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 96.45295947907005, , , , 4268594, False, 
+##[group]GITHUB_TOKEN Permissions, 6.3660329570190965, , , , 1964465, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/fsfe/reuse-action/a46482ca367aef4454a87620aa37c2be4b2f8106/Dockerfile'., 67.461041137788, , , , 29477744, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 1.395107512575259, , , , 164013, False, 
+##[group]Setting up auth, 0.726394114276501, , , , 78829, False, 
+##[group]Fetching the repository, 3.097845510365146, , , , 432663, False, 
+##[group]Checking out the ref, 0.8225286409060721, , , , 21512, False, 
+##[group]Run fsfe/reuse-action@a46482ca367aef4454a87620aa37c2be4b2f8106, 16.00380883944347, , , , 10660787, False, 

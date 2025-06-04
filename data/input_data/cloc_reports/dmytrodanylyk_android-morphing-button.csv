@@ -1,0 +1,43 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (3322.5 files/s 212802.7 lines/s)"
+Java,/tmp/clone_directory/library/src/main/java/com/dd/morphingbutton/MorphingButton.java,54,1,257
+Java,/tmp/clone_directory/library/src/main/java/com/dd/morphingbutton/impl/IndeterminateProgressButton.java,42,56,245
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/sample/Sample4Activity.java,23,0,128
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/sample/Sample3Activity.java,21,0,124
+Java,/tmp/clone_directory/library/src/main/java/com/dd/morphingbutton/MorphingAnimation.java,36,0,122
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/sample/Sample2Activity.java,16,0,88
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/sample/Sample1Activity.java,16,0,86
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+Java,/tmp/clone_directory/library/src/main/java/com/dd/morphingbutton/impl/LinearProgressButton.java,19,0,69
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/utils/L.java,18,53,59
+Markdown,/tmp/clone_directory/README.md,19,0,56
+YAML,/tmp/clone_directory/.github/workflows/Android-CI.yml,3,0,49
+YAML,/tmp/clone_directory/.github/workflows/Android-CI-release.yml,8,0,47
+Java,/tmp/clone_directory/library/src/main/java/com/dd/morphingbutton/StrokeGradientDrawable.java,14,0,43
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/utils/ProgressGenerator.java,11,0,37
+JSON,/tmp/clone_directory/.github/changelog-configuration.json,0,0,32
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/sample/MainActivity.java,6,0,32
+XML,/tmp/clone_directory/sample/src/main/res/layout/ac_sample_linear.xml,8,0,29
+XML,/tmp/clone_directory/sample/src/main/res/layout/ac_sample_linear_indet.xml,6,0,29
+XML,/tmp/clone_directory/sample/src/main/res/values/default.xml,4,0,27
+XML,/tmp/clone_directory/sample/src/main/AndroidManifest.xml,4,0,25
+Gradle,/tmp/clone_directory/library/build.gradle,5,0,23
+XML,/tmp/clone_directory/sample/src/main/res/layout/ac_sample_morph.xml,3,0,19
+Gradle,/tmp/clone_directory/build.gradle,1,0,16
+Gradle,/tmp/clone_directory/sample/build.gradle,3,1,16
+Java,/tmp/clone_directory/sample/src/main/java/com/dd/morphingbutton/sample/BaseActivity.java,5,0,16
+YAML,/tmp/clone_directory/.github/workflows/gradle-wrapper-validation.yml,1,0,15
+YAML,/tmp/clone_directory/.github/workflows/update-gradle-wrapper.yml,4,0,14
+XML,/tmp/clone_directory/sample/src/main/res/values/strings.xml,3,0,11
+YAML,/tmp/clone_directory/.github/dependabot.yml,1,4,10
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,7
+XML,/tmp/clone_directory/library/src/main/res/values/default.xml,0,0,7
+YAML,/tmp/clone_directory/jitpack.yml,0,0,5
+Java,/tmp/clone_directory/library/src/main/java/com/dd/morphingbutton/IProgress.java,1,0,4
+XML,/tmp/clone_directory/sample/src/main/res/values/styles.xml,2,2,4
+XML,/tmp/clone_directory/library/src/main/AndroidManifest.xml,2,0,3
+Properties,/tmp/clone_directory/gradle.properties,4,14,2
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/library/proguard-rules.pro,2,15,0
+ProGuard,/tmp/clone_directory/sample/proguard-rules.pro,2,15,0
+SUM,,416,279,1931

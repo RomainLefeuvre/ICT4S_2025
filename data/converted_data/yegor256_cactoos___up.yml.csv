@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 44.80375096670625, , , , 4510183, False, 
+##[group]GITHUB_TOKEN Permissions, 136.6525154786165, , , , 1974836, False, 
+##[group]Run actions/checkout@v4, 11.87831458312452, , , , 159880, False, 
+##[group]Setting up auth, 5.82747373126619, , , , 57346, False, 
+##[group]Fetching the repository, 22.56533785642429, , , , 407436, False, 
+##[group]Checking the base repository state, 18.99146392695004, , , , 409497, False, 
+##[group]Create or update the pull request branch, 22.064076504246486, , , , 516724, False, 
+##[group]Restore git configuration, 12.34497742017933, , , , 231716, True, ##[error]The process '/usr/bin/git' failed with exit code 1

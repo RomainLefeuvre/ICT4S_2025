@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v2__dup_7,544.5612258746726,66681650,False,
+##[group]Run actions/cache@v2,231.6208275889793,22857495,False,
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final,14.541423487028071,10498649,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,13.933192783277333,418882,False,
+##[group]GITHUB_TOKEN Permissions,5.639322167482229,3733822,False,
+##[group]Setting up auth,3.0122114433547558,62424,False,
+##[group]Run actions/checkout@v3,2.635342041383093,163321,False,
+Requested labels: self-hosted,0.0764476792575114,4238622,False,

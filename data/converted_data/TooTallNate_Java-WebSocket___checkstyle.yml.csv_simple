@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B checkstyle:check --file pom.xml,266.2089247567145,15688566,False,
+##[group]GITHUB_TOKEN Permissions,257.842897016215,2027399,False,
+##[group]Fetching the repository,101.4463857112977,478827,False,
+##[group]Run actions/checkout@v3,36.77431482034541,179518,False,
+##[group]Installed distributions,22.82543678504198,27235,False,
+##[group]Cleaning the repository,19.02119732086832,61353,False,
+Requested labels: self-hosted,0.0337920865962461,4025422,False,

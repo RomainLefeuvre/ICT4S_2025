@@ -1,0 +1,8 @@
+##[group]Run cd starlight, 226.3559326236364, , , , 27199740, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-release-plugin:3.0.1:prepare (default-cli) on project starlight: Can't release project due to non released dependencies :
+##[group]GITHUB_TOKEN Permissions, 36.93540589986468, , , , 3338370, False, 
+##[group]Fetching the repository, 16.088765786612683, , , , 907961, False, 
+##[group]Run actions/create-release@v1, 9.431653823784844, , , , 1031333, False, 
+##[group]Run metcalfc/changelog-generator@v4.0.1, 7.651582385121106, , , , 401568, True, ##[error]Not Found
+##[group]Run actions/checkout@v3, 3.217753157322537, , , , 157121, False, 
+##[group]Setting up auth, 1.6501298242679674, , , , 61539, False, 
+Requested labels: self-hosted, 0.0697229875272674, , , , 5951616, False, 

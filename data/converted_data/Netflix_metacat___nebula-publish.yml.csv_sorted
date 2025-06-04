@@ -1,0 +1,7 @@
+##[group]Run ./gradlew --info -Prelease.useLastTag=true final, 279.41995042434667, , , , 33855089, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 83.5334218296836, , , , 21475181, False, 
+##[group]GITHUB_TOKEN Permissions, 4.584483085600863, , , , 2793027, False, 
+##[group]Run docker/login-action@v1, 2.656210072657013, , , , 181565, True, ##[error]Username and password required
+##[group]Run actions/checkout@v1, 2.017515201322949, , , , 955998, False, 
+##[group]Run actions/cache@v1, 1.396926535632743, , , , 62721, False, 
+Requested labels: self-hosted, 0.5778617898899711, , , , 4814137, False, 

@@ -1,0 +1,11 @@
+##[group]==END_FILE==, 1.0280123373963073, , , , 4550183, False, 
+##[group]GITHUB_TOKEN Permissions, 17.577698512611732, , , , 1214469, False, 
+##[group]Run actions/checkout@v4, 3.6383090947729846, , , , 170114, False, 
+##[group]Fetching the repository, 10.092371812563597, , , , 447191, False, 
+##[group]Run exit_on_error() {, 21.355386304634106, , , , 925540, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==__dup_6, 22.06625216655496, , , , 7972978, False, 
+##[group]GITHUB_TOKEN Permissions__dup_7, 4.048655991314796, , , , 1245011, False, 
+##[group]Run actions/checkout@v4__dup_8, 0.8788470080395271, , , , 198119, False, 
+##[group]Setting up auth, 0.4564294214770187, , , , 68620, False, 
+##[group]Fetching the repository__dup_10, 1.9390904689564423, , , , 429284, False, 
+##[group]Run exit_on_error() {__dup_11, 5.128219840728475, , , , 874931, False, 

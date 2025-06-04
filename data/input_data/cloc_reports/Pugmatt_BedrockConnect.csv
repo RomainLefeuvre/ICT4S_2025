@@ -1,0 +1,61 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.05 s (1295.4 files/s 586822.3 lines/s)"
+JSON,/tmp/clone_directory/serverlist-server/src/main/resources/tables/runtimeid_table.json,0,0,15917
+JSON,/tmp/clone_directory/serverlist-server/src/main/resources/tables/creative_items.json,0,0,4204
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/listeners/PacketHandler.java,240,13,1061
+JSON,/tmp/clone_directory/serverlist-server/src/main/resources/tables/legacy_block_ids.json,0,0,462
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/BCPlayer.java,64,9,259
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/Binary.java,60,5,257
+JSON,/tmp/clone_directory/serverlist-server/src/main/resources/tables/legacy_item_ids.json,0,0,229
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/BedrockConnect.java,45,6,228
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/BinaryStream.java,99,209,220
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/gui/UIForms.java,69,3,217
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/sql/Data.java,27,2,202
+Markdown,/tmp/clone_directory/README.md,58,0,162
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/gui/UIComponents.java,22,7,151
+Maven,/tmp/clone_directory/serverlist-server/pom.xml,9,3,147
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/Server.java,19,1,113
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/PaletteManager.java,30,3,113
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/VarInt.java,29,94,112
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/sql/MySQL.java,28,18,90
+Bourne Shell,/tmp/clone_directory/scripts/docker-install-bind.sh,17,25,84
+Bourne Shell,/tmp/clone_directory/scripts/install-bind.sh,18,25,84
+YAML,/tmp/clone_directory/.github/workflows/release.yml,11,0,71
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/BedrockProtocol.java,7,12,69
+JSON,/tmp/clone_directory/serverlist-server/src/main/resources/language.json,0,0,62
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.yml,2,0,61
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/math/NukkitRandom.java,17,4,58
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/CustomServerHandler.java,13,3,56
+YAML,/tmp/clone_directory/.github/workflows/checkversion.yml,10,1,52
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/config/Language.java,16,2,52
+XML,/tmp/clone_directory/serverlist-server/BedrockPipe.iml,0,0,50
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/utils/math/NukkitMath.java,16,3,48
+Bourne Shell,/tmp/clone_directory/scripts/install-service.sh,16,6,37
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/Whitelist.java,9,3,30
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,4,0,22
+Markdown,/tmp/clone_directory/docker/raspberry-pi/README.md,4,0,20
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/CustomEntry.java,6,0,20
+Text,/tmp/clone_directory/.github/assets/README.txt,12,0,17
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/CustomServer.java,5,0,16
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+JSON,/tmp/clone_directory/docker/custom-servers/custom_servers.json,0,0,14
+YAML,/tmp/clone_directory/docker/docker-compose.yml,0,0,14
+Python,/tmp/clone_directory/.github/assets/versionUp.py,3,4,13
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/CustomServerGroup.java,5,0,13
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,11
+Markdown,/tmp/clone_directory/docker/README.md,7,0,11
+Dockerfile,/tmp/clone_directory/docker/bind9/Dockerfile,5,3,10
+YAML,/tmp/clone_directory/docker/custom-servers/docker-compose.yml,0,0,9
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/sql/Database.java,8,24,8
+Dockerfile,/tmp/clone_directory/docker/bedrockconnect/Dockerfile,0,0,6
+Dockerfile,/tmp/clone_directory/docker/custom-servers/Dockerfile,0,0,6
+Dockerfile,/tmp/clone_directory/docker/raspberry-pi/Dockerfile,0,0,6
+YAML,/tmp/clone_directory/serverlist-server/src/main/resources/plugin.yml,0,0,5
+Python,/tmp/clone_directory/.github/assets/pattern_check.py,1,2,4
+Markdown,/tmp/clone_directory/docker/custom-servers/README.md,1,0,4
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/gui/MainFormButton.java,1,0,4
+Java,/tmp/clone_directory/serverlist-server/src/main/com/pyratron/pugmatt/bedrockconnect/gui/ManageFormButton.java,1,0,4
+DOS Batch,/tmp/clone_directory/.github/assets/run.bat,0,0,3
+Text,/tmp/clone_directory/serverlist-server/TROUBLESHOOT.txt,1,0,2
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,1,1
+Markdown,/tmp/clone_directory/serverlist-server/README.md,1,0,0
+SUM,,1021,491,25216

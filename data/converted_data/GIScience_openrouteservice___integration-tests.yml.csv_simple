@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,11295.432144126054,1822690855,False,
+"##[group]Run echo ""Scenario: -m - build-all-graphs*""",1660.3328417300745,315414400,True,##[error]Process completed with exit code 1.
+"##[group]Run echo ""Scenario: -j - build-all-graphs*""",1457.285222305075,316147790,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,1307.0436427269915,157299745,False,
+##[group]Installed distributions__dup_15,256.05628748074287,21919754,False,
+##[group]Installed distributions,235.55257538640035,23272622,False,
+##[group]GITHUB_TOKEN Permissions__dup_9,38.94965018144815,2366852,False,
+##[group]GITHUB_TOKEN Permissions,21.565714842132,2419852,False,
+##[group]Fetching the repository,12.41563731704276,409243,False,
+##[group]Removing previously created refs_ to avoid conflicts,9.7640126942871,28429,False,
+##[group]Fetching the repository__dup_14,9.405009575692883,459860,False,
+##[group]Run actions/checkout@v4,4.42605818713252,163347,False,
+##[group]Setting up auth,2.3750881154716352,58364,False,
+##[group]Getting Git version info,1.95280253885742,102492,False,
+##[group]Setting up auth__dup_13,1.9240822893698828,115934,False,
+##[group]Run actions/checkout@v4__dup_10,1.8869184936929,143862,False,

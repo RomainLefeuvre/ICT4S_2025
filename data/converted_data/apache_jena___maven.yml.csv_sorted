@@ -1,0 +1,10 @@
+##[group]Run mvn -B --file pom.xml -Dmaven.javadoc.skip=true install, 24.7896562724424, , , , 4484362, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce (enforce) on project jena: 
+##[group]GITHUB_TOKEN Permissions, 5.521774416763642, , , , 2349155, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-maven-version) @ jena ---, 5.106993239917546, , , , 804118, False, 
+##[group]Fetching the repository, 1.8146676487016664, , , , 487989, False, 
+##[group]Setting up auth, 0.3434906620756726, , , , 73015, False, 
+##[group]Cleaning the repository, 0.3370097061874522, , , , 128779, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.330528750299232, , , , 113814, False, 
+##[group]Getting Git version info, 0.3240477944110118, , , , 2626, False, 
+##[group]Run actions/checkout@v4, 0.3175668385227915, , , , 146819, False, 
+Requested labels: self-hosted, 0.0, , , , 4282314, False, 

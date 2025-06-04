@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 37.50996190221441, , , , 5268793, False, 
+##[group]GITHUB_TOKEN Permissions, 73.82243660693912, , , , 2084992, False, 
+##[group]Run actions/checkout@master, 5.224195402614647, , , , 141906, False, 
+##[group]Setting up auth, 2.647191281349222, , , , 57506, False, 
+##[group]Fetching the repository, 13.937828007584065, , , , 1142789, False, 
+##[group]Checking out the ref, 4.895953862630604, , , , 185596, False, 
+##[group]Run actions/setup-node@v1, 17.505394845310374, , , , 1978116, False, 
+##[group]Run npm install && npm run deploy, 7279.643198622051, , , , 172968119, True, ##[error]Process completed with exit code 128.

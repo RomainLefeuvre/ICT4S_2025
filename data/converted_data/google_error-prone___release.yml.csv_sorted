@@ -1,0 +1,11 @@
+##[group]Installed distributions, 199.27725541175545, , , , 27155561, False, 
+##[group]GITHUB_TOKEN Permissions, 123.45176404395842, , , , 3085485, False, 
+##[group]Fetching the repository, 40.58157546221654, , , , 443030, False, 
+##[group]Run mvn --no-transfer-progress -P release clean deploy -Dgpg.passphrase="", 37.55760843434493, , , , 13571854, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign[m (sign-artifacts)[m on project error_prone_parent[m: Unable to decrypt gpg passphrase[m: org.sonatype.plexus.components.sec.dispatcher.SecDispatcherException: java.io.FileNotFoundException: /root/.m2/settings-security.xml (Aucun fichier ou dossier de ce nom) -> [Help 1][m
+##[group]Run actions/checkout@v4, 27.03627593666772, , , , 192397, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 25.34990388527785, , , , 143023, False, 
+##[group]Cleaning the repository, 23.663531833888, , , , 180132, False, 
+##[group]Run mvn --no-transfer-progress versions:set versions:commit -DnewVersion="", 12.432874725253406, , , , 6777349, True, ##[error]Process completed with exit code 1.
+##[group]Setting up auth, 11.1993763976728, , , , 71657, False, 
+##[group]Checking out the ref, 9.091411333435474, , , , 22197, False, 
+##[group]Run softprops/action-gh-release@v1, 5.51488340258314, , , , 1807554, False, 

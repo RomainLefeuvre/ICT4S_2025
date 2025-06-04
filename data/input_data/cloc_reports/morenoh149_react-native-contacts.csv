@@ -1,0 +1,66 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2973.7 files/s 310704.7 lines/s)"
+Java,/tmp/clone_directory/android/src/main/java/com/rt2zz/reactnativecontacts/ContactsManager.java,163,107,1105
+Objective-C,/tmp/clone_directory/ios/RCTContacts/RCTContacts.m,236,34,986
+Java,/tmp/clone_directory/android/src/main/java/com/rt2zz/reactnativecontacts/ContactsProvider.java,76,10,678
+Markdown,/tmp/clone_directory/README.md,67,0,333
+JavaScript,/tmp/clone_directory/example/App.js,24,13,201
+JavaScript,/tmp/clone_directory/example/components/SearchBar/index.js,21,0,174
+JavaScript,/tmp/clone_directory/example/components/ListItem/index.js,15,0,172
+Bourne Shell,/tmp/clone_directory/example/android/gradlew,22,37,129
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/xcshareddata/xcschemes/example-tvOS.xcscheme,0,0,129
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/xcshareddata/xcschemes/example.xcscheme,0,0,129
+Bourne Again Shell,/tmp/clone_directory/android/gradlew,19,20,121
+JavaScript,/tmp/clone_directory/example/components/Avatar/index.js,10,0,86
+Gradle,/tmp/clone_directory/example/android/app/build.gradle,16,108,78
+TypeScript,/tmp/clone_directory/index.d.ts,7,0,75
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,24,2,74
+DOS Batch,/tmp/clone_directory/android/gradlew.bat,24,2,64
+XML,/tmp/clone_directory/example/ios/example/Info.plist,0,0,59
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/example/MainApplication.java,8,11,57
+XML,/tmp/clone_directory/example/ios/example-tvOS/Info.plist,0,0,53
+JSON,/tmp/clone_directory/example/ios/example/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+Objective-C,/tmp/clone_directory/example/ios/exampleTests/exampleTests.m,15,6,51
+JSON,/tmp/clone_directory/package.json,0,0,49
+XML,/tmp/clone_directory/example/ios/example/Base.lproj/LaunchScreen.xib,0,0,42
+Gradle,/tmp/clone_directory/android/build.gradle,8,0,37
+JavaScript,/tmp/clone_directory/example/metro.config.js,6,0,36
+Java,/tmp/clone_directory/android/src/main/java/com/rt2zz/reactnativecontacts/ReactNativeContacts.java,8,0,30
+JSON,/tmp/clone_directory/example/package.json,0,0,30
+Gradle,/tmp/clone_directory/example/android/build.gradle,4,5,29
+Bourne Shell,/tmp/clone_directory/refresh-example.sh,7,6,29
+Objective-C,/tmp/clone_directory/example/ios/example/AppDelegate.m,8,6,28
+YAML,/tmp/clone_directory/.github/workflows/npm-publish.yml,1,0,25
+XML,/tmp/clone_directory/example/android/app/src/main/AndroidManifest.xml,3,0,24
+XML,/tmp/clone_directory/example/ios/example-tvOSTests/Info.plist,0,0,24
+XML,/tmp/clone_directory/example/ios/exampleTests/Info.plist,0,0,24
+YAML,/tmp/clone_directory/.github/workflows/stale.yml,4,0,19
+Markdown,/tmp/clone_directory/example/README.md,12,0,18
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,5,0,17
+Starlark,/tmp/clone_directory/example/android/app/build_defs.bzl,2,1,16
+Ruby,/tmp/clone_directory/react-native-contacts.podspec,4,0,14
+XML,/tmp/clone_directory/example/ios/example.xcworkspace/contents.xcworkspacedata,0,0,10
+XML,/tmp/clone_directory/example/android/app/src/debug/AndroidManifest.xml,2,0,8
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/example/MainActivity.java,3,4,8
+XML,/tmp/clone_directory/example/ios/example.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+JavaScript,/tmp/clone_directory/example/__tests__/App-test.js,3,4,7
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+Objective-C,/tmp/clone_directory/example/ios/example/main.m,3,6,7
+JavaScript,/tmp/clone_directory/example/.prettierrc.js,0,0,6
+JSON,/tmp/clone_directory/example/ios/example/Images.xcassets/Contents.json,0,0,6
+Properties,/tmp/clone_directory/android/gradle/wrapper/gradle-wrapper.properties,0,1,5
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,0,0,5
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Gradle,/tmp/clone_directory/example/android/settings.gradle,1,0,5
+C/C++ Header,/tmp/clone_directory/example/ios/example/AppDelegate.h,4,6,5
+C/C++ Header,/tmp/clone_directory/ios/RCTContacts/RCTContacts.h,2,0,5
+JavaScript,/tmp/clone_directory/example/.eslintrc.js,0,0,4
+JSON,/tmp/clone_directory/example/app.json,0,0,4
+JavaScript,/tmp/clone_directory/example/index.js,2,3,4
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/example/babel.config.js,0,0,3
+Properties,/tmp/clone_directory/example/android/gradle.properties,5,14,2
+JavaScript,/tmp/clone_directory/index.js,0,0,2
+JSON,/tmp/clone_directory/example/.watchmanconfig,0,0,1
+ProGuard,/tmp/clone_directory/example/android/app/proguard-rules.pro,1,9,0
+SUM,,847,417,5423

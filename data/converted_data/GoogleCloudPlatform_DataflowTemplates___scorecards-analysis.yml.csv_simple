@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/ossf/scorecard-action/ce330fde6b1a5c9c75b417e7efc510b822a35564/./Dockerfile'.,433.6751544055886,142146991,False,
+##[group]Run ossf/scorecard-action@ce330fde6b1a5c9c75b417e7efc510b822a35564,93.54583122243726,21628779,False,
+##[group]GITHUB_TOKEN Permissions,64.00299857025999,17160897,False,
+##[group]Waiting for processing to finish,22.94245604009804,6254077,False,
+##[group]Run actions/upload-artifact@82c141cc518b40d92cc801eee768e7aafc9c2fa2,21.34970182830597,1563913,False,
+##[group]Uploading results,17.299912769449996,599403,False,
+##[group]Cleaning the repository,13.86624814411004,825537,False,
+Requested labels: self-hosted,10.716095467068556,5977549,False,
+##[group]Run github/codeql-action/upload-sarif@231aa2c8a89117b126725a0e11897209b7118144,9.21242354387816,500554,True,"##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/"
+##[group]Removing previously created refs_ to avoid conflicts,9.155025581328536,837925,False,
+##[group]Run actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5,7.859264607172902,189346,False,
+##[group]Setting up auth,4.904763148135674,389724,False,
+##[group]Fetching the repository,4.316510947474227,656862,False,
+##[group]Getting Git version info,3.273281940284724,158098,False,
+##[group]Checking out the ref,0.8555916863566878,51453,False,

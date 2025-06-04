@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cd serverlist-server,223.49310193502384,40804312,False,
+##[group]Run actions/setup-java@v2,171.01874950685226,1683600,False,
+##[group]GITHUB_TOKEN Permissions,131.55288423604017,2546488,False,
+##[group]Run actions/upload-artifact@v2,55.17407101650299,10530057,False,
+##[group]Fetching the repository,41.78738675733042,445308,False,
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ BedrockConnect ---,20.59916588800573,1464670,False,
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ BedrockConnect ---,20.331174308949027,5988132,False,
+[INFO] --- maven-jar-plugin:3.1.0:jar (default-jar) @ BedrockConnect ---,15.711109630006153,1055352,False,
+##[group]Run actions/checkout@v2,15.32204181102115,185592,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ BedrockConnect ---,8.376731675757092,2088342,False,
+##[group]Setting up auth,7.893173054162412,64682,False,
+Requested labels: self-hosted,0.1701588716325475,4406835,False,

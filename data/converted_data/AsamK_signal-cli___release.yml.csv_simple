@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,584.1025766339858,56677902,False,
+##[group]Run actions/download-artifact@v3__dup_15,465.56308517413896,43784150,False,
+##[group]Run actions/download-artifact@v3,443.034953918917,37957074,False,
+Requested labels: self-hosted,22.16355633706202,4501591,False,
+##[group]GITHUB_TOKEN Permissions,16.858364326074113,3051714,False,
+##[group]Fetching the repository,13.433748261792806,473643,False,
+"##[group]Run echo ""{}""",9.61453463111824,247313,False,
+##[group]Fetching the repository__dup_14,9.143640718338396,422829,False,
+##[group]GITHUB_TOKEN Permissions__dup_11,7.9062863986131,3035252,False,
+##[group]Run redhat-actions/buildah-build@v2,3.097526620156444,80482,True,##[error]Error: Unable to locate executable file: buildah. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]Run actions/checkout@v4,2.8090573689400364,142007,False,
+##[group]Setting up auth,2.760134282307446,64349,False,
+"##[group]Run echo ""{}""__dup_17",2.7280032897228588,250625,False,
+##[group]Run redhat-actions/push-to-registry@v2,2.5102167731900464,112232,True,"##[error]Input ""image"" must be provided when using non full name tags"
+##[group]Cleaning the repository,1.801231381007117,23541,False,
+##[group]Run actions/checkout@v4__dup_12,1.7920657934535964,143003,False,
+##[group]Run redhat-actions/push-to-registry@v2__dup_16,1.3751955532431217,125916,True,"##[error]Input ""image"" must be provided when using non full name tags"

@@ -1,0 +1,5 @@
+##[group]Run ./gradlew build, 235.8390457352554, , , , 23070271, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v1, 92.37137883469536, , , , 22212762, False, 
+##[group]Run actions/checkout@v1, 27.54739509454587, , , , 2341313, False, 
+##[group]GITHUB_TOKEN Permissions, 12.89076821731954, , , , 1742041, False, 
+Requested labels: self-hosted, 0.0, , , , 5913495, False, 

@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 0.019556436440263, , , , 5365670, False, 
+##[group]GITHUB_TOKEN Permissions, 4.704666457167499, , , , 1649139, False, 
+##[group]Run actions/checkout@v1, 5.290714873977291, , , , 1225617, False, 
+##[group]Run roots/issue-closer@v1.1, 0.9360495546267515, , , , 201415, False, 

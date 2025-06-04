@@ -1,0 +1,15 @@
+Requested labels: self-hosted, 12.794755953557688, , , , 5993433, False, 
+##[group]GITHUB_TOKEN Permissions, 12.871026401726295, , , , 4577705, False, 
+##[group]Run actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744, 0.8480685257972952, , , , 168479, False, 
+##[group]Fetching the repository, 8.671067988253975, , , , 1793441, False, 
+##[group]Checking out the ref, 0.536533148973799, , , , 59084, False, 
+##[group]Installed distributions, 8.359532611430481, , , , 1342136, False, 
+##[group]Run ./gradlew --no-daemon clean build -x test --build-cache --scan -s, 1.938442344679532, , , , 284860, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]📦 Download JReleaser, 63.59360108750737, , , , 7310243, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar publish", 5.826865381328354, , , , 6819439, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32, 8.18643482338429, , , , 1367563, False, 
+##[group]Run ./misc/updatespec.sh, 3.2815587467490044, , , , 132896, True, ##[error]Process completed with exit code 1.
+##[group]📦 Download JReleaser__dup_12, 19.806697412734856, , , , 1174206, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar announce", 26.721849702955364, , , , 1665156, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_14, 8.465827519195798, , , , 1349655, False, 
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_15, 17.145907015600727, , , , 860497, False, 

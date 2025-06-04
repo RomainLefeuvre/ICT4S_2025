@@ -1,0 +1,26 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_3,152.36689197042455,47476542,False,
+Requested labels: self-hosted__dup_2,115.35062427496014,27969033,False,
+##[group]Installed distributions,108.12762001306676,1387166,False,
+##[group]GITHUB_TOKEN Permissions,92.59235469122508,2349356,False,
+##[group]Run ./gradlew build -S,86.45164532745375,10935719,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build -S__dup_25,37.85596257903505,7023547,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,24.78955372941452,464812,False,
+##[group]Installed distributions__dup_24,23.507401463976933,969968,False,
+##[group]Run ./gradlew build -S__dup_19,18.34760173876589,8064286,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_12,11.216318105205897,2226797,False,
+##[group]Installed distributions__dup_18,9.50238349957336,1049784,False,
+##[group]Fetching the repository__dup_23,9.215050860820584,427377,False,
+##[group]Checking out the ref,6.490852470267311,24815,False,
+##[group]GITHUB_TOKEN Permissions__dup_20,5.951462185816223,3168038,False,
+##[group]Setting up auth,5.90392439443995,59490,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.786538779274477,25587,False,
+##[group]Run actions/checkout@v4,5.669153164109005,155463,False,
+##[group]Run actions/checkout@v4__dup_21,3.2508232235565955,150703,False,
+##[group]Fetching the repository__dup_16,3.132751634735861,421414,False,
+##[group]Cleaning the repository,1.6979444652402371,30352,False,
+##[group]Checking out the ref__dup_17,0.8211539180642766,27094,False,
+##[group]Setting up auth__dup_15,0.7452218993036537,59631,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_14,0.7300354955515292,27102,False,
+##[group]Run actions/checkout@v4__dup_13,0.7148490917994046,140220,False,
+Requested labels: self-hosted,0.4070241481490304,4762980,False,

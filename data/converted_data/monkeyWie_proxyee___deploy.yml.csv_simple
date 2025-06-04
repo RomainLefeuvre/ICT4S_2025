@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean deploy -P release,197.41332659668527,33087323,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign[m (sign-artifacts)[m on project proxyee[m: Exit code: 2[m -> [Help 1][m
+##[group]Run actions/setup-java@v1__dup_7,117.64384448656712,26843827,False,
+##[group]Run actions/setup-java@v1,54.94784313665715,18899945,False,
+##[group]GITHUB_TOKEN Permissions,1.361221821711974,2015991,False,
+##[group]Fetching the repository,0.8249829222496812,709531,False,
+##[group]Initializing the repository,0.1866032800326659,143990,False,
+##[group]Run actions/checkout@v2,0.1787462998207642,189612,False,
+##[group]==END_FILE==,0.0496893198109634,4833659,False,

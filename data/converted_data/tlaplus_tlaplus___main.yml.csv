@@ -1,0 +1,30 @@
+Requested labels: self-hosted, 18049.21860501445, , , , 584897461, False, 
+Requested labels: self-hosted__dup_2, 131.773021607028, , , , 7769919, False, 
+##[group]GITHUB_TOKEN Permissions, 49.90277409243024, , , , 5150885, False, 
+##[group]Run actions/checkout@v2, 21.008490329248566, , , , 185956, False, 
+##[group]Initializing the repository, 4.399574185592111, , , , 48629, False, 
+##[group]Fetching the repository, 194.3018817389041, , , , 19866815, False, 
+##[group]Checking out the ref, 9.015212800607092, , , , 928001, False, 
+##[group]Run actions/setup-java@v1, 6.066485395220618, , , , 287682, False, 
+##[group]Run echo "$GPG_PRIVATE_KEY" > key.gpg && gpg --import key.gpg && rm key.gpg, 13.036654104748964, , , , 483343, True, ##[error]Process completed with exit code 2.
+##[group]Run openssl version, 7.902690509596437, , , , 117301, True, ##[error]Process completed with exit code 1.
+##[group]Run ant -f tlatools/org.lamport.tlatools/customBuild.xml -Dtest.halt=true compile compile-test test, 17394.115334489175, , , , 528671043, False, 
+##[group]Run xvfb-run mvn -Dtest.skip=true -Dmaven.test.failure.ignore=true -Pcodesigning -Dtycho.disableP2Mirrors=true -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn -fae -B verify --file pom.xml, 95.0788243240834, , , , 5861070, True, [ERROR] Error executing Maven.
+##[group]Run chmod -x toolbox/org.lamport.tla.toolbox.product.product/createAptRepo.sh, 3.2527348239020832, , , , 27106, True, ##[error]Process completed with exit code 1.
+##[group]Run ## Crawl release id, 16.256019938527622, , , , 1001908, True, ##[error]Process completed with exit code 5.
+##[group]Run git config --local user.email "tlaplus-action@github.com", 6.515152239666872, , , , 854813, False, 
+##[group]Run cd tlatools/org.lamport.tlatools/, 3.796898883602496, , , , 189311, True, ##[error]Process completed with exit code 12.
+##[group]Run peter-evans/repository-dispatch@v1, 2.117814334278885, , , , 104318, True, ##[error]Parameter token or opts.auth is required
+##[group]Run peter-evans/repository-dispatch@v1__dup_18, 2.180490017843925, , , , 85485, True, ##[error]Parameter token or opts.auth is required
+##[group]Run peter-evans/repository-dispatch@v2, 30.34239292726223, , , , 1591969, True, ##[error]Parameter token or opts.auth is required
+##[group]GITHUB_TOKEN Permissions__dup_20, 34.20450392091643, , , , 3669636, False, 
+##[group]Run actions/checkout@v2__dup_21, 3.811898468616893, , , , 184510, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 13.812861252149585, , , , 373670, False, 
+##[group]Cleaning the repository, 19.872133857799238, , , , 477005, False, 
+##[group]Fetching the repository__dup_24, 10.760754522011094, , , , 416769, False, 
+##[group]Checking out the ref__dup_25, 2.106928450977205, , , , 28629, False, 
+##[group]Run actions/setup-java@v1__dup_26, 2.0617059975521914, , , , 109644, False, 
+##[group]Run actions/cache@v1, 1.9524857879893136, , , , 70986, False, 
+##[group]Run ant -f tlatools/org.lamport.tlatools/customBuild.xml -Dtest.halt=true compile compile-test test__dup_28, 17689.82774985421, , , , 527814753, False, 
+##[group]Run mvn -Dmaven.test.skip=true -Pcodesigning -Dtycho.disableP2Mirrors=true -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn -fae -B verify --file pom.xml, 29.594872309878557, , , , 1114721, True, [ERROR] Error executing Maven.
+##[group]Run ## Convert pems stored as Github secrets to .p12 files that 'security import' accepts., 32.44320865698707, , , , 1425688, True, ##[error]Process completed with exit code 1.

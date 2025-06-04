@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn test,1768.148414709963,128212537,True,[ERROR] Directory with classes does not exist: target/doesnotexist
+##[group]Installed distributions,22.706051282702024,2167427,False,
+##[group]Fetching the repository,10.55276448213999,909130,False,
+##[group]GITHUB_TOKEN Permissions,6.654850839444199,2004968,False,
+Requested labels: self-hosted,5.150938390471323,6215184,False,
+##[group]Run actions/checkout@v3,2.4530865790255207,172682,False,
+##[group]Initializing the repository,1.215740508991097,81799,False,
+##[group]Setting up auth,1.2085386553099882,71499,False,
+##[group]Checking out the ref,1.136520118498899,91490,False,

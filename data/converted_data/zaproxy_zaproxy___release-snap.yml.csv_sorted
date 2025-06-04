@@ -1,0 +1,11 @@
+##[group]Cleaning the repository, 1046.3563603538385, , , , 1493768, False, 
+##[group]==END_FILE==, 858.1139700532975, , , , 5060840, False, 
+##[group]Installing Snapcraft plus dependencies, 545.3950386491983, , , , 30101754, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 249.9270016595708, , , , 182256, False, 
+##[group]Run actions/checkout@v4, 173.6332395530349, , , , 194276, False, 
+##[group]GITHUB_TOKEN Permissions, 74.57558401408167, , , , 3939806, False, 
+##[group]Run snapcore/action-publish@v1, 39.2804078329825, , , , 465805, True, ##[error]The process '/usr/bin/sg' failed with exit code 1
+##[group]Fetching the repository, 10.780955295853763, , , , 1174231, False, 
+##[group]Checking out the ref, 7.072794033426449, , , , 21837, False, 
+##[group]Run snapcore/action-build@v1, 3.8311824760769335, , , , 105148, False, 
+##[group]Setting up auth, 3.6073611655113553, , , , 81177, False, 

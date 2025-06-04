@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,1097.6456251156646,142871951,False,
+##[group]Run google-github-actions/setup-gcloud@v1,712.4631220663315,69784118,False,
+##[group]Run build-bin/package-update.sh,58.00990623551466,9538082,True,##[error]Process completed with exit code 1.
+##[group]Run google-github-actions/auth@v1,21.185694614788662,1203210,True,"##[error]google-github-actions/auth failed with: retry function failed after 4 attempts: the GitHub Action workflow must specify exactly one of ""workload_identity_provider"" or ""credentials_json""! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot."
+Requested labels: self-hosted,10.959696280495296,5828324,False,
+##[group]Fetching the repository,7.973553109378148,996226,False,
+##[group]Cleaning the repository,6.517878472105615,755722,False,
+##[group]GITHUB_TOKEN Permissions,4.460367877243368,5309275,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.472880598863994,351685,False,
+##[group]Run actions/checkout@v3,0.8295073823772807,187134,False,
+##[group]Getting Git version info,0.827769432569742,20550,False,
+##[group]Setting up auth,0.8069140348792776,82801,False,
+##[group]Run git submodule sync --recursive,0.7860586371888132,107768,True,##[error]Process completed with exit code 1.

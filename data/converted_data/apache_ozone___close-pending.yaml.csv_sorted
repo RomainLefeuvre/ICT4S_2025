@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 11.255400098876336, , , , 1445539, False, 
+Requested labels: self-hosted, 5.41268515415328, , , , 5208369, False, 
+##[group]Cleaning the repository, 5.297307564391857, , , , 705044, False, 
+##[group]Fetching the repository, 4.394069914039483, , , , 576155, False, 
+##[group]Checking out the ref, 2.1530911289593946, , , , 289897, False, 
+##[group]Run actions/checkout@v4, 0.7730337153587535, , , , 153530, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.769778616983913, , , , 76954, False, 
+##[group]Disabling automatic garbage collection, 0.7437378299851889, , , , 10267, False, 

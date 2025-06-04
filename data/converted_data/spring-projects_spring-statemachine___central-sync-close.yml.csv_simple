@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,125.4523985158265,1457493,False,
+##[group]Run spring-io/nexus-sync-action@main,38.92147314802121,306106,True,##[error]Input required and not supplied: username
+Requested labels: self-hosted,0.0155146691843698,4222502,False,

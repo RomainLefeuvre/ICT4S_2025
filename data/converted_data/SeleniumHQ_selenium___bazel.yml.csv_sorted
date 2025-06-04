@@ -1,0 +1,7 @@
+##[group]Fetching the repository, 92.54972308706073, , , , 18085816, False, 
+##[group]Run actions/upload-artifact@v4, 32.45373180980229, , , , 814064, True, ##[error]Provided artifact name input during validation is empty
+##[group]GITHUB_TOKEN Permissions, 31.44965463654421, , , , 11600322, False, 
+##[group]Checking out the ref, 8.407209122825305, , , , 906845, False, 
+##[group]Run ./scripts/github-actions/free-disk-space.sh, 7.886473358138467, , , , 1030781, False, 
+Requested labels: self-hosted, 6.109122173884297, , , , 5655139, False, 
+##[group]Run actions/checkout@v4, 1.6238119436491676, , , , 190693, False, 

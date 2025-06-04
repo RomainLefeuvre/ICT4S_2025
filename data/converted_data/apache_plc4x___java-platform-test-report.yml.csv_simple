@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching list of tracked files from GitHub__dup_11,85.52069518167806,1320630,True,##[error]No test report files were found
+##[group]GITHUB_TOKEN Permissions__dup_9,57.82192402786796,1435569,False,
+Requested labels: self-hosted,36.23877791452469,24413558,False,
+##[group]==END_FILE==,35.234690447235224,15570518,False,
+##[group]GITHUB_TOKEN Permissions__dup_6,21.31725555447822,1515148,False,
+##[group]Fetching list of tracked files from GitHub__dup_8,12.5472588290866,1245260,True,##[error]No test report files were found
+##[group]Run dorny/test-reporter@v1__dup_10,11.058420670739125,191835,False,
+##[group]Fetching list of tracked files from GitHub,9.702564814960716,1278704,True,##[error]No test report files were found
+##[group]GITHUB_TOKEN Permissions,8.161770088336853,1690023,False,
+##[group]Run dorny/test-reporter@v1__dup_7,2.3916461791474983,198292,False,
+##[group]Run dorny/test-reporter@v1,1.282507265986027,190684,False,

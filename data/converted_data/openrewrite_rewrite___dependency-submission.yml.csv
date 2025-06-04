@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.6316663615504883, , , , 4807226, False, 
+##[group]GITHUB_TOKEN Permissions, 64.65880428175541, , , , 4464846, False, 
+##[group]Run actions/checkout@v4, 4.321667145961228, , , , 156996, False, 
+##[group]Setting up auth, 2.20515834373214, , , , 60237, False, 
+##[group]Fetching the repository, 14.42402414294442, , , , 2630712, False, 
+##[group]Checking out the ref, 4.944646033240195, , , , 199795, False, 
+##[group]Run if [ -n "${GRADLE_BUILD_ACTION_SETUP_COMPLETED}" ]; then, 2.243166454415217, , , , 6416, False, 
+##[group]Run gradle/actions/setup-gradle@v3.1.0, 17.39022017564478, , , , 1009031, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.setup-gradle'

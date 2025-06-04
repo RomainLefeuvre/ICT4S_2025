@@ -1,0 +1,7 @@
+##[group]Run mvn clean test -Dprops.file=testconfig/ebean-yugabyte.properties, 7691.5115295078895, , , , 478169718, False, 
+##[group]Run actions/cache@v3, 516.0789256801265, , , , 62180100, False, 
+##[group]GITHUB_TOKEN Permissions, 5.382926525294035, , , , 3490334, False, 
+##[group]Fetching the repository, 1.2945890033552183, , , , 452982, False, 
+##[group]Cleaning the repository, 0.9680941241459452, , , , 407787, False, 
+##[group]Run actions/checkout@v3, 0.4540128049448707, , , , 178381, False, 
+Requested labels: self-hosted, 0.0181330754108838, , , , 4410656, False, 

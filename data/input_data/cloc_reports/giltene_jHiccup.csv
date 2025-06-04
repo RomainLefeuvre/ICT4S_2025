@@ -1,0 +1,17 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (1432.3 files/s 227728.2 lines/s)"
+Java,/tmp/clone_directory/src/main/java/org/jhiccup/HiccupMeter.java,105,150,577
+Maven,/tmp/clone_directory/pom.xml,25,4,238
+Markdown,/tmp/clone_directory/README.md,109,0,213
+Bourne Again Shell,/tmp/clone_directory/jHiccup,25,127,207
+Text,/tmp/clone_directory/COPYING.txt,12,0,109
+Java,/tmp/clone_directory/src/main/java/org/jhiccup/Idle.java,23,15,87
+Java,/tmp/clone_directory/src/main/java/org/jhiccup/HiccupMeterAttacher.java,11,13,42
+XML,/tmp/clone_directory/src/main/assembly/dist.xml,1,0,41
+Bourne Again Shell,/tmp/clone_directory/jHiccupLogProcessor,10,56,40
+Text,/tmp/clone_directory/LICENSE.txt,7,0,31
+YAML,/tmp/clone_directory/.github/workflows/maven.yml,7,1,30
+Java,/tmp/clone_directory/src/test/java/org/jhiccup/HiccupMeterTest.java,4,10,16
+Java,/tmp/clone_directory/src/test/java/org/jhiccup/HiccupConfigurationTest.java,5,9,11
+YAML,/tmp/clone_directory/.travis.yml,0,0,10
+Dockerfile,/tmp/clone_directory/Dockerfile,1,0,3
+SUM,,345,385,1655

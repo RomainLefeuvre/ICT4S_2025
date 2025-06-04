@@ -1,0 +1,74 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (1806.3 files/s 337598.5 lines/s)"
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/MixpanelBasicTest.java,289,9,1391
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/MixpanelAPI.java,217,1013,1134
+Markdown,/tmp/clone_directory/CHANGELOG.md,491,7,1108
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/AnalyticsMessages.java,109,45,557
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/PersistentIdentity.java,77,15,556
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/MPDbAdapter.java,81,94,502
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/OptOutTest.java,50,31,310
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/AutomaticEventsTest.java,47,3,263
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/HttpTest.java,64,0,257
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/MPConfig.java,61,162,253
+Java,/tmp/clone_directory/acceptance/test-application/src/com/mixpanel/example/hello/SessionManager.java,37,93,245
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/MPConfigTest.java,36,2,167
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/HttpService.java,23,7,154
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/SystemInformation.java,34,12,135
+Gradle,/tmp/clone_directory/maven.gradle,21,12,130
+Bourne Shell,/tmp/clone_directory/gradlew,22,37,129
+Java,/tmp/clone_directory/acceptance/test-application/src/com/mixpanel/example/hello/MainActivity.java,42,84,128
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/PersistentIdentityTest.java,30,1,125
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/ResourceReader.java,25,5,124
+Bourne Again Shell,/tmp/clone_directory/acceptance/test-application/gradlew,20,21,123
+Bourne Shell,/tmp/clone_directory/release.sh,29,31,121
+Markdown,/tmp/clone_directory/README.md,52,14,116
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/TestUtils.java,26,3,104
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/MixpanelActivityLifecycleCallbacks.java,19,1,89
+Gradle,/tmp/clone_directory/build.gradle,16,4,77
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,74
+YAML,/tmp/clone_directory/.github/workflows/release.yml,2,0,70
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/MPLog.java,17,0,70
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/Base64Coder.java,13,56,69
+DOS Batch,/tmp/clone_directory/acceptance/test-application/gradlew.bat,24,2,64
+Bourne Shell,/tmp/clone_directory/acceptance/run.sh,9,1,58
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/ExceptionHandler.java,10,1,50
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/ResourceReaderTest.java,14,0,49
+XML,/tmp/clone_directory/acceptance/test-application/res/layout/activity_main.xml,7,0,44
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/SessionMetadata.java,11,0,44
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/SharedPreferencesLoader.java,10,0,41
+YAML,/tmp/clone_directory/.github/workflows/android.yml,3,0,39
+Gradle,/tmp/clone_directory/acceptance/test-application/build.gradle,7,8,35
+XML,/tmp/clone_directory/.project,0,0,34
+XML,/tmp/clone_directory/acceptance/test-application/.project,0,0,33
+XML,/tmp/clone_directory/acceptance/test-application/AndroidManifest.xml,11,19,28
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/RemoteService.java,11,0,27
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/ConfigurationChecker.java,9,20,22
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/LegacyVersionUtils.java,4,8,22
+Properties,/tmp/clone_directory/gradle.properties,4,0,19
+Python,/tmp/clone_directory/acceptance/http_server.py,3,0,18
+Text,/tmp/clone_directory/acceptance/test-application/proguard-project.txt,2,0,18
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/SynchronizedReference.java,5,4,18
+INI,/tmp/clone_directory/.settings/org.eclipse.buildship.core.prefs,0,0,13
+Text,/tmp/clone_directory/BUILDING.txt,7,0,12
+XML,/tmp/clone_directory/acceptance/test-application/res/values/strings.xml,0,0,12
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/AutomaticEvents.java,1,0,12
+XML,/tmp/clone_directory/acceptance/test-application/.classpath,0,0,10
+Java,/tmp/clone_directory/src/androidTest/java/com/mixpanel/android/mpmetrics/test_r_package/R.java,2,3,9
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/MPConstants.java,2,3,9
+XML,/tmp/clone_directory/.classpath,0,0,6
+XML,/tmp/clone_directory/src/main/AndroidManifest.xml,6,21,6
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/ResourceIds.java,1,4,6
+Text,/tmp/clone_directory/acceptance/README.txt,0,0,5
+XML,/tmp/clone_directory/acceptance/test-application/res/menu/activity_main.xml,0,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/SuperPropertyUpdate.java,2,13,5
+INI,/tmp/clone_directory/acceptance/test-application/.settings/org.eclipse.jdt.core.prefs,0,0,4
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/util/OfflineMode.java,3,9,4
+XML,/tmp/clone_directory/acceptance/test-application/lint.xml,0,0,3
+XML,/tmp/clone_directory/acceptance/test-application/res/values/styles.xml,2,0,3
+Properties,/tmp/clone_directory/acceptance/test-application/project.properties,2,14,2
+Properties,/tmp/clone_directory/project.properties,1,12,2
+Gradle,/tmp/clone_directory/settings.gradle,0,0,2
+Gradle,/tmp/clone_directory/acceptance/test-application/settings.gradle,0,0,1
+Text,/tmp/clone_directory/proguard.txt,0,0,1
+Java,/tmp/clone_directory/src/main/java/com/mixpanel/android/mpmetrics/package-info.java,0,21,1
+SUM,,2147,1928,9382

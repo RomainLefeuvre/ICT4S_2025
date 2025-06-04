@@ -1,0 +1,22 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,5871.871357910192,634432382,False,
+##[group]Run mvn clean test spotless:check javadoc:javadoc,5553.768693146763,596717674,True,"[ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 419.3 s <<< FAILURE![m -- in net.javacrumbs.shedlock.provider.jdbc.MySqlJdbcLockProviderIntegrationTest[m"
+##[group]Run mvn clean test spotless:check javadoc:javadoc__dup_19,5131.622135319884,446093972,True,"[ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 380.5 s <<< FAILURE![m -- in net.javacrumbs.shedlock.provider.jdbc.MySqlJdbcLockProviderIntegrationTest[m"
+##[group]Run actions/cache@v4__dup_18,432.7055810218053,50350932,False,
+##[group]🚀 Publish results,197.2058342205078,14063506,False,
+##[group]GITHUB_TOKEN Permissions__dup_13,46.09551744861992,4090344,False,
+##[group]🚀 Publish results__dup_21,37.56364990243931,1744440,False,
+##[group]Fetching the repository,17.614526917332295,828258,False,
+##[group]Installed distributions,12.613711058884874,644243,False,
+##[group]Run actions/cache@v4,10.593180859236892,1489590,False,
+##[group]Checking out the ref,10.462372896304364,65283,False,
+##[group]Removing previously created refs_ to avoid conflicts,8.091068637007975,32514,False,
+##[group]📦 Process test results,7.504156114572219,395889,False,
+##[group]GITHUB_TOKEN Permissions,7.079749851816712,4655790,False,
+##[group]Fetching the repository__dup_17,6.735197647625295,444411,False,
+##[group]📦 Process test results__dup_20,5.216739377572025,450331,False,
+##[group]Run actions/checkout@v4,3.4745983191793384,248587,False,
+##[group]Run actions/checkout@v4__dup_14,3.1933079254729044,182938,False,
+##[group]Getting Git version info,1.788038505256984,11290,False,
+##[group]Setting up auth,1.5097440482509807,67240,False,
+Requested labels: self-hosted,0.0,4945573,False,

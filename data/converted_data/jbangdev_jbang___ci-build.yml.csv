@@ -1,0 +1,65 @@
+Requested labels: self-hosted, 62.70149488682245, , , , 4014987, False, 
+Requested labels: self-hosted__dup_2, 97.23412024966647, , , , 15773363, False, 
+Requested labels: self-hosted__dup_3, 135.3385950999645, , , , 36958608, False, 
+##[group]GITHUB_TOKEN Permissions, 20.91415704964422, , , , 2507386, False, 
+##[group]Run actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744, 3.170942754842489, , , , 167886, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.1147267184488032, , , , 19256, False, 
+##[group]Setting up auth, 3.058510682055116, , , , 61690, False, 
+##[group]Fetching the repository, 11.6718823642836, , , , 430850, False, 
+##[group]Run bash $GITHUB_ACTION_PATH/entrypoint.sh, 10.547561636409872, , , , 323160, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 9.115169021150075, , , , 5445788, False, 
+##[group]Run curl -H "Accept: application/vnd.github+json" https://api.github.com/rate_limit, 3.158682745761548, , , , 173740, False, 
+##[group]Run actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744__dup_12, 3.270067171953204, , , , 169734, False, 
+##[group]Setting up auth__dup_13, 1.7046488523463876, , , , 61380, False, 
+##[group]Fetching the repository__dup_14, 7.097056474864693, , , , 434720, False, 
+##[group]Run gradle/wrapper-validation-action@56b90f209b02bf6d1deae490e9ef18b21a389cd4, 30.999723562039076, , , , 1494047, False, 
+##[group]Installed distributions, 14.488347415909187, , , , 542029, False, 
+##[group]Run ./gradlew --no-daemon clean build installDist publish --build-cache --scan -s, 5.05221799101971, , , , 177626, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run export PATH=`pwd`/build/install/jbang/bin:$PATH, 5.163602417211366, , , , 199108, True, ##[error]Process completed with exit code 18.
+##[group]Run ./gradlew --no-daemon jacocoTestReport, 5.274986843403021, , , , 178739, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32, 5.386371269594679, , , , 143841, False, 
+##[group]Run codecov/codecov-action@f32b3a3741e1053eb607407145bc9619351dc93b, 66.60145609419081, , , , 2200370, False, 
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_22, 3.1568310398196147, , , , 83950, False, 
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_23, 13.340775314511184, , , , 535784, False, 
+##[group]GITHUB_TOKEN Permissions__dup_24, 6.694784264202394, , , , 5243754, False, 
+##[group]Run curl -H "Accept: application/vnd.github+json" https://api.github.com/rate_limit__dup_25, 3.022817858583279, , , , 164678, False, 
+##[group]Run actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744__dup_26, 3.0885138877075304, , , , 150086, False, 
+##[group]Cleaning the repository, 1.56889295477536, , , , 12230, False, 
+##[group]Fetching the repository__dup_28, 8.090824883092743, , , , 448979, False, 
+##[group]Run gradle/wrapper-validation-action@56b90f209b02bf6d1deae490e9ef18b21a389cd4__dup_29, 21.093228462091, , , , 1147179, False, 
+##[group]Installed distributions__dup_30, 11.630598711595656, , , , 536240, False, 
+##[group]Run ./gradlew --no-daemon clean build installDist publish --build-cache --scan -s__dup_31, 4.008258295447055, , , , 176998, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run export PATH=`pwd`/build/install/jbang/bin:$PATH__dup_32, 4.073954324571307, , , , 175938, True, ##[error]Process completed with exit code 18.
+##[group]Run ./gradlew --no-daemon jacocoTestReport__dup_33, 2.0616131732072485, , , , 144645, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_34, 4.172498368257685, , , , 144526, False, 
+##[group]Run codecov/codecov-action@f32b3a3741e1053eb607407145bc9619351dc93b__dup_35, 12.032586630547849, , , , 1997651, False, 
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_36, 2.213890830512668, , , , 83270, False, 
+##[group]Run actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32__dup_37, 11.26076677930854, , , , 607081, False, 
+Requested labels: self-hosted__dup_38, 94.68642008498522, , , , 16957842, False, 
+Requested labels: self-hosted__dup_39, 14.560288127799206, , , , 2605496, False, 
+Requested labels: self-hosted__dup_40, 212.89627223637575, , , , 31175828, False, 
+Requested labels: self-hosted__dup_41, 371.61069730314, , , , 45202071, False, 
+##[group]GITHUB_TOKEN Permissions__dup_42, 46.60130832593453, , , , 1998379, False, 
+##[group]Installed distributions__dup_43, 2.065105926664486, , , , 42641, False, 
+##[group]Run actions/download-artifact@9bc31d5ccc31df68ecc42ccf4149144866c47d8a, 10.051433609564938, , , , 489818, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run java -version, 9.50324156204996, , , , 1285434, True, ##[error]Process completed with exit code 1.
+##[group]Run java -version__dup_46, 1.3154191184508768, , , , 60341, True, ##[error]Process completed with exit code 1.
+##[group]Run java -version__dup_47, 6.577095592254383, , , , 42423, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "../build/install/jbang/bin" >> $env:GITHUB_PATH, 3.0340687857757818, , , , 228857, False, 
+##[group]GITHUB_TOKEN Permissions__dup_49, 9.604512368525423, , , , 2133694, False, 
+##[group]Installed distributions__dup_50, 2.814084000735889, , , , 42830, False, 
+##[group]Run actions/download-artifact@9bc31d5ccc31df68ecc42ccf4149144866c47d8a__dup_51, 14.070420003679445, , , , 494636, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run java -version__dup_52, 10.815917366140614, , , , 236828, True, ##[error]Process completed with exit code 1.
+##[group]Run java -version__dup_53, 1.9713884070309928, , , , 43938, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "../build/install/jbang/bin" >> $env:GITHUB_PATH__dup_54, 3.7989305144141374, , , , 237764, False, 
+##[group]GITHUB_TOKEN Permissions__dup_55, 53.45870794200514, , , , 2170717, False, 
+##[group]Run actions/download-artifact@9bc31d5ccc31df68ecc42ccf4149144866c47d8a__dup_56, 10.370694663773484, , , , 497864, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run java -version__dup_57, 1.9169373243679968, , , , 166396, True, ##[error]Process completed with exit code 1.
+##[group]Run java -version__dup_58, 1.838336520174647, , , , 78689, True, ##[error]Process completed with exit code 1.
+##[group]Run java -version__dup_59, 1.7597357159812976, , , , 86366, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "../build/install/jbang/bin" >> $env:GITHUB_PATH__dup_60, 4.807602322783794, , , , 232622, False, 
+##[group]GITHUB_TOKEN Permissions__dup_61, 34.65192497012324, , , , 2224961, False, 
+##[group]Run actions/download-artifact@9bc31d5ccc31df68ecc42ccf4149144866c47d8a__dup_62, 9.075116366756523, , , , 491685, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run java -version__dup_63, 7.452844076092066, , , , 1170586, True, ##[error]Process completed with exit code 1.
+##[group]Run java -version__dup_64, 1.920548797248208, , , , 76169, True, ##[error]Process completed with exit code 1.
+##[group]Run echo "../build/install/jbang/bin" >> $env:GITHUB_PATH__dup_65, 10.14021896377828, , , , 253320, False, 

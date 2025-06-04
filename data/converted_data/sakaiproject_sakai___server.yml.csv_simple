@@ -1,0 +1,21 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cypress-io/github-action@v6,6180.128882209831,1958371662,True,##[error]connect ECONNREFUSED 127.0.0.1:8080
+##[group]Run sleep 15m,1782.0354835433982,900962364,False,
+##[group]Installed distributions,100.39858430628396,13190906,False,
+Requested labels: self-hosted,73.16054314227296,4371712,False,
+##[group]Run curl -sL -o cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb,57.51351393917767,18910553,False,
+##[group]Cleaning the repository,53.97689191997699,2657489,False,
+##[group]GITHUB_TOKEN Permissions,29.189270642227463,5958415,False,
+##[group]Fetching the repository,16.81397342872232,628537,False,
+##[group]Run actions/upload-artifact@v4,13.218251425847953,328293,False,
+##[group]Fetching the repository__dup_16,10.535312632212737,715232,False,
+##[group]Removing previously created refs_ to avoid conflicts,7.451133945353464,574922,False,
+##[group]Determining the default branch,4.453978891081268,372672,False,
+##[group]Run sudo systemctl start mysql.service,3.540773990567201,160232,True,##[error]Process completed with exit code 5.
+##[group]Checking out the ref,2.962965856707598,77246,False,
+##[group]Setting up auth,2.641691952866509,118027,False,
+##[group]Run actions/checkout@v4,2.1165411392994358,145134,False,
+##[group]Initializing the repository,1.6574622615779286,230205,False,
+##[group]Run export QUERIES=$(grep ProtocolLoggingProxy.info tomcat/logs/catalina.out|grep -v ROLLBACK|grep -v COMMIT | wc -l),1.630027256093201,49903,False,
+##[group]Run actions/checkout@v4__dup_12,1.3726986695965764,109027,False,
+##[group]Setting up auth__dup_14,0.9355174777819716,69280,False,

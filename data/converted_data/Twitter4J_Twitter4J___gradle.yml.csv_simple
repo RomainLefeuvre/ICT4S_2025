@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew build --stacktrace,402.254249448503,37725086,True,##[error]Process completed with exit code 1.
+> Task :twitter4j-core:assemble,186.4847029656919,8899949,False,
+> Task :build,68.01890742947899,5200046,False,
+> Task :twitter4j-core:jar,52.52160211120582,3195891,False,
+> Task :twitter4j-core:testClasses,39.45942793289468,1999542,False,
+> Task :twitter4j-core:compileJava,18.753216825578,799833,False,
+> Task :twitter4j-core:test,17.861991603847954,607996,False,
+> Task :twitter4j-core:classes,16.954365674512257,1599848,False,
+##[group]GITHUB_TOKEN Permissions,9.758341319286496,2121049,False,
+Requested labels: self-hosted,3.81864819097364,5275889,False,
+##[group]Fetching the repository,3.762015487605271,675259,False,
+> Task :twitter4j-core:javadoc,3.2609077910101787,100049,False,
+> Task :testClasses UP-TO-DATE,3.2513221439455706,98502,False,
+##[group]Run actions/setup-java@v2,1.7036251446920403,318393,False,
+##[group]Run actions/checkout@v2,1.019047083360925,192997,False,
+##[group]Setting up auth,0.5171346077522299,67535,False,

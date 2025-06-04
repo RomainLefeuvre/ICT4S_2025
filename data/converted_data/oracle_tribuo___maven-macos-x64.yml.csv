@@ -1,0 +1,23 @@
+##[group]==END_FILE==, 0.1235994130704818, , , , 4428765, False, 
+Requested labels: self-hosted, 74.64471988363675, , , , 19852835, False, 
+##[group]GITHUB_TOKEN Permissions, 58.28352981734012, , , , 2990121, False, 
+##[group]Run actions/checkout@v4, 2.8742562649647176, , , , 167909, False, 
+##[group]Setting up auth, 2.980710200704152, , , , 58565, False, 
+##[group]Fetching the repository, 12.455110481513776, , , , 433838, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 20.59883656558048, , , , 583572, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn -B package --file pom.xml, 158.35022941240803, , , , 3491188, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.2.1:enforce (enforce) on project tribuo: 
+##[group]GITHUB_TOKEN Permissions__dup_9, 13.764318907934353, , , , 3043100, False, 
+##[group]Run actions/checkout@v4__dup_10, 0.6345191611820334, , , , 142520, False, 
+##[group]Setting up auth__dup_11, 0.6546001361440397, , , , 58454, False, 
+##[group]Fetching the repository__dup_12, 2.7188054193861904, , , , 418911, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_13, 3.674620179960325, , , , 541410, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn -B package --file pom.xml__dup_14, 17.208602590092084, , , , 1936648, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.2.1:enforce (enforce) on project tribuo: 
+[INFO] --- maven-enforcer-plugin:3.2.1:enforce (enforce) @ tribuo ---, 22.96619862486887, , , , 14245315, False, 
+##[group]==END_FILE==__dup_16, 22.96619862486887, , , , 7670337, False, 
+##[group]GITHUB_TOKEN Permissions__dup_17, 30.00160699055625, , , , 3073037, False, 
+##[group]Run actions/checkout@v4__dup_18, 1.028829749717356, , , , 138882, False, 
+##[group]Setting up auth__dup_19, 1.035611524809405, , , , 66480, False, 
+##[group]Fetching the repository__dup_20, 4.176354974697869, , , , 436820, False, 
+##[group]Checking out the ref, 1.0525659625395287, , , , 62234, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_22, 5.330647563618138, , , , 523990, True, ##[error]Process completed with exit code 1.
+##[group]Run mvn -B package --file pom.xml__dup_23, 21.02958310224255, , , , 1933272, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.2.1:enforce (enforce) on project tribuo: 

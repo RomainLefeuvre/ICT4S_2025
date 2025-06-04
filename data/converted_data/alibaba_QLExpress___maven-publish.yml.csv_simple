@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean deploy --batch-mode --activate-profiles deploy,820.6159704867528,50849343,True,##[error]Process completed with exit code 1.
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ QLExpress ---,149.05575918354126,5492277,False,
+##[group]==END_FILE==,125.83830239494348,11972714,False,
+[INFO] --- maven-javadoc-plugin:2.1:jar (attach-javadocs) @ QLExpress ---,86.9208661648847,3957769,False,
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ QLExpress ---,67.82148088863445,17688169,False,
+##[group]GITHUB_TOKEN Permissions,64.83936827220435,5284605,False,
+[INFO] --- maven-source-plugin:2.1:jar (default) @ QLExpress ---,63.83408807380538,1574838,False,
+##[group]Fetching the repository,44.31709691563528,776862,False,
+##[group]Installed distributions,26.908398343756325,289633,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ QLExpress ---,23.0669940507028,1931145,False,
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ QLExpress ---,21.037921896389552,669199,False,
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ QLExpress ---,13.933129714788834,441228,False,
+##[group]Run actions/checkout@v2,11.436445266741556,193475,False,
+##[group]Setting up auth,7.301012496021142,71076,False,
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ QLExpress ---,4.217188677739734,15696,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ QLExpress ---,3.0626042612017104,282678,False,
+##[section]Starting: Prepare job publish,2.608895768424476,1615,False,

@@ -1,0 +1,10 @@
+##[group]Run ant -noinput -buildfile loader/build.xml, 630.4965123090896, , , , 54235576, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 34.80191187186318, , , , 2758375, False, 
+##[group]Cleaning the repository, 17.787317052217634, , , , 750058, False, 
+##[group]Run actions/setup-java@v2, 16.279231739431143, , , , 566789, False, 
+##[group]Fetching the repository, 15.780561404071682, , , , 609221, False, 
+##[group]Run actions/checkout@v2, 4.92774024445092, , , , 206829, False, 
+Requested labels: self-hosted, 4.375530861126351, , , , 5124024, False, 
+##[group]Setting up auth, 2.5885377060653245, , , , 83723, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.4935528802825706, , , , 99819, False, 
+##[group]Getting Git version info, 2.4816797770597265, , , , 12456, False, 

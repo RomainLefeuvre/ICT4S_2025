@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 1319.682449978327, , , , 60962488, False, 
+##[group]GITHUB_TOKEN Permissions, 29.98704551450568, , , , 2912659, False, 
+##[group]Run actions/upload-artifact@v3, 16.34119707934226, , , , 1004508, False, 
+##[group]Fetching the repository, 7.83338155087939, , , , 453615, False, 
+##[group]Run actions/cache@v3, 7.754144393863239, , , , 577149, False, 
+##[group]Run actions/cache@v3__dup_8, 5.785935780976926, , , , 566878, False, 
+##[group]Run actions/checkout@v3, 3.465394227416569, , , , 175866, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.059650075969438, , , , 30184, False, 
+##[group]Cleaning the repository, 1.961055322810726, , , , 72456, False, 
+##[group]Run bazel test --test_output=errors --test_tag_filters=-pmd_test --build_tag_filters=-pmd_test -- //..., 1.4262648150948527, , , , 84507, True, ##[error]Process completed with exit code 127.

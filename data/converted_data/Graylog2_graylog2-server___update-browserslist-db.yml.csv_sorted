@@ -1,0 +1,14 @@
+Requested labels: self-hosted, 282.08094675541975, , , , 4854864, False, 
+##[group]Run npx browserslist@latest --update-db, 160.8217920877276, , , , 5495072, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 159.36698249456165, , , , 3722932, False, 
+##[group]Cleaning the repository, 145.62130088681977, , , , 12396768, False, 
+##[group]Run actions/checkout@v4, 39.23913200475396, , , , 170624, False, 
+##[group]Fetching the repository, 28.60547233100064, , , , 614151, False, 
+##[group]Checking out the ref, 19.423467495265847, , , , 44716, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 18.398904244431986, , , , 320333, False, 
+##[group]Checking the base repository state, 13.811327941346514, , , , 425026, False, 
+##[group]Create or update the pull request branch, 11.828505606906056, , , , 1029509, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Restore git configuration, 6.620834315463453, , , , 348642, False, 
+##[group]Setting up auth, 5.727930964762131, , , , 82101, False, 
+##[group]Determining the checkout info, 3.8846934990531694, , , , 23679, False, 
+##[group]Run yarn install, 3.81554885953202, , , , 89919, True, ##[error]Process completed with exit code 127.

@@ -1,0 +1,1351 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.84 s (1598.7 files/s 453795.7 lines/s)"
+XML,/tmp/clone_directory/dcm4che-dict/src/main/docbook/part06.xml,12,4,156477
+Maven,/tmp/clone_directory/dcm4che-dict-priv/pom.xml,3,39,20053
+XML,/tmp/clone_directory/dcm4che-dict/src/main/docbook/part07.xml,448,17,13966
+Web Services Description,/tmp/clone_directory/dcm4che-qstar/src/main/resources/wsdl/qstar-full.wsdl,1868,660,11229
+Maven,/tmp/clone_directory/dcm4che-js-dict/pom.xml,0,37,6008
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Attributes.java,518,244,3227
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/main/java/org/dcm4che3/conf/ldap/LdapDicomConfiguration.java,220,53,2440
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Association.java,178,70,1083
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrs/src/main/java/org/dcm4che3/tool/stowrs/StowRS.java,110,42,1065
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/JsonConfiguration.java,50,44,994
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/AuditLogger.java,156,116,981
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Device.java,222,246,957
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/DcmQRSCP.java,125,41,947
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/DicomInputStream.java,126,145,890
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/Transcoder.java,141,48,886
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Connection.java,162,324,795
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/plugins/dcm/DicomImageReader.java,100,84,794
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-common/src/main/java/org/dcm4che3/tool/common/CLIUtils.java,73,41,764
+Java,/tmp/clone_directory/dcm4che-audit/src/main/java/org/dcm4che3/audit/AuditMessages.java,102,65,742
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/IOD.java,105,41,693
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/AttributesTest.java,106,57,664
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/AnatomicRegion.java,8,41,644
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdir/src/main/java/org/dcm4che3/tool/dcmdir/DcmDir.java,60,42,641
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/ebRS/rim.xsd,15,18,627
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmvalidate/ct-dosesr-iod.xml,8,41,625
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/agfa2sr/agfa2sr.xsl,29,55,616
+Maven,/tmp/clone_directory/dcm4che-assembly/pom.xml,2,42,609
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/SpecificCharacterSet.java,70,136,607
+XSD,/tmp/clone_directory/dcm4che-audit/src/main/xsd/audit-message.xsd,0,19,598
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/dsr2html.xsl,41,0,594
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscu/src/main/java/org/dcm4che3/tool/mppsscu/MppsSCU.java,72,43,584
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/BinaryValueType.java,133,40,566
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmqrscp/RecordFactory.xml,1,40,565
+XML,/tmp/clone_directory/dcm4che-core/src/main/resources/org/dcm4che3/media/RecordFactory.xml,0,0,560
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/ApplicationEntity.java,103,172,549
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-upsscu/src/main/java/org/dcm4che3/tool/upsscu/UpsSCU.java,60,43,547
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/PDUDecoder.java,59,42,536
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/main/java/org/dcm4che3/conf/ldap/LdapUtils.java,85,41,530
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-findscu/src/main/java/org/dcm4che3/tool/findscu/FindSCU.java,70,42,492
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescu/src/main/java/org/dcm4che3/tool/storescu/StoreSCU.java,57,41,471
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/StringValueType.java,112,40,467
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/Compressor.java,62,42,464
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/ebRS/query.xsd,35,4,464
+Java,/tmp/clone_directory/dcm4che-deident/src/main/java/org/dcm4che3/deident/DeIdentifier.java,37,53,460
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/SpecificCharacterSetTest.java,73,42,456
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xroad/src/main/java/org/dcm4che3/tool/xroad/XRoad.java,27,43,453
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-audit/src/main/java/org/dcm4che3/conf/ldap/audit/LdapAuditLoggerConfiguration.java,28,41,431
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/JPEGParser.java,59,44,430
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2jpg/src/main/java/org/dcm4che3/tool/dcm2jpg/Dcm2Jpg.java,39,40,427
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/dsr2text.xsl,35,0,423
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmvalidate/xr-dosesr-iod.xml,8,38,417
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/test/java/org/dcm4che3/conf/json/JsonConfigurationTest.java,44,46,413
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-hl7/src/main/java/org/dcm4che3/conf/ldap/hl7/LdapHL7Configuration.java,61,41,411
+Text,/tmp/clone_directory/LICENSE.txt,74,0,396
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/PDUEncoder.java,51,41,392
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-getscu/src/main/java/org/dcm4che3/tool/getscu/GetSCU.java,57,41,392
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/AttributesFormat.java,25,40,389
+Java,/tmp/clone_directory/dcm4che-json/src/main/java/org/dcm4che3/json/JSONReader.java,43,41,385
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadows/src/main/java/org/dcm4che3/tool/wadows/WadoWS.java,37,41,385
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mkkos/src/main/java/org/dcm4che3/tool/mkkos/MkKOS.java,45,41,384
+Java,/tmp/clone_directory/dcm4che-json/src/main/java/org/dcm4che3/json/JSONWriter.java,36,79,383
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-planarconfig/src/main/java/org/dcm4che3/tool/planarconfig/PlanarConfig.java,24,44,375
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7Application.java,64,41,371
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stgcmtscu/src/main/java/org/dcm4che3/tool/stgcmtscu/StgCmtSCU.java,43,41,357
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2dcm/src/main/java/org/dcm4che3/tool/dcm2dcm/Dcm2Dcm.java,33,40,354
+Java,/tmp/clone_directory/dcm4che-soundex/src/test/java/org/dcm4che3/soundex/MetaphoneTest.java,37,83,351
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/assembly/modules.xml,0,0,349
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/PaletteColorModel.java,64,41,347
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/json_indent.xsl,19,0,343
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/BufferedImageUtils.java,39,62,343
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/META-INF/maven/remote-resources.xml,0,0,339
+Maven,/tmp/clone_directory/pom.xml,2,38,337
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/VRTest.java,35,40,336
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-upsscu/README.md,18,0,336
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ihe/dcm4che-tool-ihe-modality/src/main/java/org/dcm4che3/tool/ihe/modality/Modality.java,25,41,332
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/Decompressor.java,40,41,330
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/ContentHandlerAdapter.java,38,40,328
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/SAXWriter.java,40,40,328
+Web Services Description,/tmp/clone_directory/dcm4che-qstar/src/main/resources/wsdl/qstar.wsdl,10,0,326
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-jpg2dcm/src/main/java/org/dcm4che3/tool/jpg2dcm/Jpg2Dcm.java,35,42,324
+XSLT,/tmp/clone_directory/dcm4che-core/src/main/xsl/StandardElementDictionary.java.xsl,10,37,321
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/media/DicomDirWriter.java,52,40,318
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/StringUtils.java,53,52,318
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/AuditSuppressCriteria.java,81,159,318
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_PETD_01.xml,0,39,317
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeImageReader.java,43,70,317
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrsd/src/main/java/org/dcm4che3/tool/stowrsd/StowRSServer.java,32,44,317
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescp/src/main/java/org/dcm4che3/tool/storescp/StoreSCP.java,34,41,315
+Web Services Description,/tmp/clone_directory/dcm4che-xroad/src/main/resources/wsdl/X-road-RR441.wsdl,13,0,315
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2dcm/src/main/java/org/dcm4che3/tool/xml2dcm/Xml2Dcm.java,35,40,311
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/media/DicomDirReader.java,67,40,310
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2dcm/src/main/java/org/dcm4che3/tool/json2dcm/Json2Dcm.java,32,40,308
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscu/src/main/java/org/dcm4che3/tool/ianscu/IanSCU.java,34,41,302
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/elscint-elements.xml,17,40,301
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-findscu/README.md,1,0,300
+Java,/tmp/clone_directory/dcm4che-emf/src/main/java/org/dcm4che3/emf/MultiframeExtractor.java,40,48,296
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/device.schema.json,0,0,292
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/DateUtils.java,43,56,289
+Java,/tmp/clone_directory/dcm4che-imageio-rle/src/main/java/org/dcm4che3/imageio/plugins/rle/RLEImageReader.java,52,41,289
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/mp4/MP4Parser.java,41,46,289
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-movescu/src/main/java/org/dcm4che3/tool/movescu/MoveSCU.java,40,41,285
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadors/src/main/java/org/dcm4che3/tool/wadors/WadoRS.java,37,41,285
+Maven,/tmp/clone_directory/dcm4che-jboss-modules/pom.xml,3,1,284
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_GENIE_1.xml,0,39,278
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/ByteUtils.java,54,40,276
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicRetrieveTask.java,39,41,276
+Java,/tmp/clone_directory/dcm4che-imageio-test/src/test/java/org/dcm4che3/imageio/dcm/TestDicomImageReader.java,43,52,274
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/LookupTableFactory.java,43,43,271
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ihe/dcm4che-tool-ihe-modality/README.md,1,0,271
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/json_compact.xsl,19,0,270
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2sr/src/main/java/org/dcm4che3/tool/agfa2sr/Agfa2SR.java,15,44,270
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/README.md,1,0,270
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-getscu/README.md,1,0,270
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscu/README.md,1,0,268
+Maven,/tmp/clone_directory/dcm4che-imageio-test/pom.xml,3,41,267
+Java,/tmp/clone_directory/dcm4che-qstar/src/main/java/org/dcm4che3/qstar/QStarUtils.java,24,43,266
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslog/src/main/java/org/dcm4che3/tool/syslog/Syslog.java,30,41,263
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/stream/SegmentedInputImageStream.java,32,66,262
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscp/src/main/java/org/dcm4che3/tool/mppsscp/MppsSCP.java,26,41,261
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/AAssociateRQAC.java,55,41,256
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/audit/JsonAuditLoggerConfiguration.java,15,44,254
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-tpl2xml/src/main/java/org/dcm4che3/tool/tpl2xml/Tpl2Xml.java,29,41,254
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-movescu/README.md,1,0,253
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescu/README.md,1,0,253
+XML,/tmp/clone_directory/dcm4che-assembly/src/main/assembly/component.xml,1,40,251
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/ValidationResult.java,40,41,251
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Dimse.java,26,41,251
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2xml/src/main/java/org/dcm4che3/tool/dcm2xml/Dcm2Xml.java,29,40,250
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/auditSuppressCriteria.schema.json,0,0,244
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7rcv/src/main/java/org/dcm4che3/tool/hl7rcv/HL7Rcv.java,24,41,243
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stgcmtscu/README.md,1,0,243
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-pdf2dcm/src/main/java/org/dcm4che3/tool/pdf2dcm/Pdf2Dcm.java,30,41,239
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmldap/src/main/java/org/dcm4che3/tool/dcmldap/DcmLdap.java,29,42,238
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscu/README.md,1,0,238
+Java,/tmp/clone_directory/dcm4che-soundex/src/test/java/org/dcm4che3/soundex/SoundexTest.java,28,79,237
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-qstar/src/main/java/org/dcm4che3/tool/qstar/QStar.java,24,43,234
+Java,/tmp/clone_directory/dcm4che-ws-rs/src/main/java/org/dcm4che3/ws/rs/MediaTypes.java,86,245,234
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/auditLogger.schema.json,0,0,229
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdump/src/main/java/org/dcm4che3/tool/dcmdump/DcmDump.java,27,41,229
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/AttributesBulkDataTest.java,18,5,222
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/Overlays.java,30,41,222
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/dcmNetworkConnection.schema.json,0,0,220
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-audit/src/test/java/org/dcm4che3/conf/ldap/audit/LdapAuditLoggerConfigurationTest.java,21,41,220
+Bourne Shell,/tmp/clone_directory/mvnw,34,62,220
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrs/README.md,1,0,219
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2rst/src/main/java/org/dcm4che3/tool/json2rst/Json2Rst.java,20,43,217
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/BulkData.java,43,43,215
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/IntHashMap.java,38,40,211
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/io/DicomInputStreamTest.java,29,3,207
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/WebApplication.java,41,46,206
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2json/src/main/java/org/dcm4che3/tool/dcm2json/Dcm2Json.java,24,40,205
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/media/RecordFactory.java,29,40,204
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/ImageReaderFactory.java,43,41,204
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/ImageWriterFactory.java,45,41,203
+XSLT,/tmp/clone_directory/dcm4che-core/src/main/xsl/Tag.java.xsl,43,37,202
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2props/src/main/java/org/dcm4che3/tool/json2props/Json2Props.java,13,44,201
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Issuer.java,39,40,200
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmassoc/README.md,1,0,194
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-NM.xml,0,39,193
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/SyslogProtocolHandler.java,26,41,192
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescp/README.md,1,0,192
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/io/DicomOutputStreamTest.java,28,3,190
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-ADVANCED-PRESENTATION.xml,0,39,190
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscp/src/main/java/org/dcm4che3/tool/ianscp/IanSCP.java,21,41,190
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ACQU_01.xml,0,39,188
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/HL7Segment.java,39,41,188
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Commands.java,36,41,187
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-swappxdata/src/main/java/org/dcm4che3/tool/swappxdata/SwapPxData.java,18,43,187
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/IDWithIssuer.java,38,64,185
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/PersonName.java,33,47,185
+XSD,/tmp/clone_directory/dcm4che-xroad/src/main/resources/schema/identifiers.xsd,0,0,185
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/DicomOutputStream.java,28,40,183
+Java,/tmp/clone_directory/dcm4che-mime/src/main/java/org/dcm4che3/mime/MultipartInputStream.java,34,42,183
+Maven,/tmp/clone_directory/dcm4che-core/pom.xml,1,37,182
+Markdown,/tmp/clone_directory/README.md,15,0,179
+Java,/tmp/clone_directory/dcm4che-imageio-test/src/test/java/org/dcm4che3/imageio/codec/TranscoderTest.java,38,43,179
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pdq/src/main/java/org/dcm4che3/tool/hl7pdq/HL7Pdq.java,28,41,178
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Code.java,30,40,177
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7snd/src/main/java/org/dcm4che3/tool/hl7snd/HL7Snd.java,24,41,177
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-maskpxdata/src/main/java/org/dcm4che3/tool/maskpxdata/MaskPxData.java,22,43,177
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pix/src/main/java/org/dcm4che3/tool/hl7pix/HL7Pix.java,27,41,176
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/VR.java,77,142,174
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/mpeg/MPEG2Parser.java,21,44,174
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/StreamUtils.java,28,40,171
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/storescp/sop-classes.properties,170,7,169
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-MR-Imaging-DD-001.xml,0,39,169
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-emf2sf/src/main/java/org/dcm4che3/tool/emf2sf/Emf2sf.java,21,41,169
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/test/java/org/dcm4che3/conf/ldap/LdapDicomConfigurationTest.java,22,41,168
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/TagUtils.java,34,40,167
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/PhotometricInterpretation.java,24,41,166
+Java,/tmp/clone_directory/dcm4che-xroad/src/main/java/org/dcm4che3/xroad/XRoadUtils.java,22,43,166
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/hl7rcv/rsp_k22.xsl,3,0,164
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/BasicBulkDataDescriptor.java,28,44,164
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/UIDUtils.java,33,54,164
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-fixlo2un/src/main/java/org/dcm4che3/tool/fixlo2un/FixLO2UN.java,16,44,164
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7snd/README.md,1,0,164
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslog/README.md,1,0,164
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/ebRS/lcm.xsd,1,6,163
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pdq/README.md,3,0,162
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscp/README.md,1,0,162
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/TransferSyntaxType.java,14,41,161
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/HL7ContentHandler.java,12,41,159
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/XDSConstants.java,16,63,159
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/Phonem.java,5,48,158
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/PatchJPEGLSImageInputStream.java,26,41,157
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/State.java,40,49,157
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/QueryRetrieveLevel.java,15,37,155
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscp/README.md,1,0,155
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/dcmDevice.schema.json,1,0,154
+DOS Batch,/tmp/clone_directory/mvnw.cmd,35,0,153
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Sequence.java,31,40,152
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/ImageParameters.java,38,52,152
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslogd/src/main/java/org/dcm4che3/tool/syslogd/Syslogd.java,19,41,152
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Fragments.java,31,68,151
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-PART.xml,0,39,150
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/Metaphone.java,9,84,150
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/cuid2name.xsl,1,39,148
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJPEGImageWriter.java,23,48,148
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/StreamSegment.java,20,50,148
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-imageio/src/main/java/org/dcm4che3/conf/ldap/imageio/LdapImageWriterConfiguration.java,15,41,146
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/HL7Message.java,17,41,146
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-imageio/src/main/java/org/dcm4che3/conf/ldap/imageio/LdapImageReaderConfiguration.java,15,41,145
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/util/ByteUtilsTest.java,30,3,145
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/TransferCapability.java,41,72,145
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-deidentify/src/main/java/org/dcm4che3/tool/deidentify/Deidentify.java,15,43,144
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/JsonReader.java,26,43,143
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/HL7Parser.java,29,41,142
+Java,/tmp/clone_directory/dcm4che-json/src/test/java/org/dcm4che3/json/JSONWriterTest.java,11,41,142
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl72xml/src/main/java/org/dcm4che3/tool/hl72xml/HL72Xml.java,20,41,142
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2pdf/src/main/java/org/dcm4che3/tool/dcm2pdf/Dcm2Pdf.java,20,41,140
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/AttributeSelector.java,30,44,139
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/ElementDictionaryTest.java,22,40,139
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-SMS-USG-ANTARES-3D-VOLUME.xml,0,39,138
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-IMAGING-DD-001-1.xml,0,39,136
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-RA-PLANE-A.xml,0,39,136
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-RA-PLANE-B.xml,0,39,136
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/UnparsedHL7Message.java,19,50,136
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pix/README.md,1,0,136
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdir/README.md,2,0,135
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/AttributeCoercion.java,33,40,134
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmvalidate/dicomdir-iod.xml,0,0,131
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/SequenceValueType.java,32,40,131
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmassoc/src/main/java/org/dcm4che3/tool/dcmassoc/DcmAssoc.java,21,40,131
+XSD,/tmp/clone_directory/dcm4che-xroad/src/main/resources/schema/xml.xsd,22,0,131
+XSLT,/tmp/clone_directory/dcm4che-dict-priv/src/main/xsl/PrivateElementDictionary.java.xsl,8,39,130
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_DL_IMG_01.xml,0,39,130
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_PARM_01.xml,0,39,130
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJLSImageWriter.java,21,48,130
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/CompressionRule.java,37,41,130
+Java,/tmp/clone_directory/dcm4che-audit/src/test/java/org/dcm4che3/audit/AuditMessageTest.java,15,42,128
+Java,/tmp/clone_directory/dcm4che-soundex/src/test/java/org/dcm4che3/soundex/KPhoneticTest.java,16,21,128
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-imageio/src/main/java/org/dcm4che3/conf/ldap/imageio/LdapCompressionRulesConfiguration.java,13,41,127
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/mppsscp/mpps-ncreate-iod.xml,0,0,126
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/AttributesTemporalTest.java,20,27,126
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/hl7/JsonHL7Configuration.java,18,43,125
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-OBJECT-GRAPHICS.xml,0,39,125
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-common/src/main/resources/org/dcm4che3/tool/common/messages.properties,0,0,125
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/UserIdentityRQ.java,29,47,124
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmqrscp/storage-sop-classes.properties,124,7,123
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-IMAGING-DD-001-1.xml,0,39,123
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-001.xml,0,39,123
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/KeycloakClient.java,29,44,123
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/JPEGHeader.java,18,46,122
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7rcv/README.md,1,0,122
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/JsonWriter.java,30,43,119
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/io/ContentHandlerAdapterTest.java,40,2,118
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/ICCProfile.java,17,44,118
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/ConfigurationChanges.java,34,41,117
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/DicomServiceException.java,28,41,116
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/LookupTable.java,19,41,115
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/StorageOptions.java,27,41,115
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/WebApplicationInfo.java,31,44,115
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/KPhonetik.java,7,40,115
+XSLT,/tmp/clone_directory/dcm4che-dict/src/main/xsl/uids.xsl,9,37,114
+XML,/tmp/clone_directory/dcm4che-core/src/test/resources/dicomdir-iod.xml,0,0,113
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-pdf2dcm/README.md,1,0,113
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-N3D.xml,0,39,112
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/stream/EncapsulatedPixelDataImageInputStream.java,22,43,112
+XSD,/tmp/clone_directory/dcm4che-xroad/src/main/resources/schema/xroad.xsd,2,2,112
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/Property.java,19,41,110
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2index/src/main/java/org/dcm4che3/tool/json2index/Json2Index.java,14,41,110
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/main/java/org/dcm4che3/conf/ldap/ReconnectDirContext.java,19,5,109
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-LAYOUT-PROTOCOL.xml,0,39,109
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/MLLPInputStream.java,29,41,108
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJ2kImageWriter.java,21,48,108
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/FutureDimseRSP.java,20,41,108
+Java,/tmp/clone_directory/dcm4che-audit-keycloak/src/main/java/org/dcm4che3/audit/keycloak/Dcm4cheEventListenerProvider.java,12,43,107
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2dcm/src/main/java/org/dcm4che3/tool/agfa2dcm/Agfa2Dcm.java,14,44,107
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2dcm/README.md,1,0,107
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/networkAE.schema.json,0,0,106
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/util/IntHashMapTest.java,17,3,105
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/JPEG.java,25,87,105
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/SSLManagerFactory.java,16,40,104
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrs/src/main/resources/org/dcm4che3/tool/stowrs/messages.properties,0,0,104
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/DICOM/dicom.wado.ws.2011.xsd,0,0,104
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/QueryRetrieveLevel2.java,20,43,103
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmvalidate/mr-iod.xml,1,28,101
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-SMS-USG-S2000-3D-VOLUME.xml,0,39,101
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2dcm/README.md,1,0,101
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslogd/README.md,1,0,101
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/webApplication.schema.json,0,0,100
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-SYNGO-RT.xml,0,39,100
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/ImageDescriptor.java,26,43,100
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/util/DateUtilsTest.java,20,3,99
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7DeviceExtension.java,25,41,99
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-audit/src/main/java/org/dcm4che3/conf/ldap/audit/LdapAuditRecordRepositoryConfiguration.java,15,41,98
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_SENO_02.xml,0,39,98
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/HL7Charset.java,10,117,98
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/AcquisitionModality.java,9,41,97
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-MR-Imaging-DD-005.xml,0,39,97
+Web Services Description,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/wsdl/XDS-I.b_ImagingDocumentSource.wsdl,0,12,97
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-MR-Imaging-DD-004.xml,0,39,96
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xroad/README.md,4,0,96
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-SDI-02.xml,0,39,94
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SMS-AX--ACQ-1.0.xml,0,39,94
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/AAssociateRJ.java,23,0,94
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Release-1.xml,0,39,93
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/TCPListener.java,15,42,93
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/plugins/dcm/DicomImageReadParam.java,30,48,92
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/hl7Application.schema.json,0,0,91
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/MLLPConnection.java,18,40,91
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmbenchmark/src/main/java/org/dcm4che3/tool/dcmbenchmark/DcmBenchMark.java,9,44,91
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-RA-GEN.xml,0,39,90
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/ebRS/cms.xsd,1,4,90
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/ByteLookupTable.java,15,0,89
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DeviceInfo.java,29,42,89
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/PresentationContext.java,21,41,89
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/DicomServiceRegistry.java,17,41,89
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmvalidate/src/main/java/org/dcm4che3/tool/dcmvalidate/DcmValidate.java,14,41,89
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-upsscu/src/main/resources/org/dcm4che3/tool/upsscu/messages.properties,0,0,89
+Java,/tmp/clone_directory/dcm4che-camel/src/main/java/org/dcm4che3/camel/DicomConsumer.java,17,42,88
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/PatientQueryTask.java,12,37,88
+Maven,/tmp/clone_directory/dcm4che-tool/pom.xml,1,38,88
+XSLT,/tmp/clone_directory/dcm4che-core/src/main/xsl/UID.java.xsl,8,37,87
+XSLT,/tmp/clone_directory/dcm4che-dict-priv/src/main/xsl/PrivateKeyword.java.xsl,6,39,87
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJPEGImageReaderSpi.java,12,63,87
+XSLT,/tmp/clone_directory/dcm4che-core/src/main/xsl/Keyword.java.xsl,5,37,86
+Web Services Description,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/wsdl/XDS.b_DocumentRepository.wsdl,1,13,86
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/util/AttributesFormatTest.java,13,41,85
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/srdump.xsl,0,0,84
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-hl7/src/test/java/org/dcm4che3/conf/ldap/hl7/LdapHL7ConfigurationTest.java,13,41,84
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-VA0--GEN.xml,0,39,84
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2jpg/README.md,1,0,84
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicQueryTask.java,15,42,83
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/study.csv.xsl,8,37,82
+Java,/tmp/clone_directory/dcm4che-audit-keycloak/src/main/java/org/dcm4che3/audit/keycloak/AdminEventsAuditService.java,12,44,82
+Java,/tmp/clone_directory/dcm4che-camel/src/main/java/org/dcm4che3/camel/DicomDeviceComponent.java,19,41,82
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/IDWithIssuerTest.java,25,40,82
+XSLT,/tmp/clone_directory/dcm4che-dict-priv/src/main/xsl/PrivateTag.java.xsl,4,39,81
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/storescu,15,12,80
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/hl7rcv/rsp_k23.xsl,2,0,80
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadows/README.md,1,0,80
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2dcm,15,12,79
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/io/XMLTest.java,23,45,79
+Java,/tmp/clone_directory/dcm4che-net/src/test/java/org/dcm4che3/net/AssociationTest.java,23,4,79
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/dcmTransferCapability.schema.json,0,0,78
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/SAXTransformer.java,16,40,78
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/ShortLookupTable.java,13,0,78
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/JPEGLSCodingParam.java,17,41,78
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/ApplicationEntityInfo.java,25,42,78
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdir/src/main/resources/org/dcm4che3/tool/dcmdir/messages.properties,0,0,78
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/IHE/XDS.b_DocumentRepository.xsd,0,1,78
+Java,/tmp/clone_directory/dcm4che-audit/src/main/java/org/dcm4che3/audit/ParticipantObjectDescriptionBuilder.java,16,44,77
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2jpg,14,12,76
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-SDS-01.xml,0,39,76
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2str/src/main/java/org/dcm4che3/tool/dcm2str/Dcm2Str.java,8,42,76
+Maven,/tmp/clone_directory/dcm4che-xdsi/pom.xml,7,43,76
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/mpeg/MPEGHeader.java,10,47,75
+Maven,/tmp/clone_directory/dcm4che-xroad/pom.xml,5,42,75
+Java,/tmp/clone_directory/dcm4che-audit-keycloak/src/main/java/org/dcm4che3/audit/keycloak/AuditAuth.java,12,44,74
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/ProcedureDiscontinuationReasons.java,3,46,74
+Maven,/tmp/clone_directory/dcm4che-dict/pom.xml,0,37,74
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/acuson-1.2.840.113680.1.0-7f10.xml,0,39,74
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/AssociationHandler.java,11,41,74
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-jpg2dcm/README.md,1,0,74
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-common/src/main/java/org/dcm4che3/tool/common/DicomFiles.java,10,41,73
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/arcelements.xml,1,39,72
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/SampledComponentColorModel.java,19,42,72
+XSLT,/tmp/clone_directory/dcm4che-js-dict/src/main/xsl/dict-names.xsl,3,37,72
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/AAbort.java,19,41,72
+Java,/tmp/clone_directory/dcm4che-net/src/test/java/org/dcm4che3/net/PDUDecoderTest.java,13,41,72
+CSS,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2xml/report.css,18,4,71
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/imageio/JsonImageReaderConfiguration.java,8,43,71
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/imageio/JsonImageWriterConfiguration.java,9,43,71
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CM-VA0--CMS.xml,0,39,71
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2dcm/README.md,1,0,71
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/SendStgCmtResult.java,11,40,71
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadors/README.md,5,0,71
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/mppsscp/mpps-nset-iod.xml,0,0,70
+Maven,/tmp/clone_directory/dcm4che-audit/pom.xml,1,37,70
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/PersonNameTest.java,12,40,70
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmldap/README.md,1,0,70
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/SOSSegment.java,19,41,69
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS_FLCOMPACT_VA01A_PROC.xml,0,39,68
+XSLT,/tmp/clone_directory/dcm4che-dict/src/main/xsl/dataelements.xsl,5,37,68
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/CIELabColorSpace.java,18,44,68
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/SampledComponentSampleModel.java,17,42,68
+Java,/tmp/clone_directory/dcm4che-audit/src/main/java/org/dcm4che3/audit/ActiveParticipantBuilder.java,13,44,67
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/keycloakClient.schema.json,0,0,67
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/pom.xml,4,39,67
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/ElementDictionary.java,16,37,67
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/Base64.java,8,40,67
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2xml/README.md,1,0,67
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/ebRS/rs.xsd,1,7,67
+Java,/tmp/clone_directory/dcm4che-audit-keycloak/src/main/java/org/dcm4che3/audit/keycloak/AuditUtils.java,14,44,66
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/dcmNetworkAE.schema.json,0,0,66
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/XSLTAttributesCoercion.java,18,43,66
+XSLT,/tmp/clone_directory/dcm4che-dict/src/main/xsl/uidsEx.xsl,2,37,66
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/AuditRecordRepository.java,21,41,66
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/UDPListener.java,12,42,66
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/modality/code.properties,0,12,65
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/ERRSegment.java,14,41,65
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/PatchJPEGLSImageOutputStream.java,13,41,65
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/patient.csv.xsl,8,37,64
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/FileStreamSegment.java,13,44,64
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/SOFSegment.java,17,41,64
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/Soundex.java,12,42,64
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-pdf2dcm/src/main/resources/org/dcm4che3/tool/pdf2dcm/messages.properties,0,0,64
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmvalidate/ct-iod.xml,0,28,63
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/ValueSelector.java,18,40,63
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/YBR.java,13,82,63
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJPEGImageWriterSpi.java,14,48,63
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7ProtocolHandler.java,10,41,63
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Status.java,34,209,63
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2hl7/src/main/java/org/dcm4che3/tool/xml2hl7/Xml2HL7.java,9,41,63
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-findscu/src/main/resources/org/dcm4che3/tool/findscu/messages.properties,0,0,62
+Java,/tmp/clone_directory/dcm4che-audit-keycloak/src/main/java/org/dcm4che3/audit/keycloak/Dcm4cheEventListenerProviderFactory.java,11,44,61
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/LimitedInputStream.java,15,43,61
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2json/README.md,2,0,61
+Java,/tmp/clone_directory/dcm4che-audit/src/main/java/org/dcm4che3/audit/ParticipantObjectIdentificationBuilder.java,12,44,60
+Maven,/tmp/clone_directory/dcm4che-qstar/pom.xml,7,42,60
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mkkos/README.md,1,0,60
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-GV-CT-Release-1.xml,0,39,59
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/plugins/dcm/DicomImageReaderSpi.java,11,41,59
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/CommonExtendedNegotiation.java,15,41,59
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2jpg/src/main/resources/org/dcm4che3/tool/dcm2jpg/messages.properties,0,0,59
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/pdf2dcm/encapsulatedMTLMetadata.xml,0,0,58
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/pdf2dcm/encapsulatedOBJMetadata.xml,0,0,58
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/pdf2dcm/encapsulatedSTLMetadata.xml,0,0,58
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/main/java/org/dcm4che3/conf/ldap/ResourceManager.java,14,41,58
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/ExtMemoryCacheImageOutputStream.java,16,43,58
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7ApplicationInfo.java,20,40,58
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/SeriesQueryTask.java,13,37,58
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-planarconfig/README.md,6,0,58
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2dcm/src/main/resources/org/dcm4che3/tool/xml2dcm/messages.properties,0,0,58
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-audit/pom.xml,0,0,57
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJ2kImageReaderSpi.java,15,50,57
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/InstanceQueryTask.java,13,37,57
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-qstar/README.md,7,0,57
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-hl7/pom.xml,0,0,56
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-LAST.xml,0,39,56
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedMTLMetadata.xml,0,0,55
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedOBJMetadata.xml,0,0,55
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedSTLMetadata.xml,0,0,55
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/test/java/org/dcm4che3/conf/api/AttributeCoercionsTest.java,7,0,55
+XSLT,/tmp/clone_directory/dcm4che-core/src/main/xsl/UIDNames.properties.xsl,1,37,55
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ADWSoft_3D1.xml,0,39,55
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-002.xml,0,39,55
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-APPL-DATASET.xml,0,39,55
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-IMAGE-SHADOW-ATTRIBUTES.xml,0,39,55
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2dcm/src/main/resources/org/dcm4che3/tool/json2dcm/messages.properties,0,0,55
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/qstar,9,10,54
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/wadows,9,10,54
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/xroad,9,10,54
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/main/java/org/dcm4che3/conf/ldap/LdapDicomConfigurationExtension.java,24,41,54
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-SMS-USG-ANTARES.xml,0,39,54
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-SMS-USG-S2000.xml,0,39,54
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/StoredValue.java,17,41,54
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/JPEGImageWriteParam.java,12,45,54
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/mp4/MP4FileType.java,12,44,54
+Java,/tmp/clone_directory/dcm4che-json/src/test/java/org/dcm4che3/json/JSONReaderTest.java,10,44,54
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DeviceService.java,13,41,54
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/StudyQueryTask.java,13,37,54
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-SPECTRO-1.xml,0,39,53
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-VA0--COAD.xml,0,39,53
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicMPPSSCP.java,12,41,53
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/resources/org/dcm4che3/tool/dcmqrscp/messages.properties,0,0,53
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/mwl.xml,0,0,52
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/pom.xml,0,0,52
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/DateRange.java,16,41,52
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEIIS_IW.xml,0,39,52
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-VA0--GEN.xml,0,39,52
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7SAXTransformer.java,11,44,52
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2sr/README.md,1,0,52
+Maven,/tmp/clone_directory/dcm4che-camel/pom.xml,0,1,51
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-RadWorks-Version-5.0.xml,0,39,51
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_HELIOS_01.xml,0,39,51
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ihe/dcm4che-tool-ihe-modality/src/main/resources/org/dcm4che3/tool/ihe/modality/messages.properties,0,0,51
+Java,/tmp/clone_directory/dcm4che-camel/src/main/java/org/dcm4che3/camel/DicomEndpoint.java,14,43,50
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/networkConnection.schema.json,0,0,50
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SERIES-SHADOW-ATTRIBUTES.xml,0,39,50
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/MLLPOutputStream.java,14,41,50
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xroad/src/main/resources/org/dcm4che3/tool/xroad/messages.properties,0,0,50
+XSD,/tmp/clone_directory/dcm4che-xdsi/src/main/resources/schema/IHE/XDSI.b_ImagingDocumentSource.xsd,0,0,50
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/qstar.bat,16,4,49
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/storescu.bat,21,6,49
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/wadows.bat,16,4,49
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/xroad.bat,16,4,49
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/AttributeCoercions.java,14,40,49
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/audit/JsonAuditRecordRepositoryConfiguration.java,8,43,49
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/media/RecordType.java,4,40,49
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/CountingInputStream.java,15,46,49
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/CompressionRules.java,14,40,49
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/FormatNameFilterIterator.java,11,43,49
+Maven,/tmp/clone_directory/dcm4che-net-audit/pom.xml,0,0,49
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/AuditLoggerDeviceExtension.java,13,40,49
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2dcm.bat,21,6,48
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/mkkos/code.properties,0,5,48
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/ItemPointer.java,13,40,48
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/dict/siemens/SiemensCSAHeader.java,14,46,48
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-VA0--COAD.xml,0,39,48
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DimseRSPHandler.java,15,41,48
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2pdf/README.md,1,0,48
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/src/main/java/org/dcm4che3/tool/dcmqrscp/RetrieveTaskImpl.java,8,40,48
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscu/src/main/resources/org/dcm4che3/tool/mppsscu/messages.properties,0,0,48
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/ConfigurationCache.java,13,40,47
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-DLR.01.xml,0,39,47
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2dcm/src/main/resources/org/dcm4che3/tool/dcm2dcm/messages.properties,0,0,47
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrs/pom.xml,1,24,47
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2jpg.bat,20,6,46
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/getscu/store-tcs.properties,143,247,46
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/imageReader.schema.json,0,0,46
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/imageWriter.schema.json,0,0,46
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/transferCapability.schema.json,0,0,46
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/TemporalType.java,9,41,46
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/DicomFileDetector.java,8,43,46
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_DL_FRAME_01.xml,0,39,46
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_Ultrasound_MovieGroup_001.xml,0,39,46
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-DFR.01-ORIGINAL.xml,0,39,46
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-Ultrasound-SC2000.xml,0,39,46
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/ColorModelFactory.java,11,41,46
+Java,/tmp/clone_directory/dcm4che-net-audit/src/test/java/org/dcm4che3/net/audit/SyslogProtocolHandlerTest.java,15,41,46
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2str/README.md,6,0,46
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-getscu/src/main/resources/store-tcs.properties,136,233,46
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pdq/src/main/resources/org/dcm4che3/tool/hl7pdq/messages.properties,0,0,46
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/RAFInputStreamAdapter.java,11,40,45
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DIDI-TO-PCR-1.1.xml,0,39,45
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-043.xml,0,39,45
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/QUASAR_INTERNAL_USE.xml,0,39,45
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/HL7Exception.java,14,41,45
+Java,/tmp/clone_directory/dcm4che-imageio-rle/src/main/java/org/dcm4che3/imageio/plugins/rle/RLEImageReaderSpi.java,10,41,45
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-jpg2dcm/src/main/resources/org/dcm4che3/tool/jpg2dcm/messages.properties,0,0,45
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJLSImageReaderSpi.java,10,48,44
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2dcm/pom.xml,0,0,44
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2jpg/pom.xml,0,0,44
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescu/src/main/resources/org/dcm4che3/tool/storescu/messages.properties,0,0,44
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadows/pom.xml,3,0,44
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/modality,9,10,43
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/main/xsl/sampleTCFile.xsl,0,41,43
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-RadStore-Version-1.0.xml,0,39,43
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-ISI.xml,0,39,43
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agility-overlay-elements.xml,1,40,43
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/plugins/dcm/DicomMetaData.java,14,41,43
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/stream/ImageInputStreamAdapter.java,15,41,43
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/RoleSelection.java,12,41,43
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmldap/pom.xml,3,37,43
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-emf2sf/README.md,2,0,43
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/stowrs,9,10,42
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/media/DicomDirReaderTest.java,8,3,42
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_GDXE_FALCON_04.xml,0,39,42
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-113.xml,0,39,42
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/ExtendedNegotiation.java,13,41,42
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-deidentify/README.md,1,0,42
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-planarconfig/src/main/resources/org/dcm4che3/tool/planarconfig/messages.properties,0,0,42
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-swappxdata/README.md,1,0,42
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/EnsureMustUnderstandHandler.java,7,44,42
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2json,9,10,41
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7rcv,9,10,41
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/jpg2dcm,9,10,41
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/probetc,9,10,41
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/syslog,9,10,41
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/syslogd,9,10,41
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_RELA_01.xml,0,39,41
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-HEADER.xml,0,39,41
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Siemens--Thorax-Multix-FD-Raw-Image-Settings.xml,0,39,41
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/ExtendSegmentedInputImageStream.java,11,44,41
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7Connection.java,8,44,41
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmldap,9,10,40
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7pdq,9,10,40
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7pix,9,10,40
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7snd,9,10,40
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/json2dcm,9,10,40
+Java,/tmp/clone_directory/dcm4che-camel/src/test/java/org/dcm4che3/camel/test/EchoSCP.java,7,41,40
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/IODTest.java,9,40,40
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_3D_INTVL_01.xml,0,39,40
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/SOFSegment.java,10,44,40
+Maven,/tmp/clone_directory/dcm4che-json/pom.xml,1,37,40
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-jpg2dcm/pom.xml,0,0,40
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmassoc,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmqrscp,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/deidentify,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/findscu,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/getscu,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/ianscp,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/ianscu,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/movescu,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/mppsscp,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/mppsscu,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/stgcmtscu,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/storescp,9,10,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/upsscu,9,10,39
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/hl7rcv/ack.xsl,1,0,39
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedDocumentBzip2Metadata.xml,0,0,39
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedGenozipMetadata.xml,0,0,39
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedVCFBzip2Metadata.xml,0,0,39
+Maven,/tmp/clone_directory/dcm4che-audit-keycloak/pom.xml,2,39,39
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/ValueSelectorTest.java,10,40,39
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_IMAG_01.xml,0,39,39
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-RAD-Imaging-DD-097.xml,0,39,39
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-WORKFLOW.xml,0,39,39
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Release-1-1.xml,0,39,39
+Maven,/tmp/clone_directory/dcm4che-net-hl7/pom.xml,1,37,39
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2xml/src/main/resources/org/dcm4che3/tool/dcm2xml/messages.properties,0,0,39
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadors/src/main/resources/org/dcm4che3/tool/wadors/messages.properties,0,0,39
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadows/src/main/resources/org/dcm4che3/tool/wadows/messages.properties,0,0,39
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2xml,9,10,38
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmdump,9,10,38
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/emf2sf,9,10,38
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/modality.bat,16,4,38
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/planarconfig,9,10,38
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/stowrsd,9,10,38
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/wadors,9,10,38
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/DicomConfiguration.java,32,62,38
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/ValueType.java,32,40,38
+Maven,/tmp/clone_directory/dcm4che-imageio/pom.xml,0,2,38
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/service/HL7ServiceRegistry.java,11,41,38
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2json/src/main/resources/org/dcm4che3/tool/dcm2json/messages.properties,0,0,38
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmassoc/pom.xml,1,37,38
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-getscu/src/main/resources/org/dcm4che3/tool/getscu/messages.properties,0,0,38
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mkkos/src/main/resources/org/dcm4che3/tool/mkkos/messages.properties,0,0,38
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescu/pom.xml,1,24,38
+YAML,/tmp/clone_directory/.github/workflows/build.yml,0,0,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/agfa2dcm,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/agfa2sr,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2pdf,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2str,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmbenchmark,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmdir,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmvalidate,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/hl72xml,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/maskpxdata,8,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/mkkos,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/pdf2dcm,9,10,37
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/stowrs.bat,16,4,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/swappxdata,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/tpl2xml,9,10,37
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/xml2dcm,9,10,37
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Value.java,17,37,37
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/util/UIDUtilsTest.java,6,43,37
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-034.xml,0,39,37
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/ColorSubsampling.java,9,41,37
+Maven,/tmp/clone_directory/dcm4che-net/pom.xml,1,37,37
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-findscu/pom.xml,1,24,37
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscu/pom.xml,1,24,37
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2json.bat,16,4,36
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7rcv.bat,16,4,36
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/jpg2dcm.bat,16,4,36
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/probetc.bat,16,4,36
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/syslog.bat,16,4,36
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/syslogd.bat,16,4,36
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/pdf2dcm/encapsulatedCDAMetadata.xml,0,0,36
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/pdf2dcm/encapsulatedPDFMetadata.xml,0,0,36
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/Bzip2FileDetector.java,6,43,36
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/SAXReader.java,9,40,36
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/dict/siemens/SiemensCSANonImage.java,11,43,36
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DLX_SERIE_01.xml,0,39,36
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-042.xml,0,39,36
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-PCR-Release-2.xml,0,39,36
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/jpeg/PatchJPEGLS.java,16,101,36
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Timeout.java,11,41,36
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-findscu/src/test/java/org/dcm4che3/tool/findscu/FindSCUTest.java,9,41,36
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscu/src/main/resources/org/dcm4che3/tool/ianscu/messages.properties,0,0,36
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-qstar/src/main/resources/org/dcm4che3/tool/qstar/messages.properties,0,0,36
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescp/src/main/resources/org/dcm4che3/tool/storescp/messages.properties,0,0,36
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/ClassificationBuilder.java,10,44,36
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmldap.bat,16,4,35
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7pdq.bat,16,4,35
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7pix.bat,16,4,35
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/hl7snd.bat,16,4,35
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/json2dcm.bat,16,4,35
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/upsscu/create.xml,0,0,35
+Java,/tmp/clone_directory/dcm4che-audit/src/main/java/org/dcm4che3/audit/EventIdentificationBuilder.java,7,44,35
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SMS-AX--VIEW-1.0.xml,0,39,35
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-ag-hpstate-elements.xml,7,40,35
+Maven,/tmp/clone_directory/dcm4che-image/pom.xml,0,0,35
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/AbstractDicomService.java,14,42,35
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2pdf/src/main/resources/org/dcm4che3/tool/dcm2pdf/messages.properties,0,0,35
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-movescu/src/main/resources/org/dcm4che3/tool/movescu/messages.properties,0,0,35
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stgcmtscu/src/main/resources/org/dcm4che3/tool/stgcmtscu/messages.properties,0,0,35
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslog/src/main/resources/org/dcm4che3/tool/syslog/messages.properties,0,0,35
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-wadors/pom.xml,4,0,35
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmassoc.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmqrscp.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/deidentify.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/findscu.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/getscu.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/ianscp.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/ianscu.bat,16,4,34
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/json2index,9,10,34
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/json2props,9,10,34
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/json2rst,9,10,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/movescu.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/mppsscp.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/mppsscu.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/stgcmtscu.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/storescp.bat,16,4,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/upsscu.bat,16,4,34
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/HL7Separator.java,9,44,34
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/ResourceLocator.java,9,44,34
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/ScopeOfAccumulation.java,3,44,34
+Maven,/tmp/clone_directory/dcm4che-deident/pom.xml,4,40,34
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-MR-Imaging-DD-006.xml,0,39,34
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-039.xml,0,39,34
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-X-ray-Imaging-DD-001.xml,0,39,34
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicCStoreSCP.java,11,42,34
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdir/src/test/java/org/dcm4che3/tool/dcmdir/DcmDirTest.java,6,41,34
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmldap/src/main/resources/org/dcm4che3/tool/dcmldap/messages.properties,0,0,34
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-emf2sf/src/main/resources/org/dcm4che3/tool/emf2sf/messages.properties,0,0,34
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ihe/dcm4che-tool-ihe-modality/pom.xml,1,37,34
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2xml.bat,16,4,33
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmdump.bat,16,4,33
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/emf2sf.bat,16,4,33
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/planarconfig.bat,16,4,33
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/stowrsd.bat,16,4,33
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/wadors.bat,16,4,33
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedCDAMetadata.xml,0,0,33
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/encapsulatedPDFMetadata.xml,0,0,33
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/NullifyAttributesCoercion.java,7,41,33
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/AttributeSelectorTest.java,8,44,33
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/CodeTest.java,9,44,33
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-041.xml,0,39,33
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-VA0--RAW.xml,0,39,33
+XSLT,/tmp/clone_directory/dcm4che-dict/src/main/xsl/commandelements.xsl,3,37,33
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/MemoryStreamSegment.java,9,44,33
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/AAssociateRQ.java,9,41,33
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/InstanceLocator.java,10,41,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmqrscp/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-getscu/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pdq/pom.xml,4,40,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pix/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7snd/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscp/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscu/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-movescu/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscp/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stgcmtscu/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescp/pom.xml,1,37,33
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrsd/pom.xml,3,40,33
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/XDSUtils.java,9,44,33
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/agfa2dcm.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/agfa2sr.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2pdf.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcm2str.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmbenchmark.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmdir.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/dcmvalidate.bat,16,4,32
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/fixlo2un,9,10,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/hl72xml.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/maskpxdata.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/mkkos.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/pdf2dcm.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/swappxdata.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/tpl2xml.bat,16,4,32
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/xml2dcm.bat,16,4,32
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api-hl7/pom.xml,0,0,32
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-imageio/pom.xml,0,0,32
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/J2kImageWriteParam.java,12,54,32
+Maven,/tmp/clone_directory/dcm4che-net-imageio/pom.xml,0,0,32
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/QueryOption.java,8,37,32
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-common/src/main/java/org/dcm4che3/tool/common/FilesetInfo.java,13,41,32
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdir/pom.xml,1,37,32
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-emf2sf/pom.xml,0,0,32
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-qstar/pom.xml,4,39,32
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xroad/pom.xml,4,39,32
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/SlotBuilder.java,9,44,32
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/esoundex,9,10,31
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/esoundex9,9,10,31
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/kphonetik,9,10,31
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/metaphone,9,10,31
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/phonem,9,10,31
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/soundex,9,10,31
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/xml2hl7,9,10,31
+Java,/tmp/clone_directory/dcm4che-camel/src/main/java/org/dcm4che3/camel/DicomMessage.java,12,41,31
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/pom.xml,0,0,31
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-DFR.01-MANIPULATED.xml,0,39,31
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MEDCOM-HEADER.xml,0,39,31
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2dcm/pom.xml,1,37,31
+Maven,/tmp/clone_directory/dcm4che-ws-rs/pom.xml,0,0,31
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,8,0,30
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-hl7/src/main/java/org/dcm4che3/conf/ldap/hl7/LdapHL7ConfigurationExtension.java,14,42,30
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/TemplatesCache.java,11,40,30
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/ReverseDNS.java,9,44,30
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Siemens--Thorax-Multix-FD-Post-Processing.xml,0,39,30
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJ2kImageWriterSpi.java,9,44,30
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/NativeJLSImageWriterSpi.java,9,44,30
+Java,/tmp/clone_directory/dcm4che-mime/src/main/java/org/dcm4che3/mime/MultipartParser.java,9,41,30
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2sr/src/main/resources/org/dcm4che3/tool/agfa2sr/messages.properties,0,0,30
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2pdf/pom.xml,3,37,30
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2str/src/main/resources/org/dcm4che3/tool/dcm2str/messages.properties,0,0,30
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2props/README.md,1,0,30
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-pdf2dcm/pom.xml,2,37,30
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-swappxdata/src/main/resources/org/dcm4che3/tool/swappxdata/messages.properties,0,0,30
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-tpl2xml/pom.xml,3,0,30
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/AssociationBuilder.java,8,44,30
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/json2index.bat,16,4,29
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/json2props.bat,16,4,29
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/json2rst.bat,16,4,29
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/BulkdataTest.java,7,42,29
+Maven,/tmp/clone_directory/dcm4che-dcmr/pom.xml,2,37,29
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/Delimiter.java,5,41,29
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/PixelAspectRatio.java,7,41,29
+XSLT,/tmp/clone_directory/dcm4che-js-dict/src/main/xsl/dict-uids.xsl,4,39,29
+XML,/tmp/clone_directory/dcm4che-test-data/src/main/resources/META-INF/maven/remote-resources.xml,1,39,29
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-common/pom.xml,1,37,29
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2str/pom.xml,3,0,29
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-fixlo2un/README.md,1,0,29
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7snd/src/main/resources/org/dcm4che3/tool/hl7snd/messages.properties,0,0,29
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-planarconfig/pom.xml,4,40,29
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmqrscp/retrieve-sop-classes.properties,15,4,28
+XML,/tmp/clone_directory/dcm4che-audit/src/main/xjb/bindings.xml,0,0,28
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/TeeInputStream.java,7,43,28
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_DL_STUDY_01.xml,0,39,28
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_ICS-Release-1.xml,0,39,28
+Maven,/tmp/clone_directory/dcm4che-emf/pom.xml,0,0,28
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/YBRColorSpace.java,9,41,28
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/NoPresentationContextException.java,10,41,28
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicCGetSCP.java,8,41,28
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicCMoveSCP.java,8,41,28
+Java,/tmp/clone_directory/dcm4che-net/src/test/java/org/dcm4che3/net/DeviceTest.java,7,44,28
+Maven,/tmp/clone_directory/dcm4che-soundex/pom.xml,1,37,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2sr/pom.xml,4,39,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2xml/pom.xml,1,37,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmbenchmark/pom.xml,4,16,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdump/pom.xml,1,37,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-deidentify/pom.xml,4,40,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7rcv/pom.xml,1,37,28
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-maskpxdata/README.md,1,0,28
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrsd/README.md,1,0,28
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-tpl2xml/README.md,1,0,28
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2dcm/pom.xml,1,37,28
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/ExternalIdentifierBuilder.java,8,44,28
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/fixlo2un.bat,16,4,27
+Java,/tmp/clone_directory/dcm4che-deident/src/main/java/org/dcm4che3/deident/DeIdentificationAttributesCoercion.java,8,44,27
+Maven,/tmp/clone_directory/dcm4che-hl7/pom.xml,1,37,27
+Maven,/tmp/clone_directory/dcm4che-imageio-rle/pom.xml,0,0,27
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/UserIdentityAC.java,10,41,27
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcm2json/pom.xml,1,37,27
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmvalidate/pom.xml,0,0,27
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2index/pom.xml,4,37,27
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2props/pom.xml,4,40,27
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2rst/pom.xml,4,39,27
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mkkos/pom.xml,0,0,27
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/WSSESecurityUnderstandPretender.java,6,44,27
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/esoundex.bat,16,4,26
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/esoundex9.bat,16,4,26
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/kphonetik.bat,16,4,26
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/metaphone.bat,16,4,26
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/phonem.bat,16,4,26
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/soundex.bat,16,4,26
+DOS Batch,/tmp/clone_directory/dcm4che-assembly/src/bin/xml2hl7.bat,16,4,26
+XSLT,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/pr.csv.xsl,5,37,26
+sed,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-schema/src/bin/unldif.sed,1,27,26
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/TrimISO2020CharacterSetAttributesCoercion.java,7,44,26
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Mayo-IBM-Archive-Project.xml,0,39,26
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-MR-Imaging-DD-002.xml,0,39,26
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-RAD-Imaging-DD-001.xml,0,39,26
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SMS-AX--ORIGINAL-IMAGE-INFO-1.0.xml,0,39,26
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-XSB-VISUB-Release-1.xml,0,39,26
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-elements.xml,2,40,26
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/stream/OutputStreamAdapter.java,10,41,26
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-mppsscp/src/main/resources/org/dcm4che3/tool/mppsscp/messages.properties,0,0,26
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-upsscu/pom.xml,2,0,26
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/jpg2dcm/vlPhotographicImageMetadata.xml,0,0,25
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/vlPhotographicImageMetadata.xml,0,0,25
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/ApplicationEntityCache.java,6,40,25
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/JsonConfigurationExtension.java,8,43,25
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/DicomEncodingOptions.java,6,41,25
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/SafeBuffer.java,9,51,25
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIENET.xml,0,39,25
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SMIL_PB79.xml,0,39,25
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/acuson.xml,0,39,25
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-fixlo2un/src/main/resources/org/dcm4che3/tool/fixlo2un/messages.properties,0,0,25
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7pix/src/main/resources/org/dcm4che3/tool/hl7pix/messages.properties,0,0,25
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl7rcv/src/main/resources/org/dcm4che3/tool/hl7rcv/messages.properties,0,0,25
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslog/pom.xml,0,0,25
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslogd/pom.xml,0,0,25
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api-hl7/src/main/java/org/dcm4che3/conf/api/hl7/HL7ApplicationCache.java,7,40,24
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/src/main/resources/auditRecordRepository.schema.json,0,0,24
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/MergeAttributesCoercion.java,5,43,24
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/RemapUIDsAttributesCoercion.java,7,43,24
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/CountingOutputStream.java,7,46,24
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_XELPRV_01.xml,0,39,24
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-MR-Imaging-DD-003.xml,0,39,24
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-109.xml,0,39,24
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DataWriterAdapter.java,10,41,24
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicCEchoSCP.java,9,41,24
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/BasicCFindSCP.java,8,41,24
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2dcm/pom.xml,4,40,24
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl72xml/pom.xml,1,37,24
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-maskpxdata/pom.xml,4,39,24
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-swappxdata/pom.xml,3,39,24
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-tpl2xml/src/main/resources/org/dcm4che3/tool/tpl2xml/messages.properties,0,0,24
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/GenozipFileDetector.java,5,43,23
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-PET-Private-Group.xml,0,39,23
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2dcm/README.md,1,0,23
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-deidentify/src/main/resources/org/dcm4che3/tool/deidentify/messages.properties,0,0,23
+Maven,/tmp/clone_directory/dcm4che-conf/pom.xml,0,0,22
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/BulkDataDescriptor.java,10,41,22
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-RadWorks-Version-6.0.xml,0,39,22
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_CT_CARDIAC_001.xml,0,39,22
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-SOP-CLASS-PACKING.xml,0,39,22
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Siemens--Thorax-Multix-FD-Lab-Settings.xml,0,39,22
+Maven,/tmp/clone_directory/dcm4che-imageio-opencv/pom.xml,0,0,22
+Java,/tmp/clone_directory/dcm4che-imageio-opencv/src/main/java/org/dcm4che3/opencv/JPEGLSImageWriteParam.java,7,44,22
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/json/main/module.xml,1,0,22
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/NamedThreadFactory.java,8,42,22
+Java,/tmp/clone_directory/dcm4che-net-imageio/src/main/java/org/dcm4che3/net/imageio/ImageReaderExtension.java,10,41,22
+Java,/tmp/clone_directory/dcm4che-net-imageio/src/main/java/org/dcm4che3/net/imageio/ImageWriterExtension.java,9,41,22
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2rst/README.md,1,0,22
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-storescu/src/main/java/org/dcm4che3/tool/storescu/RelatedGeneralSOPClasses.java,7,41,22
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/WebApplicationCache.java,6,43,21
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/main/java/org/dcm4che3/conf/ldap/LdapEnv.java,10,40,21
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-Workflow-Version-1.0.xml,0,39,21
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/BioPri3D.xml,0,39,21
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/json/main/module.xml,2,39,21
+XSLT,/tmp/clone_directory/dcm4che-js-dict/src/main/xsl/private-dict-names.xsl,4,39,21
+Maven,/tmp/clone_directory/dcm4che-mime/pom.xml,0,0,21
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ianscp/src/main/resources/org/dcm4che3/tool/ianscp/messages.properties,0,0,21
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2props/src/main/resources/org/dcm4che3/tool/json2props/messages.properties,1,0,21
+Java,/tmp/clone_directory/dcm4che-xroad/src/main/java/org/dcm4che3/xroad/XRoadException.java,7,44,21
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/DeviceCache.java,6,43,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEHC_CT_ADVAPP_001.xml,0,39,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEIIS.xml,0,39,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-NM--Private.xml,0,39,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-033.xml,0,39,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-SP-DXMG-WH-AWS-1.xml,0,39,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_ICS-Release-1-1.xml,0,39,20
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-adc-nx-elements.xml,1,40,20
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/audit-keycloak/main/module.xml,2,39,20
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-maskpxdata/src/main/resources/org/dcm4che3/tool/maskpxdata/messages.properties,0,0,20
+Markdown,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/README.md,3,0,19
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/YesNo.java,3,44,19
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/CARDIO-D.R.-1.0.xml,0,39,19
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_IDEN_01.xml,0,39,19
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-MRS-05.xml,0,39,19
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/keycloak/keycloak-core/main/module.xml,2,16,19
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/DicomServiceApplicationException.java,7,42,19
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmassoc/src/main/resources/org/dcm4che3/tool/dcmassoc/messages.properties,0,0,19
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-fixlo2un/pom.xml,4,40,19
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2hl7/pom.xml,1,37,19
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/study.xml,1,40,18
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/jpg2dcm/secondaryCaptureImageMetadata.xml,0,0,18
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/secondaryCaptureImageMetadata.xml,0,0,18
+XML,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-schema/src/main/resources/META-INF/maven/remote-resources.xml,0,0,18
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/Implementation.java,6,40,18
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/RAFOutputStreamAdapter.java,8,40,18
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/DeIdentificationMethod.java,4,44,18
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GE_GENESIS_REV3.0.xml,0,39,18
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED.xml,0,39,18
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-DATAMAPPING-ATTRIBUTES.xml,0,39,18
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-INDEX-SERVICE.xml,0,39,18
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/mitra-markup-1.0-elements.xml,1,40,18
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/imageio/main/module.xml,1,0,18
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/xdsi/main/module.xml,1,0,18
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/xroad/main/module.xml,1,0,18
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/keycloak/admin-client/main/module.xml,1,0,18
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/ItemType.java,3,41,18
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-agfa2dcm/src/main/resources/org/dcm4che3/tool/agfa2dcm/messages.properties,0,0,18
+Java,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-common/src/main/java/org/dcm4che3/tool/common/DetectEndOfOptionsPosixParser.java,5,41,18
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmbenchmark/README.md,1,0,18
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-stowrsd/src/main/resources/org/dcm4che3/tool/stowrsd/messages.properties,0,0,18
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-syslogd/src/main/resources/org/dcm4che3/tool/syslogd/messages.properties,0,0,18
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/mppsscu/code.properties,0,1,17
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/DicomInputHandler.java,9,37,17
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/util/StringUtilsTest.java,5,3,17
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_FUNCTOOL_01.xml,0,39,17
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-DISPLAY.xml,0,39,17
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-CTBE-Release-1.xml,0,39,17
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_ICS-Release-1-2.xml,0,39,17
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/qstar/main/module.xml,1,0,17
+XML,/tmp/clone_directory/dcm4che-js-dict/src/main/assembly/resources.xml,0,37,17
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7ApplicationExtension.java,7,41,17
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DeviceExtension.java,9,41,17
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/NoRoleSelectionException.java,7,41,17
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl72xml/README.md,1,0,17
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-hl72xml/src/main/resources/org/dcm4che3/tool/hl72xml/messages.properties,0,0,17
+Maven,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-ihe/pom.xml,1,38,17
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/instance.xml,0,0,16
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/ConfigurationAlreadyExistsException.java,8,41,16
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/ConfigurationNotFoundException.java,8,41,16
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/BulkDataWithPrefix.java,5,41,16
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/DatePrecision.java,9,61,16
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/DicomStreamException.java,9,40,16
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/UIDTest.java,8,40,16
+XML,/tmp/clone_directory/dcm4che-core/src/test/resources/code-iod.xml,0,0,16
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-Sequence-Annotations_01.xml,0,39,16
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-Sequence-Annotations_02.xml,0,39,16
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PMI-Private-Calibration-Module-Version-2.0.xml,0,39,16
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-RIS.xml,0,39,16
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/AEExtension.java,7,41,16
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/InputStreamDataWriter.java,7,41,16
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/series.xml,1,40,15
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/storescu/logback.xml,0,0,15
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/ConfigurationException.java,8,41,15
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/IODCache.java,8,40,15
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ACRQA_2.0-BLOCK3.xml,0,39,15
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-EVIDENCE-DOCUMENT-DATA.xml,0,39,15
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-adc-compact-elements.xml,1,40,15
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/mitra-object-utf8-attributes-1.0-elements.xml,1,40,15
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/ldap-audit/main/module.xml,1,0,15
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/ldap-imageio/main/module.xml,1,0,15
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/deident/main/module.xml,2,40,15
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/CompatibleConnection.java,7,40,15
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/UserIdentityNegotiator.java,5,44,15
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmbenchmark/src/main/resources/org/dcm4che3/tool/dcmbenchmark/messages.properties,0,0,15
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/upsscu/logback.xml,0,0,14
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/SafeClose.java,6,41,14
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/media/RecordFactoryTest.java,5,3,14
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/ContributingEquipmentPurposeOfReference.java,3,43,14
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-037.xml,0,39,14
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-APPL-PRESENTATION.xml,0,39,14
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-VOLUME.xml,0,39,14
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-Selma.xml,0,39,14
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/CompressionVerificationException.java,8,41,14
+Properties,/tmp/clone_directory/dcm4che-imageio/src/main/resources/org/dcm4che3/imageio/codec/ImageReaderFactory.properties,0,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/audit/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/ldap-hl7/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/ldap/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/dcmr/main/module.xml,2,37,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/dict-priv/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/emf/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/imageio-rle/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/net/main/module.xml,1,0,14
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/keycloak/keycloak-common/main/module.xml,1,16,14
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/pdu/AAssociateAC.java,5,41,14
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2index/README.md,2,0,14
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/hl7/JsonHL7ConfigurationExtension.java,4,43,13
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/AttributesCoercion.java,3,43,13
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/ArrayUtils.java,4,46,13
+Java,/tmp/clone_directory/dcm4che-core/src/test/java/org/dcm4che3/data/HL7SeparatorTest.java,6,44,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ACRQA_1.0-BLOCK2.xml,0,39,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ACRQA_1.0-BLOCK3.xml,0,39,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ACRQA_2.0-BLOCK1.xml,0,39,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ACRQA_2.0-BLOCK2.xml,0,39,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_SERS_01.xml,0,39,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Release-1-3.xml,0,39,13
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/mitra-presentation-1.0-elements.xml,1,40,13
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/XPEGParser.java,7,44,13
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/core/main/module.xml,1,0,13
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/hl7/main/module.xml,1,0,13
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/DefaultHL7MessageListener.java,5,41,13
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/service/DefaultHL7Service.java,6,41,13
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdump/src/main/resources/org/dcm4che3/tool/dcmdump/messages.properties,0,0,13
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/dcm2jpg/logback.xml,0,0,12
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/hl7snd/logback.xml,0,0,12
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrs/logback.xml,0,0,12
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/syslogd/logback.xml,0,0,12
+XML,/tmp/clone_directory/dcm4che-assembly/src/main/assembly/bin.xml,1,40,12
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json-schema/pom.xml,3,0,12
+Maven,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-schema/pom.xml,3,0,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-ImageContext_01.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-Print-Version-5.1.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEIIS-PACS.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_AWSOFT_CD1.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_IMPS_01.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-070.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-035.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-VA0--IDE.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-VA0--RAW.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SMS-AX--QUANT-1.0.xml,0,39,12
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/mime/main/module.xml,1,0,12
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7ConnectionMonitor.java,7,44,12
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/PDVInputStream.java,9,41,12
+Maven,/tmp/clone_directory/dcm4che-test-data/pom.xml,4,39,12
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2rst/src/main/resources/org/dcm4che3/tool/json2rst/messages.properties,0,0,12
+Bourne Shell,/tmp/clone_directory/.github/workflows/build-with-sonar.sh,3,0,11
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/patient.xml,0,0,11
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/qstar/logback.xml,0,0,11
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/storescu/rel-sop-classes.properties,11,27,11
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrsd/logback.xml,0,0,11
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/xroad/logback.xml,0,0,11
+XML,/tmp/clone_directory/dcm4che-assembly/src/main/assembly/bin-dir.xml,1,40,11
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api-hl7/src/main/java/org/dcm4che3/conf/api/hl7/HL7Configuration.java,9,51,11
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api-hl7/src/main/java/org/dcm4che3/conf/api/hl7/IHL7ApplicationCache.java,8,0,11
+Bourne Shell,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-schema/src/bin/schema2opendj.sh,0,0,11
+Bourne Shell,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-schema/src/bin/schema2slapd.sh,0,0,11
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/util/RegEx.java,5,41,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_SEND_02.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_SENOCRYSTAL_V1.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_STDY_01.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-040.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-045.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CM-VA0--LAB.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-MG.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private-DCI-Release-1.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_ICS-Release-1-4.xml,0,39,11
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agility-runtime-elements.xml,2,40,11
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/net-audit/main/module.xml,1,0,11
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/net-hl7/main/module.xml,1,0,11
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/net-imageio/main/module.xml,1,0,11
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/ConnectionMonitor.java,9,41,11
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/ESoundex.java,5,40,11
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/ESoundex9.java,4,40,11
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmdump/README.md,1,0,11
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmvalidate/README.md,1,0,11
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-dcmvalidate/src/main/resources/org/dcm4che3/tool/dcmvalidate/messages.properties,0,0,11
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2hl7/src/main/resources/org/dcm4che3/tool/xml2hl7/messages.properties,0,0,11
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/IApplicationEntityCache.java,8,0,10
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GE-Informatics-Data.xml,0,39,10
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_IDI_01.xml,0,39,10
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/KINETDX.xml,0,39,10
+Properties,/tmp/clone_directory/dcm4che-imageio/src/main/resources/org/dcm4che3/imageio/codec/ImageWriterFactory.properties,0,0,10
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/api-hl7/main/module.xml,1,0,10
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/conf/api/main/module.xml,1,0,10
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/image/main/module.xml,1,0,10
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DicomProtocolHandler.java,5,41,10
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/PDUType.java,3,41,10
+Java,/tmp/clone_directory/dcm4che-xdsi/src/main/java/org/dcm4che3/xdsi/InternationalStringBuilder.java,3,44,10
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/IDeviceCache.java,7,44,9
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/IWebApplicationCache.java,7,44,9
+Java,/tmp/clone_directory/dcm4che-dcmr/src/main/java/org/dcm4che3/dcmr/UnitsOfMeasurement.java,3,44,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-ImageTransform_01.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/CARDIO-D.R.-1.0-siemens.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GE-----From-Adantage-Review-CS.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_DL_SERIES_01.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_DRS_1.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-073.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-036.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CSA-HEADER.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-FRAME-SET.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/acuson-1.2.840.113680.1.0-0910.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/elements.xml,0,0,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/http---www.gemedicalsystems.com-it_solutions-bamwallthickness-1.0.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/http---www.gemedicalsystems.com-it_solutions-orthoview-2.1.xml,0,39,9
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/soundex/main/module.xml,1,0,9
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/dcm4che/ws-rs/main/module.xml,1,0,9
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DimseRQHandler.java,6,41,9
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DimseRSP.java,8,66,9
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/IncompatibleConnectionException.java,6,40,9
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/PDVOutputStream.java,5,41,9
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-json2index/src/main/resources/org/dcm4che3/tool/json2index/messages.properties,0,0,9
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,8
+Bourne Shell,/tmp/clone_directory/dcm4che-assembly/src/bin/mkkey,2,1,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/1.2.840.113708.794.1.1.2.0.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-RadWorks-Version-6.0-Summary.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_3DSTATE_001.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_ADWSoft_DPO.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-066.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CM-VA0--ACQU.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-PT-WAVEFORM.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Release-1-2.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-XSB-DCI-Release-1.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Siemens--Thorax-Multix-FD-Image-Stamp.xml,0,39,8
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/mitra-object-attributes-1.0-elements.xml,1,40,8
+Java,/tmp/clone_directory/dcm4che-emf/src/main/java/org/dcm4che3/emf/HashUIDMapper.java,5,41,8
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/apache/commons/csv/main/module.xml,1,0,8
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/HL7MessageListener.java,5,0,8
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/AssociationMonitor.java,6,44,8
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/AssociationStateException.java,5,0,8
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/pr.xml,1,40,7
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api-hl7/src/main/java/org/dcm4che3/conf/api/hl7/HL7ApplicationAlreadyExistsException.java,3,41,7
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/TypeOfPatientID.java,2,44,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DIGISCAN-IMAGE.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEIIS_RA1000.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_AWSoft_SB1.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_DL_PATNT_01.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_GDXE_ATHENAV2_INTERNAL_USE.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_LUNAR_RAW.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_Ultrasound_ImageGroup_001.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-1.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/POLYTRON-SMS-2.5.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-067.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-038.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CSA-NON-IMAGE.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CSA-REPORT.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-DISPLAY-0000.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-DISPLAY-0001.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-PT.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-PHOENIX-ATTRIBUTES.xml,0,39,7
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-ULTRA-SOUND-TOYON-DATA-STREAMING.xml,0,39,7
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/BytesWithImageImageDescriptor.java,3,44,7
+Java,/tmp/clone_directory/dcm4che-imageio/src/main/java/org/dcm4che3/imageio/codec/XPEGParserException.java,3,44,7
+Markdown,/tmp/clone_directory/dcm4che-jboss-modules/README.md,1,0,7
+Java,/tmp/clone_directory/dcm4che-net-audit/src/main/java/org/dcm4che3/net/audit/AuditRecordHandler.java,6,41,7
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DeviceServiceInterface.java,7,41,7
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/PDVType.java,2,41,7
+Properties,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-getscu/src/main/resources/log4j.properties,1,0,7
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmqrscp/query-sop-classes.properties,6,6,6
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/AETitleAlreadyExistsException.java,2,41,6
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-api/src/main/java/org/dcm4che3/conf/api/WebAppAlreadyExistsException.java,2,41,6
+Java,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/main/java/org/dcm4che3/conf/json/ConfigurationDelegate.java,3,43,6
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/IncompatibleSpecificCharacterSetException.java,2,44,6
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/io/BulkDataCreator.java,4,43,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-Centricity-Radiology-Web-Version-1.0.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DLX_ANNOT_01.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DLX_EXAMS_01.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GE-Generic-Data.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_CT_HINO_01.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_IT_US_REPORT.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-023.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-APPL-MEASUREMENT.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MEDCOM-OOG.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-EXTRACTED-CSA-HEADER.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-NUMARIS-II.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-3D-FUSION-MATRIX.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-ENCAPSULATED-DOCUMENT-DATA.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-ENHANCED-IDATASET-API.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-TIME-POINT-SERVICE.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SMIO_PB7D.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private-CWS-Release-1.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private-DiDi-Release-1.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_CDS-Release-1.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Release-2-1.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/http---www.gemedicalsystems.com-it_solutions-rad_pacs-.xml,0,39,6
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/syngoDynamics.xml,0,39,6
+Java,/tmp/clone_directory/dcm4che-emf/src/main/java/org/dcm4che3/emf/NumberOfFramesAccessor.java,3,41,6
+Java,/tmp/clone_directory/dcm4che-image/src/main/java/org/dcm4che3/image/VOILUTFunction.java,2,40,6
+XML,/tmp/clone_directory/dcm4che-jboss-modules/src/main/modules/org/apache/commons/compress/main/module.xml,0,0,6
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Listener.java,5,41,6
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/Priority.java,4,41,6
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/TCPProtocolHandler.java,5,41,6
+Properties,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/test/resources/ldap.properties,0,0,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-ImageContextExt_01.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-Sequence-AnnotElements_01.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Applicare-Centricity-Radiology-Web-Version-2.0.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DLX_LKUP_01.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_GNHD_01.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_Ultrasound_ExamGroup_001.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_YMHD_01.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-XCT--Private.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-046.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/RadWorksTBR.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SHS-MagicView-300.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-AX-INSPACE_EP.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CSA-ENVELOPE.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-VA0--ORI.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-VA0--OST.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-DICOM.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-ECAT-FILE-INFO.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-CM-03.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-INSTANCE-MANIFEST.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-REGISTRATION.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-Ultrasound-S2000.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-WH-SR-1.0.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_ICS-Release-1-3.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-Private_ICS-Release-1-5.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-Release-1.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Siemens--Thorax-Multix-FD-Version.xml,0,39,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-displayable-images-elements.xml,1,40,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-kosd-1.0-elements.xml,1,40,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-pacs-archive-mirroring-1.0-elements.xml,1,40,5
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/mitra-object-document-1.0-elements.xml,1,40,5
+XSLT,/tmp/clone_directory/dcm4che-dict/src/main/xsl/dataelementsEx.xsl,2,37,5
+Java,/tmp/clone_directory/dcm4che-hl7/src/main/java/org/dcm4che3/hl7/MLLPRelease.java,2,44,5
+Java,/tmp/clone_directory/dcm4che-net-hl7/src/main/java/org/dcm4che3/net/hl7/service/HL7Service.java,4,41,5
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/DataWriter.java,3,41,5
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/UDPProtocolHandler.java,5,41,5
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/DicomService.java,4,41,5
+Properties,/tmp/clone_directory/dcm4che-net/src/test/resources/log4j.properties,1,0,5
+Markdown,/tmp/clone_directory/dcm4che-tool/dcm4che-tool-xml2hl7/README.md,2,0,5
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/dcmqrscp/ae.properties,1,3,4
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/ianscp/sop-classes.properties,3,5,4
+Properties,/tmp/clone_directory/dcm4che-assembly/src/etc/mppsscp/sop-classes.properties,3,3,4
+Java,/tmp/clone_directory/dcm4che-core/src/main/java/org/dcm4che3/data/DatePrecisions.java,3,41,4
+Properties,/tmp/clone_directory/dcm4che-core/src/test/resources/log4j.properties,1,0,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-Annotations_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-Annotations_02.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/AMI-StudyExtensions_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/APEX_PRIVATE.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DLX_PATNT_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/DL_INTERNAL_USE.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/ESOFT_DICOM_ECAT_OWNERCODE.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/FFP-DATA.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GE-LUT-Asymmetry-Parameter.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS-IT-Centricity-RA600-7.0.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_0039.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_CTHD_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_CT_VES_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_IQTB_IDEN_47.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_PATI_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_VXTL_USERDATA_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GEMS_XR3DCAL_01.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/GE_GROUP.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/ISI.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/KINETDX_GRAPHICS.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/KRETZ_US.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-PART-6.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-PART-7.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PMS-THORA-5.1.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-EV-Imaging-DD-022.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-065.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-124.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-Imaging-DD-129.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-NM-Private-Group.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-017.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-048.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Philips-US-Imaging-DD-065.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/REPORT_FROM_APP.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-APPL-EVIDENCEDOCUMENT.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-CT-APPL-TMP-DATAMODEL.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-IKM-CKS-LUNGCAD-BMK.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-MAMMO.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-OCS-BEAM-DISPLAY-INFO.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-OCS-PUBLIC-RT-PLAN-ATTRIBUTES.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MED-OCS-SS-VERSION-INFO.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MEDCOM-HEADER2.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MI-RWVM-SUV.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-FOR-06.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-IMA.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-MR-PS-04.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SIENET.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-DATA-PADDING.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-FUNCTION-ASSIGNMENT.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SIEMENS-SYNGO-PRINT-SERVICE.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SMIO_PB7B.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI-P-CTBE-Private-Release-1.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/SPI.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/Siemens-Ultrasound-Miscellaneous.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/acuson-1.2.840.113680.1.0-7ffe.xml,0,39,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/agfa-xeroverse-elements.xml,1,40,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/mitra-linked-attributes-1.0-elements.xml,1,40,4
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/syngoDynamics_Reporting.xml,0,39,4
+Java,/tmp/clone_directory/dcm4che-emf/src/main/java/org/dcm4che3/emf/UIDMapper.java,4,41,4
+Properties,/tmp/clone_directory/dcm4che-imageio-test/src/test/resources/log4j.properties,2,39,4
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/AssociationListener.java,2,43,4
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/CancelRQHandler.java,4,41,4
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/QueryTask.java,4,41,4
+Java,/tmp/clone_directory/dcm4che-net/src/main/java/org/dcm4che3/net/service/RetrieveTask.java,4,41,4
+Java,/tmp/clone_directory/dcm4che-soundex/src/main/java/org/dcm4che3/soundex/FuzzyStr.java,3,40,4
+Properties,/tmp/clone_directory/dcm4che-camel/src/test/filters/slapd.properties,0,0,3
+Properties,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-hl7/src/test/filters/apacheds.properties,0,0,3
+Properties,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap-hl7/src/test/filters/opendj.properties,0,0,3
+Properties,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/test/filters/apacheds.properties,0,0,3
+Properties,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/test/filters/opendj.properties,0,0,3
+Properties,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-ldap/src/test/filters/slapd.properties,0,0,3
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-PART-12.xml,0,39,3
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-R5.5-PART.xml,0,39,3
+XML,/tmp/clone_directory/dcm4che-dict/src/main/resources/PHILIPS-MR-R5.6-PART.xml,0,39,3
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,16,2
+Markdown,/tmp/clone_directory/dcm4che-dict/src/main/dicom3tools/libsrc/standard/elmdict/README.md,0,0,2
+CSV,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/patient.csv,0,0,1
+CSV,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/pr.csv,0,0,1
+CSV,/tmp/clone_directory/dcm4che-assembly/src/etc/findscu/study.csv,0,0,1
+JSON,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrsd/response.json,0,0,1
+XML,/tmp/clone_directory/dcm4che-assembly/src/etc/stowrsd/response.xml,0,0,1
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/test/data/arrdevice.json,0,0,1
+JSON,/tmp/clone_directory/dcm4che-conf/dcm4che-conf-json/src/test/data/device.json,0,0,1
+SUM,,17114,40944,324858

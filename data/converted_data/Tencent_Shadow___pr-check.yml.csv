@@ -1,0 +1,65 @@
+Requested labels: self-hosted, 1034.5832522695978, , , , 108820316, False, 
+Requested labels: self-hosted__dup_2, 0.0484804535190952, , , , 5738300, False, 
+Requested labels: self-hosted__dup_3, 4306.313029378653, , , , 417958342, False, 
+Requested labels: self-hosted__dup_4, 9219.3488843409, , , , 984328437, False, 
+Requested labels: self-hosted__dup_5, 6827.497898845086, , , , 705510193, False, 
+##[group]GITHUB_TOKEN Permissions, 7.026143061032806, , , , 4465900, False, 
+##[group]Run actions/checkout@v2, 2.567395588506254, , , , 157779, False, 
+##[group]Setting up auth, 1.2995094535279974, , , , 68199, False, 
+##[group]Fetching the repository, 13.57485537535856, , , , 992214, False, 
+##[group]Checking out the ref, 1.4154616215437148, , , , 165058, False, 
+##[group]Installed distributions, 23.129323436140183, , , , 1504913, False, 
+##[group]Run actions/cache@v2, 10.168805612398566, , , , 575068, False, 
+##[group]Run ./gradlew buildSdk -S, 403.7338696447679, , , , 42822446, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build, 43.1815983358661, , , , 2725009, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew jvmTestSdk -S, 44.72333559556253, , , , 1063304, True, ##[error]Process completed with exit code 1.
+##[group]Install Android SDK, 2.9049330278361496, , , , 66157, False, 
+##[group]Run ./gradlew --stop, 478.02897727788366, , , , 39967348, False, 
+##[group]GITHUB_TOKEN Permissions__dup_18, 32.9772610311009, , , , 4277574, False, 
+##[group]Run actions/checkout@v2__dup_19, 9.728578903439058, , , , 183172, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.644241724070098, , , , 166991, False, 
+##[group]Cleaning the repository, 1.6985259433822868, , , , 49997, False, 
+##[group]Fetching the repository__dup_22, 7.668663592559684, , , , 476631, False, 
+##[group]Installed distributions__dup_23, 1456.2766159031785, , , , 147032051, False, 
+##[group]Run actions/cache@v2__dup_24, 1248.567844456526, , , , 126822746, False, 
+##[group]Run ./gradlew buildSdk -S__dup_25, 322.121595425446, , , , 13971836, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build__dup_26, 25.360195355062597, , , , 1132210, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew jvmTestSdk -S__dup_27, 32.4141565297773, , , , 989230, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --stop__dup_28, 41.6485512534854, , , , 2304849, False, 
+##[group]GITHUB_TOKEN Permissions__dup_29, 51.66180928045256, , , , 6444251, False, 
+##[group]Run actions/checkout@v2__dup_30, 7.213253912527976, , , , 179902, False, 
+##[group]Getting Git version info, 1.3935951024561877, , , , 39984, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_32, 8.934210493961462, , , , 1066313, False, 
+##[group]Cleaning the repository__dup_33, 3.139533589096139, , , , 258616, False, 
+##[group]Disabling automatic garbage collection, 1.3512055162531431, , , , 99660, False, 
+##[group]Setting up auth__dup_35, 6.756027581265716, , , , 282889, False, 
+##[group]Fetching the repository__dup_36, 4.652447915260835, , , , 576025, False, 
+##[group]Checking out the ref__dup_37, 1.2369748845493758, , , , 217381, False, 
+##[group]Installed distributions__dup_38, 1024.963942047311, , , , 130640774, False, 
+##[group]Run actions/cache@v2__dup_39, 917.3643692616628, , , , 118211652, False, 
+##[group]Run ./gradlew buildSdk -S__dup_40, 285.1892902521596, , , , 10182125, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build__dup_41, 46.82477792300867, , , , 2178647, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew jvmTestSdk -S__dup_42, 30.62076451430203, , , , 1851340, True, ##[error]Process completed with exit code 1.
+##[group]Install Android SDK__dup_43, 3.020548527299661, , , , 136252, False, 
+##[group]Run ./gradlew --stop__dup_44, 28.074508700416143, , , , 2651936, False, 
+##[group]GITHUB_TOKEN Permissions__dup_45, 38.485506585306126, , , , 3643793, False, 
+##[group]Run actions/checkout@v2__dup_46, 1.3494042282435377, , , , 180192, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_47, 1.28405701341957, , , , 67619, False, 
+##[group]Cleaning the repository__dup_48, 1.218709798595603, , , , 85405, False, 
+##[group]Setting up auth__dup_49, 1.1533625837716357, , , , 79230, False, 
+##[group]Fetching the repository__dup_50, 4.133132548258995, , , , 532238, False, 
+##[group]Installed distributions__dup_51, 1071.9183226786902, , , , 131473722, False, 
+##[group]Run actions/cache@v2__dup_52, 835.7107864209808, , , , 110952210, False, 
+##[group]Run ./gradlew buildSdk -S__dup_53, 279.5259652781675, , , , 18450862, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew build__dup_54, 26.14974024519481, , , , 1066377, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --stop__dup_55, 40.583771261513206, , , , 2118223, False, 
+##[group]GITHUB_TOKEN Permissions__dup_56, 20.140168490601297, , , , 2688612, False, 
+##[group]Run actions/checkout@v2__dup_57, 3.408426170320173, , , , 169860, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_58, 1.8387366785745531, , , , 62822, False, 
+##[group]Setting up auth__dup_59, 1.928419074184198, , , , 82315, False, 
+##[group]Fetching the repository__dup_60, 10.090507348969211, , , , 472760, False, 
+##[group]Run actions/cache@v2__dup_61, 960.9884124213178, , , , 126214585, False, 
+##[group]Run ./gradlew assemble, 800.4669062171366, , , , 39245869, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew assemble__dup_63, 23.47503335309962, , , , 1004784, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew assemble__dup_64, 398.8289755992103, , , , 16784690, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --stop__dup_65, 107.2021128417811, , , , 7800335, False, 

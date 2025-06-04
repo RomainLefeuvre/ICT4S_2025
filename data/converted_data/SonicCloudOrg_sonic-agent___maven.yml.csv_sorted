@@ -1,0 +1,8 @@
+##[group]Run mvn validate compile, 5445.6950714967215, , , , 751634676, False, 
+##[group]GITHUB_TOKEN Permissions, 134.0030099967989, , , , 2024535, False, 
+##[group]Run actions/setup-java@v2, 83.62810538739895, , , , 1358190, False, 
+Requested labels: self-hosted, 34.94383067658111, , , , 4291998, False, 
+##[group]Fetching the repository, 32.63346173611435, , , , 456914, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 13.137769741664856, , , , 132113, False, 
+##[group]Run actions/checkout@v2, 6.582949045368949, , , , 184322, False, 
+##[group]Setting up auth, 6.554820696295909, , , , 75156, False, 

@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run carvel-dev/setup-action@v1,43.52792009737754,7760703,False,
+##[group]Fetching the repository,8.667305912092624,465494,False,
+##[group]GITHUB_TOKEN Permissions,8.244531380428514,2600839,False,
+##[group]==END_FILE==,3.579681383619485,4728270,False,
+##[group]Run actions/checkout@v4,3.440681187009622,135397,False,
+"##[group]Run if [ ""$USE_SRP"" == ""true"" ]; then__dup_10",3.2229301164439432,502151,True,##[error]Process completed with exit code 1.
+##[group]Run docker/login-action@v3,1.821567699727015,263441,False,
+##[group]Cleaning the repository,1.724714123142716,43989,False,
+"##[group]Run if [ ""$USE_SRP"" == ""true"" ]; then",0.6232164289765313,93960,False,
+"##[group]Run echo ""bundle-path=$PACKAGE_BUNDLE_GENERATED"" >> $GITHUB_OUTPUT",0.6178740303984669,55898,True,##[error]Username and password required

@@ -1,0 +1,16 @@
+##[group]Augmented user configuration file contents, 102.63705678754155, , , , 4095105, False, 
+##[group]Attempting to automatically build java code, 75.1462478330557, , , , 8780217, True, [2024-03-27 22:58:00] [autobuild] [ERROR] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Setup CodeQL tools, 42.770842903175854, , , , 5620950, False, 
+##[group]Load language configuration, 33.43416672162819, , , , 1013608, False, 
+##[group]Run github/codeql-action/autobuild@v2, 23.515155087215515, , , , 1715855, False, 
+##[group]Waiting for processing to finish, 22.56001417241105, , , , 6213855, False, 
+##[group]Validating workflow, 19.27024890338978, , , , 2529868, False, 
+##[group]GITHUB_TOKEN Permissions, 18.70020260654992, , , , 11955180, False, 
+##[group]Uploading results, 16.77091310391394, , , , 365960, False, 
+##[group]Fetching the repository, 14.856031530956267, , , , 786983, False, 
+##[group]Finalizing java, 12.54425856415878, , , , 4740453, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.16.5/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.
+##[group]Run github/codeql-action/init@v2, 7.842698531637975, , , , 382195, False, 
+##[group]Run github/codeql-action/analyze@v2, 6.5872694572866, , , , 1502165, False, 
+##[group]Run actions/checkout@v3, 3.5659068948248374, , , , 170829, False, 
+##[group]Checking out the ref, 1.9236493859309365, , , , 52566, False, 
+Requested labels: self-hosted, 0.1157488404960932, , , , 5781960, False, 

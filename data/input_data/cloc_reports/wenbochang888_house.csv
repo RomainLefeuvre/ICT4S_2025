@@ -1,0 +1,17 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2000.8 files/s 124848.7 lines/s)"
+Bourne Shell,/tmp/clone_directory/mvnw,31,60,195
+DOS Batch,/tmp/clone_directory/mvnw.cmd,32,0,129
+Maven,/tmp/clone_directory/pom.xml,15,0,65
+Java,/tmp/clone_directory/src/main/java/com/tianya/service/HouseService.java,18,14,59
+Markdown,/tmp/clone_directory/README.md,19,0,46
+Java,/tmp/clone_directory/src/main/java/com/tianya/controller/HouseController.java,7,14,33
+Java,/tmp/clone_directory/src/main/java/com/tianya/util/FileUtils.java,5,3,27
+Java,/tmp/clone_directory/src/main/java/com/tianya/util/HttpMethod.java,8,0,26
+XML,/tmp/clone_directory/src/main/resources/logback.xml,4,8,25
+YAML,/tmp/clone_directory/.github/workflows/main.yml,7,11,18
+Java,/tmp/clone_directory/src/main/java/com/tianya/util/MDUtils.java,5,4,16
+Java,/tmp/clone_directory/src/test/java/com/tianya/house/HouseApplicationTests.java,4,0,12
+Java,/tmp/clone_directory/src/main/java/com/tianya/HouseApplication.java,3,0,9
+Properties,/tmp/clone_directory/src/main/resources/application.properties,1,0,2
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,0,1
+SUM,,159,114,663

@@ -1,0 +1,52 @@
+##[group]==END_FILE==, 0.0472890739528778, , , , 4198348, False, 
+Requested labels: self-hosted, 156.68546191670896, , , , 53425941, False, 
+##[group]GITHUB_TOKEN Permissions, 55.1054401596509, , , , 5426986, False, 
+##[group]Run actions/checkout@v4, 9.039288892799084, , , , 143453, False, 
+##[group]Setting up auth, 8.806136052901307, , , , 57906, False, 
+##[group]Fetching the repository, 50.3887114984812, , , , 651623, False, 
+##[group]Checking out the ref, 7.99010111325909, , , , 24148, False, 
+##[group]Run actions/download-artifact@v4, 52.66656803424478, , , , 633378, False, 
+##[group]Run actions/setup-java@v4, 13.998403087387086, , , , 262979, True, ##[error]Unable to download artifact(s): Artifact not found for name: artifacts
+##[group]Run ./gradlew :jreleaser:copyJdksFromCache :jreleaser:setupJdks, 6.707760493821323, , , , 121572, False, 
+##[group]Run echo "::group::📦 Download JReleaser", 6.591184073872435, , , , 3915, False, 
+##[group]📦 Download JReleaser, 140.43359546453436, , , , 2909110, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler native-image --select-current-platform", 2.0631690829068545, , , , 4677156, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@v4, 8.815512446230388, , , , 1336567, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -stop, 1.6492266619011744, , , , 87298, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_16, 11.144048403001136, , , , 774087, False, 
+##[group]==END_FILE==__dup_17, 220.73414527422324, , , , 55008638, False, 
+##[group]GITHUB_TOKEN Permissions__dup_18, 86.12007410127414, , , , 5459888, False, 
+##[group]Run actions/checkout@v4__dup_19, 2.5537858231398305, , , , 149874, False, 
+##[group]Setting up auth__dup_20, 1.252407604998376, , , , 68300, False, 
+##[group]Fetching the repository__dup_21, 5.870273119847256, , , , 1605984, False, 
+##[group]Run actions/download-artifact@v4__dup_22, 11.142818087292849, , , , 630756, True, ##[error]Unable to download artifact(s): Artifact not found for name: artifacts
+##[group]Run actions/setup-java@v4__dup_23, 5.297714130180272, , , , 273145, True, ##[error]Input required and not supplied: distribution
+##[group]📦 Download JReleaser__dup_24, 13.877656637544144, , , , 2832206, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler native-image --select-current-platform"__dup_25, 37.9406864600855, , , , 1650577, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@v4__dup_26, 9.98018409060795, , , , 616414, True, ##[error]Failed to CreateArtifact: Received non-retryable error: Failed request: (409) Conflict: an artifact with this name already exists on the workflow run
+##[group]Run ./gradlew -stop__dup_27, 2.941224524550768, , , , 218753, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_28, 9.92016191145947, , , , 786530, False, 
+##[group]GITHUB_TOKEN Permissions__dup_29, 35.24529694474664, , , , 5307523, False, 
+##[group]Run actions/checkout@v4__dup_30, 3.177963784712096, , , , 145880, False, 
+##[group]Cleaning the repository, 1.6147932196314592, , , , 38173, False, 
+##[group]Setting up auth__dup_32, 1.6320007711484, , , , 82040, False, 
+##[group]Fetching the repository__dup_33, 10.15336320874616, , , , 647834, False, 
+##[group]Run actions/download-artifact@v4__dup_34, 16.351794289438562, , , , 629579, True, ##[error]Unable to download artifact(s): Artifact not found for name: artifacts
+##[group]Run actions/setup-java@v4__dup_35, 3.0452414884682435, , , , 270112, True, ##[error]Input required and not supplied: distribution
+##[group]📦 Download JReleaser__dup_36, 39.38596313766243, , , , 3236697, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler native-image --select-current-platform"__dup_37, 50.99334169228406, , , , 1653694, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@v4__dup_38, 10.626761313637266, , , , 618666, True, ##[error]Failed to CreateArtifact: Received non-retryable error: Failed request: (409) Conflict: an artifact with this name already exists on the workflow run
+##[group]Run ./gradlew -stop__dup_39, 7.520328504950588, , , , 80330, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_40, 10.535350521347526, , , , 744792, False, 
+##[group]GITHUB_TOKEN Permissions__dup_41, 35.52063019107723, , , , 5800588, False, 
+##[group]Run actions/checkout@v4__dup_42, 3.3185737927604397, , , , 138344, False, 
+##[group]Setting up auth__dup_43, 1.7772203486292937, , , , 147825, False, 
+##[group]Fetching the repository__dup_44, 13.761397105594686, , , , 632132, False, 
+##[group]Run actions/download-artifact@v4__dup_45, 11.24477078812795, , , , 636976, True, ##[error]Unable to download artifact(s): Artifact not found for name: artifacts
+##[group]Run actions/setup-java@v4__dup_46, 10.231258837213892, , , , 275673, True, ##[error]Input required and not supplied: distribution
+##[group]Run ./gradlew :jreleaser:copyJdksFromCache :jreleaser:setupJdks__dup_47, 2.1618625345040345, , , , 81371, True, ##[error]Process completed with exit code 1.
+##[group]📦 Download JReleaser__dup_48, 49.32752377437356, , , , 3144688, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler native-image --select-current-platform"__dup_49, 45.63464331655358, , , , 1670060, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@v4__dup_50, 17.59355496154628, , , , 619320, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -stop__dup_51, 2.1426374365138106, , , , 83664, True, ##[error]Failed to CreateArtifact: Received non-retryable error: Failed request: (409) Conflict: an artifact with this name already exists on the workflow run
+##[group]Run actions/upload-artifact@v4__dup_52, 10.713187182569053, , , , 762597, True, ##[error]Process completed with exit code 1.

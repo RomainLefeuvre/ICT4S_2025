@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew --no-daemon -Pversion=$(git tag --points-at HEAD) publish,201.49081959014305,25271215,True,##[error]Process completed with exit code 1.
+> Task :jabel-javac-plugin:generatePomFileForMavenJavaPublication,34.22127145542359,1599276,False,
+##[group]Run actions/checkout@v1,17.549092748381803,1542998,False,
+##[group]GITHUB_TOKEN Permissions,13.678737013641816,1836817,False,
+##[group]Run actions/setup-java@v1,10.730272746896196,786355,False,
+> Task :jabel-javac-plugin:jar,3.260448997898903,98294,False,
+> Task :jabel-javac-plugin:javadoc,3.216452883867353,99672,False,
+> Task :jabel-javac-plugin:publishMavenJavaPublicationToMavenRepository FAILED,3.1430549624763366,124259,False,
+Requested labels: self-hosted,0.2087434929092618,5654072,False,

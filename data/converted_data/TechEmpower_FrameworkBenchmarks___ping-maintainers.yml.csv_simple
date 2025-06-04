@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,361.5591323744523,6145066,False,
+##[group]GITHUB_TOKEN Permissions,19.461056700882967,1349275,False,
+##[group]Run actions/github-script@v7,19.403318838341075,965807,False,
+##[group]Run actions/github-script@v7__dup_4,10.521694854883034,212132,True,"##[error]Unhandled error: SyntaxError: Unexpected token ','"

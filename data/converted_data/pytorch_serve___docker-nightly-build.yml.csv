@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.0, , , , 5329075, False, 
+##[group]GITHUB_TOKEN Permissions, 79.84606093085068, , , , 3021609, False, 
+##[group]Run echo "Cleaning up previous run", 3.0947136560963604, , , , 129021, False, 
+##[group]Run actions/checkout@v3, 3.1831340462705424, , , , 272554, False, 
+##[group]Setting up auth, 0.8842039017418173, , , , 68830, False, 
+##[group]Fetching the repository, 23.709630262844342, , , , 16294732, False, 
+##[group]Checking out the ref, 0.0, , , , 370899, False, 
+##[group]Fetching submodules, 2.0470467940491117, , , , 8536920, False, 
+##[group]Persisting credentials for submodules, 6.248537861402973, , , , 148574, False, 
+##[group]Run docker login --username pytorchbot --password "$DOCKER_PASSWORD", 3.392063410475899, , , , 69310, True, ##[error]Process completed with exit code 1.
+##[group]Run cd docker, 21279.945736689227, , , , 5154518895, True, ##[error]Process completed with exit code 1.
+##[group]Run cd kubernetes/kserve, 4230.007005805103, , , , 861531668, True, ##[error]Process completed with exit code 1.

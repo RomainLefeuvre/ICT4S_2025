@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Cleaning the repository,3.270245272355156,1668602,False,
+##[group]GITHUB_TOKEN Permissions,2.98011743719925,2624299,False,
+##[group]Run npm install,2.2863334835655627,8065241,True,##[error]Could not find issue in context
+##[group]Environment details,1.261425370243069,428953,False,
+##[group]Fetching the repository,0.914533393426225,424085,False,
+##[group]Run actions/setup-node@v4,0.4824952041179738,241131,False,
+##[group]Run actions/checkout@v3,0.3185099059863749,160947,False,
+##[group]Setting up auth,0.220749439792537,74528,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.1639852981315989,128768,False,
+##[group]==END_FILE==,0.0520889278849222,5163043,False,

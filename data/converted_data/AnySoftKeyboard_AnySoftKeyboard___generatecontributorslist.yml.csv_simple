@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]Environment details,16.680143216439063,2772927,False,
+##[group]Run pnpm build,15.03979244797266,780051,True,##[error]Process completed with exit code 1.
+##[group]Running pnpm store prune...,10.252569183214666,865285,False,
+##[group]Run peter-evans/create-pull-request@v6.0.4,4.490405388549305,360936,True,##[error]Input 'token' not supplied. Unable to continue.
+"##[group]Run git config --global --add safe.directory ""${PWD}""",1.650070700108494,116113,True,##[error]Process completed with exit code 1.

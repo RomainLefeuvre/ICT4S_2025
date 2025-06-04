@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/upload-artifact@v4,243.93788293172204,5497891,False,
+##[group]GITHUB_TOKEN Permissions,61.68565946628515,3363740,False,
+##[group]Fetching the repository,14.33572205928264,451629,False,
+Requested labels: self-hosted,7.167766394900769,4975584,False,
+##[group]Run brew install gmp,3.180762376509666,45827,True,##[error]Process completed with exit code 127.
+##[group]Cleaning the repository,2.7327367127194684,33317,False,
+##[group]Run actions/checkout@v4,2.6879341463404485,146314,False,

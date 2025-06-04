@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 54.27054111915232, , , , 2089998, False, 
+Requested labels: self-hosted, 31.329225897696485, , , , 4490666, False, 
+##[group]Fetching the repository, 15.468666272205333, , , , 4869997, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 15.223504557867257, , , , 138464, False, 
+##[group]Run FantasticFiasco/action-update-license-year@v3, 10.850568989979893, , , , 1101858, True, ##[error]Default transform is not valid on "./eo-maven-plugin/src/it/custom_goals/src/main/eo/app.eo"
+##[group]Cleaning the repository, 7.316992647579369, , , , 41598, False, 

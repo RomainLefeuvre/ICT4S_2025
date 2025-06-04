@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,1204.4423431385471,95199880,False,
+##[group]Environment details,33.0240931064486,2784974,False,
+##[group]Checking out the ref,28.5525479403448,2431934,False,
+##[group]Run npm install,14.588868468683112,6185302,False,
+##[group]Run stefanzweifel/git-auto-commit-action@v5,11.769911548620344,1189925,False,
+##[group]GITHUB_TOKEN Permissions,9.041230807018854,3853488,False,
+##[group]Run actions/setup-node@v4,6.962929951218979,658221,False,
+##[group]Run git config --global core.quotepath off,1.3291916996070317,117398,False,
+##[group]Setting up auth,0.3669237613501627,69139,False,
+##[group]Run actions/checkout@v4,0.3611905775790663,171507,False,
+Requested labels: self-hosted,0.030021093270781,4741893,False,

@@ -1,0 +1,1851 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.82 s (1018.5 files/s 216818.4 lines/s)"
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedChannelImplTest.java,593,224,3858
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/GrpcXdsClientImplTestBase.java,393,333,3226
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/GrpcXdsClientImplDataTest.java,202,37,2721
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/RetriableStreamTest.java,445,147,2407
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/GrpclbLoadBalancerTest.java,417,287,2253
+Java,/tmp/clone_directory/xds/third_party/zero-allocation-hashing/test/java/io/grpc/xds/XxHash64Test.java,28,51,2187
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/AbstractInteropTest.java,248,219,2117
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpClientTransportTest.java,322,148,2090
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/AbstractTransportTest.java,297,164,2000
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsNameResolverTest.java,162,80,1967
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/PickFirstLeafLoadBalancerTest.java,418,324,1820
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ManagedChannelImpl.java,248,216,1800
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ServerImplTest.java,185,50,1430
+Java,/tmp/clone_directory/census/src/test/java/io/grpc/census/CensusModulesTest.java,179,62,1392
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpServerTransportTest.java,221,20,1297
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/ProtocolNegotiatorsTest.java,182,47,1241
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsServerWrapperTest.java,78,26,1225
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/RetriableStream.java,195,184,1224
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterResolverLoadBalancerTest.java,116,34,1214
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WeightedRoundRobinLoadBalancerTest.java,129,71,1202
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpClientTransport.java,100,178,1151
+Java,/tmp/clone_directory/opentelemetry/src/test/java/io/grpc/opentelemetry/OpenTelemetryMetricsModuleTest.java,77,27,1122
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactoryTest.java,202,116,1122
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/FilterChainMatchingProtocolNegotiatorsTest.java,99,34,1118
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyServerHandlerTest.java,214,79,1106
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/DnsNameResolverTest.java,197,28,1098
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/InternalSubchannelTest.java,167,128,1084
+C++,/tmp/clone_directory/compiler/src/java_plugin/cpp/java_generator.cpp,102,133,1062
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/BinlogHelperTest.java,128,408,1045
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpServerTransport.java,101,107,1010
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/OutlierDetectionLoadBalancerTest.java,243,220,1000
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServerHandler.java,103,86,989
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbState.java,100,123,969
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ClientCallImplTest.java,162,62,898
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ContextTest.java,122,51,884
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalChannelz.java,143,89,873
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/CachingRlsLbClient.java,123,110,866
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyClientTransportTest.java,148,64,862
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/ClientCallsTest.java,113,25,842
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/RingHashLoadBalancerTest.java,162,104,840
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/ChannelzProtoUtilTest.java,80,33,836
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/ProtocolNegotiators.java,132,129,832
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/CachingRlsLbClientTest.java,149,54,821
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterImplLoadBalancerTest.java,80,44,820
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyClientHandler.java,87,135,818
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/OutlierDetectionLoadBalancer.java,172,199,811
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/GrpcXdsClientImplV3Test.java,62,32,809
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyClientHandlerTest.java,129,80,803
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsNameResolver.java,70,76,803
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InProcessTransport.java,99,65,795
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/GrpcBootstrapperImplTest.java,60,20,795
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/test/java/io/grpc/okhttp/internal/framed/HpackTest.java,240,123,790
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/orca/OrcaOobUtilTest.java,105,56,789
+Text,/tmp/clone_directory/compiler/src/test/golden/TestService.java.txt,70,0,780
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BinderTransport.java,108,112,766
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/RlsLoadBalancerTest.java,105,49,752
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerImpl.java,96,115,751
+Text,/tmp/clone_directory/compiler/src/testLite/golden/TestService.java.txt,63,0,740
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/BinlogHelper.java,64,90,726
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/interceptors/InternalLoggingChannelInterceptorTest.java,80,25,723
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/CdsLoadBalancer2Test.java,72,46,718
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterResolverLoadBalancer.java,65,81,717
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsServerWrapper.java,52,35,705
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/interceptors/LogHelperTest.java,52,47,701
+Java,/tmp/clone_directory/census/src/main/java/io/grpc/census/CensusStatsModule.java,51,80,691
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/AutoConfiguredLoadBalancerFactoryTest.java,104,23,686
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ManagedChannelImplBuilder.java,117,133,683
+Java,/tmp/clone_directory/cronet/src/test/java/io/grpc/cronet/CronetClientStreamTest.java,81,64,669
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/PriorityLoadBalancerTest.java,84,62,667
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpChannelBuilder.java,79,182,659
+Java,/tmp/clone_directory/authz/src/test/java/io/grpc/authz/AuthorizationEnd2EndTest.java,33,100,658
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedChannelImplBuilderTest.java,109,24,653
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ClientCallImpl.java,69,63,647
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/XdsClientImpl.java,68,44,638
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/GzipInflatingBufferTest.java,118,17,627
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/InternalSubchannel.java,85,103,623
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Metadata.java,108,323,620
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/route/v3/route_components.proto,344,1471,619
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/TestServiceClient.java,58,33,617
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/ServerCallsTest.java,45,43,616
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/XdsTestClient.java,46,29,614
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsRouteConfigureResource.java,40,27,611
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/TestServiceGrpc.java,72,202,608
+JSON,/tmp/clone_directory/examples/src/main/resources/io/grpc/examples/routeguide/route_guide_db.json,0,0,603
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Http2.java,104,85,597
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/trust/XdsX509TrustManagerTest.java,55,21,596
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/StressTestClient.java,98,50,595
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/ProtoReflectionServiceTest.java,64,18,588
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/GrpcUtil.java,102,284,584
+Java,/tmp/clone_directory/services/src/generated/main/grpc/io/grpc/channelz/v1/ChannelzGrpc.java,73,194,582
+Java,/tmp/clone_directory/gcp-csm-observability/src/test/java/io/grpc/gcp/csm/observability/CsmObservabilityTest.java,36,21,579
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsClusterResource.java,69,50,576
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/DnsNameResolver.java,69,100,572
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/TestServiceGrpc.java,65,202,571
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/Inbound.java,87,84,560
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WeightedRoundRobinLoadBalancer.java,74,106,560
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ServiceConfigErrorHandlingTest.java,112,29,556
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/DelayedClientTransportTest.java,66,65,553
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsListenerResource.java,41,26,549
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/LoadReportClientTest.java,54,53,548
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/LeastRequestLoadBalancerTest.java,110,42,544
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/RlsProtoConvertersTest.java,38,15,542
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyChannelBuilder.java,79,203,541
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/SecurityPoliciesTest.java,144,28,539
+Java,/tmp/clone_directory/api/src/context/java/io/grpc/Context.java,87,501,536
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/ClientCalls.java,82,164,529
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyServerTest.java,65,33,525
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/LoadBalancer.java,127,887,516
+Java,/tmp/clone_directory/authz/src/test/java/io/grpc/authz/AuthorizationPolicyTranslatorTest.java,19,15,516
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/AbstractClientStreamTest.java,89,35,513
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/PickFirstLeafLoadBalancer.java,84,97,511
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedChannelImplIdlenessTest.java,88,67,501
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/RetryTest.java,39,34,501
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/OpenTelemetryMetricsModule.java,46,67,498
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyHandlerTestBase.java,102,31,496
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyClientStreamTest.java,71,64,489
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/CronetClientStream.java,54,56,478
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/internal/BinderClientTransportTest.java,82,39,476
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Hpack.java,67,88,474
+Java,/tmp/clone_directory/examples/android/clientcache/app/src/test/java/io/grpc/clientcacheexample/SafeMethodCachingInterceptorTest.java,86,3,468
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/MessageDeframerTest.java,68,31,465
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServerInterceptorsTest.java,53,24,464
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsSecurityClientServerTest.java,60,28,461
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpChannelBuilderTest.java,66,18,459
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/AdvancedTlsTest.java,30,45,450
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AesGcmHkdfAeadCrypterTest.java,20,26,448
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/RoundRobinLoadBalancerTest.java,88,28,448
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/DelayedClientCall.java,47,67,443
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/ProtoReflectionService.java,50,51,438
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsProtocolNegotiatorTest.java,80,42,437
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/CallCredentialsApplyingTest.java,68,24,433
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/DelayedStream.java,39,70,432
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/AbstractHttp2Headers.java,109,15,429
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/GrpcHttp2HeadersUtils.java,65,74,429
+Java,/tmp/clone_directory/benchmarks/src/generated/main/grpc/io/grpc/benchmarks/proto/BenchmarkServiceGrpc.java,54,106,428
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/TestServiceImpl.java,52,117,426
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/Utils.java,52,68,426
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/GracefulSwitchLoadBalancerTest.java,96,23,426
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/ObservabilityConfigImplTest.java,51,15,425
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Platform.java,60,107,422
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/interceptors/InternalLoggingServerInterceptorTest.java,43,27,419
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/ChannelzProtoUtil.java,32,20,419
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/driver/LoadClient.java,51,71,418
+Java,/tmp/clone_directory/istio-interop-testing/src/main/java/io/grpc/testing/istio/EchoTestServer.java,45,39,418
+Java,/tmp/clone_directory/benchmarks/src/jmh/java/io/grpc/benchmarks/netty/AbstractBenchmark.java,55,91,417
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/FaultFilter.java,34,28,416
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServerBuilder.java,56,270,415
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServer.java,32,35,413
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyAdaptiveCumulatorTest.java,84,155,412
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ClientInterceptorsTest.java,41,30,410
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/MetadataTest.java,82,28,410
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsTsiFrameProtectorTest.java,64,22,405
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/DelayedStreamTest.java,62,21,403
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/FileWatcherCertificateProviderTest.java,48,24,403
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ServerCallImplTest.java,88,25,400
+Java,/tmp/clone_directory/auth/src/test/java/io/grpc/auth/GoogleAuthLibraryCallCredentialsTest.java,75,24,398
+Java,/tmp/clone_directory/census/src/main/java/io/grpc/census/CensusTracingModule.java,48,72,397
+Gradle,/tmp/clone_directory/build.gradle,51,51,394
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/CsdsServiceTest.java,58,46,394
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/XdsTestServer.java,31,20,393
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/orca/OrcaOobUtil.java,54,157,393
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/RbacFilterTest.java,44,16,393
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/SecurityProtocolNegotiatorsTest.java,43,31,391
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/PickFirstLoadBalancerTest.java,77,29,384
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RingHashLoadBalancer.java,62,81,384
+Java,/tmp/clone_directory/benchmarks/src/generated/main/grpc/io/grpc/benchmarks/proto/WorkerServiceGrpc.java,51,106,382
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/MessageDeframer.java,54,108,381
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/BinaryLogProviderTest.java,35,21,381
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/rbac/engine/GrpcAuthorizationEngine.java,68,56,380
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WeightedTargetLoadBalancerTest.java,55,47,380
+Java,/tmp/clone_directory/testing-proto/src/generated/main/grpc/io/grpc/testing/protobuf/SimpleServiceGrpc.java,50,99,378
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactory.java,50,49,377
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpServerBuilder.java,54,136,375
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/LbPolicyConfiguration.java,58,36,375
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ManagedChannelRegistryTest.java,55,16,373
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterImplLoadBalancer.java,43,35,373
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/FilterChainMatchingProtocolNegotiators.java,50,32,372
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/Outbound.java,49,85,371
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/MultiChildLoadBalancer.java,74,117,367
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/rbac/engine/GrpcAuthorizationEngineTest.java,33,17,367
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/MessageFramerTest.java,61,47,365
+Java,/tmp/clone_directory/examples/src/test/java/io/grpc/examples/routeguide/RouteGuideClientTest.java,66,83,365
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/interceptors/LogHelper.java,28,62,365
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/NameResolver.java,70,384,363
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsProtocolNegotiator.java,50,43,362
+Java,/tmp/clone_directory/examples/android/routeguide/app/src/main/java/io/grpc/routeguideexample/RouteGuideActivity.java,47,40,362
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AbstractClientStream.java,59,132,356
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/CdsLoadBalancer2.java,36,40,353
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/SecurityPolicies.java,39,136,352
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsClientWrapperForServerSdsTestMisc.java,28,16,351
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/CommonTlsContextTestsUtil.java,33,37,351
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ServiceConfigStateTest.java,88,18,350
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyServerStreamTest.java,63,39,349
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/ServiceBindingTest.java,56,20,346
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyClientTransport.java,27,67,344
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/ServerCalls.java,64,99,342
+Markdown,/tmp/clone_directory/SECURITY.md,88,2,340
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpClientStream.java,41,53,335
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsTsiFrameProtector.java,41,38,329
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ManagedChannelServiceConfig.java,44,43,329
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/MessagePrinterTest.java,14,18,329
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/WriteBufferingAndExceptionHandlerTest.java,35,21,328
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/AbstractServerStreamTest.java,73,54,327
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterManagerLoadBalancerTest.java,46,24,327
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/LoadBalancerConfigFactoryTest.java,63,26,327
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/BinderChannelSmokeTest.java,51,24,326
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/GzipInflatingBuffer.java,50,98,326
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/proxy/HttpUrl.java,55,96,326
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/MultiChildLoadBalancerTest.java,69,18,322
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/Http2ClientStreamTransportStateTest.java,54,16,321
+Java,/tmp/clone_directory/istio-interop-testing/src/test/java/io/grpc/testing/istio/EchoTestServerTest.java,47,21,320
+Markdown,/tmp/clone_directory/documentation/android-binderchannel-status-codes.md,67,0,318
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/ControlPlaneClient.java,36,72,317
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/ClientSslContextProviderFactoryTest.java,29,17,315
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServiceConfigUtil.java,52,95,314
+Java,/tmp/clone_directory/testing/src/test/java/io/grpc/testing/GrpcCleanupRuleTest.java,93,49,313
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Status.java,66,295,312
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerCallImpl.java,47,40,312
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/GrpcHttp2HeadersUtilsTest.java,46,24,312
+Java,/tmp/clone_directory/gcp-csm-observability/src/main/java/io/grpc/gcp/csm/observability/MetadataExchanger.java,44,23,311
+Java,/tmp/clone_directory/opentelemetry/src/test/java/io/grpc/opentelemetry/OpenTelemetryMetricSinkTest.java,65,46,311
+Java,/tmp/clone_directory/googleapis/src/test/java/io/grpc/googleapis/GoogleCloudToProdNameResolverTest.java,30,17,310
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/LoadReportClient.java,28,35,308
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/LoadStatsManager2.java,28,89,308
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/CertProviderClientSslContextProviderTest.java,42,31,308
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/CertificateProviderStoreTest.java,22,20,307
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/CertProviderServerSslContextProviderTest.java,41,30,305
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RbacFilter.java,28,16,304
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/Http2Client.java,41,27,302
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/MessageFramer.java,37,102,301
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/cluster/v3/cluster.proto,166,809,300
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/JsonUtil.java,23,110,299
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/filters/network/http_connection_manager/v3/http_connection_manager.proto,165,733,299
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/TsiTest.java,72,36,298
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/LoadBalancerTest.java,49,18,298
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/BinderSecurityTest.java,34,18,298
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/orca/OrcaServiceImplTest.java,17,15,298
+Text,/tmp/clone_directory/compiler/src/test/golden/TestDeprecatedService.java.txt,37,0,296
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/TlsTest.java,37,87,296
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/DelayedClientTransport.java,32,94,295
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/GrpcUtilTest.java,75,30,294
+Java,/tmp/clone_directory/auth/src/main/java/io/grpc/auth/GoogleAuthLibraryCallCredentials.java,32,62,293
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/client/LoadStatsManager2Test.java,27,19,293
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/ServerSecurityPolicyTest.java,46,32,292
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ReadableBuffers.java,63,74,291
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/GrpclbNameResolverTest.java,38,16,291
+Java,/tmp/clone_directory/googleapis/src/main/java/io/grpc/googleapis/GoogleCloudToProdNameResolver.java,29,25,288
+Java,/tmp/clone_directory/android/src/test/java/io/grpc/android/AndroidChannelBuilderTest.java,51,35,286
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/StatsTestUtils.java,67,46,286
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/SecurityProtocolNegotiators.java,54,35,285
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/CallOptions.java,56,193,284
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/LoadBalancerConfigFactory.java,48,120,284
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/EnvoyProtoData.java,38,45,284
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/FakeClock.java,60,79,282
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/LoadBalancerStatsServiceGrpc.java,43,84,282
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/ReconnectServiceGrpc.java,43,60,282
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/XdsUpdateHealthServiceGrpc.java,43,60,282
+Java,/tmp/clone_directory/istio-interop-testing/src/generated/main/grpc/io/istio/test/EchoTestServiceGrpc.java,43,42,282
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/TlsTest.java,28,22,282
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/EnvoyServerProtoData.java,77,44,282
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/CompositeReadableBuffer.java,42,64,281
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/DeadlineTest.java,46,26,280
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/SynchronizationContextTest.java,49,33,279
+Gradle,/tmp/clone_directory/compiler/build.gradle,22,23,278
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/MetricsServiceGrpc.java,42,64,278
+Java,/tmp/clone_directory/services/src/generated/main/grpc/io/grpc/health/v1/HealthGrpc.java,42,101,278
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/orca/OrcaMetricReportingServerInterceptorTest.java,34,18,278
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpProtocolNegotiator.java,26,79,275
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/PriorityLoadBalancer.java,28,51,275
+Java,/tmp/clone_directory/benchmarks/src/jmh/java/io/grpc/benchmarks/TransportBenchmark.java,29,23,273
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/AsyncServer.java,28,41,273
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/OobChannel.java,42,30,272
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/CascadingTest.java,24,53,272
+Java,/tmp/clone_directory/xds/src/generated/thirdparty/grpc/io/envoyproxy/envoy/service/status/v3/ClientStatusDiscoveryServiceGrpc.java,41,68,272
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/DistinguishedNameParser.java,54,86,271
+Java,/tmp/clone_directory/protobuf-lite/src/test/java/io/grpc/protobuf/lite/ProtoLiteUtilsTest.java,51,23,270
+Protocol Buffers,/tmp/clone_directory/xds/third_party/protoc-gen-validate/src/main/proto/validate/validate.proto,185,407,270
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyClientStream.java,37,58,268
+Java,/tmp/clone_directory/servlet/src/main/java/io/grpc/servlet/ServletServerStream.java,47,21,268
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServiceProvidersTest.java,39,28,267
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/CompositeReadableBufferTest.java,41,18,266
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsServerBuilderTest.java,20,20,266
+Text,/tmp/clone_directory/compiler/src/testLite/golden/TestDeprecatedService.java.txt,30,0,263
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/XdsFederationTestClient.java,15,36,263
+Java,/tmp/clone_directory/xds/src/generated/thirdparty/grpc/io/envoyproxy/envoy/service/discovery/v3/AggregatedDiscoveryServiceGrpc.java,39,88,262
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/GrpclbFallbackTestClient.java,18,32,261
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/InternalChannelzTest.java,43,15,260
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyChannelBuilderTest.java,59,17,258
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/logging/GcpLogSinkTest.java,30,22,257
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/OpenTelemetryMetricSink.java,30,28,257
+Protocol Buffers,/tmp/clone_directory/services/src/main/proto/grpc/channelz/v1/channelz.proto,71,236,257
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedChannelServiceConfigTest.java,36,20,256
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerImplBuilder.java,36,54,255
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/MethodDescriptor.java,55,321,253
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/AsyncSinkTest.java,46,28,252
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/LoadBalancerStatsServiceGrpc.java,36,84,251
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/ReconnectServiceGrpc.java,36,60,251
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/XdsUpdateHealthServiceGrpc.java,36,60,251
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/GrpcOpenTelemetry.java,41,61,251
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/GcpObservability.java,24,27,249
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/MetricsServiceGrpc.java,35,64,247
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/CompressionTest.java,29,41,247
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/AdvancedTlsX509TrustManager.java,35,99,247
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/XdsClient.java,51,134,247
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ControlPlaneRule.java,24,45,246
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/LeastRequestLoadBalancer.java,42,45,245
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/HealthStatusManagerTest.java,41,29,244
+Java,/tmp/clone_directory/servlet/src/undertowTest/java/io/grpc/servlet/UndertowTransportTest.java,42,26,243
+Java,/tmp/clone_directory/android/src/main/java/io/grpc/android/AndroidChannelBuilder.java,41,61,242
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpServerStream.java,28,26,242
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/LinkedHashLruCache.java,38,60,242
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/MigratingThreadDeframer.java,30,35,240
+Java,/tmp/clone_directory/android/src/main/java/io/grpc/android/UdsSocket.java,49,25,238
+Java,/tmp/clone_directory/examples/android/clientcache/app/src/main/java/io/grpc/clientcacheexample/SafeMethodCachingInterceptor.java,38,25,238
+Starlark,/tmp/clone_directory/examples/BUILD.bazel,31,0,236
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/ConnectionSpec.java,51,70,236
+Markdown,/tmp/clone_directory/README.md,47,1,234
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/AsyncClient.java,41,37,233
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ContextsTest.java,30,20,232
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideClient.java,37,63,231
+Java,/tmp/clone_directory/servlet/src/main/java/io/grpc/servlet/ServletAdapter.java,37,65,231
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServerTransport.java,25,35,230
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/trust/XdsTrustManagerFactoryTest.java,18,18,230
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/bootstrap/v3/bootstrap.proto,119,388,229
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/ServiceBinding.java,29,40,228
+Java,/tmp/clone_directory/census/src/test/java/io/grpc/census/CensusTracingAnnotationEventTest.java,35,20,228
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/MetricRecorderImplTest.java,47,25,226
+Java,/tmp/clone_directory/benchmarks/src/test/java/io/grpc/benchmarks/driver/LoadWorkerTest.java,26,21,225
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/ChannelzServiceTest.java,34,16,225
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/TransmitStatusRuntimeExceptionInterceptor.java,24,31,225
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/CallOptionsTest.java,36,20,224
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/NameResolverRegistryTest.java,28,17,224
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/SerializingExecutorTest.java,35,17,224
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsHandshakerClientTest.java,41,16,223
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/Utils.java,27,52,223
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/Matchers.java,50,59,223
+Java,/tmp/clone_directory/benchmarks/src/generated/main/grpc/io/grpc/benchmarks/proto/ReportQpsScenarioServiceGrpc.java,37,46,222
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/GcpObservabilityTest.java,26,16,222
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/UnimplementedServiceGrpc.java,37,70,222
+Java,/tmp/clone_directory/interop-testing/src/generated/main/grpc/io/grpc/testing/integration/XdsUpdateClientConfigureServiceGrpc.java,37,64,222
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpClientStreamTest.java,33,18,222
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpProtocolNegotiatorTest.java,61,22,222
+Java,/tmp/clone_directory/rls/src/generated/main/grpc/io/grpc/lookup/v1/RouteLookupServiceGrpc.java,37,46,222
+Java,/tmp/clone_directory/services/src/generated/test/grpc/io/grpc/reflection/testing/AnotherDynamicServiceGrpc.java,37,64,222
+Java,/tmp/clone_directory/services/src/generated/test/grpc/io/grpc/reflection/testing/AnotherReflectableServiceGrpc.java,37,34,222
+Java,/tmp/clone_directory/services/src/generated/test/grpc/io/grpc/reflection/testing/DynamicServiceGrpc.java,37,64,222
+Java,/tmp/clone_directory/services/src/generated/test/grpc/io/grpc/reflection/testing/ReflectableServiceGrpc.java,37,34,222
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OutboundFlowController.java,43,82,221
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/BootstrapperImpl.java,31,26,220
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/ObservabilityConfigImpl.java,34,23,219
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsEndpointResource.java,30,21,219
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/MethodDescriptorTest.java,32,27,218
+Java,/tmp/clone_directory/xds/src/generated/thirdparty/grpc/com/github/xds/service/orca/v3/OpenRcaServiceGrpc.java,36,92,218
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsTsiHandshakerTest.java,33,20,217
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/driver/LoadWorker.java,19,28,217
+Java,/tmp/clone_directory/api/src/context/java/io/grpc/PersistentHashArrayMappedTrie.java,34,51,216
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/ClientConfiguration.java,28,26,216
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AbstractServerStream.java,38,113,216
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/CronetClientTransport.java,26,37,216
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/ServerSslContextProviderFactoryTest.java,22,17,216
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AbstractStream.java,41,125,214
+Java,/tmp/clone_directory/util/src/testFixtures/java/io/grpc/util/AbstractTestHelper.java,47,32,214
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/AsyncSink.java,21,32,213
+Java,/tmp/clone_directory/alts/src/generated/main/grpc/io/grpc/alts/internal/HandshakerServiceGrpc.java,35,46,212
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/RpcProtocolVersionsUtilTest.java,6,29,212
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/JndiResourceResolverFactory.java,24,35,212
+Java,/tmp/clone_directory/grpclb/src/generated/main/grpc/io/grpc/lb/v1/LoadBalancerGrpc.java,35,36,212
+Java,/tmp/clone_directory/services/src/generated/main/grpc/io/grpc/reflection/v1alpha/ServerReflectionGrpc.java,35,38,212
+Java,/tmp/clone_directory/servlet/src/tomcatTest/java/io/grpc/servlet/TomcatTransportTest.java,40,25,212
+Java,/tmp/clone_directory/xds/src/generated/thirdparty/grpc/io/envoyproxy/envoy/service/load_stats/v3/LoadReportingServiceGrpc.java,35,88,212
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/RlsProtoConverters.java,24,32,211
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/SharedResourceHolderTest.java,42,32,210
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/trust/XdsX509TrustManager.java,24,29,210
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/CronetChannelBuilder.java,34,83,209
+Gradle,/tmp/clone_directory/xds/build.gradle,24,11,209
+Java,/tmp/clone_directory/xds/third_party/zero-allocation-hashing/main/java/io/grpc/xds/XxHash64.java,50,28,209
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/interceptors/InternalLoggingServerInterceptor.java,22,35,206
+Java,/tmp/clone_directory/servlet/src/jettyTest/java/io/grpc/servlet/JettyTransportTest.java,39,20,206
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterManagerLoadBalancer.java,26,46,206
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/PersistentHashArrayMappedTrieTest.java,38,18,205
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/interceptors/InternalLoggingChannelInterceptor.java,25,38,205
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/GrpcSslContexts.java,24,74,205
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsServerTestHelper.java,25,19,205
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/HostServices.java,37,54,204
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/CachedSubchannelPoolTest.java,36,30,204
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/VirtualHost.java,56,37,204
+Java,/tmp/clone_directory/examples/src/test/java/io/grpc/examples/routeguide/RouteGuideServerTest.java,35,39,203
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/DelayedClientCallTest.java,15,18,202
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/data/accesslog/v3/accesslog.proto,126,213,202
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingChannelBuilder2.java,43,44,201
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerInterceptors.java,29,101,201
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/CallCredentialsApplyingTransportFactory.java,22,23,201
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/NettyFlowControlTest.java,37,32,201
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/TlsServerCredentials.java,35,183,200
+Markdown,/tmp/clone_directory/examples/example-debug/README.md,38,0,200
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/XdsResourceType.java,42,59,200
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/RobolectricBinderSecurityTest.java,36,21,199
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/MoreInProcessTest.java,28,32,199
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/AbstractNettyHandler.java,42,39,199
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BinderServer.java,32,66,197
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ProxyDetectorImplTest.java,21,16,197
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ReadableBuffersTest.java,26,19,197
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/KeepAliveManagerTest.java,53,60,196
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/LoggingTest.java,22,34,196
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/AdaptiveThrottler.java,42,105,196
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/base.proto,99,232,196
+Markdown,/tmp/clone_directory/RELEASING.md,37,0,195
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/LinkedHashLruCacheTest.java,55,19,195
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/UnimplementedServiceGrpc.java,30,70,192
+Java,/tmp/clone_directory/android-interop-testing/src/generated/release/grpc/io/grpc/testing/integration/XdsUpdateClientConfigureServiceGrpc.java,30,64,192
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/FileWatcherCertificateProvider.java,16,19,192
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WeightedRandomPickerTest.java,46,18,192
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WrrLocalityLoadBalancerTest.java,38,34,192
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AutoConfiguredLoadBalancerFactory.java,36,40,191
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/ProxyTest.java,27,24,191
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/RoutingUtilsTest.java,24,16,191
+XML,/tmp/clone_directory/buildscripts/checkstyle.xml,10,24,189
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServerStream.java,27,33,187
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/RingHashLoadBalancerProviderTest.java,19,20,187
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/CsdsService.java,22,31,186
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/KeepAliveManager.java,24,83,185
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ConnectivityStateManagerTest.java,32,28,185
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideServer.java,33,83,185
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/TsiHandshakeHandler.java,24,42,184
+Markdown,/tmp/clone_directory/examples/README.md,68,0,184
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/UtilsTest.java,34,27,183
+Java,/tmp/clone_directory/servlet/src/main/java/io/grpc/servlet/ServletServerBuilder.java,37,55,183
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/accesslog/v3/accesslog.proto,65,99,183
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/GoogleDefaultProtocolNegotiatorTest.java,29,20,182
+Java,/tmp/clone_directory/servlet/src/main/java/io/grpc/servlet/AsyncServletOutputStreamWriter.java,29,85,182
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/ChannelCrypterNettyTestBase.java,28,17,181
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/ChannelzService.java,26,27,181
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/MutableHandlerRegistryTest.java,34,17,181
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/TlsChannelCredentials.java,30,158,180
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/ExceptionHandlingFrameWriter.java,26,28,180
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WeightedTargetLoadBalancer.java,23,21,180
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/FakeTsiHandshaker.java,33,26,179
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/TrafficControlProxy.java,33,47,178
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/TransportCompressionTest.java,24,26,178
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/ServerConfiguration.java,31,28,177
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ProxyDetectorImpl.java,21,116,177
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/GrpclbLongLivedAffinityTestClient.java,17,24,176
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/FileWatcherCertificateProviderProviderTest.java,20,16,176
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/MetricInstrumentRegistry.java,14,88,174
+Java,/tmp/clone_directory/protobuf-lite/src/main/java/io/grpc/protobuf/lite/ProtoLiteUtils.java,31,75,174
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsHandshakerClient.java,20,59,173
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/driver/LoadServer.java,21,34,173
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpFrameLogger.java,26,19,173
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsFraming.java,39,155,172
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/KeepAliveEnforcerTest.java,23,19,172
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsCredentialsRegistryTest.java,28,16,172
+Starlark,/tmp/clone_directory/MODULE.bazel,35,2,171
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/manualflowcontrol/ManualFlowControlClient.java,18,37,171
+Starlark,/tmp/clone_directory/java_grpc_library.bzl,20,27,171
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingChannelBuilder.java,36,47,170
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/grpcproxy/GrpcProxy.java,28,41,170
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsClientFederationTest.java,31,49,170
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/OneWayBinderProxyTest.java,23,5,169
+Java,/tmp/clone_directory/gcp-csm-observability/src/test/java/io/grpc/gcp/csm/observability/MetadataExchangerTest.java,16,16,169
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/GrpclbLoadBalancerProviderTest.java,45,15,169
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertProviderSslContextProvider.java,18,16,169
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/PickFirstLoadBalancer.java,31,39,168
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/errorhandling/DetailErrorSample.java,34,29,168
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/MatcherTest.java,20,15,167
+Java,/tmp/clone_directory/auth/src/test/java/io/grpc/auth/ClientAuthInterceptorTest.java,30,19,166
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/Http2ClientStreamTransportState.java,18,72,166
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/errordetails/ErrorDetailsExample.java,28,27,166
+Java,/tmp/clone_directory/authz/src/main/java/io/grpc/authz/AuthorizationPolicyTranslator.java,9,25,165
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ServerImplBuilderTest.java,24,17,165
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/protocol.proto,84,390,165
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/WriteBufferingAndExceptionHandler.java,21,72,164
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/AdvancedTlsX509KeyManager.java,25,64,164
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InProcessChannelBuilder.java,33,100,162
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/TestServiceServer.java,11,18,161
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/WriteQueueTest.java,29,19,161
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterResolverLoadBalancerProvider.java,22,33,160
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/FakeTsiTest.java,34,21,159
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ManagedChannelRegistry.java,19,50,159
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Huffman.java,30,41,159
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/AbstractConfigurationBuilder.java,31,57,158
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/multiplex/SharingClient.java,34,47,158
+Starlark,/tmp/clone_directory/xds/BUILD.bazel,11,3,158
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/MetadataHelper.java,14,56,157
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/LbPolicyConfigurationTest.java,20,16,157
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsTsiTest.java,23,19,156
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ApplicationThreadDeframerTest.java,25,17,156
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/MetricInstrumentRegistryTest.java,20,19,154
+Java,/tmp/clone_directory/examples/android/strictmode/app/src/main/java/io/grpc/strictmodehelloworldexample/StrictModeHelloworldActivity.java,14,15,154
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpServer.java,19,16,154
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/GrpcCleanupRule.java,32,94,154
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/FakeClockTest.java,35,16,153
+Java,/tmp/clone_directory/protobuf/src/test/java/io/grpc/protobuf/StatusProtoTest.java,34,16,153
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedChannelImplGetNameResolverTest.java,31,18,152
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyStreamTestBase.java,33,25,152
+Starlark,/tmp/clone_directory/repositories.bzl,9,25,152
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/NettyTsiHandshakerTest.java,28,25,151
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/MetricRecorderImpl.java,14,72,151
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ConfigSelectingClientCallTest.java,20,23,151
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/hedging/HedgingHelloWorldClient.java,16,20,151
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/admin/v3/config_dump_shared.proto,90,171,151
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/OpenLoopClient.java,23,46,150
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BinderClientTransportFactory.java,25,49,150
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingServerBuilder.java,33,35,149
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WeightedTargetLoadBalancerProvider.java,23,23,148
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/InProcessTransportTest.java,13,20,147
+Gradle,/tmp/clone_directory/interop-testing/build.gradle,20,9,147
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/ExceptionHandlingFrameWriterTest.java,29,20,147
+Java,/tmp/clone_directory/binder/src/testFixtures/java/io/grpc/binder/internal/MainThreadScheduledExecutorService.java,30,20,146
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/ReadableBufferTestBase.java,18,19,146
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/logging/GcpLogSink.java,19,37,146
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsNameResolverProviderTest.java,15,16,146
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsTestControlPlaneService.java,16,38,146
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/errorhandling/ErrorHandlingClient.java,29,33,145
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/OkHostnameVerifier.java,26,86,145
+Starlark,/tmp/clone_directory/services/BUILD.bazel,13,5,145
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/HealthServiceImpl.java,18,25,145
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/services/CallMetricRecorderTest.java,17,16,145
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/UtilServerInterceptorsTest.java,24,23,145
+Java,/tmp/clone_directory/api/src/context/java/io/grpc/Deadline.java,25,134,144
+Protocol Buffers,/tmp/clone_directory/benchmarks/src/main/proto/grpc/testing/control.proto,37,78,144
+Java,/tmp/clone_directory/examples/android/clientcache/app/src/main/java/io/grpc/clientcacheexample/ClientCacheExampleActivity.java,9,16,144
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/ConcurrencyTest.java,27,42,144
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/ChannelzTestHelper.java,20,19,144
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServerRegistryTest.java,19,16,143
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/customloadbalance/ShufflingPickFirstLoadBalancer.java,30,32,143
+Java,/tmp/clone_directory/android-interop-testing/src/main/java/io/grpc/android/integrationtest/TesterActivity.java,25,23,142
+Java,/tmp/clone_directory/android-interop-testing/src/main/java/io/grpc/android/integrationtest/UdsTcpEndpointConnector.java,26,30,142
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Attributes.java,28,108,142
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BinderTransportSecurity.java,20,83,142
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/TestUtils.java,16,54,142
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/TsiFrameHandler.java,25,33,141
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/JsonUtilTest.java,17,16,141
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ChannelLoggerImplTest.java,18,22,140
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/orca/OrcaPerRequestUtilTest.java,19,41,140
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/BinderChannelBuilder.java,24,138,139
+Gradle,/tmp/clone_directory/netty/shaded/build.gradle,20,15,139
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/WriteQueue.java,30,64,139
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedChannelOrphanWrapperTest.java,21,20,138
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/RetryPolicyTest.java,19,16,137
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/TlsContextManagerTest.java,25,16,137
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/TestClientStreamTracer.java,29,34,136
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/health_check.proto,75,218,136
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/AndroidComponentAddressTest.java,15,16,135
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ApplicationThreadDeframer.java,21,22,135
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/CallMetricRecorder.java,19,133,135
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/SharedXdsClientPoolProvider.java,17,19,135
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertificateProviderStore.java,19,43,135
+Maven,/tmp/clone_directory/examples/example-oauth/pom.xml,4,3,134
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Settings.java,36,73,133
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsServerBuilder.java,22,45,133
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ClientInterceptors.java,28,87,132
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServerServiceDefinitionTest.java,15,16,132
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/cancellation/CancellationClient.java,21,51,132
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyServerBuilderTest.java,39,18,132
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/UdsNettyChannelProviderTest.java,20,17,132
+Java,/tmp/clone_directory/testing/src/test/java/io/grpc/testing/GrpcServerRuleTest.java,58,21,132
+Java,/tmp/clone_directory/cronet/src/test/java/io/grpc/cronet/CronetClientTransportTest.java,20,20,131
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/OutlierDetectionLoadBalancerProvider.java,20,19,131
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/RoundRobinLoadBalancer.java,23,30,131
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterManagerLoadBalancerProviderTest.java,17,16,131
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/grpc_service.proto,70,102,131
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/NameResolverRegistry.java,20,48,130
+Bourne Shell,/tmp/clone_directory/compiler/check-artifact.sh,10,16,130
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsHandshakerStubTest.java,22,24,129
+Maven,/tmp/clone_directory/examples/example-jwt-auth/pom.xml,4,3,129
+Java,/tmp/clone_directory/testing-proto/src/test/java/io/grpc/testing/protobuf/SimpleServiceTest.java,24,17,129
+Maven,/tmp/clone_directory/examples/pom.xml,4,3,128
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/TestStreamTracer.java,34,51,128
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsTsiHandshaker.java,21,75,127
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/MultiMessageClientStream.java,25,44,127
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/StatsTraceContext.java,23,98,127
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/BinaryLogProvider.java,17,50,127
+Markdown,/tmp/clone_directory/COMPILING.md,26,0,126
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/cancellation/CancellationServer.java,16,64,126
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/healthservice/HealthServiceClient.java,23,45,126
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/StandaloneInProcessTransportTest.java,24,21,126
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyTransportTest.java,19,21,126
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/CipherSuite.java,11,265,126
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/GracefulSwitchLoadBalancer.java,24,38,126
+Java,/tmp/clone_directory/gae-interop-testing/gae-jdk8/src/main/java/io/grpc/testing/integration/NettyClientInteropServlet.java,18,23,125
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbLoadBalancer.java,19,22,125
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/Http2Test.java,12,29,125
+XML,/tmp/clone_directory/android-interop-testing/src/main/res/layout/activity_tester.xml,13,0,124
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/MultiMessageServerStream.java,24,39,124
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ManagedChannelBuilder.java,42,487,123
+Markdown,/tmp/clone_directory/documentation/server-reflection-tutorial.md,40,0,123
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ForwardingClientStreamTest.java,19,15,122
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/StressTestClientTest.java,25,18,122
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/AdvancedTlsX509KeyManagerTest.java,25,18,122
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/FakeControlPlaneXdsIntegrationTest.java,18,42,122
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/TracesTest.java,15,29,121
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InProcessServer.java,20,21,121
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/orca/OrcaPerRequestUtil.java,21,139,121
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ManagedChannelOrphanWrapper.java,20,34,120
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/SingleMessageClientStream.java,26,43,119
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ChannelTracerTest.java,28,20,119
+Gradle,/tmp/clone_directory/gae-interop-testing/gae-jdk8/build.gradle,19,30,119
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterManagerLoadBalancerProvider.java,16,20,119
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/DataPlaneRule.java,19,35,119
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/MetadataLoadBalancerProvider.java,28,26,119
+Bourne Shell,/tmp/clone_directory/xds/third_party/envoy/import.sh,11,20,119
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsChannelCrypter.java,28,23,118
+Gradle,/tmp/clone_directory/settings.gradle,4,11,118
+Gradle,/tmp/clone_directory/binder/build.gradle,14,5,117
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/ParcelableInputStream.java,23,72,117
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/SerializingExecutor.java,23,52,117
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/AltsHandshakerTestService.java,11,18,117
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RoutingUtils.java,18,56,117
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/orca/OrcaMetricReportingServerInterceptor.java,13,35,117
+Gradle,/tmp/clone_directory/android-interop-testing/build.gradle,17,7,116
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerRegistry.java,17,47,116
+Maven,/tmp/clone_directory/examples/example-debug/pom.xml,4,3,116
+Maven,/tmp/clone_directory/examples/example-hostname/pom.xml,4,3,116
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/CachedSubchannelPool.java,17,26,116
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/CustomBackendMetricsLoadBalancerProvider.java,22,18,116
+Protocol Buffers,/tmp/clone_directory/interop-testing/src/main/proto/grpc/testing/messages.proto,51,121,116
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WrrLocalityLoadBalancer.java,23,28,116
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/trust/XdsTrustManagerFactory.java,13,22,116
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/SynchronizationContext.java,22,112,115
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/SingleMessageServerStream.java,25,39,115
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/MetricsTest.java,14,30,115
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/interceptors/ConfigFilterHelperTest.java,19,15,115
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/Utils.java,21,35,115
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/ForwardingLoadBalancerHelper.java,25,18,115
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/RouteLookupServiceClusterSpecifierPluginTest.java,5,16,115
+Java,/tmp/clone_directory/android-interop-testing/src/main/java/io/grpc/android/integrationtest/TestCallable.java,12,23,114
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/GrpcHttp2OutboundHeaders.java,19,24,114
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/GrpcXdsTransportFactory.java,28,15,114
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsCredentialsRegistry.java,19,56,114
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/orca/OrcaServiceImpl.java,15,32,114
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/RlsRequestFactoryTest.java,19,15,113
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/CommonBootstrapperTestUtils.java,5,21,113
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/rbac/v3/rbac.proto,63,216,113
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/TransportFrameUtil.java,12,56,112
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/SerializeReentrantCallsDirectExecutorTest.java,21,16,112
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/TransportFrameUtilTest.java,17,19,112
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/TestUtils.java,22,33,112
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbClientLoadRecorder.java,19,26,112
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/OutlierDetectionLoadBalancerProviderTest.java,15,18,112
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/RlsLoadBalancer.java,15,24,111
+Java,/tmp/clone_directory/servlet/src/threadingTest/java/io/grpc/servlet/AsyncServletOutputStreamWriterConcurrencyTest.java,16,48,110
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/DynamicSslContextProvider.java,15,20,110
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/GrpcXdsTransportFactoryTest.java,17,15,110
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AesGcmAeadCrypter.java,15,34,109
+Maven,/tmp/clone_directory/examples/example-gauth/pom.xml,4,3,109
+Gradle,/tmp/clone_directory/servlet/jakarta/build.gradle,21,9,109
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/LeastRequestLoadBalancerProviderTest.java,14,16,109
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/SslContextProviderSupplierTest.java,11,18,109
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BlockInputStream.java,12,39,108
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ChannelTracer.java,13,34,108
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/HealthProducerHelperTest.java,12,15,108
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AltsChannelCredentials.java,23,29,107
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AltsServerBuilder.java,21,38,107
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/PingTrackerTest.java,20,15,107
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/retrying/RetryingHelloWorldClient.java,17,24,107
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbNameResolver.java,12,27,107
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/SslContextProviderSupplier.java,17,25,107
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WeightedTargetLoadBalancerProviderTest.java,15,16,107
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/RpcBehaviorLoadBalancerProvider.java,27,40,106
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/transport_sockets/tls/v3/common.proto,58,381,106
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/PeerUidsTest.java,16,15,105
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+Java,/tmp/clone_directory/netty/shaded/src/testShadow/java/io/grpc/netty/shaded/ShadingTest.java,13,18,105
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalProtocolNegotiators.java,30,36,105
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsChannelCrypterTest.java,28,18,104
+Java,/tmp/clone_directory/examples/example-orca/src/main/java/io/grpc/examples/orca/CustomBackendMetricsLoadBalancerProvider.java,19,25,104
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WeightedRandomPicker.java,24,17,104
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/ReferenceCountingMapTest.java,14,24,104
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/listener/v3/listener.proto,57,247,104
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/HttpConnectProxiedSocketAddress.java,22,56,103
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/PeerUidTestHelperTest.java,20,0,103
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/FileWatcherCertificateProviderProvider.java,22,19,103
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/HedgingPolicyTest.java,15,16,102
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/transport_sockets/tls/v3/tls.proto,55,177,102
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsHandshakerStub.java,21,25,101
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/BufUnwrapperTest.java,21,15,101
+Gradle,/tmp/clone_directory/benchmarks/build.gradle,19,1,101
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/TransportTracer.java,23,51,101
+Java,/tmp/clone_directory/examples/android/helloworld/app/src/main/java/io/grpc/helloworldexample/HelloworldActivity.java,9,15,101
+Gradle,/tmp/clone_directory/servlet/build.gradle,22,17,101
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/GrpcBootstrapperImpl.java,11,26,101
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertificateProvider.java,28,36,101
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/SharedXdsClientPoolProviderTest.java,14,20,101
+Java,/tmp/clone_directory/auth/src/main/java/io/grpc/auth/ClientAuthInterceptor.java,11,41,100
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/preserialized/PreSerializedServer.java,14,50,100
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/BindServiceFlags.java,27,115,99
+Java,/tmp/clone_directory/core/src/jmh/java/io/grpc/internal/ChannelzBenchmark.java,24,25,99
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/Http2Ping.java,19,96,99
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/RetryingNameResolverTest.java,19,24,99
+Bourne Shell,/tmp/clone_directory/examples/gradlew,27,108,99
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Headers.java,16,40,99
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/OptionalMethod.java,16,73,99
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/service/discovery/v3/discovery.proto,64,227,99
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/LoadBalancerRegistry.java,17,56,98
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerBuilder.java,34,314,98
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ForwardingReadableBufferTest.java,31,16,98
+Java,/tmp/clone_directory/examples/example-gcp-csm-observability/src/main/java/io/grpc/examples/csmobservability/CsmObservabilityClient.java,15,36,98
+Java,/tmp/clone_directory/examples/example-orca/src/main/java/io/grpc/examples/orca/CustomBackendMetricsServer.java,12,32,98
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/healthservice/HealthServiceServer.java,15,27,98
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbLoadBalancerProvider.java,13,20,98
+Java,/tmp/clone_directory/netty/src/jmh/java/io/grpc/netty/InboundHeadersBenchmark.java,24,63,98
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyAdaptiveCumulator.java,10,111,98
+Java,/tmp/clone_directory/servlet/src/undertowTest/java/io/grpc/servlet/UndertowInteropTest.java,11,19,98
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerServiceDefinition.java,16,41,97
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/LoadBalancerRegistryTest.java,18,16,97
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/BlockInputStreamTest.java,17,15,97
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/grpc/gradle/CheckForUpdatesTask.java,15,19,97
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ClientTransportFactory.java,22,55,97
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/SubchannelChannel.java,12,15,97
+Gradle,/tmp/clone_directory/examples/build.gradle,13,12,97
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/RlsProtoData.java,48,82,97
+Java,/tmp/clone_directory/servlet/src/tomcatTest/java/io/grpc/servlet/TomcatInteropTest.java,18,24,97
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/listener/v3/listener_components.proto,56,218,97
+Java,/tmp/clone_directory/android-interop-testing/src/androidTest/java/io/grpc/android/integrationtest/InteropInstrumentationTest.java,10,19,96
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Contexts.java,14,42,96
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/StatusTest.java,20,16,96
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/grpc/gradle/RequireUpperBoundDepsMatchTask.java,14,27,96
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/SharedResourceHolder.java,17,71,96
+Java,/tmp/clone_directory/servlet/src/jettyTest/java/io/grpc/servlet/GrpcServletSmokeTest.java,13,17,96
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServiceProviders.java,12,62,95
+Maven,/tmp/clone_directory/examples/example-tls/pom.xml,4,3,95
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/UdsNameResolverProviderTest.java,13,16,95
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/TestServerStreamTracer.java,24,21,95
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/MetadataApplierImpl.java,13,30,94
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/AttributesTest.java,22,16,93
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServiceDescriptorTest.java,19,18,93
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/TsiFrameHandlerTest.java,25,18,92
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ServiceConfigUtilTest.java,13,21,92
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/RpcBehaviorLoadBalancerProviderTest.java,17,18,92
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyReadableBuffer.java,22,24,92
+Protocol Buffers,/tmp/clone_directory/xds/third_party/googleapis/src/main/proto/google/api/expr/v1alpha1/checked.proto,57,194,92
+Java,/tmp/clone_directory/android-interop-testing/src/androidTest/java/io/grpc/android/integrationtest/UdsChannelInteropTest.java,14,24,91
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ClientStreamTracer.java,26,130,91
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServiceDescriptor.java,21,105,91
+Java,/tmp/clone_directory/examples/example-debug/src/main/java/io/grpc/examples/debug/HelloWorldDebuggableClient.java,12,37,91
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/TestUtils.java,9,42,91
+Protocol Buffers,/tmp/clone_directory/xds/third_party/googleapis/src/main/proto/google/api/expr/v1alpha1/syntax.proto,56,196,91
+YAML,/tmp/clone_directory/.github/workflows/testing.yml,13,0,90
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/internal/BinderTransportTest.java,17,34,90
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/android.sh,38,15,90
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingReadableBuffer.java,24,26,90
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ForwardingManagedChannelTest.java,14,15,90
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ReschedulerTest.java,25,18,90
+Java,/tmp/clone_directory/cronet/src/test/java/io/grpc/cronet/CronetChannelBuilderTest.java,16,15,90
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InProcessServerBuilder.java,19,104,90
+Java,/tmp/clone_directory/protobuf-lite/src/main/java/io/grpc/protobuf/lite/ProtoInputStream.java,13,22,90
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/LazyLoadBalancer.java,19,20,90
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/Bootstrapper.java,34,103,90
+Protocol Buffers,/tmp/clone_directory/alts/src/main/proto/grpc/gcp/handshaker.proto,54,100,89
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsFramingTest.java,16,22,89
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/hedging/HedgingHelloWorldServer.java,13,26,89
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/RlsRequestFactory.java,10,21,89
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/Stats.java,36,26,89
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WeightedRoundRobinLoadBalancerProviderTest.java,14,16,89
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ReflectionLongAdderCounter.java,13,22,88
+Java,/tmp/clone_directory/examples/example-gcp-csm-observability/src/main/java/io/grpc/examples/csmobservability/CsmObservabilityServer.java,17,30,88
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/Headers.java,19,47,88
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterImplLoadBalancerProvider.java,12,31,88
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingClientStream.java,22,15,87
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/manualflowcontrol/ManualFlowControlServer.java,16,50,87
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AesGcmHkdfAeadCrypter.java,16,25,86
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/ProtectedPromise.java,15,50,86
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/DecompressorRegistry.java,20,46,86
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/internal/LeakSafeOneWayBinderTest.java,19,16,86
+TOML,/tmp/clone_directory/gradle/libs.versions.toml,2,15,86
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/ReconnectTestClient.java,9,24,86
+Java,/tmp/clone_directory/protobuf/src/main/java/io/grpc/protobuf/StatusProto.java,15,95,86
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/MetadataUtils.java,24,36,86
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/RpcProtocolVersionsUtil.java,15,29,85
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/BinderServerBuilder.java,19,64,85
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/ParcelableInputStreamTest.java,23,21,85
+Java,/tmp/clone_directory/gcp-csm-observability/src/main/java/io/grpc/gcp/csm/observability/CsmObservability.java,19,56,85
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/SslContextProvider.java,19,31,85
+Gradle,/tmp/clone_directory/alts/build.gradle,14,5,84
+Markdown,/tmp/clone_directory/examples/example-gauth/README.md,21,0,84
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/client/EnvoyProtoDataTest.java,6,18,84
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/AuthorizationUtilTest.java,15,16,83
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/Http2ControlFrameLimitEncoder.java,11,24,83
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/AbstractStub.java,23,157,83
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/metrics/v3/stats.proto,41,290,83
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/service/status/v3/csds.proto,45,73,83
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/HandshakerServiceChannel.java,17,25,82
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/CompositeCallCredentialsTest.java,16,15,82
+Java,/tmp/clone_directory/authz/src/test/java/io/grpc/authz/FileWatcherAuthorizationServerInterceptorTest.java,6,15,82
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/JsonParserTest.java,26,18,82
+Gradle,/tmp/clone_directory/cronet/build.gradle,11,1,82
+Gradle,/tmp/clone_directory/netty/build.gradle,10,4,82
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/config_source.proto,48,154,82
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/overload/v3/overload.proto,43,82,82
+Java,/tmp/clone_directory/census/src/main/java/io/grpc/census/InternalCensusStatsAccessor.java,9,32,81
+Starlark,/tmp/clone_directory/alts/BUILD.bazel,6,1,80
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/MockAltsHandshakerResp.java,13,21,80
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ChannelLoggerImpl.java,13,15,80
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/Rescheduler.java,14,22,80
+Java,/tmp/clone_directory/examples/example-oauth/src/test/java/io/grpc/examples/oauth/AuthClientTest.java,14,26,80
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/multiplex/EchoService.java,13,18,80
+Java,/tmp/clone_directory/examples/src/test/java/io/grpc/examples/header/HeaderServerInterceptorTest.java,11,30,80
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/TokenAttachingTracerFactoryTest.java,15,18,80
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/ForwardingFrameWriter.java,20,16,80
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/FaultConfig.java,27,18,80
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/AndroidComponentAddress.java,19,91,79
+C++,/tmp/clone_directory/compiler/src/java_plugin/cpp/java_plugin.cpp,12,20,79
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/MaxConnectionIdleManager.java,15,29,79
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/MetricRecorder.java,19,62,79
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/ForwardingClientStreamTracer.java,20,16,79
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/CertificateUtilsTest.java,11,24,79
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/PriorityLoadBalancerProvider.java,15,16,79
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WeightedRoundRobinLoadBalancerProvider.java,12,18,79
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/ForwardingTestUtil.java,8,52,78
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/PendingAuthListenerTest.java,20,4,78
+Java,/tmp/clone_directory/examples/example-jwt-auth/src/test/java/io/grpc/examples/jwtauth/AuthClientTest.java,14,26,78
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/deadline/DeadlineServer.java,17,24,78
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/AdaptiveThrottlerTest.java,19,27,78
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/SharedCallCounterMap.java,13,18,78
+Java,/tmp/clone_directory/benchmarks/src/jmh/java/io/grpc/benchmarks/netty/StreamingPingPongsPerSecondBenchmark.java,13,37,77
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingClientStreamTracer.java,21,18,77
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/ChannelAndServerBuilderTest.java,15,28,77
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/FilterChainSelectorManagerTest.java,18,15,77
+Markdown,/tmp/clone_directory/examples/example-reflection/README.md,30,0,76
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/advanced/HelloJsonServer.java,12,34,76
+Java,/tmp/clone_directory/util/src/jmh/java/io/grpc/util/HandlerRegistryBenchmark.java,12,24,76
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/address.proto,42,83,76
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/TsiPeer.java,18,24,75
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/HandshakerServiceChannelTest.java,9,16,75
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/EquivalentAddressGroup.java,15,71,75
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/ActiveTransportTracker.java,15,20,75
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/JsonParser.java,11,22,75
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/AtomicBackoffTest.java,15,19,75
+Java,/tmp/clone_directory/examples/example-xds/src/main/java/io/grpc/examples/helloworldxds/XdsHelloWorldServer.java,3,32,75
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/advanced/HelloJsonClient.java,16,32,75
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/retrying/RetryingHelloWorldServer.java,11,26,75
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/SecretGrpclbNameResolverProviderTest.java,16,17,75
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/AltsHandshakerTest.java,8,17,75
+Protocol Buffers,/tmp/clone_directory/services/src/main/proto/grpc/binlog/v1/binarylog.proto,27,107,75
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/NettyTsiHandshaker.java,19,63,74
+Java,/tmp/clone_directory/examples/example-alts/src/main/java/io/grpc/examples/alts/HelloWorldAltsServer.java,7,19,74
+Java,/tmp/clone_directory/examples/example-tls/src/main/java/io/grpc/examples/helloworldtls/HelloWorldServerTls.java,14,27,74
+Gradle,/tmp/clone_directory/android/build.gradle,9,1,73
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/PendingAuthListener.java,15,14,73
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/BinderServerTransportTest.java,17,29,73
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/unix.sh,17,30,73
+XML,/tmp/clone_directory/examples/android/routeguide/app/src/main/res/layout/activity_routeguide.xml,8,0,73
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/AnonymousInProcessSocketAddressTest.java,12,19,73
+Java,/tmp/clone_directory/opentelemetry/src/test/java/io/grpc/opentelemetry/GrpcOpenTelemetryTest.java,17,16,73
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/GrpcServerRule.java,22,54,73
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/BindServiceFlagsTest.java,10,15,72
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/ActiveTransportTrackerTest.java,23,18,72
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/KeepAliveEnforcer.java,16,29,72
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/RetryingNameResolver.java,16,37,72
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ClientTransportFactoryTest.java,7,15,72
+Java,/tmp/clone_directory/examples/example-alts/src/main/java/io/grpc/examples/alts/HelloWorldAltsClient.java,7,21,72
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RingHashLoadBalancerProvider.java,11,20,72
+Java,/tmp/clone_directory/authz/src/main/java/io/grpc/authz/FileWatcherAuthorizationServerInterceptor.java,11,31,71
+Java,/tmp/clone_directory/benchmarks/src/test/java/io/grpc/benchmarks/driver/LoadClientTest.java,11,18,71
+Markdown,/tmp/clone_directory/examples/example-tls/README.md,24,0,71
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/customloadbalance/CustomLoadBalanceClient.java,14,23,71
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/experimental/CompressingHelloWorldServerAllMethods.java,11,28,71
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/loadbalance/ExampleNameResolver.java,19,20,71
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/nameresolve/ExampleNameResolver.java,17,20,71
+Java,/tmp/clone_directory/googleapis/src/test/java/io/grpc/googleapis/GoogleCloudToProdNameResolverProviderTest.java,10,18,71
+Java,/tmp/clone_directory/netty/src/jmh/java/io/grpc/netty/OutboundHeadersBenchmark.java,10,21,71
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/UtilsTest.java,11,18,71
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/test/java/io/grpc/okhttp/internal/framed/Http2Test.java,12,15,71
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/ReadBenchmark.java,6,17,70
+Java,/tmp/clone_directory/examples/example-oauth/src/main/java/io/grpc/examples/oauth/AuthClient.java,17,37,70
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/multiplex/MultiplexingServer.java,13,26,70
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/SendGrpcFrameCommand.java,15,18,70
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpTransportTest.java,11,17,70
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/AbstractAsyncStubTest.java,12,15,70
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/AbstractBlockingStubTest.java,12,15,70
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/AbstractFutureStubTest.java,12,15,70
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RouteLookupServiceClusterSpecifierPlugin.java,12,16,70
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/XdsLogger.java,13,41,70
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ConfiguratorRegistryTest.java,15,16,69
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/OneWayBinderProxy.java,14,77,69
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServiceConfigState.java,10,47,69
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsNameResolverProvider.java,14,34,69
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/MatcherParser.java,4,18,69
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/ReferenceCountingMap.java,15,46,69
+Gradle,/tmp/clone_directory/all/build.gradle,10,0,68
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ForwardingChannelBuilderTest.java,12,18,68
+Bourne Shell,/tmp/clone_directory/buildscripts/sonatype-upload.sh,14,28,68
+Java,/tmp/clone_directory/census/src/main/java/io/grpc/census/internal/ObservabilityCensusConstants.java,14,21,68
+Java,/tmp/clone_directory/examples/example-orca/src/main/java/io/grpc/examples/orca/CustomBackendMetricsClient.java,10,28,68
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/ClientTransportLifecycleManager.java,12,23,68
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalNettyChannelBuilder.java,19,33,68
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/FakeNameResolverProvider.java,16,17,68
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsInternalContextTest.java,7,16,67
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ForwardingChannelBuilder2Test.java,12,18,67
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/testing/DeadlineSubject.java,16,49,67
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/PickFirstLoadBalancerProvider.java,13,21,67
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/RetryPolicy.java,7,22,67
+Gradle,/tmp/clone_directory/examples/example-jwt-auth/build.gradle,14,7,67
+Gradle,/tmp/clone_directory/examples/example-oauth/build.gradle,14,7,67
+Java,/tmp/clone_directory/examples/example-xds/src/main/java/io/grpc/examples/helloworldxds/XdsHelloWorldClient.java,8,34,67
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/loadbalance/LoadBalanceServer.java,12,15,67
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/nameresolve/NameResolveServer.java,12,15,67
+Gradle,/tmp/clone_directory/gcp-observability/build.gradle,10,4,67
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/FaultFilterTest.java,8,16,67
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/CompositeCallCredentials.java,13,19,66
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/PingTracker.java,15,33,66
+DOS Batch,/tmp/clone_directory/examples/gradlew.bat,21,2,66
+Java,/tmp/clone_directory/examples/src/test/java/io/grpc/examples/header/HeaderClientInterceptorTest.java,8,31,66
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/interceptors/InetAddressUtil.java,7,21,66
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/JettyTlsUtil.java,13,25,66
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/InetAddressUtil.java,7,21,66
+Gradle,/tmp/clone_directory/authz/build.gradle,13,1,65
+Java,/tmp/clone_directory/benchmarks/src/jmh/java/io/grpc/benchmarks/netty/UnaryCallQpsBenchmark.java,13,36,65
+Java,/tmp/clone_directory/binder/src/androidTest/java/io/grpc/binder/internal/OneWayBinderProxies.java,15,51,65
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/FlowControllerTest.java,11,17,65
+Java,/tmp/clone_directory/examples/example-jwt-auth/src/main/java/io/grpc/examples/jwtauth/AuthClient.java,16,37,65
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/keepalive/KeepAliveServer.java,11,42,65
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/interceptors/ConditionalClientInterceptorTest.java,8,18,65
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/stub/StubConfigTest.java,9,25,65
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/TestCasesTest.java,10,20,65
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/StatusLine.java,10,12,65
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/MetricReport.java,14,19,65
+Java,/tmp/clone_directory/servlet/src/jettyTest/java/io/grpc/servlet/JettyInteropTest.java,12,16,65
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/MessagePrinter.java,7,23,65
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/LifecycleOnDestroyHelperTest.java,17,15,64
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/BackoffPolicyRetrySchedulerTest.java,21,24,64
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/JndiResourceResolverTest.java,11,18,64
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpReadableBuffer.java,13,19,64
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/SubchannelStateManagerImplTest.java,23,15,64
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/ChannelzService.java,12,29,64
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/StreamRecorder.java,14,40,64
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/type/matcher/v3/matcher.proto,31,44,64
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/GoogleDefaultChannelCredentials.java,10,35,63
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerStreamTracer.java,18,55,63
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingManagedChannel.java,17,15,63
+XML,/tmp/clone_directory/examples/android/clientcache/app/src/main/res/layout/activity_clientcacheexample.xml,10,0,63
+Java,/tmp/clone_directory/examples/example-gauth/src/main/java/io/grpc/examples/googleAuth/GoogleAuthClient.java,15,56,63
+Java,/tmp/clone_directory/examples/example-jwt-auth/src/main/java/io/grpc/examples/jwtauth/AuthServer.java,13,28,63
+Java,/tmp/clone_directory/examples/example-oauth/src/main/java/io/grpc/examples/oauth/AuthServer.java,13,28,63
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/preserialized/PreSerializedClient.java,9,36,63
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/waitforready/WaitForReadyClient.java,11,58,63
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/logging/TraceLoggingHelperTest.java,10,18,63
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyChannelProviderTest.java,11,16,63
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/endpoint/v3/endpoint_components.proto,34,114,63
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/InternalCheckGcpEnvironment.java,10,25,62
+Gradle,/tmp/clone_directory/examples/example-debug/build.gradle,13,5,62
+Gradle,/tmp/clone_directory/examples/example-gcp-csm-observability/build.gradle,10,6,62
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/experimental/CompressingHelloWorldServerPerMethod.java,11,28,62
+Java,/tmp/clone_directory/servlet/src/test/java/io/grpc/servlet/ServletServerBuilderTest.java,9,20,62
+Protocol Buffers,/tmp/clone_directory/benchmarks/src/main/proto/grpc/testing/messages.proto,30,79,61
+Java,/tmp/clone_directory/core/src/jmh/java/io/grpc/internal/SerializingExecutorBenchmark.java,11,26,61
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ForwardingNameResolverTest.java,14,18,61
+Java,/tmp/clone_directory/examples/example-gcp-observability/src/main/java/io/grpc/examples/gcpobservability/GcpObservabilityServer.java,12,24,61
+Gradle,/tmp/clone_directory/examples/example-tls/build.gradle,11,7,61
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpChannelProviderTest.java,11,16,61
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/internal/testing/StreamRecorder.java,14,38,61
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/HealthProducerHelper.java,13,48,61
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/FilterChainSelectorManager.java,12,22,61
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalLogId.java,16,36,60
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/PickSubchannelArgsImpl.java,12,19,60
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/WritableBufferTestBase.java,18,26,60
+Java,/tmp/clone_directory/examples/example-reflection/src/main/java/io/grpc/examples/reflection/ReflectionServer.java,10,11,60
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbConfig.java,14,20,60
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/CancelServerStreamCommand.java,15,20,60
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/BaseAbstractStubTest.java,15,18,60
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/endpoint/v3/load_report.proto,37,71,60
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/AltsContextUtilTest.java,16,16,59
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/NameResolverTest.java,8,16,59
+Gradle,/tmp/clone_directory/core/build.gradle,12,3,59
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/MaxConnectionIdleManagerTest.java,17,19,59
+Gradle,/tmp/clone_directory/examples/example-alts/build.gradle,12,8,59
+Java,/tmp/clone_directory/examples/example-debug/src/main/java/io/grpc/examples/debug/HostnameDebuggableServer.java,9,23,59
+Java,/tmp/clone_directory/examples/example-gcp-observability/src/main/java/io/grpc/examples/gcpobservability/GcpObservabilityClient.java,8,26,59
+Java,/tmp/clone_directory/examples/example-tls/src/main/java/io/grpc/examples/helloworldtls/HelloWorldClientTls.java,9,33,59
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/advanced/JsonMarshaller.java,9,30,59
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/deadline/DeadlineClient.java,13,38,59
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/header/CustomHeaderServer.java,10,27,59
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/Http2NettyTest.java,6,21,59
+Java,/tmp/clone_directory/netty/src/jmh/java/io/grpc/netty/MethodDescriptorBenchmark.java,12,21,59
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyReadableBufferTest.java,10,18,59
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/Filter.java,14,37,59
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/TlsContextManagerImpl.java,11,24,59
+Gradle,/tmp/clone_directory/api/build.gradle,11,1,58
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalConfigSelector.java,17,50,58
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/DecompressorRegistryTest.java,16,22,58
+Markdown,/tmp/clone_directory/benchmarks/README.md,23,0,58
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ApplicationThreadDeframerListener.java,11,24,58
+Gradle,/tmp/clone_directory/examples/android/clientcache/app/build.gradle,6,1,58
+Gradle,/tmp/clone_directory/examples/example-gauth/build.gradle,11,7,58
+Markdown,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/manualflowcontrol/README.md,18,0,58
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/ManagedChannelImplIntegrationTest.java,6,16,58
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/CdsLoadBalancerProvider.java,15,30,58
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/SharedCallCounterMapTest.java,9,18,58
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/TestCertificateProvider.java,11,16,58
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AltsServerCredentials.java,12,26,57
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/PartialForwardingServerCall.java,15,22,57
+JSON,/tmp/clone_directory/core/src/test/resources/io/grpc/internal/test_retry_service_config.json,1,0,57
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/loadbalance/LoadBalanceClient.java,13,15,57
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/nameresolve/NameResolveClient.java,9,19,57
+Java,/tmp/clone_directory/googleapis/src/main/java/io/grpc/googleapis/GoogleCloudToProdNameResolverProvider.java,13,18,57
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/InProcessServerBuilderTest.java,16,18,57
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/TestCases.java,8,25,57
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/WrrLocalityLoadBalancerProvider.java,8,20,57
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ForwardingServerBuilderTest.java,11,18,56
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ThreadLocalContextStorageTest.java,14,19,56
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/InboundParcelablePolicy.java,16,35,56
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ConnectivityStateManager.java,12,35,56
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ExponentialBackoffPolicy.java,15,25,56
+Markdown,/tmp/clone_directory/examples/example-xds/README.md,14,0,56
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/SecretGrpclbNameResolverProvider.java,12,33,56
+Protocol Buffers,/tmp/clone_directory/grpclb/src/main/proto/grpc/lb/v1/load_balancer.proto,30,65,56
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OptionalMethodTest.java,14,18,56
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/SubchannelStateManagerImpl.java,9,17,56
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/TempFileSink.java,9,19,56
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/CertificateUtils.java,5,34,56
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/AddressFilter.java,10,25,56
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterResolverLoadBalancerProviderTest.java,7,16,56
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/CallOptionsBenchmark.java,11,28,55
+Gradle,/tmp/clone_directory/examples/example-gcp-observability/build.gradle,10,6,55
+Java,/tmp/clone_directory/examples/example-hostname/src/main/java/io/grpc/examples/hostname/HostnameServer.java,3,29,55
+Gradle,/tmp/clone_directory/examples/example-xds/build.gradle,11,5,55
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldServer.java,10,26,55
+Protocol Buffers,/tmp/clone_directory/gcp-observability/src/main/proto/grpc/observabilitylog/v1/observabilitylog.proto,14,58,55
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/ProtocolNegotiationEvent.java,14,21,55
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/UdsNameResolverTest.java,10,16,55
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/ForwardingSubchannel.java,13,18,55
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AltsChannelBuilder.java,13,30,54
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalMetadata.java,15,59,54
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ConnectivityStateInfoTest.java,11,17,54
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/upload_artifacts.sh,25,19,54
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/NoopClientStream.java,21,19,54
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/PickFirstLoadBalancerProviderTest.java,12,15,54
+Gradle,/tmp/clone_directory/examples/example-hostname/build.gradle,10,5,54
+Markdown,/tmp/clone_directory/examples/example-oauth/README.md,19,0,54
+Gradle,/tmp/clone_directory/examples/example-orca/build.gradle,10,1,54
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/header/CustomHeaderClient.java,8,30,54
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/TokenAttachingTracerFactory.java,11,19,54
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/InProcessServerTest.java,11,15,54
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/GrpcHttp2ConnectionHandler.java,12,49,54
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/SendResponseHeadersCommand.java,13,18,54
+Gradle,/tmp/clone_directory/services/build.gradle,9,2,54
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/BinaryLogProviderImpl.java,10,29,54
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/CdsLoadBalancerProviderTest.java,9,16,54
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/ServerSecurityPolicy.java,14,47,53
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingConnectionClientTransport.java,12,15,53
+JSON,/tmp/clone_directory/core/src/test/resources/io/grpc/internal/test_hedging_service_config.json,1,0,53
+Gradle,/tmp/clone_directory/examples/android/helloworld/app/build.gradle,5,1,53
+Gradle,/tmp/clone_directory/examples/android/routeguide/app/build.gradle,5,1,53
+Gradle,/tmp/clone_directory/examples/android/strictmode/app/build.gradle,5,2,53
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/helloworld/HelloWorldClient.java,9,38,53
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyTestUtil.java,13,20,53
+Gradle,/tmp/clone_directory/rls/build.gradle,7,2,53
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/opencensus.proto,26,38,53
+Starlark,/tmp/clone_directory/BUILD.bazel,7,13,52
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/FakeChannelCrypter.java,11,15,52
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/TransactionUtils.java,15,32,52
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/RlsLoadBalancerProvider.java,9,20,52
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/PartialMetricInstrument.java,11,30,51
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/BinderServerBuilderTest.java,9,15,51
+Starlark,/tmp/clone_directory/compiler/BUILD.bazel,5,1,51
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/CallTracer.java,12,18,51
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ForwardingClientStreamListenerTest.java,9,15,51
+Markdown,/tmp/clone_directory/examples/example-jwt-auth/README.md,19,0,51
+Starlark,/tmp/clone_directory/examples/example-tls/BUILD.bazel,6,0,51
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/interceptors/ConfigFilterHelper.java,17,39,51
+Protocol Buffers,/tmp/clone_directory/istio-interop-testing/third_party/istio/src/main/proto/test/echo/proto/echo.proto,10,32,51
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/GrpcHttp2InboundHeadersTest.java,13,19,51
+Gradle,/tmp/clone_directory/okhttp/build.gradle,9,2,51
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/ChildLoadBalancerHelper.java,12,25,51
+Protocol Buffers,/tmp/clone_directory/services/src/main/proto/grpc/reflection/v1alpha/reflection.proto,21,72,51
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/LeastRequestLoadBalancerProvider.java,8,21,51
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/filters/http/fault/v3/fault.proto,31,77,51
+Text,/tmp/clone_directory/NOTICE.txt,12,0,50
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/StatusBenchmark.java,10,34,50
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ManagedChannelProvider.java,17,58,50
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AbstractReadableBuffer.java,13,18,50
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/DnsNameResolverProvider.java,10,30,50
+Gradle,/tmp/clone_directory/istio-interop-testing/build.gradle,12,2,50
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpTlsUpgrader.java,7,40,50
+Protocol Buffers,/tmp/clone_directory/rls/src/main/proto/grpc/lookup/v1/rls_config.proto,27,148,50
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/internal/HealthCheckingRoundRobinLoadBalancerProvider.java,10,19,50
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertProviderServerSslContextProvider.java,7,16,50
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/filters/common/fault/v3/fault.proto,23,24,50
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/metadata/v3/metadata.proto,20,45,50
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServiceProvidersTestUtil.java,5,27,49
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/StaticTestingClassLoader.java,6,21,49
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/InternalHandlerRegistry.java,11,20,49
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ScParser.java,7,17,49
+XML,/tmp/clone_directory/examples/android/helloworld/app/src/main/res/layout/activity_helloworld.xml,7,0,49
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/experimental/CompressingHelloWorldClient.java,8,32,49
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/Http2NettyLocalChannelTest.java,7,20,49
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/TlsServerHandshakerSocketFactory.java,5,18,49
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RouterFilter.java,11,18,49
+Bourne Shell,/tmp/clone_directory/xds/third_party/xds/import.sh,8,18,49
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/LeakSafeOneWayBinder.java,11,45,48
+Bourne Shell,/tmp/clone_directory/buildscripts/make_dependencies.sh,7,11,48
+Starlark,/tmp/clone_directory/core/BUILD.bazel,5,3,48
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/FailingClientTransport.java,8,18,48
+Markdown,/tmp/clone_directory/documentation/android-channel-builder.md,12,0,48
+XML,/tmp/clone_directory/examples/android/strictmode/app/src/main/res/layout/activity_strictmodehelloworld.xml,7,0,48
+Starlark,/tmp/clone_directory/examples/example-alts/BUILD.bazel,6,0,48
+Java,/tmp/clone_directory/examples/example-servlet/src/main/java/io/grpc/servlet/examples/helloworld/HelloWorldServlet.java,9,22,48
+Java,/tmp/clone_directory/gae-interop-testing/gae-jdk8/src/main/java/io/grpc/testing/integration/LongLivedChannel.java,5,23,48
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/MutableHandlerRegistry.java,8,44,48
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/InternalXdsAttributes.java,14,46,48
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertProviderClientSslContextProvider.java,7,16,48
+Java,/tmp/clone_directory/android/src/main/java/io/grpc/android/UdsChannelBuilder.java,6,39,47
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/DecompressorRegistryBenchmark.java,12,21,47
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ConnectivityStateInfo.java,12,38,47
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/Transport.java,8,26,47
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/PeerUids.java,9,47,47
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/BackoffPolicyRetryScheduler.java,11,27,47
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/SerializeReentrantCallsDirectExecutor.java,8,26,47
+Gradle,/tmp/clone_directory/examples/example-reflection/build.gradle,9,1,47
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/keepalive/KeepAliveClient.java,10,38,47
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyServerTransportTest.java,12,15,47
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/ErrorCode.java,24,24,47
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/Endpoints.java,16,26,47
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertProviderClientSslContextProviderFactory.java,8,21,47
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertProviderServerSslContextProviderFactory.java,8,21,47
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/admin/v3/config_dump.proto,26,62,47
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/route/v3/route.proto,26,92,47
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/tracing/v3/custom_tag.proto,24,31,47
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,28,0,46
+Java,/tmp/clone_directory/android/src/main/java/io/grpc/android/UdsSocketFactory.java,12,19,46
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Grpc.java,11,78,46
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/LifecycleOnDestroyHelper.java,6,33,46
+Markdown,/tmp/clone_directory/compiler/README.md,12,0,46
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ConscryptLoader.java,7,27,46
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerCallInfoImpl.java,9,18,46
+Java,/tmp/clone_directory/examples/example-debug/src/main/java/io/grpc/examples/debug/HostnameGreeter.java,8,19,46
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/UdsNameResolverProvider.java,10,15,46
+Gradle,/tmp/clone_directory/util/build.gradle,10,1,46
+Java,/tmp/clone_directory/authz/src/test/java/io/grpc/authz/AuthorizationServerInterceptorTest.java,6,15,45
+Markdown,/tmp/clone_directory/examples/example-alts/example-alts/README.md,17,0,45
+Starlark,/tmp/clone_directory/examples/example-hostname/BUILD.bazel,5,0,45
+Markdown,/tmp/clone_directory/examples/example-hostname/README.md,15,0,45
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/OpenTelemetryMetricsResource.java,25,17,45
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/ChildLoadBalancerHelperTest.java,11,15,45
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/cluster/v3/outlier_detection.proto,29,96,45
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/ByteBufTestUtils.java,8,19,44
+Java,/tmp/clone_directory/authz/src/main/java/io/grpc/authz/AuthorizationServerInterceptor.java,7,24,44
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/TestParcelable.java,11,16,44
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/android-interop.sh,11,9,44
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/DnsNameResolverProviderTest.java,8,16,44
+Java,/tmp/clone_directory/examples/src/test/java/io/grpc/examples/helloworld/HelloWorldClientTest.java,13,45,44
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/InProcessChannelBuilderTest.java,11,18,44
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/UdsNettyChannelProvider.java,9,16,44
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpServerProviderTest.java,11,16,44
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/proxy/Request.java,13,25,44
+Gradle,/tmp/clone_directory/protobuf-lite/build.gradle,8,0,44
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/TempFileSinkTest.java,7,18,44
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/PriorityLoadBalancerProviderTest.java,8,16,44
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/filters/http/router/v3/router.proto,18,75,44
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AltsContext.java,10,38,43
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/ComputeEngineChannelCredentials.java,5,24,43
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsInternalContext.java,12,53,43
+Java,/tmp/clone_directory/android-interop-testing/src/main/java/io/grpc/android/integrationtest/TesterOkHttpChannelBuilder.java,4,19,43
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/AttributesBenchmark.java,10,27,43
+Java,/tmp/clone_directory/buildSrc/src/main/java/io/grpc/gradle/CheckPackageLeakageTask.java,6,17,43
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/HedgingPolicy.java,7,22,43
+Java,/tmp/clone_directory/examples/example-jwt-auth/src/main/java/io/grpc/examples/jwtauth/JwtServerInterceptor.java,8,25,43
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/ForwardingLoadBalancerHelperTest.java,6,16,43
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/WrrLocalityLoadBalancerProviderTest.java,8,18,43
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerCall.java,22,205,42
+DOS Batch,/tmp/clone_directory/buildscripts/make_dependencies.bat,9,0,42
+C/C++ Header,/tmp/clone_directory/compiler/src/java_plugin/cpp/java_generator.h,16,22,42
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpReadableBufferTest.java,11,23,42
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Header.java,10,8,42
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/AdminInterface.java,5,26,42
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/InternalCheckGcpEnvironmentTest.java,6,15,41
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/WriteBenchmark.java,6,17,41
+Python,/tmp/clone_directory/buildscripts/set_github_status.py,9,14,41
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/Util.java,6,22,41
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/UdsNameResolver.java,10,15,41
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyServerProviderTest.java,10,16,41
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/security/certprovider/CommonCertProviderTestUtils.java,8,17,41
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerProvider.java,13,49,40
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/LoadBalancerMatchers.java,10,18,40
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/FailingClientStream.java,8,25,40
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ReflectionLongAdderCounterTest.java,10,15,40
+Java,/tmp/clone_directory/examples/example-hostname/src/test/java/io/grpc/examples/hostname/HostnameGreeterTest.java,9,21,40
+Gradle,/tmp/clone_directory/grpclb/build.gradle,8,0,40
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpChannelProvider.java,9,18,40
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/ForwardingLoadBalancer.java,10,18,40
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/AddressFilterTest.java,5,16,40
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AsyncSemaphore.java,6,16,39
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Codec.java,10,31,39
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ForwardingServerCallTest.java,10,18,39
+Java,/tmp/clone_directory/binder/src/testFixtures/java/io/grpc/binder/PeerUidTestHelper.java,10,14,39
+Gradle,/tmp/clone_directory/bom/build.gradle,4,3,39
+DOS Batch,/tmp/clone_directory/buildscripts/kokoro/windows32.bat,13,0,39
+Protocol Buffers,/tmp/clone_directory/compiler/src/test/proto/grpc/testing/compiler/test.proto,19,35,39
+Java,/tmp/clone_directory/examples/example-oauth/src/main/java/io/grpc/examples/oauth/OAuth2ServerInterceptor.java,8,27,39
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/customloadbalance/ShufflingPickFirstLoadBalancerProvider.java,9,17,39
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/routeguide/RouteGuideUtil.java,8,33,39
+Protocol Buffers,/tmp/clone_directory/interop-testing/src/main/proto/grpc/testing/test.proto,20,45,39
+Java,/tmp/clone_directory/servlet/src/main/java/io/grpc/servlet/GrpcServlet.java,10,29,39
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/CommonTlsContextUtil.java,9,20,39
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/value.proto,19,22,39
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsClientOptions.java,13,21,38
+Markdown,/tmp/clone_directory/android-interop-testing/README.md,13,0,38
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AtomicBackoff.java,10,26,38
+Markdown,/tmp/clone_directory/cronet/README.md,16,0,38
+Gradle,/tmp/clone_directory/examples/example-servlet/build.gradle,7,2,38
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/InProcessTest.java,10,24,38
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyChannelProvider.java,8,16,38
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettySocketSupport.java,9,27,38
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpWritableBuffer.java,11,15,38
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/HeadersTest.java,10,21,38
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/CompressorRegistry.java,10,30,37
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/LoadBalancerProvider.java,14,70,37
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Server.java,17,127,37
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/StatusExceptionTest.java,12,18,37
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/StatusRuntimeExceptionTest.java,11,18,37
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/psm-interop-build-java.sh,11,42,37
+Protocol Buffers,/tmp/clone_directory/examples/android/routeguide/app/src/main/proto/route_guide.proto,18,60,37
+Protocol Buffers,/tmp/clone_directory/examples/src/main/proto/route_guide.proto,18,60,37
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/ObservabilityConfig.java,17,41,37
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalProtocolNegotiator.java,12,18,37
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/AbstractHttp2HeadersTest.java,4,17,37
+Gradle,/tmp/clone_directory/opentelemetry/build.gradle,9,1,37
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/cluster/v3/circuit_breaker.proto,21,63,37
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/endpoint/v3/endpoint.proto,21,72,37
+Bazel,/tmp/clone_directory/WORKSPACE,12,0,36
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ConfiguratorRegistry.java,9,33,36
+Protocol Buffers,/tmp/clone_directory/benchmarks/src/main/proto/grpc/testing/stats.proto,15,26,36
+Java,/tmp/clone_directory/core/src/jmh/java/io/grpc/internal/StatsTraceContextBenchmark.java,7,24,36
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingNameResolver.java,11,18,36
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/InUseStateAggregator.java,9,36,36
+Java,/tmp/clone_directory/examples/example-hostname/src/main/java/io/grpc/examples/hostname/HostnameGreeter.java,7,17,36
+Java,/tmp/clone_directory/examples/example-xds/src/main/java/io/grpc/examples/helloworldxds/HostnameGreeter.java,7,17,36
+Starlark,/tmp/clone_directory/netty/BUILD.bazel,2,6,36
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyWritableBufferAllocatorTest.java,9,19,36
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Util.java,9,30,36
+Java,/tmp/clone_directory/stub/src/test/java/io/grpc/stub/AbstractStubTest.java,11,15,36
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/FilterRegistry.java,9,19,36
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/HttpConnectionManager.java,10,22,36
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/ServerSslContextProviderFactory.java,8,17,36
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/route/v3/scoped_route.proto,16,81,36
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/filters/http/rbac/v3/rbac.proto,15,25,36
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/common/v3/common.proto,18,60,36
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/BufUnwrapper.java,10,39,35
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalServiceProviders.java,9,30,35
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/FlowController.java,10,39,35
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/ParcelHolder.java,10,31,35
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/ClientStreamTracerTest.java,9,16,35
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/AbstractReadableBufferTest.java,9,18,35
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ManagedClientTransportTest.java,12,16,35
+Java,/tmp/clone_directory/examples/example-jwt-auth/src/main/java/io/grpc/examples/jwtauth/JwtCredential.java,7,21,35
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InternalInProcess.java,5,27,35
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalNettyServerBuilder.java,10,25,35
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/StreamObservers.java,9,45,35
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/ClientSslContextProviderFactory.java,8,17,35
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/PartialForwardingClientCall.java,10,22,34
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ForwardingServerCallListenerTest.java,10,18,34
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/PickSubchannelArgsMatcher.java,7,18,34
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/PeerUid.java,10,34,34
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/FailingClientStreamTest.java,8,18,34
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/InUseStateAggregatorTest.java,11,18,34
+Markdown,/tmp/clone_directory/examples/example-orca/README.md,10,0,34
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/header/HeaderClientInterceptor.java,7,24,34
+Markdown,/tmp/clone_directory/gae-interop-testing/README.md,14,0,34
+Java,/tmp/clone_directory/gcp-observability/interop/src/main/java/io/grpc/gcp/observability/interop/TestServiceInterop.java,4,18,34
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpWritableBufferAllocatorTest.java,9,18,34
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/BinaryLogProviderImplTest.java,6,16,34
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertificateProviderRegistry.java,9,36,34
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/GoogleDefaultXdsCredentialsProviderTest.java,7,16,34
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/InsecureXdsCredentialsProviderTest.java,7,16,34
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/internal/TlsXdsCredentialsProviderTest.java,7,16,34
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsClientOptionsTest.java,7,16,33
+Java,/tmp/clone_directory/api/src/context/java/io/grpc/ThreadLocalContextStorage.java,7,33,33
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ChoiceChannelCredentials.java,8,25,33
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/ByteBufInputStream.java,8,18,33
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/SquelchLateMessagesAvailableDeframerListener.java,9,22,33
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ExponentialBackoffPolicyTest.java,7,18,33
+Bazel,/tmp/clone_directory/examples/WORKSPACE,10,9,33
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/AnonymousInProcessTransportTest.java,8,16,33
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/SslSocketFactoryServerCredentials.java,10,17,33
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/SecretRoundRobinLoadBalancerProvider.java,11,20,33
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterSpecifierPluginRegistry.java,9,15,33
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/transport_sockets/tls/v3/secret.proto,16,7,33
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/regex.proto,13,51,33
+Markdown,/tmp/clone_directory/MAINTAINERS.md,3,0,32
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/AbstractClientTransportFactoryTest.java,8,15,32
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/CronetWritableBuffer.java,10,15,32
+Markdown,/tmp/clone_directory/examples/example-gcp-csm-observability/README.md,11,0,32
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalNettyServerCredentials.java,7,30,32
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyWritableBuffer.java,11,18,32
+Java,/tmp/clone_directory/rls/src/test/java/io/grpc/rls/ChildLbResolvedAddressFactoryTest.java,10,15,32
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/InternalClientCalls.java,10,24,32
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/ring_hash/v3/ring_hash.proto,16,49,32
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/annotations/v3/status.proto,15,12,32
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/core/v3/resource_locator.proto,16,70,32
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/MetricSink.java,14,83,31
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ChoiceChannelCredentialsTest.java,4,16,31
+Dockerfile,/tmp/clone_directory/buildscripts/grpc-java-artifacts/Dockerfile,3,1,31
+Bourne Shell,/tmp/clone_directory/istio-interop-testing/third_party/istio/import.sh,9,18,31
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyWritableBufferTest.java,8,18,31
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/TlsVersion.java,7,22,31
+Gradle,/tmp/clone_directory/protobuf/build.gradle,8,2,31
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/protobuf/services/internal/HealthCheckingRoundRobinLoadBalancerProviderTest.java,6,18,31
+Gradle,/tmp/clone_directory/testing/build.gradle,8,1,31
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/listener/v3/quic_config.proto,17,32,31
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/lightstep.proto,14,14,31
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/zipkin.proto,17,38,31
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/InternalLogIdTest.java,8,15,30
+Gradle,/tmp/clone_directory/census/build.gradle,7,1,30
+Starlark,/tmp/clone_directory/grpclb/BUILD.bazel,2,0,30
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/CreateStreamCommand.java,8,19,30
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalNettyChannelCredentials.java,8,25,30
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpServerProvider.java,8,17,30
+Java,/tmp/clone_directory/protobuf/src/main/java/io/grpc/protobuf/ProtoUtils.java,9,55,30
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/socket_option.proto,16,35,30
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/substitution_format_string.proto,15,80,30
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/service/load_stats/v3/lrs.proto,16,56,30
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/string.proto,17,31,30
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ForwardingScheduledExecutorService.java,7,18,29
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/InternalConfigSelectorTest.java,5,16,29
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/SocketAddressValidator.java,8,30,29
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/BinderChannelCredentials.java,9,32,29
+diff,/tmp/clone_directory/buildscripts/data-plane-api-no-envoy.patch,4,17,29
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/gae-interop.sh,11,15,29
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/FailingClientTransportTest.java,6,18,29
+Markdown,/tmp/clone_directory/examples/example-servlet/README.md,8,0,29
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/BackendAddressGroup.java,8,16,29
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/AnonymousInProcessSocketAddress.java,9,20,29
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/InProcessSocketAddressTest.java,6,15,29
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/AutoWindowSizingOnTest.java,5,17,29
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/FixedKeyManagerFactory.java,8,16,29
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/FixedTrustManagerFactory.java,8,16,29
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServerProvider.java,8,16,29
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/TestMethodDescriptors.java,7,32,29
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterImplLoadBalancerProviderTest.java,6,18,29
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/udpa/annotations/migrate.proto,14,12,29
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/annotations/v3/migrate.proto,8,9,29
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/MetricRecorder.java,10,71,28
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/xds_v3.sh,6,0,28
+Java,/tmp/clone_directory/census/src/main/java/io/grpc/census/internal/DeprecatedCensusConstants.java,5,16,28
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ReadableBuffer.java,21,129,28
+Markdown,/tmp/clone_directory/examples/example-gcp-observability/README.md,11,0,28
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/header/HeaderServerInterceptor.java,7,18,28
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InProcessSocketAddress.java,10,39,28
+Starlark,/tmp/clone_directory/rls/BUILD.bazel,2,0,28
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/LruCache.java,13,54,28
+Protocol Buffers,/tmp/clone_directory/rls/src/main/proto/grpc/lookup/v1/rls.proto,8,26,28
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/ForwardingClientStreamTracerTest.java,6,16,28
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/ForwardingLoadBalancerTest.java,6,16,28
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ReplacingClassLoader.java,7,21,27
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BlockPool.java,10,43,27
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/BoundClientAddress.java,9,17,27
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/BinderChannelCredentialsTest.java,5,0,27
+DOS Batch,/tmp/clone_directory/buildscripts/kokoro/windows64.bat,9,0,27
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingClientStreamListener.java,9,15,27
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/NameResolverFactoryToProviderFacade.java,9,15,27
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ForwardingClientStreamTracerTest.java,6,16,27
+Gradle,/tmp/clone_directory/gcp-csm-observability/build.gradle,5,0,27
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/interceptors/ConditionalClientInterceptor.java,7,18,27
+Java,/tmp/clone_directory/googleapis/src/main/java/io/grpc/googleapis/GoogleCloudToProdExperimentalNameResolverProvider.java,7,18,27
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalProtocolNegotiationEvent.java,8,18,27
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/FrameReader.java,13,101,27
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/ServerCallStreamObserver.java,16,148,27
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/ReferenceCounted.java,9,25,27
+XML,/tmp/clone_directory/android-interop-testing/src/main/AndroidManifest.xml,4,2,26
+Java,/tmp/clone_directory/api/src/jmh/java/io/grpc/AttachDetachBenchmark.java,5,19,26
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/PartialForwardingServerCallListener.java,8,23,26
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/StatusRuntimeException.java,9,41,26
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/AsyncSecurityPolicy.java,6,39,26
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/LogExceptionRunnable.java,9,19,26
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ReadableBuffersArrayTest.java,7,20,26
+Java,/tmp/clone_directory/examples/src/test/java/io/grpc/examples/helloworld/HelloWorldServerTest.java,10,36,26
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/logging/TraceLoggingHelper.java,8,15,26
+Java,/tmp/clone_directory/interop-testing/src/main/java/io/grpc/testing/integration/Http2TestCases.java,7,25,26
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/GracefulServerCloseCommand.java,8,19,26
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/OpenTelemetryPlugin.java,12,27,26
+Java,/tmp/clone_directory/protobuf/src/test/java/io/grpc/protobuf/ProtoUtilsTest.java,6,16,26
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/InternalCallMetricRecorder.java,9,20,26
+Gradle,/tmp/clone_directory/stub/build.gradle,5,0,26
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/AbstractBlockingStub.java,6,38,26
+Java,/tmp/clone_directory/util/src/test/java/io/grpc/util/ForwardingSubchannelTest.java,6,16,26
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/XdsTransportFactory.java,14,53,26
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/trust/CertificateUtils.java,6,25,26
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/XdsTestLoadReportingService.java,6,20,26
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/dynamic_ot.proto,8,9,26
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/metadata.proto,14,68,26
+Bourne Shell,/tmp/clone_directory/xds/third_party/googleapis/import.sh,8,17,26
+Bourne Shell,/tmp/clone_directory/xds/third_party/protoc-gen-validate/import.sh,8,18,26
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ChoiceServerCredentials.java,6,25,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ClientCall.java,15,250,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingClientCall.java,7,25,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingServerCall.java,8,25,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalConfiguratorRegistry.java,8,18,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerMethodDefinition.java,7,35,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/StatusException.java,8,41,25
+Starlark,/tmp/clone_directory/examples/example-gauth/BUILD.bazel,2,0,25
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/internal/OpenTelemetryConstants.java,11,15,25
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/HealthStatusManager.java,10,54,25
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/HealthStatusManager.java,9,56,25
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/AbstractAsyncStub.java,6,38,25
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/AbstractFutureStub.java,6,39,25
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ThreadSafeRandom.java,11,15,25
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/proxy_protocol.proto,12,13,25
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/listener/v3/udp_listener_config.proto,12,15,25
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/http_tracer.proto,12,23,25
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/CallCredentials.java,12,82,24
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/CompositeChannelCredentials.java,8,21,24
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/StreamTracer.java,11,74,24
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/NoopMetricSink.java,7,18,24
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/ByteBufOutputMarshaller.java,6,20,24
+Java,/tmp/clone_directory/census/src/main/java/io/grpc/census/InternalCensusTracingAccessor.java,6,26,24
+Java,/tmp/clone_directory/gcp-observability/src/test/java/io/grpc/gcp/observability/ObservabilityTestHelper.java,6,15,24
+Java,/tmp/clone_directory/grpclb/src/test/java/io/grpc/grpclb/FakeSocketAddress.java,7,15,24
+Gradle,/tmp/clone_directory/inprocess/build.gradle,7,0,24
+Starlark,/tmp/clone_directory/okhttp/BUILD.bazel,1,0,24
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/SslSocketFactoryChannelCredentials.java,8,17,24
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/FrameWriter.java,12,71,24
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/ChildLbResolvedAddressFactory.java,7,16,24
+Starlark,/tmp/clone_directory/testing/BUILD.bazel,1,0,24
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/GoogleDefaultXdsCredentialsProvider.java,7,19,24
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/InsecureXdsCredentialsProvider.java,8,19,24
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/TlsXdsCredentialsProvider.java,8,19,24
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/http_uri.proto,10,24,24
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/struct.proto,11,56,24
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/v3/percent.proto,12,21,24
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/v3/range.proto,13,13,24
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/ComputeEngineChannelBuilder.java,8,21,23
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/GoogleDefaultChannelBuilder.java,8,21,23
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ManagedChannel.java,11,112,23
+Gradle,/tmp/clone_directory/auth/build.gradle,4,0,23
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/BinderChannelBuilderTest.java,5,16,23
+Bourne Shell,/tmp/clone_directory/buildscripts/run_arm64_tests_in_docker.sh,7,17,23
+YAML,/tmp/clone_directory/buildscripts/xds-k8s/cloudbuild.yaml,3,0,23
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ManagedClientTransport.java,11,81,23
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/loadbalance/ExampleNameResolverProvider.java,8,16,23
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/nameresolve/ExampleNameResolverProvider.java,8,16,23
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/GrpclbConstants.java,9,36,23
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpWritableBufferTest.java,7,18,23
+Starlark,/tmp/clone_directory/protobuf-lite/BUILD.bazel,2,4,23
+Protocol Buffers,/tmp/clone_directory/services/src/main/proto/grpc/health/v1/health.proto,8,32,23
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/http/v3/path_transformation.proto,11,24,23
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/core/v3/collection_entry.proto,12,20,23
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AuthorizationUtil.java,5,21,22
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/FailingClientCall.java,10,16,22
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalManagedChannelProvider.java,8,16,22
+Java,/tmp/clone_directory/benchmarks/src/jmh/java/io/grpc/benchmarks/CancellableInterceptor.java,5,16,22
+Java,/tmp/clone_directory/benchmarks/src/jmh/java/io/grpc/benchmarks/ThreadlessExecutor.java,5,18,22
+Protocol Buffers,/tmp/clone_directory/benchmarks/src/main/proto/grpc/testing/services.proto,13,41,22
+Bourne Shell,/tmp/clone_directory/buildscripts/sync-protos.sh,7,1,22
+Java,/tmp/clone_directory/examples/example-oauth/src/main/java/io/grpc/examples/oauth/ExampleOAuth2Credentials.java,6,32,22
+XML,/tmp/clone_directory/gae-interop-testing/gae-jdk8/src/main/webapp/WEB-INF/web.xml,0,0,22
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Protocol.java,10,69,22
+Starlark,/tmp/clone_directory/stub/BUILD.bazel,2,2,22
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RingHashOptions.java,7,33,22
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/type/matcher/v3/string.proto,13,31,22
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingClientCallListener.java,7,26,21
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ForwardingServerCallListener.java,7,26,21
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/PartialForwardingClientCallListener.java,7,23,21
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/CompositeChannelCredentialsTest.java,4,16,21
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/NoopServerCall.java,9,25,21
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/StringMarshaller.java,6,16,21
+Protocol Buffers,/tmp/clone_directory/benchmarks/src/main/proto/grpc/testing/payloads.proto,6,15,21
+Java,/tmp/clone_directory/cronet/src/test/java/io/grpc/cronet/CronetWritableBufferAllocatorTest.java,6,17,21
+JSON,/tmp/clone_directory/examples/src/main/resources/io/grpc/examples/retrying/retrying_service_config.json,1,0,21
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/CancelClientStreamCommand.java,6,18,21
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalNettySocketSupport.java,7,18,21
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/InternalOkHttpServerBuilder.java,6,19,21
+Gradle,/tmp/clone_directory/testing-proto/build.gradle,5,0,21
+Java,/tmp/clone_directory/testing/src/test/java/io/grpc/testing/TlsTestingTest.java,4,16,21
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/opentelemetry.proto,10,29,21
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/service/discovery/v3/ads.proto,9,14,21
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/AltsContextUtil.java,7,29,20
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AltsHandshakerOptionsTest.java,6,16,20
+Bourne Shell,/tmp/clone_directory/buildscripts/run_in_docker.sh,3,4,20
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ClientTransport.java,8,67,20
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ForwardingDeframerListener.java,6,18,20
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/SharedResourcePool.java,6,18,20
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/InternalCronetCallOptions.java,6,25,20
+XML,/tmp/clone_directory/examples/android/clientcache/app/src/main/AndroidManifest.xml,3,0,20
+XML,/tmp/clone_directory/examples/android/helloworld/app/src/main/AndroidManifest.xml,3,0,20
+XML,/tmp/clone_directory/examples/android/strictmode/app/src/main/AndroidManifest.xml,3,0,20
+Java,/tmp/clone_directory/examples/src/main/java/io/grpc/examples/preserialized/ByteArrayMarshaller.java,4,19,20
+JSON,/tmp/clone_directory/examples/src/main/resources/io/grpc/examples/hedging/hedging_service_config.json,2,0,20
+Gradle,/tmp/clone_directory/googleapis/build.gradle,5,0,20
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/HandshakerSocketFactory.java,5,17,20
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ConfigOrError.java,8,23,20
+Protocol Buffers,/tmp/clone_directory/alts/src/main/proto/grpc/gcp/transport_security_common.proto,6,21,19
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/HandlerRegistry.java,7,36,19
+XML,/tmp/clone_directory/binder/src/androidTest/AndroidManifest.xml,3,0,19
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/internal/BoundClientAddressTest.java,5,15,19
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/psm-interop-test-java.sh,4,4,19
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ClientStream.java,14,75,19
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerStream.java,14,77,19
+Markdown,/tmp/clone_directory/examples/android/README.md,8,0,19
+Protocol Buffers,/tmp/clone_directory/examples/android/clientcache/app/src/main/proto/helloworld.proto,8,17,19
+XML,/tmp/clone_directory/examples/android/routeguide/app/src/main/AndroidManifest.xml,4,0,19
+Protocol Buffers,/tmp/clone_directory/interop-testing/src/main/proto/grpc/testing/metrics.proto,7,24,19
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyChannelCredentials.java,7,16,19
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/HeadersMode.java,6,28,19
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerUtil.java,4,47,19
+Starlark,/tmp/clone_directory/util/BUILD.bazel,1,0,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/backoff.proto,8,10,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/event_service_config.proto,7,3,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/datadog.proto,8,7,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/client_side_weighted_round_robin/v3/client_side_weighted_round_robin.proto,11,41,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/least_request/v3/least_request.proto,11,38,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/number.proto,9,5,19
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/data/orca/v3/orca_load_report.proto,13,26,19
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/FailingCallCredentials.java,5,18,18
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/AltsChannelBuilderTest.java,6,16,18
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ExperimentalApi.java,3,39,18
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ContextRunnable.java,7,19,18
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/InsightBuilder.java,6,31,18
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/PickDetailsConsumerImpl.java,5,19,18
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ByteWritableBufferTest.java,7,15,18
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/FakeCallCredentials.java,5,18,18
+Gradle,/tmp/clone_directory/examples/android/routeguide/build.gradle,4,3,18
+Protocol Buffers,/tmp/clone_directory/examples/src/main/proto/grpc/examples/echo/echo.proto,6,24,18
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/PlaintextHandshakerSocketFactory.java,3,18,18
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Credentials.java,3,21,18
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/BinaryLogs.java,6,29,18
+Protocol Buffers,/tmp/clone_directory/services/src/test/proto/io/grpc/reflection/testing/dynamic_reflection_test_depth_two.proto,6,13,18
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/ClusterSpecifierPlugin.java,8,24,18
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/InternalRbacFilter.java,5,17,18
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/cluster/v3/filter.proto,10,12,18
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/resolver.proto,9,9,18
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/path.proto,8,5,18
+YAML,/tmp/clone_directory/.github/workflows/lock.yml,3,0,17
+Starlark,/tmp/clone_directory/api/BUILD.bazel,1,0,17
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Internal.java,3,29,17
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/NameResolverProvider.java,6,58,17
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/ParcelableUtils.java,7,33,17
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/UntrustedSecurityPolicies.java,5,25,17
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/internal/Bindable.java,8,40,17
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/InternalServer.java,9,48,17
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/WritableBufferAllocatorTestBase.java,8,18,17
+Gradle,/tmp/clone_directory/examples/android/strictmode/build.gradle,3,3,17
+JSON,/tmp/clone_directory/examples/example-gcp-observability/src/main/resources/io/grpc/examples/gcpobservability/gcp_observability_client_config.json,0,0,17
+JSON,/tmp/clone_directory/examples/example-gcp-observability/src/main/resources/io/grpc/examples/gcpobservability/gcp_observability_server_config.json,0,0,17
+Starlark,/tmp/clone_directory/inprocess/BUILD.bazel,1,0,17
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyWritableBufferAllocator.java,8,28,17
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/ProtocolNegotiator.java,9,40,17
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/SendPingCommand.java,6,18,17
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyChannelCredentialsTest.java,4,16,17
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpSettingsUtil.java,6,18,17
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/SslSocketFactoryChannelCredentialsTest.java,4,16,17
+Starlark,/tmp/clone_directory/protobuf/BUILD.bazel,1,0,17
+Java,/tmp/clone_directory/services/src/test/java/io/grpc/services/AdminInterfaceChannelzTest.java,5,15,17
+Protocol Buffers,/tmp/clone_directory/services/src/test/proto/io/grpc/reflection/testing/reflection_test_depth_three.proto,6,14,17
+Protocol Buffers,/tmp/clone_directory/testing-proto/src/main/proto/io/grpc/testing/protobuf/simpleservice.proto,9,25,17
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/InternalSharedXdsClientPoolProvider.java,5,19,17
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/RbacConfig.java,5,16,17
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsChannelCredentials.java,5,23,17
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsServerCredentials.java,5,23,17
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/filter_state.proto,8,4,17
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/udpa/annotations/status.proto,11,12,17
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/TsiFrameProtector.java,7,37,16
+Protocol Buffers,/tmp/clone_directory/alts/src/main/proto/grpc/gcp/altscontext.proto,12,22,16
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalServerInterceptors.java,4,18,16
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/linux_artifacts.sh,5,2,16
+DOS Batch,/tmp/clone_directory/buildscripts/kokoro/windows.bat,6,0,16
+Starlark,/tmp/clone_directory/census/BUILD.bazel,1,0,16
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/FixedObjectPool.java,6,18,16
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/SingleMessageProducer.java,5,15,16
+Gradle,/tmp/clone_directory/gcp-observability/interop/build.gradle,6,0,16
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/SubchannelPool.java,10,45,16
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/ManagedChannelBuilderSpiTest.java,4,16,16
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpTlsUpgraderTest.java,6,17,16
+Protocol Buffers,/tmp/clone_directory/services/src/test/proto/io/grpc/reflection/testing/reflection_test.proto,7,15,16
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/ClientCallStreamObserver.java,8,88,16
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/http_service.proto,7,12,16
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/service.proto,7,3,16
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/matcher/v3/node.proto,8,5,16
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/core/v3/resource_name.proto,9,17,16
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/internal/AesGcmAeadCrypterTest.java,4,15,15
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/DoubleHistogramMetricInstrument.java,5,18,15
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalMethodDescriptor.java,6,19,15
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalStatus.java,6,28,15
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/LongHistogramMetricInstrument.java,5,18,15
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/NoopClientCall.java,8,25,15
+Starlark,/tmp/clone_directory/auth/BUILD.bazel,1,0,15
+Java,/tmp/clone_directory/binder/src/test/java/io/grpc/binder/PeerUidTest.java,4,15,15
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AtomicLongCounter.java,6,21,15
+Protocol Buffers,/tmp/clone_directory/examples/example-gcp-observability/src/main/proto/helloworld/helloworld.proto,5,19,15
+Protocol Buffers,/tmp/clone_directory/examples/example-oauth/src/main/proto/helloworld.proto,5,17,15
+Protocol Buffers,/tmp/clone_directory/examples/example-reflection/src/main/proto/helloworld/helloworld.proto,5,17,15
+Protocol Buffers,/tmp/clone_directory/examples/example-xds/src/main/proto/helloworld/helloworld.proto,5,17,15
+Protocol Buffers,/tmp/clone_directory/examples/src/main/proto/hello_streaming.proto,5,17,15
+Protocol Buffers,/tmp/clone_directory/examples/src/main/proto/helloworld.proto,5,17,15
+Starlark,/tmp/clone_directory/googleapis/BUILD.bazel,1,0,15
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/InternalGrpclbConstantsAccessor.java,6,20,15
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettyServerCredentials.java,6,16,15
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettySslContextChannelCredentials.java,4,20,15
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NettySslContextServerCredentials.java,4,20,15
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/InternalOkHttpChannelBuilder.java,7,19,15
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/OkHttpWritableBufferAllocator.java,7,29,15
+Protocol Buffers,/tmp/clone_directory/services/src/test/proto/io/grpc/reflection/testing/reflection_test_depth_two.proto,7,14,15
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/udp_socket_config.proto,7,10,15
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/listener/v3/api_listener.proto,7,12,15
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/clusters/aggregate/v3/cluster.proto,6,6,15
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/v3/semantic_version.proto,8,4,15
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/service/orca/v3/orca.proto,7,14,15
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/type/matcher/v3/regex.proto,8,23,15
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/TsiHandshaker.java,10,90,14
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ChannelLogger.java,5,43,14
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalManagedChannelBuilder.java,5,18,14
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalServerProvider.java,6,16,14
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/BinderInternal.java,5,26,14
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/IBinderReceiver.java,6,18,14
+Dockerfile,/tmp/clone_directory/buildscripts/observability-test/Dockerfile,12,25,14
+YAML,/tmp/clone_directory/codecov.yml,0,0,14
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/GrpcAttributes.java,5,27,14
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/CronetWritableBufferAllocator.java,5,22,14
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/MetricRecorderHelper.java,6,32,14
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/annotations/RpcMethod.java,7,49,14
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/TlsContextManager.java,7,35,14
+Java,/tmp/clone_directory/xds/src/test/java/io/grpc/xds/ClusterSpecifierPluginRegistryTest.java,4,16,14
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/core/v3/extension.proto,7,11,14
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/config/trace/v3/trace.proto,3,0,14
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/wrr_locality/v3/wrr_locality.proto,6,5,14
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AeadCrypter.java,6,57,13
+Bourne Shell,/tmp/clone_directory/android-interop-testing/wait-for-emulator.sh,2,1,13
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/InsecureChannelCredentialsTest.java,4,16,13
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/TlsChannelCredentialsTest.java,4,16,13
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/IntegerMarshaller.java,5,16,13
+Dockerfile,/tmp/clone_directory/buildscripts/grpc-java-artifacts/Dockerfile.multiarch.base,1,0,13
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ClientStreamListener.java,5,55,13
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/Framer.java,10,28,13
+Java,/tmp/clone_directory/core/src/testFixtures/java/io/grpc/internal/NoopClientStreamListener.java,6,18,13
+Java,/tmp/clone_directory/examples/android/routeguide/app/src/main/java/io/grpc/routeguideexample/RouteGuideUtil.java,6,19,13
+Java,/tmp/clone_directory/examples/example-jwt-auth/src/main/java/io/grpc/examples/jwtauth/Constant.java,6,18,13
+Java,/tmp/clone_directory/interop-testing/src/test/java/io/grpc/testing/integration/TestServiceClientTest.java,4,16,13
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalGracefulServerCloseCommand.java,5,18,13
+Java,/tmp/clone_directory/netty/src/test/java/io/grpc/netty/NettyClientTransportFactoryTest.java,3,15,13
+Java,/tmp/clone_directory/okhttp/src/test/java/io/grpc/okhttp/OkHttpClientTransportFactoryTest.java,3,15,13
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/InternalOpenTelemetryPlugin.java,5,18,13
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/Locality.java,6,16,13
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/round_robin/v3/round_robin.proto,7,8,13
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/type/v3/http.proto,7,4,13
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/udpa/annotations/security.proto,9,12,13
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/annotations/v3/security.proto,8,9,13
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/ComputeEngineChannelBuilderTest.java,4,15,12
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/GoogleDefaultChannelBuilderTest.java,4,15,12
+ProGuard,/tmp/clone_directory/android-interop-testing/proguard-rules.pro,4,11,12
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/MetricInstrument.java,9,54,12
+Dockerfile,/tmp/clone_directory/buildscripts/grpc-java-artifacts/Dockerfile.ubuntu2004.base,1,0,12
+Bourne Shell,/tmp/clone_directory/buildscripts/observability-test/run.sh,4,13,12
+Gradle,/tmp/clone_directory/context/build.gradle,2,0,12
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/Stream.java,9,69,12
+Java,/tmp/clone_directory/cronet/src/main/java/io/grpc/cronet/InternalCronetChannelBuilder.java,6,43,12
+Dockerfile,/tmp/clone_directory/examples/example-gcp-csm-observability/csm-client.Dockerfile,9,26,12
+Dockerfile,/tmp/clone_directory/examples/example-gcp-csm-observability/csm-server.Dockerfile,9,26,12
+Java,/tmp/clone_directory/examples/example-oauth/src/main/java/io/grpc/examples/oauth/Constant.java,6,18,12
+Java,/tmp/clone_directory/inprocess/src/test/java/io/grpc/inprocess/InProcessClientTransportFactoryTest.java,4,15,12
+Starlark,/tmp/clone_directory/netty/shaded/BUILD.bazel,1,1,12
+Protocol Buffers,/tmp/clone_directory/services/src/test/proto/io/grpc/reflection/testing/dynamic_reflection_test.proto,6,19,12
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsClientPoolFactory.java,5,15,12
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/XdsInitializationException.java,5,18,12
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/annotations/deprecation.proto,7,15,12
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/core/v3/authority.proto,7,3,12
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/core/v3/extension.proto,5,9,12
+YAML,/tmp/clone_directory/.github/workflows/gradle-wrapper-validation.yml,2,0,11
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/AltsHandshakerOptions.java,5,16,11
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/ChannelCrypterNetty.java,8,57,11
+Java,/tmp/clone_directory/alts/src/test/java/io/grpc/alts/AltsServerBuilderTest.java,4,15,11
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InsecureChannelCredentials.java,4,16,11
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalClientInterceptors.java,3,18,11
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/linux_aarch64.sh,6,0,11
+Dockerfile,/tmp/clone_directory/buildscripts/xds-k8s/test-client.Dockerfile,5,6,11
+Dockerfile,/tmp/clone_directory/buildscripts/xds-k8s/test-server.Dockerfile,5,6,11
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/Deframer.java,10,47,11
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/StreamListener.java,5,48,11
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/TimeProvider.java,4,20,11
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/ForcefulCloseCommand.java,5,19,11
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/GracefulCloseCommand.java,5,19,11
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/SubchannelStateManager.java,6,27,11
+Bourne Shell,/tmp/clone_directory/run-test-client.sh,0,0,11
+Bourne Shell,/tmp/clone_directory/run-test-server.sh,0,0,11
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/InternalGrpcBootstrapperImpl.java,4,18,11
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsCredentialsProvider.java,6,57,11
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/XdsLbPolicies.java,3,15,11
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/load_balancing_policies/pick_first/v3/pick_first.proto,5,6,11
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/udpa/type/v1/typed_struct.proto,6,29,11
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/core/v3/context_params.proto,5,7,11
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/type/v3/typed_struct.proto,5,28,11
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/LongGaugeMetricInstrument.java,3,18,10
+Java,/tmp/clone_directory/auth/src/main/java/io/grpc/auth/MoreCallCredentials.java,4,26,10
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/macos.sh,5,3,10
+Bourne Shell,/tmp/clone_directory/buildscripts/sign-local-repo.sh,3,13,10
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/LongCounterFactory.java,2,22,10
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerTransport.java,5,32,10
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InsecureFromHttp1ChannelCredentials.java,4,17,10
+Java,/tmp/clone_directory/opentelemetry/src/main/java/io/grpc/opentelemetry/InternalGrpcOpenTelemetry.java,4,18,10
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/InternalMetricRecorder.java,5,20,10
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/CallStreamObserver.java,8,116,10
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/TlsTesting.java,4,24,10
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/udpa/annotations/versioning.proto,6,7,10
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/annotations/v3/versioning.proto,5,5,10
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,7,3,9
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_report.md,5,5,9
+XML,/tmp/clone_directory/android-interop-testing/src/androidTest/AndroidManifest.xml,3,0,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ClientTransportFilter.java,3,39,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ConnectivityState.java,6,57,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/DoubleCounterMetricInstrument.java,3,18,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalDecompressorRegistry.java,3,18,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/LongCounterMetricInstrument.java,3,18,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerInterceptor.java,3,47,9
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerTransportFilter.java,3,45,9
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/AbstractSubchannel.java,4,23,9
+Java,/tmp/clone_directory/core/src/test/java/io/grpc/internal/ReadableBuffersByteBufferTest.java,5,19,9
+Gradle,/tmp/clone_directory/examples/settings.gradle,1,0,9
+Java,/tmp/clone_directory/gcp-observability/src/main/java/io/grpc/gcp/observability/logging/Sink.java,4,24,9
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InternalInProcessChannelBuilder.java,5,19,9
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/InternalInProcessServerBuilder.java,4,19,9
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/InternalWriteBufferingAndExceptionHandlerUtils.java,4,22,9
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/UnhelpfulSecurityProvider.java,4,18,9
+Java,/tmp/clone_directory/okhttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Variant.java,6,26,9
+Protocol Buffers,/tmp/clone_directory/protobuf-lite/src/test/proto/simple_recursive.proto,3,1,9
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/certprovider/CertificateProviderProvider.java,4,34,9
+Protocol Buffers,/tmp/clone_directory/xds/third_party/envoy/src/main/proto/envoy/extensions/transport_sockets/tls/v3/cert.proto,3,0,9
+Bourne Shell,/tmp/clone_directory/android-interop-testing/start-emulator.sh,3,2,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/BinaryLog.java,5,19,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Channel.java,4,44,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Compressor.java,5,28,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Decompressor.java,5,28,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/HasByteBuffer.java,5,38,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalCallOptions.java,3,21,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ProxyDetector.java,3,52,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerCallExecutorSupplier.java,4,22,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerCallHandler.java,3,42,8
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/MetricInstrumentRegistryAccessor.java,4,18,8
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/ApiConstants.java,4,20,8
+Java,/tmp/clone_directory/binder/src/main/java/io/grpc/binder/SecurityPolicy.java,5,43,8
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/kokoro.sh,1,0,8
+Properties,/tmp/clone_directory/buildscripts/xds-k8s/logging-json.properties,0,0,8
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerTransportListener.java,5,36,8
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/TransportProvider.java,3,23,8
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/WritableBuffer.java,7,43,8
+XML,/tmp/clone_directory/examples/example-servlet/src/main/webapp/WEB-INF/jboss-web.xml,0,1,8
+Gradle,/tmp/clone_directory/examples/example-tls/settings.gradle,0,0,8
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/NegotiationType.java,5,28,8
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/BinaryLogSink.java,3,21,8
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/annotations/GrpcGenerated.java,3,26,8
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ClientInterceptor.java,3,51,7
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InsecureServerCredentials.java,3,16,7
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalKnownTransport.java,3,20,7
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalServer.java,3,21,7
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/SecurityLevel.java,4,28,7
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/ManagedChannelRegistryAccessor.java,3,16,7
+Java,/tmp/clone_directory/api/src/testFixtures/java/io/grpc/ServerRegistryAccessor.java,3,16,7
+Java,/tmp/clone_directory/benchmarks/src/main/java/io/grpc/benchmarks/qps/Configuration.java,3,30,7
+Properties,/tmp/clone_directory/buildscripts/xds-k8s/logging-debug.properties,0,0,7
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/BackoffPolicy.java,4,21,7
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ConnectionClientTransport.java,3,22,7
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ObjectPool.java,4,26,7
+XML,/tmp/clone_directory/examples/android/routeguide/app/src/main/res/values/styles.xml,3,2,7
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,7
+Java,/tmp/clone_directory/protobuf/src/main/java/io/grpc/protobuf/ProtoMethodDescriptorSupplier.java,3,23,7
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/Throttler.java,5,33,7
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/client/MessagePrettyPrinter.java,3,15,7
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/udpa/annotations/sensitive.proto,5,8,7
+Protocol Buffers,/tmp/clone_directory/xds/third_party/xds/src/main/proto/xds/annotations/v3/sensitive.proto,4,5,7
+Java,/tmp/clone_directory/alts/src/main/java/io/grpc/alts/internal/TsiHandshakerFactory.java,4,17,6
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Drainable.java,4,30,6
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalInstrumented.java,4,24,6
+Bourne Shell,/tmp/clone_directory/buildscripts/build_docker.sh,2,0,6
+Bourne Shell,/tmp/clone_directory/buildscripts/kokoro/release_artifacts.sh,3,1,6
+Properties,/tmp/clone_directory/buildscripts/xds-k8s/logging.properties,0,0,6
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerStreamListener.java,4,35,6
+XML,/tmp/clone_directory/examples/android/routeguide/app/src/main/res/values/colors.xml,1,0,6
+Markdown,/tmp/clone_directory/examples/android/strictmode/README.md,2,0,6
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/StreamIdHolder.java,4,19,6
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/NegotiationType.java,3,29,6
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/StreamObserver.java,4,79,6
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/ask_question.md,3,4,5
+XML,/tmp/clone_directory/android-interop-testing/src/main/res/color/focus.xml,0,0,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Configurator.java,3,28,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/Detachable.java,4,35,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalMayRequireSpecificExecutor.java,2,15,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalWithLogId.java,2,27,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/KnownLength.java,3,27,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ProxiedSocketAddress.java,3,19,5
+Java,/tmp/clone_directory/api/src/test/java/io/grpc/ServiceProvidersTestAbstractProvider.java,3,20,5
+Gradle,/tmp/clone_directory/buildSrc/build.gradle,0,0,5
+Bourne Shell,/tmp/clone_directory/buildscripts/observability-test/build_docker.sh,4,17,5
+Bourne Shell,/tmp/clone_directory/buildscripts/qemu_helpers/prepare_qemu.sh,4,17,5
+Properties,/tmp/clone_directory/buildscripts/xds_logging.properties,0,0,5
+Starlark,/tmp/clone_directory/context/BUILD.bazel,0,0,5
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/LongCounter.java,3,20,5
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/RetryScheduler.java,4,27,5
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ServerListener.java,4,30,5
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/ThreadOptimizedDeframer.java,2,22,5
+ProGuard,/tmp/clone_directory/examples/android/routeguide/app/proguard-rules.pro,2,10,5
+ProGuard,/tmp/clone_directory/examples/android/strictmode/app/proguard-rules.pro,2,10,5
+XML,/tmp/clone_directory/examples/example-servlet/src/main/webapp/WEB-INF/glassfish-web.xml,0,1,5
+Properties,/tmp/clone_directory/examples/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Properties,/tmp/clone_directory/examples/logging.properties,1,2,5
+XML,/tmp/clone_directory/gae-interop-testing/gae-jdk8/src/main/webapp/WEB-INF/appengine-web.xml,0,14,5
+Java,/tmp/clone_directory/grpclb/src/main/java/io/grpc/grpclb/DropType.java,2,18,5
+Protocol Buffers,/tmp/clone_directory/interop-testing/src/main/proto/grpc/testing/empty.proto,5,21,5
+Java,/tmp/clone_directory/protobuf/src/main/java/io/grpc/protobuf/ProtoFileDescriptorSupplier.java,3,23,5
+Java,/tmp/clone_directory/protobuf/src/main/java/io/grpc/protobuf/ProtoServiceDescriptorSupplier.java,3,23,5
+Java,/tmp/clone_directory/rls/src/main/java/io/grpc/rls/ResolvedAddressFactory.java,4,17,5
+Protocol Buffers,/tmp/clone_directory/services/src/test/proto/io/grpc/reflection/testing/reflection_test_depth_two_alternate.proto,3,15,5
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/security/Closeable.java,3,15,5
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/BindableService.java,2,35,4
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ChannelCredentials.java,2,41,4
+Bourne Shell,/tmp/clone_directory/buildscripts/build_artifacts_in_docker.sh,1,3,4
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/WritableBufferAllocator.java,3,23,4
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/ClientResponseObserver.java,2,36,4
+XML,/tmp/clone_directory/android-interop-testing/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,2,0,3
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/CallbackMetricInstrument.java,2,18,3
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/InternalConfigurator.java,2,18,3
+Text,/tmp/clone_directory/api/src/test/resources/io/grpc/ServiceProvidersTestAbstractProvider-multipleProvider.txt,0,0,3
+XML,/tmp/clone_directory/examples/android/clientcache/app/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/examples/android/helloworld/app/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/examples/android/routeguide/app/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/examples/android/strictmode/app/src/main/res/values/strings.xml,0,0,3
+Markdown,/tmp/clone_directory/CODE-OF-CONDUCT.md,1,0,2
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/ServerCredentials.java,2,32,2
+Text,/tmp/clone_directory/api/src/test/resources/io/grpc/ServiceProvidersTestAbstractProvider-failAtAvailableProvider.txt,0,0,2
+Text,/tmp/clone_directory/api/src/test/resources/io/grpc/ServiceProvidersTestAbstractProvider-failAtInitProvider.txt,0,0,2
+Text,/tmp/clone_directory/api/src/test/resources/io/grpc/ServiceProvidersTestAbstractProvider-failAtPriorityProvider.txt,0,0,2
+Text,/tmp/clone_directory/api/src/test/resources/io/grpc/ServiceProvidersTestAbstractProvider-unavailableProvider.txt,0,0,2
+XML,/tmp/clone_directory/binder/src/main/AndroidManifest.xml,0,0,2
+Java,/tmp/clone_directory/core/src/main/java/io/grpc/internal/package-info.java,1,21,2
+ProGuard,/tmp/clone_directory/cronet/proguard-rules.pro,2,9,2
+Java,/tmp/clone_directory/netty/src/main/java/io/grpc/netty/package-info.java,1,19,2
+Java,/tmp/clone_directory/servlet/src/main/java/io/grpc/servlet/package-info.java,1,23,2
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/internal/package-info.java,1,21,2
+Java,/tmp/clone_directory/xds/src/main/java/io/grpc/xds/package-info.java,1,27,2
+Markdown,/tmp/clone_directory/GOVERNANCE.md,0,0,1
+Java,/tmp/clone_directory/api/src/main/java/io/grpc/package-info.java,1,52,1
+Text,/tmp/clone_directory/api/src/test/resources/io/grpc/ServiceProvidersTestAbstractProvider-unknownClassProvider.txt,0,0,1
+Java,/tmp/clone_directory/auth/src/main/java/io/grpc/auth/package-info.java,1,18,1
+XML,/tmp/clone_directory/cronet/src/main/AndroidManifest.xml,0,0,1
+Gradle,/tmp/clone_directory/examples/android/strictmode/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-debug/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-gcp-csm-observability/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-gcp-observability/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-hostname/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-orca/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-reflection/settings.gradle,0,0,1
+Gradle,/tmp/clone_directory/examples/example-xds/settings.gradle,0,0,1
+Java,/tmp/clone_directory/inprocess/src/main/java/io/grpc/inprocess/package-info.java,1,18,1
+Java,/tmp/clone_directory/okhttp/src/main/java/io/grpc/okhttp/package-info.java,1,20,1
+Java,/tmp/clone_directory/protobuf-lite/src/main/java/io/grpc/protobuf/lite/package-info.java,2,19,1
+Java,/tmp/clone_directory/protobuf/src/main/java/io/grpc/protobuf/package-info.java,1,19,1
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/protobuf/services/package-info.java,1,18,1
+Java,/tmp/clone_directory/services/src/main/java/io/grpc/services/package-info.java,1,20,1
+Java,/tmp/clone_directory/stub/src/main/java/io/grpc/stub/package-info.java,1,59,1
+Java,/tmp/clone_directory/testing/src/main/java/io/grpc/testing/package-info.java,1,18,1
+Java,/tmp/clone_directory/util/src/main/java/io/grpc/util/package-info.java,1,18,1
+SUM,,45305,71519,276778

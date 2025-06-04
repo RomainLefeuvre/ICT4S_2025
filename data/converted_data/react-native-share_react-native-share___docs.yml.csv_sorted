@@ -1,0 +1,12 @@
+##[group]Environment details, 20.9167854208599, , , , 3295329, False, 
+##[group]Push the commit or tag, 6.556986025347931, , , , 1519137, True, ##[error]Cache folder paths are not retrieved for yarn with cache-dependency-path = 
+##[group]Prepare publishing assets, 4.415037257067607, , , , 405688, False, 
+##[group]Run peaceiris/actions-gh-pages@v3, 1.049117764055669, , , , 117007, True, ##[error]Process completed with exit code 127.
+##[group]Run yarn build, 1.0272611439711758, , , , 14041, True, ##[error]Unable to locate executable file: yarn. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]Run actions/setup-node@v3, 0.9179780435487104, , , , 443946, False, 
+##[group]==END_FILE==, 0.0, , , , 6257747, False, 
+##[group]GITHUB_TOKEN Permissions, 0.0, , , , 3215133, False, 
+##[group]Run actions/checkout@v4, 0.0, , , , 142741, False, 
+##[group]Setting up auth, 0.0, , , , 61510, False, 
+##[group]Fetching the repository, 0.0, , , , 453747, False, 
+##[group]Checking out the ref, 0.0, , , , 1400302, False, 

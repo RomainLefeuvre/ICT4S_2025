@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.9750574434541104, , , , 4719761, False, 
+##[group]GITHUB_TOKEN Permissions, 30.40276223160859, , , , 1465851, False, 
+##[group]Run actions/checkout@v3, 5.639392327697577, , , , 178053, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.898620443762562, , , , 233538, False, 
+##[group]Cleaning the repository, 19.25123002767759, , , , 543064, False, 
+##[group]Setting up auth, 3.435362939503126, , , , 81222, False, 
+##[group]Fetching the repository, 18.14892013275933, , , , 507287, False, 
+##[group]Checking out the ref, 11.667036427850547, , , , 332040, False, 

@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,14.050132675294776,1536134,False,
+Requested labels: self-hosted,5.199938209631878,5999446,False,
+##[group]Run actions/add-to-project@main,2.706714404818898,257981,True,##[error]Input required and not supplied: github-token

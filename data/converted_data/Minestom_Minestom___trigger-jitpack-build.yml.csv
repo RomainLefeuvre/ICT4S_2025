@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 0.0, , , , 4539636, False, 
+##[group]GITHUB_TOKEN Permissions, 8.448421028514941, , , , 137549, False, 
+##[group]Run curl "https://jitpack.io/com/github/Minestom/Minestom/${GITHUB_SHA:0:10}/build.log", 199.6325008999538, , , , 42982230, False, 

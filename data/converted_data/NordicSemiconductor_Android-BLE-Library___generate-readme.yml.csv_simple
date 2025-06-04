@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,5.928166205434751,1270077,False,
+##[group]GITHUB_TOKEN Permissions,3.947640497082256,1322010,False,
+##[group]Run git config user.email mag@nordicsemi.no,1.6100030344013108,291029,True,##[error]Process completed with exit code 128.
+Requested labels: self-hosted,1.274289972986132,5036535,False,
+##[group]Run actions/checkout@v4,0.7596774386551545,188982,False,
+##[group]Checking out the ref,0.5187443685559195,70656,False,
+##[group]Setting up auth,0.3932812015109652,67000,False,

@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,8.976815938397833,4975168,False,
+"##[group]Run gh workflow run -R Graylog2/graylog-project-internal main-build.yml --ref master -f caller_repo=diversepwmeasurement/graylog2-server -f caller_branch=master -f head_sha=0bcb5513daa2f874c6c47603edf694dc79c79d5c -f initial_actor=""diversepwmeasurement/diversepwmeasurement""",6.489165169021955,2763323,True,##[error]Process completed with exit code 4.
+"##[group]Run jq . ""$GITHUB_EVENT_PATH""",1.479529658537006,187664,False,
+##[group]GITHUB_TOKEN Permissions,0.6489165169021955,145438,False,

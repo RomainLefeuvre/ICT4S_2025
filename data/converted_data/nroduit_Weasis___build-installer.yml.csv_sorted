@@ -1,0 +1,48 @@
+Requested labels: self-hosted__dup_21, 157.0025155556911, , , , 56812766, False, 
+Requested labels: self-hosted__dup_20, 81.24105836332926, , , , 39430888, False, 
+##[group]Installed distributions, 49.32046026217038, , , , 8160705, False, 
+Requested labels: self-hosted__dup_19, 44.85864466096081, , , , 21464049, False, 
+##[group]GITHUB_TOKEN Permissions, 37.30585010955458, , , , 2784442, False, 
+##[group]Run mvn -B clean install, 28.973334681939548, , , , 3734066, True, [ERROR] Failed to execute goal biz.aQute.bnd:bnd-maven-plugin:7.0.0:bnd-process (default) on project weasis-opencv: The plugin biz.aQute.bnd:bnd-maven-plugin:7.0.0 requires Maven version 3.8.1 -> [Help 1]
+##[group]GITHUB_TOKEN Permissions__dup_44, 24.64854248406749, , , , 3080909, False, 
+##[group]GITHUB_TOKEN Permissions__dup_22, 20.96535525458715, , , , 3912885, False, 
+##[group]GITHUB_TOKEN Permissions__dup_38, 13.20590500794112, , , , 3105914, False, 
+##[group]Fetching the repository, 8.374782677655107, , , , 469003, False, 
+##[group]Run machine=macosx__dup_41, 7.899576798353335, , , , 257421, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_17, 7.390660546418916, , , , 551039, False, 
+##[group]Run actions/download-artifact@v3__dup_40, 7.179134539116118, , , , 504428, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/download-artifact@v3__dup_45, 6.382999913119073, , , , 502841, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/download-artifact@v3__dup_31, 4.72049532898058, , , , 499054, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]GITHUB_TOKEN Permissions__dup_29, 4.59372168192362, , , , 3308710, False, 
+##[group]Run mkdir -p final-dist__dup_42, 4.416624684350979, , , , 251282, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_43, 4.174283638355213, , , , 305156, False, 
+##[group]Run actions/download-artifact@v3, 3.99621695741674, , , , 504404, True, ##[error]Unable to find any artifacts for the associated workflow
+##[group]Run mkdir -p final-dist__dup_47, 3.34208519729802, , , , 226516, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_48, 3.13306458990941, , , , 305838, False, 
+[INFO] --- flatten-maven-plugin:1.3.0:clean (flatten.clean) @ weasis-parent ---, 3.093863029206262, , , , 258366, False, 
+##[group]Run actions/upload-artifact@v3__dup_37, 2.8859895655536487, , , , 350807, False, 
+##[group]Run actions/upload-artifact@v3__dup_28, 2.6500549907120523, , , , 318584, False, 
+##[group]Run machine=windows, 2.344179357859019, , , , 246975, True, ##[error]Process completed with exit code 1.
+[INFO] --- maven-install-plugin:3.1.1:install (default-install) @ weasis-parent ---, 2.234423136805088, , , , 195983, False, 
+##[group]Checking out the ref, 2.1802120193895527, , , , 22637, False, 
+##[group]Setting up auth, 2.007179319438001, , , , 61678, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.9725727794476908, , , , 98291, False, 
+[INFO] --- maven-clean-plugin:3.3.2:clean (default-clean) @ weasis-parent ---, 1.9671043616925563, , , , 270960, False, 
+##[group]Getting Git version info, 1.9379662394573804, , , , 18500, False, 
+##[group]Run mkdir -p final-dist__dup_35, 1.913552861003624, , , , 193743, True, ##[error]Process completed with exit code 1.
+##[group]Run machine=macosx, 1.9075870423185903, , , , 218638, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3, 1.9033596994670705, , , , 168568, False, 
+##[group]Run echo 4.3.1-SNAPSHOT__dup_39, 1.8342472374552077, , , , 33186, False, 
+##[group]Run mkdir -p final-dist, 1.7199765093150707, , , , 192708, True, ##[error]Process completed with exit code 1.
+##[group]Run machine=linux, 1.682595055054032, , , , 246300, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 1.1649470639583532, , , , 99821, False, 
+[INFO] --- flatten-maven-plugin:1.3.0:flatten (flatten) @ weasis-parent ---, 1.0885702710690586, , , , 70433, False, 
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (min-requirement) @ weasis-parent ---, 1.0694760728467347, , , , 116531, False, 
+##[group]Run BUNDLE_PKG="final-dist/Weasis-4.3.1-x86-64.pkg", 0.9590136125086994, , , , 49305, True, ##[error]Process completed with exit code 1.
+##[group]Run apple-actions/import-codesign-certs@v2__dup_33, 0.9515563391524078, , , , 73747, True, ##[error]Action requires macOS agent.
+##[group]Run apple-actions/import-codesign-certs@v2, 0.9500648844811492, , , , 81736, True, ##[error]Action requires macOS agent.
+##[group]Run echo 4.3.1-SNAPSHOT, 0.9351503377685656, , , , 37794, False, 
+Requested labels: self-hosted__dup_18, 0.91926130143078, , , , 5031808, False, 
+##[group]Run # Remove pack jar for launcher, 0.8272794821791267, , , , 27685, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions__dup_23, 0.7712073007875695, , , , 48153, False, 
+Requested labels: self-hosted, 0.0, , , , 4316778, False, 

@@ -1,0 +1,6 @@
+##[group]Run google/oss-fuzz/infra/cifuzz/actions/run_fuzzers@master, 800.444682051263, , , , 374840920, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/google/oss-fuzz/master/infra/cifuzz/actions/build_fuzzers/../../../build_fuzzers.Dockerfile'., 303.60158088735494, , , , 104044381, False, 
+##[group]GITHUB_TOKEN Permissions, 137.49719102617712, , , , 7256735, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/google/oss-fuzz/master/infra/cifuzz/actions/run_fuzzers/../../../run_fuzzers.Dockerfile'., 18.167512968821896, , , , 3834802, False, 
+##[group]Run google/oss-fuzz/infra/cifuzz/actions/build_fuzzers@master, 15.691879140280305, , , , 7231383, False, 
+##[group]==END_FILE==, 0.0924027666418671, , , , 4100330, False, 

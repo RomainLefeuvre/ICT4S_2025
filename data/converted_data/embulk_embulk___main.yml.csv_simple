@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,29.005051530947423,1405301,False,
+##[group]==END_FILE==__dup_8,20.31167346155102,9893263,False,
+##[group]Fetching the repository,18.315819289728704,1685536,False,
+##[group]GITHUB_TOKEN Permissions__dup_9,15.087351025215316,1279115,False,
+##[group]==END_FILE==,8.21833083314486,6759140,False,
+##[group]Run actions/checkout@v4,7.926846381128487,248956,False,
+##[group]Run hash_main=$( git rev-parse origin/main ),6.3904666846477225,243557,True,##[error]Process completed with exit code 128.
+##[group]Run git push origin master:main,6.366952876348665,1062381,True,##[error]Process completed with exit code 128.
+##[group]Fetching the repository__dup_12,6.121680894192944,457778,False,
+##[group]Run hash_master=$( git rev-parse origin/master ),3.322850755675283,29626,False,
+##[group]Setting up auth,2.7623858600902307,69345,False,
+##[group]Run actions/checkout@v4__dup_10,2.404523400889148,145449,False,
+##[group]Setting up auth__dup_11,1.2096198599092456,61872,False,

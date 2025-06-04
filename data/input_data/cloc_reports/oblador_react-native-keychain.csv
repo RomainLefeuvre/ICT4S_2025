@@ -1,0 +1,119 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (3233.7 files/s 295457.2 lines/s)"
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/Base.lproj/Main.storyboard,0,3,714
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/KeychainModule.java,159,88,602
+Objective-C,/tmp/clone_directory/RNKeychainManager/RNKeychainManager.m,99,13,498
+Markdown,/tmp/clone_directory/README.md,166,0,406
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/cipherStorage/CipherStorageBase.java,117,101,399
+JavaScript,/tmp/clone_directory/KeychainExample/App.js,21,0,367
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/KeychainModuleTests.java,69,83,286
+JavaScript,/tmp/clone_directory/index.js,46,81,266
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/cipherStorage/CipherStorageKeystoreRsaEcb.java,53,30,198
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/cipherStorage/CipherStorageKeystoreAesCbc.java,46,36,191
+Gradle,/tmp/clone_directory/KeychainExample/android/app/build.gradle,35,143,176
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/cipherStorage/CipherStorageFacebookConceal.java,39,14,161
+Bourne Shell,/tmp/clone_directory/gradlew,21,22,129
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerInteractiveBiometricTest.java,37,15,124
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerInteractiveBiometric.java,30,7,114
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/PrefsStorage.java,34,12,111
+TypeScript,/tmp/clone_directory/typings/react-native-keychain.d.ts,26,2,110
+JavaScript,/tmp/clone_directory/test_index.js,14,9,105
+Bourne Shell,/tmp/clone_directory/KeychainExample/android/gradlew,27,108,99
+Objective-C++,/tmp/clone_directory/KeychainExample/ios/KeychainExample/AppDelegate.mm,28,6,99
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/MocksForProvider.java,17,1,94
+XML,/tmp/clone_directory/KeychainExample/ios/KeychainExample.xcodeproj/xcshareddata/xcschemes/KeychainExample.xcscheme,0,0,88
+Java,/tmp/clone_directory/KeychainExample/android/app/src/main/java/com/keychainexample/newarchitecture/MainApplicationReactNativeHost.java,13,20,83
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/cipherStorage/CipherStorage.java,30,37,82
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample.xcodeproj/xcshareddata/xcschemes/KeychainExample-macOS.xcscheme,0,0,78
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerInteractiveBiometricManualRetry.java,20,12,77
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/cipherStorage/CipherStorageKeystoreRsaEcbTests.java,23,6,76
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerInteractiveBiometricManualRetryTest.java,27,7,76
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/FakeKeyStoreSpi.java,24,0,73
+Bourne Shell,/tmp/clone_directory/KeychainExample/android/keystores/create_local_release_flavor_key.sh,10,10,70
+Java,/tmp/clone_directory/KeychainExample/android/app/src/main/java/com/keychainexample/MainApplication.java,9,14,68
+DOS Batch,/tmp/clone_directory/KeychainExample/android/gradlew.bat,21,2,66
+Gradle,/tmp/clone_directory/android/build.gradle,22,16,61
+Java,/tmp/clone_directory/KeychainExample/android/app/src/debug/java/com/keychainexample/ReactNativeFlipper.java,5,8,60
+Gradle,/tmp/clone_directory/build.gradle.kts,12,12,60
+DOS Batch,/tmp/clone_directory/gradlew.bat,23,2,59
+JSON,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/Assets.xcassets/AppIcon.appiconset/Contents.json,0,0,58
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/cipherStorage/CipherStorageKeystoreAesCbcTests.java,15,3,58
+JSON,/tmp/clone_directory/package.json,0,0,58
+XML,/tmp/clone_directory/KeychainExample/ios/KeychainExample/Info.plist,0,0,55
+JSON,/tmp/clone_directory/KeychainExample/ios/KeychainExample/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+Objective-C,/tmp/clone_directory/KeychainExample/ios/KeychainExampleTests/KeychainExampleTests.m,13,0,53
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerProviderTest.java,20,9,52
+YAML,/tmp/clone_directory/.github/workflows/tests.yaml,5,0,51
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/Info.plist,0,0,47
+XML,/tmp/clone_directory/KeychainExample/ios/KeychainExample/LaunchScreen.storyboard,0,1,46
+Markdown,/tmp/clone_directory/android/README.md,24,0,44
+C++,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/MainComponentsRegistry.cpp,13,5,43
+Gradle,/tmp/clone_directory/KeychainExample/android/build.gradle,4,9,40
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/DeviceAvailability.java,11,7,38
+C++,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.cpp,7,1,37
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerNonInteractive.java,9,1,35
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandlerProvider.java,9,2,35
+Markdown,/tmp/clone_directory/KeychainExample/README.md,15,0,34
+JSON,/tmp/clone_directory/KeychainExample/package.json,0,0,33
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/KeychainPackage.java,10,0,33
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/KeychainModuleBuilder.java,8,0,32
+Java,/tmp/clone_directory/KeychainExample/android/app/src/main/java/com/keychainexample/newarchitecture/modules/MainApplicationTurboModuleManagerDelegate.java,8,10,30
+Java,/tmp/clone_directory/KeychainExample/android/app/src/main/java/com/keychainexample/MainActivity.java,7,12,29
+make,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/Android.mk,9,12,27
+C/C++ Header,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h,8,5,25
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/FakeProvider.java,9,0,25
+XML,/tmp/clone_directory/KeychainExample/android/app/src/main/AndroidManifest.xml,2,0,24
+XML,/tmp/clone_directory/KeychainExample/ios/KeychainExampleTests/Info.plist,0,0,24
+C/C++ Header,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/MainComponentsRegistry.h,8,1,23
+Java,/tmp/clone_directory/KeychainExample/android/app/src/main/java/com/keychainexample/newarchitecture/components/MainComponentsRegistry.java,6,8,22
+YAML,/tmp/clone_directory/.github/workflows/deploy.yaml,3,0,21
+Objective-C,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/AppDelegate.m,11,2,19
+Ruby,/tmp/clone_directory/RNKeychain.podspec,3,0,18
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/exceptions/CryptoFailedException.java,8,0,17
+Starlark,/tmp/clone_directory/KeychainExample/android/app/build_defs.bzl,2,1,16
+Objective-C,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/ViewController.m,7,0,15
+INI,/tmp/clone_directory/.editorconfig,4,0,14
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/SecurityLevel.java,5,5,14
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/decryptionHandler/DecryptionResultHandler.java,7,8,14
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/KeychainExample.entitlements,0,0,12
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/FakeKeyFactorySpi.java,3,0,12
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/FakeSecretKeyFactorySpi.java,5,0,12
+XML,/tmp/clone_directory/KeychainExample/android/app/src/debug/AndroidManifest.xml,2,0,11
+C++,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/MainApplicationModuleProvider.cpp,4,9,11
+C/C++ Header,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/MainApplicationModuleProvider.h,5,0,11
+XML,/tmp/clone_directory/KeychainExample/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,11
+C++,/tmp/clone_directory/KeychainExample/android/app/src/main/jni/OnLoad.cpp,1,0,10
+Gradle,/tmp/clone_directory/KeychainExample/android/settings.gradle,1,0,10
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample.xcworkspace/contents.xcworkspacedata,0,0,10
+JavaScript,/tmp/clone_directory/KeychainExample/metro.config.js,1,6,10
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/exceptions/KeyStoreAccessException.java,3,0,10
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/FakeKeyGeneratorSpi.java,3,0,10
+JavaScript,/tmp/clone_directory/react-native.config.js,0,0,10
+Objective-C,/tmp/clone_directory/KeychainExample/ios/KeychainExample/main.m,2,0,8
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+JavaScript,/tmp/clone_directory/KeychainExample/__tests__/App-test.js,3,4,7
+XML,/tmp/clone_directory/KeychainExample/macos/KeychainExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,2,0,7
+Properties,/tmp/clone_directory/KeychainExample/android/gradle.properties,8,26,6
+JSON,/tmp/clone_directory/KeychainExample/ios/KeychainExample/Images.xcassets/Contents.json,0,0,6
+JSON,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/Assets.xcassets/Contents.json,0,0,6
+Java,/tmp/clone_directory/android/src/main/java/com/oblador/keychain/exceptions/EmptyParameterException.java,1,0,6
+JSON,/tmp/clone_directory/.markdownlint.json,0,0,5
+XML,/tmp/clone_directory/KeychainExample/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/KeychainExample/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/KeychainExample/ios/KeychainExample/AppDelegate.h,3,0,5
+C/C++ Header,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/AppDelegate.h,4,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+JSON,/tmp/clone_directory/KeychainExample/app.json,0,0,4
+JavaScript,/tmp/clone_directory/KeychainExample/index.js,1,0,4
+Objective-C,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/main.m,1,0,4
+C/C++ Header,/tmp/clone_directory/RNKeychainManager/RNKeychainManager.h,3,7,4
+Java,/tmp/clone_directory/android/src/test/java/com/oblador/keychain/FakeCipherSpi.java,2,0,4
+Properties,/tmp/clone_directory/gradle.properties,0,3,4
+Gradle,/tmp/clone_directory/settings.gradle.kts,2,1,4
+XML,/tmp/clone_directory/KeychainExample/android/app/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/KeychainExample/babel.config.js,0,0,3
+C/C++ Header,/tmp/clone_directory/KeychainExample/macos/KeychainExample-macOS/ViewController.h,2,0,3
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,0,1
+JSON,/tmp/clone_directory/KeychainExample/.watchmanconfig,0,0,1
+ProGuard,/tmp/clone_directory/KeychainExample/android/app/proguard-rules.pro,1,9,0
+SUM,,1665,1107,7918

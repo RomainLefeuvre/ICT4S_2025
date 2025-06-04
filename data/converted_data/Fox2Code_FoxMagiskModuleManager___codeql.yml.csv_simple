@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew app:assembleDefaultDebug,2268.023479141973,118817570,True,##[error]Process completed with exit code 1.
+##[group]Caching Gradle state,211.29388609664892,16536804,False,
+##[group]Run android-actions/setup-android@v2,188.08216103653984,27685324,False,
+##[group]Installed distributions,131.33856723125345,13701555,False,
+##[group]Augmented user configuration file contents,77.27697951503313,4230867,False,
+##[group]Finalizing java,50.79076048089794,3541177,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.17.1/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6831 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]GITHUB_TOKEN Permissions,44.94438271781144,12132434,False,
+##[group]Waiting for processing to finish,41.27049103715891,6720992,False,
+##[group]Setup CodeQL tools,29.84932517856015,4114922,False,
+##[group]Run github/codeql-action/analyze@v2,27.189528721726308,2260249,False,
+##[group]Load language configuration,25.34096057158065,1034692,False,
+Requested labels: self-hosted,23.03905019793609,5677500,False,
+##[group]Validating workflow,15.814716947904676,2935107,False,
+##[group]Restore Gradle state from cache,13.630409871860286,1720786,False,
+##[group]Uploading results,9.603954506744673,458221,False,
+##[group]Fetching the repository,8.314444757371303,702658,False,
+##[group]Run github/codeql-action/init@v2,6.435697390293472,455004,False,
+##[group]Run actions/checkout@v3,4.382053712068733,324711,False,
+##[group]Setting up auth,1.130999733580426,78206,False,

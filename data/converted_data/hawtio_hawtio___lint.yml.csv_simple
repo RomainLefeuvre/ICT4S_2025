@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Cleaning the repository,1020.72528047333,7520880,False,
+Requested labels: self-hosted,331.17506150056664,5319241,False,
+##[group]GITHUB_TOKEN Permissions,155.2446702831726,1775259,False,
+##[group]Fetching the repository,86.21232675318115,954518,False,
+##[group]Run ./scripts/shellcheck.sh,32.07617504507679,408346,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4,30.437528006096123,305333,False,
+##[group]Setting up auth,16.820047333854234,67663,False,
+##[group]Checking out the ref,11.816923239243858,66639,False,
+##[group]Removing previously created refs_ to avoid conflicts,10.314809875411504,118452,False,

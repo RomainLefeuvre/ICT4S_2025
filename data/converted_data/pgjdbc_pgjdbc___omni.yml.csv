@@ -1,0 +1,15 @@
+##[group]==END_FILE==, 0.2970118950694608, , , , 5072755, False, 
+##[group]GITHUB_TOKEN Permissions, 4.494329100826097, , , , 157005, False, 
+##[group]Run node -e "${MATRIX_GENERATION_NODE_JS_SCRIPT}", 5.092123678464871, , , , 231552, False, 
+##[group]==END_FILE==__dup_4, 53.44801518702195, , , , 7860189, False, 
+##[group]GITHUB_TOKEN Permissions__dup_5, 26.362448219993546, , , , 3554481, False, 
+##[group]Run actions/checkout@v3, 1.850059008442642, , , , 175892, False, 
+##[group]Setting up auth, 0.9394849499129336, , , , 60767, False, 
+##[group]Fetching the repository, 5.275642577229169, , , , 1367703, False, 
+##[group]Run java -version, 6.361520706838848, , , , 873836, False, 
+##[group]Run if ! docker/bin/wait_for_pg_isready; then, 19.75535615324689, , , , 1104134, False, 
+##[group]Restore gradle-generated-jars, 8.658083524583395, , , , 422275, False, 
+##[group]Restore dependencies-gradle, 10.203741817963188, , , , 382116, False, 
+##[group]Restore dependencies-maven, 80.0308723814764, , , , 8440457, False, 
+##[group]Run codecov/codecov-action@b8a1d6a4243f1ff280a5533872c4d80179cc5b4a, 16.469741622707303, , , , 3229787, True, ##[error]Process completed with exit code 2.
+##[group]Save dependencies-maven, 5.097844954252722, , , , 508294, True, [Error: ENOENT: no such file or directory, mkdir '/root/.gradle'] {

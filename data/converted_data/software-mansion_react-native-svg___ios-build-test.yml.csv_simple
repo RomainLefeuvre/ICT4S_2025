@@ -1,0 +1,29 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,197.8598866004974,55909402,False,
+"##[group]Run npx react-native@latest run-ios --simulator=""iPhone 14 Pro"" --mode Debug --verbose --terminal /bin/zsh",166.3326229116869,35559764,True,##[error]Process completed with exit code 1.
+##[group]Run actions/cache@v3__dup_12,152.96411409567958,1391547,False,
+##[group]Run actions/cache@v3,123.2983465134872,1397283,False,
+##[group]GITHUB_TOKEN Permissions,121.57667250202068,2725065,False,
+##[group]Run actions/cache@v3__dup_14,79.85918683956258,588109,False,
+##[group]Run actions/cache@v3__dup_13,61.58295502553334,569726,False,
+"##[group]Run npx react-native@latest run-ios --simulator=""iPhone 14 Pro"" --mode Debug --verbose --terminal /bin/zsh__dup_28",38.9855574523384,3402813,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,28.8711488076694,432466,False,
+##[group]Run actions/cache@v3__dup_24,15.64709633265764,1380138,False,
+##[group]Run actions/cache@v3__dup_23,14.590823040957371,1424304,False,
+##[group]Run yarn install --frozen-lockfile,9.800298219117131,28005,True,##[error]Process completed with exit code 127.
+##[group]Run maxim-lobanov/setup-xcode@v1,7.681314820389104,86535,True,##[error]This task is intended only for macOS platform. It can't be run on 'linux' platform
+##[group]Checking out the ref,7.548878357968603,22386,False,
+##[group]Run actions/cache@v3__dup_27,6.981438123596678,565722,False,
+##[group]Setting up auth,6.886696045866095,77151,False,
+##[group]Getting Git version info,6.754259583445592,10048,False,
+##[group]Run actions/checkout@v3,6.62182312102509,169941,False,
+##[group]Run actions/cache@v3__dup_26,5.694031038170594,563315,False,
+##[group]GITHUB_TOKEN Permissions__dup_16,5.37510326949703,3728424,False,
+##[group]Fetching the repository__dup_20,3.505739835905436,432178,False,
+##[group]Run actions/checkout@v3__dup_17,1.726318929518051,161250,False,
+##[group]Checking out the ref__dup_21,1.4841488172265542,122982,False,
+##[group]Run yarn install --frozen-lockfile__dup_25,1.1658131189614935,14939,True,##[error]Process completed with exit code 127.
+##[group]Disabling automatic garbage collection,0.8257721960871935,44462,False,
+##[group]Setting up auth__dup_19,0.8008473503059722,109731,False,
+##[group]Run maxim-lobanov/setup-xcode@v1__dup_22,0.7830008500454669,91027,True,##[error]This task is intended only for macOS platform. It can't be run on 'linux' platform
+Requested labels: self-hosted,0.0,3919421,False,

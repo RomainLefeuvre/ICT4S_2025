@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 3010.256205965989, , , , 239247336, False, 
+##[group]GITHUB_TOKEN Permissions, 66.7521794244233, , , , 6642140, False, 
+##[group]Run actions/checkout@v4, 3.651263659629009, , , , 189136, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 25.076975524492724, , , , 1157726, False, 
+##[group]Cleaning the repository, 2.139610108719636, , , , 72370, False, 
+##[group]Setting up auth, 10.69805054359818, , , , 87061, False, 
+##[group]Fetching the repository, 4.523950484430144, , , , 492733, False, 
+##[group]Determining the checkout info, 0.9607590055191072, , , , 12659, False, 
+##[group]Fetching submodules, 1.016727914152186, , , , 156729, False, 
+##[group]Persisting credentials for submodules, 2.2013625542036075, , , , 130856, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 10.08870886638504, , , , 433642, False, 
+##[group]Run ./gradlew assembleLawnWithQuickstepGithubDebug assembleLawnWithQuickstepMarketDebug, 1222.3029673904168, , , , 50433938, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4, 31.124300175029997, , , , 1198111, False, 

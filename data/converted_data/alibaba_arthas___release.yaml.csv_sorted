@@ -1,0 +1,8 @@
+##[group]Run mvn clean package -P full, 1638.6312565782914, , , , 102620893, True, [ERROR] can not find arthas logging config: /home/power/actions-runner/_work/arthas/arthas/core/target/logback.xml
+##[group]Run actions/checkout@v3, 30.34603670817986, , , , 175548, False, 
+Requested labels: self-hosted, 29.0388556589388, , , , 4790528, False, 
+##[group]GITHUB_TOKEN Permissions, 23.981555857843684, , , , 2671145, False, 
+##[group]Fetching the repository, 17.42782336677378, , , , 440344, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.68870700831541, , , , 19770, False, 
+##[group]Setting up auth, 5.308206674994848, , , , 68398, False, 
+##[group]Installed distributions, 2.264204008430357, , , , 24281, False, 

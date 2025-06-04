@@ -1,0 +1,8 @@
+##[group]Run volodya-lombrozo/pdd-action@master, 303.19256042990446, , , , 26030908, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/volodya-lombrozo/pdd-action/master/Dockerfile'., 62.324883646936186, , , , 39283336, False, 
+##[group]Fetching the repository, 27.888206546417543, , , , 441005, False, 
+##[group]Setting up auth, 8.50391557105367, , , , 140678, False, 
+##[group]Run actions/checkout@v4, 6.382821933042991, , , , 160590, False, 
+Requested labels: self-hosted, 5.614165151642756, , , , 3949132, False, 
+##[group]Checking out the ref, 4.797264719774259, , , , 112334, False, 
+##[group]GITHUB_TOKEN Permissions, 1.5494432176079214, , , , 1818367, False, 

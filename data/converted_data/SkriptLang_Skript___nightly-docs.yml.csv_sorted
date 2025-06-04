@@ -1,0 +1,8 @@
+##[group]Fetching the repository, 99.4248148079666, , , , 1415129, False, 
+##[group]Fetching submodules, 88.47155020713639, , , , 995056, False, 
+##[group]GITHUB_TOKEN Permissions, 63.71160294962337, , , , 1392957, False, 
+##[group]Persisting credentials for submodules, 39.14790554162754, , , , 344966, False, 
+##[group]Checking out the ref, 8.108723948454662, , , , 108370, False, 
+##[group]Setting up auth, 6.094821024111998, , , , 55982, False, 
+##[group]Run actions/checkout@v4, 5.9605608291558205, , , , 146926, False, 
+Requested labels: self-hosted, 0.2655612554200257, , , , 4200836, False, 

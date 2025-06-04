@@ -1,0 +1,13 @@
+##[group]Run mvn -B antrun:run --file pom.xml, 6572.255683456155, , , , 789462853, False, 
+##[group]Run mvn -B source:jar javadoc:jar package --file pom.xml, 1177.9385050716742, , , , 116196724, True, ##[error]The operation was canceled.
+[INFO] --- maven-enforcer-plugin:1.2:enforce (enforce-maven) @ fess ---, 721.1120294254954, , , , 71089629, False, 
+[INFO] --- maven-antrun-plugin:3.1.0:run (default-cli) @ fess ---, 338.0774633963421, , , , 34340331, False, 
+[INFO] --- jacoco-maven-plugin:0.8.11:prepare-agent (default) @ fess ---, 206.07005322028567, , , , 21234276, False, 
+##[group]GITHUB_TOKEN Permissions, 55.05546769623748, , , , 4042138, False, 
+##[group]Run actions/cache@v4, 47.06142637357748, , , , 620708, False, 
+##[group]Fetching the repository, 43.38564804418901, , , , 460737, False, 
+##[group]Cleaning the repository, 17.954421371209527, , , , 169720, False, 
+##[group]Run actions/checkout@v4, 9.14392239491974, , , , 137037, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 9.07723771119375, , , , 24306, False, 
+##[group]Setting up auth, 8.877183660015778, , , , 140683, False, 
+Requested labels: self-hosted, 5.204057879921577, , , , 3964592, False, 

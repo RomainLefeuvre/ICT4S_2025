@@ -1,0 +1,613 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.14 s (4411.9 files/s 412945.4 lines/s)"
+JavaScript,/tmp/clone_directory/src/lib/extract/transform.js,134,12,1420
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/RenderableViewManager.java,248,50,1246
+Markdown,/tmp/clone_directory/USAGE.md,213,0,1041
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/TSpanView.java,189,382,670
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGTSpan.mm,170,355,600
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/RenderableView.java,88,41,593
+Objective-C++,/tmp/clone_directory/apple/RNSVGRenderable.mm,93,28,580
+TypeScript,/tmp/clone_directory/src/css/css.tsx,73,144,572
+Objective-C++,/tmp/clone_directory/apple/RNSVGNode.mm,84,17,571
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/PathParser.java,86,30,563
+IDL,/tmp/clone_directory/idl/svg.idl,137,0,551
+Objective-C++,/tmp/clone_directory/apple/Utils/RNSVGPathParser.mm,75,34,547
+TypeScript,/tmp/clone_directory/src/xml.tsx,90,3,495
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/VirtualView.java,78,39,493
+TypeScript,/tmp/clone_directory/src/ReactNativeSVG.web.ts,67,24,475
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/TextLayoutAlgorithm.java,154,691,449
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGGlyphContext.mm,67,56,402
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGSvgView.mm,58,11,374
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/SvgView.java,66,12,355
+C++,/tmp/clone_directory/windows/RNSVG/RenderableView.cpp,55,8,346
+XML,/tmp/clone_directory/windows/RNSVG/RNSVG.vcxproj.filters,0,0,331
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGText.mm,46,10,309
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Gradients.tsx,13,0,308
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/SvgViewManager.java,65,13,300
+TypeScript,/tmp/clone_directory/src/elements/Shape.tsx,39,8,298
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/SvgPackage.java,16,11,291
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/GlyphContext.java,73,55,287
+XML,/tmp/clone_directory/windows/RNSVG/RNSVG.vcxproj,0,0,283
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGImage.mm,55,12,282
+C++,/tmp/clone_directory/windows/RNSVG/ImageView.cpp,68,2,269
+TypeScript,/tmp/clone_directory/src/lib/extract/types.ts,31,10,259
+C++,/tmp/clone_directory/windows/RNSVG/PathView.cpp,52,6,259
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/GroupView.java,40,7,252
+IDL,/tmp/clone_directory/idl/filter-effects.idl,67,0,250
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGGroup.mm,46,8,247
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/RNSVGRenderableManager.java,40,8,236
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGMarker.mm,51,7,233
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGFabricConversions.h,12,9,232
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/Utils.h,55,27,231
+C++,/tmp/clone_directory/windows/RNSVG/SvgView.cpp,54,9,219
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/TextView.java,29,7,218
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGPattern.mm,43,7,218
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Markers.tsx,7,3,208
+TypeScript,/tmp/clone_directory/Example/src/App.tsx,12,4,207
+TypeScript,/tmp/clone_directory/src/lib/extract/extractTransform.ts,14,2,207
+TypeScript,/tmp/clone_directory/FabricExample/src/App.tsx,12,4,206
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Svg.tsx,11,0,203
+Objective-C++,/tmp/clone_directory/apple/Brushes/RNSVGPainter.mm,44,13,203
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/ImageView.java,33,10,201
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGTextProperties.mm,33,0,199
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/FontData.java,35,4,193
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/D2DHelpers.h,32,1,193
+TypeScript,/tmp/clone_directory/src/elements/Svg.tsx,24,7,189
+Visual Studio Solution,/tmp/clone_directory/windows/RNSVG.sln,1,1,186
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGRadialGradient.mm,33,7,185
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/Brush.java,40,17,182
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Text.tsx,11,0,180
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGForeignObject.mm,36,8,179
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGUse.mm,33,8,179
+Objective-C++,/tmp/clone_directory/apple/RNSVGRenderableModule.mm,34,7,178
+Objective-C++,/tmp/clone_directory/apple/Utils/RCTConvert+RNSVG.mm,22,9,178
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGFontData.mm,19,1,176
+C++,/tmp/clone_directory/windows/RNSVG/GroupView.cpp,46,9,176
+TypeScript,/tmp/clone_directory/Example/src/examples/Text.windows.tsx,11,0,172
+XML,/tmp/clone_directory/Example/windows/Example/Example.vcxproj,0,1,172
+TypeScript,/tmp/clone_directory/src/ReactNativeSVG.ts,8,0,171
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGSvgViewAndroidManagerDelegate.java,3,8,167
+TypeScript,/tmp/clone_directory/src/lib/extract/extractText.tsx,17,3,167
+IDL,/tmp/clone_directory/windows/RNSVG/Views.idl,29,0,163
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Reusable.tsx,7,0,162
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGLinearGradient.mm,29,7,161
+Visual Studio Solution,/tmp/clone_directory/Example/windows/Example.sln,1,1,156
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Stroking.tsx,7,0,156
+TypeScript,/tmp/clone_directory/src/lib/extract/extractProps.ts,21,0,156
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/TextProperties.java,35,29,155
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGTextPathManagerDelegate.java,3,8,155
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGTextProperties.h,49,8,154
+Objective-C++,/tmp/clone_directory/apple/Shapes/RNSVGRect.mm,27,7,153
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Transforms.tsx,9,0,149
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/SVGLength.java,19,1,149
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGPatternManagerDelegate.java,3,8,143
+Objective-C++,/tmp/clone_directory/apple/Utils/RNSVGPathMeasure.mm,29,54,143
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/RNSVGMarkerPosition.java,22,8,142
+Objective-C++,/tmp/clone_directory/apple/Utils/RNSVGMarkerPosition.mm,17,8,142
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Mask.tsx,7,0,141
+TypeScript,/tmp/clone_directory/src/lib/extract/extractProps.windows.ts,18,0,141
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGMarkerManagerDelegate.java,3,8,140
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGTSpanManagerDelegate.java,3,8,140
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGTextManagerDelegate.java,3,8,137
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/PatternView.java,26,7,135
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Clipping.tsx,6,0,133
+PEG,/tmp/clone_directory/src/lib/extract/transform.peg,26,7,132
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGMask.mm,27,7,126
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/MarkerView.java,29,7,124
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGMaskManagerDelegate.java,3,8,122
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGSymbolManagerDelegate.java,3,8,122
+JSON,/tmp/clone_directory/package.json,0,0,122
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Rect.tsx,8,0,121
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGSymbol.mm,28,8,120
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGPropHelper.mm,13,0,120
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGTextPath.mm,24,9,119
+C++,/tmp/clone_directory/windows/RNSVG/PatternView.cpp,39,0,118
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/UseView.java,22,7,116
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGForeignObjectManagerDelegate.java,3,8,116
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGImageManagerDelegate.java,3,8,116
+TypeScript,/tmp/clone_directory/src/lib/SvgTouchableMixin.ts,18,1,115
+Markdown,/tmp/clone_directory/README.md,49,0,113
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGRectManagerDelegate.java,3,8,113
+TypeScript,/tmp/clone_directory/src/lib/Matrix2D.ts,10,55,113
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/TouchEvents.tsx,7,0,111
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGUseManagerDelegate.java,3,8,110
+IDL,/tmp/clone_directory/windows/RNSVG/ViewManagers.idl,19,0,109
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/RectView.java,16,8,108
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGEllipseManagerDelegate.java,3,8,107
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGLineManagerDelegate.java,3,8,107
+IDL,/tmp/clone_directory/windows/RNSVG/Types.idl,13,0,107
+Objective-C++,/tmp/clone_directory/apple/Shapes/RNSVGLine.mm,19,7,106
+Bourne Shell,/tmp/clone_directory/FabricExample/android/gradlew,28,116,105
+Bourne Shell,/tmp/clone_directory/TestsExample/android/gradlew,28,116,105
+Objective-C++,/tmp/clone_directory/apple/Shapes/RNSVGEllipse.mm,18,7,105
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/ForeignObjectView.java,19,9,104
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGCircleManagerDelegate.java,3,8,104
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGClipPathManagerDelegate.java,3,8,104
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGGroupManagerDelegate.java,3,8,104
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Image.tsx,7,0,103
+Bourne Shell,/tmp/clone_directory/android/gradlew,28,109,103
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/PropHelper.java,28,85,103
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/RadialGradientView.java,18,7,101
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Path.tsx,5,0,98
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGPathManagerDelegate.java,3,8,98
+C++,/tmp/clone_directory/windows/RNSVG/SvgViewManager.cpp,20,8,98
+TypeScript,/tmp/clone_directory/Example/src/examples/PanResponder.tsx,7,0,96
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/PanResponder.tsx,7,0,96
+TypeScript,/tmp/clone_directory/src/lib/extract/extractGradient.ts,9,0,95
+TypeScript,/tmp/clone_directory/src/elements/TextPath.tsx,5,0,94
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/G.tsx,5,0,93
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGNodeManager.mm,18,7,93
+YAML,/tmp/clone_directory/.clang-format,0,0,91
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/LinearGradientView.java,17,7,91
+Objective-C++,/tmp/clone_directory/apple/Shapes/RNSVGCircle.mm,17,7,91
+YAML,/tmp/clone_directory/windows/.clang-format,0,0,91
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RenderableView.h,15,0,90
+C++,/tmp/clone_directory/windows/RNSVG/GroupViewManager.cpp,22,2,89
+XML,/tmp/clone_directory/Example/ios/Example.xcodeproj/xcshareddata/xcschemes/Example.xcscheme,0,0,88
+XML,/tmp/clone_directory/FabricExample/ios/FabricExample.xcodeproj/xcshareddata/xcschemes/FabricExample.xcscheme,0,0,88
+XML,/tmp/clone_directory/TestsExample/ios/TestsExample.xcodeproj/xcshareddata/xcschemes/TestsExample.xcscheme,0,0,88
+TypeScript,/tmp/clone_directory/TestsExample/src/Test1813.tsx,4,0,85
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/TextPathView.java,24,10,85
+TypeScript,/tmp/clone_directory/src/lib/extract/extractStroke.ts,5,0,85
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Polygon.tsx,7,0,84
+TypeScript,/tmp/clone_directory/src/css/LocalSvg.tsx,14,2,83
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Polyline.tsx,7,0,82
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGRadialGradientManagerDelegate.java,3,8,82
+Objective-C++,/tmp/clone_directory/apple/RNSVGSvgViewModule.mm,9,7,78
+C++,/tmp/clone_directory/windows/RNSVG/RadialGradientView.cpp,24,0,78
+TypeScript,/tmp/clone_directory/TestsExample/src/PointerEventsBoxNone.tsx,16,20,77
+YAML,/tmp/clone_directory/.github/workflows/android-build-test.yml,7,0,76
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGLinearGradientManagerDelegate.java,3,8,76
+TypeScript,/tmp/clone_directory/src/fabric/AndroidSvgViewNativeComponent.ts,6,5,76
+TypeScript,/tmp/clone_directory/src/fabric/TextPathNativeComponent.ts,7,0,76
+C++,/tmp/clone_directory/windows/RNSVG/RenderableViewManager.cpp,7,1,76
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Circle.tsx,6,0,75
+C/C++ Header,/tmp/clone_directory/apple/RNSVGNode.h,35,42,74
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGTextManager.mm,9,7,73
+C++,/tmp/clone_directory/windows/RNSVG/UseView.cpp,23,6,73
+Gradle,/tmp/clone_directory/android/build.gradle,12,11,72
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/SvgViewModule.java,8,7,71
+TypeScript,/tmp/clone_directory/src/fabric/TSpanNativeComponent.ts,8,0,71
+Objective-C++,/tmp/clone_directory/apple/Utils/RNSVGLength.mm,6,0,70
+C++,/tmp/clone_directory/windows/RNSVG/LinearGradientView.cpp,23,0,70
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/SvgView.h,18,2,70
+YAML,/tmp/clone_directory/.github/workflows/ios-build-test.yml,10,0,69
+DOS Batch,/tmp/clone_directory/FabricExample/android/gradlew.bat,21,2,69
+DOS Batch,/tmp/clone_directory/TestsExample/android/gradlew.bat,21,2,69
+TypeScript,/tmp/clone_directory/src/fabric/PatternNativeComponent.ts,7,0,69
+TypeScript,/tmp/clone_directory/src/fabric/TextNativeComponent.ts,8,0,69
+DOS Batch,/tmp/clone_directory/android/gradlew.bat,21,2,68
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGPath.mm,16,7,68
+TypeScript,/tmp/clone_directory/src/elements/Pattern.tsx,4,0,68
+TypeScript,/tmp/clone_directory/src/fabric/MarkerNativeComponent.ts,7,0,68
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/EllipseView.java,11,7,67
+CMake,/tmp/clone_directory/android/src/main/jni/CMakeLists.txt,8,0,67
+TypeScript,/tmp/clone_directory/src/elements/Image.tsx,5,0,67
+C++,/tmp/clone_directory/android/src/main/jni/rnsvg.cpp,15,8,65
+Objective-C++,/tmp/clone_directory/apple/RNSVGUIKit.macos.mm,16,3,64
+TypeScript,/tmp/clone_directory/src/elements/Marker.tsx,7,0,64
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2089.tsx,3,0,63
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/MaskView.java,14,8,63
+TypeScript,/tmp/clone_directory/src/elements/Use.tsx,6,0,63
+XML,/tmp/clone_directory/Example/windows/Example/Example.vcxproj.filters,0,0,62
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Line.tsx,5,0,62
+TypeScript,/tmp/clone_directory/src/fabric/ImageNativeComponent.ts,6,1,62
+TypeScript,/tmp/clone_directory/src/fabric/MaskNativeComponent.ts,7,0,62
+TypeScript,/tmp/clone_directory/src/fabric/SymbolNativeComponent.ts,7,0,62
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/SymbolView.java,13,7,61
+JavaScript,/tmp/clone_directory/Example/webpack.config.js,2,0,60
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Ellipse.tsx,6,0,60
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2170.tsx,4,1,60
+TypeScript,/tmp/clone_directory/src/fabric/ForeignObjectNativeComponent.ts,7,0,60
+TypeScript,/tmp/clone_directory/src/lib/extract/extractResponder.ts,7,1,59
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/CircleView.java,12,7,58
+Objective-C++,/tmp/clone_directory/apple/Brushes/RNSVGContextBrush.mm,17,7,58
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGClipPath.mm,13,7,58
+Windows Resource File,/tmp/clone_directory/windows/RNSVG/RNSVG.rc,18,23,58
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,19,0,57
+TypeScript,/tmp/clone_directory/src/elements/TSpan.tsx,5,0,57
+C++,/tmp/clone_directory/windows/RNSVG/TSpanView.cpp,17,0,57
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGSvgViewAndroidManagerInterface.java,3,8,56
+TypeScript,/tmp/clone_directory/src/elements/Text.tsx,4,0,56
+TypeScript,/tmp/clone_directory/src/fabric/RectNativeComponent.ts,6,0,56
+C++,/tmp/clone_directory/windows/RNSVG/TextView.cpp,9,0,56
+Objective-C++,/tmp/clone_directory/apple/Utils/RNSVGBezierElement.mm,10,6,55
+TypeScript,/tmp/clone_directory/src/fabric/ClipPathNativeComponent.ts,7,0,55
+TypeScript,/tmp/clone_directory/src/fabric/GroupNativeComponent.ts,7,0,55
+TypeScript,/tmp/clone_directory/src/fabric/UseNativeComponent.ts,6,0,55
+TypeScript,/tmp/clone_directory/src/lib/extract/extractViewBox.ts,9,0,55
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/ViewBox.java,18,31,54
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGDefsManagerDelegate.java,3,8,54
+TypeScript,/tmp/clone_directory/src/elements/G.tsx,5,1,54
+TypeScript,/tmp/clone_directory/src/fabric/EllipseNativeComponent.ts,6,0,54
+TypeScript,/tmp/clone_directory/src/fabric/LineNativeComponent.ts,6,0,54
+Objective-C,/tmp/clone_directory/Example/ios/ExampleTests/ExampleTests.m,13,0,53
+C++,/tmp/clone_directory/Example/windows/Example/App.cpp,14,26,53
+Objective-C,/tmp/clone_directory/FabricExample/ios/FabricExampleTests/FabricExampleTests.m,13,0,53
+JSON,/tmp/clone_directory/TestsExample/ios/TestsExample/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+Objective-C,/tmp/clone_directory/TestsExample/ios/TestsExampleTests/TestsExampleTests.m,13,0,53
+TypeScript,/tmp/clone_directory/TestsExample/src/Test1845.tsx,7,1,53
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2196.tsx,6,0,53
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGTextPathManagerInterface.java,3,8,53
+Objective-C++,/tmp/clone_directory/apple/Brushes/RNSVGSolidColorBrush.mm,11,7,53
+Objective-C++,/tmp/clone_directory/apple/Utils/RNSVGViewBox.mm,18,33,53
+TypeScript,/tmp/clone_directory/src/fabric/CircleNativeComponent.ts,6,0,53
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/PathView.h,8,1,52
+C++,/tmp/clone_directory/windows/RNSVG/SVGLength.cpp,7,0,52
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,23,0,51
+XML,/tmp/clone_directory/Example/ios/Example/Info.plist,0,1,51
+XML,/tmp/clone_directory/FabricExample/ios/FabricExample/Info.plist,0,1,51
+XML,/tmp/clone_directory/TestsExample/ios/TestsExample/Info.plist,0,0,51
+TypeScript,/tmp/clone_directory/src/fabric/PathNativeComponent.ts,6,0,51
+JSON,/tmp/clone_directory/Example/package.json,0,0,50
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/LineView.java,12,7,50
+TypeScript,/tmp/clone_directory/src/elements/Mask.tsx,5,0,50
+C++,/tmp/clone_directory/windows/RNSVG/ReactPackageProvider.cpp,4,0,50
+C++,/tmp/clone_directory/windows/RNSVG/RectView.cpp,13,0,50
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGPatternManagerInterface.java,3,8,49
+Objective-C++,/tmp/clone_directory/apple/Elements/RNSVGDefs.mm,11,8,49
+TypeScript,/tmp/clone_directory/src/elements/RadialGradient.tsx,4,0,49
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/ImageView.h,8,1,49
+Gradle,/tmp/clone_directory/TestsExample/android/app/build.gradle,11,60,48
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGMarkerManagerInterface.java,3,8,48
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGTSpanManagerInterface.java,3,8,48
+Gradle,/tmp/clone_directory/Example/android/app/build.gradle,11,60,47
+Gradle,/tmp/clone_directory/FabricExample/android/app/build.gradle,11,60,47
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGTextManagerInterface.java,3,8,47
+XML,/tmp/clone_directory/Example/ios/Example/LaunchScreen.storyboard,0,1,46
+JavaScript,/tmp/clone_directory/Example/metro.config.js,9,12,46
+XML,/tmp/clone_directory/FabricExample/ios/FabricExample/LaunchScreen.storyboard,0,1,46
+XML,/tmp/clone_directory/TestsExample/ios/TestsExample/LaunchScreen.storyboard,0,1,46
+TypeScript,/tmp/clone_directory/TestsExample/src/ColorTest.tsx,4,6,46
+Java,/tmp/clone_directory/android/src/paper/java/com/horcrux/svg/NativeSvgRenderableModuleSpec.java,12,10,46
+TypeScript,/tmp/clone_directory/src/fabric/index.ts,1,0,46
+TypeScript,/tmp/clone_directory/FabricExample/src/examples.tsx,1,0,44
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGSvgView.h,22,10,44
+C++,/tmp/clone_directory/windows/RNSVG/LineView.cpp,13,0,44
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGTopAlignedLabel.macos.mm,12,0,43
+JavaScript,/tmp/clone_directory/.eslintrc.js,0,0,42
+XML,/tmp/clone_directory/Example/windows/Example/Package.appxmanifest,8,0,42
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2071.tsx,4,0,42
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGMaskManagerInterface.java,3,8,42
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGSymbolManagerInterface.java,3,8,42
+C++,/tmp/clone_directory/common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp,15,6,42
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/GroupView.h,17,0,41
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,22,0,40
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGForeignObjectManagerInterface.java,3,8,40
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGImageManagerInterface.java,3,8,40
+C/C++ Header,/tmp/clone_directory/common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.h,15,12,40
+JavaScript,/tmp/clone_directory/react-native.config.js,1,1,40
+TypeScript,/tmp/clone_directory/src/elements/LinearGradient.tsx,4,0,40
+TypeScript,/tmp/clone_directory/__tests__/css.test.tsx,7,9,39
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGRectManagerInterface.java,3,8,39
+TypeScript,/tmp/clone_directory/src/elements/Ellipse.tsx,4,0,39
+TypeScript,/tmp/clone_directory/src/elements/Line.tsx,4,0,39
+C++,/tmp/clone_directory/windows/RNSVG/EllipseView.cpp,12,0,39
+XML,/tmp/clone_directory/FabricExample/ios/FabricExample/PrivacyInfo.xcprivacy,0,0,38
+JSON,/tmp/clone_directory/FabricExample/package.json,0,0,38
+JSON,/tmp/clone_directory/TestsExample/package.json,0,0,38
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGUseManagerInterface.java,3,8,38
+TypeScript,/tmp/clone_directory/src/elements/ForeignObject.tsx,4,0,38
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/GlyphPathBag.java,9,1,37
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGEllipseManagerInterface.java,3,8,37
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGLineManagerInterface.java,3,8,37
+TypeScript,/tmp/clone_directory/src/elements/Polygon.tsx,5,0,37
+TypeScript,/tmp/clone_directory/src/elements/Polyline.tsx,5,0,37
+TypeScript,/tmp/clone_directory/Example/src/examples/Reanimated.tsx,7,1,36
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGCircleManagerInterface.java,3,8,36
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGClipPathManagerInterface.java,3,8,36
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGGroupManagerInterface.java,3,8,36
+TypeScript,/tmp/clone_directory/src/elements/Rect.tsx,4,0,36
+C++,/tmp/clone_directory/windows/RNSVG/CircleView.cpp,12,0,36
+TypeScript,/tmp/clone_directory/FabricExample/src/examples/Reanimated.tsx,7,0,35
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/ClipPathView.java,10,7,35
+TypeScript,/tmp/clone_directory/src/fabric/RadialGradientNativeComponent.ts,4,0,35
+JavaScript,/tmp/clone_directory/FabricExample/metro.config.js,10,9,34
+Kotlin,/tmp/clone_directory/TestsExample/android/app/src/main/java/com/testsexample/MainApplication.kt,8,3,34
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGPathManagerInterface.java,3,8,34
+JavaScript,/tmp/clone_directory/TestsExample/metro.config.js,9,9,33
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGGroupManager.mm,8,7,33
+C/C++ Header,/tmp/clone_directory/common/cpp/react/renderer/components/rnsvg/RNSVGImageState.h,12,19,33
+TypeScript,/tmp/clone_directory/src/fabric/LinearGradientNativeComponent.ts,4,0,33
+TypeScript,/tmp/clone_directory/src/lib/extract/extractBrush.ts,10,3,33
+YAML,/tmp/clone_directory/.github/workflows/js-build-test.yml,0,0,32
+Kotlin,/tmp/clone_directory/Example/android/app/src/main/java/com/example/MainApplication.kt,8,3,32
+Kotlin,/tmp/clone_directory/FabricExample/android/app/src/main/java/com/fabricexample/MainApplication.kt,8,3,32
+TypeScript,/tmp/clone_directory/TestsExample/src/Test1374.tsx,3,0,32
+TypeScript,/tmp/clone_directory/src/fabric/NativeSvgRenderableModule.ts,5,2,32
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/PatternView.h,7,4,32
+C++,/tmp/clone_directory/windows/RNSVG/PatternViewManager.cpp,6,0,32
+C/C++ Header,/tmp/clone_directory/apple/RNSVGUIKit.h,15,8,31
+TypeScript,/tmp/clone_directory/src/elements/Circle.tsx,5,0,31
+TypeScript,/tmp/clone_directory/src/lib/extract/extractFill.ts,3,1,31
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/SvgViewManager.h,9,5,31
+Ruby,/tmp/clone_directory/RNSVG.podspec,5,0,30
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/PathView.java,6,7,30
+TypeScript,/tmp/clone_directory/src/elements/Symbol.tsx,3,0,30
+Objective-C++,/tmp/clone_directory/apple/Brushes/RNSVGPainterBrush.mm,8,7,29
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGGlyphContext.h,18,0,29
+TypeScript,/tmp/clone_directory/src/deprecated.tsx,8,0,29
+C++,/tmp/clone_directory/windows/RNSVG/SymbolView.cpp,7,0,29
+TypeScript,/tmp/clone_directory/TestsExample/src/Test1986.tsx,1,0,28
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGRadialGradientManagerInterface.java,3,8,28
+C/C++ Header,/tmp/clone_directory/apple/RNSVGRenderable.h,10,7,28
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGPatternManager.mm,8,7,28
+C++,/tmp/clone_directory/windows/RNSVG/RadialGradientViewManager.cpp,6,0,28
+C++,/tmp/clone_directory/windows/RNSVG/RectViewManager.cpp,7,1,28
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGFontData.h,8,0,27
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGRenderableManager.mm,7,7,27
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/SymbolView.h,5,1,27
+HTML,/tmp/clone_directory/Example/dist/index.html,1,0,26
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2266.tsx,1,0,26
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/DefinitionView.java,8,7,26
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGLinearGradientManagerInterface.java,3,8,26
+Objective-C++,/tmp/clone_directory/apple/Brushes/RNSVGBrush.mm,8,8,26
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGImageManager.mm,7,7,26
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGUseManager.mm,6,7,26
+C++,/tmp/clone_directory/windows/RNSVG/ImageViewManager.cpp,7,1,26
+C++,/tmp/clone_directory/windows/RNSVG/LinearGradientViewManager.cpp,6,0,26
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RadialGradientView.h,5,1,26
+C++,/tmp/clone_directory/windows/RNSVG/SymbolViewManager.cpp,6,0,26
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RenderableViewManager.h,7,3,25
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/TextView.h,4,0,25
+XML,/tmp/clone_directory/TestsExample/ios/TestsExampleTests/Info.plist,0,0,24
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGLength.h,7,1,24
+TypeScript,/tmp/clone_directory/src/elements/Path.tsx,4,0,24
+JSON,/tmp/clone_directory/tsconfig.json,0,0,24
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/LinearGradientView.h,5,1,24
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RNSVGModule.h,7,2,24
+C++,/tmp/clone_directory/windows/RNSVG/TextViewManager.cpp,6,0,24
+C++,/tmp/clone_directory/windows/RNSVG/UseViewManager.cpp,6,0,24
+XML,/tmp/clone_directory/TestsExample/android/app/src/main/AndroidManifest.xml,2,0,23
+Java,/tmp/clone_directory/android/src/paper/java/com/horcrux/svg/NativeSvgViewModuleSpec.java,7,10,23
+C/C++ Header,/tmp/clone_directory/common/cpp/react/renderer/components/rnsvg/RNSVGImageComponentDescriptor.h,10,11,23
+TypeScript,/tmp/clone_directory/src/fabric/DefsNativeComponent.ts,3,0,23
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/BrushView.h,6,0,23
+C++,/tmp/clone_directory/windows/RNSVG/EllipseViewManager.cpp,6,0,23
+C++,/tmp/clone_directory/windows/RNSVG/LineViewManager.cpp,6,0,23
+C++,/tmp/clone_directory/windows/RNSVG/PathViewManager.cpp,7,1,23
+Objective-C++,/tmp/clone_directory/Example/ios/Example/AppDelegate.mm,7,2,22
+Objective-C++,/tmp/clone_directory/FabricExample/ios/FabricExample/AppDelegate.mm,7,2,22
+Objective-C++,/tmp/clone_directory/TestsExample/ios/TestsExample/AppDelegate.mm,7,2,22
+Java,/tmp/clone_directory/android/src/main/java/com/horcrux/svg/DefsView.java,6,7,22
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGImage.h,7,7,22
+C/C++ Header,/tmp/clone_directory/apple/Utils/RCTConvert+RNSVG.h,5,7,22
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGRectManager.mm,8,7,22
+TypeScript,/tmp/clone_directory/src/fabric/IOSSvgViewNativeComponent.ts,3,0,22
+C++,/tmp/clone_directory/windows/RNSVG/BrushView.cpp,5,0,22
+C++,/tmp/clone_directory/windows/RNSVG/CircleViewManager.cpp,6,0,22
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGMarker.h,6,0,21
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGMarkerManager.mm,7,7,21
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGMaskManager.mm,6,7,21
+IDL,/tmp/clone_directory/idl/CSS Fonts.idl,1,0,21
+TypeScript,/tmp/clone_directory/src/elements/Stop.tsx,4,0,21
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/GroupViewManager.h,5,2,21
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RectView.h,5,0,21
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/SVGLength.h,7,0,21
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/UseView.h,5,0,21
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,12,2,20
+YAML,/tmp/clone_directory/.github/stale.yml,9,12,20
+C/C++ Header,/tmp/clone_directory/Example/windows/Example/pch.h,4,0,20
+Gradle,/tmp/clone_directory/FabricExample/android/build.gradle,1,0,20
+Gradle,/tmp/clone_directory/TestsExample/android/build.gradle,1,0,20
+TypeScript,/tmp/clone_directory/src/elements/ClipPath.tsx,3,0,20
+C++,/tmp/clone_directory/windows/RNSVG/TSpanViewManager.cpp,6,0,20
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2148.tsx,1,0,19
+C/C++ Header,/tmp/clone_directory/android/src/main/jni/rnsvg.h,7,6,19
+C/C++ Header,/tmp/clone_directory/apple/Brushes/RNSVGPainter.h,13,7,19
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGForeignObjectManager.mm,6,7,19
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGSvgViewManager.mm,6,7,19
+C++,/tmp/clone_directory/windows/RNSVG/ClipPathViewManager.cpp,5,0,19
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/EllipseView.h,2,0,19
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/LineView.h,2,0,19
+C++,/tmp/clone_directory/windows/RNSVG/MarkerViewManager.cpp,5,0,19
+JavaScript,/tmp/clone_directory/TestsExample/App.js,2,1,18
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2276.tsx,2,0,18
+Java,/tmp/clone_directory/android/src/paper/java/com/facebook/react/viewmanagers/RNSVGDefsManagerInterface.java,3,8,18
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGText.h,5,7,18
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGRadialGradientManager.mm,6,7,18
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGSymbolManager.mm,6,7,18
+IDL,/tmp/clone_directory/idl/CSS Text.idl,0,0,18
+JavaScript,/tmp/clone_directory/scripts/format-java.js,7,12,18
+TypeScript,/tmp/clone_directory/src/css/index.tsx,2,0,18
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/CircleView.h,2,0,18
+C/C++ Header,/tmp/clone_directory/Example/windows/Example/App.h,4,0,17
+C++,/tmp/clone_directory/Example/windows/Example/MainPage.cpp,3,0,17
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGPattern.h,5,0,17
+C/C++ Header,/tmp/clone_directory/Example/windows/Example/MainPage.h,3,0,16
+XAML,/tmp/clone_directory/Example/windows/Example/MainPage.xaml,0,0,16
+Objective-C++,/tmp/clone_directory/apple/Text/RNSVGTopAlignedLabel.ios.mm,3,0,16
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGLinearGradientManager.mm,6,7,16
+TypeScript,/tmp/clone_directory/src/lib/extract/extractLengthList.ts,2,0,16
+TypeScript,/tmp/clone_directory/src/lib/resolve.ts,1,1,16
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/TSpanView.h,4,0,16
+TypeScript,/tmp/clone_directory/TestsExample/src/Test1718.tsx,3,0,15
+TypeScript,/tmp/clone_directory/TestsExample/src/Test2080.tsx,2,0,15
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGGroup.h,7,7,15
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGTextPathManager.mm,7,7,15
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/D2DBrush.h,4,0,15
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/D2DDevice.h,4,0,15
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/D2DDeviceContext.h,4,0,15
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/D2DGeometry.h,4,0,15
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/ReactPackageProvider.h,6,0,15
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGEllipseManager.mm,7,7,14
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGLineManager.mm,7,7,14
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/LinearGradientViewManager.h,3,1,14
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RadialGradientViewManager.h,3,1,14
+XML,/tmp/clone_directory/Example/windows/NuGet.Config,0,0,13
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGRadialGradient.h,4,7,13
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGTopAlignedLabel.h,1,0,13
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGCircleManager.mm,7,7,13
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGDefsManager.mm,6,7,13
+TypeScript,/tmp/clone_directory/src/lib/util.ts,1,0,13
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/ClipPathView.h,3,1,13
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/MarkerView.h,3,1,13
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,8,0,12
+XML,/tmp/clone_directory/FabricExample/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,12
+SVG,/tmp/clone_directory/TestsExample/assets/ruby.svg,0,0,12
+C/C++ Header,/tmp/clone_directory/apple/RNSVGRenderableModule.h,2,7,12
+C/C++ Header,/tmp/clone_directory/apple/RNSVGSvgViewModule.h,2,7,12
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGTextPath.h,4,7,12
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGPathMeasure.h,5,7,12
+IDL,/tmp/clone_directory/idl/CSS Text Decoration.idl,0,0,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/CircleViewManager.h,2,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/ClipPathViewManager.h,3,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/DefsView.h,3,0,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/EllipseViewManager.h,2,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/ImageViewManager.h,3,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/LineViewManager.h,2,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/MarkerViewManager.h,3,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/PathViewManager.h,4,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/PatternViewManager.h,3,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/RectViewManager.h,4,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/SymbolViewManager.h,3,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/TSpanViewManager.h,2,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/TextViewManager.h,2,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/UseViewManager.h,3,1,12
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/pch.h,3,0,12
+C++,/tmp/clone_directory/Example/windows/Example/ReactPackageProvider.cpp,4,0,11
+XML,/tmp/clone_directory/TestsExample/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,11
+C/C++ Header,/tmp/clone_directory/apple/Brushes/RNSVGBrush.h,9,21,11
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGLinearGradient.h,4,7,11
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGPropHelper.h,6,0,11
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGBezierElement.h,8,6,11
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGMarkerPosition.h,8,2,11
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGPathManager.mm,7,7,11
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGTSpanManager.mm,7,7,11
+C++,/tmp/clone_directory/common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp,4,6,11
+TypeScript,/tmp/clone_directory/src/fabric/NativeSvgViewModule.ts,2,2,11
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/DefsViewManager.h,1,0,11
+Kotlin,/tmp/clone_directory/Example/android/app/src/main/java/com/example/MainActivity.kt,4,8,10
+XML,/tmp/clone_directory/Example/ios/Example.xcworkspace/contents.xcworkspacedata,0,0,10
+XAML,/tmp/clone_directory/Example/windows/Example/App.xaml,0,0,10
+C++,/tmp/clone_directory/Example/windows/Example/AutolinkedNativeModules.g.cpp,4,4,10
+C/C++ Header,/tmp/clone_directory/Example/windows/Example/ReactPackageProvider.h,3,0,10
+Kotlin,/tmp/clone_directory/FabricExample/android/app/src/main/java/com/fabricexample/MainActivity.kt,4,8,10
+XML,/tmp/clone_directory/FabricExample/ios/FabricExample.xcworkspace/contents.xcworkspacedata,0,0,10
+Kotlin,/tmp/clone_directory/TestsExample/android/app/src/main/java/com/testsexample/MainActivity.kt,4,8,10
+XML,/tmp/clone_directory/TestsExample/ios/TestsExample.xcworkspace/contents.xcworkspacedata,0,0,10
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGMask.h,4,0,10
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGSymbol.h,6,10,10
+C/C++ Header,/tmp/clone_directory/apple/Shapes/RNSVGRect.h,5,7,10
+TypeScript,/tmp/clone_directory/src/lib/extract/extractPolyPoints.ts,1,0,10
+IDL,/tmp/clone_directory/Example/windows/Example/MainPage.idl,1,0,9
+XML,/tmp/clone_directory/Example/windows/ExperimentalFeatures.props,10,21,9
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGUse.h,4,10,9
+Objective-C++,/tmp/clone_directory/apple/ViewManagers/RNSVGClipPathManager.mm,5,7,9
+TypeScript,/tmp/clone_directory/src/elements/Defs.tsx,2,0,9
+C++,/tmp/clone_directory/windows/RNSVG/DefsViewManager.cpp,1,0,9
+IDL,/tmp/clone_directory/windows/RNSVG/ReactPackageProvider.idl,0,0,9
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/question.md,4,0,8
+JavaScript,/tmp/clone_directory/.prettierrc.js,0,0,8
+JavaScript,/tmp/clone_directory/Example/index.js,3,3,8
+XML,/tmp/clone_directory/Example/windows/Example/AutolinkedNativeModules.g.targets,0,2,8
+TypeScript,/tmp/clone_directory/TestsExample/__tests__/App.test.tsx,4,5,8
+XML,/tmp/clone_directory/TestsExample/android/app/src/debug/AndroidManifest.xml,1,0,8
+XML,/tmp/clone_directory/TestsExample/ios/TestsExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+Objective-C,/tmp/clone_directory/TestsExample/ios/TestsExample/main.m,2,0,8
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGForeignObject.h,4,0,8
+C/C++ Header,/tmp/clone_directory/apple/Shapes/RNSVGEllipse.h,3,7,8
+C/C++ Header,/tmp/clone_directory/apple/Shapes/RNSVGLine.h,3,7,8
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGViewBox.h,5,7,8
+IDL,/tmp/clone_directory/idl/CSS Writing Modes.idl,0,0,8
+C/C++ Header,/tmp/clone_directory/windows/RNSVG/resource.h,1,5,8
+JavaScript,/tmp/clone_directory/Example/babel.config.js,0,0,7
+JSON,/tmp/clone_directory/Example/tsconfig.json,0,0,7
+XML,/tmp/clone_directory/Example/windows/Example/PropertySheet.props,1,8,7
+Properties,/tmp/clone_directory/FabricExample/android/gradle/wrapper/gradle-wrapper.properties,0,0,7
+JavaScript,/tmp/clone_directory/TestsExample/.prettierrc.js,0,0,7
+Properties,/tmp/clone_directory/TestsExample/android/gradle/wrapper/gradle-wrapper.properties,0,0,7
+Gradle,/tmp/clone_directory/android/spotless.gradle,1,1,7
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGClipPath.h,5,7,7
+C/C++ Header,/tmp/clone_directory/apple/Shapes/RNSVGCircle.h,5,7,7
+C/C++ Header,/tmp/clone_directory/apple/Text/RNSVGTSpan.h,6,7,7
+TypeScript,/tmp/clone_directory/jest.config.ts,2,0,7
+C++,/tmp/clone_directory/windows/RNSVG/ClipPathView.cpp,2,0,7
+C++,/tmp/clone_directory/windows/RNSVG/DefsView.cpp,2,0,7
+XML,/tmp/clone_directory/windows/RNSVG/PropertySheet.props,1,8,7
+Properties,/tmp/clone_directory/FabricExample/android/gradle.properties,8,27,6
+JavaScript,/tmp/clone_directory/FabricExample/babel.config.js,0,0,6
+Properties,/tmp/clone_directory/TestsExample/android/gradle.properties,8,27,6
+JSON,/tmp/clone_directory/TestsExample/ios/TestsExample/Images.xcassets/Contents.json,0,0,6
+C/C++ Header,/tmp/clone_directory/apple/Brushes/RNSVGBrushType.h,1,7,6
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGPath.h,4,7,6
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGVectorEffect.h,1,7,6
+JavaScript,/tmp/clone_directory/babel.config.js,0,0,6
+JSON,/tmp/clone_directory/css/package.json,0,0,6
+C++,/tmp/clone_directory/windows/RNSVG/D2DGeometry.cpp,1,0,6
+C++,/tmp/clone_directory/windows/RNSVG/MarkerView.cpp,2,0,6
+C/C++ Header,/tmp/clone_directory/Example/windows/Example/AutolinkedNativeModules.g.h,3,2,5
+XML,/tmp/clone_directory/Example/windows/Example/AutolinkedNativeModules.g.props,0,1,5
+XML,/tmp/clone_directory/TestsExample/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/apple/Brushes/RNSVGContextBrush.h,4,7,5
+C/C++ Header,/tmp/clone_directory/apple/Brushes/RNSVGSolidColorBrush.h,4,7,5
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGCGFCRule.h,1,7,5
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGPathParser.h,4,7,5
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGVBMOS.h,1,7,5
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGNodeManager.h,4,7,5
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGRenderableManager.h,4,7,5
+IDL,/tmp/clone_directory/idl/CSS Transforms.idl,0,0,5
+TypeScript,/tmp/clone_directory/src/lib/extract/extractOpacity.ts,1,0,5
+TypeScript,/tmp/clone_directory/src/lib/units.ts,0,0,5
+XML,/tmp/clone_directory/windows/RNSVG/packages.config,0,0,5
+Gradle,/tmp/clone_directory/Example/android/settings.gradle,0,0,4
+JSON,/tmp/clone_directory/Example/app.json,0,0,4
+Gradle,/tmp/clone_directory/FabricExample/android/settings.gradle,0,0,4
+JSON,/tmp/clone_directory/FabricExample/app.json,0,0,4
+JavaScript,/tmp/clone_directory/FabricExample/index.js,2,3,4
+JavaScript,/tmp/clone_directory/TestsExample/.eslintrc.js,0,0,4
+Gradle,/tmp/clone_directory/TestsExample/android/settings.gradle,0,0,4
+JSON,/tmp/clone_directory/TestsExample/app.json,0,0,4
+JavaScript,/tmp/clone_directory/TestsExample/babel.config.js,0,0,4
+JavaScript,/tmp/clone_directory/TestsExample/index.js,2,3,4
+C/C++ Header,/tmp/clone_directory/TestsExample/ios/TestsExample/AppDelegate.h,2,0,4
+C/C++ Header,/tmp/clone_directory/apple/RNSVGContainer.h,4,9,4
+C/C++ Header,/tmp/clone_directory/apple/Utils/RNSVGUnits.h,1,7,4
+C++,/tmp/clone_directory/windows/RNSVG/D2DBrush.cpp,1,0,4
+C++,/tmp/clone_directory/windows/RNSVG/D2DDevice.cpp,1,0,4
+C++,/tmp/clone_directory/windows/RNSVG/D2DDeviceContext.cpp,1,0,4
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE.md,2,0,3
+Bourne Shell,/tmp/clone_directory/.husky/pre-commit,1,0,3
+XML,/tmp/clone_directory/Example/android/app/src/main/res/values/strings.xml,0,0,3
+IDL,/tmp/clone_directory/Example/windows/Example/App.idl,0,0,3
+XML,/tmp/clone_directory/FabricExample/android/app/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/TestsExample/android/app/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/TestsExample/jest.config.js,0,0,3
+JSON,/tmp/clone_directory/TestsExample/tsconfig.json,0,0,3
+C/C++ Header,/tmp/clone_directory/apple/Brushes/RNSVGPainterBrush.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/Elements/RNSVGDefs.h,4,10,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGCircleManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGClipPathManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGDefsManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGEllipseManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGForeignObjectManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGGroupManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGImageManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGLineManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGLinearGradientManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGMarkerManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGMaskManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGPathManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGPatternManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGRadialGradientManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGRectManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGSvgViewManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGSymbolManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGTSpanManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGTextManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGTextPathManager.h,3,7,3
+C/C++ Header,/tmp/clone_directory/apple/ViewManagers/RNSVGUseManager.h,3,7,3
+TypeScript,/tmp/clone_directory/src/fabric/utils.ts,2,0,3
+Windows Module Definition,/tmp/clone_directory/windows/RNSVG/RNSVG.def,0,0,3
+Windows Resource File,/tmp/clone_directory/windows/RNSVG/versionoverrides.rc,0,2,3
+Markdown,/tmp/clone_directory/Example/README.md,1,0,2
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,0,0,2
+TypeScript,/tmp/clone_directory/src/fabric/codegenUtils.ts,1,5,2
+TypeScript,/tmp/clone_directory/src/index.ts,1,0,2
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,0,1
+JSON,/tmp/clone_directory/TestsExample/.watchmanconfig,0,0,1
+ProGuard,/tmp/clone_directory/android/proguard-rules.pro,0,0,1
+TypeScript,/tmp/clone_directory/src/lib/extract/transform.d.ts,0,0,1
+C++,/tmp/clone_directory/windows/RNSVG/pch.cpp,0,0,1
+ProGuard,/tmp/clone_directory/TestsExample/android/app/proguard-rules.pro,1,9,0
+SUM,,7212,4911,45065

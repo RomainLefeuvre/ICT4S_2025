@@ -1,0 +1,650 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.27 s (2388.7 files/s 646366.7 lines/s)"
+SVG,/tmp/clone_directory/docs/map.svg,0,0,38259
+C,/tmp/clone_directory/core/trezor-crypto/tests/test_check.c,723,313,7857
+JSON,/tmp/clone_directory/core/src/checks/wycheproof/ecdsa_secp256k1_sha256_bitcoin_test.json,0,0,6360
+XML,/tmp/clone_directory/java/gradle/verification-metadata.xml,0,0,2064
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/cbcmd44.txt,2,0,2008
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/cbcmd46.txt,2,0,2008
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/cbcmd48.txt,2,0,2008
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/cbcme44.txt,2,0,2008
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/cbcme46.txt,2,0,2008
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/cbcme48.txt,2,0,2008
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbmd44.txt,2,0,1608
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbmd46.txt,2,0,1608
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbmd48.txt,2,0,1608
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbme44.txt,2,0,1608
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbme46.txt,2,0,1608
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbme48.txt,2,0,1608
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbnk48.txt,2,0,1545
+C,/tmp/clone_directory/core/external-crypto/aes/modetest.c,229,18,1503
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbnk46.txt,2,0,1161
+C/C++ Header,/tmp/clone_directory/core/src/checks/wycheproof/ecdsa_secp256k1_sha256_bitcoin_test.h,6,464,1094
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/tests/test_check_monero.h,122,0,1058
+Assembly,/tmp/clone_directory/core/external-crypto/aes/aes_x86_v2.asm,217,170,1009
+C,/tmp/clone_directory/core/trezor-crypto/sha2.c,157,228,898
+C,/tmp/clone_directory/core/trezor-crypto/ecdsa.c,155,259,781
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbvk48.txt,2,0,780
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbnk44.txt,2,0,777
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbnt44.txt,2,0,777
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbnt46.txt,2,0,777
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbnt48.txt,2,0,777
+C,/tmp/clone_directory/core/trezor-crypto/aes/aes_modes.c,174,28,755
+C,/tmp/clone_directory/core/external-crypto/aes/aestmr.c,146,46,751
+C,/tmp/clone_directory/core/external-crypto/aes/aes_modes.c,173,28,746
+C,/tmp/clone_directory/core/trezor-crypto/bip32.c,108,51,728
+Assembly,/tmp/clone_directory/core/external-crypto/aes/aes_amd64.asm,91,126,705
+C,/tmp/clone_directory/core/trezor-crypto/groestl.c,52,32,699
+C,/tmp/clone_directory/core/trezor-crypto/bignum.c,92,318,658
+C,/tmp/clone_directory/core/external-crypto/modes/cwc.c,180,166,615
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbvk46.txt,2,0,588
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/curve25519-donna-32bit.c,69,28,584
+C,/tmp/clone_directory/core/external-crypto/aes/aes_ni.c,101,14,581
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/gf_mul_lo.h,102,93,578
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-impl-base.c,100,52,573
+Python,/tmp/clone_directory/core/trezor-crypto/tests/test_wycheproof.py,167,0,554
+C,/tmp/clone_directory/core/external-crypto/aes/aeskey2.c,100,36,534
+C,/tmp/clone_directory/core/src/sign.c,93,96,494
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aes_via_ace.h,65,17,465
+C,/tmp/clone_directory/core/external-crypto/aes/python_binding/aesmodule.c,65,46,455
+Text,/tmp/clone_directory/core/external-crypto/aes/aes.txt,169,0,453
+C,/tmp/clone_directory/core/external-crypto/aes/aeskey.c,88,37,448
+C,/tmp/clone_directory/core/trezor-crypto/aes/aeskey.c,87,33,440
+C,/tmp/clone_directory/core/external-crypto/modes/gcm.c,76,54,417
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/modm-donna-32bit.c,59,43,415
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/SubzeroUtilsTest.java,50,74,405
+C,/tmp/clone_directory/core/external-crypto/modes/ccm.c,79,20,397
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbvk44.txt,2,0,396
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbvt44.txt,2,0,396
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbvt46.txt,2,0,396
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/ecbvt48.txt,2,0,396
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aesopt.h,133,264,389
+Python,/tmp/clone_directory/core/trezor-crypto/tests/test_curves.py,118,1,388
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/aes/aesopt.h,133,264,387
+Assembly,/tmp/clone_directory/core/external-crypto/aes/aes_x86_v1.asm,115,142,386
+C,/tmp/clone_directory/core/external-crypto/aes/aesgav.c,104,61,382
+C,/tmp/clone_directory/core/trezor-crypto/nem.c,99,29,380
+JavaScript,/tmp/clone_directory/java/server/src/main/resources/assets/server.js,46,22,351
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/bip39_english.h,1,22,344
+C,/tmp/clone_directory/core/external-crypto/modes/test_modes_inc/test_modes_inc.c,62,18,336
+Java,/tmp/clone_directory/java/shared/src/main/java/com/squareup/subzero/shared/SubzeroUtils.java,53,189,336
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/tests/test_check_cardano.h,43,1,333
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_gcm_test.c,58,45,329
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/SubzeroGui.java,67,49,327
+C++,/tmp/clone_directory/core/external-crypto/modes/genvec.cpp,45,72,326
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/testvec.h,53,23,326
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_gcm.c,72,7,325
+C,/tmp/clone_directory/core/external-crypto/aes/rfc3686.c,13,18,324
+C++,/tmp/clone_directory/core/external-crypto/modes/test_modes_inc/test_modes_inc.cpp,65,18,319
+C,/tmp/clone_directory/core/external-crypto/modes/eax.c,65,35,316
+C++,/tmp/clone_directory/core/external-crypto/modes/gt_modes/gt_modes.cpp,53,43,312
+C,/tmp/clone_directory/core/trezor-crypto/aes/aestab.c,72,36,310
+C,/tmp/clone_directory/core/external-crypto/modes/gf128mul_bb.c,82,163,307
+C,/tmp/clone_directory/core/external-crypto/modes/gf128mul_bl.c,80,163,307
+C,/tmp/clone_directory/core/external-crypto/modes/gf128mul_lb.c,81,163,307
+C,/tmp/clone_directory/core/external-crypto/modes/gf128mul_ll.c,80,163,307
+C,/tmp/clone_directory/core/external-crypto/aes/aesaux.c,123,39,306
+Text,/tmp/clone_directory/core/external-crypto/modes/gf128mul.txt,58,0,302
+C,/tmp/clone_directory/core/external-crypto/aes/aesrav.c,61,34,299
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/ncipher/NCipher.java,41,36,298
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts7.txt,21,0,297
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts6.txt,50,0,290
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/groestl_internal.h,42,169,290
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_eax_test.c,72,55,281
+C,/tmp/clone_directory/core/external-crypto/modes/gf128mul_l.c,84,112,279
+C,/tmp/clone_directory/core/external-crypto/modes/gf128mul.c,86,110,275
+C,/tmp/clone_directory/core/trezor-crypto/sha3.c,39,89,269
+C,/tmp/clone_directory/core/trezor-crypto/ripemd160.c,36,43,264
+C++,/tmp/clone_directory/core/external-crypto/modes/test_modes/test_modes.cpp,44,17,262
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/ColdWalletCreationAndSigningTestnetTest.java,60,44,262
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-basepoint-table.c,1,1,259
+C,/tmp/clone_directory/core/trezor-crypto/blake2b.c,51,15,258
+C,/tmp/clone_directory/core/external-crypto/aes/tablegen.c,48,15,255
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/framebuffer/Framebuffer.java,32,72,255
+XML,/tmp/clone_directory/core/external-crypto/aes/vsyasm.xml,29,0,254
+C,/tmp/clone_directory/core/external-crypto/aes/aes_avs.c,28,15,253
+C,/tmp/clone_directory/core/trezor-crypto/blake2s.c,51,19,248
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_modes/gt_modes.txt,83,0,245
+C,/tmp/clone_directory/core/external-crypto/modes/eme2.c,35,19,244
+Text,/tmp/clone_directory/core/external-crypto/modes/gentest.txt,81,0,244
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/mode_hdr.h,49,36,244
+Text,/tmp/clone_directory/core/external-crypto/aes/vb.txt,28,0,235
+XML,/tmp/clone_directory/core/external-crypto/aes/dll_generic_c/dll_generic_c.vcxproj,0,0,232
+Visual Studio Solution,/tmp/clone_directory/core/external-crypto/aes/aes.sln,1,1,220
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_modes/gt_modes.vcxproj,0,0,220
+C,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/chacha_merged.c,22,6,218
+Markdown,/tmp/clone_directory/docs/hsm_initialization.md,86,0,218
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aestst.h,44,19,214
+XML,/tmp/clone_directory/core/external-crypto/modes/test_modes/test_modes.vcxproj,0,0,214
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/ecrypt-config.h,71,32,213
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519.c,64,38,213
+Java,/tmp/clone_directory/java/shared/src/main/java/com/squareup/subzero/shared/ColdWallet.java,37,102,208
+C,/tmp/clone_directory/core/external-crypto/aes/aescrypt.c,45,50,206
+C,/tmp/clone_directory/core/trezor-crypto/aes/aescrypt.c,45,56,206
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/genvec.h,38,23,205
+XML,/tmp/clone_directory/core/external-crypto/aes/time_lib/time_lib.vcxproj,0,0,203
+XML,/tmp/clone_directory/core/external-crypto/aes/test_lib/test_lib.vcxproj,0,0,202
+XML,/tmp/clone_directory/core/external-crypto/aes/test_modes/test_modes.vcxproj,0,0,202
+C,/tmp/clone_directory/core/src/checks/check_sign_tx.c,35,27,201
+C,/tmp/clone_directory/core/trezor-crypto/base58.c,31,36,201
+C,/tmp/clone_directory/core/external-crypto/aes/aesxam.c,77,162,198
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_generic_c/lib_generic_c.vcxproj,0,0,197
+XML,/tmp/clone_directory/core/external-crypto/modes/test_modes_inc/test_modes_inc.vcxproj,0,0,196
+XML,/tmp/clone_directory/core/external-crypto/aes/gen_tests/gen_tests.vcxproj,0,0,195
+XML,/tmp/clone_directory/core/external-crypto/aes/test_dll/test_dll.vcxproj,0,0,195
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_xts/gt_xts.vcxproj,0,0,194
+XML,/tmp/clone_directory/core/external-crypto/modes/test_xts/test_xts.vcxproj,0,0,194
+XML,/tmp/clone_directory/core/external-crypto/modes/test_cmac/test_cmac.vcxproj,0,0,193
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_omac/gt_omac.vcxproj,0,0,192
+C++,/tmp/clone_directory/core/external-crypto/modes/testvec.cpp,32,22,192
+XML,/tmp/clone_directory/core/external-crypto/aes/aes_example/aes_example.vcxproj,0,0,191
+XML,/tmp/clone_directory/core/external-crypto/aes/test_avs/test_avs.vcxproj,0,0,191
+XML,/tmp/clone_directory/core/external-crypto/aes/time_dll/time_dll.vcxproj,0,0,191
+XML,/tmp/clone_directory/core/external-crypto/modes/test_omac/test_omac.vcxproj,0,0,191
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_cmac/gt_cmac.vcxproj,0,0,188
+C,/tmp/clone_directory/core/src/checks/rpc_checks.c,24,69,185
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/ecrypt-portable.h,56,35,184
+C,/tmp/clone_directory/core/trezor-crypto/tests/test_speed.c,49,0,184
+Markdown,/tmp/clone_directory/live-usb-creator/README.md,48,0,183
+Python,/tmp/clone_directory/core/external-crypto/aes/python_binding/test_aes.py,19,33,182
+C,/tmp/clone_directory/core/trezor-crypto/blake256.c,38,16,181
+C,/tmp/clone_directory/core/trezor-crypto/bip39.c,25,29,177
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/framebuffer/Screens.java,48,57,177
+CMake,/tmp/clone_directory/core/CMakeLists.txt,25,76,175
+XML,/tmp/clone_directory/core/external-crypto/aes/python_binding/python_binding.vcxproj,0,0,174
+C,/tmp/clone_directory/core/trezor-crypto/base32.c,46,21,173
+C,/tmp/clone_directory/core/trezor-crypto/monero/base58.c,41,29,173
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/gt_eme2.vcxproj,0,0,171
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_ccm_test.c,15,4,171
+XML,/tmp/clone_directory/core/external-crypto/modes/test_eme2/test_eme2.vcxproj,0,0,171
+Markdown,/tmp/clone_directory/docs/license.md,32,0,171
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/poly1305-donna-32.h,30,19,170
+Qt,/tmp/clone_directory/core/trezor-crypto/gui/mainwindow.ui,0,0,161
+C,/tmp/clone_directory/core/trezor-crypto/segwit_addr.c,10,20,161
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aes.h,69,49,160
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_omac/omac1-tv.txt,90,0,158
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_omac/omac2-tv.txt,90,0,158
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts5.txt,26,0,158
+C,/tmp/clone_directory/core/src/ncipher/aes_gcm.c,37,19,157
+C,/tmp/clone_directory/core/trezor-crypto/cash_addr.c,10,22,157
+C,/tmp/clone_directory/core/src/dev/aes_gcm.c,35,32,155
+C,/tmp/clone_directory/core/src/rpc.c,17,18,155
+XML,/tmp/clone_directory/core/external-crypto/aes/dll_asm_amd64_c/dll_asm_amd64_c.vcxproj,0,0,152
+Text,/tmp/clone_directory/core/external-crypto/modes/aes.ae-modes.txt,46,0,152
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/ColdWalletCreationAndSigningMainnetTest.java,36,20,152
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/tests/test_check_segwit.h,9,0,151
+Markdown,/tmp/clone_directory/docs/regression-testing-howto.md,39,0,151
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/resources/GenerateQrCodeResource.java,23,14,148
+C,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/poly1305-donna.c,21,11,147
+Markdown,/tmp/clone_directory/docs/running_without_hsm.md,76,0,147
+XML,/tmp/clone_directory/core/external-crypto/aes/dll_asm_x86_v2c/dll_asm_x86_v2c.vcxproj,0,0,144
+C,/tmp/clone_directory/core/trezor-crypto/pbkdf2.c,13,22,144
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_ccm.c,18,7,143
+XML,/tmp/clone_directory/core/external-crypto/aes/dll_asm_x86_v1c/dll_asm_x86_v1c.vcxproj,0,0,140
+XML,/tmp/clone_directory/core/external-crypto/aes/dll_asm_x86_v2/dll_asm_x86_v2.vcxproj,0,0,139
+C++,/tmp/clone_directory/core/external-crypto/modes/test_omac/test_omac.cpp,34,21,138
+C/C++ Header,/tmp/clone_directory/core/include/script.h,19,10,137
+C,/tmp/clone_directory/core/external-crypto/aes/aestst.c,31,35,135
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/brg_types.h,27,55,135
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_eax.c,34,7,133
+C++,/tmp/clone_directory/core/external-crypto/modes/test_cmac/test_cmac.cpp,33,21,133
+Visual Studio Solution,/tmp/clone_directory/core/external-crypto/modes/modes.sln,1,1,132
+C,/tmp/clone_directory/core/trezor-crypto/hmac.c,18,26,132
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/ColdWalletCreatorTest.java,17,29,128
+C++,/tmp/clone_directory/core/external-crypto/modes/test_xts/test_xts.cpp,24,19,127
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/gcm.h,39,71,123
+C,/tmp/clone_directory/core/src/protect.c,26,19,123
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/ccm.h,43,79,122
+Markdown,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/README.md,62,0,121
+Text,/tmp/clone_directory/core/external-crypto/aes/via_ace.txt,38,0,120
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/aes/aes.h,59,47,120
+C++,/tmp/clone_directory/core/external-crypto/modes/gt_xts/gt_xts.cpp,31,25,119
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_amd64_c/lib_asm_amd64_c.vcxproj,0,0,118
+Protocol Buffers,/tmp/clone_directory/core/proto/squareup/subzero/internal.proto,32,15,118
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_x86_v2c/lib_asm_x86_v2c.vcxproj,0,0,117
+C,/tmp/clone_directory/core/trezor-crypto/hasher.c,9,21,117
+Protocol Buffers,/tmp/clone_directory/java/proto/src/main/proto/squareup/subzero/internal.proto,29,16,117
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_x86_v1c/lib_asm_x86_v1c.vcxproj,0,0,116
+C,/tmp/clone_directory/core/external-crypto/modes/omac.c,36,15,115
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_x86_v2/lib_asm_x86_v2.vcxproj,0,0,113
+C,/tmp/clone_directory/core/trezor-crypto/aes/aestst.c,31,35,112
+C,/tmp/clone_directory/core/trezor-crypto/monero/xmr.c,25,8,110
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/actions/SignTx.java,20,18,110
+XML,/tmp/clone_directory/core/external-crypto/aes/gen_tables/gen_tables.vcxproj,0,0,109
+C,/tmp/clone_directory/core/external-crypto/modes/xts.c,29,21,109
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/cwc.h,34,61,106
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_omac_test.c,8,1,106
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/nem.h,29,21,106
+Java,/tmp/clone_directory/java/shared/src/main/java/com/squareup/subzero/shared/QrSigner.java,21,71,106
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/QrSignerTest.java,19,14,106
+C,/tmp/clone_directory/core/src/checks/self_checks.c,18,13,105
+C,/tmp/clone_directory/core/src/checks/validate_fees.c,9,14,104
+C,/tmp/clone_directory/core/src/main.c,16,8,104
+C,/tmp/clone_directory/core/src/ncipher/additional_checks.c,24,17,104
+Java,/tmp/clone_directory/java/gui/src/test/java/com/squareup/subzero/wallet/WalletLoaderTest.java,30,10,104
+HTML,/tmp/clone_directory/java/server/src/main/resources/assets/index.html,12,0,104
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/eax.h,34,60,102
+C++,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/gt_eme2.cpp,27,24,102
+Bourne Shell,/tmp/clone_directory/java/gradlew,28,115,102
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/brg_endian.h,20,23,101
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aescpp.h,25,16,100
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/ColdWalletTest.java,22,8,100
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_modes/gt_modes.vcxproj.filters,0,0,98
+Python,/tmp/clone_directory/live-usb-creator/data_app_subzero/tools/provision.py,36,18,98
+XML,/tmp/clone_directory/core/external-crypto/aes/vsyasm.targets,15,0,95
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/aes/aestab.h,31,47,95
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/ecrypt-sync.h,53,134,94
+Ruby,/tmp/clone_directory/core/trezor-crypto/tools/nem_test_vectors.rb,32,0,94
+Markdown,/tmp/clone_directory/docs/fuzz_testing.md,35,0,94
+C++,/tmp/clone_directory/core/external-crypto/modes/gt_cmac/gt_cmac.cpp,26,24,93
+C++,/tmp/clone_directory/core/external-crypto/modes/gt_omac/gt_omac.cpp,26,24,93
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts16.txt,17,0,93
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/bip32.h,29,22,93
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_omac.c,29,7,92
+C++,/tmp/clone_directory/core/external-crypto/modes/test_eme2/test_eme2.cpp,19,19,88
+make,/tmp/clone_directory/core/trezor-crypto/Makefile,22,1,88
+C,/tmp/clone_directory/core/external-crypto/modes/cmac.c,25,15,86
+C,/tmp/clone_directory/core/trezor-crypto/tests/test_openssl.c,22,35,86
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/gf128mul.h,53,77,85
+C,/tmp/clone_directory/core/src/ncipher/execute_command_hooks.c,17,6,85
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/bignum.h,53,30,85
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ecdsa.h,11,31,85
+C,/tmp/clone_directory/core/src/finalize_wallet.c,12,13,84
+Java,/tmp/clone_directory/java/shared/src/main/java/com/squareup/subzero/shared/Base45.java,15,49,84
+C,/tmp/clone_directory/core/src/checks/wycheproof_checks.c,31,64,82
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/actions/FinalizeWallet.java,17,8,82
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/wallet/WalletLoader.java,19,48,81
+Python,/tmp/clone_directory/utils/txsign_testcase_expect_script_gen.py,28,47,81
+C,/tmp/clone_directory/core/src/ncipher/init_wallet.c,18,26,79
+C,/tmp/clone_directory/core/trezor-crypto/monero/range_proof.c,26,10,79
+Python,/tmp/clone_directory/utils/tests_wycheproof_generate.py,20,19,76
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_ctr.c,13,7,75
+C/C++ Header,/tmp/clone_directory/core/include/config.h,20,26,75
+C,/tmp/clone_directory/core/trezor-crypto/tools/bip39bruteforce.c,4,10,75
+XML,/tmp/clone_directory/core/external-crypto/modes/test_modes/test_modes.vcxproj.filters,0,0,74
+C,/tmp/clone_directory/core/src/checks/verify_protect_pubkey.c,13,5,74
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/sha2.h,12,30,74
+C,/tmp/clone_directory/core/src/no_rollback.c,17,16,73
+C,/tmp/clone_directory/core/src/checks/verify_no_rollback.c,16,6,72
+Python,/tmp/clone_directory/live-usb-creator/data_app_subzero/tools/bits2qr_fb.py,24,13,72
+XML,/tmp/clone_directory/core/external-crypto/modes/test_modes_inc/test_modes_inc.vcxproj.filters,0,0,71
+C,/tmp/clone_directory/core/src/checks/bip32.c,11,12,70
+Java,/tmp/clone_directory/java/shared/src/test/java/com/squareup/subzero/shared/Base45Test.java,17,2,70
+DOS Batch,/tmp/clone_directory/java/gradlew.bat,21,2,69
+C,/tmp/clone_directory/core/src/qrsignatures.c,8,1,68
+C++,/tmp/clone_directory/core/trezor-crypto/gui/mainwindow.cpp,7,3,68
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/actions/InitWallet.java,21,9,67
+Bourne Shell,/tmp/clone_directory/scripts/binary_static_analysis.sh,20,35,67
+Markdown,/tmp/clone_directory/core/README.md,22,0,66
+C,/tmp/clone_directory/core/src/ncipher/no_rollback.c,18,18,65
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/ncipher/NCipherLoadOCS.java,8,25,65
+Text,/tmp/clone_directory/live-usb-creator/grub_themes/square/theme.txt,5,0,65
+C/C++ Header,/tmp/clone_directory/core/include/log.h,10,9,64
+Markdown,/tmp/clone_directory/docs/sample_transaction.md,21,0,64
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/tests/test_check_cashaddr.h,4,0,63
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_cmac/cmac.1.txt,15,0,62
+YAML,/tmp/clone_directory/.github/workflows/signtx-test-msan.yml,13,7,61
+C,/tmp/clone_directory/core/external-crypto/modes/gf_convert.c,11,17,61
+C,/tmp/clone_directory/core/trezor-crypto/address.c,8,22,61
+Markdown,/tmp/clone_directory/docs/core_sample_output.md,3,0,61
+C,/tmp/clone_directory/core/trezor-crypto/schnorr.c,16,29,59
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/InternalCommandConnector.java,11,11,58
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aesaux.h,13,15,55
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_amd64_c/lib_asm_amd64_c.vcxproj.filters,0,0,55
+C,/tmp/clone_directory/core/src/script.c,4,2,55
+C,/tmp/clone_directory/core/trezor-crypto/secp256k1.c,12,26,55
+YAML,/tmp/clone_directory/.github/workflows/signtx-test-asan.yml,12,7,53
+YAML,/tmp/clone_directory/.github/workflows/signtx-test-ubsan.yml,12,7,53
+YAML,/tmp/clone_directory/.github/workflows/signtx-test.yml,12,7,53
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_generic_c/lib_generic_c.vcxproj.filters,0,0,53
+C,/tmp/clone_directory/core/src/ncipher/module_certificate.c,14,5,53
+C,/tmp/clone_directory/core/trezor-crypto/tools/mktable.c,2,13,53
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/aes/aestst.h,14,19,52
+Gradle,/tmp/clone_directory/java/gui/build.gradle.kts,9,8,52
+CMake,/tmp/clone_directory/core/codesafe.cmake,14,0,51
+CSS,/tmp/clone_directory/java/server/src/main/resources/assets/server.css,11,0,51
+C,/tmp/clone_directory/core/external-crypto/modes/gf_mulx.c,15,0,50
+C,/tmp/clone_directory/core/src/dev/init_wallet.c,11,27,50
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-32bit-tables.c,7,6,50
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/sha3.h,13,26,50
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/resources/ShowFinalTransactionResource.java,10,3,50
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_x86_v1c/lib_asm_x86_v1c.vcxproj.filters,0,0,49
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_x86_v2c/lib_asm_x86_v2c.vcxproj.filters,0,0,49
+C,/tmp/clone_directory/core/src/checks/verify_mix_entropy.c,8,4,49
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/curve25519-donna-scalarmult-base.c,8,10,49
+YAML,/tmp/clone_directory/.github/workflows/fuzzing-regression-test.yml,10,6,48
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/options.h,16,35,48
+Protocol Buffers,/tmp/clone_directory/java/proto/src/main/proto/squareup/subzero/service.proto,13,19,48
+Gradle,/tmp/clone_directory/java/server/build.gradle.kts,8,9,48
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/resources/PrettyPrintResource.java,5,7,48
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,11,15,47
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/gt_eme2.vcxproj.filters,0,0,47
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_xts/gt_xts.vcxproj.filters,0,0,47
+XML,/tmp/clone_directory/core/external-crypto/modes/test_eme2/test_eme2.vcxproj.filters,0,0,47
+XML,/tmp/clone_directory/core/external-crypto/modes/test_xts/test_xts.vcxproj.filters,0,0,47
+C,/tmp/clone_directory/core/trezor-crypto/memzero.c,11,8,47
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_modes/ccm.3.txt,9,0,46
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/hasher.h,15,21,46
+C,/tmp/clone_directory/core/trezor-crypto/tools/xpubaddrgen.c,3,0,46
+Go,/tmp/clone_directory/dvd_label/dvd_label.go,14,11,46
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_omac/omac1.1.txt,14,0,45
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_omac/omac2.1.txt,14,0,45
+C,/tmp/clone_directory/core/src/dev/no_rollback.c,9,3,45
+XML,/tmp/clone_directory/core/external-crypto/aes/test_modes/test_modes.vcxproj.filters,0,0,44
+XML,/tmp/clone_directory/core/external-crypto/modes/test_cmac/test_cmac.vcxproj.filters,0,0,44
+Markdown,/tmp/clone_directory/docs/physical_components.md,26,0,44
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/ncipher/NCipherLoadACS.java,6,24,44
+XML,/tmp/clone_directory/core/external-crypto/aes/lib_asm_x86_v2/lib_asm_x86_v2.vcxproj.filters,0,0,43
+C,/tmp/clone_directory/core/src/print.c,11,4,43
+Java,/tmp/clone_directory/java/gui/src/test/java/com/squareup/subzero/framebuffer/FramebufferTest.java,15,11,43
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/eme2.6.txt,11,0,42
+C,/tmp/clone_directory/core/src/hash.c,9,2,42
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/curve25519-donna-helpers.c,8,16,42
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/resources/ComputeResource.java,8,3,42
+YAML,/tmp/clone_directory/.github/workflows/binary-static-analysis.yml,9,6,41
+YAML,/tmp/clone_directory/.github/workflows/clang-static-analysis.yml,9,6,41
+XML,/tmp/clone_directory/core/external-crypto/aes/time_lib/time_lib.vcxproj.filters,0,0,41
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_cmac/gt_cmac.vcxproj.filters,0,0,41
+XML,/tmp/clone_directory/core/external-crypto/modes/gt_omac/gt_omac.vcxproj.filters,0,0,41
+C,/tmp/clone_directory/core/trezor-crypto/rfc6979.c,10,26,41
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/SecurityWorld.java,13,0,41
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/omac.h,17,16,40
+C,/tmp/clone_directory/core/src/checks/conv_checks.c,5,0,40
+C,/tmp/clone_directory/core/trezor-crypto/monero/serialize.c,8,5,40
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/FileResourceUtils.java,8,1,40
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/cmac.h,16,15,39
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_modes/eax.3.txt,8,0,39
+C,/tmp/clone_directory/core/src/ncipher/init.c,9,7,39
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/monero/xmr.h,20,17,39
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/SubzeroConfig.java,6,1,39
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/resources/AssetsResource.java,6,3,39
+XML,/tmp/clone_directory/core/external-crypto/aes/gen_tables/gen_tables.vcxproj.filters,0,0,38
+XML,/tmp/clone_directory/core/external-crypto/aes/gen_tests/gen_tests.vcxproj.filters,0,0,38
+XML,/tmp/clone_directory/core/external-crypto/aes/test_lib/test_lib.vcxproj.filters,0,0,38
+XML,/tmp/clone_directory/core/external-crypto/modes/test_omac/test_omac.vcxproj.filters,0,0,38
+CMake,/tmp/clone_directory/core/trezor-crypto/CMakeLists.txt,7,1,38
+Markdown,/tmp/clone_directory/core/trezor-crypto/README.md,6,0,38
+Markdown,/tmp/clone_directory/core/trezor-crypto/tools/README.md,16,0,38
+Java,/tmp/clone_directory/java/shared/src/main/java/com/squareup/subzero/shared/ColdWalletCreator.java,10,31,38
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_gcm.h,12,7,37
+Protocol Buffers,/tmp/clone_directory/core/proto/squareup/subzero/common.proto,10,7,37
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/pbkdf2.h,7,22,37
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/observers/CreateFuzzerCorpusObserver.java,6,13,37
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-impl-base.h,36,32,36
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/Key.java,11,0,36
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/CommandHandler.java,5,6,36
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/wallet/TestWallets.java,3,10,36
+Protocol Buffers,/tmp/clone_directory/java/proto/src/main/proto/squareup/subzero/common.proto,10,8,36
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/ServerApplication.java,6,0,36
+Markdown,/tmp/clone_directory/README.md,17,0,35
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519.h,13,0,35
+Python,/tmp/clone_directory/core/trezor-crypto/setup.py,4,0,35
+Python,/tmp/clone_directory/utils/txsign_testcase_from_expect_log.py,12,10,35
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/blake2b.h,7,0,34
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/blake2s.h,7,0,34
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/monero/int-util.h,10,33,34
+C,/tmp/clone_directory/core/trezor-crypto/rand.c,12,35,34
+C,/tmp/clone_directory/core/trezor-crypto/script.c,7,25,34
+Bourne Shell,/tmp/clone_directory/scripts/sa_check_core.sh,6,2,34
+Gradle,/tmp/clone_directory/java/buildSrc/src/main/kotlin/com.squareup.subzero.java-conventions.gradle.kts,7,5,33
+Markdown,/tmp/clone_directory/java/shared/README.md,16,0,33
+XML,/tmp/clone_directory/core/external-crypto/aes/test_avs/test_avs.vcxproj.filters,0,0,32
+C,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/chacha20poly1305.c,10,18,32
+C,/tmp/clone_directory/core/trezor-crypto/nist256p1.c,9,27,32
+YAML,/tmp/clone_directory/.github/workflows/java-test.yml,6,6,31
+C,/tmp/clone_directory/core/src/nanopb_stream.c,10,3,31
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/hmac.h,7,22,31
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/install_scripts/1_post_install_chroot,14,24,31
+Dockerfile,/tmp/clone_directory/core/Dockerfile,8,3,30
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/eme2.1.txt,8,0,30
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_eax.h,11,7,30
+Gradle,/tmp/clone_directory/java/shared/build.gradle.kts,6,3,30
+Bourne Shell,/tmp/clone_directory/core/subzero-docker.sh,5,1,29
+C,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/rfc7539.c,9,10,29
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/ncipher/NCipherChangePasswordOCS.java,8,18,29
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/install_scripts/0_post_install_nochroot,18,28,29
+YAML,/tmp/clone_directory/mkdocs.yml,0,0,29
+Protocol Buffers,/tmp/clone_directory/core/proto/squareup/subzero/service.proto,8,8,28
+Markdown,/tmp/clone_directory/docs/software_components.md,21,0,28
+XML,/tmp/clone_directory/core/external-crypto/aes/vsyasm.props,0,0,27
+Qt Project,/tmp/clone_directory/core/trezor-crypto/gui/gui.pro,5,0,27
+C,/tmp/clone_directory/core/trezor-crypto/rc4.c,8,21,27
+Gradle,/tmp/clone_directory/java/proto/build.gradle.kts,7,3,27
+XML,/tmp/clone_directory/core/external-crypto/aes/aes_example/aes_example.vcxproj.filters,0,0,26
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts4.txt,4,0,26
+C/C++ Header,/tmp/clone_directory/core/include/checks.h,8,32,26
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/check_mem.h,4,0,26
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/curve25519-donna-32bit.h,26,27,26
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/aes_ni.h,18,16,25
+C,/tmp/clone_directory/core/src/checks/misc_checks.c,2,0,25
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/modm-donna-32bit.h,27,28,25
+Python,/tmp/clone_directory/core/external-crypto/aes/python_binding/demo.py,7,5,24
+C,/tmp/clone_directory/core/external-crypto/modes/gettimeofday.c,5,0,24
+C,/tmp/clone_directory/core/src/ncipher/transact.c,5,7,24
+Bourne Shell,/tmp/clone_directory/scripts/bsa_check_core.sh,6,1,24
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/base58.h,7,23,23
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna.h,15,14,23
+Markdown,/tmp/clone_directory/docs/address_derivation.md,8,0,23
+Markdown,/tmp/clone_directory/docs/index.md,8,0,23
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/resources/ConstantsResource.java,4,3,23
+XML,/tmp/clone_directory/core/external-crypto/aes/python_binding/python_dll.vcxproj.filters,0,0,22
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/eme2.h,15,19,22
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_ctr.h,11,7,22
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/xts.h,17,19,22
+Markdown,/tmp/clone_directory/docs/releases.md,8,0,22
+Bourne Shell,/tmp/clone_directory/scripts/build_core.sh,2,2,22
+C/C++ Header,/tmp/clone_directory/core/include/strlcpy.h,6,23,21
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/monero/range_proof.h,7,3,21
+Markdown,/tmp/clone_directory/docs/dev_with_remote_hsm.md,6,0,21
+Java,/tmp/clone_directory/java/shared/src/main/java/com/squareup/subzero/shared/Constants.java,18,38,21
+C/C++ Header,/tmp/clone_directory/core/external-crypto/aes/rdtsc.h,12,15,20
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/rdtsc.h,11,15,20
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/ecrypt-types.h,10,23,20
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-portable.h,4,0,20
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/gui/mainwindow.h,7,0,20
+Markdown,/tmp/clone_directory/docs/wallet_initialization.md,11,33,20
+Bourne Shell,/tmp/clone_directory/live-usb-creator/build.sh,7,14,20
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/blake2_common.h,6,0,19
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/ecrypt-machine.h,17,13,19
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/ncipher/NCipherLoadSoftcard.java,6,18,19
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/live_scripts/install_nfast_tools_release,10,9,19
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_omac.h,5,7,18
+C/C++ Header,/tmp/clone_directory/core/include/qrsignatures.h,4,23,18
+C,/tmp/clone_directory/core/src/fuzz.c,6,0,18
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/groestl.h,9,68,18
+Protocol Buffers,/tmp/clone_directory/java/proto/src/main/proto/squareup/subzero/wallet_proto.proto,5,7,18
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/blake256.h,7,29,17
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ripemd160.h,5,0,17
+ERB,/tmp/clone_directory/core/trezor-crypto/tools/nem_test_vectors.erb,1,0,17
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/Module.java,5,0,17
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/base32.h,7,21,16
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/curves.h,4,21,16
+Text,/tmp/clone_directory/docs/requirements.txt,0,0,16
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/SystemShutdown.java,3,3,16
+XML,/tmp/clone_directory/core/external-crypto/aes/python_binding/python_version.props,0,0,15
+CMake,/tmp/clone_directory/core/proto/CMakeLists.txt,3,1,15
+C,/tmp/clone_directory/core/src/dev/protection.c,5,5,15
+C,/tmp/clone_directory/core/src/init_wallet.c,3,7,15
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/bip39.h,9,23,15
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/chacha20poly1305.h,4,0,15
+Bourne Shell,/tmp/clone_directory/scripts/ubuntu_install_protobuf.sh,1,1,15
+CMake,/tmp/clone_directory/core/external-crypto/CMakeLists.txt,4,0,14
+Python,/tmp/clone_directory/core/external-crypto/aes/python_binding/setup.py,6,0,14
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_modes/gcm.4.txt,3,0,14
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts2.txt,3,0,14
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_xts/xts3.txt,3,0,14
+C/C++ Header,/tmp/clone_directory/core/include/aes_gcm_dev.h,7,14,14
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/address.h,4,22,14
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/poly1305-donna.h,6,0,14
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-keccak.h,7,0,14
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-sha3.h,7,0,14
+Gradle,/tmp/clone_directory/java/fake_ncipher/build.gradle.kts,3,3,14
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/CardSet.java,4,0,14
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/SoftCard.java,4,0,14
+Java,/tmp/clone_directory/java/gui/src/test/java/com/squareup/subzero/SystemShutdownTest.java,1,2,14
+Text,/tmp/clone_directory/core/external-crypto/aes/license.txt,6,0,13
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/ltc/ltc_ccm.h,4,7,13
+C/C++ Header,/tmp/clone_directory/core/include/protection.h,6,17,13
+C,/tmp/clone_directory/core/trezor-crypto/curves.c,2,21,13
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/monero/monero.h,5,3,13
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/schnorr.h,5,24,13
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/live_scripts/startup,3,4,13
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,7,0,12
+C/C++ Header,/tmp/clone_directory/core/include/aes_gcm_ncipher.h,5,4,12
+C/C++ Header,/tmp/clone_directory/core/include/rpc.h,5,0,12
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/rfc6979.h,5,24,12
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/segwit_addr.h,7,62,12
+Kotlin,/tmp/clone_directory/java/buildSrc/src/main/kotlin/DependencyVersions.kt,1,0,12
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/provider/km/nCipherKM.java,3,0,12
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/ServerExceptionMapper.java,2,0,12
+C/C++ Header,/tmp/clone_directory/core/external-crypto/modes/gf_mulx.h,4,0,11
+C/C++ Header,/tmp/clone_directory/core/include/hash.h,2,3,11
+C/C++ Header,/tmp/clone_directory/core/include/no_rollback.h,5,4,11
+C,/tmp/clone_directory/core/src/ncipher/protection.c,5,2,11
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/cash_addr.h,7,59,11
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/rc4.h,5,21,11
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/secp256k1.h,5,22,11
+Markdown,/tmp/clone_directory/docs/audit.md,6,0,11
+Markdown,/tmp/clone_directory/docs/contributing.md,5,0,11
+Markdown,/tmp/clone_directory/docs/contributors.md,4,0,11
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/live_scripts/nfast_block_shell,2,2,11
+YAML,/tmp/clone_directory/.readthedocs.yaml,4,6,10
+C/C++ Header,/tmp/clone_directory/core/include/print.h,2,0,10
+C,/tmp/clone_directory/core/src/memzero.c,4,8,10
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/monero/base58.h,4,29,10
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/rand.h,5,22,10
+CSS,/tmp/clone_directory/docs/extra_css.css,2,0,10
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Command.java,3,0,10
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/live_scripts/install_nfast_tools_dev,6,6,10
+YAML,/tmp/clone_directory/.allstar/branch_protection.yaml,0,0,9
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-hash-custom-keccak.h,6,8,9
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-hash-custom-sha3.h,6,8,9
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-hash-custom.h,6,8,9
+C++,/tmp/clone_directory/core/trezor-crypto/gui/main.cpp,1,0,9
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/connect/NFConnection.java,2,0,9
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Act_Details_NVMemOpPerms.java,2,0,9
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd.java,2,0,9
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_PermissionGroup.java,2,0,9
+Markdown,/tmp/clone_directory/core/external-crypto/README.md,4,0,8
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/monero/serialize.h,4,3,8
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/nist256p1.h,5,22,8
+Markdown,/tmp/clone_directory/dvd_label/README.md,3,0,8
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/AdminKeys.java,3,0,8
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/KeyGenerator.java,2,0,8
+YAML,/tmp/clone_directory/java/gui/src/main/resources/sample.yaml,1,2,8
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/live_scripts/install_protobuf,3,3,8
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,7
+Markdown,/tmp/clone_directory/BUG-BOUNTY.md,3,0,7
+C/C++ Header,/tmp/clone_directory/core/include/sign.h,4,0,7
+C,/tmp/clone_directory/core/src/dev/execute_command_hooks.c,2,0,7
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/chacha20poly1305/rfc7539.h,3,0,7
+Markdown,/tmp/clone_directory/docs/bug_bounty.md,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_ModuleState.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/Slot.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/NFUtils.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/connect/StatusNotOK.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_CertType.java,1,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Certificate.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_CertificateList.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd_Args_NVMemOp.java,1,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_SlotType.java,2,0,7
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Status.java,2,0,7
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/observers/NoopObserver.java,2,5,7
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/eme2.2.txt,2,0,6
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/eme2.3.txt,2,0,6
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/eme2.4.txt,2,0,6
+Text,/tmp/clone_directory/core/external-crypto/modes/gt_eme2/eme2.5.txt,2,0,6
+C,/tmp/clone_directory/core/external-crypto/modes/ltc/main.c,2,2,6
+C/C++ Header,/tmp/clone_directory/core/include/init_wallet.h,3,0,6
+C/C++ Header,/tmp/clone_directory/core/include/module_certificate.h,3,0,6
+C/C++ Header,/tmp/clone_directory/core/include/nanopb_stream.h,3,0,6
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/script.h,4,21,6
+Gradle,/tmp/clone_directory/java/buildSrc/build.gradle.kts,2,5,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_Key.java,2,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_WorldInfo.java,2,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_ACL.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Action.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_ByteBlock.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_CertType_CertBody.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_CertType_CertBody_SigningKey.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd_Args_GetTicket.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd_Args_NVMemAlloc.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_FileID.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_FileInfo.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_KeyGenParams.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_KeyHash.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_KeyType_GenParams_Random.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_ModuleID.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_NVMemOpType_OpVal_Write.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Reply.java,1,0,6
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/MarshallContext.java,1,0,6
+Properties,/tmp/clone_directory/java/gradle/wrapper/gradle-wrapper.properties,0,0,6
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/exceptions/HsmConnectionException.java,1,0,6
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/exceptions/MismatchedVersionException.java,1,0,6
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/exceptions/SelfCheckException.java,1,0,6
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/exceptions/UnknownException.java,1,0,6
+Gradle,/tmp/clone_directory/java/settings.gradle.kts,1,3,6
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-32bit-tables.h,6,6,5
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-keccak.c,3,0,5
+C,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-sha3.c,3,0,5
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/memzero.h,3,0,5
+Markdown,/tmp/clone_directory/docs/signing_ceremony.md,4,17,5
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_CardSetIdent.java,2,0,5
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_ModuleInfo.java,2,0,5
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_SlotInfo.java,2,0,5
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/marshall/NFKM_SoftCardIdent.java,2,0,5
+Java,/tmp/clone_directory/java/gui/src/main/java/com/squareup/subzero/observers/InternalCommandRequestObserver.java,2,6,5
+Bourne Shell,/tmp/clone_directory/live-usb-creator/data_app_subzero/subzero-cli.sh,4,4,5
+Text,/tmp/clone_directory/utils/requirements.txt,0,0,5
+C/C++ Header,/tmp/clone_directory/core/include/aes_gcm_common.h,2,1,4
+C/C++ Header,/tmp/clone_directory/core/include/transact.h,4,0,4
+Markdown,/tmp/clone_directory/core/src/checks/README.md,2,0,4
+C,/tmp/clone_directory/core/src/conv.c,1,0,4
+Markdown,/tmp/clone_directory/docs/merging_signatures.md,2,0,4
+Markdown,/tmp/clone_directory/docs/supply_chain_security.md,2,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/connect/ClientException.java,2,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/connect/CommandTooBig.java,2,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/connect/ConnectionClosed.java,2,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Act.java,1,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd_Reply_GetTicket.java,1,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Hash.java,1,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_KeyType.java,1,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_NVMemOpType.java,1,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_TicketDestination.java,1,0,4
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/MarshallTypeError.java,2,0,4
+Java,/tmp/clone_directory/java/server/src/main/java/com/squareup/subzero/server/ServerConfiguration.java,2,0,4
+Bourne Again Shell,/tmp/clone_directory/live-usb-creator/live_scripts/install_pillow,2,3,4
+YAML,/tmp/clone_directory/.allstar/security.yaml,0,0,3
+C/C++ Header,/tmp/clone_directory/core/include/conv.h,2,0,3
+C/C++ Header,/tmp/clone_directory/core/include/init.h,1,0,3
+C/C++ Header,/tmp/clone_directory/core/include/memzero.h,1,0,3
+C,/tmp/clone_directory/core/src/dev/additional_checks.c,2,3,3
+C,/tmp/clone_directory/core/src/dev/init.c,2,3,3
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/curve25519-donna-helpers.h,4,15,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/km/nfkm/CmdCallBack.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/NFException.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Act_Details.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd_Args.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Cmd_Reply.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_KeyID.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_KeyType_GenParams.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_NVMemOpType_OpVal.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Status_ErrorInfo.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_Ticket.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_TicketDestination_Details.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/M_UseLimit.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/nfast/marshall/Marshallable.java,1,0,3
+Java,/tmp/clone_directory/java/fake_ncipher/src/main/java/com/ncipher/provider/nCRuntimeException.java,1,0,3
+Text,/tmp/clone_directory/java/server/src/main/resources/banner.txt,2,0,3
+Bourne Shell,/tmp/clone_directory/live-usb-creator/bootstrap.sh,1,1,3
+Markdown,/tmp/clone_directory/live-usb-creator/install_scripts/README.md,1,0,3
+YAML,/tmp/clone_directory/.allstar/allstar.yaml,0,0,2
+Markdown,/tmp/clone_directory/SECURITY.md,1,0,2
+YAML,/tmp/clone_directory/java/server/config.yml,0,0,2
+Text,/tmp/clone_directory/core/external-crypto/aes/testvals/testvals.txt,0,0,1
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/curve25519-donna-scalarmult-base.h,1,6,1
+C/C++ Header,/tmp/clone_directory/core/trezor-crypto/ed25519-donna/ed25519-donna-basepoint-table.h,0,1,1
+JSON,/tmp/clone_directory/dvd_label/SQMarket-Regular.json,0,0,1
+Properties,/tmp/clone_directory/java/gradle.properties,0,0,1
+JavaScript,/tmp/clone_directory/java/server/src/main/resources/assets/jquery-3.3.1.min.js,0,1,1
+Markdown,/tmp/clone_directory/live-usb-creator/live_scripts/README.md,0,0,1
+SUM,,13210,11318,150817

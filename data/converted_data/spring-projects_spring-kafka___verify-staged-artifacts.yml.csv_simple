@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,125.37107625134124,7140805,False,
+##[group]Fetching the repository,75.78472941441136,2361350,False,
+##[group]Restore Gradle state from cache,12.669668136832442,471584,False,
+##[group]Run gradle :spring-integration-kafka:check --init-script staging-repo-init.gradle,12.1746177943187,408059,True,##[error]Process completed with exit code 127.
+##[group]Checking out the ref,11.521875468504438,352305,False,
+##[group]Caching Gradle state,10.887486903782966,1881200,False,
+##[group]Run gradle/actions/setup-gradle@v3,10.49217075607585,434470,False,
+##[group]Determining the default branch,10.275072731673683,352348,False,
+##[group]Run gradle/actions/wrapper-validation@v3,8.136455252014311,374918,False,
+##[group]Run actions/checkout@v4,3.484430284992877,156789,False,
+##[group]Setting up auth,3.464628271292328,56168,False,
+Requested labels: self-hosted,0.0,5155836,False,

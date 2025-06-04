@@ -1,0 +1,9 @@
+##[group]Run mvn clean install -Pcloud-tests -pl resteasy-feature-pack/common_resteasy-feature-pack/galleon-feature-pack_testsuite/cloud-tests -amd -am '-Ddebug.logs' '-Pjakarta-staging', 5787.077944481916, , , , 466606989, False, 
+Requested labels: self-hosted, 174.68841828478713, , , , 4399396, False, 
+##[group]Installed distributions, 153.17286190111383, , , , 20627497, False, 
+##[group]Run manusa/actions-setup-minikube@v2.10.0, 40.09236467582922, , , , 12437758, True, ##[error]Command failed: sudo apt update -y
+##[group]GITHUB_TOKEN Permissions, 19.626402175147305, , , , 4509209, False, 
+##[group]Cleaning the repository, 6.36819305276118, , , , 641739, False, 
+##[group]Fetching the repository, 5.117555633237696, , , , 457216, False, 
+##[group]Run actions/checkout@v4, 1.0875723887407545, , , , 136335, False, 
+##[group]Setting up auth, 1.0409823799456883, , , , 72523, False, 

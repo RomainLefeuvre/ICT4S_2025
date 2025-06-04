@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn javadoc:aggregate,587.8448577707892,45508929,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:3.1.1:deploy (default-deploy) on project spring-batch: Failed to deploy artifacts: Could not transfer artifact org.springframework.batch:spring-batch:pom:5.2.0-20240520.221901-53 from/to spring-snapshots (https://repo.spring.io/libs-snapshot-local): Transfer failed for https://repo.spring.io/libs-snapshot-local/org/springframework/batch/spring-batch/5.2.0-SNAPSHOT/spring-batch-5.2.0-20240520.221901-53.pom 401 Unauthorized -> [Help 1]
+##[group]Installed distributions,412.1914398976471,51736623,False,
+##[group]==END_FILE==,88.58354137697383,4577581,False,
+##[group]Run mvn assembly:single,73.90233909590715,4040011,False,
+##[group]Run mvn -s settings.xml --batch-mode --update-snapshots deploy,58.18819511391087,4531674,False,
+##[group]Run unzip spring-batch-$PROJECT_VERSION-javadocs.zip,15.61663248787536,919699,True,##[error]Process completed with exit code 255.
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (generate-javadocs) @ spring-batch ---,6.820944036087867,498203,False,
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ spring-batch ---,6.167933275732501,412110,False,
+##[group]GITHUB_TOKEN Permissions,3.659513046459752,2079977,False,
+[INFO] --- maven-failsafe-plugin:3.2.5:integration-test (default) @ spring-batch ---,2.9417310284938094,137709,False,
+[INFO] --- maven-source-plugin:3.3.1:jar (generate-sources) @ spring-batch ---,1.4353066119037945,107219,False,
+[INFO] --- flatten-maven-plugin:1.6.0:flatten (flatten) @ spring-batch ---,1.2930710025313523,93112,False,
+[INFO] --- spring-javaformat-maven-plugin:0.0.39:validate (default) @ spring-batch ---,1.2693650676359454,168283,False,
+##[group]Fetching the repository,1.100032195513199,434368,False,
+##[group]Determining the checkout info,0.2886223087237601,6304,False,
+##[group]Setting up auth,0.2613937890328394,80076,False,
+##[group]Cleaning the repository,0.2559480850946552,77717,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.250502381156471,97169,False,
+##[group]Run actions/checkout@v3,0.2450566772182869,150557,False,

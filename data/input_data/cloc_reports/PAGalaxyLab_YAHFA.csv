@@ -1,0 +1,50 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (3770.3 files/s 193777.8 lines/s)"
+C,/tmp/clone_directory/library/src/main/jni/HookMain.c,37,22,204
+C,/tmp/clone_directory/library/src/main/jni/utils.c,24,10,197
+Java,/tmp/clone_directory/library/src/main/java/lab/galaxy/yahfa/HookMain.java,35,28,170
+Java,/tmp/clone_directory/library/src/androidTest/java/lab/galaxy/yahfa/HookingTest.java,41,6,166
+C,/tmp/clone_directory/library/src/main/jni/trampoline.c,27,47,153
+Java,/tmp/clone_directory/library/src/main/java/lab/galaxy/yahfa/HookAnnotation.java,20,5,151
+Bourne Again Shell,/tmp/clone_directory/gradlew,19,20,121
+Markdown,/tmp/clone_directory/README.md,29,0,70
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,64
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/MainActivity.java,9,4,48
+Gradle,/tmp/clone_directory/library/build.gradle,7,7,34
+C/C++ Header,/tmp/clone_directory/library/src/main/jni/common.h,12,5,26
+CMake,/tmp/clone_directory/library/CMakeLists.txt,13,16,24
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/MainApp.java,7,6,22
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/demoPlugin/Hook_ClassWithVirtualMethod_tac.java,8,3,22
+Gradle,/tmp/clone_directory/build.gradle,4,3,20
+XML,/tmp/clone_directory/demoApp/src/main/AndroidManifest.xml,3,0,20
+XML,/tmp/clone_directory/demoApp/src/main/res/layout/activity_main.xml,2,0,20
+Gradle,/tmp/clone_directory/demoApp/build.gradle,2,0,19
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/HookInfo.java,3,3,18
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/demoPlugin/Hook_ClassWithCtor.java,5,0,18
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/demoPlugin/Hook_ClassWithJNIMethod_fromJNI.java,6,4,16
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/demoPlugin/Hook_Log_e.java,6,3,16
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/demoPlugin/Hook_String_startsWith.java,6,3,16
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/Hook_Log_e.java,4,0,15
+Markdown,/tmp/clone_directory/demoPlugin/README.md,11,0,15
+Markdown,/tmp/clone_directory/demoApp/README.md,9,0,14
+Java,/tmp/clone_directory/demoPlugin/src/main/java/lab/galaxy/yahfa/demoPlugin/Hook_ClassWithStaticMethod_tac.java,5,9,13
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,4,0,12
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/ClassWithStaticMethod.java,2,3,11
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/ClassWithVirtualMethod.java,2,3,11
+Gradle,/tmp/clone_directory/demoPlugin/build.gradle,1,0,11
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/ClassWithCtor.java,3,0,10
+XML,/tmp/clone_directory/demoPlugin/src/main/AndroidManifest.xml,3,0,10
+XML,/tmp/clone_directory/library/src/main/AndroidManifest.xml,4,0,8
+Java,/tmp/clone_directory/demoApp/src/main/java/lab/galaxy/yahfa/demoApp/ClassWithJNIMethod.java,3,3,7
+make,/tmp/clone_directory/demoApp/src/main/jni/Android.mk,4,0,6
+XML,/tmp/clone_directory/demoApp/src/main/res/values/colors.xml,0,0,6
+C/C++ Header,/tmp/clone_directory/library/src/main/jni/trampoline.h,5,3,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C,/tmp/clone_directory/demoApp/src/main/jni/hello.c,1,3,4
+XML,/tmp/clone_directory/demoApp/src/main/res/values/styles.xml,2,2,4
+XML,/tmp/clone_directory/demoApp/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/demoPlugin/src/main/res/values/strings.xml,0,0,3
+Properties,/tmp/clone_directory/gradle.properties,0,15,3
+XML,/tmp/clone_directory/library/src/main/res/values/strings.xml,0,0,3
+make,/tmp/clone_directory/demoApp/src/main/jni/Application.mk,0,0,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,412,238,1817

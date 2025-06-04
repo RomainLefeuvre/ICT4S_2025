@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn test --file pom.xml,1572.1042529840138,94607618,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test[m (default-test)[m on project Java-WebSocket[m: There are test failures.[m
+Requested labels: self-hosted,45.41427748218397,37921321,False,
+##[group]GITHUB_TOKEN Permissions__dup_9,25.621776523738838,2060193,False,
+##[group]Run mvn -DskipTests package --file pom.xml,16.88121851690118,20036634,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test[m (default-test)[m on project Java-WebSocket[m: There are test failures.[m
+##[group]GITHUB_TOKEN Permissions,15.21092222290643,2157436,False,
+##[group]Fetching the repository__dup_13,7.669335881830731,413849,False,
+##[group]Fetching the repository,6.484444336861259,692923,False,
+##[group]Run actions/checkout@v3__dup_10,3.4604060913443417,160497,False,
+##[group]Installed distributions,2.0809293420569257,279180,False,
+##[group]Setting up auth,1.8237685080649264,66509,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.7863423231078244,31008,False,
+##[group]Run actions/checkout@v3,1.7318702266151185,180147,False,
+##[group]Checking out the ref,0.9800505933558422,43449,False,
+##[group]==END_FILE==,0.0,5867530,False,

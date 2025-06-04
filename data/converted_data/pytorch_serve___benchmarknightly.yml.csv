@@ -1,0 +1,33 @@
+##[group]==END_FILE==, 25.171974166596016, , , , 4492209, False, 
+##[group]GITHUB_TOKEN Permissions, 346.8096947395511, , , , 4866477, False, 
+##[group]Installed versions, 91.55651963606417, , , , 22009704, False, 
+##[group]Installed distributions, 165.63451364475637, , , , 18078826, False, 
+##[group]Run actions/checkout@v3, 1.7151194457187988, , , , 120721, False, 
+##[group]Getting Git version info, 63.934727844340856, , , , 9186511, False, 
+##[group]Run sudo apt-get update -y, 1.1916706558535697, , , , 131460, False, 
+##[group]Run python benchmarks/auto_benchmark.py --input benchmarks/benchmark_config_neuronx.yaml --skip false, 1.243956264030108, , , , 37967, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Run actions/upload-artifact@v2, 1.2962418722066469, , , , 105316, True, ##[error]Process completed with exit code 100.
+##[group]Run dawidd6/action-download-artifact@v2, 7.788349565446696, , , , 794448, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/upload-artifact@v2__dup_11, 9.13726839834142, , , , 694193, True, ##[error]Process completed with exit code 2.
+##[group]==END_FILE==__dup_12, 653.3879317711162, , , , 74936376, False, 
+##[group]GITHUB_TOKEN Permissions__dup_13, 24.653082038691096, , , , 4968289, False, 
+##[group]Run echo "Cleaning up previous run", 1.0424843793632563, , , , 32149, False, 
+##[group]Installed versions__dup_15, 164.7596015719137, , , , 20902590, False, 
+##[group]Installed distributions__dup_16, 175.86668441230904, , , , 15343219, False, 
+##[group]Run actions/checkout@v3__dup_17, 2.775744822687632, , , , 136877, False, 
+##[group]Getting Git version info__dup_18, 65.38349677005702, , , , 9107576, False, 
+##[group]Run python benchmarks/auto_benchmark.py --input benchmarks/benchmark_config_cpu.yaml --skip false, 1.2586987555456943, , , , 34031, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Run actions/upload-artifact@v2__dup_20, 1.3555027386118388, , , , 79092, True, ##[error]Process completed with exit code 100.
+##[group]Run dawidd6/action-download-artifact@v2__dup_21, 12.199030696134916, , , , 691611, True, ##[error]Process completed with exit code 2.
+##[group]Run python benchmarks/utils/update_artifacts.py --output /tmp/ts_artifacts/cpu_benchmark_validation, 2.129934603140996, , , , 33469, False, 
+##[group]Run actions/upload-artifact@v2__dup_23, 13.06977259235859, , , , 705335, True, ##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions__dup_24, 59.01083852225052, , , , 5269830, False, 
+##[group]Installed versions__dup_25, 206.75562778001864, , , , 13715908, False, 
+##[group]Installed distributions__dup_26, 194.6437843601921, , , , 19415790, False, 
+##[group]Run actions/checkout@v3__dup_27, 5.146705085252545, , , , 130373, False, 
+##[group]Getting Git version info__dup_28, 43.224648476737705, , , , 9356196, False, 
+##[group]Run python benchmarks/auto_benchmark.py --input benchmarks/benchmark_config_gpu.yaml --skip false, 1.082793696594196, , , , 34454, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]Run actions/upload-artifact@v2__dup_30, 1.2224210174557693, , , , 75374, True, ##[error]Process completed with exit code 100.
+##[group]Run dawidd6/action-download-artifact@v2__dup_31, 8.904651504510312, , , , 703678, True, ##[error]Process completed with exit code 2.
+##[group]Run python benchmarks/validate_report.py --input-artifacts-dir /tmp/ts_artifacts/gpu_benchmark_validation, 2.2235591056217188, , , , 47732, False, 
+##[group]Run actions/upload-artifact@v2__dup_33, 14.437511563506014, , , , 672052, True, ##[error]Process completed with exit code 2.

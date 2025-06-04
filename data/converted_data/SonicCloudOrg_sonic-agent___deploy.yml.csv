@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 13.92722349000967, , , , 6445431, False, 
+##[group]GITHUB_TOKEN Permissions, 74.00902965354982, , , , 3474097, False, 
+##[group]Run actions/checkout@v2, 232.6576260556695, , , , 193356, False, 
+##[group]Initializing the repository, 122.07562475031354, , , , 98303, False, 
+##[group]Setting up auth, 125.90683256529935, , , , 80445, False, 
+##[group]Fetching the repository, 804.9643104461368, , , , 19514375, False, 
+##[group]Checking out the ref, 3.963884691670473, , , , 215593, False, 
+##[group]Run WyriHaximus/github-action-get-previous-tag@v1, 2.3699148555854053, , , , 120904, False, 
+##[group]Run actions/setup-java@v2, 18.563588359941043, , , , 2312882, False, 
+##[group]Run robinraju/release-downloader@v1.4, 8.263098266956467, , , , 1110314, False, 
+##[group]Run robinraju/release-downloader@v1.4__dup_11, 7.050293294563095, , , , 1067569, False, 
+##[group]Run robinraju/release-downloader@v1.4__dup_12, 20.936687773312507, , , , 1395200, False, 
+##[group]Run robinraju/release-downloader@v1.4__dup_13, 6.701220079638466, , , , 1042236, False, 
+##[group]Run tar zxvf *_linux_x86_64.tar.gz && rm *_linux_x86_64.tar.gz && mv sib plugins/sonic-ios-bridge, 1.5691175245445887, , , , 27730, False, 
+##[group]Run mvn package -Dplatform=linux-x86_64 -Dmaven.test.skip=true, 118.7067514598667, , , , 12416563, True, [ERROR[m] Internal error: java.lang.IllegalArgumentException: version can neither be null, empty nor blank -> [Help 1][m
+##[group]Run docker build -t sonicorg/sonic-agent-linux: -f src/main/docker/Dockerfile ., 16.050688362837143, , , , 413926, True, ##[error]Process completed with exit code 1.
+##[group]Run docker push sonicorg/sonic-agent-linux:, 15.830149367873602, , , , 1961436, True, ##[error]Process completed with exit code 1.

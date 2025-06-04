@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 24.064524491015263, , , , 5815644, False, 
+##[group]GITHUB_TOKEN Permissions, 6.220112946613068, , , , 3644830, False, 
+##[group]Run actions/checkout@v3, 2.42689908198007, , , , 166242, False, 
+##[group]Setting up auth, 1.2110977680413748, , , , 65415, False, 
+##[group]Fetching the repository, 14.410881023166189, , , , 1183630, False, 
+##[group]Checking out the ref, 3.567443661561648, , , , 331289, False, 
+##[group]Installed distributions, 1.181308644025016, , , , 24152, False, 
+##[group]Run actions/cache@v3, 22.14697299631172, , , , 1897398, False, 
+##[group]Run mvn -T 8 clean test -Dprops.file=testconfig/ebean-postgres.properties, 3299.3805912673506, , , , 228936770, True, [ERROR[m] Tests run: 5[m, Failures: 3[m, Errors: 1[m, Skipped: 0, Time elapsed: 13.98 s <<< FAILURE![m -- in org.integration.IntegrationTest[m

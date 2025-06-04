@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,119.84681346285409,39432961,False,
+##[group]GITHUB_TOKEN Permissions__dup_8,72.42925405010376,10497429,False,
+##[group]==END_FILE==,28.41634026705562,23477372,False,
+##[group]GITHUB_TOKEN Permissions__dup_6,21.52672599555444,8781469,False,
+##[group]GITHUB_TOKEN Permissions,5.85366213467799,9807975,False,
+##[group]Run cd /d %USERPROFILE%,5.403727460430795,519348,True,##[error]Process completed with exit code 127.
+##[group]==END_FILE==__dup_2,4.104313225294139,5279081,False,
+##[group]Run cd $HOME,2.9145465560376693,202548,True,##[error]Process completed with exit code 127.
+##[group]Run export SUDO=$(which sudo),2.557317989850272,243405,True,##[error]Process completed with exit code 127.

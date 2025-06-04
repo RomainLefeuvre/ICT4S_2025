@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gradle-update/update-gradle-wrapper-action@v1,326.3514071699227,2902336,False,
+##[group]GITHUB_TOKEN Permissions,117.06605699660123,2067490,False,
+##[group]Fetching the repository,67.41346145966767,463201,False,
+##[group]Run actions/checkout@v4,36.26667064569856,144826,False,
+##[group]Working with Wrapper at: /home/power/actions-runner/_work/android-morphing-button/android-morphing-button/gradle/wrapper/gradle-wrapper.properties,23.89448288996749,367599,False,
+##[group]Setting up auth,17.65334658862464,57793,False,
+Requested labels: self-hosted,0.0561694062556243,4713996,False,

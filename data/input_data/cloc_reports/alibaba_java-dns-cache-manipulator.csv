@@ -1,0 +1,54 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2374.0 files/s 281683.8 lines/s)"
+Maven,/tmp/clone_directory/pom.xml,19,69,606
+Markdown,/tmp/clone_directory/README.md,103,3,323
+Markdown,/tmp/clone_directory/docs/zh-CN/library.md,72,3,266
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/agent/DcmAgent.java,61,25,246
+Kotlin,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/DnsCacheManipulatorTests.kt,55,58,196
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/InetAddressCacheUtilForNew.java,53,79,186
+Bourne Shell,/tmp/clone_directory/mvnw,26,48,185
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/InetAddressCacheUtilForOld.java,50,72,184
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/IPAddressUtil.java,17,90,180
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/DnsCacheManipulator.java,25,169,169
+Maven,/tmp/clone_directory/tool/pom.xml,7,9,144
+Java,/tmp/clone_directory/tool/src/main/java/com/alibaba/dcm/tool/DcmTool.java,33,13,136
+DOS Batch,/tmp/clone_directory/mvnw.cmd,15,0,134
+Kotlin,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/agent/DcmAgentTests.kt,48,3,128
+Bourne Again Shell,/tmp/clone_directory/tool/src/bin/dcm,24,27,122
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/InetAddressCacheUtilCommons.java,26,78,109
+Markdown,/tmp/clone_directory/docs/zh-CN/tool.md,26,3,105
+Maven,/tmp/clone_directory/library/pom.xml,5,8,104
+Kotlin,/tmp/clone_directory/tool/src/test/java/com/alibaba/dcm/tool/DcmToolTests.kt,22,7,74
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/DnsCacheEntry.java,16,39,68
+Markdown,/tmp/clone_directory/docs/developer-guide.md,15,0,67
+Bourne Again Shell,/tmp/clone_directory/scripts/integration_test,19,30,64
+Kotlin,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/Util.kt,12,7,62
+Kotlin,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/DnsCacheEntryTests.kt,14,3,54
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/DnsCache.java,12,27,46
+Kotlin,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/internal/IpParserUtilTests.kt,13,3,42
+Kotlin,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/DnsCacheTests.kt,8,3,39
+YAML,/tmp/clone_directory/.github/workflows/strong_ci.yaml,6,6,33
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/IpParserUtil.java,7,11,32
+XML,/tmp/clone_directory/tool/src/assembly/assembly.xml,0,0,30
+Markdown,/tmp/clone_directory/docs/zh-CN/README.md,6,0,28
+XML,/tmp/clone_directory/library/src/versions-rules.xml,1,6,23
+YAML,/tmp/clone_directory/.github/workflows/ci.yaml,3,2,21
+INI,/tmp/clone_directory/.editorconfig,5,0,17
+Java,/tmp/clone_directory/tool/src/test/java/com/alibaba/demo/MainForAgentInject.java,3,3,17
+Java,/tmp/clone_directory/library/src/test/java/com/alibaba/demo/SocketDemo.java,9,3,15
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/TimeUtil.java,6,17,14
+XML,/tmp/clone_directory/library/src/test/resources/log4j.xml,0,0,13
+YAML,/tmp/clone_directory/.github/dependabot.yml,1,4,10
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/DnsCacheManipulatorException.java,3,18,10
+HTML,/tmp/clone_directory/library/src/javadoc/overview.html,0,0,9
+HTML,/tmp/clone_directory/tool/src/javadoc/overview.html,0,0,8
+Java,/tmp/clone_directory/library/src/test/java/com/alibaba/dcm/internal/TestTimeUtil.java,2,3,6
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,16,3
+Text,/tmp/clone_directory/docs/logo.meta.txt,1,0,3
+Properties,/tmp/clone_directory/library/src/test/resources/dns-cache-multi-ips.properties,0,0,2
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/agent/package-info.java,0,6,1
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/internal/package-info.java,0,5,1
+Java,/tmp/clone_directory/library/src/main/java/com/alibaba/dcm/package-info.java,0,6,1
+Properties,/tmp/clone_directory/library/src/test/resources/customized-dns-cache.properties,0,0,1
+Properties,/tmp/clone_directory/library/src/test/resources/dns-cache.properties,0,0,1
+Properties,/tmp/clone_directory/library/src/test/resources/my-dns-cache.properties,0,0,1
+SUM,,849,982,4339

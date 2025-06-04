@@ -1,0 +1,13 @@
+##[group]Run ant -noinput -buildfile loader/build.xml fast, 598.6261618352851, , , , 44812798, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 30.99422729915345, , , , 2830541, False, 
+##[group]Run go install github.com/google/osv-scanner/cmd/osv-scanner@v1, 28.631388924535223, , , , 14005235, False, 
+##[group]go env, 21.15963840849524, , , , 1177862, False, 
+##[group]Run PATH="${PATH}:$(go env GOPATH)/bin" osv-scanner -r /home/power/actions-runner/_work/Lucee/Lucee, 18.39313926421961, , , , 3503142, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-go@v4, 10.711334475115995, , , , 1120956, False, 
+##[group]Fetching the repository, 7.0651243867369455, , , , 455639, False, 
+##[group]Run actions/setup-java@v2, 3.761899378561084, , , , 229194, False, 
+##[group]Cleaning the repository, 3.303225008175862, , , , 184935, False, 
+##[group]Run actions/checkout@v2, 3.131222119281404, , , , 183795, False, 
+##[group]Setting up auth, 1.6946132263115454, , , , 79591, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.6086117818643164, , , , 38066, False, 
+Requested labels: self-hosted, 0.016257427580207, , , , 4044525, False, 

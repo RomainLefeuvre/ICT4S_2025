@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 2.8245571318707907, , , , 5139591, False, 
+##[group]GITHUB_TOKEN Permissions, 0.2968112537852833, , , , 3108602, False, 
+##[group]Run actions/checkout@v2, 0.0222249145863351, , , , 182842, False, 
+##[group]Setting up auth, 0.0112442773548345, , , , 70805, False, 
+##[group]Fetching the repository, 0.1172761758094705, , , , 989603, False, 
+##[group]Checking out the ref, 0.0122109578070595, , , , 54051, False, 
+##[group]Run actions/setup-java@v1, 176.4620457764075, , , , 16933136, False, 
+##[group]Run echo "开始进行release构建", 1037.0676053992668, , , , 113161632, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@master, 6.224034186430871, , , , 2548731, False, 

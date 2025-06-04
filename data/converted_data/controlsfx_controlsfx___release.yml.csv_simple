@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,212.41110420462917,2319461,False,
+##[group]Run export DISPLAY=:90,108.5268319601885,6927618,True,"##[error]Exception in thread ""main"" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.4.1-bin/58kw26xllvsiedyf3nujyarhn/gradle-7.4.1-bin.zip.lck (Aucun fichier ou dossier de ce type)"
+##[group]Fetching the repository,92.7072444020873,1379079,False,
+##[group]GITHUB_TOKEN Permissions,84.18115980203525,2078170,False,
+##[group]Run actions/checkout@v4,16.55563354895262,297761,False,
+##[group]Run TAG=${GITHUB_REF/refs\\/tags\\//},12.935224288647664,1144087,False,
+"##[group]Run gpg --import --batch <(echo ""$GPG_PRIVATE_KEY"") &> /dev/null",10.745183259279033,86619,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref,7.493052485880771,84490,False,
+##[group]Setting up auth,5.750839571560273,82827,False,
+Requested labels: self-hosted,1.5856608934097758,4444563,False,
+##[group]Run ./gradlew publishToSonatype closeAndReleaseSonatypeStagingRepository -i \\,1.338109151441766,128085,True,"##[error]Exception in thread ""main"" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.4.1-bin/58kw26xllvsiedyf3nujyarhn/gradle-7.4.1-bin.zip.lck (Aucun fichier ou dossier de ce type)"
+"##[group]Run git config --global user.name ""abhinayagarwal""",1.3149406270623925,45122,True,##[error]Process completed with exit code 5.

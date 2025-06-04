@@ -1,0 +1,10 @@
+##[group]Run ./gradlew build, 773.7261107362349, , , , 57862553, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar, 307.4172924562505, , , , 20187239, False, 
+##[group]Terminate Emulator, 156.34894223774467, , , , 13059975, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions, 13.478073526638394, , , , 2999257, False, 
+##[group]Run actions/setup-java@v2, 11.55135721155344, , , , 1866644, False, 
+Requested labels: self-hosted, 10.178962991759745, , , , 3251069, False, 
+##[group]Fetching the repository, 3.2856995164441862, , , , 612653, False, 
+##[group]Install Android SDK, 3.154522609268297, , , , 50604, False, 
+##[group]Run actions/checkout@v2, 1.0505297773665083, , , , 182739, False, 
+##[group]Setting up auth, 0.5319703979004873, , , , 65687, False, 

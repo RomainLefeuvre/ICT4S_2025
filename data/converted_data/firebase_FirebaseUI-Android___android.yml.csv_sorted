@@ -1,0 +1,10 @@
+##[group]Run ./scripts/build.sh, 1741.95864631537, , , , 127142924, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:build, 705.2588141182442, , , , 39693551, False, 
+> Task :buildSrc:processTestResources NO-SOURCE, 135.77093008275335, , , , 4799951, False, 
+##[group]GITHUB_TOKEN Permissions, 19.93284064218104, , , , 1982714, False, 
+##[group]Fetching the repository, 12.802399758043656, , , , 1333552, False, 
+Requested labels: self-hosted, 11.035438797810524, , , , 5292517, False, 
+> Task :buildSrc:inspectClassesForKotlinIC, 2.719054872900314, , , , 100442, False, 
+##[group]Run actions/setup-java@v1, 2.6318347178553827, , , , 265042, False, 
+##[group]Run actions/checkout@v2, 1.8915313227944308, , , , 197281, False, 
+##[group]Checking out the ref, 0.8851053732407947, , , , 107233, False, 

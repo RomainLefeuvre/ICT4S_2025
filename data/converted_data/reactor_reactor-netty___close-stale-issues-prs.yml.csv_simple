@@ -1,0 +1,2 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/stale@28ca1036281a5e5922ead5184a1bbf96e5fc984e,51.34599288684034,2681426,False,

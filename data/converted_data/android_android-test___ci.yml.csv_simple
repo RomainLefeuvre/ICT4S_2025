@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,187.82106868614864,27005113,False,
+##[group]GITHUB_TOKEN Permissions,33.51405480342962,4328160,False,
+##[group]Run rm -rf $(bazel info repository_cache),12.064889174394915,657107,False,
+##[group]Run actions/cache@v4,10.708096961074324,599303,False,
+##[group]Fetching the repository,8.53655966573082,417886,False,
+##[group]Run actions/upload-artifact@v4,5.867439782147615,300519,False,
+##[group]Removing previously created refs_ to avoid conflicts,4.529698355253901,310227,False,
+##[group]Run bazelisk build //:axt_m2repository,2.0487163264653683,46177,True,##[error]Process completed with exit code 127.
+##[group]Installed distributions,1.944206910820001,33969,False,
+##[group]Cleaning the repository,1.588864444309246,28501,False,
+##[group]Run actions/checkout@v4,1.4309344591933544,130320,False,

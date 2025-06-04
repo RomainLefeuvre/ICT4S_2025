@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 813.1728139141419, , , , 94804529, False, 
+##[group]GITHUB_TOKEN Permissions, 4.67504217924811, , , , 1733726, False, 
+##[group]Run actions/checkout@v1, 13.286822765145612, , , , 3077650, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/setup-node@v1, 22.344597711371257, , , , 4943375, False, 
+##[group]Run cd website/, 733.4106258331261, , , , 70706894, False, 
+##[group]GITHUB_TOKEN Permissions__dup_6, 23.888441977746027, , , , 1897531, False, 
+##[group]Run actions/checkout@v1__dup_7, 42.03036928358602, , , , 1941488, False, 
+##[group]Run actions/setup-node@v1__dup_8, 11.261880582255014, , , , 310971, False, 
+##[group]Run mkdir -p ~/.ssh, 4.169876564361608, , , , 1073070, False, 
+##[group]Run git config --global user.email "yogevbd@wix.com", 1131.813601397108, , , , 53825097, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,17.163439800316635,1559717,False,
+##[group]Run release-drafter/release-drafter@v6,11.85219459367378,1138879,True,##[error]Invalid config file
+Requested labels: self-hosted,11.274413904231352,6436466,False,

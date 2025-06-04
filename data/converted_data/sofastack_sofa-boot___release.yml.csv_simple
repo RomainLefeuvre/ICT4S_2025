@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --batch-mode deploy -DskipTests -Prelease,835.1491300391871,112822947,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (sign-artifacts) on project sofa-boot-build: Exit code: 2 -> [Help 1]
+##[group]GITHUB_TOKEN Permissions,213.78903608189665,2150584,False,
+[INFO] --- flatten-maven-plugin:1.2.7:flatten (flatten) @ sofa-boot-build ---,172.3240187235341,23963615,False,
+##[group]Installed distributions,168.15107595048028,2095979,False,
+Requested labels: self-hosted,66.89958456291895,4618707,False,
+##[group]Fetching the repository,36.01304273219925,437789,False,
+##[group]Run actions/checkout@v4,18.851668775940677,178064,False,
+##[group]Cleaning the repository,18.48946274315165,198136,False,
+##[group]Removing previously created refs_ to avoid conflicts,9.33528287977308,55332,False,
+##[group]Setting up auth,9.154179863378571,76212,False,
+##[group]Checking out the ref,8.852341502721059,23395,False,

@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Augmented user configuration file contents,146.28114577545958,4243563,False,
+##[group]Validating workflow,108.82217283601383,2519206,False,
+##[group]GITHUB_TOKEN Permissions,70.63099082646816,14327235,False,
+##[group]Run github/codeql-action/analyze@1b1aada464948af03b950897e5eb522f92603cc2,45.58299741759386,1631464,False,
+##[group]Load language configuration,34.8321097819686,971200,False,
+##[group]Setup CodeQL tools,24.12471198293236,3379355,False,
+##[group]Fetching the repository,14.83767698305207,423519,False,
+##[group]Finalizing java,9.623958756969524,4968830,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.16.5/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin and Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11,7.144248177477183,147716,False,
+##[group]Waiting for processing to finish,5.549318658300447,6583068,False,
+##[group]Run export SWAP_FILE=$(swapon --show=NAME | tail -n 1),3.8982000866716016,95992,True,##[error]Process completed with exit code 16.
+"##[group]Run echo ""Memory and swap:""",3.863876297415496,141789,False,
+##[group]Setting up auth,3.623609772622751,57665,False,
+##[group]Uploading results,3.218128631590595,392732,False,
+"##[group]Run mkdir -p ""$HOME/.gradle""",2.843473011672296,92016,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,0.066611377858112,3842669,False,

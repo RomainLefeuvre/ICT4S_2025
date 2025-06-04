@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -V -U -B -Plicense_check org.eclipse.dash:license-tool-plugin:license-check -DexcludeArtifactIds=bsh_jmh-core_jmh-generator-annprocess_swing-layout,4695.649757712607,495454914,False,
+##[group]GITHUB_TOKEN Permissions,134.54978061983678,3312145,False,
+##[group]Run actions/upload-artifact@v4,27.007968709773785,1854105,False,
+##[group]Fetching the repository,26.44134246344059,422820,False,
+##[group]Cleaning the repository,12.39354648511747,146732,False,
+##[group]Run actions/checkout@v4,11.979984111816057,159980,False,
+##[group]Installed distributions,7.178983879149591,31521,False,
+##[group]Setting up auth,6.351859132546765,72465,False,
+##[group]==END_FILE==,0.2251646985010882,3906050,False,

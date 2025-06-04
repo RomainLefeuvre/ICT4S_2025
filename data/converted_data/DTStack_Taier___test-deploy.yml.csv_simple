@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,75.69110607369781,2185100,False,
+##[group]==END_FILE==,21.619567382672205,5516665,False,
+##[group]Fetching the repository,21.071793222558654,3392807,False,
+##[group]Run actions/setup-node@v2,14.94328732795587,473503,False,
+##[group]Run yarn install --frozen-lockfile,12.389743205204711,541592,True,##[error]Unable to locate executable file: yarn. Please verify either the file path exists or the file can be found within a directory specified by the PATH environment variable. Also check the file mode to verify the file is executable.
+##[group]Checking out the ref,10.49809887042422,350967,False,
+##[group]Setting up auth,3.710049411558464,110831,False,
+##[group]Getting Git version info,3.692659438008352,5259,False,
+##[group]Run actions/checkout@v2,3.67526946445824,180265,False,

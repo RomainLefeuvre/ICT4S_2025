@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 254.33242647267008, , , , 2503071, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/hashicorp/packer-github-actions/master/Dockerfile'., 157.5476873276502, , , , 27531970, False, 
+##[group]Run hashicorp/packer-github-actions@master, 9.720409083750546, , , , 6018034, False, 
+##[group]Run hashicorp/packer-github-actions@master__dup_7, 5.645825007417849, , , , 5798033, False, 
+##[group]Run aws-actions/configure-aws-credentials@v3, 1.4358026201892131, , , , 2175341, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run echo "Cloning repo...", 0.3329891460900485, , , , 121896, True, ##[error]Process completed with exit code 129.
+Requested labels: self-hosted, 0.0, , , , 4963812, False, 

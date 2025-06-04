@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.0, , , , 4009819, False, 
+##[group]GITHUB_TOKEN Permissions, 95.24190094492684, , , , 2695606, False, 
+##[group]Run actions/checkout@v2, 33.03294730810895, , , , 180242, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 16.186224975585226, , , , 100548, False, 
+##[group]Setting up auth, 15.96605918993906, , , , 66058, False, 
+##[group]Fetching the repository, 61.66257890329461, , , , 433706, False, 
+##[group]Run actions/setup-java@v2, 29.06996316647799, , , , 242665, False, 
+##[group]Run ./gradlew DungeoneerDesktop:dist, 13.98456711912358, , , , 119639, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-5.1.1-all/97z1ksx6lirer3kbvdnh7jtjg/gradle-5.1.1-all.zip.lck
+##[group]Run ./gradlew DelvEdit:dist, 13.764401333477418, , , , 115578, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-5.1.1-all/97z1ksx6lirer3kbvdnh7jtjg/gradle-5.1.1-all.zip.lck
+##[group]Run actions/upload-artifact@v2, 13.544235547831253, , , , 80007, False, 
+##[group]Run actions/upload-artifact@v2__dup_11, 64.41869095446377, , , , 515591, False, 

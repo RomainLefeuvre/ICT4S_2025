@@ -1,0 +1,22 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_2,168.7268155647867,33391699,False,
+##[group]Fetching the repository,50.42485795777668,8814012,False,
+##[group]Run ant test -Dtest.shuffle=1 -Dtest.repeat=10,31.882694369302115,2399747,True,##[error]Process completed with exit code 1.
+##[group]Run ant package,28.89338231070923,984766,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_12,20.60444579596768,2159902,False,
+##[group]Run which java,15.423976387196218,3605001,True,##[error]Process completed with exit code 127.
+##[group]Run ant package__dup_21,13.24835683447165,961238,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,10.576456147034769,5690522,False,
+##[group]Checking out the ref,7.501111969084312,573555,False,
+##[group]GITHUB_TOKEN Permissions,7.336355080618633,2347754,False,
+##[group]Fetching the repository__dup_16,6.877168116488309,439600,False,
+##[group]Run ant test -Dtest.shuffle=1 -Dtest.repeat=10__dup_20,6.72674180882467,556916,True,##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v2,4.430818727633505,242654,False,
+##[group]Removing previously created refs_ to avoid conflicts,4.167326226528523,371267,False,
+##[group]Run actions/setup-java@v2__dup_17,4.093480584584555,240862,False,
+##[group]Run actions/checkout@v2__dup_13,2.791892603230861,194647,False,
+##[group]Run which java__dup_18,2.7153119375111907,198201,True,##[error]Process completed with exit code 127.
+##[group]Setting up auth,1.3836386946247696,66997,False,
+##[group]Run hooks/pre-commit,1.3535534330920416,7698,False,
+##[group]Initializing the repository,0.4518769433714375,11743,False,
+##[group]Run actions/checkout@v2,0.4430166111484682,190145,False,

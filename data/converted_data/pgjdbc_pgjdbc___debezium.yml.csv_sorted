@@ -1,0 +1,11 @@
+##[group]Run git clone --depth 1 https://github.com/debezium/debezium.git, 531.6180433493846, , , , 78359125, True, [Error: ENOENT: no such file or directory, mkdir '/root/.gradle'] {
+##[group]GITHUB_TOKEN Permissions, 141.77044332155288, , , , 2949856, False, 
+##[group]Restore dependencies-maven, 110.52944282844282, , , , 8486176, False, 
+##[group]Fetching the repository, 71.32387756199886, , , , 891326, False, 
+##[group]Restore dependencies-gradle, 53.48546891665588, , , , 397876, False, 
+##[group]Restore gradle-generated-jars, 40.41218784875502, , , , 417205, False, 
+##[group]Save dependencies-maven, 32.21406434356367, , , , 5961547, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 8.980958522253067, , , , 25071, False, 
+##[group]Checking out the ref, 8.584927308158122, , , , 18120, False, 
+##[group]Run actions/checkout@v3, 7.132812856476644, , , , 149478, False, 
+##[group]==END_FILE==, 0.2139191173366316, , , , 4540234, False, 

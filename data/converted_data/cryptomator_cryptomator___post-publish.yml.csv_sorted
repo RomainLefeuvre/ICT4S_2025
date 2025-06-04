@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 310.4217030882567, , , , 2631228, False, 
+##[group]Pull down action image 'ghcr.io/rtcamp/action-slack-notify:v2.3.0', 115.28399308336448, , , , 14517304, False, 
+##[group]Run docker://ghcr.io/rtcamp/action-slack-notify:v2.3.0, 46.98842750671346, , , , 21354353, True, [ERROR] Secret `SLACK_WEBHOOK` is missing. Falling back to using `SLACK_TOKEN` and `SLACK_CHANNEL`.
+##[group]Run curl -L -H "Accept: application/vnd.github+json" https://github.com/cryptomator/cryptomator/archive/refs/tags/.tar.gz --output cryptomator-.tar.gz, 4.877278711265348, , , , 617788, False, 
+##[group]Run softprops/action-gh-release@v2, 0.7219903145186531, , , , 124537, True, ##[error]⚠️ GitHub Releases requires a tag
+Requested labels: self-hosted, 0.4158289411586017, , , , 4286567, False, 

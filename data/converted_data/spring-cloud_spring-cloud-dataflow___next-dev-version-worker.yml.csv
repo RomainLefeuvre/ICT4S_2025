@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0892439485567567, , , , 4374728, False, 
+##[group]GITHUB_TOKEN Permissions, 113.12314072512012, , , , 5159814, False, 
+##[group]Run actions/checkout@v4, 1.2914321858235152, , , , 144535, False, 
+##[group]Setting up auth, 1.2729974983400405, , , , 63363, False, 
+##[group]Fetching the repository, 6.22672733557414, , , , 482068, False, 
+##[group]Run actions/cache@v3, 12.787287169811396, , , , 1182855, False, 
+##[group]Run jfrog rt mvnc \\, 1.005694529829657, , , , 55843, False, 
+##[group]Run jfrog rt mvn build-helper:parse-version versions:set \\, 21.073460511797613, , , , 4632906, True, [Error] Server ID repo.spring.io: URL is required.
+##[group]Run find ~/.m2/repository -type d -name '*SNAPSHOT' | xargs rm -fr, 0.6446881610880172, , , , 807866, False, 
+##[group]Cleanup JFrog CLI servers configuration, 0.5255602078871876, , , , 475467, False, 

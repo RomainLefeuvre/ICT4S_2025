@@ -1,0 +1,12 @@
+##[group]Run cd boot-kotlin, 1149.8541915812812, , , , 136821818, True, [ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.229 s <<< FAILURE! -- in com.example.demo.IntegrationTests
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-reactive-sample-boot-kotlin ---, 316.0880771837889, , , , 39144460, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-reactive-sample-boot-kotlin ---, 76.5683468314362, , , , 10866795, False, 
+##[group]Installed distributions, 62.58829800915488, , , , 17456054, False, 
+Requested labels: self-hosted, 60.68995243577748, , , , 3804989, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-reactive-sample-boot-kotlin ---, 43.148229835590186, , , , 1507428, False, 
+##[group]GITHUB_TOKEN Permissions, 23.5366574322282, , , , 2376221, False, 
+##[group]Fetching the repository, 15.827035350860903, , , , 459281, False, 
+##[group]Run actions/checkout@v4, 3.532531931189671, , , , 145142, False, 
+##[group]Getting Git version info, 3.4591069589861734, , , , 26166, False, 
+##[group]Disabling automatic garbage collection, 3.385681986782675, , , , 3413, False, 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-boot-kotlin ---, 1.1862855656640965, , , , 138248, False, 

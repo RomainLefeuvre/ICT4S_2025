@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 90.73834653605172, , , , 5071756, False, 
+##[group]Run actions/checkout@v2, 1.453473050328594, , , , 171409, False, 
+##[group]Disabling automatic garbage collection, 0.7225321769737825, , , , 4789, False, 
+##[group]Fetching the repository, 3.5706174029637667, , , , 456564, False, 
+##[group]Run tibdex/github-app-token@v1, 0.7029118854180479, , , , 118034, True, ##[error]Error: Input required and not supplied: app_id
+##[group]Run actions/setup-java@v2, 1.3805976816930083, , , , 244422, False, 
+##[group]Run actions/cache@v2, 126.89888736437776, , , , 19445434, False, 
+##[group]Run export MY_POM_VERSION=`mvn -q -Dexec.executable="echo" -Dexec.args='${projects.version}' --non-recursive org.codehaus.mojo:exec-maven-plugin:1.3.1:exec`, 63.56561445524444, , , , 20141371, True, ##[error]Process completed with exit code 1.

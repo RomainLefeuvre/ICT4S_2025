@@ -1,0 +1,47 @@
+##[group]==END_FILE==, 281.9138799749385, , , , 60179616, False, 
+##[group]GITHUB_TOKEN Permissions, 124.29216763483716, , , , 6279441, False, 
+##[group]Run actions/checkout@v4, 2.1295549755837184, , , , 139652, False, 
+##[group]Getting Git version info, 2.171597575725881, , , , 79846, False, 
+##[group]Initializing the repository, 6.767048328030614, , , , 279227, False, 
+##[group]Fetching the repository, 36.58262828106015, , , , 1380239, False, 
+##[group]Checking out the ref, 5.898771356711757, , , , 167818, False, 
+##[group]Run actions/download-artifact@v4, 18.95759207440013, , , , 639281, False, 
+##[group]Run actions/download-artifact@v4__dup_9, 24.03012905993519, , , , 642126, False, 
+##[group]Run actions/setup-java@v4, 10.929265742104656, , , , 274643, False, 
+##[group]Run ./gradlew :jreleaser:copyJdksFromCache :jreleaser:setupJdks, 22.99368168804769, , , , 529072, False, 
+##[group]📦 Download JReleaser, 49.63426450987424, , , , 4286831, True, ##[error]Unable to download artifact(s): Artifact not found for name: jlink
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler jpackage --select-current-platform", 8.396159429165909, , , , 5155497, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4, 4.745494205836847, , , , 1373704, False, 
+##[group]Run ./gradlew -stop, 0.4344301032886558, , , , 86490, False, 
+##[group]Run actions/upload-artifact@v4__dup_16, 3.39741798707508, , , , 742266, True, [ERROR] == JReleaser ==
+##[group]GITHUB_TOKEN Permissions__dup_17, 18.75834207638948, , , , 6627802, False, 
+##[group]Run actions/checkout@v4__dup_18, 3.0872533510530102, , , , 144599, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.5818420600409355, , , , 86509, False, 
+##[group]Disabling automatic garbage collection, 1.607318983050556, , , , 3712, False, 
+##[group]Fetching the repository__dup_21, 10.17892928150536, , , , 588183, False, 
+##[group]Run actions/download-artifact@v4__dup_22, 11.248960047909405, , , , 644679, False, 
+##[group]Run actions/download-artifact@v4__dup_23, 10.202133371070492, , , , 638108, False, 
+##[group]Run cd out/jreleaser/assemble/jreleaser-standalone/jlink, 2.098360209231253, , , , 38520, False, 
+##[group]Run actions/setup-java@v4__dup_25, 6.381980930219491, , , , 278987, False, 
+##[group]Run ./gradlew :jreleaser:copyJdksFromCache :jreleaser:setupJdks__dup_26, 2.156293744248408, , , , 94277, False, 
+##[group]📦 Download JReleaser__dup_27, 12.374640934213788, , , , 3509086, True, ##[error]Unable to download artifact(s): Artifact not found for name: jlink
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler jpackage --select-current-platform"__dup_28, 30.96348323897905, , , , 1645021, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_29, 8.878527721572825, , , , 620577, False, 
+##[group]Run ./gradlew -stop__dup_30, 1.3757812625596844, , , , 84837, False, 
+##[group]Run actions/upload-artifact@v4__dup_31, 9.936809849823677, , , , 748372, True, [ERROR] == JReleaser ==
+##[group]GITHUB_TOKEN Permissions__dup_32, 16.638287962299167, , , , 6173301, False, 
+##[group]Run actions/checkout@v4__dup_33, 2.463581817896203, , , , 148930, False, 
+##[group]Getting Git version info__dup_34, 12.317909089481017, , , , 132611, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_35, 2.361947523866678, , , , 31134, False, 
+##[group]Setting up auth, 2.311130376851915, , , , 60821, False, 
+##[group]Fetching the repository__dup_37, 14.755032521550053, , , , 653077, False, 
+##[group]Run actions/download-artifact@v4__dup_38, 9.777051738742882, , , , 636769, False, 
+##[group]Run actions/download-artifact@v4__dup_39, 9.754552045013964, , , , 629364, False, 
+##[group]Run cd out/jreleaser/assemble/jreleaser-standalone/jlink__dup_40, 1.5158747829757997, , , , 42911, False, 
+##[group]Run actions/setup-java@v4__dup_41, 7.2654199400412995, , , , 281367, False, 
+##[group]Run ./gradlew :jreleaser:copyJdksFromCache :jreleaser:setupJdks__dup_42, 1.655578661089778, , , , 71854, False, 
+##[group]📦 Download JReleaser__dup_43, 41.99454954078071, , , , 3244206, True, ##[error]Unable to download artifact(s): Artifact not found for name: jlink
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler jpackage --select-current-platform"__dup_44, 44.25950380422535, , , , 1641793, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_45, 15.919982867238398, , , , 611092, False, 
+##[group]Run ./gradlew -stop__dup_46, 2.6204046624881854, , , , 83501, False, 
+##[group]Run actions/upload-artifact@v4__dup_47, 12.81980203771338, , , , 742595, True, [ERROR] == JReleaser ==

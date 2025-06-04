@@ -1,0 +1,36 @@
+Requested labels: self-hosted, 38.19680545421009, , , , 4534546, False, 
+##[group]GITHUB_TOKEN Permissions, 101.99442872077614, , , , 3182735, False, 
+##[group]Run actions/checkout@v4, 3.1219850914823044, , , , 194200, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.100269557478033, , , , 407157, False, 
+##[group]Cleaning the repository, 11.529936196018706, , , , 803780, False, 
+##[group]Setting up auth, 1.3873542899448723, , , , 115182, False, 
+##[group]Fetching the repository, 9.376178570145427, , , , 678111, False, 
+##[group]Determining the checkout info, 2.571132693783761, , , , 205881, False, 
+##[group]Checking out the ref, 3.766886149746532, , , , 312987, False, 
+##[group]Removing auth, 1.2316786123344146, , , , 119391, False, 
+##[group]Run actions/cache@v4, 23.48342668436433, , , , 653380, False, 
+##[group]Run export JDK_HOME=${JAVA_HOME_8_X64} , 288.641358572403, , , , 26545593, False, 
+##[group]Run actions/upload-artifact@v4, 55.84945226173015, , , , 5856154, False, 
+Requested labels: self-hosted__dup_14, 99.18994260311244, , , , 16523622, False, 
+Requested labels: self-hosted__dup_15, 17.548664247657413, , , , 2937416, False, 
+Requested labels: self-hosted__dup_16, 223.36933030193308, , , , 30092457, False, 
+##[group]GITHUB_TOKEN Permissions__dup_17, 16.681244448219253, , , , 2563306, False, 
+##[group]Run actions/download-artifact@v4, 12.27627472741357, , , , 1554879, False, 
+##[group]Run export JDK_HOME=${JAVA_HOME_8_X64}, 7.310243958189691, , , , 810827, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4__dup_20, 5.075695223774664, , , , 337764, True, ##[error]No files were found with the provided path: profiler/lib.profiler/release/lib/deployed/jdk16/linux-amd64/. No artifacts will be uploaded.
+##[group]Run actions/upload-artifact@v4__dup_21, 12.77995160256295, , , , 1517350, False, 
+##[group]GITHUB_TOKEN Permissions__dup_22, 25.59222094753878, , , , 2344069, False, 
+##[group]Run actions/download-artifact@v4__dup_23, 27.93966912172168, , , , 1448583, False, 
+##[group]Run echo on, 1.6513387038000131, , , , 120239, True, ##[error]cmd: command not found
+##[group]Run echo on__dup_25, 1.5920479057177186, , , , 16395, True, ##[error]cmd: command not found
+##[group]Run actions/upload-artifact@v4__dup_26, 11.205302272192492, , , , 1555646, False, 
+##[group]Run actions/upload-artifact@v4__dup_27, 16.289693327969154, , , , 1506884, False, 
+##[group]GITHUB_TOKEN Permissions__dup_28, 56.20214805114394, , , , 6363686, False, 
+##[group]Run actions/download-artifact@v4__dup_29, 23.89427027729492, , , , 1995966, False, 
+##[group]Run export JDK_HOME=${JAVA_HOME_8_X64}__dup_30, 1.123392423947358, , , , 62682, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v4__dup_31, 4.933229582434954, , , , 343099, True, ##[error]No files were found with the provided path: profiler/lib.profiler/release/lib/deployed/jdk16/mac/. No artifacts will be uploaded.
+Requested labels: self-hosted__dup_32, 18.44892680226681, , , , 3069723, False, 
+##[group]GITHUB_TOKEN Permissions__dup_33, 38.52982501393181, , , , 2379850, False, 
+##[group]Run actions/download-artifact@v4__dup_34, 47.35044798315767, , , , 2264037, False, 
+##[group]Run cp myfiles/lib/deployed/jdk16/profiler-external-sources-ASF/LICENSE myfiles/LICENSE, 117.55862048551096, , , , 6568568, False, 
+##[group]Run actions/upload-artifact@v4__dup_36, 18.939778413436144, , , , 1665259, False, 

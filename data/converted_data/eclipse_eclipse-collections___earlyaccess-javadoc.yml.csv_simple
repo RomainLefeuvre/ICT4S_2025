@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw -Dsurefire.useFile=false -DskipTests -Denforcer.skip=true clean install javadoc:aggregate -pl '!unit-tests_!serialization-tests_!jcstress-tests_!junit-trait-runner_!unit-tests-java8_!test-coverage_!p2-repository_!org.eclipse.collections:org.eclipse.collections' --no-transfer-progress,3289.0122653239378,413462779,True,"05:08:52:787 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.12.1:compile (default-compile) on project eclipse-collections-code-generator: Fatal error compiling: Error while executing the external compiler. Error while executing process. Cannot run program ""javac"" (in directory ""/home/power/actions-runner/_work/eclipse-collections/eclipse-collections/eclipse-collections-code-generator""): error=2, Aucun fichier ou dossier de ce nom -> [Help 1]"
+##[group]==END_FILE==,128.42804274136893,4984269,False,
+##[group]Run mvn -N wrapper:wrapper -Dmaven=3.6.3 --no-transfer-progress,97.59265811763368,12424291,False,
+05:08:46:410 [INFO] --- maven-dependency-plugin:3.1.2:analyze-only (analyze) @ eclipse-collections-parent ---,31.64260646840163,4885856,False,
+05:08:51:297 [INFO] --- maven-install-plugin:3.1.1:install (default-install) @ eclipse-collections-parent ---,13.601999503618368,419313,False,
+##[group]GITHUB_TOKEN Permissions,12.23493776467116,2939147,False,
+05:08:51:724 [INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ eclipse-collections-code-generator ---,9.04077081034122,329372,False,
+05:08:45:829 [INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce) @ eclipse-collections-parent ---,7.260807842068919,581168,False,
+##[group]Cleaning the repository,3.8473179084524927,560113,False,
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java,3.821278824336422,506505,False,
+05:08:45:686 [INFO] --- maven-clean-plugin:3.2.0:clean (default-clean) @ eclipse-collections-parent ---,3.164657663037384,142051,False,
+##[group]Fetching the repository,2.821649625026722,451668,False,
+##[group]Run java --version,2.1419733329463644,44606,False,
+##[group]Run actions/checkout@v4,1.1968489630202557,158022,False,
+##[group]Run echo 'Outputs',0.7963521422912502,10015,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref,0.7321593874433187,22161,False,
+##[group]Setting up auth,0.6786654250700422,67661,False,

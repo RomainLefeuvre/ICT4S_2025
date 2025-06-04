@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/sourcegraph/codenotify/v0.6.4/Dockerfile'.,226.69249392319637,69828823,False,
+##[group]GITHUB_TOKEN Permissions,31.670858426385056,2489098,False,
+##[group]Run sourcegraph/codenotify@v0.6.4,11.66342543716685,8374653,False,
+##[group]Run actions/labeler@v4.3.0,5.081358273884068,457866,False,
+##[group]Fetching the repository,1.1787300497244275,557213,False,
+##[group]Run actions/checkout@v4,0.3934031365129083,183815,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.1966487339773721,80229,False,
+##[group]Cleaning the repository,0.1966135111246507,95760,False,
+##[group]Setting up auth,0.1965782882719294,90048,False,
+##[group]Checking out the ref,0.1962965054501584,170290,False,
+Requested labels: self-hosted,0.0,4228764,False,

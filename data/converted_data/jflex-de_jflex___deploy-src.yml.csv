@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.8205134406119357, , , , 3967538, False, 
+##[group]GITHUB_TOKEN Permissions, 280.56998169847697, , , , 2698380, False, 
+##[group]Run actions/checkout@v3, 30.10792400674377, , , , 192929, False, 
+##[group]Initializing the repository, 15.50516986140975, , , , 94465, False, 
+##[group]Setting up auth, 15.805975100101657, , , , 64854, False, 
+##[group]Fetching the repository, 101.03927032158116, , , , 2630391, False, 
+##[group]Checking out the ref, 6.807906106792367, , , , 519170, False, 
+##[group]Run actions/checkout@v3__dup_8, 1.2031172630282665, , , , 131354, False, 
+##[group]Fetching the repository__dup_9, 52.131319274064666, , , , 32337596, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Run actions/cache@v3, 2.3692478818969844, , , , 612713, False, 
+##[group]Run cd jflex; bazel --bazelrc=.ci.bazelrc info release, 0.4875281914832171, , , , 94083, True, ##[error]Process completed with exit code 127.
+##[group]Run cd jflex; scripts/prepare-deploy-source-code.sh, 0.5287075445944999, , , , 143713, True, ##[error]Process completed with exit code 127.
+##[group]Run cd aggregated-java-sources; git push, 4.27746375571946, , , , 664489, True, ##[error]Process completed with exit code 128.

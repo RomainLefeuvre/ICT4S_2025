@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0, , , , 4191822, False, 
+##[group]GITHUB_TOKEN Permissions, 182.51961646503923, , , , 2211958, False, 
+##[group]Run actions/checkout@v3, 11.59215496851432, , , , 168663, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 11.8194521247597, , , , 91852, False, 
+##[group]Setting up auth, 12.274046437250458, , , , 72200, False, 
+##[group]Fetching the repository, 51.369157311455616, , , , 474693, False, 
+##[group]Determining the checkout info, 13.410532218477352, , , , 196, False, 
+##[group]Installed distributions, 153.81627202829014, , , , 10869316, False, 
+##[group]Run mvn --batch-mode test, 195.64435812539625, , , , 14749866, True, [ERROR] Tests run: 13, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.268 s <<< FAILURE! - in technology.tabula.TestCommandLineApp
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ tabula ---, 1.6525611580902468, , , , 126885, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ tabula ---, 34.569850543222486, , , , 1666874, False, 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ tabula ---, 2.414480082288869, , , , 100427, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ tabula ---, 10.081208620376934, , , , 382298, False, 

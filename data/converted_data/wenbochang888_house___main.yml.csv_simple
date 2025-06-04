@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,126.08622712883708,6183358,False,
+##[group]Fetching the repository,122.1158710771858,3926122,False,
+##[group]Run actions/checkout@v2,12.76657121094614,194354,False,
+##[group]GITHUB_TOKEN Permissions,12.42893437820628,1455604,False,
+##[group]Setting up auth,9.25078842618142,74111,False,
+##[group]Initializing the repository,8.10378729789808,108976,False,
+##[group]Run echo Add other actions to build_,3.5030853776463733,278513,False,
+##[group]Checking out the ref,0.9776372573733412,91741,False,

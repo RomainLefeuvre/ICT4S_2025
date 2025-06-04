@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 541.8807352438946, , , , 4411654, False, 
+##[group]GITHUB_TOKEN Permissions, 9.979777699757191, , , , 1655146, False, 
+##[group]Run echo "done!", 1.5586710145601896, , , , 35139, False, 
+##[group]Determining release tags, 1.2088433942471908, , , , 119988, True, ##[error]The parameter "automatic_release_tag" was not set and this does not appear to be a GitHub tag event. (Event: refs/heads/master)

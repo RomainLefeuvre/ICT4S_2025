@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run python ./.github/scripts/reporter.py ""test""",74.66639505092331,1599047,False,
+##[group]GITHUB_TOKEN Permissions,46.12766467514973,2004392,False,
+##[group]Fetching the repository,13.563319936946566,423489,False,
+##[group]Installed versions,12.181905990362475,290028,False,
+##[group]Run ./.github/scripts/download_reports.sh,3.614098432864703,54824,False,
+##[group]Setting up auth,3.231352520930883,58203,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.16756153560858,26731,False,
+##[group]Run actions/checkout@v4,3.1037705502862765,140373,False,
+##[group]==END_FILE==,0.7704394922363527,5069104,False,

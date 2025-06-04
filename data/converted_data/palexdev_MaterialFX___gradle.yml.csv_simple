@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,285.6610189009299,28082852,False,
+Requested labels: self-hosted,52.90008571852179,5793559,False,
+##[group]Fetching the repository,46.01514636620146,1672949,False,
+##[group]GITHUB_TOKEN Permissions,22.717500547178528,1983183,False,
+##[group]Run ./gradlew build -x test,8.235433408248719,1165557,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4-bin.zip.lck"
+##[group]Run actions/checkout@v2,7.090558051722721,200867,False,
+##[group]Checking out the ref,3.896250584284816,145224,False,
+##[group]Initializing the repository,3.425492495832439,31183,False,

@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run bash docker-build.sh latest,339.4113379497633,65803506,False,
+##[group]GITHUB_TOKEN Permissions,43.09111745776786,2656780,False,
+##[group]Fetching the repository,27.90896686248593,1075832,False,
+##[group]Run actions/setup-java@v2,8.716436864676691,298409,False,
+##[group]Run actions/checkout@v2,4.460524029341593,229337,False,
+##[group]Run docker/login-action@v1.10.0,2.987323432494828,67907,True,##[error]Username and password required
+##[group]Checking out the ref,2.7827122384883327,113029,False,
+##[group]Setting up auth,2.2916453728727446,70675,False,
+Requested labels: self-hosted,0.0,5629974,False,

@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,22.03973624806391,4732509,False,
+##[group]GITHUB_TOKEN Permissions,5.157394467821616,178632,False,
+##[group]Run gh workflow run main.yml -f jdk_compatibility_ci=true -f windows_ci=true --repo ${GITHUB_REPOSITORY},2.437985694241425,139990,True,##[error]Process completed with exit code 127.

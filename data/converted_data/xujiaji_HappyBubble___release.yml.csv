@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.0260091325050555, , , , 5881872, False, 
+##[group]GITHUB_TOKEN Permissions, 7.826667145628827, , , , 2113158, False, 
+##[group]Run actions/checkout@v3, 1.0042152290026405, , , , 156363, False, 
+##[group]Setting up auth, 0.5176367159807425, , , , 59672, False, 
+##[group]Fetching the repository, 4.513792163352074, , , , 818668, False, 
+##[group]Installed distributions, 0.6418695278161205, , , , 114977, False, 
+##[group]Run ./gradlew build, 157.02481134570286, , , , 35300676, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew assembleDebug, 19.063930034746733, , , , 1047740, True, ##[error]Process completed with exit code 1.
+##[group]Run gpg -k, 23.205251851650416, , , , 3151197, True, ##[error]Process completed with exit code 1.
+> Task :happy-bubble:generatePomFileForMavenJavaPublication, 9.651848657704212, , , , 1196780, False, 
+##[group]Run tag_name="${GITHUB_REF##*/}", 10.114158622183684, , , , 1212964, True, ##[error]Process completed with exit code 127.

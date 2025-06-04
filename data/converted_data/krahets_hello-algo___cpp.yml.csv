@@ -1,0 +1,20 @@
+Requested labels: self-hosted, 65.39281157103218, , , , 15427080, False, 
+Requested labels: self-hosted__dup_2, 115.30763183726764, , , , 26994454, False, 
+Requested labels: self-hosted__dup_3, 7.565448580745287, , , , 3862428, False, 
+##[group]GITHUB_TOKEN Permissions, 36.19556079088152, , , , 1206096, False, 
+##[group]Run actions/checkout@v4, 6.919732032217062, , , , 191967, False, 
+##[group]Setting up auth, 7.116873936010425, , , , 123815, False, 
+##[group]Fetching the repository, 14.825173583400945, , , , 462622, False, 
+##[group]Run ctest --build-config Release, 11.932090540698333, , , , 307154, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/hello-algo/hello-algo/codes/cpp/build'. No such file or directory
+##[group]GITHUB_TOKEN Permissions__dup_9, 9.869465161949035, , , , 1224531, False, 
+##[group]Run actions/checkout@v4__dup_10, 2.1119292031098817, , , , 193026, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.0997475711910385, , , , 20039, False, 
+##[group]Setting up auth__dup_12, 1.1289362176151037, , , , 71286, False, 
+##[group]Fetching the repository__dup_13, 6.082510784436495, , , , 457540, False, 
+##[group]Run cmake -B /home/power/actions-runner/_work/hello-algo/hello-algo/codes/cpp/build -DCMAKE_CXX_COMPILER=cl -DCMAKE_C_COMPILER=cl -DCMAKE_BUILD_TYPE=Release -S /home/power/actions-runner/_work/hello-algo/hello-algo/codes/cpp, 1.3040680961594944, , , , 26547, True, ##[error]Process completed with exit code 127.
+##[group]Run ctest --build-config Release__dup_15, 4.087336167022874, , , , 288324, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/hello-algo/hello-algo/codes/cpp/build'. No such file or directory
+##[group]GITHUB_TOKEN Permissions__dup_16, 4.006730008107008, , , , 1176832, False, 
+##[group]Run actions/checkout@v4__dup_17, 0.8607053792995888, , , , 192821, False, 
+##[group]Setting up auth__dup_18, 0.446429110034385, , , , 70499, False, 
+##[group]Fetching the repository__dup_19, 2.392909754017832, , , , 490834, False, 
+##[group]Run ctest --build-config Release__dup_20, 1.6286628970257868, , , , 297804, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/hello-algo/hello-algo/codes/cpp/build'. No such file or directory

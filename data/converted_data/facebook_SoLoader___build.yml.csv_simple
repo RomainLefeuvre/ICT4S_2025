@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run passy/run-buck@v0.1.0,3074.3914509014267,30347334,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/passy/run-buck/v0.1.0/Dockerfile'.,1259.7850641835184,467024310,False,
+##[group]Fetching the repository,112.34431702161665,613526,False,
+##[group]Run actions/checkout@v2,45.65115019206288,1036497,False,
+##[group]Setting up auth,39.412516444262415,357689,False,
+##[group]Initializing the repository,7.406428915192001,138601,False,
+##[group]Getting Git version info,6.930354541531522,92366,False,
+##[group]GITHUB_TOKEN Permissions,3.8760272919781182,1867010,False,
+Requested labels: self-hosted,0.0091331206270226,5297070,False,

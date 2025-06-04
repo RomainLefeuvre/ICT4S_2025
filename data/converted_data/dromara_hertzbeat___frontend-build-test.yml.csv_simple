@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,52.90870164274502,9341900,False,
+##[group]GITHUB_TOKEN Permissions,32.533459807954124,1170291,False,
+##[group]Run actions/checkout@v2,17.213470797859323,233403,False,
+##[group]Checking out the ref,4.717952148043626,743790,False,
+##[group]Setting up auth,3.2757312744979137,62083,False,
+##[group]Run yarn lint:ts,1.6456061383783769,397846,True,##[error]Process completed with exit code 127.
+##[group]Run yarn,0.4750952788484724,74199,True,##[error]Process completed with exit code 127.
+Requested labels: self-hosted,0.0533429039059244,5662901,False,

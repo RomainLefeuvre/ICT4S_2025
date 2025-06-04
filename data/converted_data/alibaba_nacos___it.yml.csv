@@ -1,0 +1,52 @@
+##[group]==END_FILE==, 0.0288858524435307, , , , 5982784, False, 
+##[group]GITHUB_TOKEN Permissions, 75.45363310890059, , , , 3337036, False, 
+##[group]Run actions/cache@v3, 480.9268892864908, , , , 53872950, False, 
+##[group]Run actions/checkout@v3, 1.4397144116660885, , , , 147821, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.0213903735118093, , , , 168827, False, 
+##[group]Cleaning the repository, 8.381584976494047, , , , 403254, False, 
+##[group]Fetching the repository, 9.564597894657652, , , , 458840, False, 
+##[group]Run mvn -version, 30.05311245616, , , , 1160819, False, 
+##[group]Run mvn clean package -Pcit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn, 2673.4600126068035, , , , 164038963, True, [ERROR[m] Tests run: 10[m, Failures: 0, Errors: 10[m, Skipped: 0, Time elapsed: 9.328 s <<< FAILURE![m -- in com.alibaba.nacos.test.config.ConfigExportAndImportAPI_CITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn, 42.35525000458209, , , , 2236638, True, [ERROR[m] 
+##[group]Run mvn clean package -Pnit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn, 3750.500715321257, , , , 149731879, True, [ERROR[m] Tests run: 20[m, Failures: 0, Errors: 18[m, Skipped: 2[m, Time elapsed: 8.684 s <<< FAILURE![m -- in com.alibaba.nacos.test.naming.MultiTenant_ITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_12, 210.37348927767607, , , , 14622617, True, [ERROR[m] 
+##[group]==END_FILE==__dup_13, 62.05531669710789, , , , 8020672, False, 
+##[group]GITHUB_TOKEN Permissions__dup_14, 13.976852517250665, , , , 3051484, False, 
+##[group]Run actions/cache@v3__dup_15, 428.1575064196197, , , , 54016050, False, 
+##[group]Run actions/checkout@v3__dup_16, 1.4996368499868071, , , , 141947, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_17, 1.5149876968198237, , , , 33394, False, 
+##[group]Cleaning the repository__dup_18, 7.574938484099117, , , , 41458, False, 
+##[group]Setting up auth, 2.7002500432302154, , , , 145502, False, 
+##[group]Fetching the repository__dup_20, 4.827227230687186, , , , 489899, False, 
+##[group]Run mvn -version__dup_21, 11.987228539485876, , , , 1808434, False, 
+##[group]Run mvn clean package -Pcit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_22, 3667.188822152999, , , , 139034068, True, [ERROR[m] Tests run: 10[m, Failures: 0, Errors: 10[m, Skipped: 0, Time elapsed: 9.328 s <<< FAILURE![m -- in com.alibaba.nacos.test.config.ConfigExportAndImportAPI_CITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_23, 61.74127645674081, , , , 2469291, False, 
+##[group]Run mvn clean package -Pnit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_24, 4247.434544501732, , , , 165477471, True, [ERROR[m] Tests run: 20[m, Failures: 0, Errors: 18[m, Skipped: 2[m, Time elapsed: 8.684 s <<< FAILURE![m -- in com.alibaba.nacos.test.naming.MultiTenant_ITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_25, 62.69549379958019, , , , 3677468, False, 
+##[group]==END_FILE==__dup_26, 81.40276559726409, , , , 9457184, False, 
+##[group]GITHUB_TOKEN Permissions__dup_27, 22.138549445911384, , , , 2972849, False, 
+##[group]Run actions/cache@v3__dup_28, 458.8785389696369, , , , 51249875, False, 
+##[group]Run actions/checkout@v3__dup_29, 8.373216863455538, , , , 143243, False, 
+##[group]Getting Git version info, 2.834672108853808, , , , 175629, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_31, 1.2629516634683815, , , , 168381, False, 
+##[group]Setting up auth__dup_32, 2.011288690408356, , , , 187822, False, 
+##[group]Fetching the repository__dup_33, 3.2270704981714644, , , , 488992, False, 
+##[group]Run mvn -version__dup_34, 14.121696665065585, , , , 1719457, False, 
+##[group]Run mvn clean package -Pcit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_35, 3539.5392231593287, , , , 131978341, True, [ERROR[m] Tests run: 10[m, Failures: 0, Errors: 10[m, Skipped: 0, Time elapsed: 9.328 s <<< FAILURE![m -- in com.alibaba.nacos.test.config.ConfigExportAndImportAPI_CITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_36, 78.51548228491221, , , , 2283910, False, 
+##[group]Run mvn clean package -Pnit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_37, 4288.23550775783, , , , 160947076, True, [ERROR[m] Tests run: 20[m, Failures: 0, Errors: 18[m, Skipped: 2[m, Time elapsed: 8.684 s <<< FAILURE![m -- in com.alibaba.nacos.test.naming.MultiTenant_ITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_38, 107.2931279751146, , , , 3496920, False, 
+##[group]==END_FILE==__dup_39, 77.93841498362022, , , , 8952035, False, 
+##[group]GITHUB_TOKEN Permissions__dup_40, 25.684354409932016, , , , 2941861, False, 
+##[group]Run actions/cache@v3__dup_41, 512.6522034136743, , , , 54526545, False, 
+##[group]Run actions/checkout@v3__dup_42, 1.86366658235354, , , , 143231, False, 
+##[group]Getting Git version info__dup_43, 1.6838155364603025, , , , 12629, False, 
+##[group]Cleaning the repository__dup_44, 7.519822452835326, , , , 40530, False, 
+##[group]Setting up auth__dup_45, 1.3470299766099083, , , , 110658, False, 
+##[group]Fetching the repository__dup_46, 3.596459603906406, , , , 469898, False, 
+##[group]Installed distributions, 1.2775120571701313, , , , 31257, False, 
+##[group]Run mvn -version__dup_48, 7.085335456336719, , , , 174459, False, 
+##[group]Run mvn clean package -Pcit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_49, 3129.275379606316, , , , 121772076, True, [ERROR[m] Tests run: 10[m, Failures: 0, Errors: 10[m, Skipped: 0, Time elapsed: 9.328 s <<< FAILURE![m -- in com.alibaba.nacos.test.config.ConfigExportAndImportAPI_CITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_50, 59.99363635488132, , , , 2338756, False, 
+##[group]Run mvn clean package -Pnit-test -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_51, 3796.454635568178, , , , 153536576, True, [ERROR[m] Tests run: 20[m, Failures: 0, Errors: 18[m, Skipped: 2[m, Time elapsed: 8.684 s <<< FAILURE![m -- in com.alibaba.nacos.test.naming.MultiTenant_ITCase[m
+##[group]Run mvn clean -Premove-test-data -e -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=warn__dup_52, 87.474499934279, , , , 3400121, False, 

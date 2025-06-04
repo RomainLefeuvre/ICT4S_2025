@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,3063.167153863078,326654650,False,
+##[group]Run ./gradlew gmavenVersionCheck,233.81584103551236,17771611,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,128.9209431651999,2390818,False,
+> Task :buildSrc:jar,121.79646093288896,4801931,False,
+##[group]Fetching the repository,30.33078022841928,452381,False,
+> Task :buildSrc:classes,16.287346762355927,201724,False,
+##[group]Setting up auth,14.50209338664319,125002,False,
+##[group]Run actions/checkout@v4.1.1,13.838796659076744,164871,False,
+##[group]Removing previously created refs_ to avoid conflicts,7.085222511429984,92675,False,
+> Task :buildSrc:pluginDescriptors,3.3991935613823565,99837,False,
+##[group]==END_FILE==,0.0502870869394013,5484072,False,

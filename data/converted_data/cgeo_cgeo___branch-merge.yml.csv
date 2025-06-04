@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 0.0142447627182941, , , , 4058495, False, 
+##[group]GITHUB_TOKEN Permissions, 17.073714869026777, , , , 210886, False, 
+##[group]Run git clone https://@github.com/cgeo/cgeo.git -b master tmp, 53.11474198386328, , , , 462375, False, 
+##[group]Run cd tmp    # path is reseted for every step_ therefore we need to set it again , 2.7286579795025925, , , , 398931, True, ##[error]Process completed with exit code 128.

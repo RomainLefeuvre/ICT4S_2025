@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 88.85596261860455, , , , 4764793, False, 
+##[group]GITHUB_TOKEN Permissions, 20.71323314407161, , , , 2356627, False, 
+##[group]Run actions/checkout@v3.1.0, 6.747945212541226, , , , 200758, False, 
+##[group]Setting up auth, 3.304093149675731, , , , 64941, False, 
+##[group]Fetching the repository, 12.750509554737038, , , , 421976, False, 
+##[group]Installed distributions, 2.931402714503024, , , , 21962, False, 
+##[group]Run ./gradlew assemble --scan, 2.8848164101064357, , , , 166176, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.6.1-all/942lu1p9i6mhoyzmt401s4g74/gradle-7.6.1-all.zip.lck
+##[group]Run ./gradlew androidSourcesJar javadocJar --scan, 5.629873907023105, , , , 152659, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.6.1-all/942lu1p9i6mhoyzmt401s4g74/gradle-7.6.1-all.zip.lck
+##[group]Run ./gradlew publishReleasePublicationToSonatypeRepository --max-workers 1 closeAndReleaseSonatypeStagingRepository --scan, 18.237090086088333, , , , 691301, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.6.1-all/942lu1p9i6mhoyzmt401s4g74/gradle-7.6.1-all.zip.lck

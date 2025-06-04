@@ -1,0 +1,184 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.09 s (2045.2 files/s 164844.5 lines/s)"
+JSON,/tmp/clone_directory/admin3-ui/package-lock.json,0,0,1376
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/components/AppIcon.vue,8,0,633
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/user-list.vue,44,17,465
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/role-list.vue,44,11,456
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/components/OrgSelect.vue,38,21,419
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/dashboard.vue,24,0,283
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/storage-list.vue,24,3,248
+SQL,/tmp/clone_directory/admin3-server/src/main/resources/data.sql,12,2,224
+Bourne Shell,/tmp/clone_directory/mvnw,34,62,220
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/resource-list.vue,14,3,213
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/storage/StorageServiceImpl.java,24,3,168
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/user.vue,15,0,167
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/StorageControllerTest.java,17,11,153
+DOS Batch,/tmp/clone_directory/mvnw.cmd,35,0,153
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/components/header.vue,16,9,151
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/StorageController.java,18,3,147
+Maven,/tmp/clone_directory/admin3-server/pom.xml,2,0,146
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/components/tags.vue,14,9,145
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/StorageConfig.java,51,3,135
+Markdown,/tmp/clone_directory/docs/api-reference.md,55,0,129
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/login.vue,13,0,124
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/log-list.vue,10,7,123
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/components/AvatarUpload.vue,12,0,121
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/authz/PermissionHelper.java,25,14,119
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/RoleControllerTest.java,13,3,118
+TypeScript,/tmp/clone_directory/admin3-ui/src/router/index.ts,3,3,113
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/components/sidebar.vue,12,0,112
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/tabs.vue,4,0,112
+CSS,/tmp/clone_directory/admin3-ui/src/assets/css/main.css,25,1,111
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/User.java,36,10,106
+Markdown,/tmp/clone_directory/admin3-ui/README.md,33,0,104
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/DomainEventPublisher.java,30,13,102
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/OrganizationControllerTest.java,13,3,102
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/storage/S3Storage.java,17,14,96
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/UserService.java,17,3,96
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/service/LocalSessionManager.java,16,3,95
+Markdown,/tmp/clone_directory/admin3-ui/README_EN.md,26,0,93
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/ResourceService.java,17,3,90
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/RoleService.java,13,3,87
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,5,0,85
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/UserControllerTest.java,11,3,83
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/ResourceControllerTest.java,9,3,80
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/StringUtils.java,8,11,79
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/Resource.java,30,5,79
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/ExceptionControllerAdvice.java,13,3,78
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/JsonUtils.java,11,6,77
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/RoleController.java,16,3,75
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/StorageFileDTO.java,27,12,75
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/service/DefaultSessionService.java,14,3,73
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/LoginControllerTest.java,9,3,73
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/Session.java,22,5,72
+Maven,/tmp/clone_directory/admin3-ui/pom.xml,3,1,69
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/StorageFile.java,25,15,66
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/OrganizationController.java,15,3,65
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/UserController.java,13,3,65
+Markdown,/tmp/clone_directory/docs/authority-management.md,28,3,65
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/storage/LocalStorage.java,14,3,63
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/Organization.java,23,9,63
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/BaseEntitySerializer.java,14,6,61
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/WebMvcConfiguration.java,13,7,61
+Markdown,/tmp/clone_directory/docs/struct.md,8,0,61
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/storage.ts,7,0,60
+Markdown,/tmp/clone_directory/README.md,28,0,59
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/ResourceController.java,14,3,59
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/UserCredential.java,17,15,58
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/OrganizationService.java,10,3,56
+YAML,/tmp/clone_directory/admin3-server/src/main/resources/application-biz.yml,0,0,56
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/Role.java,22,5,54
+TypeScript,/tmp/clone_directory/admin3-ui/components.d.ts,2,3,52
+TypeScript,/tmp/clone_directory/admin3-ui/src/store/tags.ts,2,0,51
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/403.vue,3,0,51
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/404.vue,3,0,51
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/role.ts,9,0,49
+TypeScript,/tmp/clone_directory/admin3-ui/src/store/basic.ts,3,0,48
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/NanoId.java,15,42,45
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/LogService.java,8,3,45
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/AuthInterceptor.java,5,3,44
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/BaseEntity.java,12,29,44
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/controller/LogControllerTest.java,7,3,42
+Markdown,/tmp/clone_directory/docs/command.md,14,0,42
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/user.ts,6,0,41
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/model/StoredEvent.java,14,3,40
+JSON,/tmp/clone_directory/admin3-ui/package.json,0,0,40
+Markdown,/tmp/clone_directory/docs/storage.md,25,0,40
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/LogController.java,10,8,39
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/LoginController.java,10,3,38
+TypeScript,/tmp/clone_directory/admin3-ui/src/utils/request.ts,5,2,38
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/CollectionUtils.java,14,49,36
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/organization.ts,5,0,36
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/SpringUtils.java,10,42,35
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/resource.ts,5,0,34
+YAML,/tmp/clone_directory/admin3-server/src/main/resources/application.yml,0,0,31
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/Admin3Properties.java,13,3,30
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/EventSubscribesInterceptor.java,6,6,30
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/OrgTreeDTO.java,10,3,30
+TypeScript,/tmp/clone_directory/admin3-ui/vite.config.ts,1,0,30
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/service/EventStoreService.java,6,3,28
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/controller/CommonController.java,9,5,26
+YAML,/tmp/clone_directory/.github/workflows/maven-test.yml,3,2,25
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/OpenApiConfig.java,4,3,25
+TypeScript,/tmp/clone_directory/admin3-ui/src/main.ts,2,1,25
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/views/home.vue,1,0,25
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/CommonResultStatus.java,11,3,24
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/SessionRepository.java,7,3,24
+YAML,/tmp/clone_directory/admin3-server/src/test/resources/application.yml,0,1,24
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/UserRepository.java,6,3,22
+CSS,/tmp/clone_directory/admin3-ui/src/assets/css/color-dark.css,1,0,22
+YAML,/tmp/clone_directory/.github/workflows/schedule.yml,2,0,19
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/StorageService.java,13,3,19
+Maven,/tmp/clone_directory/pom.xml,2,0,19
+HTML,/tmp/clone_directory/admin3-ui/index.html,3,1,18
+JSON,/tmp/clone_directory/admin3-ui/tsconfig.json,0,0,18
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/SessionItemHolder.java,8,3,17
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/ContainersConfig.java,4,0,16
+Dockerfile,/tmp/clone_directory/gitpod/.gitpod.Dockerfile,9,3,16
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/BusinessException.java,6,3,15
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/log.ts,2,0,15
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/login.ts,2,0,15
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/StorageFileRepository.java,4,3,14
+TypeScript,/tmp/clone_directory/admin3-ui/src/store/sidebar.ts,1,0,14
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/RoleRepository.java,4,3,13
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/RoleUserDTO.java,4,3,13
+YAML,/tmp/clone_directory/.gitpod.yml,2,3,12
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/SecurityUtil.java,4,3,12
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/authz/RequiresPermissions.java,5,28,12
+Vuejs Component,/tmp/clone_directory/admin3-ui/src/App.vue,1,0,12
+INI,/tmp/clone_directory/.editorconfig,2,0,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/Admin3ServerApplication.java,4,0,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/exception/StorageException.java,4,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/exception/UserException.java,4,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/OrganizationRepository.java,4,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/ResourceRepository.java,5,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/StorageConfigRepository.java,5,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/StoredEventRepository.java,5,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/repository/UserCredentialRepository.java,5,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/SessionService.java,8,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/OrgUserDTO.java,3,3,11
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/DomainEvent.java,5,13,10
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/service/SessionManager.java,7,3,9
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/infra/storage/Storage.java,8,11,9
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/UserinfoDTO.java,5,3,9
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/Admin3ServerApplicationTests.java,4,0,9
+JSON,/tmp/clone_directory/admin3-ui/tsconfig.node.json,0,0,9
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/index.ts,1,0,8
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/AbstractIntegrationTest.java,2,3,7
+Java,/tmp/clone_directory/admin3-server/src/test/java/tech/wetech/admin3/Constants.java,5,3,7
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/common.ts,1,0,7
+TypeScript,/tmp/clone_directory/admin3-ui/src/vite-env.d.ts,2,1,7
+Bourne Shell,/tmp/clone_directory/gitpod/mysql/mysql-bashrc-launch.sh,5,4,7
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/ResourceTreeDTO.java,4,3,6
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/Constants.java,4,6,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/DomainEventSubscriber.java,4,13,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/ResultStatus.java,2,9,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/OrganizationCreated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/OrganizationDeleted.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/OrganizationUpdated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/ResourceCreated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/ResourceDeleted.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/ResourceUpdated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/RoleCreated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/RoleDeleted.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/RoleUpdated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/StorageConfigCreated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/StorageConfigDeleted.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/StorageConfigMarkedAsDefault.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/StorageConfigUpdated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/UserCreated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/UserDeleted.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/UserLoggedIn.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/UserLoggedOut.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/event/UserUpdated.java,2,3,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/LogDTO.java,3,3,5
+SQL,/tmp/clone_directory/admin3-server/src/test/resources/data.sql,0,0,5
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/EventStore.java,4,4,4
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/common/authz/Logical.java,1,6,4
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/PageDTO.java,3,3,4
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/RoleDTO.java,2,3,4
+CSS,/tmp/clone_directory/admin3-ui/src/assets/css/icon.css,0,0,4
+Java,/tmp/clone_directory/admin3-server/src/main/java/tech/wetech/admin3/sys/service/dto/MenuResourceDTO.java,2,3,3
+TypeScript,/tmp/clone_directory/admin3-ui/auto-imports.d.ts,1,1,3
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,0,2
+TypeScript,/tmp/clone_directory/admin3-ui/src/api/base.ts,0,0,1
+SUM,,1756,828,12085

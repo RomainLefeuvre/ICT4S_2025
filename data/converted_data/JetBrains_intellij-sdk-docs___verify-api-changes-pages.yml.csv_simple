@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,47.32944693432341,3714601,False,
+##[group]GITHUB_TOKEN Permissions,44.190047924738174,2415834,False,
+"##[group]Run PR_REPOSITORY=$(jq -re "".pull_request.head.repo.full_name // empty"" $GITHUB_EVENT_PATH) || true",38.261399747752414,1538762,True,##[error]Process completed with exit code 123.
+##[group]Run curl -s https://api.github.com/repos/JetBrains/intellij-plugin-verifier/releases/latest \\,14.143546830578302,534961,False,
+##[group]Fetching the repository,8.76559518122973,447941,False,
+##[group]Checking out the ref,2.23747074247103,19468,False,
+##[group]Setting up auth,2.1453268481438346,90032,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.126898069278396,22193,False,
+##[group]Run actions/checkout@v4,2.1084692904129563,142169,False,

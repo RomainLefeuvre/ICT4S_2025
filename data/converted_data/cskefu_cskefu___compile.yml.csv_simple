@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,0.6883797184598075,6424877,False,
+##[group]Fetching the repository,0.4117732556345849,2752153,False,
+##[group]GITHUB_TOKEN Permissions,0.1147863500220303,1369283,False,
+##[group]Run cd $GITHUB_WORKSPACE && pwd,0.0593453238209136,292419,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref,0.056221885725076,379904,False,
+##[group]Setting up auth,0.0109320333354314,65753,False,
+##[group]Run actions/checkout@v3,0.0106717468274449,164324,False,

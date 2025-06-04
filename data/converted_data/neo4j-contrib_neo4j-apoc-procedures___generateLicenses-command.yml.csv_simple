@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Checking out the ref,542.8031358668803,1343084,False,
+##[group]Run ./gradlew generateLicenses || true,400.53875057659167,60093668,False,
+##[group]Fetching the repository,260.131635599776,2963680,False,
+##[group]Run peter-evans/create-or-update-comment@v2,121.2048520106861,10111129,True,##[error]Parameter token or opts.auth is required
+##[group]Installed distributions,118.28324830075408,15642316,False,
+##[group]Fetching the repository__dup_7,54.09861361503104,430822,False,
+##[group]Removing auth,27.31928565323809,250107,False,
+##[group]Run actions/checkout@v3,20.46757817225238,128319,False,
+##[group]Removing previously created refs_ to avoid conflicts,19.205228214344267,105998,False,
+##[group]Cleaning the repository,17.942878256436153,38576,False,
+##[group]Setting up auth,16.680528298528042,71286,False,
+##[group]Run ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df,9.836727884931378,535643,False,
+##[group]Run actions/cache@v3,2.853069871884181,1924185,False,

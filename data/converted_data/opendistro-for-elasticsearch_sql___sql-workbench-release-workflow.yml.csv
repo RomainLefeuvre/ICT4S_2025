@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.7325109060180911, , , , 4399726, False, 
+##[group]GITHUB_TOKEN Permissions, 6.966275388247388, , , , 2995223, False, 
+##[group]Run aws-actions/configure-aws-credentials@v1, 35.24080547911806, , , , 6624328, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run actions/checkout@v1, 8.12291045037323, , , , 931823, False, 
+##[group]Run actions/checkout@v1__dup_5, 29.26294889068924, , , , 10587634, True, ##[error]Git fetch failed with exit code: 128
+##[group]Run actions/setup-node@v1, 5.580862229463273, , , , 2933866, False, 
+##[group]Run nick-invision/retry@v1, 82.02202745543228, , , , 33104009, True, ##[error]Final attempt failed. Child_process exited with error
+##[group]Run cd kibana/plugins/workbench, 0.9504235525203084, , , , 42026, True, ##[error]Process completed with exit code 1.
+##[group]Run cd kibana/plugins/workbench__dup_9, 0.940962524931118, , , , 140826, True, ##[error]Process completed with exit code 1.

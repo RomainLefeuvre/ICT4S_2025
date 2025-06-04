@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,201.898280157118,2328952,False,
+##[group]Installed distributions,178.5053573175472,1771290,False,
+##[group]Run ./mvnw --batch-mode -Dgpg.passphrase=$GPG_PASSPHRASE -DskipTests deploy,156.2622504804109,33280404,True,"[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:3.1.1:deploy (default-deploy) on project ashot: Failed to deploy artifacts: Could not transfer artifact io.github.pazone:ashot:pom:1.6.1-20240323.235948-7 from/to github (https://maven.pkg.github.com/pazone/ashot): status code: 403, reason phrase: Forbidden (403) -> [Help 1]"
+##[group]==END_FILE==,38.65254975091615,4722510,False,
+##[group]Fetching the repository,37.56549742481891,408265,False,
+[INFO] --- compiler:3.12.1:compile (default-compile) @ ashot ---,23.642163414997896,2010140,False,
+[INFO] --- checkstyle:3.3.1:check (validate) @ ashot ---,19.823905654203514,9459545,False,
+[INFO] --- surefire:3.2.5:test (default-test) @ ashot ---,10.92987822549978,1287379,False,
+##[group]Disabling automatic garbage collection,9.3037760330023,3229,False,
+##[group]Run actions/checkout@v4,9.268736703721329,141472,False,
+[INFO] --- jar:3.3.0:jar (default-jar) @ ashot ---,5.25565543061563,807250,False,
+[INFO] --- source:3.3.0:jar (attach-sources) @ ashot ---,4.644014734552087,991149,False,
+[INFO] --- resources:3.3.1:resources (default-resources) @ ashot ---,4.150248440461067,291856,False,
+[INFO] --- compiler:3.12.1:testCompile (default-testCompile) @ ashot ---,2.9424005840383023,346656,False,
+[INFO] --- checkstyle:3.3.1:check (validate) @ ashot ---__dup_14,1.1388634436795937,167249,False,
+[INFO] --- install:3.1.1:install (default-install) @ ashot ---,0.368123745769336,93095,False,

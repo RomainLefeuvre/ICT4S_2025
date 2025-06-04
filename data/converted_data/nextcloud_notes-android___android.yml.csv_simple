@@ -1,0 +1,29 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,290.81894753948524,38371175,False,
+##[group]==END_FILE==__dup_17,210.98453771900532,21945000,False,
+##[group]GITHUB_TOKEN Permissions,113.13560923037704,3320563,False,
+##[group]Installed distributions__dup_15,58.80050972885673,2348032,False,
+##[group]GITHUB_TOKEN Permissions__dup_24,50.66583605901272,3034447,False,
+##[group]GITHUB_TOKEN Permissions__dup_10,39.64629855468094,2516166,False,
+##[group]Installed distributions__dup_22,29.4733569509186,2310297,False,
+##[group]Fetching the repository,27.648261364103117,1301143,False,
+##[group]GITHUB_TOKEN Permissions__dup_18,24.76585895477812,2257577,False,
+##[group]Installed distributions__dup_27,18.027578648655776,2301997,False,
+##[group]Run actions/upload-artifact@v4,16.579190392061452,808699,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck"
+##[group]Run bash ./gradlew test --stacktrace --no-configuration-cache,15.714246673666477,772352,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck"
+##[group]Fetching the repository__dup_21,13.446859580584482,446238,False,
+##[group]Fetching the repository__dup_26,12.224543533987358,428579,False,
+##[group]Run bash ./gradlew lintDevDebug --stacktrace --no-configuration-cache,11.15380838436432,603697,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck"
+##[group]Fetching the repository__dup_14,11.143277067032956,452195,False,
+##[group]Installed distributions,8.931189875763465,3333944,False,
+##[group]Run gradle/wrapper-validation-action@v2,5.701092192879184,624875,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck"
+##[group]Setting up auth__dup_20,3.014256037019304,57021,False,
+##[group]Run bash ./gradlew assembleDev --stacktrace --no-configuration-cache,2.8076886157072183,171991,False,
+##[group]Run actions/checkout@v4.1.1__dup_19,2.7362889505178503,143868,False,
+##[group]Setting up auth__dup_13,2.689312407880062,58190,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.650709664328791,44910,False,
+##[group]Run actions/checkout@v4.1.1__dup_11,2.6121069207775203,143071,False,
+##[group]Run actions/checkout@v4.1.1,2.337143172399735,150084,False,
+##[group]Setting up auth,2.3108489428122985,57766,False,
+##[group]Run actions/checkout@v4.1.1__dup_25,2.108222108524357,140662,False,
+##[group]Checking out the ref,1.9427297285881808,78428,False,

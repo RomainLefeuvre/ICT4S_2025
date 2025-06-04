@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Cleaning the repository,141.4587565072604,6120957,False,
+##[group]Fetching submodules,39.38146528686215,1065822,False,
+##[group]Run ./.github/actions/translate-on-issue,19.284841014632477,455176,True,"##[error]This Action now only support ""issues"" or ""pull_request"" or ""pull_request_target"" ""opened"". If you need other, you can open a issue to https://github.com/actions-cool/translation-helper"
+##[group]Fetching the repository,13.397749514819788,430938,False,
+##[group]GITHUB_TOKEN Permissions,12.14063571475928,1272907,False,
+##[group]Removing auth,3.764689871249849,84636,False,
+##[group]Setting up auth,3.272538768974409,69116,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.7001470514219434,211688,False,
+##[group]Getting Git version info,1.3039343598726492,4460,False,
+##[group]Run actions/checkout@v2,1.2731749159804342,192940,False,
+Requested labels: self-hosted,1.0884142863417718,4171082,False,

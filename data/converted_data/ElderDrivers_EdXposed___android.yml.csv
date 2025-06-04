@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0224756213095872, , , , 5644162, False, 
+##[group]GITHUB_TOKEN Permissions, 3.615785641386653, , , , 2633336, False, 
+##[group]Run actions/checkout@v2, 0.371622413142517, , , , 199375, False, 
+##[group]Initializing the repository, 0.1908331310731844, , , , 43786, False, 
+##[group]Fetching the repository, 2.092468542469128, , , , 935277, False, 
+##[group]Checking out the ref, 0.2276605774206411, , , , 89519, False, 
+##[group]Fetching submodules, 1.506577350577772, , , , 2739927, False, 
+##[group]Persisting credentials for submodules, 0.8247968832801216, , , , 208837, False, 
+##[group]Run actions/setup-java@v1, 131.6054316562682, , , , 19690604, False, 
+##[group]Run echo "y" | sudo ${ANDROID_HOME}/tools/bin/sdkmanager --install "ndk;22.0.7026061" --channel=1 --sdk_root=${ANDROID_SDK_ROOT} | grep -v = || true, 1.5109361976329263, , , , 63381, False, 
+##[group]Run bash ./gradlew zipRelease zipDebug, 286.0174322243492, , , , 32815308, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2, 1.8237644134021815, , , , 84995, False, 
+##[group]Run actions/upload-artifact@v2__dup_13, 8.554679472275089, , , , 474250, False, 

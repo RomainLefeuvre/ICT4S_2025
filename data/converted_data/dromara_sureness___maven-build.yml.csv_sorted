@@ -1,0 +1,9 @@
+##[group]Run actions/setup-java@v1, 55.29541003941697, , , , 17005465, False, 
+##[group]Run mvn -B package --file pom.xml, 48.237840580899565, , , , 16143964, True, [ERROR] COMPILATION ERROR : 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ sureness-core ---, 7.4900369325845215, , , , 2032736, False, 
+##[group]GITHUB_TOKEN Permissions, 1.4594938637951995, , , , 1922921, False, 
+##[group]Fetching the repository, 0.4453343056775807, , , , 435481, False, 
+##[group]Run actions/checkout@v2, 0.2059310995520711, , , , 198016, False, 
+##[group]Checking out the ref, 0.1165635930714949, , , , 52058, False, 
+##[group]Setting up auth, 0.1061035597672954, , , , 103203, False, 
+Requested labels: self-hosted, 0.0284362002349005, , , , 4077240, False, 

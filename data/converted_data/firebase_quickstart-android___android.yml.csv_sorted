@@ -1,0 +1,10 @@
+##[group]Run ./gradlew clean ktlint assemble, 1771.3616655210458, , , , 105083056, True, ##[error]Process completed with exit code 1.
+##[group]Caching Gradle state, 290.9754858068128, , , , 28053332, False, 
+##[group]GITHUB_TOKEN Permissions, 229.4253178899643, , , , 4241916, False, 
+##[group]Run actions/checkout@v4, 153.7129407749159, , , , 960861, False, 
+##[group]Setting up auth, 12.9640945078951, , , , 55037, False, 
+##[group]Fetching the repository, 11.777860240814706, , , , 4302315, False, 
+##[group]Restore Gradle state from cache, 9.637810315805734, , , , 1633089, False, 
+Requested labels: self-hosted, 6.372437048870604, , , , 5604490, False, 
+##[group]Run python scripts/checksnippets.py, 1.999500224026448, , , , 107950, True, ##[error]Process completed with exit code 127.
+##[group]Checking out the ref, 0.5673115627686665, , , , 132084, False, 

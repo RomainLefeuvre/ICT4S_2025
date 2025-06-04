@@ -1,0 +1,489 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.12 s (4040.1 files/s 261380.3 lines/s)"
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3055-탈출/solution.java,20,9,136
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/5번-골목 대장 호석/solution.java,18,0,117
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/5번-호석사우루스/solution.java,23,0,116
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/14502-연구소/solution.java,22,7,115
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/2번-계보 복원가 호석/solution.java,15,1,113
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7569-토마토/solution.java,16,1,112
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/3번-짠돌이 호석/solution.java,19,1,111
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1753-최단경로/solution.java,26,10,104
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2251-물통/solution.java,19,6,102
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1916-최소비용 구하기/solution.java,26,10,101
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/2번-인내의 도미노 장인 호석/solution.java,22,11,101
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1260-DFS와 BFS/solution_list.java,23,8,98
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3055-탈출/solution.cpp,8,2,97
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2637-장난감 조립/solution.java,19,3,97
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/5번-광부 호석/solution.java,15,1,97
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/1번-폰 호석만/solution.java,10,2,96
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/4803-트리/solution.java,17,2,95
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/9470-Strahler 순서/solution.java,17,7,95
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/10816-숫자 카드 2/solution.java,16,0,94
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1260-DFS와 BFS/solution_matrix.java,23,8,94
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/4번-호석이 두 마리 치킨/solution.java,16,1,94
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1389-케빈 베이컨의 6단계 법칙/solution.java,18,3,93
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3055-탈출/base_code.java,20,18,93
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1916-최소비용 구하기/base_code.java,25,15,93
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/14676-영우는 사기꾼/solution.java,17,4,92
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1637-날카로운 눈/solution.java,16,4,91
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2178-미로 탐색/solution.java,18,6,91
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1005-ACM Craft/solution.java,15,3,91
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2056-작업/solution.java,15,2,91
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1753-최단경로/base_code.java,25,15,91
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/1번-홀수 홀릭 호석/solution.java,18,7,91
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/3번-트리 디자이너 호석/solution.java,19,3,91
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2470-두 용액/solution.java,21,7,90
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1012-유기농 배추/solution.java,16,2,90
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/18404-현명한 나이트/solution.java,16,1,90
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7562-나이트의 이동/solution.java,16,1,90
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1991-트리 순회/solution.java,18,1,90
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2667-단지번호 붙이기/solution.java,16,2,89
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3184-양/solution.java,16,2,89
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1516-게임 개발/solution.java,15,2,89
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/4번-꿈틀꿈틀 호석 애벌레/solution-2.java,18,2,89
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/1번-빌런 호석/solution.java,16,0,89
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2623-음악 프로그램/solution.java,16,7,88
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/7795-먹을 것인가 먹힐 것인가/solution.java,17,4,87
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11725-트리의 부모 찾기/solution.java,19,3,87
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1240-노드 사이의 거리/solution.java,16,8,87
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/3번-문자열 지옥에 빠진 호석/solution.java,17,8,87
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/15970-화살표 그리기/solution.java,17,0,86
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1697-숨바꼭질/solution.java,16,2,86
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2606-바이러스/solution.java,19,3,86
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/4963-섬의 개수/solution.java,16,1,86
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/5567-결혼식/solution.java,18,3,86
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/2번-정보 상인 호석/solution.java,17,0,86
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/14888-연산자 끼워넣기/solution.java,17,6,85
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1759-암호 만들기/solution.java,17,1,85
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2644-촌수 계산/solution.java,18,3,85
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1068-트리/solution.java,17,4,85
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2343-기타 레슨/solution.java,15,2,84
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/6236-용돈 관리/solution.java,15,2,84
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11403-경로 찾기/solution.java,21,4,84
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11066-파일 합치기/solution.java,17,0,84
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/17266-어두운 굴다리/solution.java,16,2,83
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1495-기타리스트/solution.java,16,3,83
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15681-트리와 쿼리/solution.java,17,1,83
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15991-1 2 3 더하기 6/solution.java,18,7,83
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1764-듣보잡/solution.java,16,0,82
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11724-연결 요소의 개수/solution.java,18,5,82
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/14676-영우는 사기꾼/base_code.java,19,10,82
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/9663-N Queen/solution.java,15,3,81
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/13702-이상한 술집/solution.java,15,2,81
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2110-공유기 설치/solution.java,17,6,81
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/9489-사촌/solution.java,17,4,81
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1949-우수 마을/solution.java,17,0,81
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/4번-공정 컨설턴트 호석/solution.java,16,2,81
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2805-나무 자르기/solution.java,15,3,80
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2252-줄 세우기/solution.java,16,6,80
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1562-계단 수/solution.java,17,3,80
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15990-1 2 3 더하기 5/solution.java,15,2,80
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/10825-국영수/solution.java,17,0,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1920-수 찾기/solution.java,16,0,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2512-예산/solution.java,16,2,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1253-좋다/solution.java,16,3,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/4963-섬의 개수/base_code.java,16,4,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/14267-회사 문화 1/solution.java,15,1,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9465-스티커/solution.java,15,2,79
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15663-N과 M(9)/solution.java,17,5,78
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1015-수열 정렬/solution.java,17,0,78
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1654-랜선 자르기/solution.java,15,3,78
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/3273-두 수의 합/solution.java,17,2,78
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2473-세 용액/solution.java,15,1,78
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2096-내려가기/solution.java,15,2,78
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/4번-꿈틀꿈틀 호석 애벌레/solution.java,18,10,78
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/16472-고냥이/solution.java,18,3,77
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/11725-트리의 부모 찾기/solution.java,17,4,77
+Java,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/4번-꿈틀꿈틀 호석 애벌레/subsolution(brute force).java,15,0,77
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1637-날카로운 눈/base_code.java,18,4,76
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1240-노드 사이의 거리/base_code.java,14,4,76
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2637-장난감 조립/base_code.java,16,1,76
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/9470-Strahler 순서/base_code.java,16,4,76
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11057-오르막 수/solution.java,17,4,76
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2688-줄어들지 않아/solution.java,17,3,76
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/7795-먹을 것인가 먹힐 것인가/base_code.java,16,5,75
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/14502-연구소/base_code.java,21,14,75
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2251-물통/base_code.java,18,8,75
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/15900-나무 탈출/solution.java,15,3,75
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/5639-이진 검색 트리/solution.java,16,2,75
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2011-암호코드/solution.java,19,5,75
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15649-N과 M(1)/solution.java,15,6,74
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/11652-카드/solution.java,16,0,74
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/3584-가장 가까운 공통 조상/solution.java,17,2,74
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2156-포도주 시식/solution.java,16,2,74
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1181-단어 정렬/solution.java,15,0,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1300-K 번째 수/solution.java,15,3,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/15565-귀여운 라이언/solution.java,17,0,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2470-두 용액/solution.java,16,1,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11724-연결 요소의 개수/base_code.java,18,9,73
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/14502-연구소/solution.cpp,14,3,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2644-촌수 계산/base_code.java,15,2,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3184-양/base_code.java,16,5,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1309-동물원/solution.java,15,2,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15988-1 2 3 더하기 3/solution.java,15,5,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2579-계단 오르기/solution.java,16,2,73
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/10816-숫자 카드 2/base_code.java,16,2,72
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2343-기타 레슨/base_code.java,16,1,72
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/11728-배열 합치기/solution.java,14,1,72
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2667-단지번호 붙이기/base_code.java,17,9,72
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7569-토마토/solution.cpp,7,0,72
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/14267-회사 문화 1/base_code.java,15,3,72
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1759-암호 만들기/solution copy.java,17,7,71
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/15970-화살표 그리기/base_code.java,18,10,71
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1253-좋다/base_code.java,16,6,71
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1806-부분 합/solution.java,16,4,71
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1003-피보나치 함수/solution.java,16,2,71
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/5557-1학년/solution.java,16,3,71
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15649-N과 M(1)/solution-advanced.java,17,6,70
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15652-N과 M(4)/solution.java,15,6,70
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/10825-국영수/base_code.java,18,5,70
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/20291-파일 정리/solution.java,18,3,70
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/13144-List of Unique Numbers/solution.java,18,3,70
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/5번-호석사우루스/solution.cpp,11,0,70
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/14888-연산자 끼워넣기/base_code.java,17,8,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2470-두 용액/base_code.java,17,5,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2003-수들의 합 2/solution.java,16,3,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1260-DFS와 BFS/base_code.java,19,9,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/18404-현명한 나이트/base_code.java,16,4,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7562-나이트의 이동/base_code.java,16,4,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/20364-부동산 다툼/solution.java,14,2,69
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1182-부분수열의 합/solution.java,13,8,68
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15650-N과 M(2)/solution.java,15,5,68
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15651-N과 M(3)/solution.java,16,7,68
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2559-수열/solution.java,15,3,68
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/3273-두 수의 합/solution.java,14,3,68
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2178-미로 탐색/base_code.java,18,11,68
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1015-수열 정렬/base_code.java,19,12,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/3273-두 수의 합/base_code.java,16,4,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2230-수 고르기/solution.java,16,3,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/15900-나무 탈출/base_code.java,15,3,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/3584-가장 가까운 공통 조상/base_code.java,17,4,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11052-카드 구매하기/solution.java,16,3,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1149-RGB 거리/solution.java,17,4,67
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1920-수 찾기/base_code.java,16,5,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2110-공유기 설치/base_code.java,17,6,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/11728-배열 합치기/base_code.java,14,2,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/15565-귀여운 라이언/base_code.java,17,6,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/16472-고냥이/base_code.java,18,8,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2473-세 용액/base_code.java,17,1,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/9489-사촌/base_code.java,15,6,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15991-1 2 3 더하기 6/base_code.java,17,3,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9095-1 2 3 더하기/solution.java,15,2,66
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/17266-어두운 굴다리/base_code.java,15,4,65
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1697-숨바꼭질/base_code.java,16,4,65
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15988-1 2 3 더하기 3/base_code.java,15,6,65
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2688-줄어들지 않아/base_code.java,17,4,65
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1181-단어 정렬/base_code.java,16,7,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/13702-이상한 술집/base_code.java,15,4,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1654-랜선 자르기/base_code.java,15,3,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2512-예산/base_code.java,15,3,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2805-나무 자르기/base_code.java,15,3,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/6236-용돈 관리/base_code.java,15,3,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/13144-List of Unique Numbers/base_code.java,18,6,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1806-부분 합/base_code.java,16,4,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2003-수들의 합 2/base_code.java,16,3,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2230-수 고르기/base_code.java,16,6,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2559-수열/base_code.java,16,3,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/5639-이진 검색 트리/base_code.java,15,2,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1516-게임 개발/base_code.java,15,2,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2056-작업/base_code.java,16,2,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2579-계단 오르기/base_code.java,17,5,64
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/5번-골목 대장 호석/solution.cpp,6,0,64
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/9663-N Queen/base_code.java,15,4,63
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2251-물통/solution.cpp,7,0,63
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3055-탈출/solution.py,4,0,63
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2193-이친수/solution.java,15,1,63
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/3번-짠돌이 호석/solution.cpp,4,0,63
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1182-부분수열의 합/base_code.java,13,9,62
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1764-듣보잡/base_code.java,15,4,62
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/4803-트리/base_code.java,15,3,62
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2623-음악 프로그램/base_code.java,15,11,62
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/10870-피보나치 수 5/solution.java,14,0,62
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11726-2xN 타일링/solution.java,15,2,62
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/11652-카드/base_code.java,18,6,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7569-토마토/base_code.java,15,3,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1991-트리 순회/base_code.java,17,5,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1005-ACM Craft/base_code.java,15,6,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11066-파일 합치기/base_code.java,15,3,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1149-RGB 거리/base_code.java,17,6,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2011-암호코드/base_code.java,17,6,61
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1300-K 번째 수/base_code.java,16,4,60
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1389-케빈 베이컨의 6단계 법칙/base_code.java,15,5,60
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1003-피보나치 함수/base_code.java,16,4,60
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2096-내려가기/base_code.java,15,4,60
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9095-1 2 3 더하기/base_code.java,15,4,60
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11725-트리의 부모 찾기/base_code.java,15,4,59
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/5567-결혼식/base_code.java,15,3,59
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1068-트리/base_code.java,17,9,59
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/11725-트리의 부모 찾기/base_code.java,17,8,59
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1562-계단 수/base_code.java,17,6,59
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1949-우수 마을/base_code.java,15,3,59
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/20291-파일 정리/base_code.java,14,2,58
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11403-경로 찾기/base_code.java,15,4,58
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2606-바이러스/base_code.java,15,4,58
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/20364-부동산 다툼/base_code.java,14,2,58
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/9470-Strahler 순서/solution.cpp,6,3,58
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15681-트리와 쿼리/base_code.java,15,4,58
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15990-1 2 3 더하기 5/base_code.java,15,5,58
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9465-스티커/base_code.java,17,6,58
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/1번-폰 호석만/solution.cpp,1,0,58
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/4번-호석이 두 마리 치킨/solution.cpp,7,0,58
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/5번-광부 호석/solution.cpp,9,0,58
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/10816-숫자 카드 2/solution.cpp,9,0,57
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2252-줄 세우기/base_code.java,15,9,57
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1753-최단경로/solution.cpp,12,9,57
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/10870-피보나치 수 5/base_code.java,14,1,57
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11726-2xN 타일링/base_code.java,16,4,57
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1309-동물원/base_code.java,17,6,57
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2193-이친수/base_code.java,13,1,57
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/3273-두 수의 합/base_code.java,14,6,56
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1495-기타리스트/base_code.java,16,7,56
+Java,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/5557-1학년/base_code.java,16,7,56
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1005-ACM Craft/solution.cpp,7,3,55
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1916-최소비용 구하기/solution.cpp,12,9,55
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1991-트리 순회/solution.cpp,7,0,54
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/2번-계보 복원가 호석/solution.cpp,8,0,54
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/4803-트리/solution.cpp,6,0,53
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/2번-인내의 도미노 장인 호석/solution.cpp,6,2,53
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/3번-문자열 지옥에 빠진 호석/solution.cpp,6,0,53
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1637-날카로운 눈/solution.cpp,8,0,52
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2470-두 용액/solution.cpp,11,4,52
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1012-유기농 배추/solution.cpp,7,1,52
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2056-작업/solution.cpp,7,2,52
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/2번-정보 상인 호석/solution.cpp,5,0,52
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/3번-트리 디자이너 호석/solution.cpp,4,0,52
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1260-DFS와 BFS/solution.cpp,4,0,51
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2667-단지번호 붙이기/solution.cpp,7,1,51
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1389-케빈 베이컨의 6단계 법칙/solution.cpp,4,0,50
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/14502-연구소/solution.py,11,0,50
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/18404-현명한 나이트/solution.cpp,6,0,50
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1068-트리/solution.cpp,7,0,50
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3184-양/solution.cpp,7,1,49
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/14676-영우는 사기꾼/solution.cpp,6,4,49
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2623-음악 프로그램/solution.cpp,6,7,49
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/1번-빌런 호석/solution.cpp,2,0,49
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7562-나이트의 이동/solution.cpp,6,0,48
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2637-장난감 조립/solution.cpp,7,3,48
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/autoindex.py,6,0,48
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/1번-홀수 홀릭 호석/solution.cpp,10,8,48
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/5번-골목 대장 호석/solution.py,7,4,48
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1516-게임 개발/solution.cpp,7,2,47
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/7795-먹을 것인가 먹힐 것인가/solution.cpp,8,1,46
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/5567-결혼식/solution.cpp,4,0,46
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15991-1 2 3 더하기 6/solution.cpp,5,7,46
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/4963-섬의 개수/solution.cpp,7,1,45
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1240-노드 사이의 거리/solution.cpp,7,8,45
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/4803-트리/solution.py,4,0,45
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/6236-용돈 관리/solution.cpp,7,0,44
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2178-미로 탐색/solution.cpp,6,0,44
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/9489-사촌/solution.cpp,6,4,44
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/4번-공정 컨설턴트 호석/solution.cpp,5,0,44
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/14888-연산자 끼워넣기/solution.cpp,3,2,43
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2343-기타 레슨/solution.cpp,7,0,43
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11725-트리의 부모 찾기/solution.cpp,2,0,43
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2606-바이러스/solution.cpp,2,0,43
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1562-계단 수/solution.cpp,7,3,43
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/15970-화살표 그리기/solution.cpp,8,0,42
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/17266-어두운 굴다리/solution.cpp,7,0,42
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1764-듣보잡/solution.cpp,8,0,42
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11403-경로 찾기/solution.cpp,2,0,42
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1495-기타리스트/solution.cpp,6,3,42
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/9663-N Queen/solution.cpp,3,2,41
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1920-수 찾기/solution.cpp,8,0,41
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2644-촌수 계산/solution.cpp,2,0,41
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15990-1 2 3 더하기 5/solution.cpp,5,2,41
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/13702-이상한 술집/solution.cpp,7,0,40
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2110-공유기 설치/solution.cpp,7,0,40
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1253-좋다/solution.cpp,7,0,40
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/14267-회사 문화 1/solution.cpp,4,1,40
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15681-트리와 쿼리/solution.cpp,4,1,40
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/5번-광부 호석/solution.py,2,0,40
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1759-암호 만들기/solution.cpp,3,0,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2512-예산/solution.cpp,7,0,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/3273-두 수의 합/solution.cpp,8,0,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/16472-고냥이/solution.cpp,9,3,39
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7569-토마토/solution.py,7,0,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11066-파일 합치기/solution.cpp,3,0,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2688-줄어들지 않아/solution.cpp,6,3,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9465-스티커/solution.cpp,7,2,39
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/4번-꿈틀꿈틀 호석 애벌레/solution.cpp,7,0,39
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/2번-계보 복원가 호석/solution.py,6,0,39
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/11725-트리의 부모 찾기/solution.cpp,4,0,38
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2252-줄 세우기/solution.cpp,6,5,38
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2011-암호코드/solution.cpp,9,5,38
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/2번-인내의 도미노 장인 호석/solution.py,5,5,38
+C++,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/4번-꿈틀꿈틀 호석 애벌레/subsolution(brute force).cpp,6,2,38
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1015-수열 정렬/solution.cpp,7,0,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1654-랜선 자르기/solution.cpp,7,0,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2805-나무 자르기/solution.cpp,7,0,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11724-연결 요소의 개수/solution.cpp,4,0,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1697-숨바꼭질/solution.cpp,6,0,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/15900-나무 탈출/solution.cpp,5,2,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/5639-이진 검색 트리/solution.cpp,6,2,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11057-오르막 수/solution.cpp,7,4,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2096-내려가기/solution.cpp,6,2,37
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1309-동물원/solution.cpp,6,2,36
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15988-1 2 3 더하기 3/solution.cpp,4,5,36
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/10825-국영수/solution.cpp,8,0,35
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1260-DFS와 BFS/solution.py,5,0,35
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/1번-폰 호석만/solution.py,5,0,35
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1991-트리 순회/solution.py,11,0,34
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/9470-Strahler 순서/solution.py,4,1,34
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1949-우수 마을/solution.cpp,4,0,34
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/14888-연산자 끼워넣기/solution.py,3,0,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15663-N과 M(9)/solution.cpp,4,0,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/11652-카드/solution.cpp,6,0,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1300-K 번째 수/solution.cpp,6,0,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2473-세 용액/solution.cpp,8,0,33
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2251-물통/solution.py,6,0,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1003-피보나치 함수/solution.cpp,5,2,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2156-포도주 시식/solution.cpp,7,2,33
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/20291-파일 정리/solution.cpp,4,0,32
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/15565-귀여운 라이언/solution.cpp,9,0,32
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/3584-가장 가까운 공통 조상/solution.cpp,6,2,32
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2579-계단 오르기/solution.cpp,7,2,32
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/5557-1학년/solution.cpp,6,3,32
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1806-부분 합/solution.cpp,9,4,31
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/4번-호석이 두 마리 치킨/solution.py,6,0,31
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1181-단어 정렬/solution.cpp,6,0,30
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1637-날카로운 눈/solution.py,4,0,30
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/13144-List of Unique Numbers/solution.cpp,9,3,30
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1012-유기농 배추/solution.py,5,0,30
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1389-케빈 베이컨의 6단계 법칙/solution.py,5,0,30
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2667-단지번호 붙이기/solution.py,4,0,30
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/3184-양/solution.py,3,0,30
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/20364-부동산 다툼/solution.cpp,4,2,30
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/14676-영우는 사기꾼/solution.py,4,0,30
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/3번-짠돌이 호석/solution.py,3,0,30
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15649-N과 M(1)/solution.cpp,2,0,29
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/9663-N Queen/solution.py,4,0,29
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2003-수들의 합 2/solution.cpp,9,3,29
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/3273-두 수의 합/solution.cpp,6,0,29
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/5567-결혼식/solution.py,4,0,29
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1516-게임 개발/solution.py,5,3,29
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9095-1 2 3 더하기/solution.cpp,5,2,29
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/1번-홀수 홀릭 호석/solution.py,6,1,29
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15652-N과 M(4)/solution.cpp,2,0,28
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/11728-배열 합치기/solution.cpp,6,0,28
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2559-수열/solution.cpp,9,3,28
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/1005-ACM Craft/solution.py,5,3,28
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2056-작업/solution.py,5,3,28
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2637-장난감 조립/solution.py,5,3,28
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/README.md,0,0,28
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11052-카드 구매하기/solution.cpp,6,3,28
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1149-RGB 거리/solution.cpp,7,4,28
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/2번-정보 상인 호석/solution.py,1,0,28
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1759-암호 만들기/solution.py,5,0,27
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2230-수 고르기/solution.cpp,8,0,27
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/4963-섬의 개수/solution.py,5,0,27
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1068-트리/solution.py,2,0,27
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/9489-사촌/solution.py,6,5,27
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2623-음악 프로그램/solution.py,7,7,27
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2193-이친수/solution.cpp,6,1,27
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/3번-트리 디자이너 호석/solution.py,3,0,27
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15650-N과 M(2)/solution.cpp,2,0,26
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15651-N과 M(3)/solution.cpp,2,0,26
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/10816-숫자 카드 2/solution.py,3,0,26
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11725-트리의 부모 찾기/solution.py,4,0,26
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/15900-나무 탈출/solution.py,8,2,26
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11726-2xN 타일링/solution.cpp,6,1,26
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1182-부분수열의 합/solution.cpp,2,0,25
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/16472-고냥이/solution.py,4,0,25
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2178-미로 탐색/solution.py,4,0,25
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2644-촌수 계산/solution.py,4,0,25
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/5639-이진 검색 트리/solution.py,8,0,25
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1753-최단경로/solution.py,7,8,25
+C++,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/10870-피보나치 수 5/solution.cpp,4,0,25
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2470-두 용액/solution.py,4,0,24
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/2606-바이러스/solution.py,3,0,24
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/7562-나이트의 이동/solution.py,2,0,24
+Markdown,/tmp/clone_directory/강의 자료/README.md,7,0,24
+Markdown,/tmp/clone_directory/강의 자료/단원 리스트.md,7,0,24
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/17266-어두운 굴다리/solution.py,3,0,23
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2110-공유기 설치/solution.py,3,0,23
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/7795-먹을 것인가 먹힐 것인가/solution.py,3,0,23
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/README.md,0,0,23
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/18404-현명한 나이트/solution.py,3,0,23
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15663-N과 M(9)/solution.py,5,0,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2343-기타 레슨/solution.py,4,0,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/6236-용돈 관리/solution.py,3,0,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11724-연결 요소의 개수/solution.py,4,0,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/1697-숨바꼭질/solution.py,4,0,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/문제별 코드/1916-최소비용 구하기/solution.py,7,8,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2096-내려가기/solution.py,4,2,22
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/09~11-그래프 탐색/문제별 코드/11403-경로 찾기/solution.py,2,0,21
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/문제별 코드/2252-줄 세우기/solution.py,4,5,21
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15991-1 2 3 더하기 6/solution.py,6,7,21
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/1번-빌런 호석/solution.py,1,2,21
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/15970-화살표 그리기/solution.py,7,0,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/13702-이상한 술집/solution.py,3,0,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1654-랜선 자르기/solution.py,3,0,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/11725-트리의 부모 찾기/solution.py,3,0,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/14267-회사 문화 1/solution.py,4,1,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11066-파일 합치기/solution.py,6,2,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1562-계단 수/solution.py,5,2,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15681-트리와 쿼리/solution.py,4,1,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1949-우수 마을/solution.py,3,0,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2011-암호코드/solution.py,7,4,20
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/3번-문자열 지옥에 빠진 호석/solution.py,4,4,20
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/4번-공정 컨설턴트 호석/solution.py,3,0,20
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15649-N과 M(1)/solution.py,2,0,19
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/README.md,0,0,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2512-예산/solution.py,3,0,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/2805-나무 자르기/solution.py,3,0,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/11728-배열 합치기/solution.py,0,0,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/1240-노드 사이의 거리/solution.py,4,8,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/3584-가장 가까운 공통 조상/solution.py,8,2,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15990-1 2 3 더하기 5/solution.py,3,2,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2156-포도주 시식/solution.py,7,2,19
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9465-스티커/solution.py,4,2,19
+Python,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/4번-꿈틀꿈틀 호석 애벌레/solution.py,6,1,19
+Markdown,/tmp/clone_directory/README.md,12,0,18
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/11652-카드/solution.py,5,0,18
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/3273-두 수의 합/solution.py,3,0,18
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/10825-국영수/solution.py,5,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/20291-파일 정리/solution.py,3,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1300-K 번째 수/solution.py,4,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1764-듣보잡/solution.py,2,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/05~06-이분 탐색/문제별 코드/1920-수 찾기/solution.py,2,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1253-좋다/solution.py,2,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/15565-귀여운 라이언/solution.py,2,0,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/문제별 코드/20364-부동산 다툼/solution.py,5,2,17
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/1182-부분수열의 합/solution.py,3,0,16
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15650-N과 M(2)/solution.py,2,0,16
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15652-N과 M(4)/solution.py,2,0,16
+YAML,/tmp/clone_directory/.github/workflows/stale.yml,4,0,15
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/문제별 코드/15651-N과 M(3)/solution.py,2,0,15
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/README.md,0,0,15
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/3273-두 수의 합/solution.py,0,0,15
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/12-트리/README.md,0,0,15
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1309-동물원/solution.py,5,2,15
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1495-기타리스트/solution.py,4,2,15
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/13144-List of Unique Numbers/solution.py,2,0,14
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/1806-부분 합/solution.py,3,0,14
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1003-피보나치 함수/solution.py,4,2,14
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2579-계단 오르기/solution.py,6,2,14
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2003-수들의 합 2/solution.py,3,0,13
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2473-세 용액/solution.py,2,0,13
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/15988-1 2 3 더하기 3/solution.py,3,5,13
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2688-줄어들지 않아/solution.py,4,0,13
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/01~02-완전 탐색/README.md,0,0,12
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2559-수열/solution.py,3,0,12
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11057-오르막 수/solution.py,4,2,12
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/5557-1학년/solution.py,4,2,12
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/07~08-두 포인터/문제별 코드/2230-수 고르기/solution.py,2,0,11
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/13-위상정렬/README.md,0,0,11
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/1149-RGB 거리/solution.py,4,3,11
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1015-수열 정렬/solution.py,1,0,10
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11052-카드 구매하기/solution.py,4,2,10
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/2193-이친수/solution.py,3,1,10
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/9095-1 2 3 더하기/solution.py,3,2,10
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/README.md,0,0,9
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/03~04-정렬/문제별 코드/1181-단어 정렬/solution.py,4,0,9
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/10870-피보나치 수 5/solution.py,4,0,9
+Python,/tmp/clone_directory/강의 자료/02-알고리즘/15~17-동적 프로그래밍/문제별 코드/11726-2xN 타일링/solution.py,4,2,9
+Markdown,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/README.md,4,0,5
+Markdown,/tmp/clone_directory/강의 자료/02-알고리즘/14-최단거리/README.md,0,0,4
+Markdown,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제2회/README.md,2,0,3
+Markdown,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제3회/README.md,2,0,3
+Markdown,/tmp/clone_directory/류호석배 알고리즘 코딩 테스트/제1회/README.md,2,0,2
+SUM,,5019,1228,25260

@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run apache/skywalking-eyes@v0.3.0,2431.2011189177183,165181087,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/apache/skywalking-eyes/v0.3.0/Dockerfile'.,306.1870266471698,129940093,False,
+##[group]GITHUB_TOKEN Permissions,42.2576002380362,2178568,False,
+Requested labels: self-hosted,36.688091145491335,4881448,False,
+##[group]Fetching the repository,1.9595377402772007,459692,False,
+##[group]Run actions/checkout@v3,0.5014346073035575,194134,False,
+##[group]Setting up auth,0.3267428198691349,140026,False,
+##[group]Cleaning the repository,0.3050212438070332,81687,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.2832996677449314,77143,False,

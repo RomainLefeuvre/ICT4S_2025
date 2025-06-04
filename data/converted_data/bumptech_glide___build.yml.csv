@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 14.5118285444283, , , , 6128709, False, 
+##[group]GITHUB_TOKEN Permissions, 186.5913093323856, , , , 3593382, False, 
+##[group]Run actions/checkout@v3, 19.021784910884264, , , , 173149, False, 
+##[group]Disabling automatic garbage collection, 17.087418653804338, , , , 1611, False, 
+##[group]Fetching the repository, 33.938363341460274, , , , 3808919, False, 
+##[group]Checking out the ref, 15.227183756137618, , , , 501058, False, 
+##[group]Installed distributions, 20.867442920570312, , , , 209819, False, 
+##[group]Restore Gradle state from cache, 2.6469750044576044, , , , 1077699, False, 
+##[group]Run ./scripts/ci_unit.sh, 1082.9190204510464, , , , 56847725, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :dokkaHtmlMultiModule, 44.44968404477301, , , , 1581117, True, ##[error]Process completed with exit code 1.
+##[group]Caching Gradle state, 205.63141084413087, , , , 14049777, False, 

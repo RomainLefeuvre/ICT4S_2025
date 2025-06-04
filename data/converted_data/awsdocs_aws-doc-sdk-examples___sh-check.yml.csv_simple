@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/luizm/action-sh-checker/master/Dockerfile'.,186.4613837951555,50381429,False,
+##[group]GITHUB_TOKEN Permissions,162.72439338952904,2040177,False,
+##[group]Run luizm/action-sh-checker@master,20.35146363339292,7599002,False,
+##[group]Fetching the repository,18.36604700253216,795552,False,
+##[group]Run actions/checkout@v4,3.463754959966697,184025,False,
+##[group]Setting up sparse checkout,3.099370877896878,45209,False,
+##[group]Setting up auth,2.1480711228265967,83521,False,
+##[group]==END_FILE==,2.119350438010009,4312607,False,
+##[group]Cleaning the repository,2.029158653442811,47890,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.9102461840590264,45179,False,

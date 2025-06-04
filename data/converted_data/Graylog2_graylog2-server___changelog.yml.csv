@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 5.335041191923661, , , , 4282243, False, 
+##[group]GITHUB_TOKEN Permissions, 62.047333003009264, , , , 2031628, False, 
+##[group]Run actions/github-script@v6, 8.580349520562805, , , , 228839, True, ##[error]Unhandled error: TypeError: Cannot read properties of undefined (reading 'user')

@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,85.583987605401,3048084,False,
+##[group]Run ./mvnw --batch-mode --no-transfer-progress versions:set -DnewVersion= -Dgib.disable versions:commit,63.05100868971432,17177213,True,##[error]java-version or java-version-file input expected
+[INFO] --- spotless:2.43.0:check (default) @ testcontainers-spring-boot ---,36.9737431453434,2129588,False,
+##[group]Run ./mvnw --batch-mode --no-transfer-progress -Dgib.disable=true -P ossrh -DskipTests deploy,31.59609740016702,17124827,True,"[ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project testcontainers-spring-boot: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]"
+##[group]Run actions/checkout@v4,15.7834108075395,126199,False,
+[INFO] --- versions:2.16.2:set (default-cli) @ testcontainers-spring-boot ---,10.835734185915287,13752434,True,"[ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project testcontainers-spring-boot: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]"
+[INFO] --- source:3.3.0:jar (attach-sources) @ testcontainers-spring-boot ---,10.715630644607469,616830,False,
+[INFO] --- javadoc:3.6.3:jar (attach-javadocs) @ testcontainers-spring-boot ---,9.099456239259888,2430003,False,
+##[group]Run actions-js/push@v1.4,9.028959155834215,618345,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.2.0:sign (sign-artifacts) on project testcontainers-spring-boot: Exit code: 2 -> [Help 1]
+[INFO] --- jacoco:0.8.11:prepare-agent (prepare-agent) @ testcontainers-spring-boot ---,8.709360157868488,453546,False,
+[INFO] --- exec:3.2.0:exec (docker-cleanup) @ testcontainers-spring-boot ---,7.114857757042652,343768,False,
+[INFO] --- enforcer:3.4.1:enforce (enforce) @ testcontainers-spring-boot ---,6.941481720868697,423460,False,
+##[group]==END_FILE==,0.0158863181474057,4941463,False,

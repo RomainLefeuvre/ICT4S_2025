@@ -1,0 +1,13 @@
+##[group]==END_FILE==, 18.66720313836052, , , , 14403033, False, 
+##[group]GITHUB_TOKEN Permissions, 5.954211532178101, , , , 1299211, False, 
+##[group]Run actions/checkout@v2, 1.1519803197454133, , , , 182501, False, 
+##[group]Setting up auth, 2.470512011020284, , , , 334216, False, 
+##[group]Fetching the repository, 5.607229508158397, , , , 817037, True, ##[error]Process completed with exit code 2.
+##[group]Run git config user.email mag@nordicsemi.no, 2.373357044294768, , , , 326462, False, 
+Requested labels: self-hosted, 7.610482389845173, , , , 4361533, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 17.69961862795315, , , , 1237606, False, 
+##[group]Run actions/checkout@v2__dup_9, 1.5557868765240428, , , , 184508, False, 
+##[group]Getting Git version info, 1.5315010789831789, , , , 5830, False, 
+##[group]Setting up auth__dup_11, 1.5072152814423154, , , , 67547, False, 
+##[group]Fetching the repository__dup_12, 5.786003150360625, , , , 425082, False, 
+##[group]Run echo "" > sec.gpg.asc, 5.300287199543352, , , , 454989, True, ##[error]Process completed with exit code 2.

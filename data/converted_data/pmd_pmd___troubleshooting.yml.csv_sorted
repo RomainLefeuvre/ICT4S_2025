@@ -1,0 +1,13 @@
+##[group]GITHUB_TOKEN Permissions, 131.62722725632517, , , , 3946497, False, 
+##[group]Fetching the repository, 38.11115484967205, , , , 3026589, False, 
+Requested labels: self-hosted, 34.88277548270249, , , , 5535086, False, 
+##[group]Run actions/cache@v4, 22.162387516094217, , , , 1168461, False, 
+##[group]Downloading Ruby, 18.327238416486765, , , , 1790102, False, 
+##[group]Extracting  Ruby, 14.254860528678474, , , , 1086120, False, 
+##[group]Run f=openjdk.bash; \\, 13.442328842309202, , , , 463959, True, ##[error]Process completed with exit code 127.
+##[group]Installing Bundler, 12.346010596555695, , , , 1194793, False, 
+##[group]Run f=check-environment.sh; \\, 8.139780712416282, , , , 4831418, False, 
+##[group]Run mxschmitt/action-tmate@v3, 8.04117705025691, , , , 3522064, True, ##[error]Error: 100
+##[group]Checking out the ref, 7.835482886513287, , , , 462280, False, 
+##[group]Run actions/checkout@v4, 1.96424985862602, , , , 181034, False, 
+##[group]Setting up auth, 1.0075584792256034, , , , 64351, False, 

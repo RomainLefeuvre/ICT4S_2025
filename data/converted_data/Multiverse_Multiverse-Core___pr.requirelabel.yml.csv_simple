@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,69.71494476896173,1333505,False,
+##[group]Run mheap/github-action-required-labels@v2,19.53913849824779,215000,True,"##[error]tools.context.issue cannot be used with this event, there is no issue or pull_request object."
+Requested labels: self-hosted,0.5950876967089164,4935525,False,

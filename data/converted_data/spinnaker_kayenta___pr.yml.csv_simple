@@ -1,0 +1,29 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,64.58282569592728,18241201,False,
+##[group]Booting builder,17.1433525333906,7084167,False,
+##[group]Removing builder,13.41719608193362,3010675,False,
+##[group]Extracting available platforms,10.738221288300265,5459918,False,
+##[group]GITHUB_TOKEN Permissions,7.182904641126448,4697376,False,
+##[group]Buildx version__dup_19,6.7838594824926135,909046,True,"##[error]buildx failed with: ERROR: invalid tag ""us-docker.pkg.dev/spinnaker-community/docker/kayenta:-dev-pr-4021ebea-202404142028"": invalid reference format"
+##[group]Fetching the repository,5.044064256281144,3006370,False,
+##[group]Buildx version__dup_21,5.025608890629263,640665,True,"##[error]buildx failed with: ERROR: invalid tag ""us-docker.pkg.dev/spinnaker-community/docker/kayenta:-dev-pr-4021ebea-202404142028-ubuntu"": invalid reference format"
+##[group]Pulling binfmt Docker image,4.470596379935932,1582849,False,
+##[group]Installing QEMU static binaries,4.279983243353554,5934242,False,
+##[group]Buildx version__dup_23,4.152135059940744,505081,True,"##[error]buildx failed with: ERROR: invalid tag ""us-docker.pkg.dev/spinnaker-community/docker/kayenta:-dev-pr-4021ebea-202404142028-java11"": invalid reference format"
+##[group]Buildx version__dup_25,4.11815072938782,499731,True,"##[error]buildx failed with: ERROR: invalid tag ""us-docker.pkg.dev/spinnaker-community/docker/kayenta:-dev-pr-4021ebea-202404142028-java11-ubuntu"": invalid reference format"
+##[group]Installed distributions,3.255492781360023,763158,False,
+##[group]Removing temp folder /home/power/actions-runner/_work/_temp/docker-actions-toolkit-cJeT3V,2.441437351153491,259974,False,
+##[group]Run actions/checkout@v4,1.3082505051345712,144971,False,
+##[group]Setting up auth,1.279732633336634,61342,False,
+##[group]Post cache,1.2225828996378738,235106,False,
+##[group]Run ./gradlew build kayenta-web:installDist $GRADLE_ARGS,1.082383311766895,197538,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-7.6.1-bin/2clxi94ab3brv6467628wnxmd/gradle-7.6.1-bin.zip.lck"
+##[group]Creating a new builder instance,1.0338118043666351,440596,False,
+##[group]Checking out the ref,0.9399967060948036,73008,False,
+##[group]Docker info,0.9285273485678992,87691,False,
+##[group]Docker info__dup_20,0.8409999148268363,85749,False,
+##[group]Docker info__dup_22,0.8326926340250104,86429,False,
+##[group]Docker info__dup_24,0.8258957679144256,86489,False,
+##[group]Docker info__dup_18,0.6195071065079569,94153,False,
+"##[group]Run echo REPO=""${GITHUB_REPOSITORY##*/}"" >> $GITHUB_OUTPUT",0.5076278913300863,43814,False,
+##[group]Buildx version,0.1871431763345866,68631,False,
+##[group]Docker info__dup_11,0.1463947336162598,86673,False,

@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.0, , , , 4796140, False, 
+##[group]GITHUB_TOKEN Permissions, 14.862375888138637, , , , 1400801, False, 
+##[group]Run actions/checkout@v4.1.1, 1.392260036359591, , , , 165119, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.427066537268581, , , , 44039, False, 
+##[group]Cleaning the repository, 1.4618730381775706, , , , 140227, False, 
+##[group]Setting up auth, 1.4966795390865604, , , , 64863, False, 
+##[group]Fetching the repository, 13.226470345416114, , , , 755869, False, 
+##[group]Run swift build -v, 3.724295597261906, , , , 258895, True, ##[error]Process completed with exit code 127.

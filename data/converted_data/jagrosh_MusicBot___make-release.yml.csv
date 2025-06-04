@@ -1,0 +1,10 @@
+##[group]Run actions/setup-java@v2, 253.929661583579, , , , 19166161, False, 
+##[group]Run datamonsters/replace-action@v2, 0.4749997285991654, , , , 82457, False, 
+##[group]Run mvn --batch-mode --update-snapshots verify, 4.874211730374832, , , , 1209756, True, [ERROR] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Run mv target/*-All.jar JMusicBot-.jar, 0.9803457173585672, , , , 248468, True, [ERROR]   The project com.jagrosh:JMusicBot:[unknown-version] (/home/power/actions-runner/_work/MusicBot/MusicBot/pom.xml) has 1 error
+##[group]Run actions/upload-artifact@v3, 1.7687109606579057, , , , 702802, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==, 18.384221241260818, , , , 5290723, False, 
+##[group]==END_FILE==__dup_7, 7.002255442182864, , , , 5007328, False, 
+##[group]GITHUB_TOKEN Permissions, 9.46363641268047, , , , 2199281, False, 
+##[group]Run actions/download-artifact@v3.0.0, 6.38606016047043, , , , 493177, False, 
+##[group]Run ncipollo/release-action@v1, 3.21612084584025, , , , 223443, False, 

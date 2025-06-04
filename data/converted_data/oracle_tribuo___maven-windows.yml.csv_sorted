@@ -1,0 +1,22 @@
+##[group]GITHUB_TOKEN Permissions, 261.4406026094589, , , , 3111838, False, 
+##[group]Run mvn -B package --file pom.xml, 176.8297964035404, , , , 3366115, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==, 127.72546993558056, , , , 34980084, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 32.0354524596067, , , , 538872, False, 
+##[group]Fetching the repository, 27.23664747050048, , , , 457357, False, 
+##[group]Run mvn -B package --file pom.xml__dup_14, 22.054648870820262, , , , 1886779, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_9, 17.046204530992433, , , , 3041044, False, 
+##[group]Run mvn -B package --file pom.xml__dup_22, 7.442577825936298, , , , 1900575, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4, 7.087518973881578, , , , 139027, False, 
+##[group]Setting up auth, 6.963804704434263, , , , 58888, False, 
+##[group]Checking out the ref, 6.654519030815973, , , , 26284, False, 
+##[group]GITHUB_TOKEN Permissions__dup_15, 6.1572039491174815, , , , 3123799, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_13, 4.903757484231178, , , , 544798, False, 
+##[group]Fetching the repository__dup_12, 3.5929702440677524, , , , 420086, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_21, 1.65973539513072, , , , 524946, False, 
+##[group]Fetching the repository__dup_19, 1.208253229321464, , , , 421907, False, 
+##[group]Setting up auth__dup_11, 0.8607384992763484, , , , 58764, False, 
+##[group]Run actions/checkout@v4__dup_10, 0.8307352498838764, , , , 143980, False, 
+##[group]Checking out the ref__dup_20, 0.313557065674896, , , , 96226, False, 
+##[group]Setting up auth__dup_18, 0.2905695489858361, , , , 137422, False, 
+##[group]Cleaning the repository, 0.285972045648024, , , , 27814, False, 
+##[group]Run actions/checkout@v4__dup_16, 0.281374542310212, , , , 137630, False, 

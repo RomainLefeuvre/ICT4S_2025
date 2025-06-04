@@ -1,0 +1,9 @@
+##[group]Run message="Prepare release $VERSION", 58.765779363155225, , , , 1848951, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions, 18.759750388784827, , , , 1249614, False, 
+##[group]Fetching the repository, 11.228799083774238, , , , 483012, False, 
+##[group]Cleaning the repository, 4.162062323820537, , , , 175769, False, 
+##[group]Run .github/scripts/update-version.sh $VERSION, 2.528151796488411, , , , 5416, False, 
+##[group]Checking out the ref, 2.386955806621629, , , , 49538, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.0104331669768776, , , , 48227, False, 
+##[group]Run actions/checkout@v4, 1.963367837021284, , , , 142903, False, 
+Requested labels: self-hosted, 0.1684465442096677, , , , 4295302, False, 

@@ -1,0 +1,18 @@
+##[group]==END_FILE==, 28931.794256899648, , , , 1337828345, False, 
+##[group]Run cd h2, 28846.53358075684, , , , 1317834222, True, ##[error]Exception in thread "MVStore background writer ./data/test/testStopCompact.h3" org.h2.mvstore.MVStoreException: java.lang.AssertionError: 26882048 != 17047552 [2.2.229/3]
+##[group]Run cd h2__dup_18, 27592.075449108343, , , , 1277615654, True, ##[error]Exception in thread "MVStore background writer ./data/test/testStopCompact.h3" org.h2.mvstore.MVStoreException: java.lang.AssertionError: 26882048 != 17047552 [2.2.229/3]
+##[group]GITHUB_TOKEN Permissions, 5761.135026021333, , , , 2574761, False, 
+##[group]Fetching the repository, 4755.484049233383, , , , 1255094, False, 
+##[group]Run actions/checkout@v3, 2315.4232817947736, , , , 708298, False, 
+##[group]Checking out the ref, 879.9347853975705, , , , 171860, False, 
+##[group]Installed distributions, 468.0454996533586, , , , 26973, False, 
+##[group]Setting up auth, 355.7330718350647, , , , 72267, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 25.95811327484671, , , , 2077265, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 12.82755009692787, , , , 101097, False, 
+##[group]Fetching the repository__dup_15, 10.82932956562052, , , , 451104, False, 
+##[group]Installed distributions__dup_17, 9.35737354177577, , , , 30654, False, 
+Requested labels: self-hosted, 5.867244697294654, , , , 5386799, False, 
+##[group]Run actions/checkout@v3__dup_11, 4.284244243532011, , , , 163948, False, 
+##[group]Cleaning the repository, 2.4855811981332803, , , , 86715, False, 
+##[group]Setting up auth__dup_14, 2.4056523768809863, , , , 69435, False, 
+##[group]Checking out the ref__dup_16, 2.048109431216524, , , , 23143, False, 

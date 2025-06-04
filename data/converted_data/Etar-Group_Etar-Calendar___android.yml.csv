@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.0732868172148958, , , , 4898701, False, 
+##[group]GITHUB_TOKEN Permissions, 7.8381965881463, , , , 5519300, False, 
+##[group]Run actions/checkout@v4, 0.4369088218359253, , , , 156871, False, 
+##[group]Fetching the repository, 3.351378447735451, , , , 1371516, False, 
+##[group]Checking out the ref, 0.2590058285135126, , , , 93985, False, 
+##[group]Fetching submodules, 7.71021595598918, , , , 13062879, False, 
+##[group]Persisting credentials for submodules, 1.0171377660281828, , , , 211740, False, 
+##[group]Installed distributions, 2.1466648218600293, , , , 433476, False, 
+##[group]Run actions/cache@v4.0.2, 3.116498081776657, , , , 1306857, False, 
+##[group]Run gradle/wrapper-validation-action@v2, 2.321304267567325, , , , 193860, False, 
+##[group]Run ./gradlew :app:assembleDebug, 1315.0365130973275, , , , 95354556, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4, 242.89985732007204, , , , 14474093, False, 

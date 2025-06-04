@@ -1,0 +1,13 @@
+##[group]==END_FILE==, 0.0, , , , 4861674, False, 
+##[group]GITHUB_TOKEN Permissions, 243.02851049334183, , , , 2910112, False, 
+##[group]Run actions/checkout@v3, 24.68789155990145, , , , 176902, False, 
+##[group]Setting up auth, 12.910181824902596, , , , 67323, False, 
+##[group]Fetching the repository, 103.45022974587413, , , , 4714590, False, 
+##[group]Checking out the ref, 4.135074914187824, , , , 316334, False, 
+##[group]Run actions/setup-node@v3, 51.48564045871792, , , , 3680887, False, 
+##[group]Environment details, 8.450377203882454, , , , 660632, False, 
+##[group]Run npm install -g @elastic/docs-lint, 54.09177865430657, , , , 14612812, True, ##[error]Dependencies lock file is not found in /home/power/actions-runner/_work/logstash/logstash. Supported file patterns: package-lock.json,npm-shrinkwrap.json,yarn.lock
+##[group]Run npm install strip-ansi, 9.542901552045526, , , , 678115, False, 
+##[group]Run LINT=$(((docs-lint $GITHUB_WORKSPACE/docs --asciidoc) 2>&1) || true), 2.6433456459875107, , , , 172055, False, 
+##[group]Run actions/github-script@v6, 1.3078065472276013, , , , 131008, False, 
+##[group]Run actions/github-script@v6__dup_13, 8.89580868295833, , , , 664117, True, ##[error]Unhandled error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/runner/work/docs-lint/docs-lint/node_modules/strip-ansi/index.js' imported from /home/power/actions-runner/_work/_actions/actions/github-script/v6/dist/index.js

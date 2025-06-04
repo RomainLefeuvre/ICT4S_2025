@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run pwd,66.00112766912002,20769054,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,65.8481529292969,3921626,False,
+##[group]Run actions/cache@v3,65.80397717283721,602140,False,
+##[group]Fetching the repository,59.19003345448497,452797,False,
+##[group]Run actions/checkout@v3,25.007637276756373,157988,False,
+##[group]Cleaning the repository,24.39304163292758,183171,False,
+Requested labels: self-hosted,0.0,3923526,False,

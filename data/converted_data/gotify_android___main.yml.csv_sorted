@@ -1,0 +1,8 @@
+##[group]Run ./gradlew build --stacktrace, 620.445752329539, , , , 85369813, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 31.596877662731263, , , , 2545018, False, 
+##[group]==END_FILE==, 10.924136476213096, , , , 6066217, False, 
+##[group]Fetching the repository, 10.61149907595337, , , , 794657, False, 
+##[group]Run actions/setup-java@v1, 5.403407728001928, , , , 467183, False, 
+##[group]Run actions/checkout@v2, 2.616252947728877, , , , 193582, False, 
+##[group]Checking out the ref, 1.340170567466471, , , , 53296, False, 
+##[group]Setting up auth, 1.3127042015218715, , , , 77960, False, 

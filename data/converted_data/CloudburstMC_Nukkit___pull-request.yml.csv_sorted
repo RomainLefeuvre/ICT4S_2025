@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 23.900539959071278, , , , 4379640, False, 
+##[group]Run gradle/wrapper-validation-action@v1, 12.771925337759384, , , , 1716244, False, 
+##[group]Run actions/checkout@v1, 8.669433260218081, , , , 5598747, False, 
+##[group]Run actions/upload-artifact@v1, 8.586776253199076, , , , 997514, True, ##[error]Path does not exist /home/power/actions-runner/_work/Nukkit/Nukkit/target/nukkit-1.0-SNAPSHOT.jar
+Requested labels: self-hosted, 6.205543415143825, , , , 5338994, False, 
+##[group]Run gradle/gradle-build-action@v2, 2.445425971078074, , , , 343893, True, ##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'

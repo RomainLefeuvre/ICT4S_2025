@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,26.81726060981697,2780120,False,
+##[group]Fetching the repository,25.505216360852888,5781701,False,
+##[group]Run ./gradlew assembleDebug,14.956229091330838,1383928,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-8.0-bin/6fejki9pg7ceirjpije32sgbj1/gradle-8.0-bin.zip.lck (Aucun fichier ou dossier de ce type)"
+##[group]Retrieving commit history,7.944407911095606,607127,False,
+##[group]Generating release tag,6.959970234347566,421428,False,
+##[group]Run actions/checkout@v3,6.057597994864596,158026,False,
+##[group]Installed distributions,4.028318789241377,378717,False,
+"##[group]Generating new GitHub release for the ""dev-build"" tag",3.883359787351836,427082,False,
+##[group]Uploading release artifacts,3.590737434095134,471929,True,##[error]android_app/app/build/outputs/apk/debug/openScale-debug.apk doesn't match any files
+"##[group]Deleting GitHub releases associated with the tag ""dev-build""",3.5021355805580523,257917,False,
+##[group]Setting up auth,2.873155455796892,59795,False,
+##[group]Checking out the ref,1.802833869372517,287178,False,
+Requested labels: self-hosted,0.0,5666026,False,

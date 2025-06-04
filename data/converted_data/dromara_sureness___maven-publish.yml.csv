@@ -1,0 +1,15 @@
+##[group]Run actions/setup-java@v1, 77.23791157731073, , , , 18915722, False, 
+##[group]Run mvn -B package --file pom.xml, 132.4657281405107, , , , 16880057, True, [ERROR] COMPILATION ERROR : 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ sureness-core ---, 7.664620171100102, , , , 2025904, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ sureness-core ---, 166.0063925177907, , , , 21059966, True, [ERROR] COMPILATION ERROR : 
+##[group]Run samuelmeuli/action-maven-publish@v1.4.0, 124.2728136791883, , , , 17708578, True, [ERROR] COMPILATION ERROR : 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ sureness-core ---, 2.322346940386053, , , , 177148, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ sureness-core ---__dup_7, 1.1679787883851602, , , , 102747, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ sureness-core ---__dup_8, 74.07425158568563, , , , 5658778, True, [ERROR] COMPILATION ERROR : 
+##[group]Run samuelmeuli/action-maven-publish@v1.4.0__dup_9, 36.10420078994997, , , , 15032246, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (sign-artifacts) on project spring-boot-starter-sureness: Exit code: 2 -> [Help 1]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-boot-starter-sureness ---, 2.86677239575676, , , , 142811, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-boot-starter-sureness ---, 11.648564734817274, , , , 844942, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-boot-starter-sureness ---, 16.490880344425744, , , , 1032575, False, 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ spring-boot-starter-sureness ---, 4.592787275896894, , , , 328952, False, 
+[INFO] --- maven-source-plugin:3.0.1:jar-no-fork (attach-sources) @ spring-boot-starter-sureness ---, 12.447055402694312, , , , 773583, False, 
+[INFO] --- maven-javadoc-plugin:2.10.4:jar (attach-javadocs) @ spring-boot-starter-sureness ---, 36.10420078994997, , , , 5825533, False, 

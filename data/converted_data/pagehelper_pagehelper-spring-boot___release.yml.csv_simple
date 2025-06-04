@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,414.3845062805405,2178866,False,
+##[group]Run mvn --batch-mode -Dgpg.passphrase= -P release clean deploy,340.3288298569752,28363920,True,##[error]Process completed with exit code 2.
+##[group]Fetching the repository,114.75263250845732,453541,False,
+##[group]Run actions/setup-java@v2,62.01278625457038,236106,False,
+##[group]Run actions/checkout@v3,52.73984625388696,158966,False,
+[INFO] --- flatten-maven-plugin:1.1.0:clean (flatten.clean) @ pagehelper-spring-boot ---,41.9971109980611,3693783,False,
+"##[group]Run cat <(echo -e """") | gpg --batch --import",32.45529000239197,93042,False,
+[INFO] --- maven-javadoc-plugin:3.2.0:jar (default) @ pagehelper-spring-boot ---,31.854731015277157,4785699,False,
+##[group]Checking out the ref,30.13705500222112,18189,False,
+##[group]Setting up auth,27.239261252007548,59871,False,
+[INFO] --- maven-source-plugin:2.2.1:jar-no-fork (default) @ pagehelper-spring-boot ---,20.25054494227557,2145492,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ pagehelper-spring-boot ---,2.5444921997837344,266533,False,
+[INFO] --- flatten-maven-plugin:1.1.0:flatten (flatten) @ pagehelper-spring-boot ---,1.0013856759547746,91797,False,
+##[group]==END_FILE==,0.0785974408337524,4385003,False,

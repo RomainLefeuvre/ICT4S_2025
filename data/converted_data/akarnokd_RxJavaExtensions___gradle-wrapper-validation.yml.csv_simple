@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gradle/wrapper-validation-action@v1,10.533251918501948,1530699,False,
+##[group]GITHUB_TOKEN Permissions,10.49460519193553,1887695,False,
+##[group]Fetching the repository,5.771992060861807,862215,False,
+Requested labels: self-hosted,3.2953571474855776,5127475,False,
+##[group]Run actions/checkout@v2,1.221780559053806,174504,False,
+##[group]Setting up auth,0.6179153960684333,116343,False,

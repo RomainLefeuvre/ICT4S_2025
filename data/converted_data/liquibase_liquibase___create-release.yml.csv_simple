@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,36.36869303934325,1206489,False,
+##[group]==END_FILE==__dup_5,10.443044508665643,15288186,False,
+"##[group]Run echo ""Creating version  from  with artifacts from build  """,4.198426468458931,48699,False,
+##[group]Run actions/github-script@v7,3.976007030646804,174013,False,
+##[group]==END_FILE==__dup_8,1.3666202569438508,5415448,False,
+##[group]==END_FILE==,0.974382939203335,4731599,False,
+##[group]GITHUB_TOKEN Permissions__dup_6,0.9666352784099436,3113693,False,
+##[group]Run actions/checkout@v4,0.0,354120,False,

@@ -1,0 +1,311 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.05 s (5679.4 files/s 379749.8 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,4648
+JSON,/tmp/clone_directory/keycloak/istio-realm.json,0,0,1593
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/zero-downtime-database.adoc,225,11,606
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/2deploy-microservices.adoc,159,6,489
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/2build-microservices.adoc,122,6,333
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/5circuit-breaker.adoc,105,1,299
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/4advanced-routerules.adoc,68,0,228
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/8mTLS.adoc,59,0,220
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/9tips.adoc,31,0,218
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/3monitoring-tracing.adoc,105,14,215
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/1setup.adoc,48,1,172
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/diferencia.adoc,74,0,167
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/promotion.adoc,63,1,164
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/cube.adoc,48,3,158
+Java,/tmp/clone_directory/recommendation/java/vertx/src/main/java/com/redhat/developer/demos/recommendation/RecommendationPersistenceVerticle.java,34,9,155
+DOS Batch,/tmp/clone_directory/recommendation/java/vertx/mvnw.bat,39,0,150
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/4simple-routerules.adoc,57,0,149
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/virtualization.adoc,54,0,146
+Bourne Shell,/tmp/clone_directory/recommendation/java/camel-springboot/mvnw,29,51,145
+Maven,/tmp/clone_directory/recommendation/java/vertx/pom.xml,16,3,134
+Maven,/tmp/clone_directory/recommendation/java/quarkus/pom.xml,0,0,132
+Maven,/tmp/clone_directory/customer/java/quarkus/pom.xml,0,0,129
+Maven,/tmp/clone_directory/preference/java/quarkus/pom.xml,0,0,129
+AsciiDoc,/tmp/clone_directory/documentation/modules/workshop/pages/2deploy-microservices.adoc,59,0,128
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/8egress.adoc,41,0,122
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/8acl.adoc,43,0,113
+DOS Batch,/tmp/clone_directory/recommendation/java/camel-springboot/mvnw.cmd,31,0,112
+Bourne Shell,/tmp/clone_directory/scripts/clean.sh,47,0,106
+Bourne Shell,/tmp/clone_directory/recommendation/java/vertx/mvnw,22,44,104
+Java,/tmp/clone_directory/recommendation/java/vertx/src/main/java/com/redhat/developer/demos/recommendation/RecommendationVerticle.java,22,8,89
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/3kiali.adoc,39,1,88
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/6fault-injection.adoc,25,0,88
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/nav.adoc,11,0,82
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/8rbac.adoc,30,0,82
+Maven,/tmp/clone_directory/customer/java/camel-springboot/pom.xml,9,0,79
+Java,/tmp/clone_directory/customer/java/springboot/src/main/java/com/redhat/developer/demos/customer/CustomerController.java,15,6,77
+Maven,/tmp/clone_directory/preference/java/camel-springboot/pom.xml,9,0,75
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/8jwt.adoc,28,0,73
+YAML,/tmp/clone_directory/customer/kubernetes/Deployment.yml,0,0,70
+Maven,/tmp/clone_directory/preference/java/microprofile/pom.xml,4,3,70
+YAML,/tmp/clone_directory/preference/kubernetes/Deployment.yml,0,0,70
+Maven,/tmp/clone_directory/recommendation/java/camel-springboot/pom.xml,9,0,70
+Maven,/tmp/clone_directory/recommendation/java/microprofile/pom.xml,4,3,70
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment.yml,0,0,70
+Maven,/tmp/clone_directory/customer/java/microprofile/pom.xml,5,2,69
+Maven,/tmp/clone_directory/customer/java/springboot/pom.xml,0,1,69
+Maven,/tmp/clone_directory/preference/java/springboot/pom.xml,0,1,69
+Java,/tmp/clone_directory/preference/java/springboot/src/main/java/com/redhat/developer/demos/preference/PreferencesController.java,13,3,69
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/7policy.adoc,19,0,68
+Java,/tmp/clone_directory/recommendation/java/camel-springboot/src/main/java/com/redhat/developer/demos/RecommendationCamelRoute.java,17,7,68
+Java,/tmp/clone_directory/recommendation/java/microprofile/src/main/java/com/redhat/developer/demos/recommendation/rest/RecommendationEndpoint.java,16,9,68
+JavaScript,/tmp/clone_directory/lib/tab-block.js,5,27,67
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v2.yml,0,0,64
+YAML,/tmp/clone_directory/customer/kubernetes/Deployment_http.yml,0,0,62
+YAML,/tmp/clone_directory/preference/kubernetes/Deployment_http.yml,0,0,62
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v2_http.yml,0,0,62
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment_http.yml,0,0,62
+Java,/tmp/clone_directory/recommendation/java/vertx/src/test/java/com/redhat/developer/demos/recommendation/DarkLaunchIT.java,15,7,61
+Java,/tmp/clone_directory/recommendation/java/quarkus/src/main/java/com/redhat/developer/demos/recommendation/rest/RecommendationResource.java,19,8,60
+Java,/tmp/clone_directory/recommendation/java/springboot/src/main/java/com/redhat/developer/demos/recommendation/RecommendationController.java,18,10,60
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v2-timeout.yml,0,0,58
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v4.yml,0,0,58
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v5.yml,0,0,58
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v6.yml,0,0,58
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v7.yml,0,0,58
+YAML,/tmp/clone_directory/customer/kubernetes/Deployment_jvm.yml,0,0,56
+YAML,/tmp/clone_directory/preference/kubernetes/Deployment_jvm.yml,0,0,56
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v2_jvm.yml,0,0,56
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v3.yml,0,0,56
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment_jvm.yml,0,0,56
+YAML,/tmp/clone_directory/istiofiles/acl-deny-except-customer2preference2recommendation.yml,0,0,54
+Maven,/tmp/clone_directory/recommendation/java/springboot/pom.xml,0,1,54
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v3_jvm.yml,0,0,54
+Java,/tmp/clone_directory/customer/java/camel-springboot/src/main/java/com/redhat/developer/demos/CustomerCamelRoute.java,7,0,53
+Markdown,/tmp/clone_directory/customer/java/springboot/readme.md,19,0,53
+YAML,/tmp/clone_directory/istiofiles/rate_limit_rule.yml,0,0,53
+YAML,/tmp/clone_directory/customer/node/Deployment.yml,0,0,52
+Markdown,/tmp/clone_directory/preference/java/springboot/readme.md,19,0,52
+YAML,/tmp/clone_directory/preference/node/Deployment.yml,0,0,52
+YAML,/tmp/clone_directory/recommendation/node/Deployment-v2.yml,0,0,52
+YAML,/tmp/clone_directory/recommendation/node/Deployment.yml,0,0,52
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-v2-timeout_jvm.yml,0,0,51
+Markdown,/tmp/clone_directory/customer/java/microprofile/readme.md,18,0,50
+YAML,/tmp/clone_directory/istiofiles/acl-whitelist.yml,2,0,50
+JSON,/tmp/clone_directory/recommendation/virtualized/simulation.json,0,0,50
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/index.adoc,26,0,49
+Java,/tmp/clone_directory/customer/java/microprofile/src/main/java/com/redhat/developer/demos/customer/rest/CustomerEndpoint.java,9,0,44
+YAML,/tmp/clone_directory/istiofiles/recommendation_requestcount.yml,0,0,44
+Java,/tmp/clone_directory/preference/java/microprofile/src/main/java/com/redhat/developer/demos/preference/rest/PreferenceEndpoint.java,9,0,44
+Markdown,/tmp/clone_directory/recommendation/java/vertx/readme.md,19,0,44
+YAML,/tmp/clone_directory/istiofiles/virtual-service-no-retries.yml,0,0,42
+YAML,/tmp/clone_directory/keycloak/Deployment.yml,0,0,41
+Java,/tmp/clone_directory/preference/java/camel-springboot/src/main/java/com/redhat/developer/demos/PreferenceCamelRoute.java,7,0,41
+YAML,/tmp/clone_directory/documentation/modules/workshop/examples/istio-install.yaml,5,0,40
+YAML,/tmp/clone_directory/.travis.yml,5,0,39
+Java,/tmp/clone_directory/customer/java/quarkus/src/main/java/com/redhat/developer/demos/customer/rest/CustomerResource.java,8,0,39
+YAML,/tmp/clone_directory/diferencia/Deployment-noise-detection.yml,0,0,36
+YAML,/tmp/clone_directory/diferencia/Deployment.yml,0,0,36
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation_cb_policy_pool_ejection.yml,0,0,36
+Java,/tmp/clone_directory/preference/java/quarkus/src/main/java/com/redhat/developer/demos/preference/rest/PreferenceResource.java,8,0,36
+YAML,/tmp/clone_directory/customer/kubernetes/Gateway.workshop.yml,0,0,35
+YAML,/tmp/clone_directory/customer/kubernetes/Gateway.yml,0,0,35
+YAML,/tmp/clone_directory/recommendation/kubernetes/Deployment-virtualized.yml,0,0,34
+C#,/tmp/clone_directory/preference/dotnet/Startup.cs,5,2,33
+JavaScript,/tmp/clone_directory/customer/node/customer.js,6,0,32
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/nav.adoc,6,0,32
+JSON,/tmp/clone_directory/package.json,0,0,31
+AsciiDoc,/tmp/clone_directory/readme.adoc,15,0,31
+YAML,/tmp/clone_directory/site-gh-pages.yml,1,0,30
+YAML,/tmp/clone_directory/dev-site.yml,1,0,29
+YAML,/tmp/clone_directory/istiofiles/virtual-service-promotion-v1-v2-v3.yml,0,0,29
+YAML,/tmp/clone_directory/site-workshop.yml,1,0,29
+YAML,/tmp/clone_directory/istiofiles/acl-blacklist.yml,1,0,27
+JavaScript,/tmp/clone_directory/recommendation/node/recommendation.js,7,5,27
+YAML,/tmp/clone_directory/.github/workflows/docs.yml,2,0,26
+JavaScript,/tmp/clone_directory/preference/node/preference.js,5,0,26
+AsciiDoc,/tmp/clone_directory/documentation/modules/workshop/pages/1setup.adoc,11,0,25
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation_cb_policy_version_v2.yml,0,0,25
+YAML,/tmp/clone_directory/recommendation/kubernetes/PostgreSQL-deployment.yml,0,0,24
+Java,/tmp/clone_directory/customer/java/quarkus/src/main/java/com/redhat/developer/demos/customer/rest/BaggageHeadersFactory.java,10,0,23
+YAML,/tmp/clone_directory/istiofiles/namespace-rbac-policy.yml,0,0,23
+C#,/tmp/clone_directory/preference/dotnet/Program.cs,2,0,23
+Java,/tmp/clone_directory/preference/java/quarkus/src/main/java/com/redhat/developer/demos/preference/rest/BaggageHeadersFactory.java,8,0,23
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-503.yml,0,0,22
+Java,/tmp/clone_directory/preference/java/springboot/src/main/java/com/redhat/developer/demos/preference/PreferencesApplication.java,6,0,22
+YAML,/tmp/clone_directory/recommendation/java/vertx/src/test/resources/dark-launch-redirect-traffic-to-new-version.yml,0,0,22
+C#,/tmp/clone_directory/customer/dotnet/Controllers/ValuesController.cs,1,1,21
+YAML,/tmp/clone_directory/istiofiles/old-namespace-rbac-policy-jwt.yml,0,0,21
+YAML,/tmp/clone_directory/istiofiles/virtual-service-firefox-recommendation-v2.yml,0,0,21
+YAML,/tmp/clone_directory/istiofiles/virtual-service-mobile-recommendation-v2.yml,0,0,21
+YAML,/tmp/clone_directory/istiofiles/virtual-service-promoted-v3.yml,0,0,21
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-virtualized.yml,0,0,21
+YAML,/tmp/clone_directory/istiofiles/virtual-service-safari-recommendation-v2.yml,0,0,21
+C#,/tmp/clone_directory/preference/dotnet/Controllers/ValuesController.cs,1,1,21
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation-v4-v5-v6-v7.yml,0,0,20
+MSBuild script,/tmp/clone_directory/customer/dotnet/customer.csproj,4,0,18
+YAML,/tmp/clone_directory/istiofiles/recommendation_rate_limit_handler.yml,0,3,18
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v1_and_v2.yml,0,0,18
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v1_and_v2_50_50.yml,0,0,18
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v1_and_v2_75_25.yml,0,0,18
+Java,/tmp/clone_directory/customer/java/quarkus/src/test/java/com/redhat/developer/demos/customer/rest/CustomerResourceTest.java,5,0,17
+Java,/tmp/clone_directory/customer/java/springboot/src/main/java/com/redhat/developer/demos/customer/CustomerApplication.java,5,0,17
+YAML,/tmp/clone_directory/istiofiles/authorization-policy-jwt.yaml,0,0,17
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation-v1-v2-v3.yml,0,0,17
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-delay.yml,0,0,17
+Handlebars,/tmp/clone_directory/supplemental-ui/partials/footer-nav.hbs,0,0,17
+YAML,/tmp/clone_directory/diferencia/virtual-service-recommendation-v1-diferencia-mirror-v2.yml,0,0,16
+YAML,/tmp/clone_directory/istiofiles/authorization-policy-allow-preference.yaml,0,0,16
+YAML,/tmp/clone_directory/istiofiles/authorization-policy-allow-recommendation.yaml,0,0,16
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v1-mirror-v2.yml,0,0,16
+Java,/tmp/clone_directory/preference/java/quarkus/src/test/java/com/redhat/developer/demos/preference/rest/PreferenceResourceTest.java,5,0,16
+Java,/tmp/clone_directory/recommendation/java/quarkus/src/test/java/com/redhat/developer/demos/recommendation/rest/RecommendationResourceTest.java,5,0,16
+JSON,/tmp/clone_directory/customer/node/package.json,0,0,15
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v2_retry.yml,0,0,15
+JSON,/tmp/clone_directory/preference/dotnet/appsettings.json,0,0,15
+Java,/tmp/clone_directory/preference/java/camel-springboot/src/main/java/com/redhat/developer/demos/PreferenceApplication.java,4,0,15
+JSON,/tmp/clone_directory/preference/node/package.json,0,0,15
+YAML,/tmp/clone_directory/recommendation/java/vertx/src/test/resources/virtual-service-recommendation-v1.yml,0,0,15
+MSBuild script,/tmp/clone_directory/customer/dotnet/dotnet.csproj,5,0,14
+Java,/tmp/clone_directory/customer/java/quarkus/src/main/java/com/redhat/developer/demos/customer/rest/PreferenceService.java,5,0,14
+YAML,/tmp/clone_directory/diferencia/Service.yml,0,0,14
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/curl.adoc,1,0,14
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/curl_params.adoc,1,0,14
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/generate_traffic.adoc,1,0,14
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/siege.adoc,1,0,14
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation-v1-v2.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v1.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v2.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v3.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v4.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v5.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v6.yml,0,0,14
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-v7.yml,0,0,14
+MSBuild script,/tmp/clone_directory/preference/dotnet/dotnet.csproj,5,0,14
+Java,/tmp/clone_directory/preference/java/quarkus/src/main/java/com/redhat/developer/demos/preference/rest/RecommendationService.java,5,0,14
+Java,/tmp/clone_directory/recommendation/java/vertx/src/test/java/com/redhat/developer/demos/recommendation/RecommendationVerticleTest.java,5,0,14
+JSON,/tmp/clone_directory/recommendation/node/package.json,0,0,14
+YAML,/tmp/clone_directory/diferencia/recommendation-candidate-svc.yml,0,0,13
+YAML,/tmp/clone_directory/diferencia/recommendation-master-svc.yml,0,0,13
+YAML,/tmp/clone_directory/istiofiles/authorization-policy-allow-customer.yaml,0,0,13
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation-v1.yml,0,0,13
+Java,/tmp/clone_directory/customer/java/springboot/src/test/java/com/redhat/developer/demos/customer/CustomerApplicationTests.java,4,0,12
+YAML,/tmp/clone_directory/customer/node/Service.yml,0,0,12
+YAML,/tmp/clone_directory/istiofiles/namespace-rbac-policy-jwt.yml,0,0,12
+YAML,/tmp/clone_directory/istiofiles/virtual-service-recommendation-timeout.yml,0,0,12
+YAML,/tmp/clone_directory/keycloak/Service.yml,0,0,12
+Java,/tmp/clone_directory/preference/java/springboot/src/test/java/com/redhat/developer/demos/preference/PreferencesApplicationTests.java,4,0,12
+YAML,/tmp/clone_directory/preference/node/Service.yml,0,0,12
+YAML,/tmp/clone_directory/recommendation/kubernetes/PostgreSQL-service.yml,0,0,12
+YAML,/tmp/clone_directory/recommendation/node/Service.yml,0,0,12
+Java,/tmp/clone_directory/customer/java/camel-springboot/src/main/java/com/redhat/developer/demos/CustomerApplication.java,3,0,11
+Dockerfile,/tmp/clone_directory/customer/java/quarkus/src/main/docker/Dockerfile.jvm,0,0,11
+Dockerfile,/tmp/clone_directory/customer/java/quarkus/src/main/docker/Dockerfile.native,0,0,11
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/pages/_attributes.adoc,0,0,11
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/_attributes.adoc,0,0,11
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation.yml,0,0,11
+YAML,/tmp/clone_directory/istiofiles/service-entry-egress-worldclockapi.yml,0,0,11
+Dockerfile,/tmp/clone_directory/preference/java/quarkus/src/main/docker/Dockerfile.jvm,0,0,11
+Dockerfile,/tmp/clone_directory/preference/java/quarkus/src/main/docker/Dockerfile.native,0,0,11
+Dockerfile,/tmp/clone_directory/recommendation/java/quarkus/src/main/docker/Dockerfile.jvm,0,0,11
+Dockerfile,/tmp/clone_directory/recommendation/java/quarkus/src/main/docker/Dockerfile.native,0,0,11
+Dockerfile,/tmp/clone_directory/customer/java/camel-springboot/Dockerfile,0,0,10
+Dockerfile,/tmp/clone_directory/customer/java/microprofile/Dockerfile,0,0,10
+YAML,/tmp/clone_directory/istiofiles/destination-rule-tls.yml,0,0,10
+JavaScript,/tmp/clone_directory/lib/remote-include-processor.js,0,0,10
+Bourne Shell,/tmp/clone_directory/masterclassscripts/1_deploy.sh,6,1,10
+JSON,/tmp/clone_directory/preference/dotnet/appsettings.Development.json,0,0,10
+Dockerfile,/tmp/clone_directory/preference/java/camel-springboot/Dockerfile,0,0,10
+Dockerfile,/tmp/clone_directory/preference/java/microprofile/Dockerfile,0,0,10
+Dockerfile,/tmp/clone_directory/recommendation/java/camel-springboot/Dockerfile,0,0,10
+Dockerfile,/tmp/clone_directory/recommendation/java/microprofile/Dockerfile,0,0,10
+Bourne Shell,/tmp/clone_directory/scripts/run.sh,2,0,10
+Bourne Shell,/tmp/clone_directory/bin/install-base-services.sh,2,0,9
+Dockerfile,/tmp/clone_directory/customer/java/springboot/Dockerfile,0,0,9
+Bourne Shell,/tmp/clone_directory/install-app.sh,4,0,9
+YAML,/tmp/clone_directory/istiofiles/destination-rule-recommendation_lb_policy_app.yml,0,0,9
+YAML,/tmp/clone_directory/istiofiles/enduser-authentication-jwt.yml,0,0,9
+Bourne Shell,/tmp/clone_directory/masterclassscripts/8_1_mtls.sh,11,2,9
+Dockerfile,/tmp/clone_directory/preference/java/springboot/Dockerfile,0,0,9
+Java,/tmp/clone_directory/recommendation/java/camel-springboot/src/main/java/com/redhat/developer/demos/RecommendationApplication.java,4,0,9
+Java,/tmp/clone_directory/recommendation/java/springboot/src/main/java/com/redhat/developer/demos/recommendation/RecommendationApplication.java,3,0,9
+XML,/tmp/clone_directory/recommendation/java/vertx/src/test/resources/arquillian.xml,3,0,9
+Java,/tmp/clone_directory/customer/java/microprofile/src/main/java/com/redhat/developer/demos/customer/rest/CustomerApplication.java,3,0,8
+Dockerfile,/tmp/clone_directory/customer/node/Dockerfile,4,4,8
+YAML,/tmp/clone_directory/istiofiles/authentication-enable-tls.yml,0,0,8
+YAML,/tmp/clone_directory/istiofiles/authorization-enable-rbac.yml,0,0,8
+YAML,/tmp/clone_directory/istiofiles/disable-mtls.yml,0,0,8
+YAML,/tmp/clone_directory/istiofiles/enable-mtls.yml,0,0,8
+Java,/tmp/clone_directory/preference/java/microprofile/src/main/java/com/redhat/developer/demos/preference/rest/PreferenceApplication.java,3,0,8
+Dockerfile,/tmp/clone_directory/preference/node/Dockerfile,4,4,8
+Java,/tmp/clone_directory/recommendation/java/microprofile/src/main/java/com/redhat/developer/demos/recommendation/rest/RecommendationApplication.java,3,0,8
+SQL,/tmp/clone_directory/recommendation/java/vertx/src/main/resources/db/migration/V1__Create_recommendation_table.sql,2,0,8
+Dockerfile,/tmp/clone_directory/recommendation/node/Dockerfile,4,4,8
+JavaScript,/tmp/clone_directory/customer/node/request-module.js,1,2,7
+YAML,/tmp/clone_directory/documentation/antora.yml,1,0,7
+YAML,/tmp/clone_directory/istiofiles/authorization-policy-deny-all.yaml,0,0,7
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_6_resiliency_no_circuitbreaker.sh,6,0,7
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_7_resiliency_circuitbreaker.sh,6,0,7
+Bourne Shell,/tmp/clone_directory/masterclassscripts/7_2_access_control_accept_path.sh,7,1,7
+Dockerfile,/tmp/clone_directory/recommendation/virtualized/Dockerfile,4,0,7
+Bourne Shell,/tmp/clone_directory/masterclassscripts/6_4_clean.sh,3,0,6
+Bourne Shell,/tmp/clone_directory/scripts/pool-ejection.sh,0,0,6
+Dockerfile,/tmp/clone_directory/customer/dotnet/Dockerfile,4,0,5
+Bourne Shell,/tmp/clone_directory/customer/dotnet/standalone.sh,2,0,5
+Java,/tmp/clone_directory/customer/java/quarkus/src/test/java/com/redhat/developer/demos/customer/rest/NativeCustomerResourceIT.java,3,1,5
+Bourne Shell,/tmp/clone_directory/masterclassscripts/2_observability.sh,1,0,5
+Bourne Shell,/tmp/clone_directory/masterclassscripts/4_2_advanced_mirroring.sh,4,0,5
+Bourne Shell,/tmp/clone_directory/masterclassscripts/9_1_jwt_authentication.sh,6,0,5
+Bourne Shell,/tmp/clone_directory/masterclassscripts/9_2_jwt_rbac.sh,4,0,5
+Dockerfile,/tmp/clone_directory/preference/dotnet/Dockerfile,4,0,5
+Bourne Shell,/tmp/clone_directory/preference/dotnet/standalone.sh,2,0,5
+Java,/tmp/clone_directory/preference/java/quarkus/src/test/java/com/redhat/developer/demos/preference/rest/NativePreferenceResourceIT.java,3,1,5
+Java,/tmp/clone_directory/recommendation/java/quarkus/src/test/java/com/redhat/developer/demos/recommendation/rest/NativeRecommendationResourceIT.java,3,1,5
+Bourne Shell,/tmp/clone_directory/scripts/canary-user-agent.sh,0,0,5
+Bourne Shell,/tmp/clone_directory/masterclassscripts/3_1_traffic_v1.sh,2,0,4
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_1_resiliency_retries.sh,3,0,4
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_8_clean.sh,2,0,4
+Bourne Shell,/tmp/clone_directory/masterclassscripts/6_1_deploy_v3.sh,2,0,4
+Dockerfile,/tmp/clone_directory/recommendation/java/vertx/Dockerfile,0,0,4
+Bourne Shell,/tmp/clone_directory/scripts/darklaunch.sh,0,0,4
+Bourne Shell,/tmp/clone_directory/scripts/delay.sh,0,0,4
+Bourne Shell,/tmp/clone_directory/scripts/error-503-50.sh,0,0,4
+Bourne Shell,/tmp/clone_directory/generate_docs.sh,0,0,3
+Bourne Shell,/tmp/clone_directory/generate_workshop.sh,0,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/3_2_traffic_v2.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/3_3_traffic_canary_75.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/3_4_traffic_canary_50.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/4_1_advanced_safari.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_2_resiliency_fix.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_3_resiliency_slow.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_4_resiliency_timeout.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/5_5_clean.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/7_1_access_control_deny_all.sh,3,1,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/8_2_mtls_clean.sh,2,0,3
+Bourne Shell,/tmp/clone_directory/masterclassscripts/9_3_jwt_clean.sh,1,0,3
+Bourne Shell,/tmp/clone_directory/scripts/blue-green-recommendation-v2.sh,0,0,3
+Bourne Shell,/tmp/clone_directory/scripts/canary-90-10.sh,0,0,3
+Bourne Shell,/tmp/clone_directory/scripts/retry-fail.sh,0,0,3
+Bourne Shell,/tmp/clone_directory/bin/install-recommendations-v2.sh,1,0,2
+Properties,/tmp/clone_directory/customer/java/springboot/src/main/resources/application-local.properties,0,0,2
+AsciiDoc,/tmp/clone_directory/documentation/modules/ROOT/_attributes.adoc,0,0,2
+AsciiDoc,/tmp/clone_directory/documentation/modules/advanced/pages/index.adoc,1,0,2
+Bourne Shell,/tmp/clone_directory/generate_dev.sh,0,0,2
+Bourne Shell,/tmp/clone_directory/masterclassscripts/4_3_clean.sh,1,0,2
+Bourne Shell,/tmp/clone_directory/masterclassscripts/6_2_security_forbidden_external_traffic.sh,1,0,2
+Bourne Shell,/tmp/clone_directory/masterclassscripts/6_3_security_add_egress.sh,1,0,2
+Bourne Shell,/tmp/clone_directory/masterclassscripts/7_3_access_control_clean.sh,1,0,2
+Properties,/tmp/clone_directory/preference/java/quarkus/src/main/resources/application.properties,0,0,2
+Properties,/tmp/clone_directory/preference/java/springboot/src/main/resources/application-local.properties,0,0,2
+Properties,/tmp/clone_directory/preference/java/springboot/src/main/resources/application.properties,0,0,2
+Properties,/tmp/clone_directory/recommendation/java/camel-springboot/src/main/resources/application.properties,0,1,2
+Properties,/tmp/clone_directory/recommendation/java/springboot/src/main/resources/application.properties,0,0,2
+SQL,/tmp/clone_directory/recommendation/java/vertx/src/main/sql/V4__Update_movie_name_constraints.sql,0,0,2
+Bourne Shell,/tmp/clone_directory/scripts/blue-green-recommendation-v1.sh,0,0,2
+Bourne Shell,/tmp/clone_directory/scripts/canary-75-25.sh,0,0,2
+Bourne Shell,/tmp/clone_directory/scripts/egress-access.sh,0,0,2
+Bourne Shell,/tmp/clone_directory/scripts/egress-setup.sh,0,0,2
+Bourne Shell,/tmp/clone_directory/scripts/retry-fix.sh,0,0,2
+Properties,/tmp/clone_directory/customer/java/microprofile/src/main/resources/META-INF/microprofile-config.properties,0,0,1
+Properties,/tmp/clone_directory/customer/java/quarkus/src/main/resources/application.properties,0,0,1
+Properties,/tmp/clone_directory/customer/java/springboot/src/main/resources/application.properties,0,0,1
+Bourne Shell,/tmp/clone_directory/preference/dotnet/pub.sh,0,0,1
+Properties,/tmp/clone_directory/preference/java/microprofile/src/main/resources/META-INF/microprofile-config.properties,0,0,1
+Properties,/tmp/clone_directory/recommendation/java/camel-springboot/.mvn/wrapper/maven-wrapper.properties,0,0,1
+Properties,/tmp/clone_directory/recommendation/java/springboot/src/main/resources/application-local.properties,0,0,1
+Properties,/tmp/clone_directory/recommendation/java/vertx/.mvn/wrapper/maven-wrapper.properties,0,0,1
+Properties,/tmp/clone_directory/recommendation/java/vertx/maven/wrapper/maven-wrapper.properties,0,0,1
+SQL,/tmp/clone_directory/recommendation/java/vertx/src/main/sql/V2__Add_movie_column_in_recommendation_table.sql,0,0,1
+SQL,/tmp/clone_directory/recommendation/java/vertx/src/main/sql/V3__Update_recommendation_data.sql,0,0,1
+SUM,,2388,282,17991

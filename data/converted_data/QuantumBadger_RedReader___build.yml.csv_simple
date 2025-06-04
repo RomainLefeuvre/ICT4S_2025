@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assembleRelease,1034.9751940492995,85762462,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew checkstyle --stacktrace --info,817.8163441073452,25352380,True,"                            <xsl:number level=""any"" value=""count(descendant::file[error])""/>"
+> Task :Checkstyle,344.1292884919761,9201938,True,"                            <xsl:number level=""any"" value=""count(descendant::file[error])""/>"
+##[group]Run ./gradlew test,309.7132196723266,9938812,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew pmd,309.19587367257503,9553993,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew assembleDebug,282.2728829832859,10179775,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew lint,233.79064059732983,9353721,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,12.43310820297289,3991530,False,
+##[group]Run gradle/wrapper-validation-action@v1,10.679385572237766,1626317,False,
+##[group]Fetching the repository,6.085679278297257,1120545,False,
+##[group]Run actions/upload-artifact@v4,5.242260017281762,295065,False,
+##[group]Checking out the ref,0.549674257394591,81476,False,
+##[group]Setting up auth,0.4646056223216185,96184,False,
+##[group]Run actions/checkout@v4,0.4580618811621592,156745,False,
+Requested labels: self-hosted,0.0,5119237,False,

@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,84.5652949516743,4461059,False,
+##[group]GITHUB_TOKEN Permissions,50.968369514161424,4180794,False,
+##[group]Run ci/mac/publish_for_mac.sh ../build,48.352031204525936,16768993,False,
+##[group]Run python ci/generate-version.py,16.416778195572597,744573,False,
+##[group]Fetching the repository,10.499102334377822,421581,False,
+##[group]Run actions/upload-artifact@v1,9.909778672670567,777655,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts,3.954207372687751,239468,False,
+##[group]Run actions/checkout@v2,3.845125789992916,162073,True,##[error]The process 'sudo' failed with exit code 100
+##[group]Run jurplel/install-qt-action@v2.13.0,3.736044207298082,185463,False,
+##[group]Persisting credentials for submodules,2.2089020495703986,137466,False,
+##[group]Fetching submodules,2.18163165389669,116601,False,
+##[group]Run actions/cache@v1,1.827116510138478,97791,False,

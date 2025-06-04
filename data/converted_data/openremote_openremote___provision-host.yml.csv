@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.6716306566441868, , , , 4210474, False, 
+##[group]GITHUB_TOKEN Permissions, 79.68317357375541, , , , 1888904, False, 
+##[group]Run tspascoal/get-user-teams-membership@v2, 11.217068466783935, , , , 134620, True, ##[error]Input required and not supplied: GITHUB_TOKEN
+##[group]Run actions/checkout@v3, 11.709132116407588, , , , 140948, False, 
+##[group]Cleaning the repository, 6.0390899268126645, , , , 27497, False, 
+##[group]Fetching the repository, 32.040688320152015, , , , 440919, False, 
+##[group]Checking out the ref, 13.677386714902198, , , , 281949, False, 

@@ -1,0 +1,24 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2092.9 files/s 136987.9 lines/s)"
+Java,/tmp/clone_directory/library/src/main/java/org/lsposed/hiddenapibypass/HiddenApiBypass.java,20,94,301
+Java,/tmp/clone_directory/library/src/androidTest/java/org/lsposed/hiddenapibypass/HiddenApiBypassTest.java,23,0,118
+YAML,/tmp/clone_directory/.github/workflows/android.yml,4,0,107
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+Gradle,/tmp/clone_directory/library/build.gradle.kts,6,0,89
+Java,/tmp/clone_directory/library/src/main/java/org/lsposed/hiddenapibypass/Helper.java,14,16,78
+Markdown,/tmp/clone_directory/README.md,14,0,70
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+YAML,/tmp/clone_directory/.github/workflows/maven.yml,2,0,26
+Java,/tmp/clone_directory/stub/src/main/java/sun/misc/Unsafe.java,1,0,22
+Gradle,/tmp/clone_directory/settings.gradle.kts,2,0,17
+ProGuard,/tmp/clone_directory/library/proguard-rules.pro,0,0,14
+XML,/tmp/clone_directory/library/src/androidTest/AndroidManifest.xml,1,0,14
+TOML,/tmp/clone_directory/gradle/libs.versions.toml,2,0,8
+Java,/tmp/clone_directory/stub/src/main/java/dalvik/system/VMRuntime.java,1,0,8
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,7
+Gradle,/tmp/clone_directory/stub/build.gradle.kts,1,0,7
+Gradle,/tmp/clone_directory/build.gradle,0,0,3
+XML,/tmp/clone_directory/stub/src/main/AndroidManifest.xml,1,0,3
+ProGuard,/tmp/clone_directory/library/consumer-rules.pro,0,0,2
+XML,/tmp/clone_directory/library/src/main/AndroidManifest.xml,0,0,2
+Properties,/tmp/clone_directory/gradle.properties,0,0,1
+SUM,,141,228,1071

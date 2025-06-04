@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run wagoid/commitlint-github-action@v4,35.423193374683166,14495039,True,##[error]You have commit messages with errors
+##[group]Pull down action image 'wagoid/commitlint-github-action:4.1.12',29.442959924661373,15509011,False,
+##[group]Fetching the repository,11.593907028286647,1611225,False,
+##[group]Run actions/checkout@v2,1.248542898676052,191582,False,
+##[group]Setting up auth,0.6470777538675464,73416,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.6379552320557382,33093,False,
+##[group]==END_FILE==,0.0,4436758,False,
+##[group]GITHUB_TOKEN Permissions,0.0,1912069,False,

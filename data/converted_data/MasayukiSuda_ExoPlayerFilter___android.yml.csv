@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 38.13894993152429, , , , 5831181, False, 
+##[group]GITHUB_TOKEN Permissions, 19.63040613666516, , , , 1741052, False, 
+##[group]Run actions/checkout@v1, 63.96609786353893, , , , 5469557, False, 
+##[group]Run actions/setup-java@v1, 142.8288561074531, , , , 19429549, False, 
+##[group]Run ./gradlew build, 191.80720036708223, , , , 16404522, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew test, 38.070689833101696, , , , 1834005, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 18.580811418833058, , , , 6109538, False, 
+##[group]GITHUB_TOKEN Permissions, 45.62573732542525, , , , 2790915, False, 
+##[group]Run actions/checkout@v4, 1.7837449994748422, , , , 173658, False, 
+##[group]Getting Git version info, 1.793093749820882, , , , 4442, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.6142337506798814, , , , 266602, False, 
+##[group]Cleaning the repository, 14.905675019329438, , , , 793137, False, 
+##[group]Fetching the repository, 23.48036257051892, , , , 1132339, False, 
+##[group]Run sudo apt-get install xmlstarlet, 122.88039818171626, , , , 23942043, True, ##[error]Process completed with exit code 1.

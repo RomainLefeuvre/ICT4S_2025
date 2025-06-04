@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run python3 -m ""aws_doc_sdk_examples_tools.validate"" --root ""/home/power/actions-runner/_work/aws-doc-sdk-examples/aws-doc-sdk-examples"" --doc_gen_only ""False"" --strict_titles ""True""",357.34440594820154,19993131,False,
+##[group]Fetching the repository,200.14092620343905,27363758,False,
+"##[group]Run pip install -e ""/home/power/actions-runner/_work/_actions/awsdocs/aws-doc-sdk-examples-tools/2024-06-10-A""",48.55042326343092,14735091,False,
+##[group]Checking out the ref,16.37304055033487,1667730,False,
+##[group]GITHUB_TOKEN Permissions,11.27040539157608,3151671,False,
+##[group]Installed versions,3.8370274769286463,182504,False,
+##[group]Run actions/checkout@v4,3.120522767831944,188288,False,
+##[group]Setting up auth,1.5209885710254485,62177,False,
+##[group]Determining the checkout info,1.4980758590241812,19839,False,
+Requested labels: self-hosted,0.0808631524431807,4771406,False,

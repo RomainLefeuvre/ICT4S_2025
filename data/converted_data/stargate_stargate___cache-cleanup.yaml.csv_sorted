@@ -1,0 +1,7 @@
+##[group]Run gh extension install actions/gh-actions-cache, 73.68369703439858, , , , 5139508, False, 
+##[group]GITHUB_TOKEN Permissions, 7.235785359565321, , , , 1210028, False, 
+##[group]Fetching the repository, 3.4667093089998238, , , , 433116, False, 
+##[group]Run actions/checkout@v4, 1.5305121822284915, , , , 140255, False, 
+##[group]Setting up auth, 0.8159667091821008, , , , 76771, False, 
+##[group]Cleaning the repository, 0.7956824619549588, , , , 75865, False, 
+##[group]==END_FILE==, 0.3470551391051227, , , , 4450312, False, 

@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,111.71823092415228,18537933,False,
+##[group]Run ./Android_Code/gradlew build,76.28348367549957,11671939,False,
+##[group]Fetching the repository,12.30702848962854,3993348,False,
+##[group]Run actions/checkout@v2,8.080759584017324,1577231,False,
+##[group]GITHUB_TOKEN Permissions,6.642966775149377,2003619,False,
+##[group]Checking out the ref,3.778307101724365,382234,False,
+##[group]Setting up auth,0.5914970416228897,79071,False,
+##[group]Getting Git version info,0.5823970871363837,37481,False,
+Requested labels: self-hosted,0.0,6617410,False,

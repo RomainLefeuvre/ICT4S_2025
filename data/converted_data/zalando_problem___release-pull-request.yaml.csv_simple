@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/vsoch/pull-request-action/master/Dockerfile'.,82.6332635143299,41827747,False,
+##[group]GITHUB_TOKEN Permissions,15.324184682521093,1943292,False,
+##[group]Run vsoch/pull-request-action@master,10.967079690807854,6240596,False,
+##[group]==END_FILE==,0.0,4796385,False,

@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 103.44277785198992, , , , 4665605, False, 
+##[group]GITHUB_TOKEN Permissions, 4.372680071061287, , , , 1350326, False, 
+##[group]Run actions/checkout@v4, 0.8031453191745219, , , , 150981, False, 
+##[group]Disabling automatic garbage collection, 0.4263610953642524, , , , 3398, False, 
+##[group]Fetching the repository, 2.2805360914832105, , , , 466305, False, 
+##[group]Run echo "latestSmithyGradle=$( \\, 0.4858533412290318, , , , 5796, False, 
+##[group]Run echo update-required=$( \\, 1.6062906383490445, , , , 261110, False, 

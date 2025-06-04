@@ -1,0 +1,21 @@
+Requested labels: self-hosted__dup_3, 144.07734242737564, , , , 34983747, False, 
+Requested labels: self-hosted, 97.038127511134, , , , 20340094, False, 
+##[group]Run codecov/codecov-action@v3, 74.30858952714966, , , , 2539967, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 46.72846732805606, , , , 3482019, False, 
+Requested labels: self-hosted__dup_2, 40.72446121715803, , , , 4528841, False, 
+##[group]Run hankolsen/xvfb-action@master, 31.443550055412835, , , , 797021, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.2.1-bin/5hap6b9n41hkg4jeh2au2pllh/gradle-8.2.1-bin.zip.lck
+##[group]GITHUB_TOKEN Permissions, 27.3460535300198, , , , 3990053, False, 
+##[group]Run hankolsen/xvfb-action@master__dup_21, 25.24853539389481, , , , 1267171, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.2.1-bin/5hap6b9n41hkg4jeh2au2pllh/gradle-8.2.1-bin.zip.lck
+##[group]Fetching the repository, 22.700719344125897, , , , 464826, False, 
+##[group]Fetching the repository__dup_19, 9.8982563962066, , , , 456442, False, 
+##[group]Run actions/checkout@v3, 9.719021188210773, , , , 157773, False, 
+##[group]Run actions/checkout@v3__dup_11, 9.534580757518809, , , , 172286, False, 
+##[group]Run hankolsen/xvfb-action@master__dup_16, 8.05067058575304, , , , 1726801, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.2.1-bin/5hap6b9n41hkg4jeh2au2pllh/gradle-8.2.1-bin.zip.lck
+##[group]Fetching the repository__dup_13, 7.229577960881872, , , , 442557, False, 
+##[group]GITHUB_TOKEN Permissions__dup_17, 7.164582651931056, , , , 3365614, False, 
+##[group]Setting up auth, 4.714343900796201, , , , 123586, False, 
+##[group]Run actions/checkout@v3__dup_18, 3.7542770276619737, , , , 170550, False, 
+##[group]Installed distributions, 2.116334966455097, , , , 33065, False, 
+##[group]Setting up auth__dup_12, 1.8526316089856012, , , , 61647, False, 
+##[group]Checking out the ref, 1.7621573714553345, , , , 22226, False, 
+##[group]Run chmod +x gradlew, 1.7013569148180698, , , , 93472, False, 

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Docker info,89.81070519883298,3632688,False,
+##[group]Buildx version,89.2235760898839,55646007,False,
+##[group]Run docker/login-action@v3,32.322826492157695,1629469,False,
+##[group]GITHUB_TOKEN Permissions,32.28356736400482,2925147,False,
+##[group]Fetching the repository,6.506784617990845,445195,False,
+##[group]Removing temp folder /home/power/actions-runner/_work/_temp/docker-actions-toolkit-lLwlYi,2.7158013983100235,528900,False,
+##[group]Determining the checkout info,1.6864019328314273,11596,False,
+##[group]Setting up auth,1.566990376163995,65943,False,
+##[group]Getting Git version info,1.5431080648305084,4400,False,
+##[group]Run actions/checkout@v4,1.519225753497022,163305,False,
+Requested labels: self-hosted,1.3733605401782911,4048569,False,

@@ -1,0 +1,31 @@
+##[group]==END_FILE==, 3.977138267184813, , , , 5707306, False, 
+Requested labels: self-hosted, 1444.7410080921818, , , , 211544086, False, 
+##[group]GITHUB_TOKEN Permissions, 37.79373165381139, , , , 12736919, False, 
+##[group]Run actions/checkout@v2, 1.4463216511372978, , , , 176887, False, 
+##[group]Initializing the repository, 1.436371558408315, , , , 11410, False, 
+##[group]Fetching the repository, 15.143381022378602, , , , 1055768, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Checking out the ref, 1.3169704456605211, , , , 101308, False, 
+##[group]Run github/codeql-action/init@v1, 3.8613605024207183, , , , 394288, False, 
+##[group]Setup CodeQL tools, 30.22869245448488, , , , 3425152, False, 
+##[group]Load language configuration, 8.595892857088792, , , , 3462536, False, 
+##[group]Augmented user configuration file contents, 48.98338341507483, , , , 2515575, False, 
+##[group]Run github/codeql-action/autobuild@v1, 10.509642079658631, , , , 413553, False, 
+##[group]Attempting to automatically build java code, 1178.6687255644415, , , , 157525856, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Run github/codeql-action/analyze@v1, 21.212901641985024, , , , 1294924, False, 
+##[group]Finalizing java, 82.18716386389485, , , , 3977393, False, 
+##[group]Uploading results, 9.583315739355928, , , , 395905, False, 
+##[group]Waiting for processing to finish, 21.7093141016903, , , , 6543312, False, 
+##[group]GITHUB_TOKEN Permissions__dup_18, 119.48147031171194, , , , 12834252, False, 
+##[group]Run actions/checkout@v2__dup_19, 7.23724266390271, , , , 185046, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.9608617621198112, , , , 84054, False, 
+##[group]Fetching the repository__dup_21, 23.16247561764864, , , , 1472118, False, 
+##[group]Run github/codeql-action/init@v1__dup_22, 2.7233951704397628, , , , 362045, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Setup CodeQL tools__dup_23, 32.03300658326322, , , , 1211279, False, 
+##[group]Load language configuration__dup_24, 53.69651874141669, , , , 2122486, False, 
+##[group]Augmented user configuration file contents__dup_25, 47.35950086535384, , , , 1786489, False, 
+##[group]Run github/codeql-action/autobuild@v1__dup_26, 4.959845691979781, , , , 373825, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Attempting to automatically build cpp code, 8.707385561223504, , , , 655692, True, ##[error]We were unable to automatically build your code. Please replace the call to the autobuild action with your custom build steps.  Failure invoking /home/power/actions-runner/_work/_tool/CodeQL/0.0.0-20230105/x64/codeql/cpp/tools/autobuild.sh with arguments .
+##[group]Run github/codeql-action/analyze@v1__dup_28, 11.343269088326515, , , , 1213726, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Finalizing cpp, 76.82568948570909, , , , 3720962, True, ##[error]No code found during the build. Please see:
+##[group]Uploading results__dup_30, 11.52512178747208, , , , 431970, False, 
+##[group]Waiting for processing to finish__dup_31, 32.00585652535208, , , , 6334804, False, 

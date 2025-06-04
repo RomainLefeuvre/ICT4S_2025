@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 0.2768593453711773, , , , 5272529, False, 
+##[group]GITHUB_TOKEN Permissions, 1.3480032642430309, , , , 138930, False, 
+##[group]Run echo "LATEST_STABLE_TAG=$(gh release list -R diversepwmeasurement/maptool | grep -v nightly | awk '{ print $1}' | head -1)"  >> $GITHUB_ENV, 9.679191561401344, , , , 600265, False, 
+##[group]Run gh release create  nightly-${NIGHTLY_DATE} -R diversepwmeasurement/maptool --title "MapTool Nightly ${NIGHTLY_DATE}"  --notes "MapTool Nightly Build for ${NIGHTLY_DATE}" --generate-notes -p --target develop, 1.7819592576820735, , , , 62351, True, ##[error]Process completed with exit code 4.

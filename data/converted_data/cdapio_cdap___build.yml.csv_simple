@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean test -fae -T 2 -B -V -DcloudBuild -Dmaven.wagon.http.retryHandler.count=3 -Dmaven.wagon.httpconnectionManager.ttlSeconds=25,108.46073177773144,9605000,True,[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+##[group]Run cdapio/checkstyle-github-action@add_filter,50.757224987909154,5331763,False,
+##[group]Run actions/cache@v3,28.133636038014,571759,False,
+##[group]Run actions/upload-artifact@v2.2.2,28.1019480259197,1348243,False,
+##[group]Fetching the repository,18.97604075320977,672216,False,
+##[group]Fetching submodules,17.97004734329899,543572,True,##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions,9.79434072174465,6264735,False,
+##[group]Setting up auth,5.79447182876243,161798,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.396315512031812,143911,False,
+##[group]Run actions/checkout@v3,5.130877967544732,144889,False,
+##[group]Checking out the ref,3.3949313102944885,34274,False,
+##[group]Cleaning the repository,2.7976968351985607,107167,False,
+##[group]Run marocchino/action-workflow_run-status@54b6e87d6cb552fc5f36dbe9a722a6048725917a,2.3331811323461715,142989,True,##[error]This is not workflow_run event: eventName=repository_dispatch
+Requested labels: self-hosted,0.08570077334643,4165956,False,

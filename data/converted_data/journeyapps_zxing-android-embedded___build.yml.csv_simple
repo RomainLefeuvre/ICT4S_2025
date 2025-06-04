@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew build,264.8199914831886,32389105,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,28.2466680037913,2988920,False,
+##[group]Run actions/upload-artifact@v2,10.733469138715986,606510,False,
+##[group]Fetching the repository,7.373628193760782,1325002,False,
+##[group]Run actions/setup-java@v2,4.215343747508448,246520,False,
+##[group]Run actions/checkout@v2,2.6545061497538818,198547,False,
+##[group]Setting up auth,1.3612852050019906,68569,False,
+Requested labels: self-hosted,0.1166752906658182,6319925,False,

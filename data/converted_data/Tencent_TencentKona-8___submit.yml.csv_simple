@@ -1,0 +1,299 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_18,6936.086491495908,484184817,False,
+Requested labels: self-hosted__dup_17,6242.048931144635,437232278,False,
+Requested labels: self-hosted__dup_16,5403.811436052356,361652924,False,
+Requested labels: self-hosted__dup_15,5008.408380493263,334559344,False,
+Requested labels: self-hosted__dup_14,4481.864822149686,288936694,False,
+Requested labels: self-hosted__dup_13,3999.890913563529,259444623,False,
+Requested labels: self-hosted__dup_12,3705.845551736023,241083494,False,
+Requested labels: self-hosted__dup_11,3408.154383195353,222646547,False,
+Requested labels: self-hosted__dup_10,3116.8786049039254,205013189,False,
+Requested labels: self-hosted__dup_9,2841.668899967952,187501155,False,
+Requested labels: self-hosted__dup_8,2511.6025565549144,167900269,False,
+Requested labels: self-hosted__dup_7,2179.451390591421,147413891,False,
+Requested labels: self-hosted__dup_6,1938.7384617389928,130141203,False,
+Requested labels: self-hosted__dup_5,1711.9989076470176,113455938,False,
+Requested labels: self-hosted__dup_4,1366.6935265471864,93491211,False,
+Requested labels: self-hosted,1063.6370253562063,72052962,False,
+Requested labels: self-hosted__dup_3,715.5962976556874,49247380,False,
+##[group]Run sudo apt-get update,375.9654844554895,22840360,True,##[error]Process completed with exit code 100.
+##[group]Run actions/cache@v3__dup_193,251.26478167342432,22574720,False,
+##[group]Run actions/cache@v3__dup_240,246.50116961406167,25092742,False,
+##[group]Run actions/cache@v3__dup_290,219.66042610765325,21753642,False,
+##[group]Run actions/upload-artifact@v3__dup_185,143.11417718936974,7677900,False,
+##[group]Run actions/upload-artifact@v3__dup_221,131.35931907048163,6811493,False,
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9-aarch64-linux-gnu g++-9-aarch64-linux-gnu,129.64971842479247,791555,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_272,127.01051338316049,7998880,False,
+##[group]Cleaning the repository__dup_254,118.63041362338294,8243888,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_278,101.5568959555363,2873752,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_253,99.932223558785,2797337,False,
+##[group]Run sudo apt-get update__dup_70,98.84558359172652,3264988,True,##[error]Process completed with exit code 100.
+##[group]Cleaning the repository__dup_228,91.85294223783023,6989606,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_227,90.1413115560561,2816004,False,
+##[group]Cleaning the repository__dup_279,86.73506437689947,3999721,False,
+##[group]Run sudo apt-get update__dup_43,84.28464234442659,3086131,True,##[error]Process completed with exit code 100.
+##[group]Run sudo apt-get update__dup_131,80.64636885773234,2977697,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_273,77.95681436394807,5331215,False,
+##[group]Run sudo dpkg --add-architecture i386__dup_170,75.52497703963473,3200704,True,##[error]Process completed with exit code 100.
+##[group]Run sudo dpkg --add-architecture i386,74.93026936175693,4599897,True,##[error]Process completed with exit code 100.
+##[group]Run sudo apt-get update__dup_94,74.42919049130205,2851845,True,##[error]Process completed with exit code 100.
+##[group]Run sudo apt-get update__dup_143,72.22636742954859,2893324,True,##[error]Process completed with exit code 100.
+##[group]Run sudo dpkg --add-architecture i386__dup_157,71.34955054025215,3118374,True,##[error]Process completed with exit code 100.
+##[group]Run sudo dpkg --add-architecture i386__dup_119,69.63595025591808,3097140,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_249,66.36117984297212,3552918,False,
+##[group]Run sudo apt-get update__dup_105,64.15586932495198,2894988,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_186,61.10458724853701,3948290,False,
+##[group]Run sudo apt-get update__dup_117,60.82653841480414,2858107,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_201,59.292067473001445,3310511,False,
+##[group]GITHUB_TOKEN Permissions__dup_173,57.66636497602219,3308904,False,
+##[group]GITHUB_TOKEN Permissions__dup_76,54.78841645882602,2453232,False,
+##[group]Cleaning the repository__dup_236,54.30501853701698,8502023,False,
+##[group]Run bash configure --with-conf-name=macos-x64  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${HOME}/bootjdk/${BOOT_JDK_VERSION}/Contents/Home --with-jtreg=${HOME}/jtreg --with-zlib=system,50.70369413518269,4321633,False,
+##[group]Run mkdir -p ${HOME}/bootjdk/${BOOT_JDK_VERSION} || true,50.46290299406903,3363521,False,
+##[group]Run sudo apt-get update__dup_83,46.81887853827307,2915929,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_63,46.49520900028547,2294552,False,
+##[group]GITHUB_TOKEN Permissions__dup_222,45.93814343668835,3827134,False,
+##[group]GITHUB_TOKEN Permissions__dup_110,45.72704283465538,2590985,False,
+##[group]GITHUB_TOKEN Permissions__dup_134,44.24742410451245,2307237,False,
+##[group]GITHUB_TOKEN Permissions__dup_87,43.45073711832838,2579611,False,
+##[group]GITHUB_TOKEN Permissions__dup_49,39.60009025120323,2108829,False,
+##[group]GITHUB_TOKEN Permissions__dup_147,39.5469593367331,2345390,False,
+##[group]GITHUB_TOKEN Permissions__dup_122,38.43169732010954,2338583,False,
+##[group]Run actions/upload-artifact@v3__dup_298,37.91408308266885,1802123,False,
+##[group]Run sudo apt-get update__dup_56,37.51860437666507,2914380,True,##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_98,36.990655938662734,2229277,False,
+##[group]GITHUB_TOKEN Permissions__dup_35,36.95510937561417,2176543,False,
+##[group]Run CFLAGS=--sysroot=/root/sysroot-arm64 CXXFLAGS=--sysroot=/root/sysroot-arm64 LDFLAGS=--sysroot=/root/sysroot-arm64  bash configure --with-conf-name=linux-aarch64-hotspot --enable-debug --disable-precompiled-headers  --openjdk-target=aarch64-linux-gnu --with-sysroot=/root/sysroot-arm64/ --with-cups=/root/sysroot-arm64/usr --with-freetype-lib=/root/sysroot-arm64/usr/lib/aarch64-linux-gnu --with-freetype-include=/root/sysroot-arm64/usr/include/freetype2 --with-alsa=/root/sysroot-arm64/usr --with-fontconfig=/root/sysroot-arm64/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,36.78812880578971,2974515,False,
+##[group]Run actions/cache@v3,36.6048572724754,585241,False,
+##[group]Run actions/upload-artifact@v3__dup_200,32.717528001967366,2138665,False,
+##[group]GITHUB_TOKEN Permissions,32.46987795297752,2275263,False,
+##[group]Run actions/upload-artifact@v3__dup_248,31.299878670067603,1665081,False,
+##[group]GITHUB_TOKEN Permissions__dup_161,30.86473533257759,2329459,False,
+Requested labels: self-hosted__dup_2,26.372631602649584,6354310,False,
+##[group]Fetching the repository__dup_257,25.717757968204864,2003441,False,
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9-arm-linux-gnueabihf g++-9-arm-linux-gnueabihf,25.33792454883544,651747,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_103,24.121776913116086,555948,False,
+##[group]Run actions/upload-artifact@v3__dup_160,23.937558073192164,1466834,False,
+##[group]Run actions/upload-artifact@v3__dup_146,21.91730394090121,1579794,False,
+##[group]Run actions/upload-artifact@v3__dup_172,21.65903399888711,1572004,False,
+##[group]Cleaning the repository__dup_189,21.417803186410957,1018641,False,
+##[group]Fetching the repository__dup_231,20.750113953921915,1208235,False,
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_73,20.69730755527901,601578,True,##[error]Process completed with exit code 1.
+##[group]Cleaning the repository__dup_39,19.07345277630838,1041719,False,
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9-powerpc64le-linux-gnu g++-9-powerpc64le-linux-gnu,18.38368043754612,663901,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository__dup_212,18.3358963611119,1486486,False,
+##[group]Run bash configure --with-conf-name=macos-x64 --enable-debug --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${HOME}/bootjdk/${BOOT_JDK_VERSION}/Contents/Home --with-jtreg=${HOME}/jtreg --with-zlib=system,18.22067707603181,856990,False,
+##[group]Run actions/upload-artifact@v3,18.17357737976576,1544603,False,
+##[group]Run actions/cache@v3__dup_276,17.938410350875472,578836,False,
+##[group]Checking out the ref__dup_258,16.572075655952858,756168,False,
+##[group]Fetching the repository,16.52895494658185,511098,False,
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9 g++-9 libxrandr-dev libxtst-dev libcups2-dev libasound2-dev,16.458240400180248,674613,True,##[error]Process completed with exit code 1.
+##[group]Cleaning the repository__dup_90,16.258263434613905,346001,False,
+##[group]Setting up auth__dup_114,16.18426847330721,152336,False,
+##[group]Setting up auth__dup_207,16.1318262168303,93359,False,
+##[group]Setting up auth__dup_151,15.934049128747722,89685,False,
+##[group]Setting up auth__dup_80,15.912321607954622,98000,False,
+##[group]Setting up auth__dup_138,15.575435967364571,182296,False,
+##[group]Checking out the ref__dup_232,15.381691612935011,1109153,False,
+##[group]Cleaning the repository__dup_125,15.151603742026651,351813,False,
+##[group]Fetching the repository__dup_282,15.020968382482415,824937,False,
+##[group]Run actions/checkout@v3__dup_259,14.998034669974253,523063,False,
+##[group]Cleaning the repository__dup_66,14.925278043745232,341973,False,
+##[group]Fetching the repository__dup_177,14.750579160276132,511099,False,
+##[group]Cleaning the repository__dup_164,14.733273780051707,343478,False,
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=zero  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,14.473731697264425,467491,False,
+##[group]Run make CONF_NAME=linux--hotspot hotspot__dup_121,14.37160282868112,251460,True,##[error]Process completed with exit code 2.
+##[group]Run CFLAGS=--sysroot=/root/sysroot-armhf CXXFLAGS=--sysroot=/root/sysroot-armhf LDFLAGS=--sysroot=/root/sysroot-armhf  bash configure --with-conf-name=linux-arm-hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=zero  --openjdk-target=arm-linux-gnueabihf --with-sysroot=/root/sysroot-armhf/ --with-cups=/root/sysroot-armhf/usr --with-freetype-lib=/root/sysroot-armhf/usr/lib/arm-linux-gnueabihf --with-freetype-include=/root/sysroot-armhf/usr/include/freetype2 --with-alsa=/root/sysroot-armhf/usr --with-fontconfig=/root/sysroot-armhf/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,14.361039745928956,558147,False,
+##[group]Run actions/cache@v3__dup_203,14.33826531225938,575771,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_136,14.18598597000589,117201,False,
+##[group]Run actions/checkout@v3__dup_233,14.161581611816551,1013901,False,
+##[group]Cleaning the repository__dup_176,13.906333056746636,341863,False,
+##[group]Run CFLAGS=--sysroot=/root/sysroot-ppc64el CXXFLAGS=--sysroot=/root/sysroot-ppc64el LDFLAGS=--sysroot=/root/sysroot-ppc64el  bash configure --with-conf-name=linux-powerpc64le-hotspot --enable-debug --disable-precompiled-headers  --openjdk-target=powerpc64le-linux-gnu --with-sysroot=/root/sysroot-ppc64el/ --with-cups=/root/sysroot-ppc64el/usr --with-freetype-lib=/root/sysroot-ppc64el/usr/lib/powerpc64le-linux-gnu --with-freetype-include=/root/sysroot-ppc64el/usr/include/freetype2 --with-alsa=/root/sysroot-ppc64el/usr --with-fontconfig=/root/sysroot-ppc64el/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,13.871685182965852,562934,False,
+##[group]Cleaning the repository__dup_52,13.681732714986456,380060,False,
+##[group]Fetching the repository__dup_238,13.401726987920458,708089,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_149,13.378399200801589,114313,False,
+##[group]Fetching the repository__dup_166,13.196776902680364,551514,False,
+##[group]Run make CONF_NAME=linux--hotspot hotspot__dup_97,13.16451646273456,283699,True,##[error]Process completed with exit code 2.
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9 g++-9 libxrandr-dev libxtst-dev libcups2-dev libasound2-dev__dup_106,13.027860944002809,608472,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v3,12.84354126888286,485708,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9 g++-9 libxrandr-dev libxtst-dev libcups2-dev libasound2-dev__dup_118,12.754558318527591,634314,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts__dup_78,12.728099904575306,131634,False,
+##[group]Run make CONF_NAME=linux--hotspot hotspot,12.691694534268368,250584,True,##[error]Process completed with exit code 2.
+##[group]Run actions/cache@v3__dup_223,12.51892132791605,588065,False,
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9-s390x-linux-gnu g++-9-s390x-linux-gnu,12.513549336014664,625710,True,##[error]Process completed with exit code 1.
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,12.379758356221828,469623,False,
+##[group]Run actions/download-artifact@v3__dup_168,12.361338263057904,487088,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Checking out the ref__dup_153,12.2993524978999,515118,False,
+##[group]Checking out the ref__dup_42,12.297601185475656,150585,False,
+##[group]Fetching the repository__dup_81,12.184598717907582,532975,False,
+##[group]Run make CONF_NAME=linux--hotspot hotspot__dup_109,12.1326468857308,343953,True,##[error]Process completed with exit code 2.
+##[group]Cleaning the repository__dup_137,12.126880774525572,341950,False,
+##[group]Cleaning the repository__dup_113,12.11829515795688,336232,False,
+##[group]Run actions/cache@v3__dup_72,12.04980540864322,561262,False,
+##[group]Run actions/download-artifact@v3__dup_141,12.009320958339622,481333,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run make CONF_NAME=linux-arm-hotspot hotspot,11.993407858990544,528259,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref__dup_213,11.893702734794717,105167,False,
+##[group]Cleaning the repository__dup_206,11.765456495144807,338171,False,
+##[group]Run actions/checkout@v3__dup_88,11.753269629428004,155063,False,
+##[group]Run CFLAGS=--sysroot=/root/sysroot-s390x CXXFLAGS=--sysroot=/root/sysroot-s390x LDFLAGS=--sysroot=/root/sysroot-s390x  bash configure --with-conf-name=linux-s390x-hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=zero  --openjdk-target=s390x-linux-gnu --with-sysroot=/root/sysroot-s390x/ --with-cups=/root/sysroot-s390x/usr --with-freetype-lib=/root/sysroot-s390x/usr/lib/s390x-linux-gnu --with-freetype-include=/root/sysroot-s390x/usr/include/freetype2 --with-alsa=/root/sysroot-s390x/usr --with-fontconfig=/root/sysroot-s390x/usr  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,11.70210455052392,620086,False,
+##[group]Run actions/cache@v3__dup_224,11.675837363002993,591673,False,
+##[group]Run bash configure --with-conf-name=linux-x64  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-jtreg=${HOME}/jtreg --with-zlib=bundled,11.592450333816466,471156,False,
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=minimal1 --with-target-bits=32  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,11.488593693266314,490739,False,
+##[group]Run actions/cache@v3__dup_251,11.486248499509806,585043,False,
+##[group]Fetching the repository__dup_54,11.44595700411908,551930,False,
+##[group]Cleaning the repository__dup_286,11.426862933632965,365073,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_205,11.381807557166,132942,False,
+##[group]Run bash configure --with-conf-name=linux--hotspot --enable-debug --disable-precompiled-headers --with-jvm-variants=client --with-target-bits=32  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --disable-headful --with-zlib=bundled,11.366700211155909,484669,False,
+##[group]Run actions/cache@v3__dup_58,11.357390178220204,580857,False,
+##[group]Run actions/checkout@v3__dup_64,11.323433637882346,156603,False,
+##[group]Run bash configure --with-conf-name=linux-x86 --with-target-bits=32 --enable-debug --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --with-jtreg=${HOME}/jtreg --with-zlib=bundled,11.260539620532503,495263,False,
+##[group]Run sudo apt-get install openjdk-8-jdk gcc-9 g++-9 libxrandr-dev libxtst-dev libcups2-dev libasound2-dev__dup_95,11.21305054964188,614092,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v3__dup_142,11.12521153036408,480487,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run actions/cache@v3__dup_274,11.027148615153113,582047,False,
+##[group]Checking out the ref__dup_178,11.023233086867345,125471,False,
+##[group]Run actions/cache@v3__dup_179,10.917259910302263,577490,False,
+"##[group]Run Start-Process -FilePath ""$HOME\\cygwin\\setup-x86_64.exe"" -ArgumentList ""--quiet-mode --packages autoconf_make_zip_unzip --root $HOME\\cygwin\\cygwin64 --local-package-dir $HOME\\cygwin\\packages --site http://mirrors.kernel.org/sourceware/cygwin --no-desktop --no-shortcuts --no-startmenu --no-admin"" -Wait -NoNewWindow",10.906131096753905,21724,True,##[error]Process completed with exit code 127.
+##[group]Run actions/cache@v3__dup_250,10.88956052634703,594648,False,
+##[group]Run bash configure --with-conf-name=linux-x86 --with-target-bits=32  --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-boot-jdk=${BOOT_JDK} --with-jtreg=${HOME}/jtreg --with-zlib=bundled,10.88218128982798,475914,False,
+##[group]Run actions/checkout@v3__dup_50,10.785439865107303,166087,False,
+##[group]Fetching the repository__dup_41,10.778332862122308,518098,False,
+##[group]Checking out the ref__dup_283,10.65734090398842,669220,False,
+##[group]Run actions/download-artifact@v3__dup_181,10.657307223445471,511936,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Fetching the repository__dup_68,10.4915824415765,537471,False,
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_46,10.402741018539636,609582,True,##[error]Process completed with exit code 1.
+##[group]Run make CONF_NAME=linux-powerpc64le-hotspot hotspot,10.38464950524166,551966,True,##[error]Process completed with exit code 2.
+##[group]Run make CONF_NAME=linux-aarch64-hotspot hotspot,10.224265570026851,643364,True,##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v3__dup_36,9.980678614302136,149397,False,
+##[group]Setting up auth__dup_190,9.95814209105615,150106,False,
+##[group]Cleaning the repository__dup_101,9.856056871863707,344032,False,
+##[group]Run actions/checkout@v3__dup_123,9.83490587117196,145174,False,
+##[group]Fetching the repository__dup_127,9.75738541166977,518586,False,
+##[group]Cleaning the repository__dup_262,9.747078076237903,1397150,False,
+##[group]Run actions/cache@v3__dup_214,9.742656649334648,586492,False,
+##[group]Run actions/cache@v3__dup_268,9.734997669012992,566974,False,
+##[group]Fetching the repository__dup_265,9.723579277065362,907110,False,
+##[group]Run actions/cache@v3__dup_202,9.63232901951929,588715,False,
+##[group]Run bash configure --with-conf-name=linux-x64 --enable-debug --with-user-release-suffix=${GITHUB_ACTOR}-${GITHUB_SHA} --with-build-number=b00 --with-jtreg=${HOME}/jtreg --with-zlib=bundled,9.495889157394974,513540,False,
+##[group]Run make CONF_NAME=linux-s390x-hotspot hotspot,9.151406398192956,504315,True,##[error]Process completed with exit code 2.
+##[group]Run actions/cache@v3__dup_45,9.0800638292314,584048,False,
+##[group]Fetching the repository__dup_191,9.031956083001424,645939,False,
+##[group]Cleaning the repository__dup_150,8.947073494541561,345200,False,
+##[group]Run actions/cache@v3__dup_266,8.896117710980375,607239,False,
+##[group]Run actions/cache@v3__dup_216,8.860314219821067,560490,False,
+##[group]Run actions/checkout@v3__dup_187,8.832350576220298,178379,False,
+##[group]Run actions/download-artifact@v3__dup_155,8.809392406825497,477119,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Cleaning the repository__dup_79,8.783179755961736,342412,False,
+##[group]Fetching the repository__dup_92,8.777011009004998,536444,False,
+##[group]Run actions/download-artifact@v3__dup_295,8.756516142863953,484497,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Cleaning the repository,8.668730612322118,373022,False,
+##[group]Run actions/checkout@v3__dup_162,8.515089387043778,177766,False,
+##[group]Run actions/cache@v3__dup_241,8.255380377762906,584102,False,
+##[group]Disabling automatic garbage collection__dup_229,8.137486817887254,647864,False,
+##[group]Fetching the repository__dup_288,7.984612829787795,674919,False,
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_59,7.965950215728748,591363,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v3__dup_154,7.955453601407273,484157,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Fetching the repository__dup_208,7.794813664596972,527125,False,
+##[group]Run actions/cache@v3__dup_291,7.681613261879468,681835,False,
+##[group]Run actions/download-artifact@v3__dup_270,7.543164210724935,485345,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Removing previously created refs_ to avoid conflicts__dup_235,7.495296373533575,204500,False,
+##[group]Run actions/download-artifact@v3__dup_130,7.347035710019031,484905,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/download-artifact@v3__dup_195,7.314386492838526,482701,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+"##[group]Run Start-Process -FilePath ""$HOME\\$env:VS2017_FILENAME"" -Wait -NoNewWindow -ArgumentList 'install --productId Microsoft.VisualStudio.Product.Community --channelId VisualStudio.15.Release --add Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows10SDK.17763 --quiet --wait'",7.248230339529004,23209,True,##[error]Process completed with exit code 127.
+##[group]Fetching the repository__dup_115,7.239900963242212,514610,False,
+##[group]Run actions/download-artifact@v3__dup_217,7.185306415578423,477400,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run sudo apt-get install debootstrap qemu-user-static,7.153760818020359,594142,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v3__dup_242,7.1509116061050735,507437,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run actions/download-artifact@v3__dup_169,7.013944045869775,476391,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run actions/download-artifact@v3__dup_294,6.938700995173526,519653,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run actions/download-artifact@v3__dup_194,6.930295151484061,654425,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run actions/download-artifact@v3__dup_182,6.908613216709748,478606,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Removing previously created refs_ to avoid conflicts__dup_188,6.788945263991416,249803,False,
+##[group]Setting up auth__dup_281,6.705652398036468,312168,False,
+##[group]Fetching the repository__dup_152,6.658058893968895,584777,False,
+##[group]Run sudo chroot ~/sysroot-arm64 symlinks -cr .,6.621707786823826,352552,True,##[error]Process completed with exit code 125.
+"##[group]Run dir ; $env:Path = ""$HOME\\cygwin\\cygwin64\\bin;$env:Path"" ; zip -r9 ""/home/power/actions-runner/_work/TencentKona-8/TencentKona-8/jdk-1.8.0-internal+0_windows-x64_bin.zip"" j2sdk-image",6.464140175052854,46561,True,##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/TencentKona-8/TencentKona-8/jdk/build/windows-x64/images'. No such file or directory
+##[group]Fetching the repository__dup_139,6.445862415738784,519899,False,
+##[group]Getting Git version info__dup_260,6.443546002249684,726328,False,
+##[group]Run actions/download-artifact@v3__dup_243,6.330643849927643,484445,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Getting Git version info__dup_285,6.119434499852585,420250,False,
+##[group]Run actions/download-artifact@v3__dup_218,6.065221063876617,482062,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Run actions/checkout@v3__dup_99,5.710419284717861,155923,False,
+##[group]Run actions/download-artifact@v3__dup_269,5.590034191873368,507917,True,##[error]Unable to find an artifact with the name: transient_jtreg_diversepwmeasurement_ad6c9a7e
+##[group]Setting up auth__dup_230,5.544960610497015,916480,False,
+##[group]Run actions/checkout@v3__dup_135,5.416715837252979,179326,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_175,5.301774058974757,130406,False,
+##[group]Run actions/checkout@v3,5.154832563734584,157950,False,
+##[group]Setting up auth__dup_287,5.002859873901474,302063,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_124,4.997301922639723,124512,False,
+##[group]Checking out the ref__dup_167,4.97795285080806,133595,False,
+##[group]Checking out the ref__dup_192,4.963272530617566,136051,False,
+##[group]Run actions/checkout@v3__dup_111,4.94221947857141,178460,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_51,4.893434516018752,140785,False,
+##[group]Run actions/checkout@v3__dup_77,4.853666695596912,152952,False,
+"##[group]Run Start-Process -FilePath 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vs_installer.exe' -Wait -NoNewWindow -ArgumentList 'modify --installPath ""C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise"" --remove Microsoft.VisualStudio.Component.Windows10SDK.18362 --remove Microsoft.VisualStudio.Component.Windows10SDK.19041 --remove Microsoft.VisualStudio.Component.Windows10SDK.20348 --remove Microsoft.VisualStudio.Component.Windows10SDK.22000 --quiet'",4.710840452099866,156093,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v3__dup_204,4.573331999947012,147382,False,
+##[group]Checking out the ref__dup_93,4.527442187907768,122702,False,
+##[group]Getting Git version info__dup_234,4.406268671727254,320298,False,
+##[group]Run chmod -R a+rx ${HOME}/jtreg/__dup_196,4.227195074010688,305512,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref__dup_55,4.219383640080136,141601,False,
+##[group]Disabling automatic garbage collection__dup_255,4.080969491293629,481094,False,
+##[group]Setting up auth__dup_237,3.9593473422085865,246487,False,
+##[group]Setting up auth__dup_256,3.9518738093124623,599417,False,
+##[group]Checking out the ref,3.5138980485875355,172529,False,
+##[group]Setting up auth__dup_102,3.38102382506547,84723,False,
+##[group]Disabling automatic garbage collection__dup_263,3.193637576033144,88507,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_100,3.141844988954885,126350,False,
+##[group]Setting up auth,3.097683930045205,95483,False,
+##[group]Disabling automatic garbage collection,3.02831491028815,7269,False,
+"##[group]Run curl -L ""$env:VS2017_URL"" -o ""$HOME/$env:VS2017_FILENAME""",2.851971764785506,134751,True,##[error]Process completed with exit code 3.
+##[group]Setting up auth__dup_165,2.76227513072578,101015,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_89,2.7110534303004727,137276,False,
+"##[group]Run dir ; $env:Path = ""$HOME\\cygwin\\cygwin64\\bin;$env:Path"" ; zip -r9 ""/home/power/actions-runner/_work/TencentKona-8/TencentKona-8/jdk-1.8.0-internal+0_windows-x86_bin.zip"" j2sdk-image",2.6920860480681257,193026,True,##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/TencentKona-8/TencentKona-8/jdk/build/windows-x86/images'. No such file or directory
+##[group]Removing previously created refs_ to avoid conflicts__dup_112,2.684107280868849,117058,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.6814698115028746,165023,False,
+##[group]Run sudo chroot ~/sysroot-armhf symlinks -cr .,2.659038298179117,17762,True,##[error]Process completed with exit code 125.
+##[group]Setting up auth__dup_91,2.6531524928740686,91182,False,
+##[group]Setting up auth__dup_67,2.630359960575548,130434,False,
+##[group]Run sudo xcode-select --switch /Applications/Xcode_11.7.app/Contents/Developer,2.612979391209414,177118,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts__dup_65,2.5528342800455004,157358,False,
+##[group]Run actions/checkout@v3__dup_226,2.525102767400485,151370,False,
+##[group]Setting up auth__dup_211,2.50179758588487,62112,False,
+##[group]Run make CONF_NAME=linux-x86 images,2.471224533923074,10492,True,##[error]Process completed with exit code 2.
+##[group]Setting up auth__dup_53,2.4680534576932063,81416,False,
+##[group]Run actions/checkout@v3__dup_148,2.458597379952564,168500,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_163,2.4492000045697067,109985,False,
+##[group]Checking out the ref__dup_128,2.445262019488048,131149,False,
+##[group]Run chmod -R a+rx ${HOME}/jtreg/,2.3908087452503524,48363,True,##[error]Process completed with exit code 1.
+##[group]Setting up auth__dup_126,2.3830145487625045,90098,False,
+##[group]Run actions/checkout@v3__dup_284,2.3559727975487337,132108,False,
+##[group]Checking out the ref__dup_82,2.327650217573673,144478,False,
+##[group]Run sudo qemu-debootstrap --arch=arm64 --verbose --include=fakeroot_symlinks_build-essential_libx11-dev_libxext-dev_libxrender-dev_libxrandr-dev_libxtst-dev_libxt-dev_libcups2-dev_libfontconfig1-dev_libasound2-dev_libfreetype6-dev_libpng-dev_libffi-dev --resolve-deps buster ~/sysroot-arm64 http://httpredir.debian.org/debian/,2.318505023183665,94877,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3__dup_210,2.3132306152917748,126343,False,
+##[group]Run actions/checkout@v3__dup_174,2.259748283901532,155183,False,
+##[group]Checking out the ref__dup_69,2.24678134151294,130892,False,
+##[group]Disabling automatic garbage collection__dup_280,2.182254027614375,102316,False,
+##[group]Setting up auth__dup_40,2.1556665724244617,102576,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_38,2.1365635919049035,129997,False,
+##[group]Getting Git version info,2.089754302223412,9323,False,
+##[group]Run actions/checkout@v3__dup_277,2.060645622369278,143710,False,
+##[group]Checking out the ref__dup_116,1.967787141586424,121154,False,
+##[group]Checking out the ref__dup_140,1.9567875082598567,137648,False,
+##[group]Checking out the ref__dup_209,1.9360966741055847,136655,False,
+##[group]Run actions/checkout@v3__dup_252,1.9004174090215715,130328,False,
+"##[group]Run New-Item -Force -ItemType directory -Path ""$HOME\\cygwin""",1.8800768971176511,29536,True,##[error]Process completed with exit code 127.
+"##[group]Run mkdir -p ""$HOME\\bootjdk\\$env:BOOT_JDK_VERSION""",1.8779439355058427,56323,True,##[error]Process completed with exit code 2.
+##[group]Run tar -czf jdk-1.8.0-internal+0_linux-x64_bin.tar.gz -C jdk/build/linux-x64/images j2sdk-image,1.8540965067900887,11327,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref__dup_104,1.8480513501235247,184425,False,
+"##[group]Run $env:Path = ""$HOME\\cygwin\\cygwin64\\bin;$HOME\\cygwin\\cygwin64\\bin;$env:Path"" ; $env:Path = $env:Path -split "";"" -match ""C:\\\\Windows|PowerShell|cygwin"" -join "";"" ; $env:BOOT_JDK = cygpath ""$HOME/bootjdk/$env:BOOT_JDK_VERSION"" ; $env:FREETYPE_HOME = ""$env:GITHUB_WORKSPACE\\freetype"" ; $env:JT_HOME = cygpath ""$HOME/jtreg"" ; & bash configure --with-conf-name=windows-x86 --with-toolchain-version=2010 --with-msvcr-dll='C:\\Windows\\SysWOW64\\msvcr100.dll' --with-target-bits=32 --enable-debug --with-user-release-suffix=""$env:GITHUB_ACTOR-$env:GITHUB_SHA"" --with-build-number=b00 --with-boot-jdk=""$env:BOOT_JDK"" --with-freetype-src=""$env:FREETYPE_HOME"" --with-jtreg=""$env:JT_HOME"" ; bash -c ""cat $(find -name config.log)""",1.824729401802396,24643,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref__dup_239,1.7323951603808467,65032,False,
+##[group]Run tar -czf jdk-1.8.0-internal+0_osx-x64_bin.tar.gz -C jdk/build/macos-x64/images j2sdk-image,1.5938053973548083,26271,True,##[error]Process completed with exit code 2.
+##[group]Setting up auth__dup_264,1.5389102840490425,148189,False,
+##[group]Run sudo xcode-select --switch /Applications/Xcode_11.7.app/Contents/Developer__dup_197,1.473338781978349,22540,True,##[error]Process completed with exit code 1.
+"##[group]Run bash -c ""chmod -R 0777 jdk""",1.4622392675784477,9465,False,
+"##[group]Run Remove-Item ""$env:GITHUB_WORKSPACE\\freetype\\builds\\windows\\vc2010\\freetype.vcxproj"" ; Copy-Item -Path ""$env:GITHUB_WORKSPACE\\jdk\\.github\\workflows\\freetype.vcxproj"" -Destination ""$env:GITHUB_WORKSPACE\\freetype\\builds\\windows\\vc2010\\freetype.vcxproj"" ;",1.4450377503592668,12601,True,##[error]Process completed with exit code 127.
+"##[group]Run mkdir ""$HOME\\$env:VS2010_DIR""",1.4070518391668558,109719,True,##[error]Process completed with exit code 1.
+"##[group]Run Start-Process -FilePath ""$HOME\\$env:VS2010_DIR\\VCExpress\\setup.exe"" -ArgumentList ""/q /norestart"" -Wait -NoNewWindow",1.37993656113264,93765,True,##[error]Process completed with exit code 127.
+##[group]Removing previously created refs_ to avoid conflicts__dup_261,1.332412287128176,85229,False,
+"##[group]Run curl -L ""$env:VS2017_URL"" -o ""$HOME/$env:VS2017_FILENAME""__dup_245",1.0761367705182503,143119,True,##[error]Process completed with exit code 3.
+"##[group]Run mkdir -p ""$HOME\\bootjdk\\$env:BOOT_JDK_VERSION""__dup_267",0.8403371348325829,45862,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref__dup_289,0.7737365591775744,88867,False,

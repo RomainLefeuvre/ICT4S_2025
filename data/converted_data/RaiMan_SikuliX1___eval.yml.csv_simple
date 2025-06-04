@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,63.64018650279059,1249093,False,
+##[group]==END_FILE==,32.93872568180234,4571961,False,
+##[group]Fetching the repository,18.684507845380903,445077,False,
+"##[group]Run git config user.name ""GitHub Actions Bot""",13.21094537794792,323946,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v2,9.731313562005727,185824,False,
+##[group]Setting up auth,4.792708098631248,67384,False,
+##[group]Checking out the ref,4.5495458240592015,21712,False,
+"##[group]Run echo ""Some test test"" >/home/power/actions-runner/_work/SikuliX1/SikuliX1/Support/test.txt",4.500913369144792,70827,False,

@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,66.31006471623813,1408312,False,
+"##[group]Run echo ""Downloading BOM artifacts""",34.06908086924515,553822,True,##[error]Process completed with exit code 6.
+##[group]Run jvalkeal/nexus-sync@v0,15.123348093177114,231176,True,##[error]Input required and not supplied: username
+Requested labels: self-hosted,0.2236377221596756,4097268,False,

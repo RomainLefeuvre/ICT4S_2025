@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,91.95453624699996,6116680,False,
+##[group]Installed distributions,21.98839216988717,1283246,False,
+##[group]Removing previously created refs_ to avoid conflicts,19.324227430557997,842631,False,
+##[group]Run actions/cache@v4.0.2,18.22599540670066,1603077,False,
+##[group]Run sudo apt install -y ccache,10.12166770468796,757945,False,
+##[group]Fetching the repository,8.77844960427064,475567,False,
+##[group]Run echo 'org.gradle.parallel=true' >> gradle.properties,8.731155740961514,1334471,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.7-bin/bhs2wmbdwecv87pi65oeuq5iu/gradle-8.7-bin.zip.lck"
+##[group]Persisting credentials for submodules,7.992970394485434,411365,False,
+##[group]Fetching submodules,6.252463161574847,342011,False,
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11,5.076519110697375,143200,False,
+##[group]Setting up auth,4.536502153970046,194621,False,
+##[group]Run gradle/actions/setup-gradle@v3.2.1,3.37828003699736,420818,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.setup-gradle'"
+##[group]Cleaning the repository,2.3050704149437045,31138,False,
+##[group]Checking out the ref,2.1332468378031906,26012,False,
+"##[group]Run echo ""ANDROID_HOME=${ANDROID_HOME}""",0.9304817978195966,70373,False,
+##[group]==END_FILE==,0.0129123947350873,4101980,False,

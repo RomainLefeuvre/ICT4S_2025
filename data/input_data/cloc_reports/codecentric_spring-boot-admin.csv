@@ -1,0 +1,1084 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.65 s (654.5 files/s 80570.5 lines/s)"
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/startup-actuator.fixture.spec.json,0,0,23600
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/package-lock.json,0,0,18831
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/dependencies/data.ts,2,0,5055
+JSON,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/package-lock.json,0,0,2485
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/jolokia/data.ts,0,0,2481
+Maven,/tmp/clone_directory/pom.xml,5,24,537
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/InstanceExchangeFilterFunctionsTest.java,129,15,458
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/server-notifications.adoc,143,0,424
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/index.vue,47,15,405
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/instance.ts,67,19,380
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/fixtures/eventStream/removeInstance.ts,0,0,373
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/LegacyEndpointConverters.java,81,70,368
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/exchanges-chart.vue,28,19,366
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/traces-chart.vue,28,20,357
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/index.vue,24,15,324
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/index.vue,24,15,315
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/fixtures/eventStream/registerWithTwoInstances.ts,0,0,314
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/dependencies/index.spec.ts,46,8,313
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/index.vue,24,15,302
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerNotifierAutoConfiguration.java,69,15,297
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/auditevents/data.ts,1,0,293
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/index.vue,14,15,291
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/env-manager.vue,12,15,282
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/index.vue,31,15,277
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/AbstractInstancesProxyControllerIntegrationTest.java,45,25,267
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/test/java/de/codecentric/boot/admin/server/cloud/discovery/InstanceDiscoveryListenerTest.java,67,16,265
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/index.vue,10,15,244
+JavaScript,/tmp/clone_directory/src/main/frontend/assets/mockServiceWorker.js,60,37,241
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/tree-table.vue,9,15,235
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/threads-list.vue,12,15,232
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/dependencies/SbomList.vue,5,0,228
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/MicrosoftTeamsNotifier.java,76,47,223
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/index.vue,12,17,221
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/loggers.vue,16,17,219
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/metric.vue,11,15,219
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/application.ts,35,15,216
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/config/AdminServerUiAutoConfiguration.java,50,23,216
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/FeiShuNotifier.java,54,42,214
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/InstancesControllerIntegrationTest.java,34,19,212
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/exchanges-list.vue,5,15,210
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerInstanceWebClientConfiguration.java,44,27,210
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/StatusUpdaterTest.java,43,16,209
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/fixtures/eventStream/registerWithOneInstance.ts,0,0,207
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/applications.spec.ts,24,2,206
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/entities/Instance.java,47,20,205
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/InstanceExchangeFilterFunctions.java,38,24,198
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/sidebar.vue,14,20,195
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/DefaultApplicationFactory.java,45,22,194
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/traces-list.vue,4,15,194
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/public/mockServiceWorker.js,50,41,193
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-cache.vue,6,15,192
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/m-bean-operation-invocation.vue,12,15,192
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/index.vue,9,15,189
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/DefaultApplicationFactoryTest.java,48,15,187
+Maven,/tmp/clone_directory/spring-boot-admin-server-ui/pom.xml,2,19,184
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/endpoints/QueryIndexEndpointStrategyTest.java,48,38,182
+Bourne Shell,/tmp/clone_directory/mvnw,25,44,181
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/sessions-list.vue,4,15,180
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/MicrosoftTeamsNotifierTest.java,57,15,180
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/index.vue,14,15,177
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/discovery/InstanceDiscoveryListener.java,46,36,176
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/table.stories.ts,4,15,176
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceRegistrationUpdatedEventMixinTest.java,31,15,172
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/config/ServerRuntimeHints.java,16,16,171
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceRegisteredEventMixinTest.java,32,15,171
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/test/java/de/codecentric/boot/admin/server/cloud/discovery/DefaultServiceInstanceConverterTest.java,42,16,170
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/index.vue,9,15,170
+Text,/tmp/clone_directory/LICENSE.txt,32,0,169
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/hex-mesh.vue,9,16,169
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/OpsGenieNotifier.java,47,46,169
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/index.vue,5,1,168
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/index.vue,12,15,167
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/InfoUpdaterTest.java,36,27,167
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/DispatcherMappings.vue,7,15,166
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet-graalvm/pom.xml,5,16,165
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/LineChart.vue,13,16,165
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/index.vue,6,17,164
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/config/AdminServerNotifierAutoConfigurationTest.java,37,15,164
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-input.vue,9,18,163
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/entities/InstanceTest.java,43,15,163
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/client.adoc,46,0,162
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/index.vue,6,15,161
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-memory.vue,7,15,160
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/index.vue,3,15,160
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/index.vue,7,15,159
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/index.vue,10,15,157
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-process.vue,4,15,157
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/LegacyEndpointConvertersTest.java,51,18,157
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/customize_ui.adoc,62,0,156
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/getting-started.adoc,26,0,156
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ActionHandler.ts,17,0,155
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/test/java/de/codecentric/boot/admin/server/cloud/AdminApplicationDiscoveryTest.java,29,28,153
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/add-route.vue,9,16,153
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/service.spec.ts,11,15,150
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/SlackNotifierTest.java,40,15,149
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-health.vue,8,15,146
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/MailNotifierTest.java,35,16,145
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-select.vue,10,15,141
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/index.vue,6,16,141
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceStatusChangedEventMixinTest.java,32,15,140
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ApplicationStatusHero.vue,8,0,139
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-panel.stories.ts,20,0,137
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/NotificationFilterSettings.vue,3,15,137
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/UiController.java,49,36,135
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/refresh.vue,5,0,133
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/SpringBootAdminClientAutoConfiguration.java,24,15,132
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/caches-list.vue,3,15,132
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/routes-list.vue,3,15,132
+DOS Batch,/tmp/clone_directory/mvnw.cmd,15,0,131
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-panel.vue,8,15,131
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/servlet/InstancesProxyController.java,24,28,131
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/auditevents-list.vue,5,15,130
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/ApplicationRegistryTest.java,39,18,130
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/index.vue,9,15,129
+Maven,/tmp/clone_directory/spring-boot-admin-server/pom.xml,1,19,129
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/discovery/DefaultServiceInstanceConverter.java,34,33,128
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/PagerdutyNotifier.java,36,35,127
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/package.json,0,0,125
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerAutoConfiguration.java,22,15,125
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/SlackNotifier.java,33,35,125
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceInfoChangedEventMixinTest.java,26,15,125
+YAML,/tmp/clone_directory/.github/workflows/release-to-maven-central.yml,25,2,124
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/applications/data.ts,3,15,124
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/RemindingNotifier.java,33,20,124
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/RemindingNotifierTest.java,34,15,124
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/privacy.adoc,103,0,123
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-pagination-nav.vue,8,16,123
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/viewRegistry.ts,26,16,123
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/index.vue,3,15,123
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/AdminServerUiAutoConfigurationTest.java,28,15,123
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceEndpointsDetectedEventMixinTest.java,25,15,123
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/global.d.ts,17,0,122
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-datasource.vue,7,15,122
+Maven,/tmp/clone_directory/spring-boot-admin-build/pom.xml,1,16,121
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/ServletApplicationFactoryTest.java,35,15,121
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/HipchatNotifier.java,33,35,120
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/config/SpringBootAdminClientAutoConfigurationTest.java,25,15,119
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/server.adoc,44,0,119
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.vue,13,0,119
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/cache-chart.vue,17,18,119
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/config/AdminServerUiProperties.java,69,107,119
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/InstanceWebProxy.java,30,22,119
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/store.ts,16,16,118
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/index.vue,6,25,118
+XML,/tmp/clone_directory/src/checkstyle/checkstyle.xml,15,59,118
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-hazelcast/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminHazelcastApplication.java,26,25,117
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/AbstractAdminApplicationTest.java,22,25,117
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/ReactiveApplicationFactoryTest.java,34,15,116
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/RegistrationApplicationListenerTest.java,35,15,116
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/AdminApplicationHazelcastTest.java,24,20,116
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/endpoints/ProbeEndpointsStrategyTest.java,27,24,116
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/endpoints/ProbeEndpointsStrategy.java,27,15,115
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/datasource-chart.vue,17,19,113
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/route-definition.vue,7,15,113
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/navbar.vue,13,15,112
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/index.vue,7,15,112
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/_server-discovery.adoc,30,0,111
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/m-bean-attribute.vue,4,15,111
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/thread-list-item.vue,0,0,111
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/RocketChatNotifier.java,30,35,111
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/security.adoc,31,1,110
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-action-button-scoped.vue,6,16,109
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/LetsChatNotifier.java,30,37,109
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/endpoints/QueryIndexEndpointStrategy.java,26,15,109
+Maven,/tmp/clone_directory/spring-boot-admin-samples/pom.xml,1,16,108
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ApplicationListItemAction.spec.ts,28,17,108
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/DiscordNotifier.java,31,35,108
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/ApplicationRegistry.java,21,32,108
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/startup-actuator.spec.ts,22,16,107
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/global-filters.vue,7,15,106
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/routes.vue,9,15,106
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/AbstractAdminUiApplicationTest.java,18,33,106
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/DefaultApplicationRegistratorTest.java,34,15,105
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/resources/application.yml,4,8,105
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/index.ts,16,15,105
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/font-awesome-icon.ts,2,18,104
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-alert.vue,6,15,104
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/instance-switcher.vue,6,1,104
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/StatusUpdater.java,22,25,104
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/InfoUpdateTriggerTest.java,27,35,104
+Maven,/tmp/clone_directory/spring-boot-admin-server-cloud/pom.xml,1,21,103
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-memory.spec.ts,17,0,102
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/DingTalkNotifier.java,28,26,102
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/eventstore/AbstractEventStoreTest.java,28,15,102
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-navbar/sba-navbar.stories.ts,7,0,101
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ApplicationListItemAction.vue,8,0,101
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/tree-item.vue,2,16,101
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/OpsGenieNotifierTest.java,26,15,101
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ApplicationNotificationCenter.vue,11,0,100
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/responseHandler.spec.ts,13,0,100
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/loggers-list.vue,7,15,100
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/MailNotifier.java,32,38,100
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/TelegramNotifier.java,33,35,100
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-eureka/docker-compose.yml,10,0,99
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-nav.vue,6,3,99
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/entities/AbstractInstanceRepositoryTest.java,31,30,99
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/plugins/modal/Modal.vue,4,0,98
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/WebexNotifier.java,34,59,98
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/notifications.ts,9,16,97
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/health-details.vue,6,15,97
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-modal.vue,4,0,96
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/viewRegistry.spec.ts,19,15,96
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/m-bean-attributes.vue,5,15,95
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/StatusUpdateTriggerTest.java,26,33,95
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceEventMixinTest.java,24,15,95
+CSS,/tmp/clone_directory/spring-boot-admin-docs/src/site/resources/css/custom.css,19,1,94
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/InstancesController.java,21,43,94
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/RegistrationDeserializerTest.java,17,15,94
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-nav/sba-nav-dropdown.vue,14,0,93
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/store.spec.ts,22,0,93
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/ConcurrentMapEventStore.java,26,15,93
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/m-bean-operation.vue,5,15,92
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/DiscordNotifierTest.java,28,15,92
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/PagerdutyNotifierTest.java,22,15,92
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/RocketChatNotifierTest.java,25,15,92
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/WebexNotifierTest.java,28,15,92
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/useRouterState.spec.ts,15,0,91
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-threads.vue,8,15,91
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerWebConfiguration.java,22,15,91
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/LetsChatNotifierTest.java,24,15,91
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/DefaultApplicationRegistrator.java,21,19,90
+Maven,/tmp/clone_directory/spring-boot-admin-dependencies/pom.xml,1,16,90
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-action-button-scoped.stories.ts,14,15,89
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/route.vue,7,15,89
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/reactive/InstancesProxyController.java,23,18,89
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/TelegramNotifierTest.java,23,15,89
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/index.spec.ts,10,1,88
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/pom.xml,1,23,87
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-gc.vue,5,15,87
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/HipchatNotifierTest.java,24,18,87
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/httptrace-expected.json,0,0,87
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/RegistrationApplicationListener.java,26,21,86
+Maven,/tmp/clone_directory/spring-boot-admin-docs/pom.xml,4,17,86
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/sba-instance-section.vue,11,0,86
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/wallboard.spec.ts,11,2,86
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/entities/SnapshottingInstanceRepositoryTest.java,16,28,86
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/logger-control.vue,3,15,85
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/service.ts,13,15,85
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/mappings-expected.json,0,0,85
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/StatusInfo.java,34,24,84
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-button.vue,12,1,83
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-pagination-nav.spec.ts,15,15,83
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-wave.vue,3,2,83
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/InstancesList.vue,7,15,83
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/external/index.spec.ts,13,0,83
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/FeiShuNotifierTest.java,24,15,83
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-dropdown/sba-dropdown-item.vue,10,0,82
+HTML,/tmp/clone_directory/spring-boot-admin-server/src/main/resources/META-INF/spring-boot-admin-server/mail/status-changed.html,10,16,82
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/config/AdminServerDiscoveryAutoConfiguration.java,20,15,81
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/index.vue,4,15,81
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/InstanceRegistryTest.java,22,18,81
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/trigger-row.vue,2,0,80
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/entities/SnapshottingInstanceRepository.java,19,21,80
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-war/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminWarApplication.java,20,15,79
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/index.vue,4,16,79
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/web/UiControllerTest.java,18,15,79
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/DingTalkNotifierTest.java,24,15,79
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/AbstractClientApplicationTest.java,19,15,78
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminServletApplication.java,15,19,78
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/FilteringNotifier.java,20,20,78
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/beans-list.vue,3,15,77
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-info.vue,6,15,77
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/refresh.spec.ts,14,0,77
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/BuildVersion.java,18,15,77
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/IntervalCheck.java,19,22,77
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/InstanceWebClient.java,27,15,77
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/AbstractEventHandlerTest.java,25,15,77
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceDeregisteredEventMixinTest.java,19,15,77
+Java,/tmp/clone_directory/.mvn/wrapper/MavenWrapperDownloader.java,10,31,76
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/test/java/de/codecentric/boot/admin/server/cloud/config/AdminServerDiscoveryAutoConfigurationTest.java,17,15,76
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/dependencies/index.vue,3,0,76
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/mem-chart.vue,4,15,76
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/DispatcherMappings.spec.ts,6,0,76
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-consul/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminConsulApplication.java,18,15,75
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/SecuritySecureConfig.java,18,18,75
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-zookeeper/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminZookeeperApplication.java,19,15,75
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-dropdown/sba-dropdown.vue,12,0,75
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/rxjs.spec.ts,8,15,75
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/BasicAuthHttpHeaderProviderTest.java,16,15,75
+YAML,/tmp/clone_directory/.github/workflows/build-main.yml,16,2,74
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-war/pom.xml,1,15,74
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/IntervalCheckTest.java,25,15,74
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/m-bean-operations.vue,4,15,73
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/tailwind.config.js,1,0,73
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/AbstractRegistrationClientTest.java,18,15,72
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.en.json,0,0,72
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/BasicAuthHttpHeaderProvider.java,22,29,72
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/notification-filter.ts,16,15,71
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-health.spec.ts,13,0,71
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/Endpoints.java,23,15,71
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/EndpointDetectionTriggerTest.java,18,25,71
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/EndpointDetectorTest.java,19,17,71
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/ServletApplicationFactory.java,20,15,70
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-reactive/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminReactiveApplication.java,14,17,70
+CSS,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/index.css,19,15,70
+Maven,/tmp/clone_directory/spring-boot-admin-client/pom.xml,5,15,69
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/sba-nav-language-selector.spec.ts,13,0,69
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/index.spec.ts,13,0,69
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/pom.xml,1,15,68
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-eureka/src/main/java/de/codecentric/boot/admin/SpringBootAdminEurekaApplication.java,13,17,68
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerProperties.java,40,94,68
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/StatusInfoTest.java,18,15,68
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-toggle-scope-button.vue,4,15,67
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/sba-nav-language-selector.vue,14,15,67
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/Tags.java,18,15,67
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/filter/FilteringNotifierTest.java,24,15,67
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/liquibase-expected.json,0,0,67
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.de.json,0,0,65
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/AdminServerUiPropertiesTest.java,18,15,65
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-eureka/pom.xml,1,17,64
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-input.stories.ts,14,15,64
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-navbar/sba-navbar-toggle.vue,6,2,64
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-status.vue,6,15,64
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/startup-activator-tree.ts,14,15,64
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/useRouterState.ts,10,6,64
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/index.spec.ts,11,0,64
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/cookies/JdkPerInstanceCookieStore.java,17,54,64
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/beans-list-details.vue,6,5,63
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/threads-chart.vue,4,15,63
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/web/NotificationFilterController.java,13,20,63
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/InfoUpdater.java,17,21,63
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-hazelcast/pom.xml,1,18,62
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.en.json,0,0,62
+Markdown,/tmp/clone_directory/README.md,23,0,61
+JavaScript,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/index.js,6,24,61
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-zookeeper/pom.xml,1,15,61
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/Registration.java,19,26,61
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/cookies/JdkPerInstanceCookieStoreTest.java,21,15,61
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-time-ago.vue,5,8,60
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/startup-actuator.ts,10,15,60
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/liquibase-legacy.json,0,0,60
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/ReactiveApplicationFactory.java,18,15,59
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-reactive/pom.xml,1,16,59
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/test-utils.ts,7,0,59
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/index.vue,3,15,59
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/ReactiveAdminServerUiAutoConfigurationTest.java,16,15,59
+Maven,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-consul/pom.xml,1,15,58
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-nav/sba-nav-dropdown.stories.ts,3,0,58
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/logtail.ts,6,17,58
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-caches.vue,4,15,58
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.de.json,0,0,58
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.es.json,3,0,58
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.is.json,0,0,58
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/entities/EventsourcingInstanceRepository.java,16,20,58
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/index.ts,2,15,57
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-status.stories.ts,15,0,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.en.json,0,0,57
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-datasources.vue,4,15,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.fr.json,0,0,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.ko.json,0,0,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.pt-BR.json,0,0,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.ru.json,0,0,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.zh-CN.json,0,0,57
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/i18n.zh-TW.json,0,0,57
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/eventstore/HazelcastEventStoreWithServerConfigTest.java,16,24,57
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ApplicationStatusHero.spec.ts,8,2,56
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/thread-tag.vue,3,15,56
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/extensions/UiExtensionsScanner.java,12,17,56
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/navbar.spec.ts,17,0,55
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/collections.spec.ts,10,15,55
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerHazelcastAutoConfiguration.java,14,15,55
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/StatusUpdateTrigger.java,16,15,55
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/config/AdminServerAutoConfigurationTest.java,13,15,55
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/NotificationTriggerTest.java,20,23,55
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-alert.stories.ts,12,15,54
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-button.stories.ts,12,15,54
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/axios.spec.ts,11,15,54
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/refresh-route-cache.vue,2,15,54
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/MailNotifierIntegrationTest.java,13,15,54
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/filter/web/NotificationFilterControllerTest.java,17,15,54
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/CloudFoundryApplicationFactoryTest.java,20,15,53
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/health/index.ts,2,0,53
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/metrics/data.ts,2,0,53
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/sba-nav-usermenu.vue,10,0,53
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/external/index.ts,7,15,53
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/AbstractStatusChangeNotifier.java,15,24,53
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/ApplicationsController.java,16,18,53
+XML,/tmp/clone_directory/spring-boot-admin-docs/src/site/site.xml,3,0,52
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/rxjs.ts,3,15,52
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/InfoUpdateTrigger.java,16,15,52
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/EndpointsMixinTest.java,17,15,52
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InfoMixinTest.java,15,15,52
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/ApplicationTest.java,15,15,51
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-status.spec.ts,18,15,51
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.de.json,0,0,51
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/ServletFilterMappings.vue,1,15,51
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/test/java/de/codecentric/boot/admin/server/cloud/discovery/EurekaServiceInstanceConverterTest.java,16,15,50
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/plugins/modal/api.ts,8,1,50
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/index.spec.ts,10,0,50
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/responseHandler.ts,7,1,50
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/servlet/HomepageForwardingFilter.java,15,22,50
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/AdminUiReactiveApplicationTest.java,15,15,50
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/AdminUiServletApplicationTest.java,15,15,50
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/AbstractEventHandler.java,16,15,50
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/StatusInfoMixinTest.java,15,15,50
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/RegistrationDeserializer.java,13,15,49
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/httptrace-legacy.json,0,0,49
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/config/SpringBootAdminClientEnabledConditionTest.java,13,15,48
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-loading-spinner.vue,1,1,48
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-pagination-nav.stories.ts,9,15,48
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.es.json,0,0,48
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/SpringBootAdminClientCloudFoundryAutoConfiguration.java,8,15,47
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/sba-config.ts,5,15,46
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/wallboard.stories.ts,5,0,46
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/TagsMixinTest.java,15,15,46
+YAML,/tmp/clone_directory/.github/workflows/build-feature.yml,9,2,45
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/config/SpringBootAdminClientCloudFoundryAutoConfigurationTest.java,10,15,45
+Markdown,/tmp/clone_directory/spring-boot-admin-server-ui/README.md,13,0,45
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-nav/sba-nav-item.vue,4,0,45
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/composables/ViewRegistry.ts,10,0,45
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/application.spec.ts,8,15,45
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/objToString.spec.ts,2,15,45
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/extensions/UiRoutesScanner.java,11,16,45
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/main/resources/META-INF/additional-spring-configuration-metadata.json,0,0,45
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/BuildVersionTest.java,15,15,45
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-key-value-table.stories.ts,6,15,44
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/TagsTest.java,14,15,44
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/HazelcastNotificationTriggerTest.java,16,22,44
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-tag.vue,1,0,43
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/AdminServletApplicationTest.java,14,15,43
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-zookeeper/src/main/resources/application.yml,3,0,42
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-navbar/sba-navbar.vue,9,15,42
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/process-uptime.ts,3,15,42
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/ServletMappings.vue,1,15,42
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/HomepageForwardingMatcher.java,15,15,42
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/web/HomepageForwardingMatcherTest.java,17,15,42
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/reactive/AdminControllerHandlerMapping.java,13,15,42
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/EndpointMixinTest.java,15,15,42
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/beans-expected.json,0,0,42
+Maven,/tmp/clone_directory/spring-boot-admin-starter-server/pom.xml,1,16,42
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/axios.ts,7,15,41
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/config/AdminServerInstanceWebClientConfigurationTest.java,8,15,41
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/BuildVersionMixinTest.java,15,15,41
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/env-expected.json,0,0,41
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/ClientProperties.java,18,49,40
+SVG,/tmp/clone_directory/spring-boot-admin-docs/src/site/resources/images/wave.svg,3,0,40
+JavaScript,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/vite.config.js,1,0,40
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/.eslintrc.js,0,0,40
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-button-group.stories.ts,8,15,40
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-key-value-table.vue,1,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.fr.json,0,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.is.json,0,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.ko.json,0,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.pt-BR.json,0,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.ru.json,0,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.zh-CN.json,0,0,40
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/i18n.zh-TW.json,0,0,40
+HTML,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/index.html,4,15,40
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/InstanceRegistry.java,13,44,40
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/AdminReactiveApplicationTest.java,12,15,40
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/beans-legacy.json,0,0,40
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,11,0,39
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/i18n/index.ts,7,0,39
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/objToString.ts,9,15,39
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/HazelcastNotificationTrigger.java,11,15,39
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/SanitizingMapSerializer.java,12,15,39
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/filter/InstanceNameNotificationFilterTest.java,13,15,39
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/reactive/CompositeReactiveHttpHeadersProviderTest.java,9,15,39
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/ReactiveRegistrationClient.java,12,15,38
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/.storybook/preview.js,6,0,38
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-checkbox.vue,1,0,38
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-modal.stories.ts,7,15,38
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-tags.stories.ts,8,0,38
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/loggers-list.spec.ts,8,0,38
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/tsconfig.json,0,0,38
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/entities/Application.java,17,16,38
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/AbstractEventNotifier.java,15,23,38
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/AdminServerModule.java,9,31,38
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/eventstore/HazelcastEventStoreWithClientConfigTest.java,14,15,38
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-confirm-button.vue,3,15,37
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-status-badge.vue,4,0,37
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/composables/useApplicationStore.ts,11,0,37
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/handle.vue,7,15,37
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/InstanceWebClientTest.java,10,15,37
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet-graalvm/src/main/resources/application.yml,3,0,36
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/test/java/de/codecentric/boot/admin/server/cloud/discovery/KubernetesServiceInstanceConverterTest.java,14,15,36
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-dropdown/sba-dropdown.stories.ts,4,0,36
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-icon-button.vue,4,15,36
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/index.vue,3,15,36
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/m-bean-operation.spec.ts,10,15,36
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/servlet/AdminControllerHandlerMapping.java,14,15,36
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/config/AdminServerCloudFoundryAutoConfigurationTest.java,9,15,36
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/CompositeNotifierTest.java,15,15,36
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/flyway-expected.json,0,0,36
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/NotifierConfig.java,11,17,35
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/SecurityPermitAllConfig.java,13,15,35
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/BlockingRegistrationClient.java,11,15,34
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/config/ClientPropertiesTest.java,15,15,34
+Markdown,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet-graalvm/Readme.md,12,0,34
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-tag.stories.ts,5,0,34
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/autolink.spec.ts,6,15,34
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/trigger-row.spec.ts,5,0,34
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/reactive/HomepageForwardingFilter.java,12,15,34
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/endpoints/ChainingStrategyTest.java,9,19,34
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/Application.java,16,21,33
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-consul/src/main/resources/application.yml,2,0,33
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/.storybook/main.js,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.de.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.en.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.pt-BR.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.de.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.en.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.es.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.fr.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.is.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.ko.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.pt-BR.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.ru.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.zh-CN.json,0,0,33
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httptrace/i18n.zh-TW.json,0,0,33
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/config/SpringBootAdminServerEnabledConditionTest.java,11,15,33
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/CompositeHttpHeadersProviderTest.java,8,15,33
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/configprops-expected.json,0,0,33
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/pyctuator.adoc,12,0,32
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/custom.vue,5,19,32
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-formatted-obj.vue,5,15,32
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-time-ago.spec.ts,9,16,32
+HTML,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login.html,3,15,32
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/plugins/modal/ConfirmButtons.vue,3,0,32
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.es.json,0,0,32
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.fr.json,0,0,32
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.is.json,0,0,32
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/flyway-legacy.json,0,0,32
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/CloudFoundryApplicationFactory.java,11,15,31
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/ClientReactiveApplicationTest.java,11,15,31
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/ClientServletApplicationTest.java,11,15,31
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-toggle-scope-button.spec.ts,8,15,31
+CSS,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login.css,4,15,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.de.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.en.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.es.json,1,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.fr.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.is.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.ko.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.pt-BR.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.ru.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.zh-CN.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/gateway/i18n.zh-TW.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.ko.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.ru.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.zh-CN.json,0,0,31
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/httpexchanges/i18n.zh-TW.json,0,0,31
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/Endpoint.java,23,15,31
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/Info.java,11,20,31
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/HazelcastEventStore.java,10,20,31
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/ClientRuntimeHints.java,7,15,30
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/config/CloudFoundryApplicationPropertiesTest.java,8,15,30
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/_server-clustering.adoc,7,0,30
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-select.stories.ts,4,15,30
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/utils.ts,3,0,30
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/InstanceEventPublisher.java,13,15,30
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/EndpointDetectionTrigger.java,10,15,30
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/HashingInstanceUrlIdGenerator.java,8,18,30
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/HttpHeaderFilter.java,11,21,30
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/servlet/InstancesProxyControllerIntegrationTest.java,10,15,30
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/custom-endpoint.vue,3,17,29
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/CustomNotifier.java,8,17,29
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-tags.vue,3,15,29
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/EndpointDetector.java,11,18,29
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/utils/jackson/InstanceIdMixinTest.java,12,15,29
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/cookies/CookieStoreCleanupTriggerTest.java,13,15,29
+INI,/tmp/clone_directory/.editorconfig,4,0,28
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/InstanceProperties.java,15,52,28
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/imprint.adoc,10,0,28
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/CustomCsrfFilter.java,12,15,28
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/directives/popper.ts,4,15,28
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerCloudFoundryAutoConfiguration.java,7,15,28
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/SpringBootAdminClientEnabledCondition.java,9,27,27
+Markdown,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/README.md,5,0,27
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-confirm-button.spec.ts,8,15,27
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/sba-dropdown-logout-item.vue,4,0,27
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/shortenClassname.spec.ts,4,15,27
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/ApplicationStats.vue,5,15,27
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-hero.vue,3,0,27
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/LoggingNotifier.java,8,20,27
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/reactive/CompositeReactiveHttpHeadersProvider.java,12,15,27
+HTML,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/notify/vulnerable-file.html,3,0,27
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/health-expected.json,0,0,27
+JSON,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/package.json,0,0,26
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-action-button-scoped.spec.ts,6,15,26
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/liquibase/data.ts,0,0,26
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/autolink.ts,5,15,26
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/RegistrationBeanSerializerModifier.java,10,15,26
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/EndpointsTest.java,9,15,26
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/reactive/InstancesProxyControllerIntegrationTest.java,9,15,26
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/directives/on-resize.ts,4,15,25
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/plugins/modal/helpers.ts,5,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.es.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.fr.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.is.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.ko.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.pt-BR.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.ru.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.zh-CN.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/applications/i18n.zh-TW.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.de.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.en.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.es.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.fr.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.is.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.ko.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.pt-BR.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.ru.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.zh-CN.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/scheduledtasks/i18n.zh-TW.json,1,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.de.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.en.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.es.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.fr.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.is.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.ko.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.pt-BR.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.ru.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.zh-CN.json,0,0,25
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/i18n.zh-TW.json,0,0,25
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/extensions/UiExtensions.java,10,15,25
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/NotificationTrigger.java,10,15,25
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/cookies/CookieStoreCleanupTrigger.java,10,27,25
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/client/CloudFoundryHttpHeaderProviderTest.java,9,15,25
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/configprops-legacy.json,0,0,25
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/metadata/CompositeMetadataContributorTest.java,12,15,24
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/custom-subitem.vue,4,16,24
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-eureka/src/main/resources/application.yml,3,2,24
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-reactive/src/main/resources/application.yml,3,0,24
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/discovery/KubernetesServiceInstanceConverter.java,9,18,24
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mixins/subscribing.ts,1,15,24
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/flyway/data.ts,0,0,24
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/index.vue,5,15,24
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/ViewGroup.ts,1,0,24
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/details/details-metadata.vue,3,15,24
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.en.json,0,0,24
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/ExpiringNotificationFilter.java,12,15,24
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/InstanceIdNotificationFilter.java,11,15,24
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/config/AdminServerPropertiesTest.java,9,15,24
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/metadata/CloudFoundryMetadataContributor.java,9,15,23
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-button-group.vue,5,0,23
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-navbar/sba-navbar-toggle.stories.ts,4,1,23
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-toggle-scope-button.stories.ts,5,0,23
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/iso8601-duration.spec.ts,4,15,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.de.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.es.json,1,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.fr.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.is.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.ko.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.pt-BR.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.ru.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.zh-CN.json,0,0,23
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/env/i18n.zh-TW.json,0,0,23
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/MBean.ts,3,0,23
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/utils.ts,5,24,23
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/SpringBootAdminServerEnabledCondition.java,8,19,23
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/ApplicationNameNotificationFilter.java,11,15,23
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/filter/InstanceIdNotificationFilterTest.java,9,15,23
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/services/CloudFoundryInstanceIdGeneratorTest.java,9,15,23
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/handle.vue,3,16,22
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-hazelcast/src/main/resources/application.yml,2,0,22
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-icon-button.stories.ts,4,15,22
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-nav/sba-nav-item.stories.ts,3,0,22
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/server.ts,3,0,22
+CSS,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/public/variables.css,3,0,22
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/utils.spec.ts,3,15,22
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/extensions/UiExtensionsScannerTest.java,10,15,22
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/tsconfig.node.json,0,0,22
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceEvent.java,12,20,22
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceStatusChangedEvent.java,11,20,22
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/InstanceId.java,10,18,22
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/CompositeNotifier.java,9,20,22
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/StatusInfoMixin.java,11,20,22
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/PathUtils.java,6,15,22
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/discovery/EurekaServiceInstanceConverter.java,8,20,21
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-checkbox.stories.ts,4,15,21
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/directives/sticks-below.ts,4,15,21
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/metrics/index.ts,3,0,21
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/tests/setup.ts,4,1,21
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/auditevents-list.stories.ts,4,0,21
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/shell/sidebar.stories.ts,4,0,21
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/endpoints/ChainingStrategy.java,8,15,21
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceEventMixin.java,5,20,21
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/RegistrationTest.java,10,15,21
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/metadata/CloudFoundryMetadataContributorTest.java,8,15,20
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-war/src/main/resources/application.yml,1,0,20
+SVG,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/assets/img/wave.svg,0,0,20
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-confirm-button.stories.ts,4,15,20
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-status-badge.spec.ts,3,15,20
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/index.ts,4,15,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.de.json,0,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.es.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.fr.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.is.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.ko.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.pt-BR.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.ru.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.zh-CN.json,1,0,20
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/liquibase/i18n.zh-TW.json,1,0,20
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/utils.spec.ts,5,15,20
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceRegistrationUpdatedEvent.java,10,20,20
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/ConnectionCloseExtension.java,6,17,20
+Maven,/tmp/clone_directory/spring-boot-admin-starter-client/pom.xml,0,15,20
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-navbar/sba-navbar-brand.vue,3,0,19
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.stories.ts,4,0,19
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/jolokia/index.ts,4,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.de.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.en.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.es.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.fr.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.is.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.ko.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.pt-BR.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.ru.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.zh-CN.json,1,0,19
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/threaddump/i18n.zh-TW.json,1,0,19
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceEndpointsDetectedEvent.java,10,20,19
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceInfoChangedEvent.java,10,20,19
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceRegisteredEvent.java,10,20,19
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/CloudFoundryInstanceIdGenerator.java,9,21,19
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/health-legacy.json,0,0,19
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-modal.spec.ts,4,15,18
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/dependencies/index.ts,3,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.de.json,0,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.en.json,0,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.es.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.is.json,0,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.de.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.en.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.es.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.fr.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.is.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.ko.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.pt-BR.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.ru.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.zh-CN.json,1,0,18
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/mappings/i18n.zh-TW.json,1,0,18
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/LegacyEndpointConverter.java,10,18,18
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/InfoTest.java,9,15,18
+HTML,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/notify/custom-mail.html,1,16,18
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/spring-boot-admin-bug.md,16,18,17
+JSON,/tmp/clone_directory/renovate.json,0,0,17
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/SpringNativeClientAutoConfiguration.java,4,15,17
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/index.adoc,2,0,17
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/resources/application-themed.yml,0,0,17
+Markdown,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/index.stories.mdx,3,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/dependencies/i18n.de.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/dependencies/i18n.en.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.de.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.en.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.es.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.fr.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.is.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.ko.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.pt-BR.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.ru.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.zh-CN.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/flyway/i18n.zh-TW.json,0,0,17
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/MBeanDescriptor.ts,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.fr.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.pt-BR.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.ru.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.zh-CN.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.zh-TW.json,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.de.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.en.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.es.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.fr.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.is.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.ko.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.pt-BR.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.ru.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.zh-CN.json,1,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/sessions/i18n.zh-TW.json,1,0,17
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/ReactiveAdminServerUiAutoConfigurationAdminContextPathTest.java,6,15,17
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/ReactiveAdminServerUiAutoConfigurationBothPathsTest.java,6,15,17
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/ReactiveAdminServerUiAutoConfigurationWebfluxBasePathTest.java,6,15,17
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/InMemoryEventStore.java,9,20,17
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/CloudFoundryHttpHeaderProvider.java,8,21,17
+YAML,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/application.yml,0,0,17
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/env-legacy.json,0,0,17
+Text,/tmp/clone_directory/src/checkstyle/checkstyle-header.txt,0,0,17
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/metadata/CompositeMetadataContributor.java,7,15,16
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/d3.ts,1,15,16
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/shortenClassname.ts,2,15,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.de.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.en.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.es.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.fr.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.is.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.ko.json,1,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.pt-BR.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.ru.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.zh-CN.json,0,0,16
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/auditevents/i18n.zh-TW.json,0,0,16
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/config/SpringNativeServerAutoConfiguration.java,5,15,16
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/config/CssColorUtilsTest.java,8,15,16
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/InstanceDeregisteredEvent.java,9,20,16
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/CompositeHttpHeadersProvider.java,9,15,16
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/eventstore/HazelcastEventStoreTest.java,7,15,16
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/notify/TestNotifier.java,9,15,16
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/web/PathUtilsTest.java,6,15,16
+YAML,/tmp/clone_directory/.github/workflows/vulnerability-scan.yml,5,0,15
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/resources/application-secure.yml,1,0,15
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.en.json,0,0,15
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.de.json,0,0,15
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.en.json,0,0,15
+Text,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/resources/META-INF/test-extensions/custom/custom.txt,0,0,15
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/CloudFoundryApplicationProperties.java,8,15,14
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-war/src/main/resources/application-secure.yml,0,0,14
+CSS,/tmp/clone_directory/spring-boot-admin-server-ui/.storybook/storybook.css,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.de.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.es.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.fr.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.is.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.ko.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.pt-BR.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.ru.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.zh-CN.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login/login.i18n.zh-TW.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.es.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.fr.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.is.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.ko.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.pt-BR.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.ru.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.zh-CN.json,0,0,14
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/jolokia/i18n.zh-TW.json,0,0,14
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/java/de/codecentric/boot/admin/server/ui/extensions/UiRoutesScannerTest.java,8,15,14
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InfoMixin.java,8,20,14
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceEndpointsDetectedEventMixin.java,7,21,14
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceInfoChangedEventMixin.java,7,20,14
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceRegisteredEventMixin.java,7,20,14
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceRegistrationUpdatedEventMixin.java,7,21,14
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceStatusChangedEventMixin.java,7,20,14
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-consul/src/test/java/de/codecentric/boot/admin/sample/SpringBootAdminConsulApplicationTest.java,5,15,13
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-zookeeper/src/test/java/de/codecentric/boot/admin/sample/SpringBootAdminZookeeperApplicationTest.java,5,15,13
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-sticky-subnav.vue,1,0,13
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/login.ts,3,15,13
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/collections.ts,2,15,13
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/uri.spec.ts,2,15,13
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/useSubscription.ts,1,20,13
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/i18n.de.json,1,0,13
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/i18n.en.json,1,0,13
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/i18n.es.json,1,0,13
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/startup/i18n.is.json,1,0,13
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/EnableAdminServer.java,5,18,13
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/entities/InstanceRepository.java,12,50,13
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/AbstractNotificationFilter.java,8,15,13
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/TagsMixin.java,8,20,13
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/mappings-legacy.json,0,0,13
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/metadata/StartupDateMetadataContributor.java,7,15,12
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/metadata/StartupDateMetadataContributorTest.java,9,15,12
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-eureka/src/test/java/de/codecentric/boot/admin/SpringBootAdminEurekaApplicationTest.java,5,15,12
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-hazelcast/src/test/java/de/codecentric/boot/admin/sample/SpringBootAdminHazelcastApplicationTest.java,5,15,12
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-reactive/src/test/java/de/codecentric/boot/admin/sample/SpringBootAdminReactiveApplicationTest.java,5,15,12
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/test/java/de/codecentric/boot/admin/sample/SpringBootAdminServletApplicationTest.java,5,15,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/resources/META-INF/additional-spring-configuration-metadata.json,0,0,12
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/browser.ts,3,0,12
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/sba-settings.js,1,17,12
+CSS,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/external/style.css,1,15,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.de.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.en.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.es.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.fr.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.is.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.ko.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.pt-BR.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.ru.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.zh-CN.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/beans/i18n.zh-TW.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.de.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.en.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.es.json,1,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.fr.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.is.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.ko.json,1,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.pt-BR.json,1,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.ru.json,0,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.zh-CN.json,1,0,12
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/metrics/i18n.zh-TW.json,1,0,12
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/config/CssColorUtils.java,6,15,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/AdminServerMarkerConfiguration.java,7,15,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/InstanceEventStore.java,9,20,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/BuildVersionMixin.java,7,20,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/EndpointsMixin.java,7,20,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceDeregisteredEventMixin.java,7,20,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/InstanceIdMixin.java,7,20,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/EndpointTest.java,6,15,12
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/values/InstanceIdTest.java,6,15,12
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/threaddump-expected.json,0,0,12
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet-graalvm/src/main/java/de/codecentric/boot/admin/sample/SpringBootAdminServletApplication.java,6,15,11
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-dropdown/sba-dropdown-divider.vue,1,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.de.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.en.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.es.json,1,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.fr.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.is.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.ko.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.pt-BR.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.ru.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.zh-CN.json,0,0,11
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/caches/i18n.zh-TW.json,0,0,11
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/ApiMediaTypeHandler.java,6,15,11
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/AdminController.java,4,20,11
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/cookies/PerInstanceCookieStore.java,9,43,11
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/ReactiveRegistrationClientTest.java,6,15,10
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/faq.adoc,2,0,10
+Java,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/java/de/codecentric/boot/admin/sample/CustomEndpoint.java,5,15,10
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-servlet/src/main/resources/application-dev.yml,0,0,10
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/jolokia/data.read.ts,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.de.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.en.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.es.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.fr.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.is.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.ko.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.pt-BR.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.ru.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.zh-CN.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/heapdump/i18n.zh-TW.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.de.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.en.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.es.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.fr.json,0,0,10
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/NotifierProxyProperties.java,8,27,10
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/EndpointMixin.java,6,20,10
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/InstanceExchangeFilterFunction.java,6,21,10
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/eventstore/InMemoryEventStoreTest.java,5,16,10
+JSON,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/web/client/threaddump-legacy.json,0,0,10
+JSON,/tmp/clone_directory/spring-boot-admin-client/src/main/resources/META-INF/additional-spring-configuration-metadata.json,1,0,9
+Java,/tmp/clone_directory/spring-boot-admin-client/src/test/java/de/codecentric/boot/admin/client/registration/BlockingRegistrationClientTest.java,5,15,9
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-war/src/main/resources/application-dev.yml,0,0,9
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/HealthStatus.ts,1,1,9
+SVG,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/assets/img/icon-spring-boot-admin.svg,0,0,9
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/plugins/modal/index.ts,2,0,9
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/iso8601-duration.ts,3,24,9
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.de.json,0,0,9
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.en.json,0,0,9
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.es.json,1,0,9
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/HomepageForwardingFilterConfig.java,8,18,9
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/exception/InstanceWebClientException.java,5,15,9
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/exception/ResolveEndpointException.java,5,15,9
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/exception/ResolveInstanceException.java,5,15,9
+Java,/tmp/clone_directory/spring-boot-admin-server/src/test/java/de/codecentric/boot/admin/server/domain/entities/EventsourcingInstanceRepositoryTest.java,6,15,9
+HTML,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/de/codecentric/boot/admin/server/notify/allowed-file.html,2,0,9
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/spring-boot-admin-enhancement.md,4,10,8
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/customize_interceptors.adoc,2,0,8
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/customize_notifiers.adoc,2,0,8
+HTML,/tmp/clone_directory/spring-boot-admin-server-ui/.storybook/preview-head.html,0,0,8
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/babel.config.js,1,15,8
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/applications/index.ts,3,0,8
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/auditevents/index.ts,3,0,8
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/flyway/index.ts,3,0,8
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/liquibase/index.ts,3,0,8
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/mappings/index.ts,3,0,8
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/eventsource-polyfill.ts,1,15,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.de.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.en.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.es.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.fr.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.is.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.ko.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.pt-BR.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.ru.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.zh-CN.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/configprops/i18n.zh-TW.json,1,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.fr.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.is.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.pt-BR.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.ru.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.zh-CN.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/logfile/i18n.zh-TW.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/loggers/i18n.ko.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.de.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.en.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.es.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.fr.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.is.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.ko.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.pt-BR.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.ru.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.zh-CN.json,0,0,8
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/instances/quartz/i18n.zh-TW.json,0,0,8
+AsciiDoc,/tmp/clone_directory/spring-boot-admin-docs/src/site/asciidoc/customize_http-headers.adoc,2,0,7
+CSS,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/custom.css,1,0,7
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/discovery/ServiceInstanceConverter.java,6,25,7
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/.prettierrc.json,0,0,7
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/info/index.ts,2,0,7
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/utils/uri.ts,1,15,7
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/NotificationFilter.java,6,15,7
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/endpoints/EndpointDetectionStrategy.java,6,15,7
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/reactive/ReactiveHttpHeadersProvider.java,6,19,7
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/ApplicationRegistrator.java,6,29,6
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/metadata/MetadataContributor.java,5,15,6
+Dockerfile,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-eureka/src/main/docker/Dockerfile,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.de.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.en.json,0,0,6
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/handle.vue,1,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.de.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.en.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.es.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.fr.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.is.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.ko.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.pt-BR.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.ru.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.zh-CN.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/about/i18n.zh-TW.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.is.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.ko.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.pt-BR.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.ru.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.zh-CN.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/journal/i18n.zh-TW.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.de.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.en.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.es.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.fr.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.is.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.ko.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.pt-BR.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.ru.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.zh-CN.json,0,0,6
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/views/wallboard/i18n.zh-TW.json,0,0,6
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/extensions/UiExtension.java,5,15,6
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/OptimisticLockingException.java,4,15,6
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/Notifier.java,6,20,6
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/InstanceIdGenerator.java,5,20,6
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/HttpHeadersProvider.java,6,21,6
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/RegistrationClient.java,5,15,5
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/metadata/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/package-info.java,2,15,5
+XML,/tmp/clone_directory/spring-boot-admin-client/src/test/resources/logback-test.xml,1,15,5
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-consul/docker-compose.yml,0,0,5
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-consul/src/main/resources/application-secure.yml,0,0,5
+JavaScript,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/babel.config.js,0,0,5
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-zookeeper/docker-compose.yml,0,0,5
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/config/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server-cloud/src/main/java/de/codecentric/boot/admin/server/cloud/discovery/package-info.java,2,15,5
+JavaScript,/tmp/clone_directory/spring-boot-admin-server-ui/postcss.config.js,2,1,5
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/ActionScope.ts,1,1,5
+Vuejs Component,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/components/sba-navbar/sba-navbar-nav.vue,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.es.json,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.fr.json,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.is.json,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.ko.json,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.ru.json,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.zh-CN.json,0,0,5
+JSON,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/shell/i18n.zh-TW.json,0,0,5
+CSS,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/toast-theme.css,1,0,5
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/vite-env.d.ts,0,3,5
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/config/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/extensions/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/reactive/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/java/de/codecentric/boot/admin/server/ui/web/servlet/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/config/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/entities/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/events/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/domain/values/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/eventstore/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/filter/web/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/notify/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/endpoints/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/services/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/utils/jackson/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/InstanceWebClientCustomizer.java,4,21,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/cookies/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/exception/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/client/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/reactive/package-info.java,2,15,5
+Java,/tmp/clone_directory/spring-boot-admin-server/src/main/java/de/codecentric/boot/admin/server/web/servlet/package-info.java,2,15,5
+XML,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/logback-test.xml,1,15,5
+Properties,/tmp/clone_directory/spring-boot-admin-server/src/test/resources/server-config-test.properties,2,0,5
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/config/ServiceHostType.java,4,15,4
+Java,/tmp/clone_directory/spring-boot-admin-client/src/main/java/de/codecentric/boot/admin/client/registration/ApplicationFactory.java,4,24,4
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/services/bus.ts,1,0,3
+Text,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-custom-ui/src/routes.txt,0,0,2
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,16,1
+YAML,/tmp/clone_directory/spring-boot-admin-samples/spring-boot-admin-sample-war/src/main/resources/application-insecure.yml,0,0,1
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/notificationcenter.d.ts,0,0,1
+Text,/tmp/clone_directory/spring-boot-admin-server-ui/src/test/resources/META-INF/test-extensions/custom/routes.txt,0,0,1
+TypeScript,/tmp/clone_directory/spring-boot-admin-server-ui/src/main/frontend/mocks/instance/mappings/data.ts,0,1619,0
+SUM,,9313,12114,111773

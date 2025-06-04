@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 5.61341777470865, , , , 4221534, False, 
+##[group]GITHUB_TOKEN Permissions, 94.94432469981795, , , , 8728778, False, 
+##[group]Run actions/checkout@v4, 1.3698413481022074, , , , 176560, False, 
+##[group]Getting Git version info, 1.3873757219955958, , , , 8323, False, 
+##[group]Setting up auth, 1.4049100958889846, , , , 65894, False, 
+##[group]Fetching the repository, 7.287566087845753, , , , 461917, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 4.582952139428117, , , , 259719, False, 
+##[group]Run ./gradlew closeAndReleaseRepository --repository=, 58.65601579961697, , , , 29153625, True, ##[error]Process completed with exit code 1.

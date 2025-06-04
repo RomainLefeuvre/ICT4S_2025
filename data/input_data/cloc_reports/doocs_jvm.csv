@@ -1,0 +1,23 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2032.1 files/s 418520.8 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,2775
+Markdown,/tmp/clone_directory/docs/01-jvm-memory-structure.md,102,0,185
+Markdown,/tmp/clone_directory/docs/07-class-structure.md,52,0,95
+Markdown,/tmp/clone_directory/docs/08-load-class-time.md,36,0,91
+Markdown,/tmp/clone_directory/docs/09-load-class-process.md,40,0,81
+Markdown,/tmp/clone_directory/docs/03-gc-algorithms.md,66,0,76
+Markdown,/tmp/clone_directory/docs/00-quickstart.md,26,2,60
+JavaScript,/tmp/clone_directory/docs/.vuepress/config.js,0,0,57
+Markdown,/tmp/clone_directory/README.md,21,0,56
+YAML,/tmp/clone_directory/.github/workflows/deploy.yml,9,0,55
+Markdown,/tmp/clone_directory/docs/04-hotspot-gc.md,38,0,50
+Markdown,/tmp/clone_directory/docs/02-hotspot-jvm-object.md,35,0,45
+Markdown,/tmp/clone_directory/docs/05-memory-allocation-gc.md,26,0,36
+Markdown,/tmp/clone_directory/docs/README.md,0,0,35
+YAML,/tmp/clone_directory/.github/workflows/compress.yml,5,0,31
+Markdown,/tmp/clone_directory/docs/06-jvm-performance-tuning.md,20,0,28
+JSON,/tmp/clone_directory/package.json,0,0,27
+Markdown,/tmp/clone_directory/docs/10-class-loader.md,19,0,22
+Markdown,/tmp/clone_directory/docs/summary.md,0,0,10
+Java,/tmp/clone_directory/Main.java,0,3,5
+JSON,/tmp/clone_directory/vercel.json,0,0,5
+SUM,,495,5,3825

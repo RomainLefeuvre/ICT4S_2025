@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run bash ./gradlew assembleDev,489.0608679189578,52488112,True,##[error]Process completed with exit code 1.
+##[group]Finalizing java,108.96932037928964,4935767,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.16.5/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin and Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]Augmented user configuration file contents,75.84133963678211,3667111,False,
+##[group]Fetching the repository,29.36077669726703,2102364,False,
+##[group]Run github/codeql-action/analyze@v3,28.591186140332024,1480242,False,
+##[group]Waiting for processing to finish,25.897571151869467,6525625,False,
+##[group]Setup CodeQL tools,23.594238034037467,1411312,False,
+##[group]Load language configuration,18.58185244750825,991472,False,
+##[group]GITHUB_TOKEN Permissions,11.135699589718914,10577739,False,
+##[group]Uploading results,10.627769945335912,323604,False,
+##[group]Validating workflow,7.13019655494404,390684,False,
+Requested labels: self-hosted,3.0971181933208443,5938611,False,
+##[group]Checking out the ref,1.467847481934481,182072,False,
+##[group]Setting up auth,1.3284169654242834,59567,False,
+##[group]Initializing the repository,1.3220792146738198,55977,False,
+##[group]Run actions/checkout@v4,1.3157414639233564,140416,False,

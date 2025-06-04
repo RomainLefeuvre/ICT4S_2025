@@ -1,0 +1,7 @@
+##[group]Run mvn clean install '-Pjakarta-staging', 529.6202169310544, , , , 58267010, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.4.1:enforce[m (enforce-java-version)[m on project resteasy-jaxrs-all[m: [m
+Requested labels: self-hosted, 360.9125611989353, , , , 3861009, False, 
+##[group]Cleaning the repository, 73.24399769283704, , , , 656330, False, 
+##[group]GITHUB_TOKEN Permissions, 62.35219301732326, , , , 4324133, False, 
+##[group]Fetching the repository, 48.30312048590774, , , , 444502, False, 
+##[group]Run actions/checkout@v4, 11.132431695710792, , , , 149267, False, 
+##[group]Getting Git version info, 10.998631004935408, , , , 5353, False, 

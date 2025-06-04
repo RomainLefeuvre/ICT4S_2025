@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/setup-java@v1,57.57856177126949,18167029,False,
+##[group]GITHUB_TOKEN Permissions,13.057228999562014,3748374,False,
+##[group]Run actions/upload-artifact@v2.2.1__dup_11,5.103757883753947,2124283,False,
+##[group]Run actions/cache@v2,4.910823161585264,1112428,False,
+##[group]Fetching the repository,4.105346514832894,3312656,False,
+##[group]Run make clean all,2.9685435794847224,214388,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref,1.5343191749709593,144536,False,
+##[group]Run actions/checkout@v2,1.0718209356218584,181724,False,
+##[group]Run actions/upload-artifact@v2.2.1,0.9931894735838348,89994,False,
+Requested labels: self-hosted,0.717713030138093,5230732,False,
+##[group]Setting up auth,0.5486787738626746,61628,False,

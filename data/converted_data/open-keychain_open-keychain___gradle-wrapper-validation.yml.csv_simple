@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run gradle/wrapper-validation-action@v1,77.55157296460014,3782862,False,
+##[group]Cleaning the repository,51.37711022769813,1951665,False,
+##[group]Fetching the repository,34.59805200813571,1137051,False,
+Requested labels: self-hosted,31.92618032376374,5243294,False,
+##[group]Removing previously created refs_ to avoid conflicts,29.429199738982422,1315871,False,
+##[group]GITHUB_TOKEN Permissions,9.100225405051216,2783825,False,
+##[group]Run actions/checkout@v2,4.213253701319612,191187,False,
+##[group]Checking out the ref,3.0033504524665013,89531,False,
+##[group]Setting up auth,2.762991548889449,124884,False,
+##[group]Getting Git version info,2.134360570303312,84154,False,

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean package -Pdev -DskipTests -U -e && /bin/cp -rf powerjob-server/powerjob-server-starter/target/*.jar powerjob-server/docker/powerjob-server.jar && /bin/cp -rf powerjob-worker-agent/target/*.jar powerjob-worker-agent/powerjob-agent.jar && /bin/cp -rf powerjob-worker-samples/target/*.jar powerjob-worker-samples/powerjob-worker-samples.jar,1540.0105545322465,84499337,False,
+##[group]Run docker/build-push-action@v1,324.26943249012186,104961034,False,
+##[group]Run docker/build-push-action@v1__dup_10,123.20882774543333,65630864,False,
+##[group]Run docker/build-push-action@v1__dup_11,71.58142719662537,21005732,False,
+##[group]Pull down action image 'docker/github-actions:v1',38.97524519099261,10473842,False,
+Requested labels: self-hosted,22.40017869348509,5314213,False,
+##[group]Fetching the repository,19.624220669160763,1732225,False,
+##[group]GITHUB_TOKEN Permissions,18.77231870560352,1828631,False,
+##[group]Checking out the ref,2.6244420474470846,131743,False,
+##[group]Run actions/checkout@v2,1.9597889863599145,221397,False,
+##[group]Setting up auth,1.0048189829707257,69386,False,

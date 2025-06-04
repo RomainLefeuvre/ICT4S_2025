@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew dokkaHtml,306.513029981779,40531435,False,
+##[group]Run gradle/wrapper-validation-action@v1.0.4,140.27253598338024,1221945,False,
+##[group]GITHUB_TOKEN Permissions,89.25748528293077,4143651,False,
+##[group]Fetching the repository,54.82428603398592,446397,False,
+##[group]Run actions/checkout@v2,29.652913583527926,194942,False,
+##[group]Getting Git version info,14.490341206783718,7953,False,
+##[group]Setting up auth,14.266264150130224,76138,False,
+##[group]Installed distributions,9.56064596040681,30869,False,
+##[group]Checking the base repository state,6.7765866923832405,413649,False,
+##[group]Restore persisted git credentials,6.568583737671747,709696,True,##[error]The process '/usr/bin/git' failed with exit code 128
+##[group]==END_FILE==,1.801678660480348,5126325,False,

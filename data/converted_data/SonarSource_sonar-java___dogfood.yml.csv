@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 2.5712759947427344, , , , 5659928, False, 
+##[group]GITHUB_TOKEN Permissions, 45.20941203776835, , , , 4110544, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/SonarSource/gh-action_dogfood_merge/v1/Dockerfile'., 110.0748939821519, , , , 45356807, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/Ilshidur/action-slack/1.6.2/Dockerfile'., 87.62960738691494, , , , 33843043, False, 
+##[group]Run actions/github-script@d4560e157075e2d93aa3022b5b51a42a880f1f93, 2.945153541251119, , , , 160438, False, 
+##[group]Get Vault Secrets, 19.12372188554423, , , , 639028, True, ##[error]Response code 400 (Bad Request)
+##[group]Run SonarSource/gh-action_dogfood_merge@v1, 890.5631648157545, , , , 15625697, False, 
+##[group]Run Ilshidur/action-slack@1.6.2, 30.534143600613284, , , , 5625595, False, 

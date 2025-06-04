@@ -1,0 +1,9 @@
+##[group]Run ./gradlew build, 374.83187250015857, , , , 38492312, False, 
+##[group]GITHUB_TOKEN Permissions, 201.55122593047287, , , , 2064600, False, 
+##[group]Run ./gradlew closeAndReleaseRepository --no-daemon --no-parallel, 158.99230068817096, , , , 9043809, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew publish --no-daemon --no-parallel, 98.27840905176096, , , , 7413154, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 60.76619050441123, , , , 462714, False, 
+##[group]Run actions/checkout@v2, 27.97651345005072, , , , 202934, False, 
+##[group]Run actions/setup-java@v1, 16.24442716454558, , , , 123265, False, 
+##[group]Setting up auth, 14.439490812929405, , , , 68021, False, 
+##[group]==END_FILE==, 0.0, , , , 4292121, False, 

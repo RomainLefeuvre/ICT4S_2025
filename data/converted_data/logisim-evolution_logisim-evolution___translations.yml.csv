@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.2227980583707743, , , , 5359066, False, 
+##[group]GITHUB_TOKEN Permissions, 18.65849864209857, , , , 1887247, False, 
+##[group]Run actions/checkout@v4, 2.443202100883665, , , , 200219, False, 
+##[group]Cleaning the repository, 1.2736825300333223, , , , 167081, False, 
+##[group]Setting up auth, 1.294515121869919, , , , 73310, False, 
+##[group]Fetching the repository, 6.785064486898534, , , , 451275, False, 
+##[group]Change detection in last commit, 5.969698977270325, , , , 384710, False, 
+##[group]Run # Have no mercy., 99.5299527693208, , , , 17266642, False, 

@@ -1,0 +1,243 @@
+Requested labels: self-hosted, 3006.9082607731925, , , , 288290334, False, 
+##[group]==END_FILE==__dup_78, 2254.2167661092767, , , , 175358351, False, 
+##[group]==END_FILE==__dup_42, 1840.7716226099435, , , , 157355181, False, 
+##[group]==END_FILE==, 568.135693356186, , , , 94455894, False, 
+##[group]==END_FILE==__dup_96, 351.1221009257235, , , , 34160333, False, 
+##[group]Fetching the repository, 290.210809957191, , , , 55690586, False, 
+##[group]==END_FILE==__dup_132, 114.91486220669267, , , , 10694990, False, 
+##[group]==END_FILE==__dup_60, 98.02075099772426, , , , 14482398, False, 
+##[group]==END_FILE==__dup_224, 74.0242375196742, , , , 9816058, False, 
+##[group]Checking out the ref__dup_157, 68.180585843901, , , , 641971, False, 
+##[group]GITHUB_TOKEN Permissions__dup_115, 58.77837411186721, , , , 3816069, False, 
+##[group]Checking out the ref, 57.224840760805634, , , , 6653633, True, ##[error]Unable to process file command 'output' successfully.
+##[group]GITHUB_TOKEN Permissions__dup_205, 54.66408076080596, , , , 3205597, False, 
+##[group]GITHUB_TOKEN Permissions__dup_97, 54.26847069045861, , , , 3643868, False, 
+##[group]GITHUB_TOKEN Permissions__dup_79, 53.636861405903616, , , , 2935653, False, 
+##[group]GITHUB_TOKEN Permissions__dup_188, 50.87005518309795, , , , 2932343, False, 
+##[group]GITHUB_TOKEN Permissions__dup_170, 50.38152591697419, , , , 3088760, False, 
+##[group]GITHUB_TOKEN Permissions__dup_151, 50.04130536749396, , , , 3666791, False, 
+##[group]Cleaning the repository__dup_46, 45.19465006871796, , , , 581344, False, 
+##[group]GITHUB_TOKEN Permissions__dup_61, 44.06208679119492, , , , 3882066, False, 
+##[group]GITHUB_TOKEN Permissions__dup_22, 39.86575245941214, , , , 3109430, False, 
+##[group]Run actions/cache@v4__dup_31, 39.71033978213108, , , , 621613, False, 
+##[group]GITHUB_TOKEN Permissions, 32.2297476251237, , , , 3120281, False, 
+##[group]Fetching the repository__dup_138, 30.91851554609819, , , , 1654577, False, 
+##[group]GITHUB_TOKEN Permissions__dup_225, 30.223301396065224, , , , 3225963, False, 
+##[group]Run actions/upload-artifact@v4__dup_223, 28.051021042990804, , , , 965670, False, 
+##[group]Checking out the ref__dup_67, 26.968458216926827, , , , 596248, False, 
+##[group]Run actions/upload-artifact@v4__dup_77, 26.132870219117397, , , , 990861, False, 
+##[group]GITHUB_TOKEN Permissions__dup_133, 25.87708571247255, , , , 3118162, False, 
+##[group]Run actions/upload-artifact@v4__dup_41, 25.452736911200866, , , , 986399, False, 
+##[group]Run actions/upload-artifact@v4__dup_204, 25.193752018847395, , , , 994372, False, 
+##[group]Run actions/cache@v4__dup_123, 23.90849537331181, , , , 613729, False, 
+##[group]Run actions/upload-artifact@v4__dup_187, 23.01644924945304, , , , 973425, False, 
+##[group]Run actions/upload-artifact@v4__dup_169, 22.46061857560557, , , , 953614, False, 
+##[group]Run actions/upload-artifact@v4__dup_114, 22.41077673402785, , , , 983112, False, 
+##[group]Run actions/upload-artifact@v4__dup_150, 22.38770051166229, , , , 955504, False, 
+##[group]Run actions/upload-artifact@v4__dup_59, 21.978490339746436, , , , 997997, False, 
+##[group]Fetching the repository__dup_182, 21.49058810238484, , , , 1336402, False, 
+##[group]Run actions/cache@v4__dup_179, 20.42748290886135, , , , 625696, False, 
+##[group]Run actions/upload-artifact@v4, 19.79277751333963, , , , 949860, False, 
+##[group]Fetching the repository__dup_72, 19.25085477223424, , , , 1214527, False, 
+##[group]Run actions/download-artifact@v4__dup_92, 19.21629773468261, , , , 690020, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/cache@v4__dup_69, 19.205982706803447, , , , 628572, False, 
+##[group]Run actions/upload-artifact@v4__dup_131, 18.861948415857267, , , , 971644, False, 
+##[group]Fetching the repository__dup_120, 18.775083679618287, , , , 704478, False, 
+##[group]Fetching the repository__dup_27, 18.571168155262413, , , , 566131, False, 
+##[group]GITHUB_TOKEN Permissions__dup_43, 18.419161891294067, , , , 2955643, False, 
+##[group]Cleaning the repository__dup_191, 18.007189952926748, , , , 580215, False, 
+##[group]Run actions/cache@v4__dup_195, 17.96761099782272, , , , 616017, False, 
+##[group]Cleaning the repository__dup_154, 17.316128524467974, , , , 579247, False, 
+##[group]Fetching the repository__dup_89, 16.621000015991072, , , , 1319530, False, 
+##[group]Cleaning the repository, 16.50825123712335, , , , 589880, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_81, 16.282130551332063, , , , 178470, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_172, 15.88613795029586, , , , 180128, False, 
+##[group]Run actions/download-artifact@v4__dup_242, 15.774880870881946, , , , 639136, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Cleaning the repository__dup_208, 15.206738078616844, , , , 563109, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_63, 15.01317470387415, , , , 164236, False, 
+##[group]Run actions/download-artifact@v4__dup_166, 14.722264546465189, , , , 647665, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/cache@v4__dup_234, 14.612282412168629, , , , 634946, False, 
+##[group]Checking out the ref__dup_28, 14.443695688314008, , , , 448781, False, 
+##[group]Fetching the repository__dup_230, 14.389726434813674, , , , 623674, False, 
+##[group]Cleaning the repository__dup_64, 14.346481824265751, , , , 577626, False, 
+##[group]Run actions/download-artifact@v4__dup_202, 14.305513874205188, , , , 650162, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Removing previously created refs_ to avoid conflicts__dup_207, 14.275277426367223, , , , 210471, False, 
+##[group]Fetching the repository__dup_48, 14.19618638329822, , , , 596107, False, 
+##[group]Run actions/download-artifact@v4__dup_56, 14.134707254574606, , , , 636096, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Cleaning the repository__dup_136, 14.111280169993435, , , , 591958, False, 
+##[group]Fetching the repository__dup_210, 14.000871138617764, , , , 649216, False, 
+##[group]Run actions/download-artifact@v4__dup_111, 13.922127680809314, , , , 673806, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Setting up auth__dup_192, 13.796926297241924, , , , 89573, False, 
+##[group]Cleaning the repository__dup_228, 13.475687842229128, , , , 587175, False, 
+##[group]Checking out the ref__dup_194, 13.34783540219184, , , , 468760, False, 
+##[group]Checking out the ref__dup_211, 13.14515202167922, , , , 513183, False, 
+##[group]Run actions/download-artifact@v4__dup_147, 12.832203386133042, , , , 649520, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/upload-artifact@v4__dup_95, 12.747251124931292, , , , 935699, False, 
+##[group]Fetching the repository__dup_144, 12.626580077855143, , , , 1296313, False, 
+##[group]Fetching the repository__dup_35, 12.577181779762116, , , , 1774320, False, 
+##[group]Run actions/upload-artifact@v4__dup_243, 12.546865809469583, , , , 964663, False, 
+##[group]Cleaning the repository__dup_82, 12.52326807318645, , , , 586648, False, 
+##[group]Fetching the repository__dup_83, 12.464291617411718, , , , 612544, False, 
+##[group]Checking out the ref__dup_103, 12.40810851264244, , , , 458430, False, 
+##[group]Run # Convert platform name to upper case__dup_104, 12.390620590097914, , , , 39083, False, 
+##[group]Fetching the repository__dup_125, 12.201582521894863, , , , 995589, False, 
+##[group]Cleaning the repository__dup_100, 12.137415285900731, , , , 586735, False, 
+##[group]Fetching the repository__dup_175, 12.098540998332387, , , , 605265, False, 
+##[group]Run actions/download-artifact@v4__dup_167, 12.088748208072786, , , , 656135, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/download-artifact@v4__dup_74, 11.985503348458924, , , , 637905, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Cleaning the repository__dup_173, 11.6222702799253, , , , 583988, False, 
+##[group]Checking out the ref__dup_139, 11.572581573337764, , , , 554276, False, 
+##[group]Checking out the ref__dup_231, 11.54350631847843, , , , 621358, False, 
+##[group]Run actions/cache@v4__dup_141, 11.5395687029227, , , , 617297, False, 
+##[group]Fetching the repository__dup_53, 11.455627381904572, , , , 996871, False, 
+##[group]Run actions/cache@v4__dup_214, 11.455418352250032, , , , 619194, False, 
+##[group]Cleaning the repository__dup_118, 11.41720274789362, , , , 566045, False, 
+##[group]Run actions/checkout@v4__dup_44, 11.408148788100425, , , , 164539, False, 
+##[group]Run actions/download-artifact@v4, 11.294389973628457, , , , 672105, False, 
+##[group]Run actions/cache@v4__dup_86, 11.200986726428692, , , , 626109, False, 
+##[group]Run actions/checkout@v4__dup_23, 11.178826262985533, , , , 148903, False, 
+##[group]Run actions/download-artifact@v4__dup_201, 11.151993652045714, , , , 659843, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run # Convert platform name to upper case, 10.891912857706457, , , , 223507, False, 
+##[group]Setting up auth__dup_155, 10.868139710827284, , , , 144369, False, 
+##[group]Run actions/checkout@v4__dup_152, 10.84351999927625, , , , 146190, False, 
+##[group]Fetching the repository__dup_102, 10.833351209589596, , , , 623396, False, 
+##[group]Run actions/cache@v4__dup_106, 10.813660136844394, , , , 625560, False, 
+##[group]Run actions/checkout@v4__dup_189, 10.646781465460414, , , , 142870, False, 
+##[group]Run actions/download-artifact@v4__dup_241, 10.415042878070214, , , , 664283, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/download-artifact@v4__dup_18, 10.390372051117886, , , , 669210, False, 
+##[group]Fetching the repository__dup_156, 10.35798476189453, , , , 589050, False, 
+##[group]Fetching the repository__dup_217, 10.144258592716874, , , , 998658, False, 
+##[group]Checking out the ref__dup_121, 10.106959421290645, , , , 424721, False, 
+##[group]Fetching the repository__dup_66, 9.768415791693617, , , , 586890, False, 
+##[group]Run actions/download-artifact@v4__dup_75, 9.73027102682957, , , , 650857, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/cache@v4__dup_160, 9.711761897174384, , , , 623494, False, 
+##[group]Run actions/download-artifact@v4__dup_220, 9.517986923829184, , , , 656508, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/download-artifact@v4__dup_128, 9.255757002104476, , , , 658233, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Fetching the repository__dup_193, 9.234109714744186, , , , 708486, False, 
+##[group]Run actions/download-artifact@v4__dup_185, 9.115931712514104, , , , 671754, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Checking out the ref__dup_84, 9.07075876773251, , , , 431298, False, 
+##[group]Run actions/download-artifact@v4__dup_186, 9.0216798852919, , , , 653138, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Fetching the repository__dup_198, 8.790127408929878, , , , 917363, False, 
+##[group]Checking out the ref__dup_49, 8.75280843420047, , , , 497221, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_127, 8.723691016737394, , , , 238818, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run actions/download-artifact@v4__dup_112, 8.679852538414028, , , , 655381, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/download-artifact@v4__dup_148, 8.608149219706949, , , , 647129, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/download-artifact@v4__dup_93, 8.598632373276057, , , , 644708, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Checking out the ref__dup_176, 8.541964717295349, , , , 443776, False, 
+##[group]Run actions/download-artifact@v4__dup_39, 8.517545974277684, , , , 644048, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Setting up auth__dup_34, 8.290379058410947, , , , 81959, False, 
+##[group]Getting Git version info, 8.26551940371105, , , , 14497, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_184, 8.171498105976939, , , , 234719, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run actions/download-artifact@v4__dup_129, 8.16013747737191, , , , 665365, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_110, 7.960443969022603, , , , 242121, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64, 7.9483613228473695, , , , 281250, False, 
+##[group]Run actions/download-artifact@v4__dup_38, 7.8785090167486045, , , , 652724, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/download-artifact@v4__dup_57, 7.7507696777916, , , , 633360, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_200, 7.746506316931108, , , , 205527, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Fetching the repository__dup_238, 7.399934206843724, , , , 1019977, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_146, 7.34591119637269, , , , 209508, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_37, 7.275285395808098, , , , 307574, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run actions/cache@v4, 7.259235596170049, , , , 1489033, False, 
+##[group]Run actions/cache@v4__dup_50, 7.201922200535466, , , , 643182, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_91, 6.560885067570442, , , , 215823, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run # Extract value from configuration file, 6.422068322036356, , , , 316033, False, 
+##[group]Fetching the repository__dup_14, 6.002094507238483, , , , 934135, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_45, 5.963594658819653, , , , 157032, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_190, 5.730794283677432, , , , 178449, False, 
+##[group]Checking out the ref__dup_218, 5.650868935940843, , , , 89389, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_153, 5.631929704748845, , , , 226210, False, 
+##[group]Run actions/download-artifact@v4__dup_221, 5.46709430679103, , , , 649300, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Checking out the ref__dup_164, 5.289275666813463, , , , 94891, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.111061502090752, , , , 182238, False, 
+##[group]Run actions/checkout@v4__dup_134, 5.083490093957032, , , , 141056, False, 
+##[group]Run actions/checkout@v4__dup_206, 5.009259850984781, , , , 141687, False, 
+##[group]Run bash ./.github/scripts/gen-test-results.sh "$GITHUB_STEP_SUMMARY", 4.80399932446678, , , , 154181, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_227, 4.668793144984312, , , , 178866, False, 
+##[group]Run actions/checkout@v4__dup_226, 4.406436057018006, , , , 148185, False, 
+##[group]Checking out the ref__dup_15, 4.031002034834498, , , , 158920, True, ##[error]Process completed with exit code 2.
+##[group]Removing previously created refs_ to avoid conflicts__dup_99, 3.784409287540613, , , , 187320, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_117, 3.7768479144554985, , , , 188045, False, 
+##[group]Run actions/checkout@v4__dup_124, 3.7756784461527455, , , , 113154, False, 
+##[group]Setting up auth__dup_26, 3.1915406181548382, , , , 102165, False, 
+##[group]Fetching the repository__dup_163, 2.972798505935509, , , , 967731, False, 
+##[group]Run actions/checkout@v4__dup_32, 2.9148742406309958, , , , 115232, False, 
+##[group]Setting up auth__dup_137, 2.896294032681695, , , , 100459, False, 
+##[group]Setting up auth__dup_47, 2.889704931394044, , , , 101479, False, 
+##[group]Run actions/checkout@v4__dup_80, 2.875678890320466, , , , 143507, False, 
+##[group]Run actions/checkout@v4__dup_171, 2.8532415377843634, , , , 135070, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_165, 2.683152903068426, , , , 216929, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Removing previously created refs_ to avoid conflicts__dup_135, 2.6182480434385624, , , , 185045, False, 
+##[group]Setting up auth__dup_229, 2.5871921759693848, , , , 95532, False, 
+##[group]Run actions/checkout@v4__dup_62, 2.5494703879156284, , , , 159654, False, 
+##[group]Setting up auth__dup_65, 2.50305108224738, , , , 114468, False, 
+##[group]Run # Extract value from configuration file__dup_105, 2.415045699889442, , , , 63975, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run # Extract value from configuration file__dup_30, 2.398208616610765, , , , 59057, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run make test-prebuilt TEST='test/hotspot/jtreg/:tier1_compiler_1' BOOT_JDK= JT_HOME= JDK_IMAGE_DIR= SYMBOLS_IMAGE_DIR= TEST_IMAGE_DIR= JTREG='JAVA_OPTIONS=-XX:-CreateCoredumpOnCrash;VERBOSE=fail_error_time;KEYWORDS=!headful' && bash ./.github/scripts/gen-test-summary.sh "$GITHUB_STEP_SUMMARY" "$GITHUB_OUTPUT", 2.3344426571946166, , , , 222266, False, 
+##[group]Setting up auth__dup_119, 2.333240257503337, , , , 105124, False, 
+##[group]Run actions/checkout@v4, 2.2972866796991864, , , , 137230, False, 
+##[group]Setting up auth__dup_209, 2.2851014606737925, , , , 102787, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_219, 2.234418465687697, , , , 206880, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run ./.github/actions/get-jtreg__dup_233, 2.186200218162695, , , , 9343, False, 
+##[group]Setting up auth__dup_174, 2.1822861069406008, , , , 94864, False, 
+##[group]Run # Convert platform name to upper case__dup_29, 2.1731666559830254, , , , 36434, False, 
+##[group]Run # Extract value from configuration file__dup_178, 2.169909838012306, , , , 65347, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run # Extract value from configuration file__dup_85, 2.160973827129568, , , , 51827, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run # Extract value from configuration file__dup_10, 2.153813061109428, , , , 7279, False, 
+##[group]Run # Convert platform name to upper case__dup_177, 2.150875873330035, , , , 38952, False, 
+##[group]Run # Extract value from configuration file__dup_68, 2.142833531955593, , , , 43664, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run # Convert platform name to upper case__dup_122, 2.1304259888969272, , , , 34916, False, 
+##[group]Setting up auth__dup_101, 2.114391080365993, , , , 103170, False, 
+##[group]Run # Package test-results and relevant parts of test-support__dup_203, 2.094481717815654, , , , 14097, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_73, 2.0370828461567, , , , 207363, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run make test-prebuilt TEST='test/hotspot/jtreg/:tier1_compiler_2' BOOT_JDK= JT_HOME= JDK_IMAGE_DIR= SYMBOLS_IMAGE_DIR= TEST_IMAGE_DIR= JTREG='JAVA_OPTIONS=-XX:-CreateCoredumpOnCrash;VERBOSE=fail_error_time;KEYWORDS=!headful' && bash ./.github/scripts/gen-test-summary.sh "$GITHUB_STEP_SUMMARY" "$GITHUB_OUTPUT", 1.9686435997545255, , , , 21701, True, ##[error]Process completed with exit code 2.
+##[group]Run # Convert platform name to upper case__dup_158, 1.9423789556256648, , , , 37828, False, 
+##[group]Run actions/checkout@v4__dup_87, 1.914300115337568, , , , 111786, False, 
+##[group]Run actions/checkout@v4__dup_142, 1.911273594567883, , , , 114657, False, 
+##[group]Run # Convert platform name to upper case__dup_212, 1.8859474750329257, , , , 42807, False, 
+##[group]Run actions/checkout@v4__dup_98, 1.852995272606362, , , , 146796, False, 
+##[group]Setting up auth__dup_143, 1.8121135580637189, , , , 56918, False, 
+##[group]Setting up auth__dup_88, 1.805667705354844, , , , 57974, False, 
+##[group]Run # Extract value from configuration file__dup_213, 1.8000052502338633, , , , 67645, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Initializing the repository__dup_52, 1.7943370605230136, , , , 8054, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_55, 1.790143499113787, , , , 206664, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run actions/checkout@v4__dup_180, 1.763331582557756, , , , 113918, False, 
+##[group]Run actions/checkout@v4__dup_116, 1.7567517597774245, , , , 135320, False, 
+##[group]Run # We need a minimal PATH on Windows, 1.7515716684558924, , , , 5569, False, 
+##[group]Run actions/checkout@v4__dup_107, 1.7458720613718557, , , , 113990, False, 
+##[group]Run # Package test-results and relevant parts of test-support__dup_58, 1.7396552330502375, , , , 13536, False, 
+##[group]Setting up auth__dup_197, 1.7302220505322623, , , , 57161, False, 
+##[group]Setting up auth__dup_181, 1.7252691719452002, , , , 61816, False, 
+##[group]Checking out the ref__dup_36, 1.7193135361541727, , , , 105128, False, 
+##[group]Run ./.github/actions/get-jtreg, 1.7045284989600358, , , , 6874, False, 
+##[group]Run actions/checkout@v4__dup_196, 1.7024186192785489, , , , 114072, False, 
+##[group]Run bash ./.github/scripts/gen-test-results.sh "$GITHUB_STEP_SUMMARY"__dup_149, 1.6926035216365083, , , , 11689, False, 
+##[group]Run # Extract value from configuration file__dup_232, 1.6878366983827988, , , , 62297, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Run actions/checkout@v4__dup_215, 1.6844172030693454, , , , 113736, False, 
+##[group]Run actions/checkout@v4__dup_51, 1.6763528537177066, , , , 115408, False, 
+##[group]Initializing the repository, 1.6580758116821894, , , , 7936, False, 
+##[group]Run actions/checkout@v4__dup_235, 1.6531038807422098, , , , 116769, False, 
+##[group]Run # Package test-results and relevant parts of test-support, 1.607683120612238, , , , 12102, False, 
+##[group]Setting up auth__dup_71, 1.6065837972855388, , , , 57459, False, 
+##[group]Checking out the ref__dup_199, 1.5701736852261972, , , , 90546, False, 
+##[group]Setting up auth__dup_237, 1.5686746937054123, , , , 140492, False, 
+##[group]Setting up auth__dup_216, 1.53275058622418, , , , 57726, False, 
+##[group]Determining the checkout info, 1.515720855838779, , , , 11149, False, 
+##[group]Run make test-prebuilt TEST='test/jdk/:tier1_part1' BOOT_JDK= JT_HOME= JDK_IMAGE_DIR= SYMBOLS_IMAGE_DIR= TEST_IMAGE_DIR= JTREG='JAVA_OPTIONS=-XX:-CreateCoredumpOnCrash;VERBOSE=fail_error_time;KEYWORDS=!headful' && bash ./.github/scripts/gen-test-summary.sh "$GITHUB_STEP_SUMMARY" "$GITHUB_OUTPUT", 1.5025793181015388, , , , 23200, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v4__dup_70, 1.48316576412784, , , , 114811, False, 
+##[group]Checking out the ref__dup_183, 1.475076961272478, , , , 90307, False, 
+##[group]Run bash ./.github/scripts/gen-test-results.sh "$GITHUB_STEP_SUMMARY"__dup_222, 1.4699255972002463, , , , 13627, False, 
+##[group]Run # Extract value from configuration file__dup_140, 1.3254867807180093, , , , 48308, True, ##[error]Unable to process file command 'output' successfully.
+##[group]Checking out the ref__dup_109, 1.309712672086539, , , , 88194, False, 
+##[group]Checking out the ref__dup_90, 1.303712742561822, , , , 89104, False, 
+##[group]Checking out the ref__dup_145, 1.2420463636007766, , , , 90176, False, 
+##[group]Run make test-prebuilt TEST='test/hotspot/jtreg/:tier1_compiler_3' BOOT_JDK= JT_HOME= JDK_IMAGE_DIR= SYMBOLS_IMAGE_DIR= TEST_IMAGE_DIR= JTREG='JAVA_OPTIONS=-XX:-CreateCoredumpOnCrash;VERBOSE=fail_error_time;KEYWORDS=!headful' && bash ./.github/scripts/gen-test-summary.sh "$GITHUB_STEP_SUMMARY" "$GITHUB_OUTPUT", 1.197429112159347, , , , 24080, True, ##[error]Process completed with exit code 2.
+##[group]Setting up auth, 1.1579839737027184, , , , 57004, False, 
+##[group]Run # If runner architecture is x64 set JAVA_HOME_17_X64 otherwise set to JAVA_HOME_17_arm64__dup_240, 1.1328950496921988, , , , 202162, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Run bash ./.github/scripts/gen-test-results.sh "$GITHUB_STEP_SUMMARY"__dup_130, 1.098964151595082, , , , 13298, False, 
+##[group]Run actions/checkout@v4__dup_161, 1.0702606145183595, , , , 114519, False, 
+##[group]Setting up auth__dup_162, 0.9909771289631498, , , , 57885, False, 
+##[group]Fetching the repository__dup_108, 0.9010409260730626, , , , 1039864, False, 
+##[group]Checking out the ref__dup_54, 0.7220940002906371, , , , 90797, False, 
+##[group]Setting up auth__dup_13, 0.5739810988301327, , , , 56978, True, ##[error]Unable to download artifact(s): Artifact not found for name: bundles-
+##[group]Run actions/checkout@v4__dup_12, 0.4695747983938722, , , , 106478, True, [build.sh][ERROR] None of JAVA_HOME, JDK_ARCHIVE_URL or JDK_ARCHIVE_URL_BASE are set
+##[group]Checking out the ref__dup_239, 0.4606413151675736, , , , 89889, False, 

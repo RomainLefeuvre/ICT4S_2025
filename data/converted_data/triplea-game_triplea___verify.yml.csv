@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.5292986000522522, , , , 4485728, False, 
+##[group]GITHUB_TOKEN Permissions, 53.63277405831003, , , , 2416069, False, 
+##[group]Run actions/checkout@v4, 2.9634275138799224, , , , 136802, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.021864410419031, , , , 28567, False, 
+##[group]Setting up auth, 3.08030130695814, , , , 76546, False, 
+##[group]Fetching the repository, 12.905574193223648, , , , 427738, False, 
+##[group]Checking out the ref, 3.372485789653683, , , , 30155, False, 
+##[group]Run ./verify --exclude-task spotlessApply, 26.47080845799211, , , , 638027, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.4-all/56r6xik2f6skrm47et0ibifug/gradle-8.4-all.zip.lck

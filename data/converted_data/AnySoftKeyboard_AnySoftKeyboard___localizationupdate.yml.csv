@@ -1,0 +1,14 @@
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/crowdin/github-action/v1.20.2/Dockerfile'., 58.96443829650492, , , , 16821530, False, 
+##[group]Clean up resources from previous jobs, 0.9577654418571722, , , , 31721, False, 
+##[group]Starting job container, 0.2892376726992224, , , , 3402468, False, 
+##[group]Run actions/checkout@v4.1.1, 0.608790628421735, , , , 305258, True, ##[error]Input required and not supplied: token
+##[group]Run crowdin/github-action@v1.20.2, 3.607360706458224, , , , 5070298, False, 
+##[group]Run crowdin/github-action@v1.20.2__dup_6, 8.448455305185021, , , , 2839406, False, 
+##[group]Run ./gradlew :ime:app:generateForceLocaleArrayResourceFile, 2178.9694839074373, , , , 130130983, False, 
+> Task :buildSrc:processResources, 166.1141016482614, , , , 7196425, False, 
+> Task :buildSrc:compileKotlin, 155.0206672256611, , , , 6402067, False, 
+> Task :buildSrc:compileJava, 390.3397615507235, , , , 23098001, False, 
+> Task :buildSrc:jar, 884.8663844515626, , , , 43001656, False, 
+> Task :ime:app:generateForceLocaleArrayResourceFile, 0.0225160687139846, , , , 198130, False, 
+##[group]Run echo "fixing ellipsis character...", 0.1898464317297877, , , , 678866, False, 
+##[group]Run peter-evans/create-pull-request@v6.0.4, 27.46587949414801, , , , 6121413, True, ##[error]Input 'token' not supplied. Unable to continue.

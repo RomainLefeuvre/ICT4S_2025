@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+##[group]Extracting javascript,128.44563704048193,9449199,True,[2024-04-11 00:48:31] [ERROR] Spawned process exited abnormally (code 1; tried to run: [/home/power/actions-runner/_work/_tool/CodeQL/2.17.0/x64/codeql/javascript/tools/autobuild.sh])
+##[group]Augmented user configuration file contents,77.91262356954056,6102721,False,
+##[group]Load language configuration,76.98612822263341,2472780,False,
+##[group]GITHUB_TOKEN Permissions,38.52308447277761,11971359,False,
+##[group]Run github/codeql-action/analyze@v2,33.956632254327175,1651718,False,
+##[group]Waiting for processing to finish,25.8043257386483,6748701,False,
+##[group]Run ./gradlew build -x test,20.60207574940881,2009398,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.5-all/3zlzzgtsutfj0pbojr50n2l7z/gradle-8.5-all.zip.lck"
+##[group]Run github/codeql-action/init@v2,9.692716544501328,425582,False,
+##[group]Checking out the ref,9.035570794193008,668382,False,
+##[group]Validating workflow,7.584825791297764,556919,False,
+##[group]Uploading results,7.446020809831951,468766,False,
+##[group]Setup CodeQL tools,7.314171330963667,3861924,False,
+##[group]Run actions/checkout@v3,5.766842697153343,163215,False,
+##[group]Fetching the repository,3.531857120722288,4022748,False,
+##[group]Installed distributions,3.048487449098702,28922,False,
+##[group]Setting up auth,2.7748898472533465,68026,False,
+Requested labels: self-hosted,0.0,5497046,False,

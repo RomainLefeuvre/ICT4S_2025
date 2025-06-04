@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,22757.717803564337,1326602028,False,
+##[group]GITHUB_TOKEN Permissions,27.254512024552387,1924237,False,
+##[group]Cleaning the repository,12.138550756131384,447278,False,
+##[group]Fetching the repository,9.88743721633428,457386,False,
+##[group]Commit Changes Feature,9.730085754084923,244715,True,##[error]The process '/usr/bin/git' failed with exit code 5
+##[group]Run actions/checkout@v3,9.664177154985502,177751,False,
+##[group]Setting up auth,2.337665609634393,106982,False,

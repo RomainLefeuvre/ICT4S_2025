@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --show-version --batch-mode --no-transfer-progress test jacoco:report,937.3220185304936,22935901,True,[ERROR] Failed to execute goal org.apache.rat:apache-rat-plugin:0.16.1:check (rat-check) on project commons-io: Too many files with unapproved license: 4 See RAT report in: /home/power/actions-runner/_work/commons-io/commons-io/target/rat.txt -> [Help 1]
+##[group]Run codecov/codecov-action@c16abc29c95fcf9174b58eb7e1abf4c866893bc8,93.41877516489896,7877023,False,
+##[group]GITHUB_TOKEN Permissions,90.72471426013816,4005759,False,
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce-maven-version) @ commons-io ---,80.1586690786789,793658,False,
+Requested labels: self-hosted,33.37127777305315,6014019,False,
+##[group]Run actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9,19.89888933111396,1934621,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,17.05404267830335,536760,False,
+##[group]Fetching the repository,8.069853968998352,969124,False,
+##[group]Installed distributions,5.803279327003253,37384,False,
+##[group]Getting Git version info,3.2311247614745704,20724,False,
+##[group]Setting up auth,3.05144098728847,120090,False,
+##[group]Removing auth,2.9120558930727256,69377,False,

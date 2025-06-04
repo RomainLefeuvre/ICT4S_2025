@@ -1,0 +1,3 @@
+##[group]GITHUB_TOKEN Permissions, 54.91685792064778, , , , 2307647, False, 
+##[group]Run beemojs/conventional-pr-action@v2, 21.43193305580516, , , , 248178, True, ##[error]Action may only be ran in the context of a pull request.
+Requested labels: self-hosted, 11.66657794329844, , , , 5563851, False, 

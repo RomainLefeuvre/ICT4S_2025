@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 42.17474813252449, , , , 1980426, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 7.9074844252076115, , , , 153256, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.81957355832473, , , , 12163, False, 
+##[group]Setting up auth, 7.731662691441849, , , , 57884, False, 
+##[group]Fetching the repository, 30.04754209693859, , , , 440549, False, 
+##[group]Run gradle/wrapper-validation-action@b231772637bb498f11fdbc86052b6e8a8dc9fc92, 28.64096822681249, , , , 373059, False, 

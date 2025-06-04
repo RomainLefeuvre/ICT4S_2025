@@ -1,0 +1,75 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_4,1897.0492418214783,268361038,False,
+Requested labels: self-hosted__dup_3,1044.70557574772,173254790,False,
+##[group]Run actions/cache@v3__dup_48,495.6754002702395,66383615,False,
+##[group]Run actions/cache@v3__dup_66,432.3859156693158,63997147,False,
+##[group]Run actions/cache@v3__dup_31,424.4128175315845,70628991,False,
+Requested labels: self-hosted__dup_2,289.3009594972542,68887610,False,
+##[group]Run # Install dependencies using apt-get__dup_35,136.83133735393884,10551461,True,##[error]Process completed with exit code 100.
+##[group]Run # Install dependencies using apt-get__dup_52,111.58733106234244,7712152,True,##[error]Process completed with exit code 100.
+##[group]Run # Install dependencies using apt-get__dup_70,108.77088441606207,7749402,True,##[error]Process completed with exit code 100.
+##[group]Run # Install dependencies using apt-get,75.78604142925153,26148840,True,##[error]Process completed with exit code 100.
+##[group]Run # Check for failure marker file,70.79582417608222,9679809,True,##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions,60.83546901721915,3031753,False,
+##[group]GITHUB_TOKEN Permissions__dup_57,51.32523574347134,3518581,False,
+##[group]Cleaning the repository,50.05216974573615,633336,False,
+##[group]GITHUB_TOKEN Permissions__dup_40,40.84130477033895,2438865,False,
+##[group]Fetching the repository,34.218964674770106,602879,False,
+##[group]Run # Download BootJDK and verify checksum,30.28684216682685,5140226,False,
+##[group]Fetching the repository__dup_45,29.827216002067686,628980,False,
+"##[group]Run bash configure --with-conf-name=linux-s390x --with-version-opt=${GITHUB_ACTOR}-${GITHUB_SHA} --with-boot-jdk=/home/power/actions-runner/_work/corretto-11/corretto-11/bootjdk/jdk --with-zlib=system --enable-debug --disable-precompiled-headers --openjdk-target=s390x-linux-gnu --with-sysroot=sysroot --with-build-jdk= CC=s390x-linux-gnu-gcc- CXX=s390x-linux-gnu-g++-   || ( echo ""Dumping config.log:"" && cat config.log && exit 1)",21.362445800657003,770987,True,##[error]Process completed with exit code 1.
+##[group]Run # Check for failure marker file__dup_56,20.332239610999757,723248,True,##[error]Process completed with exit code 2.
+"##[group]Run bash configure --with-conf-name=linux-arm --with-version-opt=${GITHUB_ACTOR}-${GITHUB_SHA} --with-boot-jdk=/home/power/actions-runner/_work/corretto-11/corretto-11/bootjdk/jdk --with-zlib=system --enable-debug --disable-precompiled-headers --openjdk-target=arm-linux-gnueabihf --with-sysroot=sysroot --with-build-jdk= CC=arm-linux-gnueabihf-gcc- CXX=arm-linux-gnueabihf-g++-   || ( echo ""Dumping config.log:"" && cat config.log && exit 1)",17.156169120364005,789149,True,##[error]Process completed with exit code 1.
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_72,16.609225285119045,580267,True,##[error]Process completed with exit code 1.
+##[group]Run # Check for failure marker file__dup_39,16.6022243972505,747525,True,##[error]Process completed with exit code 2.
+##[group]Removing previously created refs_ to avoid conflicts,16.037198948811074,191063,False,
+##[group]Run actions/cache@v3,15.695455112552626,589714,False,
+##[group]GITHUB_TOKEN Permissions__dup_23,14.556374067265946,2663563,False,
+##[group]Run actions/download-artifact@v3,14.419671805679451,492506,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_37,13.990975615720714,585416,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v3__dup_17,13.927616190543882,496771,True,##[error]Unable to find any artifacts for the associated workflow
+"##[group]Run bash configure --with-conf-name=linux-aarch64 --with-version-opt=${GITHUB_ACTOR}-${GITHUB_SHA} --with-boot-jdk=/home/power/actions-runner/_work/corretto-11/corretto-11/bootjdk/jdk --with-zlib=system --enable-debug --disable-precompiled-headers --openjdk-target=aarch64-linux-gnu --with-sysroot=sysroot --with-build-jdk= CC=aarch64-linux-gnu-gcc- CXX=aarch64-linux-gnu-g++-   || ( echo ""Dumping config.log:"" && cat config.log && exit 1)",13.793636358022484,765104,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts__dup_42,12.94468985663826,189672,False,
+##[group]Run sudo apt-get install debootstrap qemu-user-static,12.53928506773867,857580,True,##[error]Process completed with exit code 1.
+##[group]Cleaning the repository__dup_43,12.303915469633562,632324,False,
+##[group]Cleaning the repository__dup_60,12.233169652093316,644440,False,
+##[group]Checking out the ref__dup_64,12.013827714635063,302783,False,
+##[group]Run # Check for failure marker file__dup_74,11.17352974038968,714179,True,##[error]Process completed with exit code 2.
+##[group]Fetching the repository__dup_28,10.788462435526778,576264,False,
+##[group]Run # Export the absolute path__dup_32,10.480001433330289,550478,False,
+##[group]Run actions/cache@v3__dup_71,10.377229718473062,573900,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_25,10.3416465309386,616123,False,
+##[group]Fetching the repository__dup_62,10.30844414633174,601765,False,
+##[group]Run sudo apt-get install debootstrap qemu-user-static__dup_54,10.121817761395189,576761,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref,9.862695761405243,270320,False,
+##[group]Run # Extract value from configuration file__dup_30,9.113557383370726,32550,False,
+##[group]Cleaning the repository__dup_26,8.809250038774655,784205,False,
+##[group]Run actions/cache@v3__dup_53,8.742361500893633,566211,False,
+##[group]Run actions/download-artifact@v3__dup_33,8.385453247876407,488724,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/cache@v3__dup_19,8.365852278997313,617797,False,
+##[group]Run actions/checkout@v4,8.308029311315186,140722,False,
+##[group]Run actions/cache@v3__dup_36,8.13681397917246,569867,False,
+##[group]Run # Extract value from configuration file__dup_65,7.5657940511935236,25038,False,
+##[group]Run actions/download-artifact@v3__dup_34,7.463167137153376,486943,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/download-artifact@v3__dup_68,7.269277768072713,496860,True,##[error]Unable to find any artifacts for the associated workflow
+"##[group]Run bash configure --with-conf-name=linux-ppc64le --with-version-opt=${GITHUB_ACTOR}-${GITHUB_SHA} --with-boot-jdk=/home/power/actions-runner/_work/corretto-11/corretto-11/bootjdk/jdk --with-zlib=system --enable-debug --disable-precompiled-headers --openjdk-target=powerpc64le-linux-gnu --with-sysroot=sysroot --with-build-jdk= CC=powerpc64le-linux-gnu-gcc- CXX=powerpc64le-linux-gnu-g++-   || ( echo ""Dumping config.log:"" && cat config.log && exit 1)",7.121619075089913,847958,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v3__dup_69,6.76713313175514,477925,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run actions/download-artifact@v3__dup_50,6.737500306478924,493760,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Run # Export the absolute path__dup_49,6.457419288603262,210026,False,
+##[group]Run actions/download-artifact@v3__dup_51,6.402341905510141,485548,True,##[error]Unable to find any artifacts for the associated workflow
+##[group]Setting up auth,6.378497065250864,97760,False,
+##[group]Run # Export the absolute path,5.503357032544592,190149,False,
+##[group]Checking out the ref__dup_29,5.433356447782884,313252,False,
+##[group]Checking out the ref__dup_46,5.109442407679291,348587,False,
+##[group]Run actions/checkout@v4__dup_41,5.082811940739068,135935,False,
+##[group]Run # Export the absolute path__dup_67,4.288517247228017,203610,False,
+##[group]Setting up auth__dup_44,3.996011603404586,101323,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_59,3.9361781233231534,204934,False,
+##[group]Run # Extract value from configuration file,3.6771519207608137,42959,False,
+##[group]Determining the checkout info,2.345919423983569,163,False,
+##[group]Setting up auth__dup_61,2.215666869727274,110730,False,
+##[group]Run # Extract value from configuration file__dup_47,1.895851768884821,29749,False,
+##[group]Run actions/checkout@v4__dup_58,1.8375768247278268,139221,False,
+##[group]Setting up auth__dup_27,1.7879334944345944,93549,False,
+##[group]Run actions/checkout@v4__dup_24,1.685365502557935,143875,False,
+Requested labels: self-hosted,0.0,5291681,False,

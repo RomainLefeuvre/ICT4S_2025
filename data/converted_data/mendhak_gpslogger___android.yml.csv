@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 8.329792112315577, , , , 6137318, False, 
+##[group]GITHUB_TOKEN Permissions, 6.458880589056664, , , , 2125081, False, 
+##[group]Run actions/checkout@v1, 55.88582418483338, , , , 4556116, False, 
+##[group]Installed distributions, 2.3223900092932794, , , , 204021, False, 
+##[group]Run ./gradlew assembleDebugUnitTest -Dpre-dex=false, 319.2975683411807, , , , 36491275, False, 
+##[group]Run ./gradlew testDebugUnitTest -Dpre-dex=false -q, 42.80271399025725, , , , 1549979, True, ##[error]Process completed with exit code 1.

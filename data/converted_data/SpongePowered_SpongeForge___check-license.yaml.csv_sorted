@@ -1,0 +1,11 @@
+##[group]Run actions/setup-java@v1, 112.83722110024036, , , , 18439902, False, 
+##[group]Fetching submodules, 49.26786431170347, , , , 9166449, False, 
+##[group]GITHUB_TOKEN Permissions, 9.51787435707819, , , , 2735945, False, 
+##[group]Fetching the repository, 8.432811974095522, , , , 805618, False, 
+##[group]Run actions/cache@v2, 7.993541611456405, , , , 1256272, False, 
+##[group]Run ./gradlew checkLicenses, 4.878118326093374, , , , 2785167, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-4.10.3-all/81msde2dx9p4vji0mjgtvxkcb/gradle-4.10.3-all.zip.lck
+Requested labels: self-hosted, 2.707633185713008, , , , 5660824, False, 
+##[group]Run actions/checkout@v2, 2.561255460005853, , , , 183674, False, 
+##[group]Setting up auth, 1.22399617169268, , , , 63548, False, 
+##[group]Checking out the ref, 0.8842068218312007, , , , 82331, False, 
+##[group]Persisting credentials for submodules, 0.545144897985067, , , , 156244, False, 

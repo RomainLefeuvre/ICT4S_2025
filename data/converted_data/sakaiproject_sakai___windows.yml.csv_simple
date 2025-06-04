@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,2763.536242805624,72696673,False,
+##[group]Run mvn --show-version --batch-mode -PskipBrokenTests test,849.6550940191248,41580515,True,"28776 [ERROR] Tests run: 15, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.94 s <<< FAILURE! - in org.sakaiproject.modi.EnvironmentTest"
+##[group]GITHUB_TOKEN Permissions,227.79774594108773,6115634,False,
+##[group]Checking out the ref,73.83845030466627,1938204,False,
+##[group]Installed distributions,62.16299011289061,4141871,False,
+15220 [INFO] --- compiler:3.11.0:compile (default-compile) @ sakai-component-manager ---,61.35512349329615,2623622,False,
+17853 [INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ sakai-component-manager ---,36.44346934745026,778036,False,
+13219 [INFO] --- enforcer:3.3.0:enforce (enforce-banned-dependencies) @ kernel ---,27.820567026043243,1693356,False,
+12269 [INFO] --- enforcer:3.3.0:enforce (enforce-maven) @ master ---,27.793748922824637,907989,False,
+14943 [INFO] --- resources:3.3.1:resources (default-resources) @ sakai-component-manager ---,10.052661786649228,278578,False,
+Requested labels: self-hosted,7.612591422517043,5419138,False,
+##[group]Run actions/checkout@v4,3.1734205482274747,225897,False,
+14924 [INFO] --- enforcer:3.3.0:enforce (enforce-banned-dependencies) @ sakai-component-manager ---,2.0105323573298457,19254,False,
+##[group]Setting up auth,1.5073767716564377,78157,False,

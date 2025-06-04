@@ -1,0 +1,8 @@
+##[group]Run java -jar backport-bot-0.0.1-SNAPSHOT.jar --github.accessToken="$GITHUB_TOKEN" --github.event_name "$GITHUB_EVENT_NAME" --github.event "$GITHUB_EVENT", 6.980382732928897, , , , 3704631, True, ##[error]Process completed with exit code 1.
+##[group]Run wget https://github.com/spring-io/backport-bot/releases/download/latest/backport-bot-0.0.1-SNAPSHOT.jar, 2.167571406429904, , , , 1533312, False, 
+##[group]GITHUB_TOKEN Permissions, 1.3908583191258554, , , , 2026011, False, 
+##[group]Fetching the repository, 0.8268883513417782, , , , 879433, False, 
+##[group]Run actions/checkout@v3, 0.1826379610973345, , , , 148875, False, 
+##[group]Checking out the ref, 0.1123925914445135, , , , 61655, False, 
+##[group]Setting up auth, 0.094329496390931, , , , 87229, False, 
+Requested labels: self-hosted, 0.0, , , , 4718263, False, 

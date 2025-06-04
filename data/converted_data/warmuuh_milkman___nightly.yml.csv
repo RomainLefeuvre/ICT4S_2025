@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.0551632090378951, , , , 5594261, False, 
+##[group]GITHUB_TOKEN Permissions, 9.411951495240082, , , , 4015782, False, 
+##[group]Run actions/checkout@v2, 3.681966125077597, , , , 187471, False, 
+##[group]Disabling automatic garbage collection, 1.8350677430374815, , , , 5777, False, 
+##[group]Fetching the repository, 23.49701794307404, , , , 1273903, False, 
+##[group]Checking out the ref, 1.7798580943585245, , , , 96306, False, 
+##[group]Run actions/cache@v1, 1.764083909021679, , , , 63741, False, 
+##[group]Run actions/cache@v1__dup_8, 1.7522532700190456, , , , 61331, False, 
+##[group]Run actions/setup-java@v2, 163.38606688831211, , , , 24224291, False, 
+##[group]Run whelk-io/maven-settings-xml-action@v4, 0.7920697119455916, , , , 78337, False, 
+##[group]Run ./mvnw.cmd -B package -DexcludedGroups=ui, 1.0713041750498558, , , , 18603, True, ##[error]Process completed with exit code 126.
+##[group]Run ./mvnw.cmd --% -B de.jutzig:github-release-plugin:release@deploy-nightly -pl milkman-dist, 13.349155440202226, , , , 1358620, True, ##[error]Process completed with exit code 126.

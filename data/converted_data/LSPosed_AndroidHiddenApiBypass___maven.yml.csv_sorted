@@ -1,0 +1,9 @@
+##[group]Run ./gradlew publish, 989.1437968024004, , , , 73173108, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 153.5136479016489, , , , 2116793, False, 
+##[group]Fetching the repository, 121.44320840145802, , , , 997674, False, 
+##[group]Persisting credentials for submodules, 13.677099198610808, , , , 112202, False, 
+##[group]Fetching submodules, 13.441287143462343, , , , 85107, False, 
+##[group]Setting up auth, 10.84735453682926, , , , 62238, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 10.611542481680798, , , , 9197, False, 
+##[group]Run actions/checkout@v3, 10.375730426532336, , , , 175740, False, 
+##[group]==END_FILE==, 0.0, , , , 4541836, False, 

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,31.58064371091916,4651830,False,
+##[group]Run cd docs/mirror,15.502770084851454,3703372,False,
+##[group]Fetching the repository,14.158459588868354,3223343,False,
+##[group]GITHUB_TOKEN Permissions,11.83001112892393,1897884,False,
+##[group]Run actions/checkout@v4,5.346714844994901,165202,False,
+##[group]Setting up auth,2.701298804016784,62444,False,
+##[group]Removing auth,1.744014763327889,65775,False,
+##[group]Run export CHANGES=$(git status -s),0.5306448525658528,279135,False,

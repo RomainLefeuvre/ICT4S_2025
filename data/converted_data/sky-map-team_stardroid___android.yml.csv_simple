@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew build testGmsDebugUnitTest,964.4312956397893,63673562,True,##[error]Process completed with exit code 1.
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/asadmansr/android-test-report-action/v1.2.0/Dockerfile'.,85.91713799824244,49555199,False,
+##[group]Run asadmansr/android-test-report-action@v1.2.0,39.46165214557024,8200808,False,
+Requested labels: self-hosted,39.00809926197025,19755742,False,
+##[group]GITHUB_TOKEN Permissions,27.4227075116082,2874391,False,
+##[group]Fetching the repository,10.243865380717349,420613,False,
+##[group]Removing previously created refs_ to avoid conflicts,7.336647569135182,110120,False,
+##[group]Run actions/setup-java@v1,3.2569170560398915,120968,False,
+##[group]Checking out the ref,3.058073995794018,23060,False,
+##[group]Run actions/checkout@v2,2.6745972248489407,184259,False,
+##[group]Setting up auth,2.0638586945646544,85661,False,
+##[group]Disabling automatic garbage collection,1.8650156343187816,91577,False,

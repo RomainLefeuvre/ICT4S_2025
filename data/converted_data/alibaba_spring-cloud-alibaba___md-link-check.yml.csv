@@ -1,0 +1,5 @@
+##[group]Fetching the repository, 149.16855250632312, , , , 3950985, False, 
+##[group]Checking out the ref, 4.330090818742223, , , , 205682, False, 
+##[group]Run wget https://raw.githubusercontent.com/xuruidong/markdown-link-checker/main/link_checker.py, 9.94517552131297, , , , 462539, False, 
+##[group]Installed versions, 3.4248949638984185, , , , 142628, False, 
+##[group]Run # python link_checker.py ./ --enable-external --ignore "http://apisix.iresty.com" "https://www.upyun.com" "https://github.com/apache/apisix/actions/workflows/build.yml/badge.svg" "https://httpbin.org/" "https://en.wikipedia.org/wiki/Cache", 19.27490825742786, , , , 1487126, False, 

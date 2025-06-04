@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 8.879594708150186, , , , 4863993, False, 
+##[group]GITHUB_TOKEN Permissions, 18.43332618068873, , , , 1521191, False, 
+##[group]Run actions/checkout@8ade135a41bc03ea155e62e844d188df1ea18608, 13.238589855258592, , , , 145804, False, 
+##[group]Setting up auth, 7.59683815812648, , , , 55407, False, 
+##[group]Fetching the repository, 68.26680873449067, , , , 6010637, False, 
+##[group]Checking out the ref, 5.840416263572169, , , , 966031, False, 
+##[group]Run sudo apt-get update -y && \\, 4.995764074020272, , , , 601526, False, 
+##[group]Run .github/runlint.sh, 11.008095004702875, , , , 3913417, True, ##[error]Process completed with exit code 100.

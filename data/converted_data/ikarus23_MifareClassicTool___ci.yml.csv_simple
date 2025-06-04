@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assemble,349.8858046377131,56608728,True,##[error]Process completed with exit code 1.
+##[group]Caching Gradle state,98.598496047331,13449198,False,
+##[group]Restore Gradle state from cache,34.66875571849534,1524647,False,
+##[group]Fetching the repository,10.01909054900873,814140,False,
+##[group]Run actions/checkout@v3,9.43384459448276,1358269,False,
+##[group]GITHUB_TOKEN Permissions,9.266910414325547,4724110,False,
+##[group]Installed distributions,6.427975471344388,305206,False,
+Requested labels: self-hosted,5.205121240633079,6304914,False,
+##[group]Setting up auth,3.9842263814224537,199555,False,
+##[group]Checking out the ref,2.083155470171108,58141,False,

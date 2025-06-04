@@ -1,0 +1,12 @@
+##[group]GITHUB_TOKEN Permissions, 238.9090932284698, , , , 4649173, False, 
+Requested labels: self-hosted, 28.85933868184648, , , , 4879255, False, 
+##[group]Run actions/checkout@v4, 17.99313321214374, , , , 193294, False, 
+##[group]Run sudo apt-get install -y ispell, 15.133261922199956, , , , 955235, True, ##[error]Process completed with exit code 100.
+##[group]Run actions/upload-artifact@v2.2.1__dup_12, 13.173484867081209, , , , 939856, False, 
+##[group]Run make clean all, 8.667414326408295, , , , 746779, True, ##[error]Process completed with exit code 2.
+##[group]Installed distributions, 8.384145215411664, , , , 488381, False, 
+##[group]Setting up auth, 7.445156524486981, , , , 80231, False, 
+##[group]Fetching the repository, 7.346781208165269, , , , 2439866, False, 
+##[group]Run actions/cache@v3, 2.904699936830012, , , , 1343760, False, 
+##[group]Run actions/upload-artifact@v2.2.1, 1.5866119081380572, , , , 89921, False, 
+##[group]Checking out the ref, 0.8327521266509093, , , , 159481, False, 

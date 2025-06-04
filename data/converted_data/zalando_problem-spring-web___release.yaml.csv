@@ -1,0 +1,3 @@
+Requested labels: self-hosted, 0.0253225231790784, , , , 5713967, False, 
+##[group]GITHUB_TOKEN Permissions, 13.117247512530128, , , , 1108885, False, 
+##[group]Run actions/create-release@v1, 9.745415863541192, , , , 597441, True, ##[error]Validation Failed: {"resource":"Release","code":"custom","field":"pre_receive","message":"pre_receive Sorry, branch or tag names starting with 'refs/' are not allowed."}, {"resource":"Release","code":"custom","message":"Published releases must have a valid tag"}

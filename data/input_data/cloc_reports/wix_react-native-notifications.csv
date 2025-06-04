@@ -1,0 +1,212 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (4855.3 files/s 283432.0 lines/s)"
+Markdown,/tmp/clone_directory/CHANGELOG.gren.md,241,0,1151
+Java,/tmp/clone_directory/lib/android/app/src/test/java/com/wix/reactnativenotifications/core/notification/PushNotificationTest.java,94,17,270
+TypeScript,/tmp/clone_directory/lib/src/commands/Commands.test.ts,30,0,215
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/PushNotification.java,40,2,213
+TypeScript,/tmp/clone_directory/example/NotificationsExampleApp.tsx,23,0,186
+TypeScript,/tmp/clone_directory/lib/src/events/EventsRegistry.test.ts,47,0,182
+Gradle,/tmp/clone_directory/example/android/myapplication/build.gradle,32,133,160
+Markdown,/tmp/clone_directory/website/README.md,47,0,146
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp.xcodeproj/xcshareddata/xcschemes/NotificationsExampleApp.xcscheme,0,0,136
+Markdown,/tmp/clone_directory/website/docs/docs/advanced-ios.md,47,0,129
+XML,/tmp/clone_directory/lib/ios/RNNotifications.xcodeproj/xcshareddata/xcschemes/RNNotifications.xcscheme,0,0,127
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/RNNotificationsModule.java,25,0,126
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp.xcodeproj/xcshareddata/xcschemes/NotificationsExampleApp_release.xcscheme,0,0,125
+Objective-C,/tmp/clone_directory/lib/ios/RCTConvert+RNNotifications.m,37,0,123
+Bourne Again Shell,/tmp/clone_directory/lib/android/gradlew,19,20,121
+JavaScript,/tmp/clone_directory/scripts/release.js,23,4,119
+JSON,/tmp/clone_directory/package.json,0,0,117
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationCenter.m,14,0,116
+Gradle,/tmp/clone_directory/lib/android/app/build.gradle,19,1,113
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp.xcodeproj/xcshareddata/xcschemes/SmartNotificationsApp.xcscheme,0,0,111
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/NotificationChannel.java,15,0,105
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/NotificationChannelProps.java,32,0,99
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationsTests/Integration/RNCommandsHandlerIntegrationTest.m,26,0,98
+TypeScript,/tmp/clone_directory/lib/src/adapters/NativeCommandsSender.ts,22,0,95
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/ReactAppLifecycleFacade.java,20,0,94
+Objective-C,/tmp/clone_directory/example/ios/NotificationsExampleAppTests/RNNotificationEventHandlerTests.m,23,0,93
+Java,/tmp/clone_directory/lib/android/app/src/test/java/com/wix/reactnativenotifications/core/AppLaunchHelperTest.java,27,1,89
+JavaScript,/tmp/clone_directory/website/docusaurus.config.js,2,6,89
+Objective-C,/tmp/clone_directory/lib/ios/RNBridgeModule.m,30,0,87
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/RNNotificationsPackage.java,20,2,86
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/fcm/FcmToken.java,14,2,85
+Java,/tmp/clone_directory/example/android/myapplication/src/main/java/com/wix/reactnativenotifications/app/newarchitecture/MainApplicationReactNativeHost.java,13,20,83
+Markdown,/tmp/clone_directory/website/docs/docs/getting-started.md,28,0,82
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMock.h,18,15,80
+Markdown,/tmp/clone_directory/website/docs/docs/installation-ios.md,25,0,80
+Objective-C,/tmp/clone_directory/lib/ios/RNNotifications.m,23,0,79
+Java,/tmp/clone_directory/lib/android/app/src/test/java/com/wix/reactnativenotifications/core/notificationdrawer/PushNotificationsDrawerTest.java,19,0,77
+TypeScript,/tmp/clone_directory/lib/src/Notifications.ts,16,30,76
+TypeScript,/tmp/clone_directory/lib/src/commands/Commands.ts,19,0,75
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationCenterMulticast.m,16,0,73
+Objective-C,/tmp/clone_directory/lib/ios/RNCommandsHandler.m,21,0,72
+Markdown,/tmp/clone_directory/website/docs/docs/localNotifications.md,23,0,66
+DOS Batch,/tmp/clone_directory/lib/android/gradlew.bat,24,2,64
+Objective-C,/tmp/clone_directory/example/ios/NotificationsExampleAppTests/RNNotificationsStoreTests.m,12,0,63
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationsStore.m,13,0,63
+Markdown,/tmp/clone_directory/website/docs/api/ios-api.md,21,0,62
+Markdown,/tmp/clone_directory/website/docs/docs/installation-android.md,26,4,59
+Markdown,/tmp/clone_directory/website/docs/api/general-events.md,14,0,57
+TypeScript,/tmp/clone_directory/lib/src/DTO/NotificationIOS.test.ts,10,0,56
+JSON,/tmp/clone_directory/example/ios/NotificationsExampleApp/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp/Info.plist,0,0,53
+YAML,/tmp/clone_directory/.github/workflows/documentation.yml,2,0,52
+TypeScript,/tmp/clone_directory/lib/src/events/EventsRegistryIOS.test.ts,18,0,51
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notificationdrawer/PushNotificationsDrawer.java,15,0,50
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationEventHandler.m,8,1,50
+TypeScript,/tmp/clone_directory/lib/src/DTO/Notification.test.ts,8,0,50
+JavaScript,/tmp/clone_directory/e2e/Notifications.test.js,7,0,49
+Java,/tmp/clone_directory/lib/android/app/src/test/java/com/wix/reactnativenotifications/core/InitialNotificationHolderTest.java,10,0,49
+TypeScript,/tmp/clone_directory/lib/src/NotificationsIOS.ts,10,32,48
+Java,/tmp/clone_directory/example/android/myapplication/src/main/java/com/wix/reactnativenotifications/app/MainApplication.java,7,1,47
+Objective-C,/tmp/clone_directory/example/ios/NotificationsExampleAppTests/SmartNotificationsAppTests.m,15,8,47
+TypeScript,/tmp/clone_directory/lib/src/adapters/NativeEventsReceiver.ts,10,0,47
+Markdown,/tmp/clone_directory/website/docs/docs/notifications-events.md,18,0,47
+Java,/tmp/clone_directory/lib/android/app/src/test/java/com/wix/reactnativenotifications/core/JsIOHelperTest.java,14,0,46
+Gradle,/tmp/clone_directory/lib/android/build.gradle,3,2,46
+Objective-C,/tmp/clone_directory/lib/ios/RNEventEmitter.m,13,0,46
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/NotificationIntentAdapter.java,8,0,45
+JavaScript,/tmp/clone_directory/scripts/test-unit.js,7,0,45
+TypeScript,/tmp/clone_directory/lib/src/adapters/CompletionCallbackWrapper.ts,7,0,44
+Gradle,/tmp/clone_directory/example/android/build.gradle,5,3,43
+Markdown,/tmp/clone_directory/website/docs/api/general-api.md,12,0,43
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp/Base.lproj/LaunchScreen.xib,0,0,42
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/PushNotificationProps.java,13,0,41
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMockObject.h,19,16,39
+Markdown,/tmp/clone_directory/website/docs/docs/subscription.md,12,0,39
+CSS,/tmp/clone_directory/website/src/css/custom.css,8,1,39
+JSON,/tmp/clone_directory/.detoxrc.json,0,0,37
+JavaScript,/tmp/clone_directory/wallaby.js,6,1,37
+YAML,/tmp/clone_directory/.buildkite/pipeline.yaml,3,0,36
+TypeScript,/tmp/clone_directory/lib/src/DTO/NotificationIOS.ts,8,0,36
+TypeScript,/tmp/clone_directory/lib/src/events/EventsRegistry.ts,7,0,34
+Markdown,/tmp/clone_directory/CHANGELOG.md,11,0,33
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMConstraint.h,21,17,33
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMStubRecorder.h,16,15,33
+Markdown,/tmp/clone_directory/README.md,17,1,32
+Objective-C,/tmp/clone_directory/example/ios/NotificationsExampleApp/AppDelegate.m,13,0,32
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/AppLaunchHelper.java,7,9,31
+Markdown,/tmp/clone_directory/website/docs/api/android-api.md,8,0,31
+Java,/tmp/clone_directory/example/android/myapplication/src/main/java/com/wix/reactnativenotifications/app/newarchitecture/modules/MainApplicationTurboModuleManagerDelegate.java,8,10,30
+Bourne Shell,/tmp/clone_directory/scripts/install.android.sh,8,4,28
+JavaScript,/tmp/clone_directory/.grenrc.js,0,0,27
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/fcm/FcmInstanceIdRefreshHandlerService.java,6,0,27
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMArg.h,13,18,27
+TypeScript,/tmp/clone_directory/lib/src/interfaces/NotificationCategory.ts,5,0,27
+Markdown,/tmp/clone_directory/website/docs/api/ios-events.md,7,0,27
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/InitialNotificationHolder.java,11,0,26
+TypeScript,/tmp/clone_directory/lib/src/DTO/Notification.ts,7,0,26
+JavaScript,/tmp/clone_directory/e2e/init.js,5,0,25
+Java,/tmp/clone_directory/example/android/myapplication/src/main/java/com/wix/reactnativenotifications/app/MainActivity.java,5,5,25
+C/C++ Header,/tmp/clone_directory/lib/ios/RNCommandsHandler.h,21,0,25
+XML,/tmp/clone_directory/example/android/myapplication/src/main/AndroidManifest.xml,6,0,23
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/ProxyService.java,6,0,23
+C/C++ Header,/tmp/clone_directory/lib/ios/RCTConvert+RNNotifications.h,7,0,23
+TypeScript,/tmp/clone_directory/lib/src/DTO/NotificationAndroid.test.ts,4,0,23
+JavaScript,/tmp/clone_directory/scripts/test-js.js,5,0,23
+Java,/tmp/clone_directory/example/android/myapplication/src/main/java/com/wix/reactnativenotifications/app/newarchitecture/components/MainComponentsRegistry.java,6,8,22
+XML,/tmp/clone_directory/example/ios/NotificationsExampleAppTests/Info.plist,0,0,22
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/JsIOHelper.java,4,0,22
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/fcm/FcmInstanceIdListenerService.java,6,6,22
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationParser.m,9,0,22
+TypeScript,/tmp/clone_directory/lib/src/NotificationsAndroid.ts,3,6,22
+JSON,/tmp/clone_directory/tsconfig.json,0,0,22
+Markdown,/tmp/clone_directory/website/docs/api/notification-obj.md,4,0,22
+YAML,/tmp/clone_directory/.github/stale.yml,11,20,21
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMMacroState.h,12,15,21
+Objective-C,/tmp/clone_directory/lib/ios/RNPushKitEventHandler.m,7,0,21
+Objective-C,/tmp/clone_directory/lib/ios/RNPushKitEventListener.m,7,0,21
+TypeScript,/tmp/clone_directory/lib/src/events/EventsRegistryIOS.ts,4,0,21
+XML,/tmp/clone_directory/lib/android/app/src/main/AndroidManifest.xml,5,3,20
+JavaScript,/tmp/clone_directory/scripts/test-e2e.js,4,0,20
+JavaScript,/tmp/clone_directory/react-native.config.js,0,0,19
+TypeScript,/tmp/clone_directory/lib/src/interfaces/NotificationEvents.ts,4,0,18
+Ruby,/tmp/clone_directory/react-native-notifications.podspec,7,0,18
+JSON,/tmp/clone_directory/tsconfig-strict.json,0,0,18
+YAML,/tmp/clone_directory/docker-compose.yml,1,0,17
+XML,/tmp/clone_directory/lib/android/.project,0,0,17
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationCenter.h,14,0,17
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationCenterListener.m,6,0,17
+JavaScript,/tmp/clone_directory/metro.config.js,0,0,17
+JavaScript,/tmp/clone_directory/e2e/Utils.js,1,0,16
+JavaScript,/tmp/clone_directory/e2e/environment.js,4,3,16
+TypeScript,/tmp/clone_directory/lib/src/DTO/NotificationAndroid.ts,4,0,16
+JSON,/tmp/clone_directory/website/package.json,0,0,16
+Objective-C,/tmp/clone_directory/example/ios/NotificationsExampleAppTests/RNNotificationsTests.m,9,13,15
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMLocation.h,8,15,15
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMRecorder.h,9,15,15
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotifications.h,8,0,15
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationsStore.h,6,0,15
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/AppLifecycleFacade.java,4,0,14
+TypeScript,/tmp/clone_directory/lib/src/interfaces/NotificationChannel.ts,0,0,14
+TypeScript,/tmp/clone_directory/lib/src/interfaces/NotificationPermissions.ts,0,0,14
+JavaScript,/tmp/clone_directory/scripts/clean.js,2,0,14
+XML,/tmp/clone_directory/example/android/myapplication/src/main/res/values/styles.xml,2,2,13
+C/C++ Header,/tmp/clone_directory/lib/ios/RNEventEmitter.h,5,0,13
+Objective-C,/tmp/clone_directory/lib/ios/RNPushKit.m,6,0,13
+TypeScript,/tmp/clone_directory/lib/src/DTO/NotificationFactory.ts,1,0,13
+JavaScript,/tmp/clone_directory/babel.config.js,0,0,12
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/IPushNotification.java,5,13,12
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationEventHandler.h,5,0,12
+Objective-C,/tmp/clone_directory/lib/ios/RNNotificationUtils.m,4,0,12
+JavaScript,/tmp/clone_directory/website/sidebars.js,0,0,12
+YAML,/tmp/clone_directory/.github/workflows/enforce-label.yml,2,0,11
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notificationdrawer/IPushNotificationsDrawer.java,3,0,11
+Gradle,/tmp/clone_directory/example/android/settings.gradle,2,0,10
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp.xcworkspace/contents.xcworkspacedata,0,0,10
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/AppLifecycleFacadeHolder.java,4,0,10
+TypeScript,/tmp/clone_directory/lib/src/interfaces/NotificationCompletion.ts,1,0,10
+Java,/tmp/clone_directory/lib/android/app/src/reactNative59/java/com/wix/reactnativenotifications/NotificationManagerCompatFacade.java,3,0,9
+Java,/tmp/clone_directory/lib/android/app/src/reactNative60/java/com/wix/reactnativenotifications/NotificationManagerCompatFacade.java,3,0,9
+Bourne Shell,/tmp/clone_directory/scripts/install.ios.sh,3,0,9
+JSON,/tmp/clone_directory/e2e/config.json,0,0,8
+XML,/tmp/clone_directory/example/android/myapplication/src/main/res/values-v21/styles.xml,0,0,8
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp/NotificationsExampleApp.entitlements,0,0,8
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/Defs.java,3,0,8
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/INotificationsApplication.java,3,0,8
+XML,/tmp/clone_directory/lib/ios/RNNotifications.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+TypeScript,/tmp/clone_directory/lib/src/index.ts,1,0,8
+TypeScript,/tmp/clone_directory/lib/src/interfaces/NotificationActionResponse.ts,1,0,8
+JavaScript,/tmp/clone_directory/scripts/start.js,2,0,8
+YAML,/tmp/clone_directory/.github/support.yml,1,6,7
+XML,/tmp/clone_directory/example/ios/NotificationsExampleApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+Objective-C,/tmp/clone_directory/example/ios/NotificationsExampleApp/main.m,3,8,7
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/OCMFunctions.h,5,15,7
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationParser.h,3,0,7
+C/C++ Header,/tmp/clone_directory/lib/ios/RNPushKitEventHandler.h,5,0,7
+JavaScript,/tmp/clone_directory/scripts/test.js,2,0,7
+JavaScript,/tmp/clone_directory/website/src/pages/index.js,2,0,7
+Properties,/tmp/clone_directory/example/android/gradle.properties,7,22,6
+XML,/tmp/clone_directory/example/android/myapplication/src/main/res/values/colors.xml,0,0,6
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notificationdrawer/INotificationsDrawerApplication.java,3,0,6
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/fcm/IFcmToken.java,4,11,6
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationCenterListener.h,3,0,6
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationCenterMulticast.h,4,0,6
+C/C++ Header,/tmp/clone_directory/lib/ios/RNPushKit.h,3,0,6
+C/C++ Header,/tmp/clone_directory/lib/ios/RNPushKitEventListener.h,3,0,6
+TypeScript,/tmp/clone_directory/lib/src/adapters/UniqueIdProvider.ts,1,0,6
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/core/notification/INotificationChannel.java,3,5,5
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/fcm/INotificationsFcmApplication.java,2,0,5
+Properties,/tmp/clone_directory/lib/android/gradle/wrapper/gradle-wrapper.properties,0,1,5
+C/C++ Header,/tmp/clone_directory/lib/ios/OCMock/NSNotificationCenter+OCMAdditions.h,6,15,5
+YAML,/tmp/clone_directory/.travis.yml,0,0,4
+XML,/tmp/clone_directory/example/android/myapplication/src/main/res/values/dimens.xml,0,1,4
+C/C++ Header,/tmp/clone_directory/example/ios/NotificationsExampleApp/AppDelegate.h,4,8,4
+Java,/tmp/clone_directory/lib/android/app/src/main/java/com/wix/reactnativenotifications/fcm/IFcmTokenListenerApplication.java,1,4,4
+C/C++ Header,/tmp/clone_directory/lib/ios/RNBridgeModule.h,3,0,4
+C/C++ Header,/tmp/clone_directory/lib/ios/RNNotificationUtils.h,3,0,4
+XML,/tmp/clone_directory/lib/ios/RNNotifications.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,4
+Bourne Shell,/tmp/clone_directory/scripts/install.sh,1,0,4
+XML,/tmp/clone_directory/example/android/myapplication/src/main/res/values-w820dp/dimens.xml,0,3,3
+XML,/tmp/clone_directory/example/android/myapplication/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/example/index.js,1,0,3
+Properties,/tmp/clone_directory/lib/android/gradle.properties,5,13,3
+TypeScript,/tmp/clone_directory/lib/src/interfaces/EventSubscription.ts,0,0,3
+INI,/tmp/clone_directory/lib/android/.settings/org.eclipse.buildship.core.prefs,0,0,2
+ProGuard,/tmp/clone_directory/lib/android/app/proguard-rules.pro,3,15,2
+JSON,/tmp/clone_directory/example/.watchmanconfig,0,0,1
+JavaScript,/tmp/clone_directory/index.js,0,0,1
+Properties,/tmp/clone_directory/lib/android/app/src/test/resources/robolectric.properties,0,0,1
+Gradle,/tmp/clone_directory/lib/android/settings.gradle,0,0,1
+SUM,,2109,649,9501

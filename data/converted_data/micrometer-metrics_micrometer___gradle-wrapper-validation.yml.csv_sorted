@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 105.93564487976452, , , , 4485188, False, 
+##[group]Fetching the repository, 25.141514117961076, , , , 3281272, False, 
+##[group]Run actions/checkout@v4, 17.71247162656566, , , , 206647, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 8.502498815128106, , , , 588447, False, 
+##[group]Setting up auth, 8.428874099032132, , , , 45724, False, 
+##[group]Checking out the ref, 3.5883059312772083, , , , 208542, False, 
+##[group]Determining the checkout info, 1.825370699842932, , , , 33127, False, 
+Requested labels: self-hosted, 0.1956724182155001, , , , 4554001, False, 

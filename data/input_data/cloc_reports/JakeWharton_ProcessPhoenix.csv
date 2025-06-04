@@ -1,0 +1,26 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2861.6 files/s 152262.2 lines/s)"
+Text,/tmp/clone_directory/LICENSE.txt,33,0,169
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+Java,/tmp/clone_directory/process-phoenix/src/main/java/com/jakewharton/processphoenix/ProcessPhoenix.java,13,57,80
+Java,/tmp/clone_directory/sample/src/main/java/com/jakewharton/processphoenix/sample/MainActivity.java,10,3,61
+XML,/tmp/clone_directory/sample/src/main/res/layout/activity_main.xml,7,0,53
+Markdown,/tmp/clone_directory/CHANGELOG.md,32,0,44
+Markdown,/tmp/clone_directory/README.md,24,0,41
+Gradle,/tmp/clone_directory/build.gradle,5,0,38
+Java,/tmp/clone_directory/process-phoenix/src/main/java/com/jakewharton/processphoenix/PhoenixService.java,9,9,37
+Java,/tmp/clone_directory/sample/src/main/java/com/jakewharton/processphoenix/sample/NotificationBuilder.java,6,9,37
+Java,/tmp/clone_directory/sample/src/main/java/com/jakewharton/processphoenix/sample/RestartService.java,6,13,30
+Java,/tmp/clone_directory/process-phoenix/src/main/java/com/jakewharton/processphoenix/PhoenixActivity.java,7,3,27
+XML,/tmp/clone_directory/sample/src/main/AndroidManifest.xml,5,0,27
+YAML,/tmp/clone_directory/.github/workflows/build.yaml,6,0,24
+Properties,/tmp/clone_directory/gradle.properties,5,0,15
+XML,/tmp/clone_directory/process-phoenix/src/main/AndroidManifest.xml,2,0,15
+Gradle,/tmp/clone_directory/sample/build.gradle,3,0,14
+Markdown,/tmp/clone_directory/RELEASING.md,1,0,12
+Gradle,/tmp/clone_directory/process-phoenix/build.gradle,2,0,9
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,7
+JSON,/tmp/clone_directory/renovate.json,0,0,6
+TOML,/tmp/clone_directory/gradle/libs.versions.toml,1,0,5
+Properties,/tmp/clone_directory/process-phoenix/gradle.properties,0,0,3
+Gradle,/tmp/clone_directory/settings.gradle,1,0,2
+SUM,,206,210,861

@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run xvfb-run mvn -B verify jacoco:report org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Pcoverage -Dsonar.projectKey=cryptomator_cryptomator -Dsonar.organization=cryptomator -Dsonar.host.url=https://sonarcloud.io,1073.93351451046,81469825,True,[ERROR] 20:15:18.117 ECJ: Unable to parse file
+##[group]Installed distributions,259.99388456702013,28421777,False,
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ cryptomator ---,145.6589611685713,13537759,False,
+##[group]GITHUB_TOKEN Permissions,90.50537687751596,3839177,False,
+[INFO] --- maven-compiler-plugin:3.13.0:compile (default-compile) @ cryptomator ---,34.96813181830332,12168230,False,
+[INFO] --- maven-compiler-plugin:3.13.0:testCompile (default-testCompile) @ cryptomator ---,33.89016309666409,896676,False,
+[INFO] --- maven-jar-plugin:3.4.1:jar (default-jar) @ cryptomator ---,33.19127444706698,923702,False,
+[INFO] --- license-maven-plugin:2.4.0:add-third-party (add-third-party) @ cryptomator ---,15.42675266664203,900156,False,
+##[group]Fetching the repository,15.221109964881697,456612,False,
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ cryptomator ---,10.923440067690706,673593,False,
+[INFO] --- maven-dependency-plugin:3.6.1:copy-dependencies (copy-mods) @ cryptomator ---,8.210147055265365,317518,False,
+##[group]Run actions/checkout@v4,7.063033041258054,189449,False,
+##[group]Run actions/cache@v4,6.006504857067022,637662,False,
+##[group]Setting up auth,3.668397005924725,68077,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ cryptomator ---,1.8100787492427444,89296,False,
+Requested labels: self-hosted,0.0140125685895897,3972209,False,

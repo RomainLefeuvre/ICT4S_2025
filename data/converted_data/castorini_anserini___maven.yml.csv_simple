@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B package --file pom.xml,205141.5313682212,22436613646,True,##[error]The operation was canceled.
+##[group]GITHUB_TOKEN Permissions,192.41183637304147,2833187,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ anserini ---,94.27273511610376,8615403,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ anserini ---,69.20044807332543,2639361,False,
+##[group]Run actions/checkout@v2,34.85594527375284,504079,False,
+[INFO] --- jacoco-maven-plugin:0.8.11:prepare-agent (default) @ anserini ---,19.09343970812757,1228995,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ anserini ---,18.859707455287644,2413158,False,
+##[group]Fetching the repository,6.591864171291744,1650638,False,
+##[group]Initializing the repository,5.275344188602901,29238,False,
+##[group]Run actions/setup-java@v2,5.140666923104334,2056655,False,
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ anserini ---,3.036886478818144,73815,False,
+##[group]Checking out the ref,2.421406722011469,259687,False,
+Requested labels: self-hosted,1.315121227648638,5577989,False,

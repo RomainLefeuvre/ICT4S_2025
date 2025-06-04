@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,397.9226318654111,3308359,False,
+##[group]Run sudo add-apt-repository ppa:git-core/ppa -y && sudo apt-get update && sudo apt-get install git -y,113.3952853316232,4095041,False,
+##[group]Getting Git version info,34.56184333211153,9051662,False,
+"##[group]Run echo ""Cleaning up previous run""",17.851422750576678,58304,False,
+##[group]Installed distributions,7.823825707380402,22944,False,
+##[group]Run actions/checkout@v3,7.373667181351789,113952,False,
+##[group]Run export TS_RUN_IN_DOCKER=False,3.061124867457538,613500,True,##[error]Process completed with exit code 2.
+##[group]==END_FILE==,0.7684178474380697,3921363,False,

@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 0.3004661348615025, , , , 4163778, False, 
+##[group]GITHUB_TOKEN Permissions, 142.411621915725, , , , 12411852, False, 
+##[group]Run actions/checkout@v2, 5.114882761239569, , , , 188568, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.5209792944940648, , , , 88508, False, 
+##[group]Cleaning the repository, 30.56069760346253, , , , 1292439, False, 
+##[group]Setting up auth, 2.180666490654017, , , , 84806, False, 
+##[group]Fetching the repository, 14.58403982689802, , , , 660365, False, 
+##[group]Checking out the ref, 5.885681921699102, , , , 378801, False, 
+##[group]Run actions/setup-java@v2, 5.593985232693346, , , , 232359, False, 
+##[group]Run cat <(echo -e "") | gpg --batch --import, 5.37521271593903, , , , 334945, True, ##[error]Process completed with exit code 2.
+##[group]Run wget https://github.com/gohugoio/hugo/releases/download/v0.59.0/hugo_0.59.0_Linux-64bit.tar.gz, 8.350986424469726, , , , 1693231, False, 
+##[group]Run mvn --no-transfer-progress --batch-mode --settings .mvn/settings.xml clean javadoc:jar deploy -P notest -P signed, 82.91597707475293, , , , 24886523, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.1.0:sign (sign-artifacts) on project bytecoder-parent: Exit code: 2 -> [Help 1]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ bytecoder-parent ---, 3.798707520433599, , , , 339491, False, 
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (default-cli) @ bytecoder-parent ---, 75.91596467726814, , , , 6314421, False, 
+[INFO] --- maven-source-plugin:3.3.0:jar (attach-sources) @ bytecoder-parent ---, 10.244063538024673, , , , 890346, False, 
+##[group]Run ./hugo -s ./manual -d ../integrationtest/target/bytecoder-integrationtest, 1.0937052617795098, , , , 193744, False, 
+##[group]Run JamesIves/github-pages-deploy-action@3.7.1, 31.1439669105188, , , , 10712380, False, 

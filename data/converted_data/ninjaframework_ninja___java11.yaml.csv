@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0338522673658384, , , , 4668681, False, 
+##[group]GITHUB_TOKEN Permissions, 99.00910692478357, , , , 2325600, False, 
+##[group]Run actions/checkout@v3, 11.930289902737895, , , , 153943, False, 
+##[group]Setting up auth, 6.27262664989312, , , , 68125, False, 
+##[group]Fetching the repository, 26.32043339366917, , , , 440812, False, 
+##[group]Checking out the ref, 6.887590046941464, , , , 23812, False, 
+##[group]Installed distributions, 247.11249599929303, , , , 20099942, False, 
+##[group]Run mvn test, 837.4693460066802, , , , 61195920, True, [ERROR] Directory with classes does not exist: target/doesnotexist

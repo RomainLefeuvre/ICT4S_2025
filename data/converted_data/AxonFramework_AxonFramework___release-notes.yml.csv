@@ -1,0 +1,15 @@
+##[group]==END_FILE==, 185.8068361193592, , , , 36292892, False, 
+##[group]GITHUB_TOKEN Permissions, 107.61319069552664, , , , 2791693, False, 
+##[group]Pull down action image 'decathlon/release-notes-generator-action:3.1.5', 29.58685056089046, , , , 8495210, False, 
+##[group]Run actions/checkout@v4, 1.501116951832107, , , , 165262, True, ##[error]Input required and not supplied: path
+##[group]Cleaning the repository, 0.7847573405397442, , , , 98559, False, 
+##[group]Setting up auth, 0.8075565836222047, , , , 71545, False, 
+##[group]Fetching the repository, 4.379771564347931, , , , 498687, False, 
+##[group]Run docker://decathlon/release-notes-generator-action:3.1.5, 23.75529641436345, , , , 6148558, False, 
+##[group]Run actions/cache@v4, 0.312133770591459, , , , 166084, False, 
+##[group]Run actions/create-release@v1, 5.689285931317909, , , , 1062954, False, 
+##[group]==END_FILE==__dup_11, 14.602305765436856, , , , 5934747, False, 
+##[group]GITHUB_TOKEN Permissions__dup_12, 13.749039299819604, , , , 2071451, False, 
+##[group]Run openssl s_client -showcerts -connect discuss.axoniq.io:443 </dev/null | sed -n -e '/-.BEGIN/_/-.END/ p' > $CA_FILE, 2.7731640991525843, , , , 387245, False, 
+##[group]Run actions/cache@v4__dup_14, 1.4094412304082204, , , , 191260, False, 
+##[group]Run echo $json | curl --cacert $CA_FILE -X POST "$URL" \\, 3.587894522110349, , , , 541536, True, ##[error]ENOENT: no such file or directory, open ''

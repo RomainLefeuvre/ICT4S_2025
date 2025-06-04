@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,61.09065074699748,3376807,False,
+##[group]Run gradle/gradle-build-action@v2,45.15062625696388,1208703,True,"##[error]Error: ENOENT: no such file or directory, mkdir '/root/.gradle/.gradle-build-action'"
+##[group]Fetching the repository,14.662470056995272,454331,False,
+##[group]Run actions/setup-java@v2,6.2704613367659645,243235,False,
+##[group]Setting up auth,2.797336240076435,101595,False,
+##[group]Getting Git version info,2.752283649635563,12274,False,
+##[group]Run actions/checkout@v2,2.7072310591946898,182124,False,
+Requested labels: self-hosted,0.0622286772705282,3905416,False,

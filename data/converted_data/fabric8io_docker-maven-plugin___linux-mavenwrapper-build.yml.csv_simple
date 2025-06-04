@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw -B -C -V -ntp clean install,662.3801247028737,91420205,True,[ERROR] DOCKER> containerPath of copy goal entry for example:latest image is not specified
+[INFO] --- maven-surefire-plugin:3.0.0-M2:test (default-test) @ docker-maven-plugin ---,441.1438412010856,49484837,True,[ERROR] DOCKER> containerPath of copy goal entry for example:latest image is not specified
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ docker-maven-plugin ---,146.296737229184,4767770,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (mojo-descriptor) @ docker-maven-plugin ---,36.126779730446295,1173523,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ docker-maven-plugin ---,33.56198319274868,1870442,False,
+[INFO] --- plexus-component-metadata:2.1.0:generate-metadata (default) @ docker-maven-plugin ---,29.42799668606829,1127002,False,
+[INFO] --- maven-plugin-plugin:3.6.0:helpmojo (help-goal) @ docker-maven-plugin ---,27.14008012331693,7648473,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (default-descriptor) @ docker-maven-plugin ---,19.166637921382407,2187154,False,
+##[group]Fetching the repository,15.70681948733828,1547539,False,
+[INFO] --- sortpom-maven-plugin:3.0.1:sort (default) @ docker-maven-plugin ---,13.55971446250747,522705,False,
+##[group]GITHUB_TOKEN Permissions,12.182640609481664,1929849,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ docker-maven-plugin ---,5.136845552060082,682870,False,
+##[group]Run actions/setup-java@v1,4.623510579046888,394637,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ docker-maven-plugin ---,3.954972796914465,272593,False,
+Requested labels: self-hosted,3.860774185110543,6096335,False,
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ docker-maven-plugin ---,2.490044841432799,120246,False,
+##[group]Run actions/checkout@v2,1.6782955556940642,183232,False,
+##[group]Checking out the ref,1.1162864113973858,71881,False,

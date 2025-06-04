@@ -1,0 +1,5 @@
+Requested labels: self-hosted, 0.0, , , , 5930310, False, 
+##[group]GITHUB_TOKEN Permissions, 0.5607342134571143, , , , 1771371, False, 
+##[group]Run actions/checkout@v1, 1.5890703142608182, , , , 2779873, False, 
+##[group]Run actions/setup-java@v1, 71.87503261338804, , , , 19930008, False, 
+##[group]Run ./gradlew build -Prelease -PCI --stacktrace, 145.9575491609231, , , , 31718047, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,20 @@
+##[group]GITHUB_TOKEN Permissions, 247.91463581310117, , , , 2701109, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ r2dbc-mysql ---, 162.17745274908788, , , , 3435824, False, 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ r2dbc-mysql ---, 156.79059744935765, , , , 2228324, False, 
+##[group]Run actions/setup-java@v2, 152.3845969245094, , , , 14902590, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/mirromutth/mysql-action/v1.1/Dockerfile'., 72.53263581592762, , , , 5799710, False, 
+##[group]Run ./mvnw -B verify -Dmaven.javadoc.skip=true -Dmaven.surefire.skip=true -Dtest.mysql.password= -Dtest.mysql.version=8.0 -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN, 52.16927198704975, , , , 11206004, True, [ERROR] Tests run: 43, Failures: 43, Errors: 0, Skipped: 0, Time elapsed: 0.094 s <<< FAILURE! - in dev.miku.r2dbc.mysql.PrepareQueryIntegrationTest
+[INFO] --- maven-failsafe-plugin:2.22.2:integration-test (default) @ r2dbc-mysql ---, 32.10622818276111, , , , 1504312, True, [ERROR] Tests run: 43, Failures: 43, Errors: 0, Skipped: 0, Time elapsed: 0.094 s <<< FAILURE! - in dev.miku.r2dbc.mysql.PrepareQueryIntegrationTest
+##[group]Fetching the repository, 14.485562948422867, , , , 447358, False, 
+Requested labels: self-hosted, 13.1013194661263, , , , 5122116, False, 
+##[group]Run mirromutth/mysql-action@v1.1, 9.689421302257433, , , , 5157843, False, 
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ r2dbc-mysql ---, 9.555298170895169, , , , 286277, False, 
+[INFO] --- maven-javadoc-plugin:3.3.1:jar (attach-javadocs) @ r2dbc-mysql ---, 8.823840159868796, , , , 378912, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ r2dbc-mysql ---, 8.061486130474195, , , , 113167, False, 
+##[group]Run sudo service mysql stop, 7.426017123923666, , , , 1133683, True, ##[error]Process completed with exit code 5.
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ r2dbc-mysql ---, 6.192204546740136, , , , 4974, False, 
+[INFO] --- maven-source-plugin:3.2.1:jar (attach-javadocs) @ r2dbc-mysql ---, 5.47619454489788, , , , 198206, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ r2dbc-mysql ---, 3.347645614970916, , , , 92087, False, 
+##[group]Run actions/checkout@v2, 3.0272975096881787, , , , 200968, False, 
+##[group]Setting up auth, 2.142495952498855, , , , 89819, False, 
+##[group]Cleaning the repository, 1.8909570734369487, , , , 104525, False, 

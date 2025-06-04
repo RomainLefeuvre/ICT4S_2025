@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run release-drafter/release-drafter@v6,0.0674671682412752,2512309,False,
+##[group]GITHUB_TOKEN Permissions,0.021854070967566,1405824,False,
+##[group]==END_FILE==,0.0,4281911,False,

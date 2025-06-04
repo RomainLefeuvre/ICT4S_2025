@@ -1,0 +1,75 @@
+Requested labels: self-hosted, 0.0122688584699872, , , , 5544132, False, 
+Requested labels: self-hosted__dup_2, 0.0122688584699872, , , , 5544132, False, 
+Requested labels: self-hosted__dup_3, 0.0122688584699872, , , , 5544132, False, 
+##[group]GITHUB_TOKEN Permissions, 9.111576829759493, , , , 3078991, False, 
+##[group]GITHUB_TOKEN Permissions__dup_5, 9.111576829759493, , , , 3078991, False, 
+##[group]GITHUB_TOKEN Permissions__dup_6, 9.111576829759493, , , , 3078991, False, 
+##[group]Run docker --version, 0.4157918616255315, , , , 50116, False, 
+##[group]Run docker --version__dup_8, 0.4157918616255315, , , , 50116, False, 
+##[group]Run docker --version__dup_9, 0.4157918616255315, , , , 50116, False, 
+##[group]Run actions/checkout@v2, 0.8530901988523834, , , , 163669, False, 
+##[group]Run actions/checkout@v2__dup_11, 0.8530901988523834, , , , 163669, False, 
+##[group]Run actions/checkout@v2__dup_12, 0.8530901988523834, , , , 163669, False, 
+##[group]Disabling automatic garbage collection, 0.4372983372268521, , , , 4263, False, 
+##[group]Disabling automatic garbage collection__dup_14, 0.4372983372268521, , , , 4263, False, 
+##[group]Disabling automatic garbage collection__dup_15, 0.4372983372268521, , , , 4263, False, 
+##[group]Fetching the repository, 2.294024064140863, , , , 434397, False, 
+##[group]Fetching the repository__dup_17, 2.294024064140863, , , , 434397, False, 
+##[group]Fetching the repository__dup_18, 2.294024064140863, , , , 434397, False, 
+##[group]Run python ./.github/scripts/get_release_version.py, 0.4803112884294932, , , , 69454, False, 
+##[group]Run python ./.github/scripts/get_release_version.py__dup_20, 0.4803112884294932, , , , 69454, False, 
+##[group]Run python ./.github/scripts/get_release_version.py__dup_21, 0.4803112884294932, , , , 69454, False, 
+##[group]Run docker/setup-buildx-action@v1, 5.756566635953479, , , , 1076039, False, 
+##[group]Run docker/setup-buildx-action@v1__dup_23, 5.756566635953479, , , , 1076039, False, 
+##[group]Run docker/setup-buildx-action@v1__dup_24, 5.756566635953479, , , , 1076039, False, 
+##[group]Docker info, 0.5663371908347756, , , , 129480, False, 
+##[group]Docker info__dup_26, 0.5663371908347756, , , , 129480, False, 
+##[group]Docker info__dup_27, 0.5663371908347756, , , , 129480, False, 
+##[group]Download and install buildx, 17.42741406227012, , , , 2603498, False, 
+##[group]Download and install buildx__dup_29, 17.42741406227012, , , , 2603498, False, 
+##[group]Download and install buildx__dup_30, 17.42741406227012, , , , 2603498, False, 
+##[group]Buildx version, 0.7742331216475413, , , , 63721, False, 
+##[group]Buildx version__dup_32, 0.7742331216475413, , , , 63721, False, 
+##[group]Buildx version__dup_33, 0.7742331216475413, , , , 63721, False, 
+##[group]Creating a new builder instance, 1.5699727188964034, , , , 217292, False, 
+##[group]Creating a new builder instance__dup_35, 1.5699727188964034, , , , 217292, False, 
+##[group]Creating a new builder instance__dup_36, 1.5699727188964034, , , , 217292, False, 
+##[group]Booting builder, 16.57723796949692, , , , 11984248, False, 
+##[group]Booting builder__dup_38, 16.57723796949692, , , , 11984248, False, 
+##[group]Booting builder__dup_39, 16.57723796949692, , , , 11984248, False, 
+##[group]Inspect builder, 0.1960262209800875, , , , 183842, False, 
+##[group]Inspect builder__dup_41, 0.1960262209800875, , , , 183842, False, 
+##[group]Inspect builder__dup_42, 0.1960262209800875, , , , 183842, False, 
+##[group]BuildKit version, 11.981578576164864, , , , 4832979, False, 
+##[group]BuildKit version__dup_44, 11.981578576164864, , , , 4832979, False, 
+##[group]BuildKit version__dup_45, 11.981578576164864, , , , 4832979, False, 
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore), 8.69966248467909, , , , 1482197, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_47, 8.69966248467909, , , , 1482197, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_48, 8.69966248467909, , , , 1482197, True, ##[error]Process completed with exit code 2.
+##[group]Run docker login -u  -p , 0.920315343949126, , , , 39642, True, ##[error]Process completed with exit code 1.
+##[group]Run docker login -u  -p __dup_50, 0.920315343949126, , , , 39642, True, ##[error]Process completed with exit code 1.
+##[group]Run docker login -u  -p __dup_51, 0.920315343949126, , , , 39642, True, ##[error]Process completed with exit code 1.
+##[group]Run docker/login-action@v1, 5.897748142695286, , , , 813661, False, 
+##[group]Run docker/login-action@v1__dup_53, 5.897748142695286, , , , 813661, False, 
+##[group]Run docker/login-action@v1__dup_54, 5.897748142695286, , , , 813661, False, 
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_55, 514.1358875513517, , , , 184651243, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_56, 514.1358875513517, , , , 184651243, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_57, 514.1358875513517, , , , 184651243, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_58, 145.5055016781194, , , , 55845091, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_59, 145.5055016781194, , , , 55845091, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_60, 145.5055016781194, , , , 55845091, True, ##[error]Process completed with exit code 2.
+##[group]Removing builder, 41.66115808211013, , , , 3255969, False, 
+##[group]Removing builder__dup_62, 41.66115808211013, , , , 3255969, False, 
+##[group]Removing builder__dup_63, 41.66115808211013, , , , 3255969, False, 
+Requested labels: self-hosted__dup_64, 40.90832006732452, , , , 4995220, False, 
+##[group]GITHUB_TOKEN Permissions__dup_65, 13.692030561319523, , , , 2004468, False, 
+##[group]Run actions/checkout@v2__dup_66, 0.0, , , , 186012, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.0, , , , 230250, False, 
+##[group]Disabling automatic garbage collection__dup_68, 0.0, , , , 7531, False, 
+##[group]Fetching the repository__dup_69, 0.0, , , , 538066, False, 
+##[group]Run python ./.github/scripts/get_release_version.py__dup_70, 4.244067002273481, , , , 410521, False, 
+##[group]Run docker login -u  -p __dup_71, 0.0, , , , 44845, True, ##[error]Process completed with exit code 1.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_72, 0.7087539639356742, , , , 27445, True, ##[error]Process completed with exit code 2.
+##[group]Run docker/login-action@v1__dup_73, 17.718849098391857, , , , 744557, False, 
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_74, 106.95020616582488, , , , 19655506, True, ##[error]Process completed with exit code 2.
+##[group]Run SAMPLE_LIST=(tutorials/hello-kubernetes tutorials/distributed-calculator tutorials/pub-sub tutorials/bindings tutorials/observability tutorials/secretstore)__dup_75, 26.119118519789566, , , , 5489605, True, ##[error]Process completed with exit code 2.

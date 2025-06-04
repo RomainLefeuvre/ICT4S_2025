@@ -1,0 +1,8 @@
+##[group]Run actions/setup-java@v1, 73.12502523032943, , , , 18853857, False, 
+##[group]Run ./gradlew publishAllPublicationsToMavenCentralRepository, 4.333029663268609, , , , 529834, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.8.2-bin/5nlkemqlnno2amj7d1mfn69bt/gradle-6.8.2-bin.zip.lck
+##[group]GITHUB_TOKEN Permissions, 2.1918167404925737, , , , 1886144, False, 
+##[group]Run ./gradlew build, 2.025491263992572, , , , 185746, False, 
+##[group]==END_FILE==, 0.515267614187365, , , , 4982600, False, 
+##[group]Fetching the repository, 0.4876333837952424, , , , 421062, False, 
+##[group]Run actions/checkout@v2, 0.2406411427420275, , , , 197821, False, 
+##[group]Setting up auth, 0.1209159868376875, , , , 67127, False, 

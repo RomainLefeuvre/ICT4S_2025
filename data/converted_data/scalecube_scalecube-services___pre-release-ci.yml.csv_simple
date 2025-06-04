@@ -1,0 +1,23 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run sudo echo ""127.0.0.1 $(eval hostname)"" | sudo tee -a /etc/hosts",2152.063594744204,241870232,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project scalecube-services-parent: Failed to retrieve remote metadata io.scalecube:scalecube-services-parent:2.11.3-SNAPSHOT/maven-metadata.xml: Could not transfer metadata io.scalecube:scalecube-services-parent:2.11.3-SNAPSHOT/maven-metadata.xml from/to github (https://maven.pkg.github.com/scalecube/scalecube-services): Authentication failed for https://maven.pkg.github.com/scalecube/scalecube-services/io/scalecube/scalecube-services-parent/2.11.3-SNAPSHOT/maven-metadata.xml 401 Unauthorized -> [Help 1]
+##[group]Run pre_release_version=,1144.6798596920094,91622523,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:1.6:sign (sign-artifacts) on project scalecube-services-parent: Exit code: 2 -> [Help 1]
+[INFO] --- maven-deploy-plugin:2.7:deploy (default-deploy) @ scalecube-services-parent ---,941.1293982563236,77890426,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project scalecube-services-parent: Failed to retrieve remote metadata io.scalecube:scalecube-services-parent:2.11.3-SNAPSHOT/maven-metadata.xml: Could not transfer metadata io.scalecube:scalecube-services-parent:2.11.3-SNAPSHOT/maven-metadata.xml from/to github (https://maven.pkg.github.com/scalecube/scalecube-services): Authentication failed for https://maven.pkg.github.com/scalecube/scalecube-services/io/scalecube/scalecube-services-parent/2.11.3-SNAPSHOT/maven-metadata.xml 401 Unauthorized -> [Help 1]
+[INFO] --- maven-checkstyle-plugin:3.0.0:check (checkstyle) @ scalecube-services-parent ---,769.5708066120967,83524106,False,
+[INFO] --- maven-javadoc-plugin:3.2.0:jar (attach-javadocs) @ scalecube-services-parent ---,309.80029853271367,27954116,False,
+##[group]Run actions/setup-java@v1__dup_15,172.69135755961156,19177602,False,
+##[group]GITHUB_TOKEN Permissions,93.52275495174696,2424249,False,
+[INFO] --- maven-enforcer-plugin:3.0.0-M1:enforce (enforce) @ scalecube-services-parent ---,82.74797926143532,7190107,False,
+##[group]Run actions/setup-java@v1,71.496411116727,17157107,False,
+[INFO] --- xml-maven-plugin:1.0.2:check-format (verify-xml) @ scalecube-services-parent ---,58.41170215873143,6446674,False,
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ scalecube-services-parent ---,54.18999343848216,5290677,False,
+[INFO] --- maven-source-plugin:3.0.1:jar-no-fork (attach-sources) @ scalecube-services-parent ---,52.57838484627462,4445227,False,
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ scalecube-services-parent ---,35.57710572380611,3221817,False,
+Requested labels: self-hosted,29.02354042826972,4055865,False,
+##[group]Fetching the repository,12.380009076785322,466637,False,
+[INFO] --- maven-checkstyle-plugin:3.0.0:check (checkstyle) @ scalecube-services-parent ---__dup_18,7.564987572421112,458560,False,
+##[group]Run actions/checkout@v2,5.551170759367567,191277,False,
+[INFO] --- xml-maven-plugin:1.0.2:check-format (verify-xml) @ scalecube-services-parent ---__dup_17,4.453222360537285,177240,False,
+##[group]Cleaning the repository,2.675724191574877,38235,False,
+[INFO] --- maven-checkstyle-plugin:3.0.0:checkstyle-aggregate (checkstyle) @ scalecube-services-parent ---,1.6418628187621351,110169,False,
+[INFO] --- maven-checkstyle-plugin:3.0.0:checkstyle-aggregate (checkstyle) @ scalecube-services-parent ---__dup_19,1.6117766538024747,65180,False,
+[INFO] --- maven-enforcer-plugin:3.0.0-M1:enforce (enforce) @ scalecube-services-parent ---__dup_20,1.4999885580813537,82828,False,

@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cd boot-data-mongo-gridfs,674.5641228703871,82473205,True,"[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.619 s <<< FAILURE! -- in com.example.demo.DemoApplicationTests"
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-reactive-sample-boot-data-mongo-gridfs ---,101.1557693945494,11776799,False,
+##[group]GITHUB_TOKEN Permissions,78.27526008299446,3259526,False,
+##[group]Installed distributions,69.0888284950389,14490505,False,
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-reactive-sample-boot-data-mongo-gridfs ---,13.9556853330538,582628,False,
+##[group]Fetching the repository,13.8364765007255,453174,False,
+##[group]Run actions/checkout@v4,3.805995537022621,143557,False,
+##[group]Setting up auth,3.651828242870956,60266,False,
+##[group]Checking out the ref,3.266410007491796,20345,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-boot-data-mongo-gridfs ---,0.9077016896584864,155278,False,

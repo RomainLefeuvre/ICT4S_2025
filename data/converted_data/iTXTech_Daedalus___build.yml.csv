@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 3.233591665116386, , , , 5674726, False, 
+##[group]GITHUB_TOKEN Permissions, 17.73330590665969, , , , 2868769, False, 
+##[group]Run actions/checkout@v3, 1.1990862527464323, , , , 186413, False, 
+##[group]Fetching the repository, 4.76737487582699, , , , 773643, False, 
+##[group]Installed distributions, 0.5904899591361099, , , , 24562, False, 
+##[group]Run bash ./gradlew assemblePureDebug --stacktrace, 125.34424347546717, , , , 29787205, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 8.251155346280312, , , , 574664, False, 

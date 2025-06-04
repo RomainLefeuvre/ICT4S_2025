@@ -1,0 +1,18 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,106.85537189537888,18868640,False,
+Requested labels: self-hosted__dup_2,93.29129411373724,5105391,False,
+##[group]Run mvn %MAVEN_ARGS% clean install__dup_17,39.51211151209473,5098205,True,"[ERROR[m] Unknown lifecycle phase ""%MAVEN_ARGS%"". You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1][m"
+##[group]Run mvn %MAVEN_ARGS% clean install,14.10202475470172,2874127,True,"[ERROR[m] Unknown lifecycle phase ""%MAVEN_ARGS%"". You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1][m"
+##[group]GITHUB_TOKEN Permissions__dup_10,6.76139193829583,1974265,False,
+##[group]GITHUB_TOKEN Permissions,4.505210748205926,2056572,False,
+##[group]Fetching the repository__dup_14,1.990860812589356,445366,False,
+##[group]Fetching the repository,1.4159233780075764,441855,False,
+##[group]Run actions/checkout@v2__dup_11,0.9015212261578852,204251,False,
+##[group]Run actions/checkout@v2,0.6364504072862339,192826,False,
+##[group]Run actions/setup-java@v1__dup_16,0.5305834161952164,118575,False,
+##[group]Checking out the ref,0.5211924981815371,55127,False,
+##[group]Setting up auth__dup_13,0.4742379081131408,77038,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.4648469900994615,15995,False,
+##[group]Run actions/setup-java@v1,0.3790097931030382,120188,False,
+##[group]Setting up auth,0.3361030240725055,59383,False,
+##[group]Cleaning the repository,0.3289518959007501,70917,False,

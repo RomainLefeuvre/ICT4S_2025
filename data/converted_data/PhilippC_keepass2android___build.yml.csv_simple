@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run make distclean,89.42248969186629,1063957,True,##[error]Process completed with exit code 2.
+##[group]Run git submodule init && git submodule update,18.695347206459008,3738966,False,
+##[group]GITHUB_TOKEN Permissions,18.049147922590944,6611910,False,
+##[group]Run actions/upload-artifact@v3__dup_14,14.328330898128932,83370,False,
+##[group]Run actions/upload-artifact@v3,13.512906243264387,86684,False,
+##[group]Run make nuget Flavor=Net,13.105193915832118,115821,True,##[error]Process completed with exit code 2.
+##[group]Run make java,12.697481588399846,11721,True,##[error]cmd: command not found
+##[group]Fetching the repository,12.39140986071872,3405392,False,
+##[group]Run java -version,11.882056933535305,136597,False,
+##[group]Caching Gradle state,10.882102596197806,1543339,False,
+##[group]Restore Gradle state from cache,10.18113259935743,1462936,False,
+##[group]Run actions/cache@v3,6.199572729238557,581929,False,
+##[group]Checking out the ref,3.843815325461865,348351,False,
+##[group]Run actions/checkout@v3,1.9792308889160997,184349,False,
+##[group]Determining the checkout info,1.34828690804059,668,False,
+Requested labels: self-hosted,0.0,6211255,False,

@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 74.50005163514915, , , , 4114408, False, 
+##[group]Starting postgres service container, 52.1361195062541, , , , 39191178, True, ##[error]Docker start fail with exit code 1
+Requested labels: self-hosted, 14.963052338645548, , , , 4879499, False, 
+##[group]Clean up resources from previous jobs, 9.779109855007468, , , , 515565, False, 
+##[group]Checking docker version, 9.644034936039894, , , , 463405, False, 
+##[group]Create local container network, 0.169611524828446, , , , 2049248, False, 

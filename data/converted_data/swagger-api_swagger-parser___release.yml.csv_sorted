@@ -1,0 +1,11 @@
+##[group]Run actions/cache@v2, 171.95343286303776, , , , 19358581, False, 
+##[group]GITHUB_TOKEN Permissions, 92.65858053717122, , , , 5546480, False, 
+##[group]Run git config --global user.email "action@github.com", 17.2540846784962, , , , 1211790, True, ##[error]Process completed with exit code 5.
+##[group]Run # export GPG_TTY=$(tty), 11.123838164668223, , , , 6720843, False, 
+##[group]Fetching the repository, 9.53502451850562, , , , 433371, False, 
+##[group]Run actions/setup-java@v2, 7.712733867926349, , , , 306996, False, 
+##[group]Run tibdex/github-app-token@v1, 4.91010666662986, , , , 180198, True, ##[error]Error: Input required and not supplied: app_id
+##[group]Run actions/checkout@v2, 4.624917851875759, , , , 183446, False, 
+##[group]Installed versions, 2.5352626874645203, , , , 126075, False, 
+##[group]Checking out the ref, 2.4283168819317327, , , , 52906, False, 
+##[group]Setting up auth, 2.3391953773210767, , , , 65079, False, 

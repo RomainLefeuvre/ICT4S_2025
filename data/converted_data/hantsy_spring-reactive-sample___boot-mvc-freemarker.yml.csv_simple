@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cd boot-mvc-freemarker,807.258136523749,101396756,False,
+##[group]Installed distributions,136.26538967322256,15380146,False,
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-reactive-sample-boot-mvc-freemarker ---,98.93284808180393,12362228,False,
+[INFO] --- maven-surefire-plugin:3.1.2:test (default-test) @ spring-reactive-sample-boot-mvc-freemarker ---,8.345052084427094,676221,False,
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-reactive-sample-boot-mvc-freemarker ---,4.789168584404677,437839,False,
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-reactive-sample-boot-mvc-freemarker ---,2.375886661926447,188355,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-boot-mvc-freemarker ---,1.1711996376559075,156365,False,

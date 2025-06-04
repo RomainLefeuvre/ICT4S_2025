@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,7.248859645400265,6866759,False,
+##[group]GITHUB_TOKEN Permissions,3.848671583631315,1277568,False,
+##[group]Run camunda/automation-platform-github-actions/synchronize-label-colors@main,0.9463027600405596,449543,False,

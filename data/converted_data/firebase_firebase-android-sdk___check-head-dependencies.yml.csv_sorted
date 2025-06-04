@@ -1,0 +1,9 @@
+##[group]Installed distributions, 2034.951915854272, , , , 205847166, False, 
+##[group]Run ./gradlew checkHeadDependencies, 121.19702742076548, , , , 17764706, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar, 107.426606683071, , , , 5396837, False, 
+##[group]GITHUB_TOKEN Permissions, 95.21601937996772, , , , 2410930, False, 
+##[group]Fetching the repository, 66.8736690173368, , , , 497397, False, 
+##[group]Run actions/checkout@v4.1.1, 31.662141669790746, , , , 164211, False, 
+##[group]Setting up auth, 29.39475364078027, , , , 144434, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 15.264223827642754, , , , 92693, False, 
+> Task :buildSrc:classes, 6.379251345134932, , , , 201911, False, 

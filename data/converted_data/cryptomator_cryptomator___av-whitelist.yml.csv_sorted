@@ -1,0 +1,4 @@
+##[group]GITHUB_TOKEN Permissions, 62.64447869818186, , , , 1181511, False, 
+##[group]Run SamKirkland/FTP-Deploy-Action@v4.3.5__dup_4, 7.773930086423682, , , , 122908, True, ##[error]Process completed with exit code 2.
+##[group]Run SamKirkland/FTP-Deploy-Action@v4.3.5, 7.566032338673876, , , , 87549, False, 
+##[group]==END_FILE==, 1.5289803291207504, , , , 4808222, False, 

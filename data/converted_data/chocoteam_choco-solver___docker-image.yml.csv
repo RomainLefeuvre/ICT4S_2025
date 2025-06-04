@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0773404470811987, , , , 5178382, False, 
+##[group]GITHUB_TOKEN Permissions, 6.30902550011822, , , , 1885003, False, 
+##[group]Pull down action image 'docker/github-actions:v1', 55.82208126390245, , , , 7450392, False, 
+##[group]Run actions/checkout@v2, 2.2021634487948645, , , , 191640, False, 
+##[group]Cleaning the repository, 1.114417465739172, , , , 24662, False, 
+##[group]Fetching the repository, 5.70544474211326, , , , 454274, False, 
+##[group]Run docker/build-push-action@v1.1.0, 45.69045675998664, , , , 12451788, False, 

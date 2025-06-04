@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 77.32305279818173, , , , 2076958, False, 
+##[group]Run curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64, 75.43660094364458, , , , 5406768, False, 
+##[group]Getting Git version info, 37.22932648145551, , , , 9055778, False, 
+##[group]Run echo "Cleaning up previous run", 5.019076179690761, , , , 57239, False, 
+##[group]Run actions/checkout@v3, 4.226686723046832, , , , 123848, False, 
+##[group]Run ./kubernetes/tests/scripts/test_mnist.sh, 1.826639811264778, , , , 425859, True, ##[error]File was unable to be removed Error: EBUSY: resource busy or locked, rmdir '/home/power/actions-runner/_work/serve/serve/cpp/build'
+##[group]==END_FILE==, 0.0672080770981808, , , , 4183200, False, 

@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.581260092999083, , , , 4885788, False, 
+##[group]GITHUB_TOKEN Permissions, 1.4725968997491714, , , , 1235498, False, 
+##[group]Run actions/checkout@v3, 0.1307917366547044, , , , 151317, False, 
+##[group]Getting Git version info, 0.1317417752832072, , , , 14582, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.2663336664519227, , , , 280397, False, 
+##[group]Setting up auth, 0.1355419297972183, , , , 62483, False, 
+##[group]Fetching the repository, 0.5516681054739009, , , , 427643, False, 
+##[group]Run chmod +x .ci_cd/aws/*, 4.688905698674131, , , , 7722457, True, ##[error]Process completed with exit code 1.

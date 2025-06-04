@@ -1,0 +1,3 @@
+##[group]Run mvn clean install -Pcloud, 1422.0976977793323, , , , 144477340, False, 
+##[group]Run docker login -u  -p  registry.cn-hangzhou.aliyuncs.com, 10.954949066496177, , , , 1073160, True, ##[error]Process completed with exit code 1.
+##[group]Run docker-compose build, 396.5739150369651, , , , 109371960, True, ##[error]Process completed with exit code 1.

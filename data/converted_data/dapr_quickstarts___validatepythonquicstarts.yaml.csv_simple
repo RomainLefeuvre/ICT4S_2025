@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run variants=(""http"" ""sdk"")",1496.6757035527266,413806850,False,
+"##[group]Run echo ""PATH=$PATH:$HOME/.local/bin"" >> $GITHUB_ENV",159.93830309136032,19160640,False,
+##[group]Run wget -q https://raw.githubusercontent.com/dapr/cli/v1.13.0/install//install.sh -O - | /bin/bash -s 1.13.0,154.1203808643631,3148971,False,
+##[group]GITHUB_TOKEN Permissions,124.39916957284308,2279417,False,
+##[group]Run export GITHUB_TOKEN=***,47.54808801176363,16380425,False,
+##[group]Fetching the repository,44.56242182378026,716313,False,
+##[group]Run make validate,40.02399175512974,2353187,True,##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v2,35.787233281922376,193482,False,
+##[group]Removing previously created refs_ to avoid conflicts,27.706502497052725,362617,False,
+##[group]Cleaning the repository,13.457558050604144,181267,False,
+##[group]==END_FILE==,12.250979422393783,5273269,False,
+##[group]Checking out the ref,12.138580724196744,191608,False,
+##[group]Setting up auth,6.629855725821517,75075,False,

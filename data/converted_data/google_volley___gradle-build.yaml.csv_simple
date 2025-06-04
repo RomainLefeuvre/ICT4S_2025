@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew --continue verifyGoogleJavaFormat build connectedCheck,229.84268252952964,40755360,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,89.7495358330156,4432309,False,
+##[group]GITHUB_TOKEN Permissions,27.04472947100472,3144393,False,
+##[group]Run actions/cache@v2,26.07088929990081,1626077,False,
+##[group]Fetching the repository,5.306490399940203,440554,False,
+##[group]Run actions/checkout@v2,2.4513732124642686,182560,False,
+##[group]Setting up auth,1.2761546031085926,77336,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.2559674043580091,29651,False,

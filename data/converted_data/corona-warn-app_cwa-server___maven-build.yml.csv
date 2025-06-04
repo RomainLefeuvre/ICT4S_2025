@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.0962118290962178, , , , 4128746, False, 
+##[group]GITHUB_TOKEN Permissions, 829.7797362861938, , , , 3878050, False, 
+##[group]Run actions/checkout@v3, 32.8745531913789, , , , 175455, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 33.38795990494831, , , , 10609, False, 
+##[group]Setting up auth, 33.90136661851771, , , , 71265, False, 
+##[group]Fetching the repository, 140.7395336097649, , , , 424925, False, 
+##[group]Installed distributions, 534.1577879103621, , , , 1254573, False, 
+##[group]Run mvn -B -P integration-test verify --fail-fast --file pom.xml -Dorg.slf4j.simpleLogger.defaultLogLevel=warn, 1377.7615081510162, , , , 151450415, True, [ERROR] Tests run: 31, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.28 s <<< FAILURE! - in app.coronawarn.server.common.persistence.service.DiagnosisKeyServiceTest
+##[group]Run mvn -B sonar:sonar --fail-never -Dorg.slf4j.simpleLogger.defaultLogLevel=warn, 579.7363781726901, , , , 37584644, True, [ERROR] Failed to execute goal org.sonarsource.scanner.maven:sonar-maven-plugin:3.9.1.2184:sonar (default-cli) on project server: Your project contains .java files, please provide compiled classes with sonar.java.binaries property, or exclude them from the analysis with sonar.exclusions property. -> [Help 1]
+##[group]Run dorny/test-reporter@v1, 2.501822996316108, , , , 485561, False, 
+##[group]Listing all files tracked by git, 11.780397664983964, , , , 270653, False, 
+##[group]Creating test report Maven Tests, 3.455375999980888, , , , 1167653, True, ##[error]Failed test were found and 'fail-on-error' option is set to true
+##[group]Install Python dependencies, 186.24441299900192, , , , 22736465, True, ##[error]Process completed with exit code 1.

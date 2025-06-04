@@ -1,0 +1,15 @@
+##[group]==END_FILE==, 56.20376064205908, , , , 4552760, False, 
+Requested labels: self-hosted, 1445.853578205124, , , , 208530411, False, 
+##[group]GITHUB_TOKEN Permissions, 64.18018541953833, , , , 2646337, False, 
+##[group]Run actions/checkout@v4, 5.683975746171923, , , , 181317, True, ##[error]Input required and not supplied: token
+##[group]Removing previously created refs_ to avoid conflicts, 17.771840480309756, , , , 589722, False, 
+##[group]Cleaning the repository, 35.38636955172361, , , , 1071835, True, ##[error]Process completed with exit code 1.
+##[group]Setting up auth, 6.823838379012397, , , , 166293, False, 
+##[group]Fetching the repository, 24.828320456398, , , , 745382, False, 
+##[group]Installed distributions, 842.2059787963956, , , , 85224833, False, 
+##[group]Run etc/scripts/copyright.sh, 200.0863152149878, , , , 9421868, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 19.971213156781907, , , , 3156959, False, 
+##[group]Run actions/checkout@v4__dup_12, 9.606285862594238, , , , 175576, True, ##[error]Input required and not supplied: token
+##[group]Installed distributions__dup_13, 920.7683942996412, , , , 80877663, False, 
+##[group]Run git config user.email "helidon-robot_ww@oracle.com", 15.722419491041796, , , , 1835461, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v4, 10.370760445795206, , , , 744938, False, 

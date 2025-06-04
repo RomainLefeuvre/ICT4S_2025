@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,102.31597260209637,12651051,False,
+##[group]==END_FILE==,75.62212887867044,4412744,False,
+"##[group]Run echo ""No build required""",2.136615975058886,119937,False,
+"##[group]Run echo ""No build required""__dup_6",1.941181614414713,141323,False,
+##[group]GITHUB_TOKEN Permissions__dup_5,1.7256511811693276,128548,False,
+##[group]GITHUB_TOKEN Permissions,1.0239841471214035,128970,False,

@@ -1,0 +1,14 @@
+Requested labels: self-hosted, 0.0359204251682542, , , , 4236534, False, 
+##[group]GITHUB_TOKEN Permissions, 103.37745628080488, , , , 12086493, False, 
+##[group]Run actions/checkout@v4, 2.888186617240611, , , , 185195, False, 
+##[group]Setting up auth, 1.4576681065087629, , , , 61983, False, 
+##[group]Fetching the repository, 5.921171078624766, , , , 421792, False, 
+##[group]Checking out the ref, 1.5029174328036203, , , , 18851, False, 
+##[group]Installed distributions, 591.6211320199296, , , , 74443312, False, 
+##[group]Setup CodeQL tools, 12.56594880497111, , , , 1427629, False, 
+##[group]Validating workflow, 3.759579854483152, , , , 390131, False, 
+##[group]Load language configuration, 9.728161128274502, , , , 1039061, False, 
+##[group]Augmented user configuration file contents, 67.72545128609401, , , , 13309799, False, 
+##[group]Run ./gradlew assembleDebug, 186.30815503058204, , , , 8404421, True, ##[error]Process completed with exit code 1.
+##[group]Run github/codeql-action/analyze@v3, 43.18947888794167, , , , 1397966, False, 
+##[group]Finalizing java, 30.46833183426165, , , , 3781481, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.17.4/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.

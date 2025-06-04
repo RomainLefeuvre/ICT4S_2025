@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 0.1199658996926411, , , , 4658535, False, 
+##[group]GITHUB_TOKEN Permissions, 9.237999884403536, , , , 4290173, False, 
+##[group]Run actions/checkout@v3, 0.3234699610829029, , , , 149524, True, ##[error]Input required and not supplied: token
+##[group]Run actions/cache@v2, 2.280297124212628, , , , 581761, False, 
+##[group]Run actions/cache@v2__dup_5, 2.6061953876192296, , , , 557818, False, 
+##[group]Run actions/setup-java@v1, 1.3642036181983526, , , , 242114, False, 
+##[group]Run mvn -B package --file pom.xml, 3004.94055789554, , , , 303050151, True, [ERROR] Failed to execute goal com.github.eirslett:frontend-maven-plugin:1.12.1:pnpm (pnpm run build) on project frontend: Failed to run task: 'pnpm run build' failed. org.apache.commons.exec.ExecuteException: Process exited with an error: 134 (Exit value: 134) -> [Help 1]
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (default) @ metersphere ---, 41.249129708472, , , , 1556124, False, 
+[INFO] --- flatten-maven-plugin:1.6.0:flatten (flatten) @ metersphere ---, 12.07975350158215, , , , 623303, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:report (report) @ metersphere ---, 1.8695978100599615, , , , 127634, False, 
+[INFO] --- frontend-maven-plugin:1.12.1:install-node-and-pnpm (install node and pnpm) @ frontend ---, 532.9196847131433, , , , 167615759, False, 
+[INFO] --- frontend-maven-plugin:1.12.1:pnpm (pnpm install) @ frontend ---, 308.75385567644577, , , , 31997700, False, 
+##[group]Run mkdir -p backend/target/dependency && (cd backend/target/dependency; jar -xf ../*.jar), 2.8425780223879, , , , 345108, True, ##[error]Process completed with exit code 1.
+##[group]Run DOCKER_IMAGE=metersphere/metersphere, 1.0662306546595908, , , , 112840, False, 
+##[group]Run crazy-max/ghaction-docker-buildx@v3, 79.75517354454486, , , , 32667059, False, 
+##[group]Run docker buildx build --output "type=image_push=false" --platform linux/amd64_linux/arm64 --build-arg VERSION=v3.x --build-arg MS_VERSION=v3.x-c2ebecc2 --build-arg BUILD_DATE=2024-06-26T16:10:18Z --build-arg VCS_REF=c2ebecc2 --tag metersphere/metersphere:v3.x --tag metersphere/metersphere:latest ., 74.928052987016, , , , 23464122, True, ##[error]Process completed with exit code 1.
+##[group]Run docker/login-action@v1, 0.7024154599381643, , , , 163908, True, ##[error]Username and password required
+##[group]Run docker buildx build --output "type=image_push=true" --platform linux/amd64_linux/arm64 --build-arg VERSION=v3.x --build-arg MS_VERSION=v3.x-c2ebecc2 --build-arg BUILD_DATE=2024-06-26T16:10:18Z --build-arg VCS_REF=c2ebecc2 --tag metersphere/metersphere:v3.x --tag metersphere/metersphere:latest ., 181.6998231003193, , , , 31294834, True, ##[error]Process completed with exit code 1.

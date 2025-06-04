@@ -1,0 +1,8 @@
+##[group]Run npm install @octokit/action@6.0.6, 126.81891525673328, , , , 12937573, False, 
+##[group]GITHUB_TOKEN Permissions, 123.49935845971578, , , , 1926832, False, 
+##[group]Fetching the repository, 92.21007660927026, , , , 1011901, False, 
+##[group]Run actions/checkout@v3, 16.197564988634195, , , , 162751, False, 
+##[group]Setting up auth, 8.33925931573351, , , , 61497, False, 
+##[group]Run actions/github-script@v6, 4.560799999556181, , , , 256733, False, 
+##[group]Run echo "" >> $GITHUB_STEP_SUMMARY, 2.862685313050513, , , , 251929, True, ##[error]Unhandled error: TypeError: Cannot read properties of undefined (reading 'body')
+##[group]==END_FILE==, 0.0136475331558711, , , , 4569679, False, 

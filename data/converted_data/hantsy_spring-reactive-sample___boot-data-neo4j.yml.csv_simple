@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run cd boot-data-neo4j,4944.898257617775,539120576,False,
+[INFO] --- maven-surefire-plugin:3.1.2:test (default-test) @ spring-reactive-sample-boot-data-neo4j ---,1831.4625891274648,191876727,False,
+##[group]GITHUB_TOKEN Permissions,267.9319965798697,2404825,False,
+Requested labels: self-hosted,94.84187459233196,4521661,False,
+##[group]Installed distributions,87.83813898735417,14421048,False,
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-reactive-sample-boot-data-neo4j ---,80.78961704420038,11834271,False,
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-reactive-sample-boot-data-neo4j ---,38.83762466099118,1609632,False,
+##[group]Fetching the repository,31.0198115839892,423080,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-boot-data-neo4j ---,9.579696304041615,513189,False,
+##[group]Run actions/checkout@v4,8.562319281615075,158388,False,
+##[group]Setting up auth,8.203489776896063,64144,False,
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ spring-reactive-sample-boot-data-neo4j ---,5.679541794163102,192544,False,

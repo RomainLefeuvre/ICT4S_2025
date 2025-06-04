@@ -1,0 +1,28 @@
+##[group]Run pip3 install -r requirements.txt, 197.0593775615503, , , , 41111397, False, 
+##[group]GITHUB_TOKEN Permissions, 130.03960759332148, , , , 6290039, False, 
+##[group]Run mkdocs build, 108.14421142005664, , , , 9662493, False, 
+##[group]Run mvn clean install -Pjanusgraph-release -DskipTests=true, 53.64490173555551, , , , 13939649, True, [ERROR[m] Failed to execute goal org.apache.rat:apache-rat-plugin:0.16.1:check[m (rat-checks)[m on project janusgraph[m: Too many files with unapproved license: 21 See RAT report in: /home/power/actions-runner/_work/janusgraph/janusgraph/target/rat.txt[m -> [Help 1][m
+##[group]Booting builder, 30.97399816920693, , , , 15107698, False, 
+##[group]Run mvn deploy -Pjanusgraph-release -DskipTests=true, 30.2083458509243, , , , 4505495, True, [ERROR[m] Failed to execute goal org.apache.rat:apache-rat-plugin:0.16.1:check[m (rat-checks)[m on project janusgraph[m: Too many files with unapproved license: 21 See RAT report in: /home/power/actions-runner/_work/janusgraph/janusgraph/target/rat.txt[m -> [Help 1][m
+##[group]Removing builder, 23.880583513721017, , , , 7830474, False, 
+##[group]Installing QEMU static binaries, 17.844669316326595, , , , 9191880, False, 
+##[group]Run ncipollo/release-action@v1, 16.86187111351917, , , , 1586427, True, ##[error]Error 403: Resource not accessible by integration
+##[group]Docker info, 14.393277151344728, , , , 1390945, False, 
+##[group]Pulling binfmt Docker image, 9.508117832784285, , , , 5312553, False, 
+##[group]Extracting available platforms, 8.338887388217058, , , , 5907967, False, 
+##[group]Fetching the repository, 8.018632515433072, , , , 443560, False, 
+##[group]Post cache, 7.589924046345493, , , , 285836, False, 
+##[group]Run mv site ${JG_DOC_DIST_NAME}, 5.997202421680483, , , , 379826, False, 
+##[group]Run docker/login-action@v3__dup_15, 4.659497294059496, , , , 897371, False, 
+##[group]Run actions/checkout@v4, 3.676489158609984, , , , 181606, False, 
+##[group]Post cache__dup_28, 3.675443954404753, , , , 579085, False, 
+##[group]Run gpg --armor --detach-sign --yes janusgraph-dist/target/${JG_FULL_DIST_NAME}.zip, 2.648566315091879, , , , 54787, True, ##[error]Process completed with exit code 2.
+##[group]Creating a new builder instance, 1.8808115959090992, , , , 359769, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.7742851039727072, , , , 14348, False, 
+##[group]Setting up auth, 1.731645453751184, , , , 129840, False, 
+##[group]Run gpg --armor --detach-sign ${JG_DOC_DIST_NAME}.zip, 1.5939136138533958, , , , 26886, True, ##[error]Process completed with exit code 2.
+##[group]Run sudo apt-get update && sudo apt-get install -y python3-pip, 1.4059165739625057, , , , 194647, True, ##[error]Process completed with exit code 100.
+##[group]Run docker/login-action@v3, 1.034503941513056, , , , 293768, True, ##[error]Username and password required
+##[group]Run export RELEASE_TAG=master, 0.7400055600650701, , , , 5665, False, 
+##[group]Docker info__dup_11, 0.3783698284081175, , , , 109888, False, 
+##[group]Image info, 0.2471561932323983, , , , 51560, False, 

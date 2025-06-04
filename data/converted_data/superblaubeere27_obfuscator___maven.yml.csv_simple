@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn -B package --file pom.xml,71.89464314840167,9020090,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project obfuscator-annotations: Fatal error compiling: invalid target release: 15 -> [Help 1]
+##[group]Run actions/setup-java@v1,53.71272384680894,17787637,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ obfuscator-annotations ---,32.46419407916588,2660108,False,
+##[group]Run actions/upload-artifact@v1.0.0,6.271391560164172,478985,True,##[error]Path does not exist /home/power/actions-runner/_work/obfuscator/obfuscator/obfuscator-core/target/obfuscator-core-1.9.3-SNAPSHOT.jar
+##[group]Run actions/checkout@v1,1.0171386801586555,1501293,False,
+##[group]GITHUB_TOKEN Permissions,0.9493294348147456,2132214,False,
+Requested labels: self-hosted,0.0,5311801,False,

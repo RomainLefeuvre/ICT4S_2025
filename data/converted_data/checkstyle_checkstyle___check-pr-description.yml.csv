@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 1.37148655655148, , , , 4571309, False, 
+##[group]GITHUB_TOKEN Permissions, 5.024200164815366, , , , 1195630, False, 
+##[group]Run actions/checkout@v4, 1.0793136723135122, , , , 190773, False, 
+##[group]Cleaning the repository, 0.5598190843382244, , , , 58483, False, 
+##[group]Setting up auth, 0.5732605831258697, , , , 83854, False, 
+##[group]Fetching the repository, 2.427457320379933, , , , 457336, False, 
+##[group]Checking out the ref, 0.640468077064097, , , , 34987, False, 
+##[group]Run ./.ci/pr-description.sh, 4.125079936925136, , , , 590928, True, ##[error]Process completed with exit code 5.

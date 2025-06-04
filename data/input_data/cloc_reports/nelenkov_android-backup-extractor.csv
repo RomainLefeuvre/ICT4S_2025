@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (1772.7 files/s 140769.5 lines/s)"
+Java,/tmp/clone_directory/src/org/nick/abe/AndroidBackup.java,68,62,375
+Bourne Shell,/tmp/clone_directory/gradlew,28,116,105
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,69
+Markdown,/tmp/clone_directory/README.md,33,0,62
+Maven,/tmp/clone_directory/pom.xml,0,0,62
+Bourne Shell,/tmp/clone_directory/abe,11,18,49
+Java,/tmp/clone_directory/src/org/nick/abe/Main.java,15,1,48
+Gradle,/tmp/clone_directory/build.gradle,10,0,40
+Ant,/tmp/clone_directory/build.xml,4,2,24
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,11,18,22
+YAML,/tmp/clone_directory/.github/workflows/semgrep.yml,0,0,19
+XML,/tmp/clone_directory/.project,0,0,17
+XML,/tmp/clone_directory/assembly.xml,0,0,17
+XML,/tmp/clone_directory/.classpath,0,0,7
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,7
+JSON,/tmp/clone_directory/renovate.json,0,0,5
+YAML,/tmp/clone_directory/.jitpack.yml,0,0,2
+SUM,,201,219,930

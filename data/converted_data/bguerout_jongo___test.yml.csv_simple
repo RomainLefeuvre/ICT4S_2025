@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --batch-mode --update-snapshots verify,484.0482703687358,82076183,True,"[ERROR] Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 25.005 s <<< FAILURE! - in org.jongo.FindPartialFieldTest"
+##[group]GITHUB_TOKEN Permissions,80.7088567058068,14016265,False,
+##[group]Run actions/setup-java@v1,41.99773568666789,19216896,False,
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ jongo ---,28.21864388031885,2632624,False,
+[INFO] --- maven-bundle-plugin:2.4.0:manifest (bundle-manifest) @ jongo ---,24.233040286365423,3471894,False,
+[INFO] --- maven-compiler-plugin:3.7.0:compile (default-compile) @ jongo ---,13.29806706725774,2702799,False,
+[INFO] --- maven-compiler-plugin:3.7.0:testCompile (default-testCompile) @ jongo ---,12.915255134157738,859792,False,
+##[group]Fetching the repository,1.965252259239072,710949,False,
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ jongo ---,1.6495363809472592,13672,False,
+##[group]Run actions/checkout@v2,0.5468117796666517,186291,False,
+##[group]==END_FILE==,0.5319550462849353,4629117,False,
+##[group]Checking out the ref,0.2872787075618725,34798,False,

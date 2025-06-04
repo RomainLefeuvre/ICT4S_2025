@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 6.161528362923035, , , , 5243572, False, 
+##[group]GITHUB_TOKEN Permissions, 7.247209947030741, , , , 3273232, False, 
+##[group]Run styfle/cancel-workflow-action@0.5.0, 2.3246778396240506, , , , 687265, False, 
+##[group]Run actions/checkout@v2, 0.7231140745374351, , , , 164805, False, 
+##[group]Setting up auth, 0.3695916380969113, , , , 68027, False, 
+##[group]Fetching the repository, 1.5319305579089368, , , , 485804, False, 
+##[group]Checking out the ref, 0.3963736408575571, , , , 27055, False, 
+##[group]Run actions/setup-java@v1, 0.4017300414096862, , , , 116445, False, 
+##[group]Terminate Emulator, 1.7033353755770697, , , , 363168, True, ##[error]The process '/usr/bin/sh' failed with exit code 1

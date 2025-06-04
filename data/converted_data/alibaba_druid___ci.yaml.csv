@@ -1,0 +1,97 @@
+##[group]==END_FILE==, 10668.824895492868, , , , 590128387, False, 
+Requested labels: self-hosted, 7.862295620673634, , , , 5417524, False, 
+##[group]GITHUB_TOKEN Permissions, 6.846838887780795, , , , 3451956, False, 
+##[group]Run actions/checkout@v4, 2.169268021516249, , , , 185719, False, 
+##[group]Initializing the repository, 1.0637998326997316, , , , 102684, False, 
+##[group]Setting up auth, 1.049910380660803, , , , 74151, False, 
+##[group]Fetching the repository, 3.374475878048666, , , , 3378083, False, 
+##[group]Checking out the ref, 2.4950827572696803, , , , 529394, False, 
+##[group]Installed distributions, 0.208660643244316, , , , 2235379, False, 
+##[group]Run ./mvnw -Penable-for-jdk17+_gen-code-cov clean package -B, 5013.257148212383, , , , 275467688, True, 2024-06-11 19:13:39,877 [ERROR] DruidDataSource:1249 - testWhileIdle is true, validationQuery not set
+[INFO] --- maven-clean-plugin:3.2.0:clean (default-clean) @ druid-parent ---, 11.939453669678596, , , , 488716, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid-parent ---, 92.94334758465187, , , , 9554184, False, 
+[INFO] --- jacoco-maven-plugin:0.8.8:prepare-agent (default) @ druid-parent ---, 16.733941569508744, , , , 1245013, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid-parent ---, 8.660959301534426, , , , 742482, False, 
+[INFO] --- jacoco-maven-plugin:0.8.8:report (report) @ druid-parent ---, 165.25899605776036, , , , 22360327, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid ---, 250.2317260669249, , , , 18629757, False, 
+[INFO] --- maven-resources-plugin:3.3.0:resources (default-resources) @ druid ---, 10.061077399796186, , , , 706335, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid ---, 2263.996557255592, , , , 96485617, False, 
+[INFO] --- maven-resources-plugin:3.3.0:testResources (default-testResources) @ druid ---, 2.4849488074129336, , , , 67122, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:testCompile (java-test-compile) @ druid ---, 503.2103730923378, , , , 19240016, False, 
+[INFO] --- maven-surefire-plugin:3.0.0-M7:test (default-test) @ druid ---, 2321.223230107513, , , , 154760927, False, 
+##[group]Run codecov/codecov-action@v3.1.0, 104.20320306601, , , , 8921038, False, 
+##[group]==END_FILE==__dup_23, 73.8630678812455, , , , 9098140, False, 
+##[group]GITHUB_TOKEN Permissions__dup_24, 37.11381856844451, , , , 3921888, False, 
+##[group]Run actions/checkout@v4__dup_25, 7.708671128465351, , , , 187705, False, 
+##[group]Cleaning the repository, 7.450982948634963, , , , 390486, False, 
+##[group]Fetching the repository__dup_27, 6.340969874290491, , , , 516273, False, 
+##[group]Determining the checkout info, 1.527512464504986, , , , 18102, False, 
+##[group]Installed distributions__dup_29, 381.54433846443953, , , , 36001369, False, 
+##[group]Run ./mvnw -Penable-for-jdk17+_gen-code-cov clean package -B__dup_30, 4958.161909286428, , , , 227812583, True, 2024-06-11 19:13:39,877 [ERROR] DruidDataSource:1249 - testWhileIdle is true, validationQuery not set
+[INFO] --- maven-clean-plugin:3.2.0:clean (default-clean) @ druid-parent ---__dup_31, 4.135183949014301, , , , 149009, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid-parent ---__dup_32, 30.71609500890215, , , , 1255959, False, 
+[INFO] --- jacoco-maven-plugin:0.8.8:prepare-agent (default) @ druid-parent ---__dup_33, 3.232854326978553, , , , 68168, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid-parent ---__dup_34, 3.243025107524123, , , , 172420, False, 
+[INFO] --- jacoco-maven-plugin:0.8.8:report (report) @ druid-parent ---__dup_35, 13.073808235552194, , , , 373995, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid ---__dup_36, 431.63119589989776, , , , 17589028, False, 
+[INFO] --- maven-resources-plugin:3.3.0:resources (default-resources) @ druid ---__dup_37, 2.7735866850416664, , , , 134707, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid ---__dup_38, 2138.858107432751, , , , 92034311, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:testCompile (java-test-compile) @ druid ---__dup_39, 400.4774815207808, , , , 17994139, False, 
+[INFO] --- maven-surefire-plugin:3.0.0-M7:test (default-test) @ druid ---__dup_40, 2443.4289261063554, , , , 155819401, False, 
+##[group]GITHUB_TOKEN Permissions__dup_41, 24.780040192662067, , , , 3113180, False, 
+##[group]Run actions/checkout@v4__dup_42, 2.189152716888665, , , , 174658, False, 
+##[group]Getting Git version info, 2.3029516692061383, , , , 3464, False, 
+##[group]Cleaning the repository__dup_44, 12.652747869205424, , , , 404005, False, 
+##[group]Setting up auth__dup_45, 3.4746884112628607, , , , 155860, False, 
+##[group]Fetching the repository__dup_46, 6.986995239136463, , , , 633985, False, 
+##[group]Checking out the ref__dup_47, 1.6962303289692229, , , , 30131, False, 
+##[group]Installed distributions__dup_48, 352.0753559911768, , , , 37797466, False, 
+##[group]Run ./mvnw -Pgen-javadoc clean package -B, 7925.420772219788, , , , 377455358, True, 2024-06-11 19:13:39,877 [ERROR] DruidDataSource:1249 - testWhileIdle is true, validationQuery not set
+[INFO] --- maven-clean-plugin:3.2.0:clean (default-clean) @ druid-parent ---__dup_50, 4.067706422999004, , , , 124386, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid-parent ---__dup_51, 36.556972732587525, , , , 1390081, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid-parent ---__dup_52, 8.718414988309066, , , , 179835, False, 
+[INFO] --- maven-javadoc-plugin:3.4.1:jar (attach-javadoc) @ druid-parent ---, 168.3052488606236, , , , 9932917, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid ---__dup_54, 487.4808361852939, , , , 19001132, False, 
+[INFO] --- maven-resources-plugin:3.3.0:resources (default-resources) @ druid ---__dup_55, 3.689058642622849, , , , 83352, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid ---__dup_56, 2649.938115205176, , , , 108853708, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:testCompile (java-test-compile) @ druid ---__dup_57, 675.0471346791921, , , , 23270915, False, 
+[INFO] --- maven-surefire-plugin:3.0.0-M7:test (default-test) @ druid ---__dup_58, 1597.219720349141, , , , 79328667, True, 2024-06-11 19:13:39,877 [ERROR] DruidDataSource:1249 - testWhileIdle is true, validationQuery not set
+[INFO] --- maven-jar-plugin:3.2.2:jar (default-jar) @ druid ---, 72.56949209410817, , , , 2312384, True, 2024-06-11 19:14:25,411 [ERROR] DruidDataSource:2009 - {conn-48624439} discard
+[INFO] --- maven-javadoc-plugin:3.4.1:jar (attach-javadoc) @ druid ---, 846.3018099921543, , , , 34013844, True, 2024-06-11 19:14:25,413 [ERROR] DruidDataSource:2009 - {conn-48624458} discard
+[INFO] --- maven-source-plugin:3.2.1:jar-no-fork (attach-sources) @ druid ---, 134.7697801722872, , , , 6874960, True, 2024-06-11 19:14:25,442 [ERROR] DruidDataSource:2009 - {conn-48624936} discard
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid-spring-boot-starter ---, 5.334829154899211, , , , 128645, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid-spring-boot-starter ---, 13.277204502095362, , , , 249520, True, 2024-06-11 19:14:25,445 [ERROR] DruidDataSource:2009 - {conn-48624989} discard
+[INFO] --- maven-compiler-plugin:3.10.1:testCompile (java-test-compile) @ druid-spring-boot-starter ---, 9.13385363572297, , , , 263978, False, 
+[INFO] --- maven-surefire-plugin:3.0.0-M7:test (default-test) @ druid-spring-boot-starter ---, 320.3963368865872, , , , 10629373, True, 2024-06-11 19:14:25,445 [ERROR] DruidDataSource:2009 - {conn-48624991} discard
+[INFO] --- maven-javadoc-plugin:3.4.1:jar (attach-javadoc) @ druid-spring-boot-starter ---, 92.19488891643248, , , , 3020427, True, 2024-06-11 19:14:25,448 [ERROR] DruidDataSource:2009 - {conn-48625030} discard
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid-wrapper ---, 3.282913615639546, , , , 60497, False, 
+[INFO] --- maven-javadoc-plugin:3.4.1:jar (attach-javadoc) @ druid-wrapper ---, 292.77186798982416, , , , 28922968, True, 2024-06-11 19:14:25,449 [ERROR] DruidDataSource:2009 - {conn-48625041} discard
+[INFO] --- spring-javaformat-maven-plugin:0.0.31:validate (default) @ spring-petclinic ---, 57.60154684077119, , , , 6235323, True, 2024-06-11 19:14:25,454 [ERROR] DruidDataSource:2009 - {conn-48625130} discard
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (nohttp-checkstyle-validation) @ spring-petclinic ---, 79.6646183654395, , , , 6981289, True, 2024-06-11 19:14:25,455 [ERROR] DruidDataSource:2009 - {conn-48625147} discard
+[INFO] --- jacoco-maven-plugin:0.8.7:prepare-agent (default) @ spring-petclinic ---, 24.0783269263752, , , , 2514417, True, 2024-06-11 19:14:25,456 [ERROR] DruidDataSource:2009 - {conn-48625166} discard
+[INFO] --- git-commit-id-plugin:4.9.10:revision (default) @ spring-petclinic ---, 72.00484692615213, , , , 5333204, True, 2024-06-11 19:14:25,457 [ERROR] DruidDataSource:2009 - {conn-48625174} discard
+[INFO] --- spring-boot-maven-plugin:2.7.18:build-info (default) @ spring-petclinic ---, 58.70973444157468, , , , 8006736, True, 2024-06-11 19:14:25,458 [ERROR] DruidDataSource:2009 - {conn-48625195} discard
+[INFO] --- maven-resources-plugin:3.2.0:resources (default-resources) @ spring-petclinic ---, 6.941949564966036, , , , 678297, True, 2024-06-11 19:14:25,460 [ERROR] DruidDataSource:2009 - {conn-48625222} discard
+[INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ spring-petclinic ---, 5.585308728870644, , , , 263141, True, 2024-06-11 19:14:25,460 [ERROR] DruidDataSource:2009 - {conn-48625224} discard
+[INFO] --- maven-resources-plugin:3.2.0:testResources (default-testResources) @ spring-petclinic ---, 14.743418739644452, , , , 4282, False, 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-petclinic ---, 88.80757981410034, , , , 8733716, True, 2024-06-11 19:14:25,460 [ERROR] DruidDataSource:2009 - {conn-48625226} discard
+[INFO] --- maven-jar-plugin:3.2.2:jar (default-jar) @ spring-petclinic ---, 3.746873854308602, , , , 172923, False, 
+[INFO] --- spring-boot-maven-plugin:2.7.18:repackage (repackage) @ spring-petclinic ---, 633.4698806876507, , , , 54553535, False, 
+##[group]==END_FILE==__dup_80, 91.81312936525973, , , , 10378815, False, 
+##[group]GITHUB_TOKEN Permissions__dup_81, 38.79106574473792, , , , 3171757, False, 
+##[group]Run actions/checkout@v4__dup_82, 6.984331674140895, , , , 191560, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.8429635696572324, , , , 21249, False, 
+##[group]Cleaning the repository__dup_84, 12.560547109504064, , , , 555018, False, 
+##[group]Setting up auth__dup_85, 2.282734342534509, , , , 65212, False, 
+##[group]Fetching the repository__dup_86, 10.649088114784862, , , , 443855, False, 
+##[group]Installed distributions__dup_87, 373.70702591701024, , , , 34621600, False, 
+##[group]Run ./mvnw -Pgen-javadoc clean package -B__dup_88, 5361.832550837588, , , , 245893391, True, 2024-06-11 19:13:39,877 [ERROR] DruidDataSource:1249 - testWhileIdle is true, validationQuery not set
+[INFO] --- maven-clean-plugin:3.2.0:clean (default-clean) @ druid-parent ---__dup_89, 7.091858918110131, , , , 155255, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid-parent ---__dup_90, 31.75477638292581, , , , 1012797, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid-parent ---__dup_91, 13.996166508002265, , , , 132369, False, 
+[INFO] --- maven-javadoc-plugin:3.4.1:jar (attach-javadoc) @ druid-parent ---__dup_92, 14.621652614615671, , , , 800002, False, 
+[INFO] --- maven-checkstyle-plugin:3.1.2:check (checkstyle) @ druid ---__dup_93, 554.9836186634785, , , , 19588558, False, 
+[INFO] --- maven-resources-plugin:3.3.0:resources (default-resources) @ druid ---__dup_94, 2.778886045769161, , , , 64895, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:compile (java-compile) @ druid ---__dup_95, 2650.5942695995773, , , , 118328474, False, 
+[INFO] --- maven-resources-plugin:3.3.0:testResources (default-testResources) @ druid ---__dup_96, 2.609104701029453, , , , 87010, False, 
+[INFO] --- maven-compiler-plugin:3.10.1:testCompile (java-test-compile) @ druid ---__dup_97, 518.8494028949434, , , , 18627875, False, 

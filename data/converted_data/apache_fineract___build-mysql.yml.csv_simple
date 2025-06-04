@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Starting mariad service container,85.36316689965395,35561927,False,
+##[group]Waiting for all services to be ready,80.80025573128829,13156390,False,
+##[group]GITHUB_TOKEN Permissions,54.05700915351942,5115672,False,
+##[group]Run actions/upload-artifact@5d5d22a31266ced268874388b861e4b58bb5c2f3__dup_9,52.603539229695926,6971633,False,
+##[group]Create local container network,22.304700047835272,578258,False,
+##[group]Starting mock-oauth2-server service container,15.201025522837586,11031247,False,
+##[group]Checking docker version,5.21756083171352,46310,False,
+##[group]Run actions/upload-artifact@5d5d22a31266ced268874388b861e4b58bb5c2f3,2.539554753617176,539164,False,
+##[group]Service container mariad failed.,0.2716981571472477,101871,True,##[error]Failed to initialize container mysql:8.3

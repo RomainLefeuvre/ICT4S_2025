@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/jumpserver/action-issues-alert/master/Dockerfile'.,76.47776394133523,6385632,False,
+##[group]GITHUB_TOKEN Permissions,74.29578977964756,1115201,False,
+##[group]Run jumpserver/action-issues-alert@master,24.313461936555267,14218408,False,
+Requested labels: self-hosted,0.0,4577454,False,

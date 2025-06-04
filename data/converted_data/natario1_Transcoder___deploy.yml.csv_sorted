@@ -1,0 +1,8 @@
+##[group]Run actions/setup-java@v2, 982.5603946944332, , , , 102064717, False, 
+##[group]GITHUB_TOKEN Permissions, 201.514355051248, , , , 2427756, False, 
+Requested labels: self-hosted, 72.39226058618557, , , , 4400751, False, 
+##[group]Run ./gradlew publishToSonatype, 27.441391236503044, , , , 16943173, True, ##[error]Process completed with exit code 1.
+##[group]Fetching the repository, 27.313754541901773, , , , 465761, False, 
+##[group]Run actions/checkout@v2, 12.785884605889882, , , , 184340, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 12.213459132311677, , , , 138770, False, 
+##[group]Cleaning the repository, 5.892070013564011, , , , 67830, False, 

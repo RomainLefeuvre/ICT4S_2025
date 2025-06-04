@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 0.0161371233882321, , , , 5675971, False, 
+##[group]GITHUB_TOKEN Permissions, 12.120820731223112, , , , 7529399, False, 
+##[group]Run actions/cache@v4, 18.995780327492145, , , , 1757643, False, 
+##[group]Run actions/checkout@v4, 0.9174957865928004, , , , 106787, False, 
+##[group]Setting up auth, 0.9029878557809774, , , , 58608, False, 
+##[group]Fetching the repository, 142.5223017061236, , , , 26700612, False, 
+##[group]Checking out the ref, 15.027375703379372, , , , 731370, False, 
+##[group]Run mvn clean package -DskipTests, 1003.8847265224892, , , , 92599087, False, 
+##[group]Run export ORS_VERSION=8.1.SNAPSHOT, 37.340284039227406, , , , 3430599, True, ##[error]Process completed with exit code 1.
+##[group]Run cp ors-api/src/test/files/elevation/srtm_38_03.gh .rpm-packaging/, 110.43222014253442, , , , 24298966, True, ##[error]Process completed with exit code 1.

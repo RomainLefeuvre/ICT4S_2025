@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,9.576360876474968,2681606,False,
+Requested labels: self-hosted,3.0898148074792395,6385551,False,
+##[group]Determining release tags,2.7007363915645963,454502,True,"##[error]The parameter ""automatic_release_tag"" was not set and this does not appear to be a GitHub tag event. (Event: refs/heads/master)"
+##[group]Run actions/setup-java@v2,1.4813414005505952,228871,False,
+##[group]Run actions/checkout@v2.3.4,0.4783248630292914,150476,False,

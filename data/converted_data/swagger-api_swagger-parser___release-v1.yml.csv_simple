@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v2,143.8579072654425,18756035,False,
+##[group]Run # export GPG_TTY=$(tty),66.61626962184448,6509721,False,
+##[group]GITHUB_TOKEN Permissions,39.55687224380208,5851493,False,
+##[group]Fetching the repository,26.92941436418138,470628,False,
+##[group]Run actions/checkout@v2,14.036353658558602,181648,False,
+"##[group]Run git config --global user.email ""action@github.com""",12.561494003815694,1090537,True,##[error]Process completed with exit code 5.
+##[group]Run actions/setup-java@v2,12.321414229154865,245939,False,
+##[group]Setting up auth,6.910993114941567,62760,False,
+##[group]Checking out the ref,6.553714067149121,23886,False,
+##[group]Run tibdex/github-app-token@v1,6.482258257590632,127310,True,##[error]Error: Input required and not supplied: app_id
+Requested labels: self-hosted,0.7858172639623422,4488511,False,

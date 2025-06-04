@@ -1,0 +1,14 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run license-eye -v info -c .licenserc.yaml header check,412.1550771219575,39452365,True,##[error]Process completed with exit code 1.
+##[group]Run make -C $GITHUB_ACTION_PATH install,171.6760753059181,26886119,False,
+##[group]GITHUB_TOKEN Permissions,64.94758846136236,3073491,False,
+##[group]go env,21.893787200133985,629587,False,
+##[group]Run actions/setup-go@v5,20.577558559059312,614584,False,
+##[group]Fetching the repository,15.59408443128072,499406,False,
+##[group]Removing previously created refs_ to avoid conflicts,14.314417696902574,497848,False,
+##[group]Setting up auth,5.981700425636659,152391,False,
+##[group]==END_FILE==,3.7114647549121953,4466190,False,
+##[group]Persisting credentials for submodules,3.2650645130422182,123072,False,
+##[group]Fetching submodules,3.2285026063457005,99249,False,
+##[group]Getting Git version info,2.753197819290959,6593,False,
+##[group]Run actions/checkout@v3,2.71663591259444,156895,False,

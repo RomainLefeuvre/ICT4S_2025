@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ant -Dos.prefix=darwin-aarch64,1007.9267393287496,24147974,True,##[error]Process completed with exit code 127.
+##[group]Fetching the repository,37.08920899748182,11046024,False,
+##[group]==END_FILE==,16.510305168400713,5463259,False,
+##[group]Run actions/upload-artifact@v4,13.752104030696104,2099172,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,6.878056028213105,3308081,False,
+##[group]Run brew update,6.340964029512274,573354,False,
+##[group]Installed distributions,4.150259965115975,495186,False,
+##[group]Checking out the ref,3.988888830740534,773197,False,
+##[group]Run actions/checkout@v4,0.6004652088122552,170026,False,
+##[group]Determining the checkout info,0.3416127879149007,73458,False,
+##[group]Setting up auth,0.3076763879864448,63679,False,

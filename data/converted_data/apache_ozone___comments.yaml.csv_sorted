@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 38.41353625565469, , , , 1216952, False, 
+##[group]Fetching the repository, 23.58725910434937, , , , 488057, False, 
+##[group]Run ./.github/process-comment.sh, 20.89157234956658, , , , 327587, False, 
+##[group]Run actions/checkout@v4, 8.199380545797638, , , , 141328, False, 
+##[group]Setting up auth, 4.380490976522025, , , , 73528, False, 
+##[group]==END_FILE==, 0.0, , , , 4000206, False, 

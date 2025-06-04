@@ -1,0 +1,11 @@
+##[group]==END_FILE==, 0.2472066847057079, , , , 3744775, False, 
+##[group]GITHUB_TOKEN Permissions, 141.77263460156286, , , , 1384747, False, 
+##[group]Run actions/checkout@v4, 13.371808841762178, , , , 181278, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 42.16502152602824, , , , 307407, False, 
+##[group]Cleaning the repository, 166.1700092626987, , , , 1008566, False, 
+##[group]Setting up auth, 18.495796343616423, , , , 112890, False, 
+##[group]Fetching the repository, 139.0353510754429, , , , 662712, False, 
+##[group]Determining the checkout info, 42.79877852266766, , , , 195369, False, 
+##[group]Checking out the ref, 89.6967470468187, , , , 414967, False, 
+##[group]Removing auth, 23.278184678680383, , , , 131028, False, 
+##[group]Run mvn -q dependency:copy -Dartifact=org.apache.maven.indexer:search-backend-smo:7.1.1 -DoutputDirectory=./lib, 304.0803664247126, , , , 22105865, True, ##[error]Process completed with exit code 1.

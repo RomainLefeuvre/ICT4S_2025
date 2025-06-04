@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run variants=(""http"" ""sdk"")",2079.533673173988,383117935,False,
+##[group]Run actions/setup-dotnet@v3,482.29832741678666,70372502,False,
+"##[group]Run echo ""PATH=$PATH:$HOME/.local/bin"" >> $GITHUB_ENV",146.70648657118485,10032068,False,
+##[group]GITHUB_TOKEN Permissions,111.38340484579436,2856743,False,
+##[group]Run export GITHUB_TOKEN=***,100.97060335251776,27732561,False,
+##[group]Run wget -q https://raw.githubusercontent.com/dapr/cli/v1.13.0/install//install.sh -O - | /bin/bash -s 1.13.0,91.22718787942476,9033710,False,
+##[group]Run make validate,57.30140375659568,3443845,True,##[error]Process completed with exit code 2.
+##[group]Fetching the repository,49.27222587021091,441226,False,
+##[group]Run actions/checkout@v2,25.091859192634928,165217,False,
+##[group]Removing previously created refs_ to avoid conflicts,23.43556108661937,246638,False,
+##[group]Cleaning the repository,11.096668753553852,37725,False,
+##[group]==END_FILE==,0.3246697977784158,4387714,False,

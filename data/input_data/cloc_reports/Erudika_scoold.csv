@@ -1,0 +1,202 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.15 s (173.7 files/s 42100.8 lines/s)"
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/ScooldConfig.java,370,84,3087
+SVG,/tmp/clone_directory/src/main/resources/static/fonts/fontawesome-webfont.svg,0,0,2671
+Markdown,/tmp/clone_directory/README.md,501,0,2420
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/ScooldUtils.java,247,67,2069
+YAML,/tmp/clone_directory/src/main/resources/templates/api.yaml,2,0,1936
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/scoold.js,174,73,1374
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/macro.vm,42,49,1136
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/api/ApiController.java,89,24,1077
+HTML,/tmp/clone_directory/docs/index.html,26,13,1056
+CSS,/tmp/clone_directory/src/main/resources/static/styles/style.css,47,13,770
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/AdminController.java,34,28,743
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Profile.java,115,22,617
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/QuestionController.java,38,33,563
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Post.java,86,33,474
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/ProfileController.java,42,22,471
+Properties,/tmp/clone_directory/src/main/resources/lang_en.properties,21,0,459
+HTML,/tmp/clone_directory/docs/teams.html,28,12,451
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/QuestionsController.java,28,23,444
+Properties,/tmp/clone_directory/src/main/resources/lang_ar.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_bg.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_da.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_de.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_es.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_fa.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_fr.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_he.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_hi.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_it.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_ja.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_ko.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_nl.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_pt.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_ru.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_tr.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_zh_cn.properties,21,0,444
+Properties,/tmp/clone_directory/src/main/resources/lang_zh_tw.properties,21,0,444
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/base.vm,22,6,441
+HTML,/tmp/clone_directory/docs/slack.html,25,12,438
+HTML,/tmp/clone_directory/docs/mattermost.html,25,12,426
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/profile.vm,26,0,407
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/SigninController.java,27,21,400
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/admin.vm,15,1,371
+Maven,/tmp/clone_directory/pom.xml,24,26,317
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/SearchController.java,23,22,289
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/signin.vm,18,0,288
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/PeopleController.java,21,25,273
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/ScooldServer.java,25,30,266
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/questions.vm,18,0,240
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/ReportsController.java,16,24,234
+JSON,/tmp/clone_directory/app.json,0,0,224
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/settings.vm,9,0,220
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/people.vm,8,0,206
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/about.vm,9,0,197
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/FeedbackController.java,13,23,195
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/HttpUtils.java,20,96,194
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/ScooldRequestInterceptor.java,6,39,187
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/TagsController.java,14,21,179
+HTML,/tmp/clone_directory/src/main/resources/emails/notify.html,3,4,167
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/VoteController.java,19,23,165
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/SettingsController.java,16,21,162
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/question.vm,14,0,159
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/LanguageUtils.java,17,59,153
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/terms.vm,16,0,152
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityView.java,32,244,142
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/feedback.vm,15,0,140
+CSS,/tmp/clone_directory/src/main/resources/static/styles/rtl.css,23,0,137
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/reports.vm,12,0,135
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/privacy.vm,10,0,133
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityEngineFactory.java,32,172,125
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Report.java,30,21,117
+SVG,/tmp/clone_directory/src/main/resources/static/images/google.svg,0,0,108
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,39,0,103
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/CommentController.java,9,23,103
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Revision.java,25,21,100
+Java,/tmp/clone_directory/src/test/java/com/erudika/scoold/utils/avatars/GravatarAvatarRepositoryTest.java,28,17,91
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/search.vm,9,0,90
+XML,/tmp/clone_directory/src/main/resources/checkstyle.xml,15,30,88
+JSON,/tmp/clone_directory/azuredeploy.json,0,0,87
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/revisions.vm,5,0,84
+Java,/tmp/clone_directory/src/test/java/com/erudika/scoold/utils/avatars/AvatarRepositoryProxyTest.java,19,17,83
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Comment.java,19,21,79
+SVG,/tmp/clone_directory/src/main/resources/static/images/paradark.svg,0,0,79
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/ScooldEmailer.java,7,21,75
+Java,/tmp/clone_directory/src/test/java/com/erudika/scoold/utils/avatars/GravatarAvatarGeneratorTest.java,21,17,75
+YAML,/tmp/clone_directory/helm/scoold/templates/deployment.yaml,0,0,74
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/SpringResourceLoader.java,20,31,74
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/tags.vm,4,1,72
+Java,/tmp/clone_directory/src/test/java/com/erudika/scoold/utils/avatars/ImgurAvatarRepositoryTest.java,22,17,68
+Java,/tmp/clone_directory/src/test/java/com/erudika/scoold/utils/avatars/CloudinaryAvatarRepositoryTest.java,21,17,67
+SVG,/tmp/clone_directory/src/main/resources/static/images/logosq.svg,1,1,64
+YAML,/tmp/clone_directory/helm/scoold/templates/ecr_helper_cronjob.yaml,0,1,63
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityLayoutView.java,20,91,63
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/api/WebhooksController.java,7,21,61
+XML,/tmp/clone_directory/src/main/resources/logback.xml,7,1,61
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Badge.java,14,21,59
+CSS,/tmp/clone_directory/src/main/resources/themes/dark.css,5,6,54
+Markdown,/tmp/clone_directory/helm/README.md,24,0,53
+YAML,/tmp/clone_directory/src/test/resources/cassandra.yaml,47,277,53
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/ApiDocsController.java,6,21,52
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/AboutController.java,7,21,50
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/diff_match_patch.js,0,0,49
+SVG,/tmp/clone_directory/docs/slack.svg,0,1,48
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/RevisionsController.java,5,22,48
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/LanguagesController.java,6,21,46
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/CloudinaryAvatarRepository.java,15,17,45
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/PrivacyController.java,6,21,44
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/TermsController.java,6,21,44
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/GravatarAvatarRepository.java,12,17,44
+Bourne Shell,/tmp/clone_directory/installer.sh,6,5,43
+YAML,/tmp/clone_directory/.github/workflows/tag.yml,9,9,42
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/AvatarRepositoryProxy.java,10,17,41
+SVG,/tmp/clone_directory/docs/mattermost.svg,0,0,40
+YAML,/tmp/clone_directory/helm/scoold/templates/ingress.yaml,0,0,40
+YAML,/tmp/clone_directory/.github/workflows/latest.yml,9,9,39
+YAML,/tmp/clone_directory/docker-compose.yml,2,0,39
+XML,/tmp/clone_directory/src/main/resources/static/sitemap.xml,1,1,39
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/ErrorController.java,7,21,36
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/GravatarAvatarGenerator.java,10,17,36
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/ImgurAvatarRepository.java,9,17,36
+JavaScript,/tmp/clone_directory/src/main/resources/static/service-worker.js,8,32,36
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityConfigurer.java,14,74,34
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityLayoutViewResolver.java,14,60,34
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/emoji-picker.js,2,2,33
+YAML,/tmp/clone_directory/helm/scoold/values.yaml,13,35,32
+CSS,/tmp/clone_directory/src/main/resources/static/styles/api.css,0,0,32
+Java,/tmp/clone_directory/src/test/java/com/erudika/scoold/utils/avatars/DefaultAvatarRepositoryTest.java,7,17,31
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/DefaultAvatarRepository.java,6,17,29
+Bourne Shell,/tmp/clone_directory/gencerts.sh,8,20,28
+Java,/tmp/clone_directory/src/main/java-templates/com/erudika/scoold/utils/Version.java,8,21,27
+Text,/tmp/clone_directory/helm/scoold/templates/NOTES.txt,1,0,26
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/RequestNotSupportedExceptionHandler.java,4,21,26
+Text,/tmp/clone_directory/src/main/resources/static/humans.txt,10,0,26
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/error.vm,1,0,26
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/pagination.vm,0,0,26
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/controllers/NotFoundController.java,5,21,23
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/languages.vm,2,7,21
+CSS,/tmp/clone_directory/src/main/resources/themes/mono.css,4,6,21
+YAML,/tmp/clone_directory/app.gae.yaml,3,1,20
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/apidocs.vm,0,0,20
+YAML,/tmp/clone_directory/helm/scoold/templates/service.yaml,0,0,19
+CSS,/tmp/clone_directory/src/main/resources/themes/blue.css,4,6,19
+YAML,/tmp/clone_directory/helm/scoold/templates/tests/test-connection.yaml,0,0,18
+Text,/tmp/clone_directory/src/main/resources/static/robots.txt,2,0,18
+CSS,/tmp/clone_directory/src/main/resources/themes/orange.css,4,6,18
+Text,/tmp/clone_directory/docs/humans.txt,7,0,17
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityViewResolver.java,7,27,17
+CSS,/tmp/clone_directory/src/main/resources/themes/green.css,4,6,17
+CSS,/tmp/clone_directory/src/main/resources/themes/red.css,4,6,17
+YAML,/tmp/clone_directory/helm/scoold/Chart.yaml,1,0,15
+YAML,/tmp/clone_directory/helm/scoold/templates/configmap.yaml,0,0,15
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Feedback.java,5,21,15
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/AvatarFormat.java,4,17,15
+CSS,/tmp/clone_directory/src/main/resources/themes/default.css,4,6,15
+INI,/tmp/clone_directory/.editorconfig,3,0,13
+Markdown,/tmp/clone_directory/SECURITY.md,10,0,13
+YAML,/tmp/clone_directory/app.yml,1,1,13
+Dockerfile,/tmp/clone_directory/Dockerfile,7,0,12
+JSON,/tmp/clone_directory/azuredeploy.parameters.json,0,0,12
+YAML,/tmp/clone_directory/helm/scoold/templates/ecr_helper_role.yaml,0,0,12
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/swagger-ui-bundle.js,0,122,12
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/comment.vm,1,0,12
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/BadRequestException.java,4,21,10
+SVG,/tmp/clone_directory/src/main/resources/static/images/anon.svg,0,0,10
+SVG,/tmp/clone_directory/src/main/resources/static/images/logo.svg,0,0,10
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Question.java,3,21,9
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/notfound.vm,1,0,9
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,2,0,7
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Reply.java,2,21,7
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/Sticky.java,2,21,7
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/UnauthorizedException.java,4,21,7
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/utils/avatars/AvatarRepository.java,4,17,7
+Properties,/tmp/clone_directory/src/main/resources/application.properties,0,3,7
+SVG,/tmp/clone_directory/src/main/resources/static/images/para.svg,0,0,7
+YAML,/tmp/clone_directory/helm/scoold/templates/ecr_helper_account.yaml,0,0,5
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/velocity/VelocityConfig.java,5,29,5
+Text,/tmp/clone_directory/src/main/resources/banner.txt,0,0,5
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/UnapprovedQuestion.java,1,21,4
+Java,/tmp/clone_directory/src/main/java/com/erudika/scoold/core/UnapprovedReply.java,2,21,4
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/swagger-ui-standalone-preset.js,0,18,4
+Text,/tmp/clone_directory/docs/robots.txt,1,0,2
+CSS,/tmp/clone_directory/src/main/resources/static/styles/swagger-ui.css,1,1,2
+SVG,/tmp/clone_directory/docs/microsoft-teams.svg,0,0,1
+SVG,/tmp/clone_directory/docs/zapier.svg,0,0,1
+SVG,/tmp/clone_directory/src/main/resources/static/images/amazon.svg,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/easymde.min.js,0,6,1
+JSON,/tmp/clone_directory/src/main/resources/static/scripts/emojibase/data.json,0,0,1
+JSON,/tmp/clone_directory/src/main/resources/static/scripts/emojibase/messages.json,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/highlight.min.js,0,1,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/inline-attachment.min.js,0,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/jquery.min.js,0,1,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/materialize.min.js,0,5,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/picmo-popup.min.js,1,0,1
+JavaScript,/tmp/clone_directory/src/main/resources/static/scripts/picmo.min.js,1,0,1
+CSS,/tmp/clone_directory/src/main/resources/static/styles/easymde.min.css,0,6,1
+CSS,/tmp/clone_directory/src/main/resources/static/styles/font-awesome.min.css,0,3,1
+CSS,/tmp/clone_directory/src/main/resources/static/styles/highlighting.css,0,4,1
+CSS,/tmp/clone_directory/src/main/resources/static/styles/materialize.min.css,0,11,1
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/reply.vm,0,0,1
+Velocity Template Language,/tmp/clone_directory/src/main/resources/templates/space.vm,0,0,1
+Properties,/tmp/clone_directory/system.properties,0,0,1
+SUM,,3597,3112,41753

@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,98.3743879425142,1081731,False,
+##[group]Run actions/create-release@v1,64.2394833902703,582897,True,"##[error]Validation Failed: {""resource"":""Release"",""code"":""custom"",""field"":""pre_receive"",""message"":""pre_receive Sorry, branch or tag names starting with 'refs/' are not allowed.""}, {""resource"":""Release"",""code"":""custom"",""message"":""Published releases must have a valid tag""}"
+Requested labels: self-hosted,0.0,6042575,False,

@@ -1,0 +1,17 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,76.93087131513461,6555614,False,
+##[group]GITHUB_TOKEN Permissions,74.5818869298017,12210861,False,
+##[group]Setup CodeQL tools,55.065934237605255,3859335,False,
+##[group]Waiting for processing to finish,39.9524191396055,6284033,False,
+##[group]Attempting to automatically build java code,38.077527385124895,5006498,True,"[2024-04-12 22:09:48] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir/init.gradle, clean])"
+##[group]Augmented user configuration file contents,33.028287078482606,4315467,False,
+##[group]Run github/codeql-action/autobuild@v2,32.44566082748594,1744712,False,
+##[group]Fetching the repository,21.484275605013146,3536119,False,
+##[group]Finalizing java,15.40068544139466,5137063,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.17.0/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. Review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]Run github/codeql-action/analyze@v2,13.729117827632903,1717276,False,
+##[group]Run github/codeql-action/init@v2,12.973614905059726,491406,False,
+##[group]Load language configuration,10.290190906422255,2309548,False,
+##[group]Validating workflow,8.493724243738141,503779,False,
+##[group]Checking out the ref,6.216629010517755,283449,False,
+##[group]Uploading results,3.6381249229000687,419949,False,
+##[group]Run actions/checkout@v2,3.0857734138707014,199163,False,

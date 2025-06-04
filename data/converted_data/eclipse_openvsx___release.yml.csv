@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.0, , , , 4752879, False, 
+##[group]GITHUB_TOKEN Permissions, 76.34992595599601, , , , 2173134, False, 
+##[group]Run actions/checkout@v2, 23.75507557119791, , , , 181078, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 74.59379703708005, , , , 718460, False, 
+##[group]Cleaning the repository, 68.96630620978172, , , , 715441, False, 
+##[group]Fetching the repository, 40.32610637451945, , , , 521217, False, 
+##[group]Run docker build -t $WEBUI_TAG:$IMAGE_VERSION webui, 15.685022611867394, , , , 338828, True, ##[error]Process completed with exit code 1.
+##[group]Run docker build -t $SERVER_TAG:$IMAGE_VERSION server, 9.099702779004833, , , , 193016, True, ##[error]Process completed with exit code 1.
+##[group]Run echo  | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin, 11.614085725147095, , , , 282436, True, ##[error]Process completed with exit code 1.

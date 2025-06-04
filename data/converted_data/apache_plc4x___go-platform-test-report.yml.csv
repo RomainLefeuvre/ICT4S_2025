@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 14.045575691142613, , , , 15398575, False, 
+##[group]GITHUB_TOKEN Permissions, 15.285892273230653, , , , 1872861, False, 
+##[group]Run dorny/test-reporter@v1, 2.13693082306527, , , , 202549, False, 
+##[group]Fetching list of tracked files from GitHub, 17.323460860992107, , , , 1442226, True, ##[error]No test report files were found
+##[group]GITHUB_TOKEN Permissions__dup_5, 32.19039939627616, , , , 1463695, False, 
+##[group]Run dorny/test-reporter@v1__dup_6, 5.526416947897481, , , , 198261, False, 
+##[group]Fetching list of tracked files from GitHub__dup_7, 58.08784869551387, , , , 1822548, True, ##[error]No test report files were found
+##[group]==END_FILE==, 31.66060274091757, , , , 6453722, False, 
+##[group]GITHUB_TOKEN Permissions__dup_9, 8.956160552242114, , , , 1440038, False, 
+##[group]Run dorny/test-reporter@v1__dup_10, 10.190935741399096, , , , 192489, False, 
+##[group]Fetching list of tracked files from GitHub__dup_11, 13.710665199725764, , , , 1216035, True, ##[error]No test report files were found

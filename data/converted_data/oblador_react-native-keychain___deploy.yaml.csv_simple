@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run npm publish,19.07662164601186,7327320,True,##[error]Process completed with exit code 127.
+##[group]Fetching the repository,7.302702943474899,572193,False,
+##[group]GITHUB_TOKEN Permissions,6.227354796698828,2029735,False,
+##[group]Run actions/checkout@v2,2.4635027553628066,192181,False,
+##[group]Getting Git version info,2.4561856451450126,216415,False,
+##[group]Run actions/setup-node@v2,2.4159415389471497,204139,False,
+##[group]Initializing the repository,1.2253489062408338,159369,False,
+##[group]Setting up auth,1.2235196286863856,84490,False,
+##[group]==END_FILE==,0.0,5773435,False,

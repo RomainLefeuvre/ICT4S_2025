@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v2,958.350413793988,113228482,False,
+##[group]Installed distributions,852.5026621073325,130092932,False,
+##[group]GITHUB_TOKEN Permissions,56.26366691253201,4245790,False,
+##[group]Run ./gradlew build,36.98234181388315,1231255,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew jvmTestSdk -S,15.215768627374684,970929,True,##[error]Process completed with exit code 1.
+Requested labels: self-hosted,7.402154441524032,5147574,False,
+##[group]Run ./gradlew buildSdk -S,6.650300842666782,7826422,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,5.647019561434833,452326,False,
+##[error]Input required and not supplied: api-level,3.490335883054764,16450,True,##[error]Input required and not supplied: api-level
+##[group]Run actions/checkout@v2,2.907778675340553,165493,False,
+##[group]Removing previously created refs_ to avoid conflicts,1.4412490034768062,29795,False,
+##[group]Setting up auth,1.4328221140144926,71469,False,

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run npm install && npm run deploy,3012.143893777883,178050046,True,##[error]Process completed with exit code 128.
+##[group]GITHUB_TOKEN Permissions,25.179006701471057,2510846,False,
+##[group]Run actions/setup-node@v1,16.282788634576573,5726070,False,
+##[group]Fetching the repository,9.056019581993782,942332,False,
+Requested labels: self-hosted,5.334938374834915,6148851,False,
+##[group]Run actions/checkout@master,2.0130281441307103,184723,False,
+##[group]Setting up auth,1.00644722420396,59441,False,
+##[group]Checking out the ref,1.0060015717946589,68706,False,

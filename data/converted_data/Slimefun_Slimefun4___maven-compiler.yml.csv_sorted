@@ -1,0 +1,6 @@
+##[group]Run mvn package --file pom.xml, 1758.750741451682, , , , 163629752, False, 
+##[group]GITHUB_TOKEN Permissions, 217.352561884632, , , , 3311120, False, 
+##[group]Run actions/cache@v4, 201.6592547370703, , , , 1446457, False, 
+##[group]Fetching the repository, 53.1530663552831, , , , 417750, False, 
+##[group]Run actions/checkout@v4, 9.927279009869604, , , , 143252, False, 
+Requested labels: self-hosted, 1.587069098612118, , , , 4028990, False, 

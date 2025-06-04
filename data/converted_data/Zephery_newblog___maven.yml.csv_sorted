@@ -1,0 +1,7 @@
+##[group]Run actions/setup-java@v1, 96.69717553942338, , , , 22798950, False, 
+##[group]Run mvn clean package install -Dmaven.test.skip=true, 44.35154715483968, , , , 4214493, True, [ERROR[m] [ERROR] Some problems were encountered while processing the POMs:
+##[group]GITHUB_TOKEN Permissions, 16.726965454279732, , , , 1836401, False, 
+##[group]Fetching the repository, 10.045521631365872, , , , 1442346, False, 
+Requested labels: self-hosted, 6.599317857609055, , , , 5795600, False, 
+##[group]Run actions/checkout@v2, 1.5546597173606844, , , , 191446, False, 
+##[group]Checking out the ref, 0.5684041088305555, , , , 116237, False, 

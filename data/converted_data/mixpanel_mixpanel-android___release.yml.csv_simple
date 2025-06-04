@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/heinrichreimer/github-changelog-generator-action/v2.2/Dockerfile'.,101.33233595373656,38031959,False,
+##[group]Run actions/checkout@v1,29.321945164859702,3251678,False,
+##[group]GITHUB_TOKEN Permissions,16.109930068033528,2661577,False,
+##[group]Run heinrichreimer/github-changelog-generator-action@v2.2__dup_8,10.222065512606983,2709204,False,
+##[group]Run heinrichreimer/github-changelog-generator-action@v2.2,5.740343971864928,3516553,False,
+##[group]Run ad-m/github-push-action@v0.6.0,5.217420839943377,507714,True,##[error]Process completed with exit code 1.
+##[group]Run actions/create-release@v1,3.3543419089145634,621551,False,
+##[group]==END_FILE==,1.834108072266242,4154613,False,
+##[group]Run git add .,1.0733786376769527,86808,False,

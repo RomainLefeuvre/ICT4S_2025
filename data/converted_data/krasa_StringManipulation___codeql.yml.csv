@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 0.3525783254235497, , , , 5897388, False, 
+##[group]GITHUB_TOKEN Permissions, 33.2826491705573, , , , 10839641, False, 
+##[group]Run actions/checkout@v2, 5.55328031604772, , , , 201385, False, 
+##[group]Setting up auth, 2.802111650062441, , , , 51875, False, 
+##[group]Fetching the repository, 25.983149611719384, , , , 853900, False, 
+##[group]Run github/codeql-action/init@v1, 12.057496334869114, , , , 377514, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Setup CodeQL tools, 66.1456773174005, , , , 1830623, False, 
+##[group]Load language configuration, 20.548241206881197, , , , 3297029, False, 
+##[group]Augmented user configuration file contents, 68.72495245249405, , , , 2319542, False, 
+##[group]Run github/codeql-action/autobuild@v1, 9.002288541017, , , , 372934, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Attempting to automatically build java code, 2797.629331022923, , , , 194083579, True, [2024-03-20 07:47:37] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, --init-script, /tmp/semmleTempDir-5/init.gradle, testClasses])
+##[group]Run github/codeql-action/analyze@v1, 42.31541193378842, , , , 4092215, True, ##[error]This version of the CodeQL Action was deprecated on January 18th, 2023, and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v2. For more information, see https://github.blog/changelog/2023-01-18-code-scanning-codeql-action-v1-is-now-deprecated/
+##[group]Finalizing java, 148.0159680659035, , , , 9336005, False, 
+##[group]Running queries for java, 613.7355330446012, , , , 22210294, False, 
+##[group]Interpreting results for java, 109.97452407190664, , , , 6088668, False, 
+##[group]Cleaning up databases, 26.844577818950924, , , , 941247, False, 
+##[group]Uploading results, 57.45555854114039, , , , 2282754, False, 
+##[group]Waiting for processing to finish, 51.36762909069351, , , , 5641564, False, 

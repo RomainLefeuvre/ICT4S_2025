@@ -1,0 +1,16 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn package -Dmaven.test.skip=true,86.97032443781916,4832389,True,"[ERROR[m] Internal error: java.lang.IllegalArgumentException: version can neither be null, empty nor blank -> [Help 1][m"
+##[group]Run docker build -t sonicorg/sonic-server-controller: -f sonic-server-controller/src/main/docker/Dockerfile .,41.18925902698004,6397487,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,26.9291401752358,6003124,False,
+##[group]Run docker build -t sonicorg/sonic-server-gateway: -f sonic-server-gateway/src/main/docker/Dockerfile .,18.766504581147803,834695,True,##[error]Process completed with exit code 1.
+##[group]Run docker build -t sonicorg/sonic-server-folder: -f sonic-server-folder/src/main/docker/Dockerfile .,17.41839306085309,496845,True,##[error]Process completed with exit code 1.
+##[group]Run docker push sonicorg/sonic-server-folder:,11.90114987731128,1959095,True,##[error]Process completed with exit code 1.
+##[group]Run WyriHaximus/github-action-get-previous-tag@v1,9.83657970021954,1351385,False,
+"##[group]Run echo """" | docker login -u zhouyixun --password-stdin",9.49656933592634,317917,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,8.819653563320854,2753990,False,
+##[group]Run docker build -t sonicorg/sonic-server-eureka: -f sonic-server-eureka/src/main/docker/Dockerfile .,8.780168055703031,817364,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v2,5.190836466952424,301249,False,
+##[group]Run docker push sonicorg/sonic-server-eureka:,4.775442621662614,64935,True,##[error]Process completed with exit code 1.
+##[group]Run actions/setup-java@v2,3.5000509041046253,2049460,False,
+##[group]Setting up auth,1.7190615255352428,73734,False,
+Requested labels: self-hosted,0.0,5592316,False,

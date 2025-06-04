@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 90.03766064397202, , , , 4601323, False, 
+##[group]Fetching the repository, 88.60089521065898, , , , 36347070, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/devmasx/merge-branch/1.4.0/Dockerfile'., 62.51156206609879, , , , 35125975, False, 
+##[group]Cleaning the repository, 15.595697323744544, , , , 68005, False, 
+##[group]Run devmasx/merge-branch@1.4.0, 12.555084046518544, , , , 3615871, False, 
+##[group]GITHUB_TOKEN Permissions, 7.8707894660898, , , , 2448429, False, 
+##[group]Run actions/create-release@v1.1.4, 7.136656671213393, , , , 347894, True, ##[error]Parameter token or opts.auth is required
+##[group]Run actions/checkout@v4, 4.726416109619978, , , , 164321, False, 
+##[group]Setting up auth, 2.915957728844026, , , , 143030, False, 
+##[group]Run echo "::set-output name=sha_short::$(git rev-parse --short HEAD)", 2.599636366731676, , , , 38855, False, 

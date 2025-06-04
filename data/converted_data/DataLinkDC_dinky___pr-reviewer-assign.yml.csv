@@ -1,0 +1,4 @@
+Requested labels: self-hosted, 0.0142328464402676, , , , 4593503, False, 
+##[group]GITHUB_TOKEN Permissions, 116.07947051083688, , , , 2068416, False, 
+##[group]Run actions-cool/issues-helper@main, 44.64595019647573, , , , 2729107, False, 
+##[group]Run actions-cool/pr-welcome@main, 5.57380981877399, , , , 133530, True, ##[error]This Action only support "pull_request" or "pull_request_target"!

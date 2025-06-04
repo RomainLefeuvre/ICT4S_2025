@@ -1,0 +1,19 @@
+name,energy,seconds,has_error,error_msg
+##[group]Setup CodeQL tools,1251.6066855480997,143655548,False,
+##[group]Attempting to automatically build java code,361.5633729893956,30574634,True,"[2024-05-13 16:52:50] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir/init.gradle, clean])"
+##[group]GITHUB_TOKEN Permissions,132.7970474682909,11625359,False,
+##[group]Finalizing java,69.42637258972442,5263317,True,"##[error]Encountered a fatal error while running ""/home/power/actions-runner/_work/_tool/CodeQL/2.17.2/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6830 /home/power/actions-runner/_work/_temp/codeql_databases/java"". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details."
+##[group]Run github/codeql-action/autobuild@v2,47.10398585167009,3921081,False,
+##[group]Waiting for processing to finish,35.838507688217824,7922548,False,
+##[group]Load language configuration,32.69875213847692,4577792,False,
+##[group]Validating workflow,28.855297497814963,568613,False,
+##[group]Run github/codeql-action/analyze@v2,28.2202533734766,1649296,False,
+##[group]Augmented user configuration file contents,15.775118121035163,4423571,False,
+##[group]Uploading results,12.710924960904071,475872,False,
+##[group]Fetching the repository,11.143825564937014,443522,False,
+##[group]Run github/codeql-action/init@v2,9.854312766910276,383373,False,
+##[group]Run actions/checkout@v3,6.216669181481877,154788,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.0116211308889334,82308,False,
+##[group]Setting up auth,2.9471454909875967,68380,False,
+##[group]Checking out the ref,2.624767291480912,25300,False,
+Requested labels: self-hosted,0.014035824259226,3987504,False,

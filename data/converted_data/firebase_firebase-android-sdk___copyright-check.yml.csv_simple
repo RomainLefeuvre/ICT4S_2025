@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run pip install -e ""ci/fireci""",498.5335094984866,84350762,False,
+##[group]Run fireci copyright_check \\,98.61916152419548,16271830,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,81.75898076834551,2504223,False,
+##[group]Fetching the repository,43.4785431803744,480832,False,
+##[group]Run actions/setup-python@v2,38.6055117505295,370902,False,
+##[group]Run actions/checkout@v4.1.1,24.66309044809413,160831,False,
+##[group]Removing previously created refs_ to avoid conflicts,11.9660678668087,97782,False,
+##[group]Cleaning the repository,11.722416295316457,66757,False,
+##[group]Setting up auth,11.47876472382421,103295,False,
+##[group]Checking out the ref,10.260506866362988,23156,False,
+##[group]==END_FILE==,0.0256567204549696,4830456,False,

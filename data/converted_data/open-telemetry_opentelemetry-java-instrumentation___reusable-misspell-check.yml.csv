@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.1027790798228671, , , , 4582336, False, 
+##[group]GITHUB_TOKEN Permissions, 3.75456799290804, , , , 1392949, False, 
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633, 0.6962350082547298, , , , 165866, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.3614398501377823, , , , 49539, False, 
+##[group]Cleaning the repository, 0.7495243922963997, , , , 174442, False, 
+##[group]Fetching the repository, 2.029238350862536, , , , 480956, False, 
+##[group]Run curl -L -o install-misspell.sh \\, 17.371145049238038, , , , 3032969, False, 
+##[group]Run find . -type f \\, 22.4683940476584, , , , 2737912, False, 

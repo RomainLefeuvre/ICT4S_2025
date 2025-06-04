@@ -1,0 +1,79 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (3527.4 files/s 504417.8 lines/s)"
+Qt,/tmp/clone_directory/QtScrcpy/ui/dialog.ui,0,0,1177
+C++,/tmp/clone_directory/QtScrcpy/ui/videoform.cpp,87,39,681
+C++,/tmp/clone_directory/QtScrcpy/ui/dialog.cpp,97,14,642
+CSS,/tmp/clone_directory/QtScrcpy/res/qss/psblack.css,119,8,520
+C++,/tmp/clone_directory/QtScrcpy/groupcontroller/groupcontroller.cpp,65,0,378
+JSON,/tmp/clone_directory/keymap/gameforpeace.json,0,0,328
+Qt Linguist,/tmp/clone_directory/QtScrcpy/res/i18n/en_US.ts,0,0,301
+Qt Linguist,/tmp/clone_directory/QtScrcpy/res/i18n/zh_CN.ts,0,0,301
+C++,/tmp/clone_directory/QtScrcpy/util/config.cpp,59,8,301
+JSON,/tmp/clone_directory/keymap/identityv.json,0,0,237
+Markdown,/tmp/clone_directory/README.md,94,0,224
+Markdown,/tmp/clone_directory/README_zh.md,82,0,224
+CMake,/tmp/clone_directory/QtScrcpy/CMakeLists.txt,55,71,212
+Markdown,/tmp/clone_directory/docs/DEVELOP.md,101,0,208
+C++,/tmp/clone_directory/QtScrcpy/render/qyuvopenglwidget.cpp,36,43,194
+C++,/tmp/clone_directory/QtScrcpy/ui/toolform.cpp,31,2,192
+Qt,/tmp/clone_directory/QtScrcpy/ui/toolform.ui,0,0,180
+C++,/tmp/clone_directory/QtScrcpy/audio/audiooutput.cpp,30,1,166
+C++,/tmp/clone_directory/QtScrcpy/uibase/magneticwidget.cpp,23,1,155
+Objective-C++,/tmp/clone_directory/QtScrcpy/util/mousetap/cocoamousetap.mm,25,32,152
+C++,/tmp/clone_directory/QtScrcpy/main.cpp,33,18,148
+JSON,/tmp/clone_directory/keymap/FRAG.json,0,0,119
+YAML,/tmp/clone_directory/.clang-format,15,98,114
+YAML,/tmp/clone_directory/.github/workflows/windows.yml,1,25,90
+DOS Batch,/tmp/clone_directory/ci/win/publish_for_win.bat,22,25,86
+DOS Batch,/tmp/clone_directory/ci/win/build_for_win.bat,18,12,84
+YAML,/tmp/clone_directory/.github/workflows/ubuntu.yml,0,0,81
+C/C++ Header,/tmp/clone_directory/QtScrcpy/ui/dialog.h,17,0,79
+YAML,/tmp/clone_directory/.github/workflows/macos.yml,0,5,76
+C/C++ Header,/tmp/clone_directory/QtScrcpy/ui/videoform.h,15,2,73
+JSON,/tmp/clone_directory/keymap/tiktok.json,0,0,67
+C++,/tmp/clone_directory/QtScrcpy/util/mousetap/xmousetap.cpp,19,1,64
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/config.h,11,3,60
+Bourne Shell,/tmp/clone_directory/ci/mac/build_for_mac.sh,13,10,59
+Qt,/tmp/clone_directory/QtScrcpy/ui/videoform.ui,0,0,56
+C++,/tmp/clone_directory/QtScrcpy/uibase/keepratiowidget.cpp,9,3,56
+Markdown,/tmp/clone_directory/docs/KeyMapDes.md,19,0,54
+Markdown,/tmp/clone_directory/docs/KeyMapDes_zh.md,22,0,54
+Bourne Shell,/tmp/clone_directory/ci/mac/publish_for_mac.sh,16,18,52
+Bourne Shell,/tmp/clone_directory/QtScrcpy/clang-format-all.sh,8,25,51
+C/C++ Header,/tmp/clone_directory/QtScrcpy/ui/toolform.h,12,0,51
+Python,/tmp/clone_directory/ci/mac/package/package.py,5,0,50
+Bourne Shell,/tmp/clone_directory/ci/linux/build_for_linux.sh,12,7,48
+C/C++ Header,/tmp/clone_directory/QtScrcpy/groupcontroller/groupcontroller.h,9,1,46
+DOS Batch,/tmp/clone_directory/QtScrcpy/sndcpy/sndcpy.bat,10,3,40
+C/C++ Header,/tmp/clone_directory/QtScrcpy/uibase/magneticwidget.h,10,6,40
+JSON,/tmp/clone_directory/keymap/test.json,0,0,39
+C/C++ Header,/tmp/clone_directory/QtScrcpy/render/qyuvopenglwidget.h,10,4,37
+Bourne Shell,/tmp/clone_directory/QtScrcpy/sndcpy/sndcpy.sh,9,0,37
+Markdown,/tmp/clone_directory/docs/FAQ.md,17,0,37
+C/C++ Header,/tmp/clone_directory/QtScrcpy/audio/audiooutput.h,7,0,34
+Windows Resource File,/tmp/clone_directory/QtScrcpy/res/QtScrcpy.rc,1,2,32
+CMake,/tmp/clone_directory/QtScrcpy/res/i18n/CMakeLists.txt,7,12,32
+C/C++ Header,/tmp/clone_directory/QtScrcpy/fontawesome/iconhelper.h,5,0,31
+Markdown,/tmp/clone_directory/docs/TODO.md,12,0,31
+Bourne Shell,/tmp/clone_directory/ci/mac/package_for_mac.sh,5,3,29
+C++,/tmp/clone_directory/QtScrcpy/util/mousetap/mousetap.cpp,2,0,27
+INI,/tmp/clone_directory/config/config.ini,1,0,26
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/mousetap/cocoamousetap.h,6,0,24
+C++,/tmp/clone_directory/QtScrcpy/util/mousetap/winmousetap.cpp,6,0,24
+C/C++ Header,/tmp/clone_directory/QtScrcpy/uibase/keepratiowidget.h,6,0,22
+C++,/tmp/clone_directory/QtScrcpy/util/winutils.cpp,5,2,21
+C++,/tmp/clone_directory/QtScrcpy/fontawesome/iconhelper.cpp,3,0,20
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/mousetap/mousetap.h,2,1,15
+Python,/tmp/clone_directory/ci/generate-version.py,4,1,15
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/mousetap/winmousetap.h,4,0,13
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/mousetap/xmousetap.h,4,0,13
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/winutils.h,4,0,12
+YAML,/tmp/clone_directory/.github/FUNDING.yml,2,1,10
+C/C++ Header,/tmp/clone_directory/QtScrcpy/util/path.h,1,0,5
+Objective-C++,/tmp/clone_directory/QtScrcpy/util/path.mm,2,0,5
+Bourne Shell,/tmp/clone_directory/backup/myconfig.sh,0,0,4
+CMake,/tmp/clone_directory/CMakeLists.txt,1,0,3
+Bourne Shell,/tmp/clone_directory/ci/lrelease.sh,0,2,1
+Bourne Shell,/tmp/clone_directory/ci/lupdate.sh,0,3,1
+JSON,/tmp/clone_directory/ci/mac/package/dmg-settings.json,0,0,1
+Text,/tmp/clone_directory/ci/mac/package/requirements.txt,0,0,1
+SUM,,1326,512,9173

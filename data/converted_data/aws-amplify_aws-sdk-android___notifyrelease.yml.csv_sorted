@@ -1,0 +1,3 @@
+##[group]Run curl -s POST "$WEBHOOK_URL" -H "Content-Type:application/json" --data '{"action":"'$ACTION_NAME'"_ "repo":"'$REPO_URL'"_ "version":"'$VERSION'"}', 3.3738541091225867, , , , 175723, False, 
+##[group]GITHUB_TOKEN Permissions, 1.4867831667319875, , , , 134967, False, 
+##[group]==END_FILE==, 0.0, , , , 5799064, False, 

@@ -1,0 +1,8 @@
+##[group]Run actions/setup-java@v1, 203.0290134629294, , , , 17649415, False, 
+Requested labels: self-hosted, 92.63615387842788, , , , 6775523, False, 
+##[group]GITHUB_TOKEN Permissions, 28.09045846448661, , , , 2113138, False, 
+##[group]Fetching the repository, 8.630664464213162, , , , 873648, False, 
+##[group]Checking out the ref, 1.7819912246959044, , , , 55402, False, 
+##[group]Run actions/checkout@v2, 0.3067251107081247, , , , 242280, False, 
+##[group]Getting Git version info, 0.0, , , , 16239, False, 
+##[group]Setting up auth, 0.0, , , , 197528, False, 

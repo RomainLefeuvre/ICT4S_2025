@@ -1,0 +1,12 @@
+##[group]Run mvn org.apache.maven.plugins:maven-enforcer-plugin:3.0.0-M3:enforce -Drules=requireReleaseDeps_requireReleaseVersion -pl modules/core, 7355.072524737915, , , , 27300876, False, 
+##[group]Fetching the repository, 475.2448617729512, , , , 9576152, False, 
+##[group]GITHUB_TOKEN Permissions, 446.6193831570519, , , , 2141441, False, 
+##[group]Run actions/checkout@v3, 38.47647996672549, , , , 1419235, False, 
+##[group]Run sudo apt-get install ruby-full build-essential zlib1g-dev, 33.42795970307152, , , , 794054, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==, 20.043591444299327, , , , 5114212, False, 
+##[group]Checking out the ref, 7.312282157260105, , , , 1618898, False, 
+##[group]Run latest_version=$(cat ./latest | grep "version" | cut -d'=' -f2), 5.4849865099954265, , , , 21153, False, 
+##[group]Disabling automatic garbage collection, 5.296607423163217, , , , 4282, False, 
+##[group]Setting up auth, 5.08269697125319, , , , 122498, False, 
+##[group]Run actions/checkout@v3__dup_9, 4.115806624330662, , , , 122691, True, [ERROR[m] 
+##[group]Run git config user.name github-actions, 2.8411691197559423, , , , 889416, True, ##[error]Process completed with exit code 1.

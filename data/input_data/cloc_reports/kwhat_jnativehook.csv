@@ -1,0 +1,82 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (1996.8 files/s 296699.6 lines/s)"
+YAML,/tmp/clone_directory/.github/workflows/continuous-integration.yml,130,0,685
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/keyboard/NativeKeyEvent.java,122,257,638
+C,/tmp/clone_directory/src/main/jni/jni_Globals.c,132,97,449
+Maven,/tmp/clone_directory/pom.xml,79,16,425
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/keyboard/SwingKeyAdapter.java,128,69,379
+Markdown,/tmp/clone_directory/doc/Compiling.md,60,0,300
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/GlobalScreen.java,74,323,272
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/example/NativeHookDemo.java,56,146,259
+C,/tmp/clone_directory/src/main/jni/com_github_kwhat_jnativehook_GlobalScreen.c,61,75,228
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/keyboard/NativeKeyEventTest.java,43,76,193
+C,/tmp/clone_directory/src/main/jni/jni_EventDispatcher.c,21,26,174
+C/C++ Header,/tmp/clone_directory/src/main/jni/include/com_github_kwhat_jnativehook_keyboard_NativeKeyEvent.h,41,33,173
+Markdown,/tmp/clone_directory/ChangeLog.md,16,0,168
+Markdown,/tmp/clone_directory/COPYING.md,111,0,135
+C,/tmp/clone_directory/src/main/jni/jni_Converter.c,30,24,133
+Markdown,/tmp/clone_directory/COPYING.LESSER.md,35,0,129
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/NativeInputEvent.java,54,142,120
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseEvent.java,44,216,91
+C/C++ Header,/tmp/clone_directory/src/main/jni/jni_Globals.h,19,28,90
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/NativeSystemTest.java,38,17,85
+Markdown,/tmp/clone_directory/README.md,11,0,84
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/NativeSystem.java,13,46,81
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/DefaultLibraryLocator.java,19,38,78
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/NativeMouseEventTest.java,13,17,73
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseWheelEvent.java,31,185,71
+Markdown,/tmp/clone_directory/doc/Swing.md,11,0,69
+CMake,/tmp/clone_directory/CMakeLists.txt,16,15,66
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/NativeInputEventTest.java,16,17,65
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/NativeHookException.java,33,140,63
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/keyboard/listeners/NativeKeyListenerTest.java,15,17,63
+C,/tmp/clone_directory/src/main/jni/jni_Logger.c,15,17,62
+Markdown,/tmp/clone_directory/doc/ConsumingEvents.md,10,0,61
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/listeners/NativeMouseInputListenerTest.java,23,17,61
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/NativeMonitorInfoTest.java,16,17,59
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/NativeMouseWheelEventTest.java,9,17,58
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/dispatcher/VoidDispatchServiceTest.java,12,17,47
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/NativeMouseListenerTest.java,11,17,46
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/NativeMonitorInfo.java,16,107,45
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/keyboard/NativeKeyListenerTest.java,10,17,44
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/SwingMouseAdapter.java,11,23,41
+Markdown,/tmp/clone_directory/doc/Mouse.md,9,0,39
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/AbstractSwingInputAdapter.java,3,23,38
+Markdown,/tmp/clone_directory/doc/Keyboard.md,7,0,36
+C,/tmp/clone_directory/src/main/jni/jni_Load.c,10,33,33
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/dispatcher/SwingDispatchService.java,9,27,32
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/SwingMouseWheelAdapter.java,6,23,32
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/NativeHookExceptionTest.java,5,17,32
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/NativeMouseMotionListenerTest.java,7,20,32
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/dispatcher/VoidDispatchService.java,9,29,31
+C,/tmp/clone_directory/src/main/jni/jni_Errors.c,6,20,30
+Markdown,/tmp/clone_directory/doc/ConsoleOutput.md,6,0,28
+Markdown,/tmp/clone_directory/doc/MouseWheel.md,4,0,24
+Markdown,/tmp/clone_directory/doc/LibraryLoading.md,9,0,22
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/dispatcher/DefaultDispatchService.java,3,31,22
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/NativeMouseWheelListenerTest.java,4,17,20
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/SwingMouseAdapterTest.java,4,0,18
+Java,/tmp/clone_directory/src/test/java/com/github/kwhat/jnativehook/mouse/listeners/NativeMouseWheelListenerTest.java,6,17,18
+C/C++ Header,/tmp/clone_directory/src/main/jni/include/com_github_kwhat_jnativehook_mouse_NativeMouseEvent.h,6,21,17
+C/C++ Header,/tmp/clone_directory/src/main/jni/include/com_github_kwhat_jnativehook_NativeInputEvent.h,6,21,16
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/keyboard/NativeKeyListener.java,5,49,8
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseListener.java,4,48,8
+Java,/tmp/clone_directory/src/main/java/module-info.java,2,17,8
+C/C++ Header,/tmp/clone_directory/src/main/jni/jni_Converter.h,6,17,8
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseMotionListener.java,4,43,7
+C/C++ Header,/tmp/clone_directory/src/main/jni/jni_Logger.h,4,17,7
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/NativeLibraryLocator.java,2,36,6
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseWheelListener.java,3,36,6
+C/C++ Header,/tmp/clone_directory/src/main/jni/jni_Errors.h,5,26,6
+C/C++ Header,/tmp/clone_directory/src/main/jni/include/com_github_kwhat_jnativehook_mouse_NativeMouseWheelEvent.h,4,21,5
+C/C++ Header,/tmp/clone_directory/src/main/jni/jni_EventDispathcer.h,4,18,5
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/keyboard/NativeKeyAdapter.java,1,25,3
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseAdapter.java,1,24,3
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseInputAdapter.java,1,25,3
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseMotionAdapter.java,1,24,3
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseWheelAdapter.java,1,20,3
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/NativeMouseInputListener.java,1,26,2
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/dispatcher/package-info.java,1,23,1
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/example/package-info.java,1,23,1
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/keyboard/package-info.java,1,23,1
+Java,/tmp/clone_directory/src/main/java/com/github/kwhat/jnativehook/mouse/package-info.java,1,23,1
+SUM,,1777,3132,6978

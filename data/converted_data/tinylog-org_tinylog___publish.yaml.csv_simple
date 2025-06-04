@@ -1,0 +1,50 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run samuelmeuli/action-maven-publish@v1,2770.481247757167,145967812,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.1.0:sign (default) on project tinylog-api: Exit code: 2 -> [Help 1]
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ tinylog-api ---,1927.9273326155223,94659504,False,
+##[group]GITHUB_TOKEN Permissions,423.0453023542547,4335369,False,
+[INFO] --- spotbugs-maven-plugin:4.8.3.1:spotbugs (spotbugs) @ tinylog-api ---,359.21156085579827,10030323,False,
+[INFO] --- p2-maven-plugin:1.7.0:site (default-cli) @ parent ---,144.12472161206165,13230358,True,[ERROR] Failed to execute goal org.reficio:p2-maven-plugin:1.7.0:site (default-cli) on project parent: Execution default-cli of goal org.reficio:p2-maven-plugin:1.7.0:site failed: java.lang.RuntimeException: org.eclipse.aether.resolution.DependencyResolutionException: Could not find artifact org.tinylog:jboss-tinylog:jar:2.7-SNAPSHOT -> [Help 1]
+[INFO] --- spotbugs-maven-plugin:4.8.3.1:spotbugs (spotbugs) @ test-core ---,134.04893072968989,11085044,False,
+[INFO] --- maven-checkstyle-plugin:3.3.1:check (default) @ tinylog-api ---,115.98010924138158,4390894,False,
+##[group]Run mvn -P release --no-transfer-progress --batch-mode --non-recursive p2:site,114.14077617891728,6981829,True,[ERROR] Failed to execute goal org.reficio:p2-maven-plugin:1.7.0:site (default-cli) on project parent: Execution default-cli of goal org.reficio:p2-maven-plugin:1.7.0:site failed: java.lang.RuntimeException: org.eclipse.aether.resolution.DependencyResolutionException: Could not find artifact org.tinylog:jboss-tinylog:jar:2.7-SNAPSHOT -> [Help 1]
+Requested labels: self-hosted,87.59642818068428,3745650,False,
+##[group]Run mvn -DnewVersion=${ORIGINAL_VERSION} -DgenerateBackupPoms=false --no-transfer-progress --batch-mode versions:set,82.21792931775225,2646778,True,##[error]Process completed with exit code 1.
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (default) @ tinylog-api ---,80.98785766423192,2424879,False,
+[INFO] --- maven-gpg-plugin:3.1.0:sign (default) @ tinylog-api ---,57.31524773660609,2098970,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.1.0:sign (default) on project tinylog-api: Exit code: 2 -> [Help 1]
+[INFO] --- maven-compiler-plugin:3.12.1:testCompile (default-testCompile) @ tinylog-api ---,52.56243430543675,1921428,False,
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/kevinpainchaud/simple-ftp-deploy-action/v1.2.1/Dockerfile'.,30.94058904456379,15624921,False,
+##[group]Run mvn -DnewVersion= -DgenerateBackupPoms=false --no-transfer-progress --batch-mode versions:set,25.326569536516143,8689496,True,"[ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project parent: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]"
+[INFO] --- versions-maven-plugin:2.16.2:set (default-cli) @ parent ---,25.326569536516143,7885217,True,"[ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project parent: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]"
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ test-core ---,25.161155901563188,1102888,False,
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce) @ parent ---,17.907462686427223,864620,False,
+##[group]Run kevinpainchaud/simple-ftp-deploy-action@v1.2.1,17.871112803405662,3243276,False,
+[INFO] --- maven-bundle-plugin:5.1.9:bundle (default-bundle) @ tinylog-api ---,17.07135364512235,683512,False,
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ tinylog-api ---,15.84009915664216,490175,False,
+[INFO] --- maven-deploy-plugin:3.1.1:deploy (default-deploy) @ test-core ---,15.709549196648966,1609207,False,
+[INFO] --- maven-checkstyle-plugin:3.3.1:check (default) @ test-core ---,14.444566990216536,3921778,False,
+[INFO] --- animal-sniffer-maven-plugin:1.23:check (default) @ tinylog-api ---,13.817262916347415,574800,False,
+[INFO] --- maven-deploy-plugin:3.1.1:deploy (default-deploy) @ parent ---,12.765387456945753,609647,False,
+[INFO] --- maven-compiler-plugin:3.12.1:compile (default-compile) @ test-core ---,11.4721569590572,1728680,False,
+[INFO] --- jacoco-maven-plugin:0.8.11:instrument (default-instrument) @ test-core ---,11.44971374176222,528064,False,
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ test-core ---,11.424064350567956,459009,False,
+[INFO] --- maven-javadoc-plugin:3.6.3:jar (default) @ test-core ---,11.40803348107154,4018915,False,
+[INFO] --- maven-source-plugin:3.3.0:jar (default) @ test-core ---,10.324261536980028,616321,False,
+##[group]Fetching the repository,6.946714432035615,469883,False,
+[INFO] --- jacoco-maven-plugin:0.8.11:instrument (default-instrument) @ tinylog-api ---,6.583551291600969,157670,False,
+[INFO] --- maven-source-plugin:3.3.0:jar (default) @ tinylog-api ---,6.379578635938802,184409,False,
+##[group]Run git push origin,5.923250897707052,789402,True,##[error]Process completed with exit code 128.
+[INFO] --- jacoco-maven-plugin:0.8.11:report (default-report) @ tinylog-api ---,5.7343390510860415,225338,False,
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ test-core ---,4.371210415378775,268329,False,
+[INFO] --- maven-install-plugin:3.1.1:install (default-install) @ parent ---,4.139047889251727,146241,False,
+[INFO] --- flatten-maven-plugin:1.6.0:flatten (default) @ test-core ---,3.31502131456871,175129,False,
+[INFO] --- maven-compiler-plugin:3.12.1:compile (compile-java-9) @ tinylog-api ---,3.1293978203839936,107674,False,
+##[group]Run actions/checkout@v4,2.9988053089400726,143608,False,
+[INFO] --- spotbugs-maven-plugin:4.8.3.1:check (default) @ test-core ---,2.794518261853996,67009,False,
+[INFO] --- maven-enforcer-plugin:3.4.1:enforce (enforce) @ tinylog-api ---,2.713712736024021,71681,False,
+[INFO] --- spotbugs-maven-plugin:4.8.3.1:check (default) @ tinylog-api ---,2.514250286273897,64456,False,
+[INFO] --- maven-bundle-plugin:5.1.9:install (default-install) @ tinylog-api ---,2.4060163715832426,22898,False,
+##[group]Checking out the ref,1.8553165847783373,20408,False,
+##[group]Setting up auth,1.6180406312394695,80474,False,
+##[group]Cleaning the repository,1.5705854405316966,43108,False,
+##[group]Run FILE_PATH_API=tinylog-api/target/tinylog-api-.jar,0.5471198257325252,31121,True,##[error]Process completed with exit code 1.
+##[group]Run ncipollo/release-action@v1,0.4969438098405918,136332,True,##[error]Error undefined: No tag found in ref or input!

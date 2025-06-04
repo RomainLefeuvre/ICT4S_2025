@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run curl -f -k --retry 10 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/health,418.23860830528224,300288814,True,##[error]Process completed with exit code 7.
+##[group]Run (( $(curl -f -k --retry 5 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/info | wc --chars) > 100 )),212.9887363256097,150656373,True,##[error]Process completed with exit code 1.
+##[group]Installed distributions,27.34032150434667,1551471,False,
+##[group]Run docker compose -f docker-compose-postgresql.yml up -d,27.045754139622225,1251126,True,##[error]Process completed with exit code 18.
+##[group]GITHUB_TOKEN Permissions,21.377504565912407,2254631,False,
+##[group]Fetching the repository,6.925276539981844,461712,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,2.506343012564717,163824,False,
+##[group]Run ./gradlew --no-daemon --console=plain :fineract-provider:clean :fineract-provider:build :fineract-provider:jibDockerBuild -x test -x cucumber,1.9125905148524096,116804,True,"##[error]Exception in thread ""main"" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-8.6-bin/afr5mpiioh2wthjmwnkmdsd5w/gradle-8.6-bin.zip.lck"
+##[group]Setting up auth,1.313118688879636,78205,False,
+##[group]Run docker ps,1.2884362492291983,34931,False,
+Requested labels: self-hosted,0.9451758524827992,3898611,False,

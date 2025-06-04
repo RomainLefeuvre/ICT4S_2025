@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.1878139925910548, , , , 5935117, False, 
+##[group]GITHUB_TOKEN Permissions, 11.80388911424673, , , , 2343657, False, 
+##[group]Run actions/checkout@v2, 0.6940290772540769, , , , 183753, False, 
+##[group]Getting Git version info, 3.663877358130494, , , , 476573, False, 
+##[group]Initializing the repository, 3.9867639778973447, , , , 481129, False, 
+##[group]Setting up auth, 0.8360991899514911, , , , 74261, False, 
+##[group]Fetching the repository, 9.07134246300198, , , , 986225, False, 
+##[group]Run actions/setup-java@v1, 134.95977264552795, , , , 19735315, False, 
+##[group]Run echo $GOOGLE_SERVICES_CONFIG > app/google-services.json, 1.9834826721392127, , , , 13312, False, 
+##[group]Run ./gradlew assembleRelease, 479.72500130756544, , , , 61085256, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v1, 18.276200680831145, , , , 827424, True, ##[error]Path does not exist /home/power/actions-runner/_work/live-app-android/live-app-android/app/build/outputs/apk/release/app-release.apk

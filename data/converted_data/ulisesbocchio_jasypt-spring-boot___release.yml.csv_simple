@@ -1,0 +1,26 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --no-transfer-progress --batch-mode release:prepare release:perform,3128.694399334303,335005166,True,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-release-plugin:3.0.0-M7:prepare (default-cli) on project jasypt-spring-boot-parent: Unable to commit files
+[INFO] [INFO] --- maven-plugin-plugin:3.7.0:helpmojo (help-goal) @ jasypt-maven-plugin ---,355.06100508493216,40115859,False,
+##[group]GITHUB_TOKEN Permissions,318.0868878014992,3972204,False,
+[INFO] --- maven-release-plugin:3.0.0-M7:prepare (default-cli) @ jasypt-spring-boot-parent ---,257.8876232313985,35046106,False,
+[INFO] [INFO] --- maven-surefire-plugin:3.0.0-M7:test (default-test) @ jasypt-spring-boot ---,229.74153467400728,27731898,False,
+[INFO] [INFO] --- maven-surefire-plugin:3.0.0-M7:test (default-test) @ jasypt-spring-boot-starter ---,186.52165605142528,8086942,False,
+[INFO] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ jasypt-spring-boot-parent ---,161.66500295380553,12622602,False,
+[INFO] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ jasypt-spring-boot ---,150.72402608322682,14563965,False,
+##[group]Run actions/setup-java@v2,144.6705842302643,1004198,True,##[error]Input required and not supplied: gpg-private-key
+[INFO] [INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ jasypt-spring-boot ---,142.68317276181827,10258858,False,
+##[group]Run actions/cache@v2,74.27853149210833,1338187,False,
+[INFO] [INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ jasypt-spring-boot-starter ---,65.89924460976926,3955319,False,
+##[group]Fetching the repository,49.98508236880702,432950,False,
+[INFO] [INFO] --- maven-plugin-plugin:3.7.0:descriptor (default-descriptor) @ jasypt-maven-plugin ---,33.85691649992359,773428,False,
+##[group]Run crazy-max/ghaction-import-gpg@v3,29.27958162418196,184516,True,"##[error]The ssh-private-key argument is empty. Maybe the secret has not been configured, or you are using a wrong secret name in your workflow file."
+[INFO] [INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ jasypt-spring-boot ---,28.35120983926788,4399079,False,
+[INFO] [INFO] --- maven-plugin-plugin:3.7.0:descriptor (mojo-descriptor) @ jasypt-maven-plugin ---,24.895221509422505,528014,False,
+##[group]Run actions/checkout@v3,23.59435706219912,182285,False,
+[INFO] [INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ jasypt-maven-plugin ---,17.425924115481987,470998,False,
+[INFO] [INFO] --- maven-compiler-plugin:3.10.1:testCompile (default-testCompile) @ jasypt-spring-boot-starter ---,16.51317003312981,504218,False,
+[INFO] [INFO] --- maven-compiler-plugin:3.10.1:testCompile (default-testCompile) @ jasypt-spring-boot ---,13.462422684711417,560724,False,
+##[group]Checking out the ref,12.933203130390623,17747,False,
+##[group]Setting up auth,12.059338054012882,65015,False,
+[INFO] [INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ jasypt-spring-boot-starter ---,8.46581676049765,240901,False,
+##[group]==END_FILE==,0.0,4414753,False,

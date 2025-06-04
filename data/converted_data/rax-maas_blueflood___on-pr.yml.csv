@@ -1,0 +1,9 @@
+##[group]==END_FILE==, 3.938538388343728, , , , 5527666, False, 
+##[group]GITHUB_TOKEN Permissions, 11.659701864587657, , , , 2890223, False, 
+##[group]Run actions/checkout@v2, 2.0207248523721737, , , , 194065, False, 
+##[group]Setting up auth, 1.9272061759687624, , , , 110775, False, 
+##[group]Fetching the repository, 267.4341671067291, , , , 130944779, False, 
+##[group]Checking out the ref, 4.688488506739093, , , , 145217, False, 
+##[group]Run actions/setup-java@v2, 193.63215426149844, , , , 2048475, False, 
+##[group]Run mvn clean install, 2760.59521932971, , , , 194839090, True, ErrorResponse{errors=[ErrorData{tenantId='tenant', timestamp='0', metricName='', source='null', message='No valid metrics'}]}
+##[group]Run actions/upload-artifact@v2, 46.97076837878031, , , , 5112141, True, [ERROR[m] To see the full stack trace of the errors, re-run Maven with the -e[m switch.

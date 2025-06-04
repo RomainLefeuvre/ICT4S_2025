@@ -1,0 +1,9 @@
+##[group]Run ./gradlew clean ktlint build, 1603.8193742411013, , , , 97945036, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 15.165619129604975, , , , 2277051, False, 
+##[group]Fetching the repository, 5.553877888763778, , , , 720423, False, 
+Requested labels: self-hosted, 5.380847069657283, , , , 5428822, False, 
+##[group]Run python scripts/checksnippets.py, 1.6926404504068395, , , , 159515, False, 
+##[group]Run actions/checkout@v2, 1.5092222431846645, , , , 189086, False, 
+##[group]Run actions/setup-java@v1, 0.8357384055559866, , , , 122816, False, 
+##[group]Checking out the ref, 0.8216293126927425, , , , 115420, False, 
+##[group]Setting up auth, 0.7651929412397656, , , , 62030, False, 

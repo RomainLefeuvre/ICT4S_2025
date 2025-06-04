@@ -1,0 +1,3 @@
+##[group]Fetching the repository, 2311.7818322566027, , , , 232181367, False, 
+##[group]Run BUILD_VERSION=$(game-app/run/.build/get-build-version), 0.2975901640128324, , , , 148538, False, 
+##[group]Run ncipollo/release-action@v1, 3.259578371647644, , , , 1346157, False, 

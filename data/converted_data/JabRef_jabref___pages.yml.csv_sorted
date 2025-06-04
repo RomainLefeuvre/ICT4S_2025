@@ -1,0 +1,12 @@
+##[group]Installing Bundler, 807.5020257409132, , , , 68503123, False, 
+##[group]GITHUB_TOKEN Permissions, 149.0409527652599, , , , 4771863, False, 
+##[group]Run cd docs, 102.67627848310016, , , , 5748281, False, 
+##[group]Downloading Ruby, 22.318483620602898, , , , 1306487, False, 
+##[group]Fetching the repository, 14.366198186956211, , , , 863513, False, 
+##[group]Run actions/configure-pages@v5, 10.97260630607532, , , , 629676, True, ##[error]Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions, or consider exploring the `enablement` parameter for this action. Error: Not Found - https://docs.github.com/rest/pages/pages#get-a-apiname-pages-site
+##[group]Run actions/upload-artifact@v4, 8.535052588420465, , , , 3465568, False, 
+Requested labels: self-hosted, 7.33366374114455, , , , 4781344, False, 
+##[group]Extracting  Ruby, 7.160019617859405, , , , 404925, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 4.607889444947001, , , , 287265, False, 
+##[group]Run actions/checkout@v4, 3.028868371860286, , , , 177745, False, 
+##[group]Cleaning the repository, 1.553186318224086, , , , 58308, False, 

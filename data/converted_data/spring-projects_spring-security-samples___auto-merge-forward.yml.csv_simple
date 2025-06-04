@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,28.89621584529327,21068540,False,
+##[group]Run marcusdacoregio/auto-merge-forward@9eac812bc73673e1a358766ac2ce319bd31ce0f8,27.66464710828435,1132031,False,
+##[group]Fetching the repository__dup_11,14.49560230581093,486864,False,
+##[group]GITHUB_TOKEN Permissions__dup_8,9.351203883441048,2061887,False,
+##[group]Run actions/checkout@v4__dup_9,5.510154610671659,178993,False,
+##[group]Setting up auth__dup_10,2.816810086404268,58569,False,
+##[group]GITHUB_TOKEN Permissions,1.455638832949447,1296875,False,
+"##[group]Run echo ""prs_count=$(gh pr list --app dependabot --state open --json number --jq length)"" >> $GITHUB_OUTPUT",1.2738128746361304,850569,True,##[error]The process '/usr/bin/git' failed with exit code 128
+##[group]Fetching the repository,1.2579202687391369,871594,False,
+##[group]Checking out the ref,0.1490344856919945,112517,False,
+##[group]Setting up auth,0.1305033518055914,67019,False,
+##[group]Run actions/checkout@v4,0.128650238416951,140990,False,

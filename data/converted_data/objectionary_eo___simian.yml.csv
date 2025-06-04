@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 0.0385287802694152, , , , 3862622, False, 
+##[group]GITHUB_TOKEN Permissions, 10.704612826593351, , , , 2283512, False, 
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11, 1.333067825083568, , , , 151609, False, 
+##[group]Setting up auth, 0.6873390122203494, , , , 56972, False, 
+##[group]Fetching the repository, 2.8880567134051662, , , , 429350, False, 
+##[group]Installed distributions, 2.4781190302323544, , , , 295980, False, 
+##[group]Run java -jar /tmp/simian.jar -threshold=18 -excludes=**/gen -excludes=**/it **/*.java, 19.237785113892837, , , , 1753275, False, 

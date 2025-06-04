@@ -1,0 +1,83 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.06 s (1294.9 files/s 652765.2 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,32874
+Java,/tmp/clone_directory/android/src/main/java/com/wechatlib/WeChatLibModule.java,110,139,772
+Objective-C++,/tmp/clone_directory/ios/WechatLib.mm,59,50,567
+C/C++ Header,/tmp/clone_directory/ios/WXApiObject.h,307,608,456
+Markdown,/tmp/clone_directory/README.md,135,0,377
+JavaScript,/tmp/clone_directory/src/index.js,37,160,333
+TypeScript,/tmp/clone_directory/src/index.d.ts,7,3,184
+JSON,/tmp/clone_directory/package.json,0,0,163
+Gradle,/tmp/clone_directory/example/android/app/build.gradle,29,131,153
+Text,/tmp/clone_directory/ios/README.txt,35,0,118
+Markdown,/tmp/clone_directory/docs/build-setup-android.md,19,4,106
+Bourne Shell,/tmp/clone_directory/example/android/gradlew,27,108,99
+Markdown,/tmp/clone_directory/CODE_OF_CONDUCT.md,36,0,97
+XML,/tmp/clone_directory/example/ios/WechatLibExample.xcodeproj/xcshareddata/xcschemes/WechatLibExample.xcscheme,0,0,88
+Java,/tmp/clone_directory/example/android/app/src/main/java/pro/aili/temporary/newarchitecture/MainApplicationReactNativeHost.java,13,20,83
+TypeScript,/tmp/clone_directory/example/src/App.tsx,10,4,82
+Markdown,/tmp/clone_directory/docs/build-setup-ios.md,16,0,81
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,41,0,73
+Java,/tmp/clone_directory/example/android/app/src/main/java/pro/aili/temporary/MainApplication.java,11,17,70
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,21,2,66
+Java,/tmp/clone_directory/example/android/app/src/debug/java/com/wechatlibexample/ReactNativeFlipper.java,5,8,60
+Gradle,/tmp/clone_directory/android/build.gradle,15,3,57
+XML,/tmp/clone_directory/example/ios/WechatLibExample/Info.plist,0,0,55
+JSON,/tmp/clone_directory/example/ios/WechatLibExample/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+Objective-C,/tmp/clone_directory/example/ios/WechatLibExampleTests/WechatLibExampleTests.m,13,0,53
+XML,/tmp/clone_directory/example/ios/WechatLibExample/LaunchScreen.storyboard,0,1,46
+C++,/tmp/clone_directory/example/android/app/src/main/jni/MainComponentsRegistry.cpp,14,6,45
+Gradle,/tmp/clone_directory/example/android/build.gradle,3,9,39
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,10,0,38
+C/C++ Header,/tmp/clone_directory/ios/WXApi.h,57,136,38
+C++,/tmp/clone_directory/example/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.cpp,7,1,37
+XML,/tmp/clone_directory/example/android/app/src/main/AndroidManifest.xml,4,4,34
+JavaScript,/tmp/clone_directory/example/metro.config.js,6,2,32
+C/C++ Header,/tmp/clone_directory/ios/WechatAuthSDK.h,14,22,32
+Java,/tmp/clone_directory/example/android/app/src/main/java/pro/aili/temporary/newarchitecture/modules/MainApplicationTurboModuleManagerDelegate.java,8,10,30
+Java,/tmp/clone_directory/example/android/app/src/main/java/pro/aili/temporary/MainActivity.java,7,12,29
+Ruby,/tmp/clone_directory/react-native-wechat-lib.podspec,6,1,28
+JSON,/tmp/clone_directory/tsconfig.json,0,0,28
+C/C++ Header,/tmp/clone_directory/example/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h,8,5,25
+YAML,/tmp/clone_directory/.github/actions/setup/action.yml,3,0,24
+Java,/tmp/clone_directory/android/src/main/java/com/wechatlib/WeChatLibPackage.java,5,1,24
+XML,/tmp/clone_directory/example/ios/WechatLibExampleTests/Info.plist,0,0,24
+C/C++ Header,/tmp/clone_directory/example/android/app/src/main/jni/MainComponentsRegistry.h,8,1,23
+C/C++ Header,/tmp/clone_directory/ios/WechatLib.h,7,1,23
+Java,/tmp/clone_directory/example/android/app/src/main/java/pro/aili/temporary/newarchitecture/components/MainComponentsRegistry.java,6,8,22
+Objective-C++,/tmp/clone_directory/example/ios/WechatLibExample/AppDelegate.mm,7,7,22
+JSON,/tmp/clone_directory/example/package.json,0,0,22
+JavaScript,/tmp/clone_directory/scripts/bootstrap.js,5,3,21
+Ruby,/tmp/clone_directory/ios/WeChatLib.podspec,5,14,19
+Starlark,/tmp/clone_directory/example/android/app/build_defs.bzl,2,1,16
+C++,/tmp/clone_directory/example/android/app/src/main/jni/MainApplicationModuleProvider.cpp,6,10,16
+JavaScript,/tmp/clone_directory/example/babel.config.js,1,0,16
+YAML,/tmp/clone_directory/lefthook.yml,0,0,16
+Java,/tmp/clone_directory/example/android/app/src/main/java/pro/aili/temporary/wxapi/WXEntryActivity.java,2,2,12
+INI,/tmp/clone_directory/.editorconfig,4,0,11
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,1,0,11
+XML,/tmp/clone_directory/example/android/app/src/debug/AndroidManifest.xml,2,0,11
+C/C++ Header,/tmp/clone_directory/example/android/app/src/main/jni/MainApplicationModuleProvider.h,5,0,11
+XML,/tmp/clone_directory/example/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,11
+C++,/tmp/clone_directory/example/android/app/src/main/jni/OnLoad.cpp,1,0,10
+Gradle,/tmp/clone_directory/example/android/settings.gradle,1,0,10
+XML,/tmp/clone_directory/example/ios/WechatLibExample.xcworkspace/contents.xcworkspacedata,0,0,10
+JavaScript,/tmp/clone_directory/example/react-native.config.js,1,0,9
+XML,/tmp/clone_directory/example/ios/WechatLibExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+Objective-C,/tmp/clone_directory/example/ios/WechatLibExample/main.m,2,0,8
+Properties,/tmp/clone_directory/example/android/gradle.properties,8,26,6
+JSON,/tmp/clone_directory/example/ios/WechatLibExample/Images.xcassets/Contents.json,0,0,6
+Properties,/tmp/clone_directory/android/gradle.properties,0,0,5
+Properties,/tmp/clone_directory/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+JSON,/tmp/clone_directory/example/app.json,0,0,4
+JavaScript,/tmp/clone_directory/example/index.js,5,0,4
+C/C++ Header,/tmp/clone_directory/example/ios/WechatLibExample/AppDelegate.h,2,0,4
+JSON,/tmp/clone_directory/tsconfig.build.json,1,0,4
+JavaScript,/tmp/clone_directory/babel.config.js,0,0,3
+CMake,/tmp/clone_directory/example/android/app/src/main/jni/CMakeLists.txt,2,2,3
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/strings.xml,0,0,3
+JSON,/tmp/clone_directory/example/.watchmanconfig,0,0,1
+TypeScript,/tmp/clone_directory/src/__tests__/index.test.tsx,0,0,1
+ProGuard,/tmp/clone_directory/example/android/app/proguard-rules.pro,1,9,0
+SUM,,1192,1571,38070

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn --batch-mode --update-snapshots verify,441.50425832148153,45317677,True,"##[error]Exception in thread ""Thread-9"" java.lang.NoClassDefFoundError: Could not initialize class sun.awt.X11.XToolkit"
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ nodebox ---,75.2216408075657,10680994,False,
+##[group]Fetching the repository,27.777917300377556,10397656,False,
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ nodebox ---,27.519840310410792,1073805,False,
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ nodebox ---,21.06393966575179,2112829,False,
+##[group]Checking out the ref,18.92835239537966,1239356,False,
+##[group]Run actions/setup-java@v1,15.237473932682592,643804,False,
+##[group]GITHUB_TOKEN Permissions,4.631442865223614,1963385,False,
+##[group]Run actions/checkout@v2,0.6197001016848498,183811,False,
+##[group]Setting up auth,0.3196347892900804,62793,False,
+Requested labels: self-hosted,0.0490624076384488,5582525,False,

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/checkout@v4,1.693449892346262,1741601,False,
+##[group]Run exit_on_error() {,1.3073720924450725,934665,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,0.9331079518953966,864923,False,
+##[group]GITHUB_TOKEN Permissions,0.9206297021971522,1315397,False,
+Requested labels: self-hosted,0.6129514584356093,5696254,False,
+##[group]Initializing the repository,0.2163585296647499,154880,False,
+##[group]Checking out the ref,0.1229829158528367,35242,False,
+##[group]Setting up auth,0.1102940721210123,77177,False,

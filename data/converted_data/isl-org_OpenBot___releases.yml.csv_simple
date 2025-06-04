@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assembleDebug,310.61778216976273,46077000,False,
+##[group]GITHUB_TOKEN Permissions,247.3352871893452,2919741,False,
+##[group]Cleaning the repository,195.49745115657495,1384714,False,
+##[group]Run actions/cache@v2,109.36250732430256,563378,False,
+##[group]Run actions/upload-release-asset@v1__dup_12,107.55530071102103,10370042,True,##[error]Input required and not supplied: upload_url
+##[group]Fetching the repository,81.01084313272992,479720,False,
+##[group]Run actions/checkout@v2,24.09152449807372,190962,False,
+##[group]Setting up auth,15.56272149154458,118216,False,
+##[group]Removing previously created refs_ to avoid conflicts,12.365485816537564,30111,False,
+"##[group]Run echo ""::set-output name=openbot_name::OpenBot-$(echo | sed 's/[^-a-zA-Z0-9.]/_/g'| sed 's/^v//').apk""",2.57830524615572,19894,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-release-asset@v1,2.427529569310256,110294,False,
+##[group]==END_FILE==,0.0142060325521677,4198990,False,

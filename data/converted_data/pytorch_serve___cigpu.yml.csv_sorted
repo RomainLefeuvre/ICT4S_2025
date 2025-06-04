@@ -1,0 +1,7 @@
+##[group]Run nick-fields/retry@v3, 68.36708427983298, , , , 33170059, True, ##[error]Process completed with exit code 2.
+##[group]GITHUB_TOKEN Permissions, 66.47870514382964, , , , 3540891, False, 
+##[group]==END_FILE==, 60.0742679738557, , , , 4363630, False, 
+##[group]Getting Git version info, 45.70287028452957, , , , 9057650, False, 
+##[group]Run echo "Cleaning up previous run", 5.59768250020354, , , , 151572, False, 
+##[group]Run curl -Os https://uploader.codecov.io/latest/linux/codecov, 5.230353408811305, , , , 2677296, True, ##[error]Final attempt failed. Child_process exited with error code 2
+##[group]Run actions/checkout@v3, 3.1909090569629046, , , , 135747, False, 

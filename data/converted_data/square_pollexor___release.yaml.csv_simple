@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew publish,246.84779757169736,32175268,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,40.78371049836342,14753829,False,
+> Task :javaSourcesJar,15.822454490915652,900041,False,
+##[group]Fetching the repository,12.605756246301052,570579,False,
+##[group]Run actions/checkout@v4,6.033213290121806,239673,False,
+##[group]Run JamesIves/github-pages-deploy-action@releases/v3,5.765914620054394,6437673,False,
+Requested labels: self-hosted,5.442241809172392,6046926,False,
+##[group]Installed distributions,4.561471859471977,164087,False,
+> Task :generatePomFileForMavenPublication,3.478186093124517,96709,False,
+##[group]Run gradle/wrapper-validation-action@v2,2.1908476520597486,141232,False,
+##[group]Checking out the ref,2.1708724792428065,49873,False,

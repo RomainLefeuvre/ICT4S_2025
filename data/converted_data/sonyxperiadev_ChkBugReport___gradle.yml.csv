@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 0.2121983260974476, , , , 5955844, False, 
+##[group]GITHUB_TOKEN Permissions, 1.448859458442055, , , , 2172923, False, 
+##[group]Run actions/checkout@v1, 2.049207901615008, , , , 2277490, False, 
+##[group]Run actions/setup-java@v1, 74.44958486077101, , , , 18296422, False, 
+##[group]Run cd core && ./gradlew build, 172.64812037600635, , , , 20202985, True, ##[error]Process completed with exit code 1.
+> Task :compileJava, 16.457497993934904, , , , 800110, False, 
+> Task :classes, 6.672526532860374, , , , 199826, False, 
+> Task :copyWrapper, 6.744148401089506, , , , 199930, False, 
+> Task :distTar, 6.815770269318635, , , , 200040, False, 
+> Task :assemble, 36.13790294174474, , , , 2199690, False, 
+> Task :testClasses, 25.370201685370176, , , , 2000016, False, 
+> Task :test, 15.646909121448774, , , , 902188, False, 
+##[group]Run actions/upload-artifact@v1, 17.091021136462306, , , , 3513478, False, 

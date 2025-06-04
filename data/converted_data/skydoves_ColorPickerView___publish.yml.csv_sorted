@@ -1,0 +1,13 @@
+##[group]Run ./gradlew assemble --scan -x :benchmark:pixel6api31Setup -x :benchmark:pixel6api31NonMinifiedReleaseAndroidTest -x :benchmark:collectNonMinifiedReleaseBaselineProfile, 2512.4322953332685, , , , 166777566, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar, 1158.437125215804, , , , 84101141, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew publishAllPublicationsToMavenCentral --no-configuration-cache, 312.8988712038971, , , , 13611602, True, ##[error]Process completed with exit code 1.
+> Task :buildSrc:jar UP-TO-DATE, 172.2811555666601, , , , 6500276, False, 
+> Task :buildSrc:processResources NO-SOURCE, 138.0062900238332, , , , 4504899, False, 
+##[group]GITHUB_TOKEN Permissions, 20.619340567369974, , , , 2329807, False, 
+> Task :buildSrc:processResources NO-SOURCE__dup_12, 16.12047415746575, , , , 1098359, False, 
+##[group]Fetching the repository, 7.910232954234006, , , , 2974959, False, 
+> Task :buildSrc:classes UP-TO-DATE, 3.458224438453413, , , , 94766, False, 
+##[group]Run actions/checkout@v4, 2.5049071021741023, , , , 164056, False, 
+##[group]Checking out the ref, 1.4163714397891043, , , , 101697, False, 
+##[group]Setting up auth, 1.292004715858221, , , , 56188, False, 
+Requested labels: self-hosted, 0.0, , , , 5940986, False, 

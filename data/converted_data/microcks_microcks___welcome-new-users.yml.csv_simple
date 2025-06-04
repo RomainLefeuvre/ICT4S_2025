@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,2.4460452319628723,1388563,False,
+##[group]Run wow-actions/welcome@72817eb31cda1de60f51893d80e2e82ce57f7e76,0.6883159322909969,327701,False,
+Requested labels: self-hosted,0.0527706699205481,4718522,False,

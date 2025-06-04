@@ -1,0 +1,19 @@
+Requested labels: self-hosted, 531.4382124875215, , , , 5243668, False, 
+##[group]GITHUB_TOKEN Permissions, 419.4391556291656, , , , 4607464, False, 
+##[group]Run maxim-lobanov/setup-android-tools@v1, 6.371293758010063, , , , 180932, True, ##[error]ANDROID_HOME env variable is not defined
+##[group]Run sudo apt-get install -y unzip diffutils, 192.9881740330538, , , , 14239134, False, 
+##[group]Installed distributions, 3.932875313441504, , , , 226173, False, 
+##[group]Run actions/checkout@v3, 1.7962138131956389, , , , 124200, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 44.39728404322001, , , , 1632044, False, 
+##[group]Cleaning the repository, 10.671208319723776, , , , 5651584, False, 
+##[group]Setting up auth, 0.7717643570711475, , , , 98265, False, 
+##[group]Fetching the repository, 2.389198142816081, , , , 827762, False, 
+##[group]Setting up auth for fetching submodules, 0.5728124091641538, , , , 20759, False, 
+##[group]Fetching submodules, 0.6202987994646226, , , , 122799, False, 
+##[group]Persisting credentials for submodules, 1.3830567698306515, , , , 169629, False, 
+##[group]Run ./gradlew clean test mbw::assembleProdnetDebug mbw::assembleBtctestnetDebug mbw::assembleBtctestnetRelease, 636.3989173421434, , , , 36173795, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 3.514126841985124, , , , 97850, False, 
+##[group]Run mv mbw/build/outputs/apk /tmp/buildA, 3.5141646389461143, , , , 37479, True, ##[error]Process completed with exit code 1.
+##[group]Run git reset --hard HEAD, 17.57309101239002, , , , 1882759, True, ##[error]Process completed with exit code 1.
+##[group]Run unzip -d buildB -qq mbw/build/outputs/apk/btctestnet/release/mbw-btctestnet-release.apk, 2.508693097249665, , , , 12784, True, ##[error]Process completed with exit code 9.
+##[group]Run set -x;, 8.142543150874342, , , , 739167, False, 

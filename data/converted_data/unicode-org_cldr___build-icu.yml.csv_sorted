@@ -1,0 +1,58 @@
+##[group]Run rm -rf target/cldr-prod, 1970.3513557540084, , , , 88443605, False, 
+Requested labels: self-hosted__dup_40, 492.8782164409444, , , , 45373320, False, 
+##[group]Run mvn -s .github/workflows/mvn-settings.xml -B compile install package --file tools/pom.xml -DskipTests=true -pl cldr-code, 463.0878177462435, , , , 43027157, False, 
+##[group]Installed distributions__dup_48, 309.4385986311799, , , , 18296925, False, 
+##[group]Run sudo apt-get -y install doxygen;, 284.8518385044335, , , , 34296695, True, ##[error]Process completed with exit code 1.
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ cldr-code ---__dup_20, 241.71903143372944, , , , 25518784, False, 
+##[group]Run actions/upload-artifact@v3__dup_23, 215.66997860622467, , , , 17671310, False, 
+##[group]Run actions/cache@v3, 181.94729824659925, , , , 21416900, False, 
+##[group]Run actions/download-artifact@v3__dup_27, 178.81457499029614, , , , 21570040, False, 
+##[group]Run actions/cache@v3__dup_35, 170.6533311664289, , , , 22917377, False, 
+##[group]Run actions/upload-artifact@v3, 163.33334672864098, , , , 16942667, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ cldr-code ---, 162.59368031176734, , , , 11413815, False, 
+##[group]GITHUB_TOKEN Permissions, 159.2535174653072, , , , 3992769, False, 
+##[group]Fetching the repository__dup_33, 135.1435813221852, , , , 14550742, False, 
+##[group]Run actions/download-artifact@v3, 132.05903359653752, , , , 14473346, False, 
+##[group]Run mvn -B install:install-file   -Dproject.parent.relativePath=""   -DgroupId=org.unicode.cldr -DartifactId=cldr-api   -Dversion=0.1-SNAPSHOT   -Dpackaging=jar   -DgeneratePom=true -Dfile=cldr-code/cldr-code.jar, 96.90109511101882, , , , 7056516, False, 
+##[group]Cleaning the repository, 90.11875517742678, , , , 1303331, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ cldr-code ---, 80.98588531736307, , , , 2448295, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ cldr-code ---__dup_18, 64.32193865274186, , , , 2035038, False, 
+##[group]Run mkdir -p cldr cldr-prod && cd cldr-prod && unzip ../cldr-prod.zip, 50.6284898817766, , , , 1703685, False, 
+##[group]GITHUB_TOKEN Permissions__dup_42, 48.5242471804272, , , , 3497977, False, 
+##[group]GITHUB_TOKEN Permissions__dup_51, 33.9524278434497, , , , 2455970, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ cldr-code ---__dup_19, 33.829950010480246, , , , 1304616, False, 
+##[group]Run actions/upload-artifact@v3__dup_39, 33.06305915389599, , , , 1886109, False, 
+##[group]Fetching the repository, 31.288632254948595, , , , 462754, False, 
+##[group]Run env TOOLS_ROOT=$(pwd)/icu/tools/ CLDR_DIR=$(pwd)/cldr CLDR_DATA_DIR=$(pwd)/cldr-prod/ ant -f icu/tools/cldr/cldr-to-icu/build-icu-data.xml clean all && ln icu/icu4c/LICENSE icu/icu4c/source/data/, 29.28016620061117, , , , 5603133, True, ##[error]Process completed with exit code 1.
+##[group]Checking out the ref, 29.09094137230375, , , , 1938573, False, 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ cldr-code ---, 27.889512807568448, , , , 6939531, False, 
+##[group]GITHUB_TOKEN Permissions__dup_25, 26.020644641263857, , , , 4836919, False, 
+[INFO] --- maven-surefire-plugin:3.1.0:test (default-test) @ cldr-code ---, 25.985329991906838, , , , 1847037, False, 
+Requested labels: self-hosted__dup_41, 22.7767787645353, , , , 5286071, False, 
+[INFO] --- license-maven-plugin:2.2.0:add-third-party (add-third-party) @ cldr-code ---, 19.29649356977669, , , , 7407167, False, 
+##[group]Run ant check;, 19.14011575236172, , , , 606952, True, ##[error]Process completed with exit code 1.
+Requested labels: self-hosted__dup_24, 13.779550631930956, , , , 4822686, False, 
+[INFO] --- maven-jar-plugin:3.3.0:jar (default-jar) @ cldr-code ---, 13.74871298681468, , , , 1508025, False, 
+##[group]Run cd icu4c/source;, 13.587925935494606, , , , 218296, True, ##[error]Process completed with exit code 1.
+##[group]Cleaning the repository__dup_53, 11.89033571329348, , , , 549341, False, 
+##[group]Fetching the repository__dup_54, 11.543844819703528, , , , 466300, False, 
+##[group]Run actions/download-artifact@v3__dup_45, 9.29702032765567, , , , 479496, True, ##[error]Unable to find an artifact with the name: icu-data
+##[group]Run actions/checkout@v4__dup_43, 8.598170306632758, , , , 142960, False, 
+[INFO] --- buildnumber-maven-plugin:1.4:create (default) @ cldr-code ---, 8.192585511631785, , , , 388585, False, 
+##[group]Setting up auth, 7.58796171452346, , , , 68349, False, 
+##[group]Run actions/download-artifact@v3__dup_55, 7.4697046169972, , , , 481989, True, ##[error]Unable to find an artifact with the name: icu-data
+##[group]Removing previously created refs_ to avoid conflicts, 6.182783619241339, , , , 136687, False, 
+##[group]Run actions/checkout@v4, 6.089105079555863, , , , 141558, False, 
+##[group]Run git lfs pull, 5.410488191547903, , , , 216096, True, ##[error]Process completed with exit code 1.
+##[group]Run cd icu4c/source && rm -rf data && unzip -o ../../icu-data.zip, 4.838934088769042, , , , 98704, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_57, 2.4331278278253734, , , , 86858, False, 
+##[group]Run actions/checkout@v4__dup_31, 2.1696224894904224, , , , 101992, False, 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ cldr-code ---, 2.095592222643662, , , , 145157, False, 
+##[group]Run s4u/maven-settings-action@v2.8.0, 2.066960420469578, , , , 98077, False, 
+##[group]Run cd icu/icu4c/source && zip -rlq ../../../icu-data.zip data, 1.9794511271549533, , , , 187898, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions, 1.9346363039102048, , , , 55842, False, 
+##[group]Setting up auth__dup_32, 1.905301036272233, , , , 55440, False, 
+##[group]Run actions/checkout@v4__dup_52, 1.8289070462731027, , , , 137422, False, 
+##[group]Run cd icu4c/source && ./runConfigureICU Linux && make -j2 && make -C data icu4j-data-install ICU4J_ROOT=$(cd ../../icu4j ; pwd), 1.4977190894157653, , , , 102836, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3__dup_49, 1.3933996400860331, , , , 97120, False, 
+Requested labels: self-hosted, 0.0438736463027333, , , , 4560230, False, 

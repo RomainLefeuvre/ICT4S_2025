@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 0.0140412446472996, , , , 4297081, False, 
+##[group]GITHUB_TOKEN Permissions, 121.91896395154303, , , , 5069182, False, 
+##[group]Run actions/checkout@v4, 3.764680335026672, , , , 139463, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.8129094643356103, , , , 25560, False, 
+##[group]Setting up auth, 7.770506316598039, , , , 146098, False, 
+##[group]Fetching the repository, 24.46901805320864, , , , 612587, False, 
+##[group]Run sh .github/scripts/decrypt-secrets.sh, 4.246971628116058, , , , 41706, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/setup-java@v4, 13.030289660201808, , , , 275646, True, ##[error]Input required and not supplied: distribution
+##[group]Run ./gradlew -Prelease=true -PreproducibleBuild=true build -S, 4.439888145351813, , , , 118336, True, ##[error]Process completed with exit code 1.
+##[group]📦 Download JReleaser, 175.16441160611936, , , , 3294864, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler java-archive", 340.147349327702, , , , 4634050, True, [ERROR] == JReleaser ==
+##[group]📦 Download JReleaser__dup_12, 86.11707830575006, , , , 1051012, False, 
+##[group]Run echo "☕ java -jar jreleaser-cli.jar assemble --assembler jlink", 157.46761829617648, , , , 1634015, True, [ERROR] == JReleaser ==
+##[group]Run actions/upload-artifact@v4, 51.13691831212225, , , , 1331683, False, 
+##[group]Run actions/upload-artifact@v4__dup_15, 26.03555076314358, , , , 300451, False, 
+##[group]Run actions/upload-artifact@v4__dup_16, 22.55060059504625, , , , 286097, False, 
+##[group]Run actions/upload-artifact@v4__dup_17, 43.09740076498086, , , , 755985, False, 

@@ -1,0 +1,5 @@
+Requested labels: self-hosted, 0.0, , , , 5743635, False, 
+##[group]GITHUB_TOKEN Permissions, 5.42242413017093, , , , 1707207, False, 
+##[group]Run actions/checkout@v1, 12.847246713640278, , , , 2503207, False, 
+##[group]Run actions/setup-java@v1, 65.52285527017563, , , , 18198430, False, 
+##[group]Run mvn package --file pom.xml, 2936.452413011924, , , , 340653629, True, [ERROR[m] [ERROR] Some problems were encountered while processing the POMs:

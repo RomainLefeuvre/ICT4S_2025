@@ -1,0 +1,30 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==__dup_8,1301.8856314721563,89975706,False,
+Requested labels: self-hosted,814.1475108078155,77130178,False,
+##[group]==END_FILE==__dup_13,692.6672321502316,49761819,False,
+##[group]Run ./gradlew --parallel app:assembleRelease,492.2659332623279,37584968,False,
+##[group]Run ./gradlew --parallel app:assembleRelease__dup_25,266.1109718196493,8691511,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --parallel app:assembleRelease__dup_21,259.2099479674059,12931454,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --parallel app:assembleRelease__dup_29,257.3558549614796,8638275,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --parallel app:assembleRelease__dup_17,246.30141135481875,8781092,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew --parallel app:assembleRelease__dup_12,213.226905264203,9587768,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v1__dup_15,18.653879817002107,944338,False,
+##[group]Run actions/checkout@v1__dup_27,18.415847920814777,982609,False,
+##[group]GITHUB_TOKEN Permissions__dup_26,15.849828848649056,1862943,False,
+##[group]GITHUB_TOKEN Permissions__dup_9,15.366628996556052,2233749,False,
+##[group]GITHUB_TOKEN Permissions__dup_18,14.929799940768625,1871932,False,
+##[group]GITHUB_TOKEN Permissions__dup_22,14.892657307777014,2027647,False,
+##[group]Run actions/checkout@v1,11.7531084541018,2360698,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v1__dup_19,10.69548993633724,908540,False,
+##[group]Run actions/checkout@v1__dup_10,9.959022307171704,970367,False,
+##[group]Run actions/checkout@v1__dup_23,9.42759124614979,952972,False,
+##[group]Run actions/setup-java@v2__dup_16,7.451361985434142,257265,False,
+##[group]GITHUB_TOKEN Permissions,5.898646536175152,1800461,False,
+##[group]Run actions/setup-java@v2__dup_11,5.663407387515279,263666,False,
+##[group]Run actions/setup-java@v2__dup_24,4.93201725575518,254952,False,
+##[group]Run actions/setup-java@v2__dup_20,4.135730481179764,255080,False,
+##[group]GITHUB_TOKEN Permissions__dup_14,3.7937123937140695,2039238,False,
+##[group]Run actions/setup-java@v2__dup_28,3.102034645317321,262568,False,
+##[group]Run actions/setup-java@v2,1.7673847299401195,255278,False,
+##[group]Run chmod +x ./gradlew,1.2150770018338326,139640,False,
+##[group]==END_FILE==,0.0,6940417,False,

@@ -1,0 +1,13 @@
+##[group]Run ./sbt publishSigned, 451.61604364104295, , , , 35516455, True, ##[error]Process completed with exit code 2.
+##[group]Run ./sbt sonatypeBundleRelease, 261.0690935126875, , , , 11521760, True, [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+##[group]GITHUB_TOKEN Permissions, 128.11010911335018, , , , 2194927, False, 
+##[group]Fetching the repository, 117.11941482082553, , , , 9314524, False, 
+##[group]Setting up auth, 17.683683467750335, , , , 224745, False, 
+##[group]Run actions/checkout@v4, 16.342059042863397, , , , 154602, False, 
+##[group]Initializing the repository, 8.590287154208866, , , , 101873, False, 
+##[group]Getting Git version info, 8.422584101098002, , , , 126316, False, 
+##[group]Run git fetch --tags -f, 7.074819242087811, , , , 412908, False, 
+##[group]Installed distributions, 5.635357888844942, , , , 270354, False, 
+##[group]Run echo $PGP_SECRET | base64 --decode | gpg --import --batch --yes, 1.929105469196378, , , , 137496, False, 
+##[group]Checking out the ref, 1.7096098310103227, , , , 100233, False, 
+##[group]==END_FILE==, 0.1871572277731176, , , , 5025801, False, 

@@ -1,0 +1,7 @@
+##[group]==END_FILE==, 0.0, , , , 5077630, False, 
+##[group]GITHUB_TOKEN Permissions, 122.79429173721778, , , , 1420865, False, 
+##[group]Pull down action image 'orrosenblatt/validate-json-action:latest@sha256:02370758b8b199e0477da11ecfdd498c75c561685056b5c31b925a4ab95df7f4', 86.81178429803808, , , , 8145608, False, 
+##[group]Run actions/checkout@v4, 1.371481468133397, , , , 185478, False, 
+##[group]Fetching the repository, 13.586743013337742, , , , 1101879, False, 
+##[group]Checking out the ref, 1.7423132757806938, , , , 112677, False, 
+##[group]Run docker://orrosenblatt/validate-json-action:latest@sha256:02370758b8b199e0477da11ecfdd498c75c561685056b5c31b925a4ab95df7f4, 21.458575183894894, , , , 6778158, False, 

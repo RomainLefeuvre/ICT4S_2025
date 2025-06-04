@@ -1,0 +1,220 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.06 s (3377.8 files/s 440679.6 lines/s)"
+JSON,/tmp/clone_directory/package-lock.json,0,0,10156
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/WebRTCModule.java,192,54,1183
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+RTCPeerConnection.m,139,38,770
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/Base.lproj/Main.storyboard,0,3,714
+TypeScript,/tmp/clone_directory/src/RTCPeerConnection.ts,183,82,564
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/PeerConnectionObserver.java,89,28,452
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+RTCMediaStream.m,64,26,339
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/GetUserMediaImpl.java,95,61,336
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/WebRTCView.java,64,198,284
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/SerializeUtils.java,44,23,275
+Markdown,/tmp/clone_directory/Documentation/BasicUsage.md,87,0,262
+Python,/tmp/clone_directory/tools/build-webrtc.py,60,32,252
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/SerializeUtils.m,69,0,245
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+Transceivers.m,49,3,216
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/VideoCaptureController.m,53,5,197
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/ScreenCapturer.m,64,7,193
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/RTCVideoViewManager.m,46,86,183
+Markdown,/tmp/clone_directory/Documentation/CallGuide.md,62,0,180
+Markdown,/tmp/clone_directory/Documentation/AndroidInstallation.md,58,0,179
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/RCTConvert+WebRTC.m,35,2,169
+TypeScript,/tmp/clone_directory/src/RTCDataChannel.ts,42,5,143
+TypeScript,/tmp/clone_directory/src/MediaStreamTrack.ts,42,21,140
+TypeScript,/tmp/clone_directory/src/RTCUtil.ts,32,36,136
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+RTCDataChannel.m,20,15,130
+Bourne Shell,/tmp/clone_directory/examples/GumTestApp_macOS/android/gradlew,22,37,129
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/CameraCaptureController.java,27,36,128
+Bourne Shell,/tmp/clone_directory/examples/GumTestApp/android/gradlew,21,36,126
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+VideoTrackAdapter.m,34,12,120
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/VideoTrackAdapter.java,25,9,103
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule.m,22,4,101
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/SocketConnection.m,36,1,100
+TypeScript,/tmp/clone_directory/src/MediaStream.ts,33,30,98
+Gradle,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/build.gradle,22,111,92
+XML,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp.xcodeproj/xcshareddata/xcschemes/GumTestApp-tvOS.xcscheme,0,0,88
+XML,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp.xcodeproj/xcshareddata/xcschemes/GumTestApp.xcscheme,0,0,88
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOS.xcodeproj/xcshareddata/xcschemes/GumTestApp_macOS-tvOS.xcscheme,0,0,88
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOS.xcodeproj/xcshareddata/xcschemes/GumTestApp_macOS.xcscheme,0,0,88
+TypeScript,/tmp/clone_directory/src/RTCRtpTransceiver.ts,21,0,86
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/DataChannelWrapper.java,18,0,81
+TypeScript,/tmp/clone_directory/src/Permissions.ts,18,36,79
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS.xcodeproj/xcshareddata/xcschemes/GumTestApp_macOS-iOS.xcscheme,0,0,78
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS.xcodeproj/xcshareddata/xcschemes/GumTestApp_macOS-macOS.xcscheme,0,0,78
+DOS Batch,/tmp/clone_directory/examples/GumTestApp/android/gradlew.bat,25,2,76
+Gradle,/tmp/clone_directory/examples/GumTestApp/android/app/build.gradle,20,75,75
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/App.js,4,7,75
+TypeScript,/tmp/clone_directory/src/getUserMedia.ts,26,9,75
+DOS Batch,/tmp/clone_directory/examples/GumTestApp_macOS/android/gradlew.bat,24,2,74
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/StringUtils.java,20,9,72
+TypeScript,/tmp/clone_directory/src/RTCRtpEncodingParameters.ts,15,3,72
+JavaScript,/tmp/clone_directory/examples/GumTestApp/App.js,5,7,70
+TypeScript,/tmp/clone_directory/src/index.ts,10,2,66
+JavaScript,/tmp/clone_directory/src/.eslintrc.cjs,1,1,65
+JSON,/tmp/clone_directory/package.json,0,0,64
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/ScreenCaptureController.java,17,7,63
+Markdown,/tmp/clone_directory/Documentation/BuildingWebRTC.md,28,0,62
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+Permissions.m,13,0,62
+XML,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp/Info.plist,0,0,61
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/MediaProjectionService.java,16,9,59
+Java,/tmp/clone_directory/examples/GumTestApp/android/app/src/debug/java/com/gumtestapp/ReactNativeFlipper.java,5,8,59
+Java,/tmp/clone_directory/examples/GumTestApp/android/app/src/main/java/com/gumtestapp/MainApplication.java,8,13,59
+Java,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/debug/java/com/gumtestapp_macos/ReactNativeFlipper.java,5,8,59
+Java,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/main/java/com/gumtestapp_macos/MainApplication.java,8,13,59
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/Assets.xcassets/AppIcon.appiconset/Contents.json,0,0,58
+Markdown,/tmp/clone_directory/README.md,24,0,57
+XML,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp/LaunchScreen.storyboard,0,1,57
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOS/Info.plist,0,0,57
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/Info.plist,0,0,57
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/AbstractVideoCaptureController.java,16,7,56
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/MediaProjectionNotification.java,19,5,54
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/webrtcutils/H264AndSoftwareVideoDecoderFactory.java,12,7,54
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/webrtcutils/H264AndSoftwareVideoEncoderFactory.java,12,7,54
+TypeScript,/tmp/clone_directory/src/RTCRtpSender.ts,15,9,54
+JSON,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOS-tvOS/Info.plist,0,0,53
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/ScreenCaptureController.m,24,2,53
+Objective-C,/tmp/clone_directory/examples/GumTestApp/ios/GumTestAppTests/GumTestAppTests.m,14,0,51
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOSTests/GumTestApp_macOSTests.m,14,0,51
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/Info.plist,0,0,49
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOS/AppDelegate.m,10,0,48
+YAML,/tmp/clone_directory/.github/workflows/ios_ci.yml,7,0,47
+TypeScript,/tmp/clone_directory/src/EventEmitter.ts,12,3,46
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/ScreenCapturePickerViewManager.m,13,2,45
+TypeScript,/tmp/clone_directory/src/RTCRtpSendParameters.ts,15,4,44
+Markdown,/tmp/clone_directory/Documentation/ImprovingCallReliability.md,22,0,43
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/Base.lproj/LaunchScreen.xib,0,0,42
+TypeScript,/tmp/clone_directory/src/RTCRtpReceiver.ts,10,8,42
+JSON,/tmp/clone_directory/examples/GumTestApp/package.json,0,0,39
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/EglUtils.java,10,18,38
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,38
+TypeScript,/tmp/clone_directory/src/Logger.ts,13,0,36
+TypeScript,/tmp/clone_directory/src/RTCRtpCodecParameters.ts,8,0,36
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/videoEffects/VideoEffectProcessor.java,8,10,35
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/package.json,0,0,34
+YAML,/tmp/clone_directory/.github/workflows/android_ci.yml,4,0,32
+XML,/tmp/clone_directory/examples/GumTestApp/android/app/src/main/AndroidManifest.xml,2,0,32
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/RTCVideoViewManager.java,8,34,31
+Bourne Shell,/tmp/clone_directory/tools/release.sh,8,6,31
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/CameraEventsHandler.java,9,10,30
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/DataChannelWrapper.m,11,1,30
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule.h,9,0,30
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/videoEffects/ProcessorProvider.java,5,4,29
+Gradle,/tmp/clone_directory/examples/GumTestApp_macOS/android/build.gradle,4,5,29
+TypeScript,/tmp/clone_directory/src/RTCRtpParameters.ts,7,0,29
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/AppDelegate.m,7,0,28
+Gradle,/tmp/clone_directory/android/build.gradle,6,2,26
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/SerializeUtils.h,2,0,26
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/TrackCapturerEventsEmitter.m,11,0,26
+TypeScript,/tmp/clone_directory/src/RTCIceCandidate.ts,4,0,25
+Markdown,/tmp/clone_directory/Documentation/iOSInstallation.md,10,0,24
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/webrtcutils/SoftwareVideoDecoderFactoryProxy.java,7,5,24
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/webrtcutils/SoftwareVideoEncoderFactoryProxy.java,7,5,24
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/main/AndroidManifest.xml,3,0,24
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOS-tvOSTests/Info.plist,0,0,24
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/ios/GumTestApp_macOSTests/Info.plist,0,0,24
+TypeScript,/tmp/clone_directory/src/RTCSessionDescription.ts,6,0,24
+TypeScript,/tmp/clone_directory/src/RTCRtpHeaderExtension.ts,4,0,23
+TypeScript,/tmp/clone_directory/src/RTCTrackEvent.ts,8,11,23
+TypeScript,/tmp/clone_directory/src/getDisplayMedia.ts,7,0,23
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/WebRTCModuleOptions.java,5,0,22
+Gradle,/tmp/clone_directory/examples/GumTestApp/android/build.gradle,3,4,22
+Objective-C,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp/AppDelegate.m,7,7,22
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModuleOptions.m,8,0,22
+TypeScript,/tmp/clone_directory/src/MediaDevices.ts,10,21,22
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/ReactBridgeUtil.java,2,13,21
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/TrackCapturerEventsEmitter.java,9,4,21
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/AppDelegate.m,11,2,19
+Ruby,/tmp/clone_directory/react-native-webrtc.podspec,4,0,19
+TypeScript,/tmp/clone_directory/src/RTCRtcpParameters.ts,4,0,19
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/ThreadUtils.java,5,19,17
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/WebRTCModulePackage.java,4,0,17
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/DataChannelWrapper.h,10,0,17
+Markdown,/tmp/clone_directory/Documentation/tvOSInstallation.md,5,0,16
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,0,0,16
+Starlark,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/build_defs.bzl,2,1,16
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,2,0,15
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/ViewController.m,7,0,15
+TypeScript,/tmp/clone_directory/src/RTCDataChannelEvent.ts,5,8,15
+TypeScript,/tmp/clone_directory/src/RTCErrorEvent.ts,2,4,15
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/DisplayUtils.java,2,0,14
+JSON,/tmp/clone_directory/tsconfig.json,0,0,14
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/RCTConvert+WebRTC.h,3,0,13
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/ScreenCaptureController.h,7,0,13
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/VideoCaptureController.h,5,0,13
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModuleOptions.h,7,0,13
+TypeScript,/tmp/clone_directory/src/MediaStreamTrackEvent.ts,4,8,13
+TypeScript,/tmp/clone_directory/src/MessageEvent.ts,4,9,13
+TypeScript,/tmp/clone_directory/src/RTCIceCandidateEvent.ts,4,9,13
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/LibraryLoader.java,3,6,12
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/GumTestApp_macOS.entitlements,0,0,12
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/metro.config.macos.js,3,4,12
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/ScreenCapturer.h,7,0,12
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+RTCPeerConnection.h,5,0,12
+JavaScript,/tmp/clone_directory/metro.config.macos.js,2,0,12
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/RTCMediaStreamTrack+React.m,5,0,11
+TypeScript,/tmp/clone_directory/src/RTCRtpCapabilities.ts,2,3,11
+YAML,/tmp/clone_directory/.clang-format,1,0,10
+YAML,/tmp/clone_directory/.github/stale.yml,0,5,10
+XML,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp.xcworkspace/contents.xcworkspacedata,0,0,10
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS.xcworkspace/contents.xcworkspacedata,0,0,10
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/metro.config.js,1,6,10
+XML,/tmp/clone_directory/ios/RCTWebRTC.xcworkspace/contents.xcworkspacedata,0,0,10
+TypeScript,/tmp/clone_directory/src/MediaStreamError.ts,2,0,10
+TypeScript,/tmp/clone_directory/src/RTCRtpCodecCapability.ts,3,0,10
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/CaptureController.h,6,0,9
+Objective-C,/tmp/clone_directory/ios/RCTWebRTC/CaptureController.m,6,2,9
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/TrackCapturerEventsEmitter.h,5,0,9
+JavaScript,/tmp/clone_directory/react-native.config.js,2,0,9
+TypeScript,/tmp/clone_directory/src/MediaStreamErrorEvent.ts,2,0,9
+Java,/tmp/clone_directory/examples/GumTestApp/android/app/src/main/java/com/gumtestapp/MainActivity.java,3,4,8
+Properties,/tmp/clone_directory/examples/GumTestApp/android/gradle.properties,10,30,8
+Java,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/main/java/com/gumtestapp_macos/MainActivity.java,3,4,8
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/react-native.config.js,1,0,8
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/SocketConnection.h,5,0,8
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+RTCDataChannel.h,6,0,8
+XML,/tmp/clone_directory/macos/RCTWebRTC.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+TypeScript,/tmp/clone_directory/src/RTCView.ts,5,51,8
+Markdown,/tmp/clone_directory/ISSUE_TEMPLATE.md,10,23,7
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/__tests__/App-test.js,3,4,7
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/main.m,2,0,7
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+RTCMediaStream.h,1,0,7
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/WebRTCModule+VideoTrackAdapter.h,5,0,7
+XML,/tmp/clone_directory/macos/RCTWebRTC.xcodeproj/project.xcworkspace/contents.xcworkspacedata,0,0,7
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/videoEffects/VideoFrameProcessor.java,2,11,6
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/.prettierrc.js,0,0,6
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/debug/AndroidManifest.xml,2,0,6
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/Images.xcassets/Contents.json,0,0,6
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/Assets.xcassets/Contents.json,0,0,6
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/CapturerEventsDelegate.h,5,1,6
+JavaScript,/tmp/clone_directory/metro.config.js,1,0,6
+TypeScript,/tmp/clone_directory/src/RTCRtpReceiveParameters.ts,1,0,6
+XML,/tmp/clone_directory/android/src/main/res/values/strings.xml,0,0,5
+Properties,/tmp/clone_directory/examples/GumTestApp/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/examples/GumTestApp_macOS/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-iOS/AppDelegate.h,3,0,5
+C/C++ Header,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/AppDelegate.h,4,0,5
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/RTCMediaStreamTrack+React.h,5,0,5
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/ScreenCapturePickerViewManager.h,2,0,5
+Java,/tmp/clone_directory/android/src/main/java/com/oney/WebRTCModule/videoEffects/VideoFrameProcessorFactoryInterface.java,1,7,4
+XML,/tmp/clone_directory/android/src/main/res/values/styles.xml,2,2,4
+Gradle,/tmp/clone_directory/examples/GumTestApp/android/settings.gradle,0,0,4
+JSON,/tmp/clone_directory/examples/GumTestApp/app.json,0,0,4
+C/C++ Header,/tmp/clone_directory/examples/GumTestApp/ios/GumTestApp/AppDelegate.h,2,0,4
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/.eslintrc.js,0,0,4
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/app.json,0,0,4
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/index.js,2,3,4
+Objective-C,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/main.m,1,0,4
+C/C++ Header,/tmp/clone_directory/ios/RCTWebRTC/RTCVideoViewManager.h,2,0,4
+XML,/tmp/clone_directory/examples/GumTestApp/android/app/src/main/res/values/strings.xml,0,0,3
+XML,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/src/main/res/values/strings.xml,0,0,3
+Properties,/tmp/clone_directory/examples/GumTestApp_macOS/android/gradle.properties,6,19,3
+Gradle,/tmp/clone_directory/examples/GumTestApp_macOS/android/settings.gradle,0,0,3
+JavaScript,/tmp/clone_directory/examples/GumTestApp_macOS/babel.config.js,0,0,3
+C/C++ Header,/tmp/clone_directory/examples/GumTestApp_macOS/macos/GumTestApp_macOS-macOS/ViewController.h,2,0,3
+TypeScript,/tmp/clone_directory/src/ScreenCapturePickerView.ts,2,0,2
+Bourne Shell,/tmp/clone_directory/tools/format.sh,3,1,2
+JSON,/tmp/clone_directory/examples/GumTestApp_macOS/.watchmanconfig,0,0,1
+ProGuard,/tmp/clone_directory/examples/GumTestApp_macOS/android/app/proguard-rules.pro,1,9,0
+SUM,,2866,1684,23891

@@ -1,0 +1,42 @@
+##[group]==END_FILE==, 1464.9413224725467, , , , 148802126, False, 
+##[group]==END_FILE==__dup_2, 1777.830186960835, , , , 191707354, False, 
+##[group]GITHUB_TOKEN Permissions, 92.68003148938202, , , , 4922310, False, 
+##[group]Run actions/checkout@v4, 28.472123951383114, , , , 186417, False, 
+##[group]Setting up auth, 13.54252256888755, , , , 68211, False, 
+##[group]Fetching the repository, 51.39593264833418, , , , 468674, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 51.06766708114157, , , , 497967, False, 
+##[group]Restore Gradle state from cache, 497.5241162711994, , , , 53593493, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Caching Gradle state, 9.430722581524243, , , , 2771655, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 22.713576764402724, , , , 6728472, False, 
+##[group]Run actions/checkout@v4__dup_11, 2.674996305127899, , , , 194021, False, 
+##[group]Fetching the repository__dup_12, 94.99526129572754, , , , 10928168, False, 
+##[group]Run gradle/actions/setup-gradle@v3__dup_13, 576.2788083596436, , , , 36748575, False, 
+##[group]Run gradle/actions/setup-gradle@v3__dup_14, 56.30994476291512, , , , 4349494, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Run export CODACY_PROJECT_TOKEN=, 10.102821725355412, , , , 3461029, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Run COMMIT_COUNT=$(git rev-list --count ${GITHUB_REF}), 16.994932124507272, , , , 1345642, False, 
+##[group]GITHUB_TOKEN Permissions__dup_17, 46.71387319392595, , , , 7044728, False, 
+##[group]Run actions/checkout@v4__dup_18, 2.394950946652206, , , , 173880, False, 
+##[group]Fetching the repository__dup_19, 6.36875149393189, , , , 420778, False, 
+##[group]Run actions/setup-java@v4, 3.070036407850508, , , , 279622, False, 
+##[group]Run gradle/actions/setup-gradle@v3__dup_21, 8.74391426792167, , , , 442157, True, ##[error]Input required and not supplied: distribution
+##[group]Run actions/cache@v4, 6.290639132417758, , , , 613385, False, 
+##[group]Install Android SDK, 1.3708587578493032, , , , 27505, False, 
+##[group]Terminate Emulator, 17.081016859914065, , , , 1036037, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions__dup_25, 56.88906318359551, , , , 6961956, False, 
+##[group]Run actions/checkout@v4__dup_26, 10.229415406620586, , , , 175848, False, 
+##[group]Setting up auth__dup_27, 1.3761757065600644, , , , 65155, False, 
+##[group]Fetching the repository__dup_28, 6.043744314345256, , , , 447891, False, 
+##[group]Run actions/setup-java@v4__dup_29, 11.834308170368978, , , , 276979, False, 
+##[group]Run gradle/actions/setup-gradle@v3__dup_30, 9.076564497106506, , , , 459487, True, ##[error]Input required and not supplied: distribution
+##[group]Run actions/cache@v4__dup_31, 7.707001521816175, , , , 588139, False, 
+##[group]Terminate Emulator__dup_32, 14.532130828745135, , , , 1026370, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions__dup_33, 74.5172255121079, , , , 6833036, False, 
+##[group]Run actions/checkout@v4__dup_34, 3.315969824180728, , , , 181571, False, 
+##[group]Setting up auth__dup_35, 1.7796116555211032, , , , 67285, False, 
+##[group]Fetching the repository__dup_36, 8.898058277605516, , , , 428420, False, 
+##[group]Run actions/setup-java@v4__dup_37, 5.93082352607148, , , , 277110, False, 
+##[group]Run gradle/actions/setup-gradle@v3__dup_38, 10.307554847863065, , , , 451574, True, ##[error]Input required and not supplied: distribution
+##[group]Run actions/cache@v4__dup_39, 7.787972048111989, , , , 618333, False, 
+##[group]Install Android SDK__dup_40, 1.5563121309056922, , , , 33691, False, 
+##[group]Install Android SDK__dup_41, 1.556098417786241, , , , 29009, False, 
+##[group]Terminate Emulator__dup_42, 17.351619816500005, , , , 988621, True, ##[error]The process '/usr/bin/sh' failed with exit code 1

@@ -1,0 +1,16 @@
+Requested labels: self-hosted, 0.7451274954315672, , , , 4720823, False, 
+##[group]GITHUB_TOKEN Permissions, 96.43700141684764, , , , 11563335, False, 
+##[group]Run actions/checkout@44c2b7a8a4ea60a981eaca3cf939b5f4305c123b, 2.161610203131222, , , , 197109, False, 
+##[group]Setting up auth, 1.0858534450703834, , , , 64308, False, 
+##[group]Fetching the repository, 4.363607154300622, , , , 450866, False, 
+##[group]Checking out the ref, 1.095950132079928, , , , 21590, False, 
+##[group]Setup CodeQL tools, 16.248616031734272, , , , 3850832, False, 
+##[group]Validating workflow, 5.20134685285682, , , , 2770714, False, 
+##[group]Load language configuration, 12.160510509462949, , , , 1064731, False, 
+##[group]Augmented user configuration file contents, 67.90822115787267, , , , 4338871, False, 
+##[group]Run github/codeql-action/autobuild@v3, 10.050496656303189, , , , 1662009, False, 
+##[group]Attempting to automatically build java code, 290.13974736145354, , , , 40454332, True, [2024-05-14 06:21:49] [ERROR] Spawned process exited abnormally (code 1; tried to run: [./gradlew, --no-daemon, -S, -Dorg.gradle.dependency.verification=off, -Dorg.gradle.warning.mode=none, --init-script, /tmp/semmleTempDir-2/init.gradle, clean])
+##[group]Run github/codeql-action/analyze@v3, 23.470397146940705, , , , 1464759, False, 
+##[group]Finalizing java, 93.27979705179632, , , , 5212771, True, ##[error]Encountered a fatal error while running "/home/power/actions-runner/_work/_tool/CodeQL/2.17.2/x64/codeql/codeql database finalize --finalize-dataset --threads=4 --ram=6831 /home/power/actions-runner/_work/_temp/codeql_databases/java". Exit code was 32 and last log line was: CodeQL detected code written in Java/Kotlin but could not process any of it. For more information, review our troubleshooting guide at https://gh.io/troubleshooting-code-scanning/no-source-code-seen-during-build . See the logs for more details.
+##[group]Uploading results, 6.433071912286275, , , , 412349, False, 
+##[group]Waiting for processing to finish, 14.116810351117977, , , , 6087437, False, 

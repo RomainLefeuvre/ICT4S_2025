@@ -1,0 +1,38 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2498.9 files/s 186031.0 lines/s)"
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,155,32,638
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,24,13,160
+Bourne Shell,/tmp/clone_directory/gradlew,23,36,126
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,21,13,115
+Java,/tmp/clone_directory/rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,26,14,100
+Markdown,/tmp/clone_directory/README.md,42,0,93
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,17,14,88
+Java,/tmp/clone_directory/rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,14,27,73
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Java,/tmp/clone_directory/sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,9,16,54
+Java,/tmp/clone_directory/rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,9,39,43
+Gradle,/tmp/clone_directory/build.gradle,3,0,29
+Java,/tmp/clone_directory/rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,6,46,29
+YAML,/tmp/clone_directory/.github/workflows/release.yaml,6,0,25
+Gradle,/tmp/clone_directory/rxandroid/build.gradle,7,0,25
+YAML,/tmp/clone_directory/.github/workflows/build.yaml,6,0,24
+XML,/tmp/clone_directory/sample-app/src/main/AndroidManifest.xml,6,0,24
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,7,0,22
+Properties,/tmp/clone_directory/gradle.properties,6,0,22
+YAML,/tmp/clone_directory/.github/workflows/manual_drop.yaml,5,0,21
+Markdown,/tmp/clone_directory/CHANGES.md,16,0,21
+Gradle,/tmp/clone_directory/sample-app/build.gradle,5,0,20
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsNoRobolectricTest.java,4,0,18
+Markdown,/tmp/clone_directory/RELEASING.md,1,0,16
+XML,/tmp/clone_directory/sample-app/src/main/res/layout/main_activity.xml,2,0,16
+INI,/tmp/clone_directory/.editorconfig,2,0,9
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,2,13,8
+Java,/tmp/clone_directory/rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,2,13,8
+XML,/tmp/clone_directory/sample-app/src/main/res/values/styles.xml,4,0,8
+YAML,/tmp/clone_directory/.github/dependabot.yaml,1,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+XML,/tmp/clone_directory/sample-app/src/main/res/values/strings.xml,2,0,5
+XML,/tmp/clone_directory/sample-app/src/main/res/values/dimens.xml,1,1,4
+XML,/tmp/clone_directory/sample-app/src/main/res/values-w820dp/dimens.xml,0,3,3
+Gradle,/tmp/clone_directory/settings.gradle,1,0,3
+XML,/tmp/clone_directory/rxandroid/src/main/AndroidManifest.xml,2,11,2
+SUM,,458,293,1929

@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 125.8979057403391, , , , 16830337, False, 
+##[group]GITHUB_TOKEN Permissions, 81.37161462632488, , , , 1352930, False, 
+##[group]GITHUB_TOKEN Permissions__dup_8, 21.8002521425934, , , , 1297886, False, 
+##[group]Fetching the repository, 12.81076784892168, , , , 1178703, False, 
+##[group]Run actions/checkout@v4, 12.61774443047014, , , , 167629, False, 
+##[group]Getting Git version info, 11.70359980677143, , , , 14655, False, 
+##[group]Fetching the repository__dup_11, 7.181179803489649, , , , 440104, False, 
+##[group]Run cd $SAMPLE_DIR, 6.497065588390396, , , , 345682, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4__dup_9, 3.583682008800172, , , , 140120, False, 
+##[group]Checking out the ref, 2.3639210496239005, , , , 69347, False, 
+##[group]Run cd $SAMPLE_DIR__dup_12, 2.3193085200813948, , , , 247476, True, ##[error]Process completed with exit code 127.
+##[group]Cleaning the repository, 1.6733059898327007, , , , 11808, False, 

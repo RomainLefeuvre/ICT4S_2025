@@ -1,0 +1,62 @@
+Requested labels: self-hosted, 42638.01493182991, , , , 7303798409, False, 
+##[group]Run nick-fields/retry@v3.0.0__dup_28, 29466.769514134183, , , , 5294453200, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.624 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+##[group]Run nick-fields/retry@v3.0.0__dup_50, 12358.612043037145, , , , 1555560464, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.619 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+Requested labels: self-hosted__dup_3, 11514.634028120208, , , , 1897192776, False, 
+##[group]Run nick-fields/retry@v3.0.0, 11399.99076861865, , , , 1874248581, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.854 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---__dup_37, 9921.270560440902, , , , 1759884892, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.636 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---__dup_41, 9824.590601595934, , , , 1725842184, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.706 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---__dup_33, 9653.941628113473, , , , 1807221412, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.624 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---__dup_54, 4187.643698256701, , , , 506753910, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.619 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---__dup_57, 4120.295149229049, , , , 514140481, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.652 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---__dup_18, 3753.911442867746, , , , 573680620, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.659 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+[INFO] --- maven-surefire-plugin:3.2.5:test (default-test) @ webdrivermanager ---, 3496.676696211972, , , , 700931514, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.854 s <<< FAILURE! -- in io.github.bonigarcia.wdm.test.watcher.GatherLogsHeadlessChromeTest
+##[group]Run mvn -B sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=bonigarcia-github -Dsonar.projectKey=io.github.bonigarcia:webdrivermanager, 1058.5920827358848, , , , 43800476, True, [ERROR] Failed to execute goal org.sonarsource.scanner.maven:sonar-maven-plugin:3.11.0.3922:sonar (default-cli) on project webdrivermanager: Project not found. Please check the 'sonar.projectKey' and 'sonar.organization' properties, the 'SONAR_TOKEN' environment variable, or contact the project administrator to check the permissions of the user the token belongs to -> [Help 1]
+##[group]Installed distributions__dup_27, 333.04400179340706, , , , 42406391, False, 
+##[group]Installed distributions__dup_49, 251.4411509212308, , , , 24146872, False, 
+##[group]Installed distributions, 195.42361945014125, , , , 1498891, False, 
+##[group]Fetching the repository, 107.40429645235083, , , , 877765, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_52, 84.78690700433691, , , , 2349038, False, 
+##[group]Run codecov/codecov-action@v4.3.1, 81.30746990904963, , , , 4494245, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_31, 65.62799669340772, , , , 2465136, False, 
+##[group]GITHUB_TOKEN Permissions__dup_44, 62.23068514074831, , , , 5158727, False, 
+##[group]GITHUB_TOKEN Permissions, 52.82886246121304, , , , 5800056, False, 
+##[group]GITHUB_TOKEN Permissions__dup_22, 35.117778091097065, , , , 4587971, False, 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ webdrivermanager ---__dup_53, 31.698815824301704, , , , 1184755, False, 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ webdrivermanager ---__dup_32, 30.503291184689484, , , , 1127016, False, 
+##[group]Run actions/checkout@v4, 23.11520041027885, , , , 156166, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---__dup_15, 22.93794120427386, , , , 117250, False, 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ webdrivermanager ---, 21.81345085336309, , , , 1380575, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_30, 19.754623121545723, , , , 88425, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_20, 17.343070750550996, , , , 181026, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---__dup_58, 17.07032157614053, , , , 79646, False, 
+##[group]Fetching the repository__dup_26, 15.221162482713368, , , , 669833, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_39, 14.552350114972253, , , , 171964, False, 
+##[group]Checking out the ref, 12.275820273099187, , , , 53603, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---, 12.006308840240251, , , , 5252765, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---, 11.12573562846143, , , , 927899, False, 
+##[group]Run actions/upload-artifact@v4.3.3, 10.97846186961183, , , , 845985, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---__dup_19, 10.453732625104069, , , , 273661, False, 
+##[group]Setting up auth, 9.666858716704368, , , , 80031, False, 
+##[group]Run actions/checkout@v4__dup_23, 9.515670059345542, , , , 151177, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_21, 7.459186944258912, , , , 260304, False, 
+##[group]Fetching the repository__dup_48, 7.176158265020822, , , , 794942, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_51, 6.903320483568322, , , , 109793, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_56, 6.887552479408438, , , , 116368, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---, 5.897289241871632, , , , 2077612, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---__dup_38, 5.8574683754051495, , , , 239325, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.22556516619891, , , , 276790, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_16, 4.4766258179393885, , , , 83379, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_17, 4.365663395024005, , , , 110927, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---__dup_29, 3.950924624309145, , , , 75138, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_55, 3.4883593888058337, , , , 86847, False, 
+##[group]Run actions/checkout@v4__dup_45, 3.46238825510538, , , , 144718, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_59, 3.396420925090045, , , , 89050, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_60, 3.378777534951985, , , , 118355, False, 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ webdrivermanager ---__dup_61, 3.3611341448139243, , , , 24455, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_40, 2.848520749414437, , , , 131583, False, 
+##[group]Cleaning the repository, 1.8525006970256, , , , 109347, False, 
+##[group]Disabling automatic garbage collection, 1.634335751086656, , , , 3196, False, 
+[INFO] --- jacoco-maven-plugin:0.8.12:prepare-agent (prepare-agent) @ webdrivermanager ---__dup_34, 1.500541977561209, , , , 75074, False, 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ webdrivermanager ---__dup_35, 1.333815091165519, , , , 84657, False, 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ webdrivermanager ---__dup_36, 1.1670882047698292, , , , 113297, False, 
+Requested labels: self-hosted__dup_2, 0.0, , , , 5359640, False, 

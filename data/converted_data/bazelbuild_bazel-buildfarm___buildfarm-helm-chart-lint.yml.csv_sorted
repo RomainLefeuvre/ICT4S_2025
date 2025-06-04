@@ -1,0 +1,5 @@
+Requested labels: self-hosted, 66.57671769637663, , , , 4563842, False, 
+##[group]GITHUB_TOKEN Permissions, 17.15909825157554, , , , 2042602, False, 
+##[group]Fetching the repository, 6.460102421621458, , , , 453991, False, 
+##[group]Run set -ex, 4.191745505151431, , , , 265513, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4, 1.1867924669314396, , , , 165292, False, 

@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw --no-transfer-progress --activate-profiles dependency-check validate,18049.221291094826,3335395585,True,##[error]The operation was canceled.
+##[group]Installed distributions,2625.987057489131,238509621,False,
+##[group]==END_FILE==,616.0597545457007,6150787,False,
+##[group]Cleaning the repository,259.7190073722447,25563998,False,
+##[group]GITHUB_TOKEN Permissions,65.48010606678908,4463141,False,
+##[group]Removing previously created refs_ to avoid conflicts,46.26297942238095,3224004,False,
+##[group]Run actions/checkout@v4,25.693569112292654,214098,False,
+##[group]Setting up auth,12.939134775398502,98618,False,
+##[group]Fetching the repository,10.657728265402042,1676638,False,
+##[group]Getting Git version info,5.371805030412569,2652,False,
+##[group]Checking out the ref,3.53637393714242,91776,False,

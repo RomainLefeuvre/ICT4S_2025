@@ -1,0 +1,10 @@
+##[group]GITHUB_TOKEN Permissions, 46.59421119985007, , , , 1905796, False, 
+##[group]Run dotcms/discover-docker-tags-action@v2.0, 18.194683490603595, , , , 390130, True, ##[error]Provided version is empty, not returning any tags
+##[group]Fetching the repository, 15.979678543921416, , , , 467724, False, 
+##[group]Setting up auth, 7.515195354814528, , , , 115873, False, 
+##[group]Run actions/checkout@v2, 6.882336798619619, , , , 181617, False, 
+##[group]Run pwd && ls -las, 4.271795254315626, , , , 30352, False, 
+##[group]Checking out the ref, 4.192687934791263, , , , 78343, False, 
+##[group]Cleaning the repository, 3.638936698120719, , , , 176171, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 3.559829378596356, , , , 74456, False, 
+Requested labels: self-hosted, 0.0, , , , 4348692, False, 

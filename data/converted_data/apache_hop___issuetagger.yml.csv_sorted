@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 117.6613968311316, , , , 9954004, False, 
+##[group]Run damccorm/tag-ur-it@6fa72bbf1a2ea157b533d7e7abeafdb5855dbea5, 6.774483031317431, , , , 451539, False, 
+##[group]Fetching the repository, 6.213676265441813, , , , 488569, False, 
+##[group]Cleaning the repository, 2.31722847641404, , , , 210947, False, 
+##[group]Run actions/checkout@v3, 2.205067123238916, , , , 175583, False, 
+##[group]Setting up auth, 1.1866545765008008, , , , 79489, False, 

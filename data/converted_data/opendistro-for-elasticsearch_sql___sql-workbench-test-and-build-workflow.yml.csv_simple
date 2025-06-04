@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/checkout@v1__dup_4,14189.704439860274,1160236894,False,
+##[group]Run actions/checkout@v1,234.4234828383669,3056993,False,
+##[group]GITHUB_TOKEN Permissions,190.70561701380333,2771251,False,
+##[group]Run actions/setup-node@v1,134.99368272570538,9866122,False,
+##[group]Run nick-invision/retry@v1,106.94311875932408,33091836,True,##[error]Final attempt failed. Child_process exited with error
+##[group]Run mv workbench kibana/plugins,64.37720928761614,9567641,False,
+Requested labels: self-hosted,29.929500123328104,4164896,False,
+##[group]Run actions/upload-artifact@v1,7.624485468590358,567426,True,##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/kibana/plugins/workbench/build
+##[group]Run cd kibana/plugins/workbench,0.9812455375822852,34511,True,##[error]Process completed with exit code 127.

@@ -1,0 +1,8 @@
+##[group]==END_FILE==, 0.0618856409355432, , , , 6407622, False, 
+##[group]GITHUB_TOKEN Permissions, 11.64795674889768, , , , 3825708, False, 
+##[group]Run actions/checkout@v4, 23.35720981375129, , , , 1902418, False, 
+##[group]Setting up auth, 0.9472077252573566, , , , 66355, False, 
+##[group]Fetching the repository, 31.16610728382786, , , , 4680332, False, 
+##[group]Checking out the ref, 3.033883216298905, , , , 295945, False, 
+##[group]Installed distributions, 0.8711728629014088, , , , 112926, False, 
+##[group]Run actions/upload-artifact@v4, 4.6269338437284855, , , , 731443, True, ##[error]The process '/usr/bin/sh' failed with exit code 1

@@ -1,0 +1,12 @@
+##[group]==END_FILE==, 0.0, , , , 4773686, False, 
+##[group]GITHUB_TOKEN Permissions, 91.198948193774, , , , 3945208, False, 
+##[group]Run actions/checkout@v2, 31.669825321647835, , , , 181869, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 15.35393726523774, , , , 25814, False, 
+##[group]Setting up auth, 15.03328700151362, , , , 78232, False, 
+##[group]Fetching the repository, 70.35668105170636, , , , 481171, False, 
+##[group]Run actions/setup-java@v2, 25.25682004716548, , , , 240207, False, 
+##[group]Run sudo apt update, 55.92741918412106, , , , 562758, False, 
+##[group]Run actions/cache@v2, 152.29791826693668, , , , 20093417, True, ##[error]Process completed with exit code 100.
+##[group]Run mvn javadoc:jar, 309.99743560049603, , , , 31145486, False, 
+##[group]Run make test, 6.744979762774285, , , , 2974372, False, 
+##[group]Run bash <(curl -s https://codecov.io/bash), 16.37156703373019, , , , 1516263, True, ##[error]Process completed with exit code 2.

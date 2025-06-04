@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn install -Pjacoco,5823.824976093266,372065057,True,"13:24:17 [ERROR] org.eolang.maven.ParseMojo: Failed to parse '/tmp/junit9412744514224087751/foo/x/main.eo:1': [1:14] no viable alternative at input 'something > is ': ""something > is definitely wrong here"""
+##[group]Run codecov/codecov-action@v4.0.0-beta.3,186.9557186807689,13143180,True,##[error]Codecov: Failed to properly create commit: The process '/home/power/actions-runner/_work/_actions/codecov/codecov-action/v4.0.0-beta.3/dist/codecov' failed with exit code 1
+##[group]Restoring cache,126.99133709271928,19772086,False,
+##[group]Updating tlmgr,60.720689194397146,4468334,False,
+##[group]GITHUB_TOKEN Permissions,57.12434558140267,4898898,False,
+Requested labels: self-hosted,27.38719702471599,4502822,False,
+##[group]Updating packages,20.172228496013048,1542334,False,
+##[group]Fetching the repository,18.063504643104803,432597,False,
+##[group]Run teatimeguest/setup-texlive-action@v3.2.1,11.663357676281963,222391,False,
+##[group]Run actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11,10.14835724365411,160964,False,
+##[group]Run actions/cache@v4,7.146351293940845,645326,False,
+##[group]Setting up auth,4.864815198932985,68665,False,
+##[group]TeX Live version info,2.4692492629936256,248197,False,
+##[group]Installed distributions,2.4402052079891776,126640,False,

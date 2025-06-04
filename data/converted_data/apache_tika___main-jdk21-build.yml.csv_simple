@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean test install javadoc:aggregate,26691.898566510037,2001560292,True,[ERROR[m] Surefire is going to kill self fork JVM. The exit has elapsed 30 seconds after System.exit(0).
+Requested labels: self-hosted,11.473126738228675,4805695,False,
+##[group]Fetching the repository,9.278873992025362,1182809,False,
+##[group]GITHUB_TOKEN Permissions,7.172857941138229,3158030,False,
+##[group]Run actions/setup-java@v1,5.487560358200584,288916,False,
+##[group]Removing previously created refs_ to avoid conflicts,3.8317586244048223,533508,False,
+##[group]Cleaning the repository,3.184874003203321,3917990,False,
+##[group]Checking out the ref,1.835322481221833,53012,False,
+##[group]Run actions/checkout@v4,1.727600909904711,188579,False,
+##[group]Setting up auth,1.4393557662507952,153748,False,

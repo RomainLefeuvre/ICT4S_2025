@@ -1,0 +1,4 @@
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/aws-actions/stale-issue-cleanup/v6/Dockerfile'., 105.1394330093381, , , , 61030651, False, 
+##[group]GITHUB_TOKEN Permissions, 16.696215424854365, , , , 1136031, False, 
+##[group]Run aws-actions/stale-issue-cleanup@v6, 15.955003253948052, , , , 7343645, False, 
+##[group]==END_FILE==, 0.0096340044753685, , , , 6249841, False, 

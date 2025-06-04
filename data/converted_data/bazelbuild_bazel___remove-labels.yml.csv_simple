@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,43.99117778061776,2317427,False,
+##[group]Run actions-ecosystem/action-remove-labels@2ce5d41b4b6aa8503e285553f75ed56e0a40bae0,19.00057816406222,656371,True,"##[error]Error: failed to remove labels: awaiting-PR-merge,awaiting-review"
+##[group]Run step-security/harden-runner@f086349bfa2bd1361f7909c78558e816508cdc10,7.421567362373274,233679,False,
+Requested labels: self-hosted,3.350059373764252,3840812,False,
+##[group]Run step-security/harden-runner@f086349bfa2bd1361f7909c78558e816508cdc10__dup_4,2.554026628022421,63226,False,

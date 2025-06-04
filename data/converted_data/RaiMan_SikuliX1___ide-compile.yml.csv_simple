@@ -1,0 +1,2 @@
+name,energy,seconds,has_error,error_msg
+"##[group]Run mvn -B compile | egrep -v ""^\\[INFO\\].*?Download.*?http""",445.2938468388768,45491087,False,

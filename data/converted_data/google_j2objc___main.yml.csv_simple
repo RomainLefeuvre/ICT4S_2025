@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run $MAKE_CMD JAVA_HOME=$JAVA_11_HOME frameworks examples_dist,737.5007635731664,30006910,True,##[error]Process completed with exit code 2.
+##[group]Fetching the repository,33.68527681140262,7253509,False,
+##[group]GITHUB_TOKEN Permissions,11.571905266673642,2030883,False,
+##[group]Run actions/checkout@v2,8.58749592083263,1593217,False,
+##[group]Run $MAKE_CMD JAVA_HOME=$JAVA_11_HOME test_translator test_cycle_finder test_jre_cycles,8.534455643808954,831606,True,##[error]Process completed with exit code 2.
+##[group]Checking out the ref,7.383996294307037,904369,False,
+##[group]Setting up auth,2.939761935436421,139234,False,
+"##[group]Run echo ""JAVA_11_HOME=$(/usr/libexec/java_home -v 11)"" >> $GITHUB_ENV",1.9860960252922173,76313,False,
+Requested labels: self-hosted,0.0,6801837,False,

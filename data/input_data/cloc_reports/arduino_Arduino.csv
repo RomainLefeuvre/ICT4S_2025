@@ -1,0 +1,686 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.49 s (1404.8 files/s 843658.2 lines/s)"
+Java,/tmp/clone_directory/app/src/processing/app/Editor.java,425,371,1808
+Java,/tmp/clone_directory/app/src/processing/app/Base.java,372,361,1715
+Text,/tmp/clone_directory/build/shared/revisions.txt,448,0,1675
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ach.po,607,673,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_af.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_an.po,607,674,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ar.po,607,683,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ast.po,607,674,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_be.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_bg.po,607,679,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_bs.po,607,674,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ca.po,607,685,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_cs_CZ.po,607,681,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_da_DK.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_de_DE.po,607,679,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_el_GR.po,607,681,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_en.po,607,673,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_en_GB.po,607,676,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_es.po,607,690,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_et.po,607,681,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_eu.po,607,683,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fa.po,607,678,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fa_IR.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fi.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fil.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fr.po,607,693,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fr_CA.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fy.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_gl.po,607,678,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_gl_ES.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hi.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hr_HR.po,607,676,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hu.po,607,679,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hy.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_in.po,607,680,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_it_IT.po,607,680,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_iw.po,607,682,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ja_JP.po,607,680,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ka_GE.po,607,679,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_kk.po,607,673,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ko_KR.po,607,678,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_lt_LT.po,607,676,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_lv_LV.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_mr.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_my_MM.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_nb_NO.po,607,680,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ne.po,607,674,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_nl.po,607,684,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_nl_NL.po,607,676,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pl.po,607,684,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pt.po,607,683,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pt_BR.po,607,690,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pt_PT.po,607,686,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ro.po,607,684,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ru.po,607,688,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sk.po,607,674,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sl_SI.po,607,678,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sq.po,607,680,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sv.po,607,683,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ta.po,607,676,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_te.po,607,673,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_th.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_tr.po,607,703,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_tzl.po,607,675,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_uk.po,607,679,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_vi.po,607,680,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_zh_CN.po,607,690,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_zh_TW.Big5.po,607,677,1532
+PO File,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_zh_TW.po,607,682,1532
+C/C++ Header,/tmp/clone_directory/build/windows/dist/drivers/FTDI USB Drivers/ftd2xx.h,221,209,1237
+Ant,/tmp/clone_directory/build/build.xml,211,79,1011
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/big5freq.py,5,43,877
+SVG,/tmp/clone_directory/build/shared/lib/theme/buttons.svg,1,1,867
+XML,/tmp/clone_directory/app/src/cc/arduino/view/preferences/Preferences.form,8,0,865
+Java,/tmp/clone_directory/app/src/cc/arduino/view/preferences/Preferences.java,137,38,803
+JSON,/tmp/clone_directory/app/test/cc/arduino/contributions/package_index.json,0,0,757
+Java,/tmp/clone_directory/arduino-core/src/processing/app/BaseNoGui.java,124,155,698
+Text,/tmp/clone_directory/build/windows/dist/drivers/license/libusb0/installer_license.txt,162,0,689
+Text,/tmp/clone_directory/license.txt,124,0,629
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ar.properties,607,813,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_bg.properties,607,809,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_cs_CZ.properties,607,811,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_de_DE.properties,607,809,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_el_GR.properties,607,811,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_en.properties,607,803,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_en_GB.properties,607,806,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_es.properties,607,820,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_eu.properties,607,813,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fr.properties,607,823,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hu.properties,607,809,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hy.properties,607,807,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_it_IT.properties,607,810,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ja_JP.properties,607,810,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ko_KR.properties,607,808,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_nb_NO.properties,607,810,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pl.properties,607,814,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pt_PT.properties,607,816,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ro.properties,607,814,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ru.properties,607,818,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sk.properties,607,804,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sl_SI.properties,607,808,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_uk.properties,607,809,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_vi.properties,607,810,607
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_et.properties,607,812,606
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_nl.properties,607,822,599
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ca.properties,607,825,597
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/SdFile.cpp,101,572,590
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_tr.properties,607,853,587
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pt_BR.properties,607,841,586
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_zh_CN.properties,607,846,581
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_iw.properties,613,862,571
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_zh_TW.properties,607,852,567
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_gl_ES.properties,607,860,554
+Text,/tmp/clone_directory/arduino-core/lib/jssc.LICENSE.GPL.txt,121,0,553
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/euckrfreq.py,6,40,550
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/FTDI USB Drivers/ftdibus.inf,26,0,539
+Java,/tmp/clone_directory/app/src/processing/app/SketchController.java,136,197,525
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/jisfreq.py,6,43,520
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_be.properties,607,928,484
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/Compiler.java,94,46,481
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/Sd2Card.cpp,46,210,468
+Java,/tmp/clone_directory/app/src/processing/app/Theme.java,126,134,467
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/src/utility/Sd2Card.cpp,46,210,463
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ka_GE.properties,607,972,444
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/mbcssm.py,48,43,444
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/gb2312freq.py,6,40,426
+Java,/tmp/clone_directory/app/src/processing/app/EditorTab.java,85,127,421
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/Sd2PinMap.h,38,57,416
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributionsIndexer.java,64,46,406
+Java,/tmp/clone_directory/arduino-core/src/processing/app/legacy/PApplet.java,79,213,406
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sv.properties,607,1021,399
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_pt.properties,607,1033,387
+Java,/tmp/clone_directory/app/src/processing/app/EditorToolbar.java,115,79,385
+Java,/tmp/clone_directory/app/src/processing/app/SerialPlotter.java,80,34,383
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/FTDI USB Drivers/ftdiport.inf,36,0,383
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/euctwfreq.py,6,43,379
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fa.properties,607,1039,376
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fi.properties,607,1039,375
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/models.py,145,143,375
+INI,/tmp/clone_directory/app/.settings/org.eclipse.jdt.core.prefs,0,0,368
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_lv_LV.properties,607,1050,362
+Text,/tmp/clone_directory/build/shared/lib/keywords.txt,20,0,352
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fa_IR.properties,607,1063,351
+Java,/tmp/clone_directory/app/src/cc/arduino/view/findreplace/FindReplace.java,74,51,347
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_an.properties,607,1064,347
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hr_HR.properties,607,1068,345
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_sq.properties,607,1072,345
+Java,/tmp/clone_directory/app/src/processing/app/tools/MenuScroller.java,73,261,344
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/CommandlineParser.java,51,3,310
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_gl.properties,607,1107,308
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/network/FileDownloaderCache.java,43,49,307
+Java,/tmp/clone_directory/app/src/processing/app/EditorStatus.java,74,38,306
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_zh_TW.Big5.properties,607,1110,304
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_in.properties,613,1129,302
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/SdFat.h,14,246,291
+INI,/tmp/clone_directory/.settings/org.eclipse.jdt.core.prefs,0,0,287
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/utils.py,151,153,287
+JSON,/tmp/clone_directory/app/testdata/libraries/index_Bridge_only/library_index.json,0,0,284
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/langcyrillicmodel.py,15,35,281
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/uploaders/SerialUploader.java,49,70,276
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/InstallerJDialog.java,60,46,275
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/packages/six.py,75,36,274
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fr_CA.properties,607,1140,272
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fy.properties,607,1143,269
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/connectionpool.py,128,191,260
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_hi.properties,607,1163,251
+Text,/tmp/clone_directory/build/windows/dist/drivers/CP210x_6.7/ReleaseNotes.txt,92,0,249
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ta.properties,607,1166,247
+AsciiDoc,/tmp/clone_directory/build/shared/manpage.adoc,87,14,245
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/YunFirstConfig/YunFirstConfig.ino,48,37,243
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/ContributedPlatformTableCellJPanel.java,44,39,241
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/sessions.py,116,115,241
+Java,/tmp/clone_directory/app/src/processing/app/EditorHeader.java,71,49,240
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_fil.properties,607,1173,239
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/LibraryManagerUI.java,33,32,229
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/CP210x_6.7.4/slabvcp.inf,46,11,228
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Bridge.cpp,38,49,225
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SketchTextArea.java,43,81,223
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/discoverers/PluggableDiscovery.java,32,39,222
+JSON,/tmp/clone_directory/hardware/package_index_bundled.json,0,0,219
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/ContributedLibraryTableCellJPanel.java,45,20,216
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/SD.cpp,190,223,215
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/src/SD.cpp,186,225,214
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/cookies.py,79,94,212
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/FileIO.cpp,48,24,211
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_my_MM.properties,607,1201,211
+Text,/tmp/clone_directory/build/shared/lib/preferences.txt,82,0,211
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributionInstaller.java,48,48,207
+Java,/tmp/clone_directory/arduino-core/src/processing/app/PreferencesData.java,61,20,207
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/network/FileDownloader.java,43,35,206
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SketchTextAreaEditorKit.java,45,16,204
+Java,/tmp/clone_directory/app/src/processing/app/AbstractTextMonitor.java,47,17,201
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/ArchiveExtractor.java,34,69,201
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.6.3/Bridge/src/Bridge.cpp,36,46,199
+Java,/tmp/clone_directory/app/src/cc/arduino/view/NotificationPopup.java,35,41,198
+Java,/tmp/clone_directory/arduino-core/src/processing/app/Sketch.java,55,125,198
+Java,/tmp/clone_directory/arduino-core/src/processing/app/packages/UserLibrary.java,48,41,198
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/arduino-org.inf,26,0,198
+Java,/tmp/clone_directory/arduino-core/src/processing/app/Serial.java,47,73,197
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/FileUtils.java,39,76,197
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/escsm.py,18,27,197
+XML,/tmp/clone_directory/app/src/cc/arduino/view/findreplace/FindReplace.form,3,0,194
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/arduino.inf,13,0,192
+Bourne Shell,/tmp/clone_directory/build/linux/dist/install.sh,56,45,189
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/LibrariesIndexer.java,42,40,186
+Java,/tmp/clone_directory/arduino-core/src/processing/app/Platform.java,53,65,186
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/uploaders/SSHUploader.java,35,28,185
+Java,/tmp/clone_directory/arduino-core/src/processing/app/windows/Platform.java,55,55,185
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/langgreekmodel.py,8,38,181
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/langhungarianmodel.py,8,38,181
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/langbulgarianmodel.py,9,40,180
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/packages/ordered_dict.py,41,41,178
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/ContributionManagerUI.java,27,39,176
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/LegacyTargetPlatform.java,42,35,176
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_th.properties,607,1236,176
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/SdVolume.cpp,28,93,174
+Java,/tmp/clone_directory/arduino-core/src/processing/app/SerialPortList.java,24,160,171
+Text,/tmp/clone_directory/app/test-lib/junit.LICENSE.EPL-1.0.txt,45,0,170
+Text,/tmp/clone_directory/app/lib/batik.LICENSE.ASL-2.0.txt,32,0,169
+Text,/tmp/clone_directory/arduino-core/lib/commons-net.LICENSE.ASL-2.0.txt,33,0,169
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/HttpClient.cpp,29,15,160
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/util.py,76,102,160
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeUdp.cpp,20,19,159
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/jpcntx.py,17,45,157
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/langhebrewmodel.py,6,41,156
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ContributionsSelfCheck.java,29,37,155
+Java,/tmp/clone_directory/app/src/processing/app/AbstractMonitor.java,45,14,155
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeClient.cpp,30,22,155
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/langthaimodel.py,6,39,155
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/adapters.py,60,29,153
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/DownloadableContributionsDownloader.java,30,47,149
+Java,/tmp/clone_directory/arduino-core/src/processing/app/SketchFile.java,54,100,149
+XML,/tmp/clone_directory/app/src/cc/arduino/view/preferences/AdditionalBoardsManagerURLTextArea.form,3,0,148
+Java,/tmp/clone_directory/app/src/processing/app/EditorConsole.java,42,51,144
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/PreferencesMap.java,31,169,143
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_lt_LT.properties,607,1270,143
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_nl_NL.properties,607,1274,139
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/LibrariesIndexTableModel.java,33,41,138
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedPlatform.java,38,31,135
+Java,/tmp/clone_directory/app/src/processing/app/NetworkMonitor.java,32,3,134
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/ContributedLibrary.java,44,45,134
+Java,/tmp/clone_directory/app/src/cc/arduino/view/preferences/AdditionalBoardsManagerURLTextArea.java,30,36,131
+Java,/tmp/clone_directory/app/src/processing/app/syntax/PdeKeywords.java,31,31,131
+Ant,/tmp/clone_directory/app/build.xml,24,25,129
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/discoverers/serial/SerialDiscovery.java,27,36,129
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/src/utility/Sd2Card.h,5,127,128
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/Sd2Card.h,5,127,128
+Text,/tmp/clone_directory/arduino-core/lib/jssc.LICENSE.LGPL.txt,37,0,128
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/LibraryInstaller.java,28,47,128
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/chardistribution.py,29,73,128
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output6.txt,31,0,127
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/SdInfo.h,0,105,127
+Markdown,/tmp/clone_directory/build/shared/ArduinoSerialPlotterProtocol.md,43,0,127
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/MultiLibraryInstallDialog.java,23,29,125
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/ContributionIndexTableModel.java,24,40,123
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/net/CustomProxySelector.java,21,28,123
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ne.properties,607,1288,123
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output7.txt,29,0,122
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/BoardPort.java,28,46,122
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/discoverers/NetworkDiscovery.java,26,41,122
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/Uploader.java,29,37,121
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/universaldetector.py,16,35,120
+Bourne Shell,/tmp/clone_directory/build/linux/dist/arduino-linux-setup.sh,52,78,119
+Java,/tmp/clone_directory/app/test/processing/app/tools/ZipDeflaterTest.java,23,28,116
+Java,/tmp/clone_directory/app/src/processing/app/tools/Archiver.java,40,39,114
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/auth.py,42,20,113
+XML,/tmp/clone_directory/app/src/cc/arduino/view/GoToLineNumber.form,2,0,112
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output.txt,23,0,111
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/FatStructs.h,1,306,111
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/LibrariesIndex.java,27,44,111
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_da_DK.properties,607,1303,111
+Java,/tmp/clone_directory/app/test/cc/arduino/net/CustomProxySelectorTest.java,31,28,110
+Java,/tmp/clone_directory/app/src/processing/app/SerialMonitor.java,24,19,109
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/DiscoveryManager.java,19,33,109
+Java,/tmp/clone_directory/app/test/processing/app/CommandLineTest.java,23,34,108
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_bs.properties,607,1303,108
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Console.cpp,22,21,107
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/CP210x_6.7/slabvcp.inf,28,11,107
+Text,/tmp/clone_directory/build/shared/lib/theme/theme.txt,31,0,103
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/response.py,47,65,102
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/genuino.inf,13,0,101
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/ContributedPlatformTableCellEditor.java,27,30,99
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/Bridge/Bridge.ino,37,48,98
+Java,/tmp/clone_directory/app/src/processing/app/macosx/ThinkDifferent.java,17,27,97
+Java,/tmp/clone_directory/arduino-core/src/processing/app/macosx/Platform.java,44,48,97
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/ContributedLibraryTableCellEditor.java,25,30,96
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributionsIndex.java,23,28,96
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/network/HttpConnectionManager.java,22,32,96
+Text,/tmp/clone_directory/build/macosx/dist/drivers/SiliconLabs-CP2105/ReleaseNotes.txt,35,0,95
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output9.txt,23,0,94
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/FilterJTextField.java,23,33,93
+Java,/tmp/clone_directory/app/src/processing/app/forms/PasswordAuthorizationDialog.java,23,0,93
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Process.cpp,25,24,93
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/StringReplacer.java,22,27,93
+Text,/tmp/clone_directory/build/shared/tools/howto.txt,50,0,93
+Java,/tmp/clone_directory/app/src/processing/app/tools/DiscourseFormat.java,27,57,92
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/latin1prober.py,13,34,92
+Perl,/tmp/clone_directory/build/create_reference.pl,33,45,91
+Java,/tmp/clone_directory/app/src/cc/arduino/view/GoToLineNumber.java,21,37,90
+Java,/tmp/clone_directory/app/src/processing/app/EditorLineStatus.java,34,29,90
+Java,/tmp/clone_directory/app/src/processing/app/tools/ZipDeflater.java,18,1,90
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/AdafruitCircuitPlayground.inf,19,0,90
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/UnavailableContributedLibrary.java,25,29,89
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/BoardCloudResolver.java,20,33,89
+TNSDL,/tmp/clone_directory/build/windows/dist/drivers/linino.inf,21,0,89
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedPackage.java,17,28,87
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/Sizer.java,18,21,87
+Java,/tmp/clone_directory/app/src/processing/app/helpers/Keys.java,19,128,86
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output3.txt,21,0,86
+C++,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/File.cpp,32,28,86
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_tzl.properties,607,1326,86
+XML,/tmp/clone_directory/build/windows/launcher/config.xml,0,0,86
+XML,/tmp/clone_directory/build/windows/launcher/config_debug.xml,0,0,86
+Java,/tmp/clone_directory/app/test/processing/app/EditorConsoleTest.java,31,40,84
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Bridge.h,22,25,84
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/i18n/Languages.java,8,28,84
+Java,/tmp/clone_directory/arduino-core/src/edazdarevic/commons/net/CIDRUtils.java,32,26,84
+Java,/tmp/clone_directory/app/src/processing/app/CommandHistory.java,23,62,82
+Java,/tmp/clone_directory/app/src/processing/app/UpdateCheck.java,24,34,82
+Java,/tmp/clone_directory/arduino-core/src/processing/app/macosx/SystemProfilerParser.java,12,0,82
+Java,/tmp/clone_directory/arduino-core/src/processing/app/linux/Platform.java,28,30,81
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/ssh/SCP.java,25,29,80
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.6.3/Bridge/src/Bridge.h,21,25,79
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedTool.java,22,28,79
+Bourne Shell,/tmp/clone_directory/build/macosx/mkdmg,15,13,79
+Text,/tmp/clone_directory/app/testdata/libraries/Bridge_1.6.3/Bridge/keywords.txt,14,0,78
+Text,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/keywords.txt,14,0,78
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/sbcharsetprober.py,10,32,78
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output8.txt,19,0,77
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/RunnerException.java,42,42,77
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/contrib/ntlmpool.py,19,24,77
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output4.txt,19,0,75
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output5.txt,19,0,75
+Java,/tmp/clone_directory/arduino-core/src/processing/app/packages/LibraryList.java,15,28,75
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/hebrewprober.py,23,186,74
+SVG,/tmp/clone_directory/build/shared/lib/theme/close.svg,1,1,74
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/MessageSiphon.java,23,53,73
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/status_codes.py,8,5,73
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,8,0,72
+Java,/tmp/clone_directory/app/test/cc/arduino/i18n/ExternalProcessOutputParserTest.java,20,28,72
+Java,/tmp/clone_directory/app/test/processing/app/UpdateTextAreaActionTest.java,19,0,72
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_mr.properties,607,1340,72
+Java,/tmp/clone_directory/app/src/cc/arduino/view/SplashScreenHelper.java,22,30,71
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/GPGDetachedSignatureVerifier.java,19,28,71
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/uploaders/GenericNetworkUploader.java,18,23,71
+JSON,/tmp/clone_directory/app/testdata/libraries/index_SD_only/library_index.json,0,0,70
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/ssh/SSHConfigFileSetup.java,24,28,70
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/poolmanager.py,44,68,70
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/charsetgroupprober.py,7,30,69
+Markdown,/tmp/clone_directory/README.md,29,0,68
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/network/CacheControl.java,22,29,68
+Java,/tmp/clone_directory/app/test/cc/arduino/packages/contributions/HostDependentDownloadableContributionTest.java,17,28,67
+Text,/tmp/clone_directory/app/test/processing/app/macosx/system_profiler_output2.txt,17,0,67
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/ContributedLibraryReleases.java,14,28,67
+Java,/tmp/clone_directory/arduino-core/src/processing/app/I18n.java,16,29,67
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/examples/CardInfo/CardInfo.ino,19,31,66
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/BuiltInCoreIsNewerCheck.java,14,28,65
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/ContributedPlatformReleases.java,15,28,65
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/SD.h,32,30,65
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/LegacyTargetBoard.java,21,21,65
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/src/SD.h,31,29,64
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/ssh/SSH.java,18,29,64
+Java,/tmp/clone_directory/app/test/cc/arduino/contributions/UpdatableLibraryTest.java,20,0,62
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/FileIO.h,30,28,62
+XML,/tmp/clone_directory/build/shared/lib/theme/syntax/dark.xml,7,9,62
+Java,/tmp/clone_directory/app/src/processing/app/NewBoardListener.java,14,31,61
+Java,/tmp/clone_directory/app/test/processing/app/debug/TargetPlatformStub.java,18,29,61
+Java,/tmp/clone_directory/app/src/processing/app/helpers/CircularBuffer.java,18,0,60
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/examples/CardInfo/CardInfo.ino,21,31,60
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/net/PACSupportMethods.java,16,28,60
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SketchTextAreaDefaultInputMap.java,19,8,59
+Java,/tmp/clone_directory/app/test/processing/app/helpers/SketchTextAreaComponentDriver.java,21,29,59
+Java,/tmp/clone_directory/app/src/processing/app/TextAreaFIFO.java,16,16,58
+Java,/tmp/clone_directory/app/src/processing/app/tools/FixEncoding.java,22,18,58
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/TemperatureWebPanel/TemperatureWebPanel.ino,23,41,58
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/HostDependentDownloadableContribution.java,19,35,57
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/update.py,11,3,57
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-sel-right.svg,1,1,57
+XML,/tmp/clone_directory/app/.classpath,0,0,56
+Java,/tmp/clone_directory/app/src/cc/arduino/ConsoleOutputStream.java,16,42,55
+Java,/tmp/clone_directory/app/src/processing/app/Preferences.java,26,57,55
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/i18n/ExternalProcessOutputParser.java,18,28,55
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/sjisprober.py,10,26,55
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-sel-left.svg,1,1,55
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/Constants.java,13,28,53
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/compat.py,31,29,53
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/eucjpprober.py,10,27,53
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-unsel-left.svg,1,1,53
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-unsel-right.svg,1,1,53
+Java,/tmp/clone_directory/app/test/cc/arduino/i18n/I18NTest.java,10,28,52
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/GZippedJsonDownloader.java,9,29,52
+XML,/tmp/clone_directory/build/shared/lib/theme/syntax/default.xml,8,9,52
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-sel-menu.svg,1,1,52
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-unsel-menu.svg,1,1,52
+Java,/tmp/clone_directory/app/src/cc/arduino/packages/formatter/AStyle.java,17,30,51
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/UploaderUtils.java,17,28,51
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/escprober.py,8,27,51
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/structures.py,26,14,51
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/transifex.py,10,1,51
+XML,/tmp/clone_directory/build/linux/dist/appdata.xml,7,1,51
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-sel-mid.svg,1,1,51
+Java,/tmp/clone_directory/app/test/cc/arduino/packages/uploaders/MergeSketchWithUploaderTest.java,13,28,50
+Java,/tmp/clone_directory/app/test/processing/app/AbstractWithPreferencesTest.java,15,51,50
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/TimeCheck/TimeCheck.ino,19,19,50
+Java,/tmp/clone_directory/build/shared/tools/Mangler/src/Mangler.java,23,22,50
+Java,/tmp/clone_directory/app/src/processing/app/helpers/SimpleAction.java,14,49,49
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/_collections.py,24,21,49
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/exceptions.py,30,8,49
+SVG,/tmp/clone_directory/build/shared/lib/theme/tab-unsel-mid.svg,1,1,49
+Java,/tmp/clone_directory/app/test/processing/app/macosx/SystemProfilerParserTest.java,17,29,48
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/mbcharsetprober.py,10,28,48
+Java,/tmp/clone_directory/app/test/processing/app/debug/UploaderFactoryTest.java,15,28,46
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/NetUtils.java,8,1,46
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/filepost.py,25,27,46
+Java,/tmp/clone_directory/app/test/cc/arduino/contributions/GzippedJsonDownloaderTest.java,11,0,45
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/i18n/I18NAwareMessageConsumer.java,12,28,45
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/request.py,30,67,45
+Java,/tmp/clone_directory/arduino-core/src/processing/app/linux/GTKLookAndFeelFixer.java,13,93,45
+Java,/tmp/clone_directory/app/test/cc/arduino/contributions/JsonDownloaderTest.java,11,0,44
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/Datalogger/Datalogger.ino,21,37,44
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedTargetPackage.java,14,28,44
+Java,/tmp/clone_directory/app/src/processing/app/helpers/LogFormatter.java,7,29,43
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/YunSerialTerminal/YunSerialTerminal.ino,14,25,43
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/VersionComparator.java,13,28,43
+Java,/tmp/clone_directory/app/src/processing/app/helpers/Ticks.java,9,0,42
+Java,/tmp/clone_directory/app/test/processing/app/AutoformatProducesOneUndoActionTest.java,14,28,42
+XML,/tmp/clone_directory/build/linux/dist/mime.xml,0,0,42
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/os/windows/Win32KnownFolders.java,10,31,41
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py,6,14,41
+Java,/tmp/clone_directory/app/test/processing/app/helpers/SketchTextAreaFixture.java,13,29,40
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/examples/listfiles/listfiles.ino,18,22,40
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/examples/listfiles/listfiles.ino,18,22,40
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/MyStreamPumper.java,12,56,40
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/discoverers/network/BoardReachabilityFilter.java,15,29,40
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/PreferencesHelper.java,7,58,40
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/pull.py,6,1,40
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/utf8prober.py,10,26,40
+Java,/tmp/clone_directory/app/src/processing/app/javax/swing/filechooser/FileNameExtensionFilter.java,9,0,39
+Bourne Again Shell,/tmp/clone_directory/build/compile_everything.bash,8,0,39
+Java,/tmp/clone_directory/app/src/processing/app/PresentMode.java,27,63,38
+Java,/tmp/clone_directory/app/test/processing/app/BlockCommentGeneratesOneUndoActionTest.java,17,28,38
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Process.h,14,19,38
+Bourne Shell,/tmp/clone_directory/arduino-core/src/processing/app/i18n/pull.sh,10,2,38
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/sbcsgroupprober.py,4,27,38
+Markdown,/tmp/clone_directory/hardware/README.md,8,0,38
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/listeners/DelegatingKeyListener.java,11,28,37
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeClient.h,15,19,37
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/examples/Files/Files.ino,18,20,37
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/examples/Files/Files.ino,18,20,37
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/files/DeleteFilesOnShutdown.java,11,28,37
+Bourne Shell,/tmp/clone_directory/arduino-core/src/processing/app/i18n/update.sh,10,14,37
+Java,/tmp/clone_directory/app/src/cc/arduino/UpdatableBoardsLibsFakeURLsHandler.java,14,28,36
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/FileWriteScript/FileWriteScript.ino,17,30,36
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeUdp.h,13,16,36
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Console.h,16,19,36
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/examples/ReadWrite/ReadWrite.ino,17,26,36
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/examples/ReadWrite/ReadWrite.ino,17,26,36
+Java,/tmp/clone_directory/app/test/processing/app/AutoformatSavesCaretPositionTest.java,12,28,35
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/HttpClient.h,10,14,35
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/LoadVIDPIDSpecificPreferences.java,12,28,35
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/VersionHelper.java,6,30,35
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/MultiStepProgress.java,12,28,35
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/ContributedLibraryReleasesComparator.java,11,28,34
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/examples/Datalogger/Datalogger.ino,24,26,34
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/examples/Datalogger/Datalogger.ino,24,26,34
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/MessageConsumerOutputStream.java,13,28,34
+Java,/tmp/clone_directory/arduino-core/src/processing/app/packages/UserLibraryPriorityComparator.java,9,28,34
+Java,/tmp/clone_directory/app/test/processing/app/AutoformatTest.java,9,28,33
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/SdFatUtil.h,1,41,33
+Ant,/tmp/clone_directory/arduino-core/build.xml,9,11,33
+Java,/tmp/clone_directory/app/src/processing/app/syntax/Token.java,23,98,32
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/Process/Process.ino,15,24,32
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/DownloadableContribution.java,16,28,32
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/FileHash.java,5,40,32
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/LegacyTargetPackage.java,13,16,32
+Text,/tmp/clone_directory/build/windows/dist/drivers/CP210x_6.7/SLAB_License_Agreement_VCP_Windows.txt,3,0,32
+XML,/tmp/clone_directory/.classpath,0,0,31
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeServer.cpp,9,14,31
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/ssh/NoInteractionUserInfo.java,12,28,31
+SVG,/tmp/clone_directory/build/shared/lib/theme/resize.svg,0,1,31
+YAML,/tmp/clone_directory/.github/workflows/ant.yml,4,0,30
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/InstallerTableCell.java,13,29,30
+Java,/tmp/clone_directory/app/test/cc/arduino/contributions/VersionHelperTest.java,9,28,30
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Mailbox.cpp,11,15,30
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/__init__.py,11,17,30
+Java,/tmp/clone_directory/arduino-core/src/processing/app/windows/ListComPortsParser.java,8,33,30
+Java,/tmp/clone_directory/app/src/cc/arduino/packages/formatter/AStyleInterface.java,10,51,29
+Java,/tmp/clone_directory/app/test/processing/app/debug/TargetPackageStub.java,9,0,29
+Java,/tmp/clone_directory/app/test/processing/app/windows/ListComPortsParserTest.java,11,28,29
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/CompilerUtils.java,7,28,29
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/ProgressAwareMessageConsumer.java,8,28,29
+Markdown,/tmp/clone_directory/arduino-core/src/processing/app/i18n/README.md,20,0,29
+Java,/tmp/clone_directory/app/src/processing/app/helpers/GUIUserNotifier.java,15,12,28
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SketchTokenMaker.java,11,37,28
+Java,/tmp/clone_directory/app/test/cc/arduino/contributions/GPGDetachedSignatureVerifierTest.java,9,28,28
+Java,/tmp/clone_directory/app/test/cc/arduino/packages/contributions/HostDependentDownloadableContributionStub.java,9,28,28
+Java,/tmp/clone_directory/app/test/processing/app/AbstractGUITest.java,13,30,28
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/ConsoleAsciiTable/ConsoleAsciiTable.ino,21,46,28
+XML,/tmp/clone_directory/arduino-core/.classpath,0,0,28
+Java,/tmp/clone_directory/arduino-core/src/processing/app/packages/LegacyUserLibrary.java,8,29,28
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/ContributedLibraryTableCellRenderer.java,9,28,27
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/ContributedPlatformTableCellRenderer.java,9,28,27
+Java,/tmp/clone_directory/app/test/processing/app/DefaultTargetTest.java,11,30,27
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/examples/DumpFile/DumpFile.ino,15,23,27
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/examples/DumpFile/DumpFile.ino,15,23,27
+Text,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/keywords.txt,4,0,27
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/SignatureVerifier.java,9,28,27
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/filters/UpdatableLibraryPredicate.java,8,28,26
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/DropdownUpdatableLibrariesItem.java,8,28,26
+Java,/tmp/clone_directory/app/test/processing/app/ReplacingTextGeneratesTwoUndoActionsTest.java,12,29,26
+Text,/tmp/clone_directory/app/test/processing/app/tools/test_partial_boards.txt,0,0,26
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedToolReference.java,9,28,26
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/uploaders/MergeSketchWithBooloader.java,6,28,26
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/DropdownLibraryOfCategoryItem.java,10,28,25
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/DropdownLibraryOfTypeItem.java,10,28,25
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/ConsoleRead/ConsoleRead.ino,12,21,25
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/push.py,5,1,25
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/LibraryTypeComparator.java,8,28,24
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/InstallerJDialogUncaughtExceptionHandler.java,8,28,24
+Text,/tmp/clone_directory/app/test/processing/app/linux/udev_output.txt,0,0,24
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeServer.h,12,15,24
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/codingstatemachine.py,7,30,24
+Bourne Again Shell,/tmp/clone_directory/build/linux/dist/arduino,10,2,24
+Java,/tmp/clone_directory/app/src/processing/app/helpers/DocumentTextChangeListener.java,8,37,23
+Java,/tmp/clone_directory/app/test/processing/app/HittingEscapeOnCloseConfirmationDialogTest.java,11,28,23
+Java,/tmp/clone_directory/app/test/processing/app/helpers/StringReplacerTest.java,7,28,23
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/MailboxReadMessage/MailboxReadMessage.ino,15,20,23
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/__init__.py,14,34,23
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/charsetprober.py,11,28,23
+Text,/tmp/clone_directory/app/lib/README.xml-apis-1.3.04.txt,8,0,22
+Text,/tmp/clone_directory/app/lib/RSyntaxTextArea.License.txt,2,0,22
+Java,/tmp/clone_directory/app/src/processing/app/syntax/SketchTextAreaUI.java,7,0,22
+Java,/tmp/clone_directory/app/test/processing/app/SerialTest.java,7,29,22
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/ConsolePixel/ConsolePixel.ino,15,26,22
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/BasicUserNotifier.java,11,8,22
+Java,/tmp/clone_directory/arduino-core/src/processing/app/tools/DoubleQuotedArgumentsOnWindowsCommandLine.java,8,5,22
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/LibraryOfSameTypeComparator.java,6,28,21
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/filters/UpdatablePlatformPredicate.java,7,28,21
+Java,/tmp/clone_directory/app/test/cc/arduino/net/PACSupportMethodsTest.java,7,0,21
+Java,/tmp/clone_directory/app/test/processing/app/syntax/PdeKeywordsTest.java,8,28,21
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/HttpClientConsole/HttpClientConsole.ino,13,19,21
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/WiFiStatus/WiFiStatus.ino,15,15,21
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/i18n/Language.java,8,28,21
+Bourne Shell,/tmp/clone_directory/arduino-core/src/processing/app/i18n/push.sh,4,0,21
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/api.py,39,60,21
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/mbcsgroupprober.py,3,28,21
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/FilteredAbstractTableModel.java,9,28,20
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.6.3/Bridge/examples/HttpClient/HttpClient.ino,13,18,20
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/HttpClient/HttpClient.ino,13,18,20
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/DropdownInstalledLibraryItem.java,8,28,19
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/DropdownCoreOfCategoryItem.java,10,28,19
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/Mailbox.h,13,21,19
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/UploaderFactory.java,7,28,19
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/TargetPlatform.java,19,65,19
+XML,/tmp/clone_directory/app/.classpath_macosx,0,0,18
+Java,/tmp/clone_directory/app/src/cc/arduino/view/Event.java,8,28,18
+Java,/tmp/clone_directory/app/src/processing/app/helpers/ConsoleLogger.java,8,34,18
+Java,/tmp/clone_directory/app/src/processing/app/syntax/ArduinoTokenMakerFactory.java,8,28,18
+JavaScript,/tmp/clone_directory/app/test/cc/arduino/net/proxy_complex.pac,7,7,18
+Java,/tmp/clone_directory/app/test/processing/app/ReduceIndentWith1CharOnLastLineTest.java,11,28,18
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/ShellCommands/ShellCommands.ino,12,22,18
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/JsonDownloader.java,7,29,18
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/OSUtils.java,6,12,18
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/filefilters/OnlyFilesWithExtension.java,10,17,18
+XML,/tmp/clone_directory/.project,0,0,17
+XML,/tmp/clone_directory/app/.project,0,0,17
+Text,/tmp/clone_directory/app/lib/jtouchbar.LICENSE.MIT.txt,4,0,17
+Java,/tmp/clone_directory/app/src/processing/app/syntax/MyConfigurableCaret.java,6,0,17
+Java,/tmp/clone_directory/app/test/processing/app/TestHelper.java,5,28,17
+Java,/tmp/clone_directory/app/test/processing/app/helpers/ArduinoFrameFixture.java,7,28,17
+AsciiDoc,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/README.adoc,7,0,17
+AsciiDoc,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/README.adoc,7,0,17
+XML,/tmp/clone_directory/arduino-core/.project,0,0,17
+Java,/tmp/clone_directory/arduino-core/src/processing/app/SerialException.java,10,15,17
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/ProcessUtils.java,5,6,17
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/hooks.py,17,11,17
+Bourne Again Shell,/tmp/clone_directory/build/build_all_dist.bash,9,0,17
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/DropdownUpdatableCoresItem.java,8,28,16
+Java,/tmp/clone_directory/app/src/cc/arduino/packages/MonitorFactory.java,6,30,16
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/ConsoleProgressListener.java,6,29,16
+Java,/tmp/clone_directory/arduino-core/src/processing/app/SerialNotFoundException.java,8,14,16
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/TargetPlatformException.java,6,0,16
+XML,/tmp/clone_directory/build/macosx/jre2.entitlements,0,0,16
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/ssh/SSHPwdSetup.java,7,28,15
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/TargetBoard.java,18,64,15
+Java,/tmp/clone_directory/arduino-core/src/processing/app/linux/UDevAdmParser.java,4,0,15
+Bourne Again Shell,/tmp/clone_directory/build/build_pull_request.bash,7,0,15
+SVG,/tmp/clone_directory/build/shared/lib/theme/newwindow.svg,0,1,15
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/libraries/ui/DropdownAllLibraries.java,8,28,14
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/ui/DropdownAllCoresItem.java,8,28,14
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/ProgressJProgressBar.java,6,30,14
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/listeners/AbstractKeyListener.java,10,28,14
+Java,/tmp/clone_directory/app/src/cc/arduino/view/StubMenuListener.java,7,28,14
+Java,/tmp/clone_directory/app/test/cc/arduino/contributions/libraries/LibraryOfTypeComparatorTest.java,5,0,14
+Java,/tmp/clone_directory/app/test/processing/app/helpers/SketchTextAreaComponentMatcher.java,7,29,14
+Java,/tmp/clone_directory/app/test/processing/app/windows/RegexpTest.java,8,28,14
+HTML,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/TemperatureWebPanel/www/index.html,2,0,14
+C++,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeSSLClient.cpp,8,14,14
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/filefilters/OnlyDirs.java,9,26,14
+Text,/tmp/clone_directory/app/lib/README.xml-apis-ext-1.3.04.txt,6,0,13
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/packages/filters/CategoryPredicate.java,8,28,13
+Java,/tmp/clone_directory/app/src/cc/arduino/view/JMenuUtils.java,5,28,13
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/BridgeSSLClient.h,8,15,13
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/filters/DownloadableContributionWithVersionPredicate.java,7,28,13
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/filters/PlatformArchitecturePredicate.java,8,28,13
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/Pair.java,5,28,13
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_af.properties,607,1399,13
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/exceptions.py,24,18,13
+Java,/tmp/clone_directory/arduino-core/src/processing/app/packages/UserLibraryFolder.java,8,28,13
+INI,/tmp/clone_directory/build/.editorconfig,3,0,13
+Bourne Shell,/tmp/clone_directory/build/macosx/dist/drivers/SiliconLabs-CP2105/uninstaller.sh,4,0,13
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/ReverseComparator.java,6,28,12
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/UserNotifier.java,7,0,12
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ast.properties,607,1399,12
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/big5prober.py,4,26,12
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/euckrprober.py,4,26,12
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/euctwprober.py,3,26,12
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/gb2312prober.py,3,26,12
+SVG,/tmp/clone_directory/build/shared/lib/theme/lock.svg,0,1,12
+Java,/tmp/clone_directory/app/test/processing/app/linux/UDevAdmParserTest.java,6,28,11
+Arduino Sketch,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/RemoteDueBlink/RemoteDueBlink.ino,7,15,11
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/libraries/ContributedLibraryDependency.java,6,28,11
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/discoverers/PluggableDiscoveryMessage.java,4,28,11
+Java,/tmp/clone_directory/arduino-core/src/processing/app/legacy/PConstants.java,8,3,11
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,6,1,10
+Properties,/tmp/clone_directory/app/testdata/libraries/Bridge_1.6.3/Bridge/library.properties,0,0,10
+Properties,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/library.properties,0,0,10
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedTargetPlatform.java,5,28,10
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/TargetPackage.java,11,16,10
+Bourne Shell,/tmp/clone_directory/build/fetch.sh,7,4,10
+Text,/tmp/clone_directory/app/test-lib/jcip-annotations.LICENSE.cc-by.2.5.txt,1,0,9
+Properties,/tmp/clone_directory/app/testdata/libraries/SD_1.1.1/SD/library.properties,0,0,9
+Properties,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/library.properties,0,0,9
+Arduino Sketch,/tmp/clone_directory/app/testdata/sketches/Blink/Blink.ino,7,21,9
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/filters/FileExecutablePredicate.java,5,28,9
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/ssh/SSHClientSetupChainRing.java,6,31,9
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/DefaultUncaughtExceptionHandler.java,4,28,8
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/DownloadableContributionVersionComparator.java,6,28,8
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/packages/Discovery.java,7,41,8
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/__init__.py,3,16,8
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/constants.py,4,27,8
+XML,/tmp/clone_directory/build/macosx/gcc.entitlements,0,0,8
+Java,/tmp/clone_directory/app/src/processing/app/Resources.java,2,4,7
+Java,/tmp/clone_directory/app/src/processing/app/tools/Tool.java,14,20,7
+Text,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/README.txt,6,0,7
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/NoopProgressListener.java,6,28,7
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/utils/Progress.java,7,28,7
+Java,/tmp/clone_directory/arduino-core/src/processing/app/helpers/PreferencesMapException.java,3,0,7
+Bourne Shell,/tmp/clone_directory/build/shared/tools/Mangler/make.sh,3,1,7
+XML,/tmp/clone_directory/build/windows/launcher/wrapper-manifest.xml,2,0,7
+Java,/tmp/clone_directory/app/src/processing/app/RunnerListener.java,11,16,6
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/YunClient.h,7,14,6
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/src/YunServer.h,7,14,6
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/certs.py,7,11,6
+Java,/tmp/clone_directory/app/src/cc/arduino/contributions/ui/DropdownItem.java,5,28,5
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/ProgressListener.java,5,28,5
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedBoard.java,4,28,5
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/contributions/packages/ContributedHelp.java,4,28,5
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/charade/compat.py,2,19,5
+INI,/tmp/clone_directory/.settings/org.eclipse.jdt.ui.prefs,0,0,4
+Java,/tmp/clone_directory/app/src/cc/arduino/view/EventListener.java,4,28,4
+JavaScript,/tmp/clone_directory/app/test/cc/arduino/net/proxy_direct.pac,0,0,4
+JavaScript,/tmp/clone_directory/app/test/cc/arduino/net/proxy_http.pac,0,0,4
+JavaScript,/tmp/clone_directory/app/test/cc/arduino/net/proxy_socks.pac,0,0,4
+Java,/tmp/clone_directory/arduino-core/src/cc/arduino/CompilerProgressListener.java,4,28,4
+Java,/tmp/clone_directory/arduino-core/src/processing/app/debug/MessageConsumer.java,10,28,4
+Bourne Shell,/tmp/clone_directory/build/linux/dist/uninstall.sh,2,0,4
+Markdown,/tmp/clone_directory/build/shared/examples/README.md,2,0,4
+Text,/tmp/clone_directory/build/windows/dist/drivers/README.txt,3,0,4
+INI,/tmp/clone_directory/build/windows/launcher/arduino.l4j.ini,0,0,4
+INI,/tmp/clone_directory/app/.settings/org.eclipse.jdt.ui.prefs,0,0,3
+Text,/tmp/clone_directory/app/test/processing/app/windows/german.reg.query.output.txt,2,0,2
+Text,/tmp/clone_directory/arduino-core/lib/jmdns.LICENSE.ASL-2.0-LGPL-2.1.txt,0,0,2
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/__init__.py,1,0,2
+Python,/tmp/clone_directory/arduino-core/src/processing/app/i18n/python/requests/packages/urllib3/packages/__init__.py,2,0,2
+Markdown,/tmp/clone_directory/build/readme.md,1,0,2
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE.md,0,0,1
+JavaScript,/tmp/clone_directory/app/testdata/libraries/Bridge_1.7.0/Bridge/examples/TemperatureWebPanel/www/zepto.min.js,0,1,1
+Text,/tmp/clone_directory/arduino-core/lib/apple.LICENSE.BSD-like.txt,0,0,1
+Text,/tmp/clone_directory/arduino-core/lib/jsch.LICENSE.BSD.txt,0,0,1
+C/C++ Header,/tmp/clone_directory/app/testdata/libraries/SD_1.2.1/SD/src/utility/SdFatmainpage.h,57,145,0
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_ach.properties,607,1410,0
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_kk.properties,607,1410,0
+Properties,/tmp/clone_directory/arduino-core/src/processing/app/i18n/Resources_te.properties,607,1410,0
+SUM,,93224,128803,188740

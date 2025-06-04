@@ -1,0 +1,7 @@
+##[group]Run mvn spotless:check --no-transfer-progress, 272.2117354327793, , , , 38677771, False, 
+Requested labels: self-hosted, 86.46142821414213, , , , 4939974, False, 
+##[group]GITHUB_TOKEN Permissions, 79.07117820469696, , , , 2244458, False, 
+##[group]Fetching the repository, 26.606004472654817, , , , 462541, False, 
+##[group]Cleaning the repository, 5.04113768955565, , , , 61177, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 4.947783287897212, , , , 45559, False, 
+##[group]Run actions/checkout@v4.1.1, 4.854428886238774, , , , 155417, False, 

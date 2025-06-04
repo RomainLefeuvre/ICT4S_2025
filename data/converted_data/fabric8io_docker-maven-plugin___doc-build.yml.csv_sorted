@@ -1,0 +1,8 @@
+##[group]Run git config --global user.email "${GITHUB_ACTOR}", 730.9322787575643, , , , 61231030, True, ##[error]Process completed with exit code 128.
+##[group]GITHUB_TOKEN Permissions, 402.6563136079268, , , , 1981121, False, 
+##[group]Fetching the repository, 121.38905187007342, , , , 450005, False, 
+##[group]Run actions/setup-java@v1, 65.50132465838824, , , , 122616, False, 
+##[group]Checking out the ref, 31.849387568565707, , , , 21733, False, 
+##[group]Setting up auth, 28.845138366470994, , , , 65572, False, 
+##[group]Run actions/checkout@v2, 27.64343868563312, , , , 185878, False, 
+Requested labels: self-hosted, 0.0217301318089333, , , , 4029451, False, 

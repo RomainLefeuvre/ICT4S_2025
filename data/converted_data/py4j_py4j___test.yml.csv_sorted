@@ -1,0 +1,17 @@
+Requested labels: self-hosted, 15240.596438956503, , , , 6126452971, False, 
+##[group]Run python3 -m pip install -r py4j-web/requirements-doc.txt, 262.4640900826201, , , , 19077563, False, 
+##[group]Run cd py4j-web && make clean html && cd .., 78.42913764328763, , , , 3912210, False, 
+##[group]Fetching the repository__dup_14, 74.53030905746665, , , , 40351716, True, ##[error]The process '/usr/bin/git' failed with exit code 1
+##[group]GITHUB_TOKEN Permissions, 62.01272526497587, , , , 4227287, False, 
+##[group]Outputs, 38.50554763613499, , , , 2301611, True, ##[error]Error: fatal : Vous n'êtes actuellement sur aucune branche.
+##[group]Run gradle/wrapper-validation-action@v1, 22.993580645887164, , , , 1164942, False, 
+##[group]Run actions/setup-java@v2, 20.67746025480899, , , , 706794, False, 
+##[group]Run cd py4j-java && ./gradlew javadoc && cd .., 12.308516756416973, , , , 151398, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2-bin.zip.lck (Aucun fichier ou dossier de ce type)
+##[group]Run actions/checkout@v2__dup_12, 11.103458535800684, , , , 138430, False, 
+##[group]Internal logs, 10.08467130590672, , , , 692214, True, ##[error]Error: fatal : Vous n'êtes actuellement sur aucune branche.
+##[group]Fetching the repository, 9.8507909766991, , , , 477436, False, 
+##[group]Run actions/checkout@v2, 9.314020616584106, , , , 174273, False, 
+##[group]Run actions/setup-python@v2, 4.057415783825077, , , , 177784, False, 
+##[group]Cleaning the repository, 2.0621203931605265, , , , 15441, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.9057457521260208, , , , 23485, False, 
+##[group]Run EndBug/add-and-commit@v8, 1.670574253521877, , , , 156710, False, 

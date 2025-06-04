@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Fetching the repository,16.024592246218877,1505355,False,
+##[group]==END_FILE==,6.2723309224314425,5927204,False,
+##[group]GITHUB_TOKEN Permissions,5.728399109175667,1885098,False,
+"##[group]Run git config user.name ""Mahmoud Ben Hassine""",4.0153123587010064,425796,True,##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v2,1.119888597806064,185232,False,
+##[group]Getting Git version info,1.11473035300025,20976,False,
+##[group]Setting up auth,1.109572108194436,66505,False,
+##[group]Checking out the ref,1.027040191301414,108585,False,
+##[group]Run actions/setup-java@v1,1.016723701689786,120445,False,

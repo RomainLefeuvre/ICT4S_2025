@@ -1,0 +1,8 @@
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/nosborn/github-action-markdown-cli/v3.0.1/Dockerfile'., 149.497536653632, , , , 43688819, False, 
+Requested labels: self-hosted, 87.33887506293532, , , , 3809077, False, 
+##[group]Fetching the repository, 78.1851071568746, , , , 8037616, False, 
+##[group]GITHUB_TOKEN Permissions, 40.349259644006594, , , , 1896726, False, 
+##[group]Run nosborn/github-action-markdown-cli@v3.0.1, 39.2810594366088, , , , 10610346, False, 
+##[group]Run git submodule update --init -- game-data, 6.244912533378119, , , , 1742259, False, 
+##[group]Checking out the ref, 5.426458776313509, , , , 398966, False, 
+##[group]Run actions/checkout@v3, 0.8011006944308903, , , , 172723, False, 

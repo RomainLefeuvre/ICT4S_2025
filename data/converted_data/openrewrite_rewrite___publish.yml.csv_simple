@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Caching Gradle state,8.311099116806332,5135785,True,##[error]Gradle build failed: see console output for details
+##[group]Restore Gradle state from cache,5.992880570121578,26304238,False,
+##[group]==END_FILE==,0.657123308309179,5542623,False,
+##[group]GITHUB_TOKEN Permissions,0.4634173250837946,1298878,False,
+##[group]Fetching the repository,0.4163937028972463,3774501,False,
+##[group]Checking out the ref,0.1262151382550367,196282,False,
+##[group]Setting up auth,0.000364874979248,75794,False,
+##[group]Run actions/checkout@v4,0.0,225968,False,
+##[group]Run gradle/actions/setup-gradle@v3,0.0,412604,False,

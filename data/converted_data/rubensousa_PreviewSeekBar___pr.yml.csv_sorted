@@ -1,0 +1,11 @@
+##[group]Run ./gradlew testDebugUnitTest --stacktrace, 347.68150778784224, , , , 52191285, True, ##[error]Process completed with exit code 1.
+##[group]Caching Gradle state, 99.16283885903384, , , , 12574839, False, 
+##[group]Fetching the repository, 58.73187098365465, , , , 7098899, False, 
+##[group]Run ./gradlew assembleRelease, 16.14858119835804, , , , 1277133, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3, 15.02614130414107, , , , 160433, False, 
+##[group]Restore Gradle state from cache, 14.941107044831552, , , , 1137465, False, 
+##[group]Run malinskiy/action-android/install-sdk@release/0.1.4, 13.992687856806398, , , , 2430692, False, 
+##[group]GITHUB_TOKEN Permissions, 12.968446204949243, , , , 3974272, False, 
+##[group]Setting up auth, 2.823962511978436, , , , 65864, False, 
+##[group]Checking out the ref, 2.604661398973368, , , , 173704, False, 
+Requested labels: self-hosted, 0.1029447579371953, , , , 5823482, False, 

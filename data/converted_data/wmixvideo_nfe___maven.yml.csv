@@ -1,0 +1,2 @@
+##[group]Run mvn clean package --file pom.xml, 429.1654295835312, , , , 34642883, False, 
+##[group]Run mvn clean test jacoco:report coveralls:report --file pom.xml, 458.187060128962, , , , 27016510, False, 

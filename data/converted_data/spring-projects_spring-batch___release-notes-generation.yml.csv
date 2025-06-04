@@ -1,0 +1,5 @@
+Requested labels: self-hosted, 0.0, , , , 4050706, False, 
+##[group]GITHUB_TOKEN Permissions, 35.046436015268426, , , , 1527253, False, 
+##[group]Run wget https://github.com/spring-io/github-changelog-generator/releases/download/v$GENERATOR_VERSION/github-changelog-generator.jar, 12.09936481479505, , , , 420457, True, ##[error]Process completed with exit code 8.
+##[group]Installed distributions, 3.407292390373319, , , , 30337, False, 
+##[group]Run cat release-notes.md, 7.02319451893276, , , , 238644, True, ##[error]Process completed with exit code 1.

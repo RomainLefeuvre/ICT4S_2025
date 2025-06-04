@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 152.0067883302803, , , , 3893591, False, 
+##[group]GITHUB_TOKEN Permissions, 88.15329654629691, , , , 1530938, False, 
+##[group]Run actions/checkout@v4, 12.191504669710302, , , , 193937, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 6.18367802996189, , , , 53026, False, 
+##[group]Disabling automatic garbage collection, 6.242295160033049, , , , 4101, False, 
+##[group]Setting up auth, 6.300912290104208, , , , 97771, False, 
+##[group]Fetching the repository, 39.0364334721196, , , , 683228, False, 
+##[group]Determining the checkout info, 6.711232200602324, , , , 18321, False, 
+##[group]Run # Check that the commit title isn't excessively long., 6.769849330673483, , , , 8004, False, 
+##[group]Run # Check that the commit has a body, 20.837102162660884, , , , 296620, True, ##[error]Process completed with exit code 1.

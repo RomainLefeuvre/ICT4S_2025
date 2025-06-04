@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean deploy -Prelease -DskipTests,249.96861314259075,48395374,True,[ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.0.1:sign[m (default)[m on project redis-replicator[m: Exit code: 2[m -> [Help 1][m
+##[group]GITHUB_TOKEN Permissions,89.60914399231457,2911778,False,
+##[group]Fetching the repository,57.1100258741138,611483,False,
+##[group]Removing previously created refs_ to avoid conflicts,23.476255523027188,187807,False,
+##[group]Cleaning the repository,22.20780402826836,193603,False,
+##[group]Installed distributions,14.597095059715349,152541,False,
+##[group]Run actions/checkout@v3,12.213797072048155,157876,False,
+##[group]Setting up auth,10.628232703599616,71122,False,
+##[group]==END_FILE==,0.0487303815331613,5587424,False,

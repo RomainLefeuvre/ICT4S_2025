@@ -1,0 +1,331 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.13 s (2612.3 files/s 369526.8 lines/s)"
+JSON,/tmp/clone_directory/dubbo-admin-ui/package-lock.json,0,0,12531
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/RoutingRule.vue,13,17,611
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/RouteUtils.java,87,101,600
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/AccessControl.vue,10,20,600
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/LoadBalance.vue,15,22,571
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/Overrides.vue,13,17,569
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/WeightAdjust.vue,13,21,553
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/OverrideServiceImpl.java,42,39,499
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/metrics/ServiceMetrics.vue,11,18,495
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/apiDocs/ApiForm.vue,6,21,417
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/MeshRule.vue,11,17,394
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/ServiceSearch.vue,10,20,386
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/governance/TagRule.vue,11,17,383
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/controller/ConditionRoutesControllerTest.java,54,16,355
+Maven,/tmp/clone_directory/dubbo-admin-test/pom.xml,7,16,349
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/RouteServiceImpl.java,42,29,341
+Maven,/tmp/clone_directory/dubbo-admin-server/pom.xml,6,30,325
+Maven,/tmp/clone_directory/pom.xml,10,18,305
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/test/ServiceMock.vue,11,17,288
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/ProviderServiceImpl.java,41,34,278
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/Management.vue,10,16,271
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/ServiceDetail.vue,6,16,271
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/test/ServiceTest.vue,3,17,239
+YAML,/tmp/clone_directory/kubernetes/zookeeper.yaml,4,9,237
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/ParseUtils.java,29,70,236
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/apiDocs/ApiDocs.vue,11,16,232
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/apiDocs/ApiFormItem.vue,3,21,226
+CSS,/tmp/clone_directory/dubbo-admin-ui/public/OpenSans.css,1,29,217
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/lang/en.js,1,16,209
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/lang/zh.js,1,16,209
+Bourne Shell,/tmp/clone_directory/mvnw,31,60,195
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/config/ConfigCenter.java,34,27,192
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/ServiceTestV3Util.java,27,17,189
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/ServiceTestUtil.java,21,17,179
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/router/index.js,5,16,173
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Provider.java,66,25,172
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/ApiDocsController.java,22,32,170
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Route.java,49,18,162
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/SyncUtils.java,36,20,156
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/InstanceRegistryQueryHelper.java,20,17,156
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/RelationDTO.java,45,19,152
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/controller/ManagementControllerTest.java,20,16,149
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/test/TestMethod.vue,7,17,149
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/RegistryServerSync.java,17,29,146
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Consumer.java,57,20,143
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/Toolbar.vue,7,22,139
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Override.java,43,16,134
+YAML,/tmp/clone_directory/charts/dubbo-admin/values.yaml,25,116,133
+YAML,/tmp/clone_directory/kubernetes/dubbo-admin.yaml,2,4,132
+DOS Batch,/tmp/clone_directory/mvnw.cmd,32,0,129
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/AdminMappingListener.java,24,20,122
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/JsonEditor2.vue,6,16,122
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/AceEditor.vue,9,34,120
+Markdown,/tmp/clone_directory/README.md,61,0,119
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/utils/ApiDocsDubboGenericUtil.java,21,84,119
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/controller/ServiceControllerTest.java,16,16,115
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/MetricsCollectController.java,15,17,112
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/controller/LoadBalanceControllerTest.java,16,27,112
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/ServiceController.java,18,26,111
+YAML,/tmp/clone_directory/kubernetes/nacos.yaml,2,105,110
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/TypeDefinition.java,34,19,108
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/config/ConfigCenterTest.java,23,27,107
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/TagRoutesController.java,18,17,106
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/impl/NacosServiceMapping.java,24,33,106
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/OverridesController.java,13,16,104
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/controller/MeshRouteControllerTest.java,24,20,104
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/AccessesController.java,11,16,103
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/ConditionRoutesController.java,14,16,102
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/controller/AccessesControllerTest.java,16,24,102
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/LoadBalanceController.java,16,16,100
+Maven,/tmp/clone_directory/dubbo-admin-distribution/pom.xml,4,16,97
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/WeightController.java,12,16,97
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/ConsumerServiceImpl.java,22,17,96
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/pages/ServicePage.java,36,20,96
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Entity.java,34,19,94
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/metrics/ServiceRelation.vue,6,17,92
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/impl/NacosMetaDataCollector.java,16,16,91
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/registry/metadata/impl/ConsulMetaDataCollectorTest.java,27,17,90
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/OverrideUtils.java,7,20,89
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/DubboMethodMatch.java,23,16,89
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/ConvertUtil.java,14,22,88
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/DubboMatchRequest.java,27,17,87
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/MetricsServiceImpl.java,9,24,86
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/Login.vue,3,17,85
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/ManagementController.java,10,16,84
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/MockRuleServiceImpl.java,12,20,84
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/store/index.js,3,37,84
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/Drawer.vue,7,16,82
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/MetricDTO.java,37,31,81
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/impl/RedisMetaDataCollector.java,13,16,81
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/service/RegistryServerSyncTest.java,20,19,80
+Maven,/tmp/clone_directory/dubbo-admin-ui/pom.xml,3,20,80
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/deploy.yaml,0,0,78
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/MeshRouteController.java,16,16,78
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/InstanceRegistryCache.java,23,21,78
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/ServiceTestController.java,8,16,77
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/GenericServiceImpl.java,16,36,77
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/JsonEditor.vue,3,16,77
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/ServiceDefinition.java,23,35,75
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/api/chart.js,4,16,75
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/ServiceDTO.java,17,16,74
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/svc.yaml,0,0,73
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/impl/ZookeeperMetaDataCollector.java,13,17,73
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/config/impl/MultiDynamicConfiguration.java,18,20,71
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/StringMatch.java,19,16,70
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/MethodDefinition.java,20,19,69
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/registry/config/impl/ZookeeperConfigurationTest.java,20,16,69
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/MiniChart.vue,6,16,69
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/Constants.java,6,16,68
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/rbac.yaml,0,0,67
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/impl/ZookeeperServiceMapping.java,15,16,63
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/OverrideConfig.java,20,16,61
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/MeshRouteServiceImpl.java,13,16,61
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/UserController.java,9,16,59
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/handler/CustomExceptionHandler.java,8,19,59
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/nacos/NacosData.java,17,16,59
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/nacos/NacosOpenapiUtil.java,12,23,59
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/CommonResponse.java,18,19,58
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/MockRule.java,21,19,58
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/DubboMethodArg.java,16,16,58
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/AbstractSpringIntegrationTest.java,10,16,57
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/common/util/YamlParserTest.java,16,16,57
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/Pair.java,13,16,55
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/MockRuleDTO.java,21,19,55
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/CoderUtil.java,11,16,54
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/beans/DubboApiDocsParamInfoBean.java,19,19,54
+XML,/tmp/clone_directory/dubbo-admin-distribution/src/assembly/source-release.xml,1,16,53
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/RoutingRule.java,20,24,53
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/impl/ConsulMetaDataCollector.java,14,17,53
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/ManagementServiceImpl.java,10,16,53
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/docs/CallDubboServiceRequest.java,21,19,52
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/vue.config.js,2,16,49
+Java,/tmp/clone_directory/dubbo-admin-test/src/main/java/org/apache/dubbo/admin/ProviderBootstrap.java,11,18,48
+JSON,/tmp/clone_directory/dubbo-admin-ui/package.json,0,0,48
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/cm.yaml,0,0,47
+XML,/tmp/clone_directory/dubbo-admin-distribution/src/assembly/bin-release.xml,1,16,47
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/TagRoute.java,16,16,47
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/DubboAttachmentMatch.java,13,16,47
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/config/impl/NoOpConfiguration.java,16,16,47
+Java,/tmp/clone_directory/dubbo-admin-test/src/main/java/org/apache/dubbo/admin/impl/consumer/RestApiService.java,11,18,45
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/main.js,7,19,45
+Bourne Shell,/tmp/clone_directory/dubbo-admin-distribution/src/bin/startup.sh,9,15,44
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/Index.vue,2,16,44
+YAML,/tmp/clone_directory/.github/workflows/integration.yml,2,0,43
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/interceptor/AuthInterceptor.java,7,16,43
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/utils/JwtTokenUtil.java,10,41,43
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/util/index.js,9,18,43
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/ServiceDetailDTO.java,16,16,41
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/common/util/CoderUtilTest.java,12,16,41
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/BaseIT.java,12,18,40
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/Search.vue,4,16,40
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/OverrideDTO.java,13,16,39
+Java,/tmp/clone_directory/dubbo-admin-test/src/main/java/org/apache/dubbo/admin/ConsumerBootstrap.java,13,19,39
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/LoadBalance.java,17,20,38
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Weight.java,16,17,38
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/BaseDTO.java,11,21,38
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/ServiceTestDTO.java,13,20,38
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/authentication/impl/DefaultPreHandle.java,9,20,37
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/AdminServiceInstancesChangedListener.java,12,16,37
+YAML,/tmp/clone_directory/dubbo-admin-server/src/test/resources/MeshRoute.yml,3,18,37
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/api/menu.js,2,16,37
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/api/operation.js,2,16,37
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/VWidget.vue,3,16,37
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/UrlUtils.java,5,20,36
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/YamlParser.java,10,16,36
+Bourne Shell,/tmp/clone_directory/dubbo-admin-distribution/src/bin-distribution-check.sh,12,14,35
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/MockRuleController.java,8,19,35
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/DoubleMatch.java,12,16,35
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/util/Tool.java,4,20,34
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/DubboRoute.java,13,16,34
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/DubboRouteDetail.java,13,16,34
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/components/http-common.js,4,17,34
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/BaseRule.java,11,16,33
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/DestinationRuleSpec.java,11,16,33
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/Breadcrumb.vue,4,17,33
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/psp.yaml,0,0,32
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/config/SwaggerConfiguration.java,4,16,32
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/pages/ManagePage.java,7,18,32
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/App.vue,2,16,32
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/ConfigDTO.java,11,16,31
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/RouteDTO.java,10,16,31
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/destination/DubboDestination.java,12,16,31
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/impl/DubboDelegateMetadataCollector.java,9,16,31
+Text,/tmp/clone_directory/charts/dubbo-admin/templates/NOTES.txt,12,0,29
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/components/public/notify/index.js,6,27,29
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/docs/ApiInfoRequest.java,11,19,28
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/VsDestinationGroup.java,12,16,28
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/DoubleRangeMatch.java,9,16,28
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/ServiceIT.java,12,18,27
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/pages/LoginPage.java,12,18,27
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/DynamicConfigDTO.java,11,16,26
+YAML,/tmp/clone_directory/docker/stack.yml,2,18,25
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/MethodMetadata.java,9,16,25
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/AccessDTO.java,9,17,25
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/Subset.java,9,16,25
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/VirtualServiceSpec.java,9,16,25
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/utils/LocalDateTimeUtilTest.java,8,16,25
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/dubbo-admin-issue-report-template.md,13,0,24
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/loadbalance/LoadBalancerSettings.java,8,16,24
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/impl/NoOpMetadataCollector.java,10,16,24
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/ProviderService.java,21,63,24
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/AbstractService.java,10,16,24
+XML,/tmp/clone_directory/dubbo-admin-server/src/main/resources/logback-spring.xml,8,14,24
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/RouteService.java,26,20,23
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/InterfaceRegistryCache.java,9,20,22
+Properties,/tmp/clone_directory/dubbo-admin-server/src/main/resources/application.properties,17,49,22
+YAML,/tmp/clone_directory/dubbo-admin-server/src/test/resources/MeshRouteTest2.yml,1,18,22
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/notify/Snackbar.vue,0,16,22
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,2,0,21
+Properties,/tmp/clone_directory/docker/latest/application.properties,17,49,21
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/common/util/UrlUtilsTest.java,5,16,21
+XML,/tmp/clone_directory/codestyle/checkstyle.xml,4,1,20
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/ServiceException.java,8,19,20
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/adapter/BalancingDTO2OverrideConfigAdapter.java,3,16,20
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/docs/CallDubboServiceRequestInterfaceParam.java,8,19,20
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/OverrideService.java,17,16,20
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/impl/MetrcisCollectServiceImpl.java,7,17,20
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/src/lang/index.js,4,16,20
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/adapter/LoadBalance2OverrideAdapter.java,2,16,19
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/ListDoubleMatch.java,8,16,19
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/ListStringMatch.java,9,16,19
+YAML,/tmp/clone_directory/docker/latest/docker-compose.test.yml,1,14,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/SystemException.java,6,19,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/adapter/DynamicConfigDTO2OverrideDTOAdapter.java,2,16,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/Tag.java,7,16,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/WeightDTO.java,8,16,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/DestinationRule.java,7,16,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/VirtualServiceRule.java,7,16,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/nacos/NacosResponse.java,7,16,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/utils/LocalDateTimeUtil.java,9,50,18
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/utils/JwtTokenUtilTest.java,7,16,18
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/pdb.yaml,0,0,17
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/ResourceNotFoundException.java,7,19,17
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/BalancingDTO.java,7,16,17
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/TrafficPolicy.java,7,16,17
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/destination/DubboRouteDestination.java,7,16,17
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/config/GovernanceConfiguration.java,15,16,17
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/AdminProviderFirstParams.java,4,16,17
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/ManageIT.java,7,18,17
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/.eslintrc.js,1,16,17
+XML,/tmp/clone_directory/codestyle/dubbo_codestyle_for_idea.xml,1,16,16
+Bourne Shell,/tmp/clone_directory/docker/latest/test.sh,6,12,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/DubboAdminApplication.java,4,16,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/CommonController.java,6,13,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/editors/CustomLocalDateEditor.java,8,19,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/controller/editors/CustomLocalDateTimeEditor.java,8,19,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/FullServiceDefinition.java,6,19,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/BoolMatch.java,6,16,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/provider/MockServiceProvider.java,6,19,16
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/utils/SpringBeanUtils.java,6,28,16
+Markdown,/tmp/clone_directory/dubbo-admin-ui/README.md,9,0,16
+Vuejs Component,/tmp/clone_directory/dubbo-admin-ui/src/components/public/Footers.vue,3,16,16
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/pvc.yaml,0,0,15
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/PermissionDeniedException.java,5,19,15
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/config/WebMvcConfiguration.java,3,16,15
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/impl/NoOpServiceMapping.java,9,16,15
+YAML,/tmp/clone_directory/.codecov.yml,3,1,14
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/dubbo-admin-feature-request-template.md,6,0,14
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/MetricIT.java,5,18,14
+Dockerfile,/tmp/clone_directory/docker/0.3.0/Dockerfile,4,14,13
+Dockerfile,/tmp/clone_directory/docker/0.4.0/Dockerfile,4,14,13
+Dockerfile,/tmp/clone_directory/docker/0.5.0/Dockerfile,4,14,13
+Dockerfile,/tmp/clone_directory/docker/latest/Dockerfile,4,14,13
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/adapter/WeightToOverrideAdapter.java,2,16,13
+YAML,/tmp/clone_directory/dubbo-admin-server/src/test/resources/LoadBalance.yml,1,18,13
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/LoginIT.java,4,18,13
+HTML,/tmp/clone_directory/dubbo-admin-ui/public/index.html,1,18,13
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,7,0,12
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/annotation/Authority.java,4,16,12
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/AppConfigDTO.java,3,10,12
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/TagRouteDTO.java,6,16,12
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/metadata/MetaDataCollector.java,8,16,12
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/MockRuleService.java,8,43,12
+Java,/tmp/clone_directory/dubbo-admin-test/src/main/java/org/apache/dubbo/admin/impl/consumer/AnnotatedGreetingService.java,3,18,12
+Markdown,/tmp/clone_directory/charts/README.md,6,0,11
+YAML,/tmp/clone_directory/charts/dubbo-admin/Chart.yaml,0,0,11
+YAML,/tmp/clone_directory/charts/dubbo-admin/templates/netpol.yaml,0,0,11
+Bourne Shell,/tmp/clone_directory/dubbo-admin-distribution/src/bin/shutdown.sh,6,14,11
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/ConditionRouteDTO.java,5,16,11
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/ConsumerService.java,9,28,11
+Dockerfile,/tmp/clone_directory/docker/0.1.0/Dockerfile,2,14,10
+Dockerfile,/tmp/clone_directory/docker/0.2.0/Dockerfile,2,14,10
+DOS Batch,/tmp/clone_directory/dubbo-admin-distribution/src/bin/startup.cmd,5,16,10
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/dto/MeshRouteDTO.java,6,16,10
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/ServiceMapping.java,7,19,10
+JSON,/tmp/clone_directory/dubbo-admin-server/src/main/resources/META-INF/spring-configuration-metadata.json,0,0,10
+SQL,/tmp/clone_directory/dubbo-admin-server/src/main/resources/schema.sql,1,16,10
+Java,/tmp/clone_directory/dubbo-admin-server/src/test/java/org/apache/dubbo/admin/service/DirectConnectTest.java,4,19,10
+Java,/tmp/clone_directory/dubbo-admin-test/src/main/java/org/apache/dubbo/admin/impl/provider/AnnotatedGreetingService.java,3,18,10
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/ParamValidationException.java,3,19,9
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/VersionValidationException.java,5,16,9
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/ManagementService.java,9,16,9
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/RegistryCache.java,8,31,9
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/pages/MetricRelationPage.java,2,18,9
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/authentication/InterceptorAuthentication.java,6,20,8
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/MeshRouteService.java,8,40,8
+INI,/tmp/clone_directory/dubbo-admin-ui/.editorconfig,1,0,8
+DOS Batch,/tmp/clone_directory/dubbo-admin-distribution/src/bin/shutdown.cmd,5,14,7
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/authentication/LoginAuthentication.java,6,20,7
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/loadbalance/SimpleLB.java,3,16,7
+YAML,/tmp/clone_directory/.asf.yaml,0,0,6
+Markdown,/tmp/clone_directory/dubbo-admin-server/README.md,0,0,6
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/common/exception/ConfigurationException.java,3,16,6
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/domain/RegistrySource.java,6,16,6
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/TCPSettings.java,3,16,6
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/TcpKeepalive.java,4,16,6
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/registry/mapping/AddressChangeListener.java,5,21,6
+YAML,/tmp/clone_directory/dubbo-admin-server/src/test/resources/exploited.yml,0,18,6
+Dockerfile,/tmp/clone_directory/docker/latest/Dockerfile.test,4,14,5
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/mapper/MockRuleMapper.java,4,19,5
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/service/MetricsService.java,3,16,5
+Properties,/tmp/clone_directory/dubbo-admin-server/src/main/resources/application-dev.properties,2,17,5
+Properties,/tmp/clone_directory/dubbo-admin-server/src/main/resources/application-test.properties,2,17,5
+JavaScript,/tmp/clone_directory/dubbo-admin-ui/babel.config.js,1,16,5
+Java,/tmp/clone_directory/dubbo-admin-test/src/main/java/org/apache/dubbo/admin/api/GreetingService.java,2,18,4
+Properties,/tmp/clone_directory/dubbo-admin-test/src/main/resources/spring/dubbo-provider.properties,1,18,4
+Java,/tmp/clone_directory/dubbo-admin-test/src/test/java/org/apache/dubbo/admin/pages/BasePage.java,3,18,4
+Bourne Shell,/tmp/clone_directory/docker/entrypoint.sh,0,0,3
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/ConnectionPoolSettings.java,3,16,3
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/destination/loadbalance/ConsistentHashLB.java,3,16,3
+Java,/tmp/clone_directory/dubbo-admin-server/src/main/java/org/apache/dubbo/admin/model/store/mesh/virtualservice/match/ListBoolMatch.java,3,16,3
+JSON,/tmp/clone_directory/dubbo-admin-ui/dubbo-admin-info.json,0,0,3
+JSON,/tmp/clone_directory/dubbo-admin-ui/public/dubbo-admin-info.json,0,0,3
+Markdown,/tmp/clone_directory/dubbo-admin-distribution/README.md,0,0,2
+Properties,/tmp/clone_directory/dubbo-admin-test/src/main/resources/spring/dubbo-consumer.properties,1,18,2
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,0,1
+Markdown,/tmp/clone_directory/charts/dubbo-admin/README.md,1,0,1
+Markdown,/tmp/clone_directory/docs/README.md,0,0,1
+SVG,/tmp/clone_directory/dubbo-admin-ui/src/components/public/assets/max_btn.svg,0,0,1
+SUM,,3520,5955,37065

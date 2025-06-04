@@ -1,0 +1,196 @@
+host: xb983
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job                        count
+-----------------------  -------
+all                            1
+exec_notebook                 10
+generate_csv_no_error          1
+generate_csv_with_error        1
+total                         13
+
+Select jobs to execute...
+Execute 2 jobs...
+
+[Thu Feb 27 14:57:24 2025]
+localrule generate_csv_with_error:
+    input: scripts/overview.py, data/converted_data, data/input_data/cloc_reports
+    output: data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv, data/log/log_daylight_witherror.txt
+    jobid: 3
+    reason: Missing output files: data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 14:57:24 2025]
+localrule generate_csv_no_error:
+    input: scripts/overview.py, data/converted_data, data/input_data/cloc_reports
+    output: data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/log/log_daylight_noerror.txt
+    jobid: 2
+    reason: Missing output files: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv
+    resources: tmpdir=/tmp
+
+[Thu Feb 27 15:04:07 2025]
+Finished job 2.
+1 of 13 steps (8%) done
+[Thu Feb 27 15:04:07 2025]
+Finished job 3.
+2 of 13 steps (15%) done
+Select jobs to execute...
+Execute 10 jobs...
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ2_NoError_Gradle_Tasks_Profile.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ2_NoError_Gradle_Tasks_Profile.ipynb
+    log: .snakemake/log/RQ2_NoError_Gradle_Tasks_Profile.log
+    jobid: 4
+    reason: Missing output files: analysis/result/RQ2_NoError_Gradle_Tasks_Profile.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ2_NoError_Gradle_Tasks_Profile
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ2_NoError_Maven_Tasks_Profile.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ2_NoError_Maven_Tasks_Profile.ipynb
+    log: .snakemake/log/RQ2_NoError_Maven_Tasks_Profile.log
+    jobid: 12
+    reason: Missing output files: analysis/result/RQ2_NoError_Maven_Tasks_Profile.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ2_NoError_Maven_Tasks_Profile
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ2_WithError_Gradle_Tasks_Profile.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ2_WithError_Gradle_Tasks_Profile.ipynb
+    log: .snakemake/log/RQ2_WithError_Gradle_Tasks_Profile.log
+    jobid: 9
+    reason: Missing output files: analysis/result/RQ2_WithError_Gradle_Tasks_Profile.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ2_WithError_Gradle_Tasks_Profile
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ2_WithError_Maven_Tasks_Profile.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ2_WithError_Maven_Tasks_Profile.ipynb
+    log: .snakemake/log/RQ2_WithError_Maven_Tasks_Profile.log
+    jobid: 7
+    reason: Missing output files: analysis/result/RQ2_WithError_Maven_Tasks_Profile.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ2_WithError_Maven_Tasks_Profile
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ3_NoError_GradleDifferentEnergyProfiles.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ3_NoError_GradleDifferentEnergyProfiles.ipynb
+    log: .snakemake/log/RQ3_NoError_GradleDifferentEnergyProfiles.log
+    jobid: 8
+    reason: Missing output files: analysis/result/RQ3_NoError_GradleDifferentEnergyProfiles.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ3_NoError_GradleDifferentEnergyProfiles
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ1_NoError_Overall_Tasks_Energy.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ1_NoError_Overall_Tasks_Energy.ipynb
+    log: .snakemake/log/RQ1_NoError_Overall_Tasks_Energy.log
+    jobid: 1
+    reason: Missing output files: analysis/result/RQ1_NoError_Overall_Tasks_Energy.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ1_NoError_Overall_Tasks_Energy
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ3_WithError_Maven_Different_Energy_Profiles.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ3_WithError_Maven_Different_Energy_Profiles.ipynb
+    log: .snakemake/log/RQ3_WithError_Maven_Different_Energy_Profiles.log
+    jobid: 11
+    reason: Missing output files: analysis/result/RQ3_WithError_Maven_Different_Energy_Profiles.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ3_WithError_Maven_Different_Energy_Profiles
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ3_NoError_Maven_Different_Energy_Profiles.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ3_NoError_Maven_Different_Energy_Profiles.ipynb
+    log: .snakemake/log/RQ3_NoError_Maven_Different_Energy_Profiles.log
+    jobid: 5
+    reason: Missing output files: analysis/result/RQ3_NoError_Maven_Different_Energy_Profiles.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ3_NoError_Maven_Different_Energy_Profiles
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ1_WithError_Overall_Tasks_Energy.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ1_WithError_Overall_Tasks_Energy.ipynb
+    log: .snakemake/log/RQ1_WithError_Overall_Tasks_Energy.log
+    jobid: 6
+    reason: Missing output files: analysis/result/RQ1_WithError_Overall_Tasks_Energy.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ1_WithError_Overall_Tasks_Energy
+    resources: tmpdir=/tmp
+
+
+[Thu Feb 27 15:04:07 2025]
+localrule exec_notebook:
+    input: analysis/RQ3_WithError_Gradle_Different_Energy_Profiles.ipynb, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_witherror.csv, data/output_data/all_tasks_witherror.csv
+    output: analysis/result/RQ3_WithError_Gradle_Different_Energy_Profiles.ipynb
+    log: .snakemake/log/RQ3_WithError_Gradle_Different_Energy_Profiles.log
+    jobid: 10
+    reason: Missing output files: analysis/result/RQ3_WithError_Gradle_Different_Energy_Profiles.ipynb; Input files updated by another job: data/output_data/all_tasks_noerror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/overview_daylight_witherror.csv; Set of input files has changed since last execution
+    wildcards: notebook=RQ3_WithError_Gradle_Different_Energy_Profiles
+    resources: tmpdir=/tmp
+
+[Thu Feb 27 15:04:20 2025]
+Finished job 9.
+3 of 13 steps (23%) done
+[Thu Feb 27 15:04:21 2025]
+Finished job 6.
+4 of 13 steps (31%) done
+[Thu Feb 27 15:04:21 2025]
+Finished job 4.
+5 of 13 steps (38%) done
+[Thu Feb 27 15:04:23 2025]
+Finished job 1.
+6 of 13 steps (46%) done
+[Thu Feb 27 15:04:25 2025]
+Finished job 10.
+7 of 13 steps (54%) done
+[Thu Feb 27 15:04:30 2025]
+Finished job 8.
+8 of 13 steps (62%) done
+[Thu Feb 27 15:04:30 2025]
+Finished job 7.
+9 of 13 steps (69%) done
+[Thu Feb 27 15:04:30 2025]
+Finished job 12.
+10 of 13 steps (77%) done
+[Thu Feb 27 15:04:37 2025]
+Finished job 11.
+11 of 13 steps (85%) done
+[Thu Feb 27 15:04:43 2025]
+Finished job 5.
+12 of 13 steps (92%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Thu Feb 27 15:04:43 2025]
+localrule all:
+    input: analysis/result/RQ1_NoError_Overall_Tasks_Energy.ipynb, analysis/result/RQ2_NoError_Gradle_Tasks_Profile.ipynb, analysis/result/RQ3_NoError_Maven_Different_Energy_Profiles.ipynb, analysis/result/RQ1_WithError_Overall_Tasks_Energy.ipynb, analysis/result/RQ2_WithError_Maven_Tasks_Profile.ipynb, analysis/result/RQ3_NoError_GradleDifferentEnergyProfiles.ipynb, analysis/result/RQ2_WithError_Gradle_Tasks_Profile.ipynb, analysis/result/RQ3_WithError_Gradle_Different_Energy_Profiles.ipynb, analysis/result/RQ3_WithError_Maven_Different_Energy_Profiles.ipynb, analysis/result/RQ2_NoError_Maven_Tasks_Profile.ipynb, data/output_data/overview_daylight_witherror.csv, data/output_data/overview_daylight_noerror.csv, data/output_data/all_tasks_witherror.csv, data/output_data/all_tasks_noerror.csv
+    jobid: 0
+    reason: Input files updated by another job: analysis/result/RQ3_WithError_Maven_Different_Energy_Profiles.ipynb, analysis/result/RQ3_WithError_Gradle_Different_Energy_Profiles.ipynb, analysis/result/RQ2_WithError_Gradle_Tasks_Profile.ipynb, data/output_data/all_tasks_noerror.csv, analysis/result/RQ3_NoError_Maven_Different_Energy_Profiles.ipynb, data/output_data/overview_daylight_noerror.csv, analysis/result/RQ2_WithError_Maven_Tasks_Profile.ipynb, analysis/result/RQ3_NoError_GradleDifferentEnergyProfiles.ipynb, analysis/result/RQ1_WithError_Overall_Tasks_Energy.ipynb, data/output_data/all_tasks_witherror.csv, analysis/result/RQ1_NoError_Overall_Tasks_Energy.ipynb, data/output_data/overview_daylight_witherror.csv, analysis/result/RQ2_NoError_Gradle_Tasks_Profile.ipynb, analysis/result/RQ2_NoError_Maven_Tasks_Profile.ipynb
+    resources: tmpdir=/tmp
+
+[Thu Feb 27 15:04:43 2025]
+Finished job 0.
+13 of 13 steps (100%) done
+Complete log: .snakemake/log/2025-02-27T145724.341606.snakemake.log

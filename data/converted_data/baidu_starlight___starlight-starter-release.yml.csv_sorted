@@ -1,0 +1,9 @@
+##[group]Run cd spring-cloud-starter-baidu-starlight, 232.39161531037288, , , , 27484830, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-release-plugin:3.0.1:prepare (default-cli) on project spring-cloud-starter-baidu-starlight: Can't release project due to non released dependencies :
+##[group]GITHUB_TOKEN Permissions, 65.3586766343893, , , , 5088783, False, 
+##[group]Fetching the repository, 25.146610824757232, , , , 652312, False, 
+Requested labels: self-hosted, 7.150095751892038, , , , 4710708, False, 
+##[group]Run actions/checkout@v3, 7.147760659037963, , , , 160990, False, 
+##[group]Run actions/create-release@v1, 5.144132768985284, , , , 1041128, False, 
+##[group]Run metcalfc/changelog-generator@v4.0.1, 4.207930389537443, , , , 389884, True, ##[error]Not Found
+##[group]Setting up auth, 3.8824910668225936, , , , 69409, False, 
+##[group]Cleaning the repository, 3.794316570450133, , , , 122716, False, 

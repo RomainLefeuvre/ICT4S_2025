@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 215.05246545973077, , , , 4667078, False, 
+##[group]Run wow-actions/auto-comment@v1, 13.56267937087618, , , , 1290976, True, ##[error]TypeError: Cannot read properties of undefined (reading 'includes')
+##[group]GITHUB_TOKEN Permissions, 12.386722506782796, , , , 5361612, False, 
+##[group]Pull down action image 'alexanderwert/assign-one-project-github-action:1.2.2', 7.572852724020599, , , , 5522883, False, 
+##[group]Run actions/github-script@v7__dup_5, 3.1337853510741223, , , , 435780, True, ##[error]Unhandled error: HttpError: Not Found
+##[group]Run actions/github-script@v7, 2.989243507555487, , , , 543364, True, ##[error]Unhandled error: HttpError: Not Found

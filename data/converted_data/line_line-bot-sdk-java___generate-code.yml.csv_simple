@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run python generate-code.py,712.2301281195147,52586677,False,
+##[group]GITHUB_TOKEN Permissions,378.3461325843597,2179660,False,
+##[group]Fetching the repository,147.90136687792787,439675,False,
+##[group]Removing previously created refs_ to avoid conflicts,104.01217042427848,411065,False,
+##[group]Fetching submodules,63.01294911834218,184423,False,
+##[group]Cleaning the repository,55.30814438400012,123693,False,
+##[group]Installed distributions,37.28507810992764,27203,False,
+##[group]Persisting credentials for submodules,32.33198935213631,136259,False,
+##[group]Run actions/checkout@v4,24.62718461779425,153247,False,
+Requested labels: self-hosted,2.0604201207387773,4185312,False,

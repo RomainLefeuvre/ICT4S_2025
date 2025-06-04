@@ -1,0 +1,6 @@
+##[group]GITHUB_TOKEN Permissions, 148.2738025260196, , , , 1997187, False, 
+Requested labels: self-hosted, 34.5226270577013, , , , 5082865, False, 
+##[group]Fetching the repository, 21.77204118934584, , , , 797457, False, 
+##[group]Run gradle/wrapper-validation-action@v2, 17.019622054842593, , , , 351562, False, 
+##[group]Setting up auth, 2.163162115877084, , , , 52075, False, 
+##[group]Run actions/checkout@v4, 2.0390858863679404, , , , 138589, False, 

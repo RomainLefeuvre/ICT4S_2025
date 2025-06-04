@@ -1,0 +1,515 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.18 s (2877.7 files/s 225792.5 lines/s)"
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/DAOTest.java,66,74,541
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/UserJSONImpl.java,85,42,506
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/StatusJSONImpl.java,66,23,420
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/TwitterStreamImpl.java,51,95,415
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/HTMLEntity.java,20,53,401
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/ListsResourcesImpl.java,87,0,374
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSONObject.java,66,510,366
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/StatusStreamBase.java,56,24,364
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSONTokener.java,66,259,344
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpClient.java,27,12,317
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/OAuthAuthorization.java,47,211,292
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSONArray.java,53,399,276
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/Configuration.java,57,147,272
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/ListResourcesTest.java,52,39,263
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/MediaEntityJSONImpl.java,52,25,259
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpParameter.java,42,44,258
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/PropertyConfiguration.java,30,24,255
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/UsersResourcesTest.java,45,29,254
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/DirectMessageJSONImpl.java,28,31,236
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/TwitterException.java,35,123,232
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/FriendsFollowersResourcesTest.java,36,37,230
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TweetsResourcesImpl.java,39,10,227
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/StreamAPITest.java,44,21,224
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/APIResourceBase.java,21,17,223
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/TweetsResourcesTest.java,50,30,217
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSONImplFactory.java,45,47,215
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/PlaceJSONImpl.java,31,23,211
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/OAuthTest.java,42,30,209
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/UserListJSONImpl.java,27,22,201
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSONStringer.java,52,195,199
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/UsersResourcesImpl.java,42,0,186
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/HTMLEntityTest.java,36,50,184
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/TwitterImpl.java,28,28,179
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/QueryResultJSONImpl.java,29,23,176
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/RelationshipJSONImpl.java,28,23,174
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/FriendsFollowersResourcesImpl.java,42,0,166
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpResponse.java,19,58,159
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/ParseUtil.java,25,29,158
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TrendsJSONImpl.java,21,25,158
+Java,/tmp/clone_directory/twitter4j-core/src/jmx/java/twitter4j/management/APIStatisticsOpenMBean.java,27,32,152
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/StatusJSONImplTest.java,56,20,150
+Text,/tmp/clone_directory/LICENSE.txt,28,0,149
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/ApplicationOnlyAuthTest.java,35,32,149
+Text,/tmp/clone_directory/twitter4j-examples/src/main/resources/META-INF/LICENSE.txt,26,0,149
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/management/MBeansTest.java,36,42,148
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TwitterObjectFactory.java,23,157,145
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/TwitterTestBase.java,28,23,142
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/TimeSpanConverter.java,11,45,133
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TwitterV1Impl.java,21,0,129
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/RateLimitStatusJSONImpl.java,22,21,128
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Query.java,29,153,126
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/ListsResources.java,83,978,123
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/DirectMessagesResourcesImpl.java,20,1,121
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TimelinesResourcesImpl.java,30,22,120
+Text,/tmp/clone_directory/contributors.txt,0,0,119
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/OAuth2Authorization.java,30,75,119
+Gradle,/tmp/clone_directory/twitter4j-core/build.gradle,11,0,116
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/ConfigurationTest.java,35,22,116
+SVG,/tmp/clone_directory/logo/twitter4j-logo.svg,0,1,115
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/JSONObjectType.java,6,35,115
+Bourne Shell,/tmp/clone_directory/package.sh,21,10,113
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/LocationJSONImpl.java,17,20,111
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/SearchAPITest.java,20,17,110
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/SavedSearchJSONImpl.java,18,22,108
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/util/TimeSpanConverterTest.java,18,19,106
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/FriendshipJSONImpl.java,16,20,104
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/OEmbedJSONImpl.java,18,24,103
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/OEmbedRequest.java,19,117,101
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/AccountSettingsJSONImpl.java,17,20,100
+Bourne Shell,/tmp/clone_directory/gradlew,27,108,99
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/StatusUpdate.java,20,107,98
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/PagingTest.java,13,23,94
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/UploadedMediaImpl.java,21,24,94
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/URLEntityJSONImpl.java,24,26,93
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Paging.java,17,71,93
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/oauth/GetAccessToken.java,6,26,93
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/TimelineResourcesTest.java,13,22,92
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/IDsJSONImpl.java,16,20,91
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSON.java,8,18,89
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/FilterQuery.java,22,106,88
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/UserMentionEntityJSONImpl.java,21,22,87
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/GeoQuery.java,21,91,87
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/QuotedStatusPermalinkJSONImpl.java,21,22,82
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/StatusStreamImpl.java,17,21,77
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/User.java,62,259,77
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpRequest.java,21,27,74
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/ExceptionDiagnosis.java,19,19,70
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/OAuthToken.java,16,22,70
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/PrintFilterStream.java,13,29,70
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/EntitiesParseUtil.java,7,6,69
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/OAuth2Token.java,15,34,69
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/UserJSONImplTest.java,17,17,69
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/AccountTotalsJSONImpl.java,17,19,69
+Java,/tmp/clone_directory/twitter4j-core/src/jmx/java/twitter4j/management/APIStatistics.java,19,32,68
+Gradle,/tmp/clone_directory/build.gradle,7,0,66
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Markdown,/tmp/clone_directory/README.md,20,0,65
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/PlacesGeoResourcesImpl.java,12,0,65
+Java,/tmp/clone_directory/twitter4j-core/src/jmx/java/twitter4j/management/InvocationStatisticsCalculator.java,16,24,64
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/MediaEntityJSONImplTest.java,31,13,64
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/TwitterTest.java,14,21,64
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/LanguageJSONImpl.java,11,20,62
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TrendJSONImpl.java,13,21,62
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/HashtagEntityJSONImpl.java,19,22,61
+Java,/tmp/clone_directory/twitter4j-core/src/logging/java/twitter4j/JULLogger.java,16,19,60
+Java,/tmp/clone_directory/twitter4j-core/src/logging/java/twitter4j/Log4JLogger.java,16,19,59
+Java,/tmp/clone_directory/twitter4j-core/src/logging/java/twitter4j/SLF4JLogger.java,16,19,59
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/AccessToken.java,15,35,59
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/PlaceGeoResourcesTest.java,13,21,58
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/FriendsFollowersResources.java,41,475,57
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/Twitter.java,23,58,56
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/BASE64Encoder.java,4,21,53
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/SearchResourceImpl.java,9,0,52
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/StallWarningImpl.java,12,29,50
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/StatusDeletionNoticeImpl.java,15,21,50
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/util/CharacterUtilTest.java,13,19,48
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/DirectMessagesResourcesTest.java,14,24,48
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/FavoritesResourcesImpl.java,12,0,47
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpResponseEvent.java,17,33,46
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/KryoSerializationTest.java,9,0,44
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/geo/SearchPlaces.java,3,25,43
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/PostParameterTest.java,13,18,42
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/TwitterAPIMonitor.java,12,34,41
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/JSONObjectTypeTest.java,15,6,41
+Text,/tmp/clone_directory/twitter4j-examples/bin/readme.txt,6,0,41
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/json/SaveRawJSON.java,5,26,41
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/QuickReply.java,9,34,40
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/UsersResources.java,37,359,40
+Java,/tmp/clone_directory/twitter4j-core/src/logging/java/twitter4j/Logger.java,19,78,38
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/geo/ReverseGeoCode.java,3,25,38
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/RateLimitStatusJSONImplTest.java,9,19,37
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/SavedSearchesResourcesTest.java,7,24,37
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/GeoLocation.java,9,33,37
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/PrintFirehoseStream.java,8,26,37
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/PrintLinksStream.java,8,26,37
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/PrintRetweetStream.java,8,26,37
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/PrintSampleStream.java,8,28,37
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/ObjectFactory.java,33,20,36
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/TwitterExceptionTest.java,17,19,36
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Status.java,33,187,36
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/UploadMultipleImages.java,6,25,36
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/geo/GetGeoDetails.java,3,25,35
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/user/SearchUsers.java,3,26,35
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/PagableResponseListImpl.java,11,19,34
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/ResponseListImpl.java,10,19,34
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/FavoritesResourcesTest.java,5,20,34
+Gradle,/tmp/clone_directory/twitter4j-core/module-info/build.gradle,3,0,33
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/json/LoadRawJSON.java,5,25,33
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/ShowUserListMembership.java,3,25,33
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/ShowUserListSubscription.java,3,25,33
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/directmessage/GetDirectMessages.java,3,25,32
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/GetUserListStatuses.java,3,25,32
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/search/SearchTweets.java,4,25,32
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/user/LookupUsers.java,3,26,31
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/SavedSearchesResourcesImpl.java,9,0,30
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/MediaEntity.java,19,101,30
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/GetUserListMemberships.java,3,25,30
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/GetUserListSubscriptions.java,3,25,30
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TimeZoneJSONImpl.java,9,18,29
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendsandfollowers/GetFollowersIDs.java,3,25,29
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendsandfollowers/GetFriendsIDs.java,3,25,29
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/LookupFriendships.java,3,25,29
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/GetUserListMembers.java,3,25,29
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/GetUserListSubscribers.java,3,25,29
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/timeline/GetUserTimeline.java,4,26,29
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/DataObjectFactoryTest.java,8,6,28
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/EntityIndex.java,8,18,28
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/account/GetAccountSettings.java,3,25,28
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/trends/GetPlaceTrends.java,5,10,28
+YAML,/tmp/clone_directory/.github/workflows/gradle.yml,5,2,27
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/MBeanServerRunner.java,5,22,27
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/StatusSerializationTest.java,9,26,27
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/HelpResourcesImpl.java,7,1,27
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/block/GetBlockingUsers.java,4,27,27
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/GetRetweets.java,4,25,27
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/TwitterResponseImpl.java,10,23,26
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/NullAuthorization.java,11,20,26
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/StringUtil.java,5,19,26
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/SizeofStatusChecker.java,4,19,26
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/account/GetRateLimitStatus.java,4,25,26
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/ShowFriendship.java,3,25,26
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/CreateUserList.java,3,25,26
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/GetUserLists.java,3,25,26
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/user/ShowUser.java,3,26,26
+XML,/tmp/clone_directory/twitter4j-examples/bin/logback.xml,1,6,25
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/GetIncomingFriendships.java,3,25,25
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/GetOutgoingFriendships.java,3,25,25
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/TrendsResourcesTest.java,4,19,24
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/DirectMessageListImpl.java,9,19,24
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/TrendsResourcesImpl.java,6,0,24
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/DirectMessagesResources.java,16,131,24
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/UpdateFriendship.java,3,25,24
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/trends/GetAvailableTrends.java,3,25,24
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/ParseUtilTest.java,9,19,23
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/GeoQueryTest.java,6,19,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/directmessage/SendDirectMessage.java,3,26,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/directmessage/ShowDirectMessage.java,3,25,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/ShowUserList.java,3,25,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/savedsearches/CreateSavedSearch.java,3,25,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/savedsearches/DestroySavedSearch.java,3,25,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/savedsearches/ShowSavedSearch.java,3,25,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/timeline/GetHomeTimeline.java,4,26,23
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/timeline/GetMentions.java,4,26,23
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/RequestToken.java,7,33,22
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/TweetsResources.java,17,175,22
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/account/UpdateProfileImage.java,4,25,22
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/favorite/GetFavorites.java,4,25,22
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/DestroyUserList.java,3,25,22
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/savedsearches/GetSavedSearches.java,4,25,22
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/RetweetStatus.java,3,25,22
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/ShowStatus.java,3,25,22
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/RateLimitStatusEvent.java,11,36,21
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/StatusAdapter.java,7,19,21
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/SpamReportingResourceImpl.java,5,0,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/account/UpdateProfile.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/block/CreateBlock.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/block/DestroyBlock.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/block/GetBlockingUsersIDs.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/directmessage/DestroyDirectMessage.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/favorite/CreateFavorite.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/favorite/DestroyFavorite.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/CreateFriendship.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/DestroyFriendship.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/CreateUserListMember.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/CreateUserListMembers.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/CreateUserListSubscription.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/DeleteUserListMember.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/DestroyUserListSubscription.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/UpdateUserList.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/mute/GetMutingUsersIDs.java,2,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/DestroyStatus.java,3,25,21
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/UpdateStatus.java,3,26,21
+Java,/tmp/clone_directory/twitter4j-core/src/testv1/java/twitter4j/HelpResoursesTest.java,3,19,20
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpResponseCode.java,2,67,19
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/spamreporting/ReportSpam.java,3,25,19
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/UserList.java,15,79,18
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/account/VerifyCredentials.java,3,25,18
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/PrintRawSampleStream.java,3,28,18
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/BASE64EncoderTest.java,5,18,17
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Place.java,14,43,17
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Relationship.java,18,91,17
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/TwitterV1.java,14,58,17
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/setEnv.sh,5,0,17
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/lambda/RateLimitLambda.java,3,23,17
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/ScopesImpl.java,8,22,16
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/TimelinesResources.java,14,154,16
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/StreamingGZIPInputStream.java,5,27,15
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/TwitterResponse.java,7,49,15
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/MBeansIntegrationTest.java,4,22,15
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/AccountSettings.java,13,76,15
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/Version.java,5,26,14
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/TwitterStream.java,10,78,14
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/HelpResources.java,10,67,14
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/QueryResult.java,12,53,14
+Java,/tmp/clone_directory/twitter4j-core/src/json/java/twitter4j/JSONException.java,7,39,13
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/CharacterUtil.java,6,34,13
+Java,/tmp/clone_directory/twitter4j-core/src/test/java/twitter4j/StringUtilTest.java,5,19,13
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/DirectMessage.java,13,47,13
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/IDs.java,8,23,13
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/UserMentionEntity.java,8,51,13
+Gradle,/tmp/clone_directory/twitter4j-examples/build.gradle,3,0,13
+XML,/tmp/clone_directory/twitter4j-core/src/test/resources/logback.xml,1,0,12
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/FavoritesResources.java,10,95,12
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/PagableResponseList.java,7,20,12
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/URLEntity.java,8,52,12
+YAML,/tmp/clone_directory/.github/FUNDING.yml,1,1,11
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/OEmbed.java,12,62,11
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/UploadedMedia.java,9,45,11
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/lambda/TwitterStreamLambda.java,4,23,11
+Java,/tmp/clone_directory/twitter4j-core/module-info/src/main/java/module-info.java,0,3,10
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Location.java,8,39,10
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/SavedSearch.java,9,36,10
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/SavedSearchesResources.java,6,57,10
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Trends.java,9,38,10
+Java,/tmp/clone_directory/twitter4j-core/src/jmx/java/twitter4j/management/InvocationStatistics.java,6,42,9
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/HashtagEntity.java,4,36,9
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/StatusStream.java,6,26,8
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/StatusListener.java,7,53,8
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/AccountTotals.java,6,39,8
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/CursorSupport.java,6,37,8
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/EntitySupport.java,5,49,8
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Friendship.java,6,34,8
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/SymbolEntity.java,3,29,8
+Java,/tmp/clone_directory/twitter4j-core/src/jmx/java/twitter4j/management/APIStatisticsMBean.java,4,32,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/PlacesGeoResources.java,5,53,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/RateLimitStatus.java,6,48,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/ResponseList.java,6,21,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/SpamReportingResource.java,5,38,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/TimeZone.java,4,27,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Trend.java,6,35,7
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/TrendsResources.java,5,53,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/account/getAccountSettings.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/account/getRateLimitStatus.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/account/updateProfile.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/account/updateProfileImage.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/account/verifyCredentials.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/block/createBlock.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/block/destroyBlock.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/block/getBlockingUsers.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/block/getBlockingUsersIDs.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/directmessage/destroyDirectMessage.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/directmessage/getDirectMessages.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/directmessage/sendDirectMessage.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/directmessage/showDirectMessage.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/favorite/createFavorite.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/favorite/destroyFavorite.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/favorite/getFavorites.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendsandfollowers/getFollowersIDs.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendsandfollowers/getFriendsIDs.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/createFriendship.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/destroyFriendship.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/getIncomingFriendships.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/getOutgoingFriendships.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/lookupFriendships.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/showFriendship.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/friendship/updateFriendship.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/geo/getGeoDetails.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/geo/reverseGeoCode.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/geo/searchPlaces.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/json/loadRawJSON.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/json/saveRawJSON.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/addUserListMember.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/createUserList.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/createUserListMembers.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/createUserListSubscription.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/deleteUserListMember.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/destroyUserList.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/destroyUserListSubscription.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getAllUserLists.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListMembers.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListMemberships.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListStatuses.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListSubscribers.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListSubscriptions.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/getUserLists.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/showUserList.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/showUserListMembership.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/showUserListSubscription.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/list/updateUserList.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/mute/getMutingUsersIDs.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/createSavedSearch.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/destroySavedSearch.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/getSavedSearches.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/showSavedSearch.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/search/searchTweets.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/spamreporting/reportSpam.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/stream/printFilterStream.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/stream/printFirehoseStream.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/stream/printLinksStream.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/stream/printRawSampleStream.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/stream/printRetweetStream.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/stream/printSampleStream.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/timeline/getHomeTimeline.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/timeline/getMentions.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/timeline/getUserTimeline.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/trends/getAvailableTrends.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/trends/getLocationTrends.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/tweets/destroyStatus.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/tweets/getRetweets.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/tweets/retweetStatus.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/tweets/showStatus.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/tweets/updateStatus.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/user/lookupUsers.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/user/searchUsers.cmd,2,0,7
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/user/showUser.cmd,2,0,7
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/StallWarning.java,3,12,6
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/streamingapi-testcase.json,0,0,6
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/ConnectionLifeCycleListener.java,4,28,6
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/RateLimitStatusListener.java,5,29,6
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/TweetEntity.java,3,36,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/account/getAccountSettings.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/account/getRateLimitStatus.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/account/updateProfile.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/account/updateProfileImage.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/account/verifyCredentials.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/block/createBlock.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/block/destroyBlock.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/block/getBlockingUsers.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/block/getBlockingUsersIDs.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/directmessage/destroyDirectMessage.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/directmessage/getDirectMessages.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/directmessage/sendDirectMessage.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/directmessage/showDirectMessage.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/favorite/createFavorite.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/favorite/destroyFavorite.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/favorite/getFavorites.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendsandfollowers/getFollowersIDs.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendsandfollowers/getFriendsIDs.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/createFriendship.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/destroyFriendship.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/getIncomingFriendships.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/getOutgoingFriendships.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/lookupFriendships.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/showFriendship.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/friendship/updateFriendship.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/geo/getGeoDetails.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/geo/reverseGeoCode.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/geo/searchPlaces.sh,1,0,6
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/getAccessToken.cmd,2,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/json/loadRawJSON.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/json/saveRawJSON.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/addUserListMember.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/createUserList.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/createUserListMembers.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/createUserListSubscription.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/deleteUserListMember.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/destroyUserList.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/destroyUserListSubscription.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getAllUserLists.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListMembers.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListMemberships.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListStatuses.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListSubscribers.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getUserListSubscriptions.sh,2,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/getUserLists.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/showUserList.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/showUserListMembership.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/showUserListSubscription.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/list/updateUserList.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/mute/getMutingUsersIDs.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/createSavedSearch.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/destroySavedSearch.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/getSavedSearches.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/savedsearches/showSavedSearch.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/search/searchTweets.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/spamreporting/reportSpam.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/stream/printFilterStream.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/stream/printFirehoseStream.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/stream/printLinksStream.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/stream/printRawSampleStream.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/stream/printRetweetStream.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/stream/printSampleStream.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/timeline/getHomeTimeline.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/timeline/getMentions.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/timeline/getUserTimeline.sh,0,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/trends/getAvailableTrends.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/trends/getLocationTrends.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/tweets/destroyStatus.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/tweets/getRetweets.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/tweets/retweetStatus.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/tweets/showStatus.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/tweets/updateStatus.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/user/lookupUsers.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/user/searchUsers.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/user/showUser.sh,1,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/Authorization.java,3,29,5
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/streamingapi-event-testcase.json,0,0,5
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/Scopes.java,5,26,5
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/SearchResource.java,3,29,5
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/StatusDeletionNotice.java,4,28,5
+Text,/tmp/clone_directory/readme-libs.txt,1,0,4
+Gradle,/tmp/clone_directory/settings.gradle,0,0,4
+Java,/tmp/clone_directory/twitter4j-core/module-info/src/main/java/twitter4j/Dummy.java,1,0,4
+Java,/tmp/clone_directory/twitter4j-core/module-info/src/main/java/twitter4j/management/Dummy.java,1,0,4
+Java,/tmp/clone_directory/twitter4j-core/module-info/src/main/java/twitter4j/v1/Dummy.java,1,0,4
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/HttpResponseListener.java,3,3,4
+Java,/tmp/clone_directory/twitter4j-core/src/http/java/twitter4j/RequestMethod.java,2,18,4
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/RawStreamListener.java,1,22,4
+Java,/tmp/clone_directory/twitter4j-core/src/stream/java/twitter4j/v1/StreamListener.java,2,22,4
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/sitestream-testcase.json,0,0,4
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/DirectMessageList.java,2,11,4
+Bourne Shell,/tmp/clone_directory/twitter4j-examples/bin/getAccessToken.sh,1,0,4
+Properties,/tmp/clone_directory/twitter4j-examples/bin/twitter4j.properties,0,0,4
+DOS Batch,/tmp/clone_directory/twitter4j-examples/bin/setEnv.cmd,2,0,3
+Properties,/tmp/clone_directory/twitter4j-core/src/test/resources/junit-platform.properties,0,12,2
+Properties,/tmp/clone_directory/twitter4j-core/src/test/resources/logging.properties,0,0,2
+Properties,/tmp/clone_directory/twitter4j-core/src/test/resources/twitter4j.properties,0,0,2
+Java,/tmp/clone_directory/twitter4j-core/src/jmx/java/twitter4j/management/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-core/src/main/java/twitter4j/package-info.java,0,3,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/24696018620.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/3c6797665e2d42eb.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/5a110d312052166f.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/c3f37afa9efcf94b.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/direct_messages.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/reverse-geocode.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/followers/T4J_hudson.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/friends/T4J_hudson.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/home_timeline.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/public_timeline.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/retweet/2245071380.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/retweet/6010814202.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/statuses/user_timeline/testiverse.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/suggestions.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/trends-available.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/trends/current.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/trends/daily-empty.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/trends/daily.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/trends/weekly.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/dao/user.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/error.json,0,0,1
+JSON,/tmp/clone_directory/twitter4j-core/src/test/resources/stallwarning.json,0,0,1
+Java,/tmp/clone_directory/twitter4j-core/src/v1/java/twitter4j/v1/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/account/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/block/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/directmessage/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/favorite/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendsandfollowers/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/friendship/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/geo/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/json/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/list/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/mute/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/oauth/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/savedsearches/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/search/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/spamreporting/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/stream/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/timeline/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/trends/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/tweets/package-info.java,0,3,1
+Java,/tmp/clone_directory/twitter4j-examples/src/main/java/examples/user/package-info.java,0,3,1
+SUM,,4650,12999,22603

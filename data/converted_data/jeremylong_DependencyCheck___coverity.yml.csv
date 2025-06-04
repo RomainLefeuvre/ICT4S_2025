@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 1.0607475219372644, , , , 4006620, False, 
+##[group]GITHUB_TOKEN Permissions, 15.799833769435, , , , 2257570, False, 
+##[group]Run actions/checkout@v4, 0.8883795082354217, , , , 171055, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 0.902767380657719, , , , 25327, False, 
+##[group]Cleaning the repository, 1.8486983785823297, , , , 187305, False, 
+##[group]Setting up auth, 0.9459309979246106, , , , 153359, False, 
+##[group]Fetching the repository, 4.945473075957511, , , , 461673, False, 
+##[group]Run wget https://scan.coverity.com/download/linux64 --no-verbose --post-data "token=&project=jeremylong%2FDependencyCheck" -O coverity_tool.tgz, 7.930813375901318, , , , 714718, True, ##[error]Process completed with exit code 6.
+##[group]Run export PATH=`pwd`/coverity_tool/bin:$PATH, 1.1905248291036632, , , , 23002, True, ##[error]Process completed with exit code 127.
+##[group]Run tar czvf scan.tgz cov-int, 6.168442231852774, , , , 511800, True, ##[error]Process completed with exit code 2.

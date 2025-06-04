@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew build,183.49453618040235,38099566,False,
+> Task :testClasses,154.28197659792548,9299774,False,
+##[group]Run actions/setup-java@v1,101.2583157451984,20968301,False,
+> Task :test,33.10079771728295,1000029,False,
+> Task :compileTestJava,17.798321142584477,2300126,False,
+> Task :jacocoTestCoverageVerification,13.446287845368955,401862,False,
+##[group]Run actions/upload-artifact@v1,11.551496155359253,2933455,False,
+> Task :assemble,6.116337336612701,5699944,False,
+##[group]GITHUB_TOKEN Permissions,1.5978422358392064,2197584,False,
+> Task :classes,1.2073664205034988,99848,False,
+##[group]Run actions/checkout@v1,1.0948579770675704,988243,False,
+Requested labels: self-hosted,0.0,4014915,False,

@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,70.59195434512654,3858845,False,
+##[group]GITHUB_TOKEN Permissions,65.86200297525029,3553584,False,
+##[group]Run javadoc @.javadoc || true,33.872344037674935,3592664,False,
+##[group]Fetching the repository,19.283663180114104,1376126,False,
+##[group]Run actions/setup-java@v2,3.7346812272371217,239823,False,
+##[group]Run actions/checkout@v2,3.0354200690426514,184018,False,
+##[group]Run JamesIves/github-pages-deploy-action@4.1.5,1.6255655022252555,2990373,False,
+##[group]Setting up auth,1.494325780911987,65840,False,

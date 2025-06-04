@@ -1,0 +1,14 @@
+Requested labels: self-hosted, 0.0, , , , 5787480, False, 
+##[group]GITHUB_TOKEN Permissions, 17.29979306826552, , , , 5584618, False, 
+##[group]Run actions/checkout@v4, 1.6384363315112125, , , , 175620, False, 
+##[group]Getting Git version info, 1.5982256674675006, , , , 2953, False, 
+##[group]Fetching the repository, 6.181648455370476, , , , 2495892, False, 
+##[group]Determining the checkout info, 1.096802593267006, , , , 44549, False, 
+##[group]Checking out the ref, 3.241162921751457, , , , 303486, False, 
+##[group]Run gradle/actions/wrapper-validation@v3, 4.108156177453846, , , , 384223, False, 
+##[group]Run gradle/actions/setup-gradle@v3, 3.9440066506219775, , , , 415906, False, 
+##[group]Restore Gradle state from cache, 4.334966278511946, , , , 1646994, False, 
+##[group]Run ./gradlew tasks, 1229.4638486512283, , , , 67874561, False, 
+##[group]Run ./gradlew assemble, 130.26562133589815, , , , 4578891, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew check, 120.17213507973229, , , , 4148426, True, ##[error]Process completed with exit code 1.
+##[group]Caching Gradle state, 154.23673826577917, , , , 11604686, False, 

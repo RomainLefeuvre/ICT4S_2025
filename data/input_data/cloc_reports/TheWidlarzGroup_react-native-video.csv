@@ -1,0 +1,377 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.08 s (4547.6 files/s 354519.6 lines/s)"
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ReactExoplayerView.java,253,112,1985
+Swift,/tmp/clone_directory/ios/Video/RCTVideo.swift,251,56,1349
+TypeScript,/tmp/clone_directory/examples/basic/src/VideoPlayer.tsx,53,4,777
+Markdown,/tmp/clone_directory/docs/pages/component/props.mdx,329,0,597
+TypeScript,/tmp/clone_directory/src/Video.tsx,52,3,567
+TypeScript,/tmp/clone_directory/examples/FabricExample/src/VideoPlayer.tsx,36,0,521
+Markdown,/tmp/clone_directory/CHANGELOG.md,197,0,478
+Markdown,/tmp/clone_directory/docs/pages/component/events.mdx,174,0,427
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/react/VideoEventEmitter.java,69,2,407
+Swift,/tmp/clone_directory/ios/Video/Features/RCTVideoUtils.swift,67,22,365
+TypeScript,/tmp/clone_directory/src/specs/VideoNativeComponent.ts,48,9,355
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ReactExoplayerViewManager.java,53,0,328
+Swift,/tmp/clone_directory/ios/Video/Features/RCTPlayerObserver.swift,54,8,270
+TypeScript,/tmp/clone_directory/src/types/video.ts,30,2,234
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ExoPlayerView.java,50,22,225
+TypeScript,/tmp/clone_directory/examples/basic/src/VideoPlayer.windows.tsx,21,0,219
+C++,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactVideoView.cpp,34,2,218
+Swift,/tmp/clone_directory/ios/Video/NowPlayingInfoCenterManager.swift,55,10,216
+Visual Studio Solution,/tmp/clone_directory/windows/ReactNativeVideoCPP62.sln,1,1,207
+Visual Studio Solution,/tmp/clone_directory/examples/basic/windows/VideoPlayer.sln,1,1,203
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/videoplayer.vcxproj,0,0,196
+JavaScript,/tmp/clone_directory/examples/embed-and-fullscreen/index.windows.js,23,0,187
+Visual Studio Solution,/tmp/clone_directory/windows/ReactNativeVideoCPP.sln,1,1,185
+TypeScript,/tmp/clone_directory/src/types/language.ts,0,0,184
+Gradle,/tmp/clone_directory/android/build.gradle,47,20,169
+TypeScript,/tmp/clone_directory/examples/basic/src/styles.tsx,2,0,165
+Swift,/tmp/clone_directory/ios/Video/Features/RCTIMAAdsManager.swift,35,19,165
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactNativeVideoCPP.vcxproj,0,1,165
+Visual Studio Solution,/tmp/clone_directory/windows/ReactNativeVideoCPP61.sln,1,1,165
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/Source.kt,27,29,163
+Swift,/tmp/clone_directory/ios/Video/Features/RCTPlayerOperations.swift,21,16,162
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP61/ReactNativeVideoCPP61.vcxproj,0,1,160
+Objective-C,/tmp/clone_directory/ios/VideoCaching/RCTVideoCache.m,17,2,156
+Swift,/tmp/clone_directory/ios/Video/Features/RCTResourceLoaderDelegate.swift,28,5,153
+YAML,/tmp/clone_directory/.github/workflows/build-ios.yml,16,0,150
+TypeScript,/tmp/clone_directory/src/types/events.ts,5,119,142
+Markdown,/tmp/clone_directory/docs/pages/component/drm.mdx,46,0,136
+Swift,/tmp/clone_directory/ios/Video/Features/RCTVideoDRM.swift,27,1,133
+XML,/tmp/clone_directory/examples/video-caching/ios/VideoCaching.xcodeproj/xcshareddata/xcschemes/VideoCaching-tvOS.xcscheme,0,0,129
+XML,/tmp/clone_directory/examples/video-caching/ios/VideoCaching.xcodeproj/xcshareddata/xcschemes/VideoCaching.xcscheme,0,0,129
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/VideoPlaybackService.kt,26,3,128
+Bourne Again Shell,/tmp/clone_directory/examples/video-caching/android/gradlew,20,21,123
+Markdown,/tmp/clone_directory/docs/pages/component/methods.mdx,79,0,121
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/FullScreenPlayerView.java,22,0,114
+Markdown,/tmp/clone_directory/docs/pages/installation.md,63,0,114
+JavaScript,/tmp/clone_directory/examples/embed-and-fullscreen/.vscode/.react/debuggerWorker.js,11,22,111
+TypeScript,/tmp/clone_directory/examples/basic/src/components/Seeker.tsx,15,33,106
+Bourne Shell,/tmp/clone_directory/examples/basic/android/gradlew,28,116,105
+XML,/tmp/clone_directory/examples/embed-and-fullscreen/ios/VideoPlayer.xcodeproj/xcshareddata/xcschemes/VideoPlayer-tvOS.xcscheme,0,0,105
+XML,/tmp/clone_directory/examples/embed-and-fullscreen/ios/VideoPlayer.xcodeproj/xcshareddata/xcschemes/VideoPlayer.xcscheme,0,0,105
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/react/VideoDecoderPropertiesModule.java,22,2,102
+Swift,/tmp/clone_directory/ios/Video/Features/RCTVideoErrorHandling.swift,11,2,101
+Objective-C++,/tmp/clone_directory/examples/FabricExample/ios/FabricExample/AppDelegate.mm,28,6,99
+Bourne Shell,/tmp/clone_directory/examples/exampletvOS/android/gradlew,27,108,99
+C++,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactVideoViewManager.cpp,14,5,94
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/toolbox/ReactBridgeUtils.kt,20,19,92
+JavaScript,/tmp/clone_directory/examples/video-caching/App.ios.js,7,5,92
+YAML,/tmp/clone_directory/windows/.clang-format,0,0,92
+XML,/tmp/clone_directory/examples/FabricExample/ios/FabricExample.xcodeproj/xcshareddata/xcschemes/FabricExample.xcscheme,0,0,88
+XML,/tmp/clone_directory/examples/basic/ios/videoplayer.xcodeproj/xcshareddata/xcschemes/videoplayer.xcscheme,0,0,88
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS.xcodeproj/xcshareddata/xcschemes/exampletvOS-tvOS.xcscheme,0,0,88
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS.xcodeproj/xcshareddata/xcschemes/exampletvOS.xcscheme,0,0,88
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug-report.yml,8,0,84
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/BufferConfig.kt,10,5,83
+Objective-C,/tmp/clone_directory/ios/Video/RCTVideoManager.m,11,1,83
+Swift,/tmp/clone_directory/ios/Video/RCTVideoManager.swift,16,0,83
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/AspectRatioFrameLayout.java,18,51,80
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/DataSourceUtil.java,17,0,79
+JSON,/tmp/clone_directory/examples/embed-and-fullscreen/.vscode/launch.json,0,0,79
+Gradle,/tmp/clone_directory/examples/exampletvOS/android/app/build.gradle,22,78,76
+Gradle,/tmp/clone_directory/examples/FabricExample/android/app/build.gradle,20,75,75
+Swift,/tmp/clone_directory/ios/Video/Features/RCTPictureInPicture.swift,15,1,73
+YAML,/tmp/clone_directory/.github/workflows/build-android.yml,9,0,71
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/toolbox/DebugLog.kt,17,8,71
+Gradle,/tmp/clone_directory/examples/basic/android/app/build.gradle,16,60,70
+XML,/tmp/clone_directory/android/src/main/res/layout/exo_legacy_player_control_view.xml,13,0,69
+DOS Batch,/tmp/clone_directory/examples/basic/android/gradlew.bat,21,2,69
+JSON,/tmp/clone_directory/package.json,0,0,69
+JavaScript,/tmp/clone_directory/examples/embed-and-fullscreen/index.ios.js,12,1,68
+Swift,/tmp/clone_directory/ios/VideoCaching/RCTVideoCachingHandler.swift,14,17,67
+DOS Batch,/tmp/clone_directory/examples/FabricExample/android/gradlew.bat,21,2,66
+DOS Batch,/tmp/clone_directory/examples/exampletvOS/android/gradlew.bat,21,2,66
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/react/VideoManagerModule.kt,11,0,64
+DOS Batch,/tmp/clone_directory/examples/video-caching/android/gradlew.bat,24,2,64
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/videoplayer.vcxproj.filters,0,0,63
+Swift,/tmp/clone_directory/ios/Video/Features/RCTVideoSave.swift,7,0,62
+TypeScript,/tmp/clone_directory/examples/basic/src/components/TextTracksSelector.tsx,3,0,61
+TypeScript,/tmp/clone_directory/examples/basic/src/components/VideoTracksSelector.tsx,3,0,61
+Java,/tmp/clone_directory/examples/FabricExample/android/app/src/debug/java/net/video/fabricexample/ReactNativeFlipper.java,5,8,60
+TypeScript,/tmp/clone_directory/examples/basic/src/MultiValueControl.tsx,9,6,60
+JSX,/tmp/clone_directory/docs/theme.config.jsx,1,0,59
+Java,/tmp/clone_directory/examples/exampletvOS/android/app/src/debug/java/com/exampletvos/ReactNativeFlipper.java,5,12,58
+TypeScript,/tmp/clone_directory/examples/basic/src/ToggleControl.tsx,8,8,57
+XML,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/Info.plist,0,0,57
+Markdown,/tmp/clone_directory/docs/pages/index.md,14,0,56
+TypeScript,/tmp/clone_directory/examples/exampletvOS/App.tsx,4,2,56
+XML,/tmp/clone_directory/examples/FabricExample/ios/FabricExample/Info.plist,0,0,55
+XML,/tmp/clone_directory/examples/basic/ios/videoplayer/Info.plist,0,0,55
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS/Info.plist,0,0,55
+Gradle,/tmp/clone_directory/examples/video-caching/android/app/build.gradle,10,85,55
+Ruby,/tmp/clone_directory/react-native-video.podspec,10,3,54
+Objective-C,/tmp/clone_directory/examples/FabricExample/ios/FabricExampleTests/FabricExampleTests.m,13,0,53
+Objective-C,/tmp/clone_directory/examples/basic/ios/videoplayerTests/videoplayerTests.m,13,0,53
+XML,/tmp/clone_directory/examples/embed-and-fullscreen/ios/VideoPlayer-tvOS.plist,0,0,53
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS-tvOS/Info.plist,0,0,53
+JSON,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+Objective-C,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOSTests/exampletvOSTests.m,13,0,53
+XML,/tmp/clone_directory/examples/video-caching/ios/VideoCaching-tvOS/Info.plist,0,1,53
+JSON,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+YAML,/tmp/clone_directory/.github/workflows/check-js.yml,10,0,52
+Markdown,/tmp/clone_directory/README.md,10,0,52
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactVideoView.h,5,0,52
+Java,/tmp/clone_directory/examples/FabricExample/android/app/src/main/java/net/video/fabricexample/MainApplication.java,9,3,50
+TypeScript,/tmp/clone_directory/examples/basic/src/components/AudioTracksSelector.tsx,3,0,50
+Swift,/tmp/clone_directory/ios/Video/DataStructures/VideoSource.swift,2,0,50
+Java,/tmp/clone_directory/examples/exampletvOS/android/app/src/main/java/com/exampletvos/MainApplication.java,11,4,49
+YAML,/tmp/clone_directory/ios/.swiftlint.yml,4,3,49
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/ima/ImaAdsLoader.java,15,0,48
+Markdown,/tmp/clone_directory/docs/pages/updating.md,21,0,48
+JSON,/tmp/clone_directory/examples/FabricExample/package.json,0,0,47
+XML,/tmp/clone_directory/examples/embed-and-fullscreen/ios/Info.plist,0,0,47
+Objective-C,/tmp/clone_directory/examples/video-caching/ios/VideoCachingTests/VideoCachingTests.m,15,8,47
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature-request.yml,6,0,46
+XML,/tmp/clone_directory/examples/FabricExample/ios/FabricExample/LaunchScreen.storyboard,0,1,46
+XML,/tmp/clone_directory/examples/basic/ios/videoplayer/LaunchScreen.storyboard,0,1,46
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS/LaunchScreen.storyboard,0,1,46
+C++,/tmp/clone_directory/examples/basic/android/app/src/main/jni/MainComponentsRegistry.cpp,14,6,45
+JSON,/tmp/clone_directory/examples/basic/package.json,0,0,44
+C++,/tmp/clone_directory/examples/basic/windows/VideoPlayer/App.cpp,12,23,44
+TypeScript,/tmp/clone_directory/src/utils.ts,9,2,44
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ConfigurationUtils.kt,4,9,43
+Markdown,/tmp/clone_directory/docs/pages/other/misc.md,19,0,43
+XML,/tmp/clone_directory/examples/basic/android/app/src/main/AndroidManifest.xml,4,0,43
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/Package.appxmanifest,8,0,42
+XML,/tmp/clone_directory/examples/embed-and-fullscreen/ios/Base.lproj/LaunchScreen.xib,0,0,42
+XML,/tmp/clone_directory/examples/embed-and-fullscreen/ios/VideoPlayer/Base.lproj/LaunchScreen.xib,0,0,42
+XML,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/Base.lproj/LaunchScreen.xib,0,0,42
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/VideoPlaybackCallback.kt,3,0,40
+JavaScript,/tmp/clone_directory/examples/basic/metro.config.js,5,16,40
+TypeScript,/tmp/clone_directory/src/types/Ads.ts,0,114,40
+YAML,/tmp/clone_directory/.github/workflows/deploy-docs.yml,7,0,39
+Markdown,/tmp/clone_directory/docs/pages/other/debug.md,22,0,39
+Java,/tmp/clone_directory/examples/FabricExample/android/app/src/main/java/net/video/fabricexample/MainActivity.java,8,11,38
+Gradle,/tmp/clone_directory/examples/FabricExample/android/build.gradle,3,8,38
+JSON,/tmp/clone_directory/examples/exampletvOS/package.json,0,0,38
+Swift,/tmp/clone_directory/ios/Video/DataStructures/DRMParams.swift,2,0,38
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/react/ReactVideoPackage.java,12,1,37
+C++,/tmp/clone_directory/examples/basic/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.cpp,7,1,37
+XML,/tmp/clone_directory/examples/basic/ios/videoplayer/PrivacyInfo.xcprivacy,0,0,37
+Swift,/tmp/clone_directory/ios/Video/RCTVideoPlayerViewController.swift,10,2,37
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactVideoViewManager.h,13,5,37
+YAML,/tmp/clone_directory/.github/workflows/check-ios.yml,5,0,36
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/SubtitleStyle.kt,4,3,36
+Java,/tmp/clone_directory/examples/video-caching/android/app/src/main/java/com/videocaching/MainApplication.java,9,0,36
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactNativeVideoCPP.vcxproj.filters,0,0,36
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP61/ReactNativeVideoCPP61.vcxproj.filters,0,0,36
+Kotlin,/tmp/clone_directory/examples/basic/android/app/src/main/java/com/videoplayer/MainApplication.kt,8,3,34
+Markdown,/tmp/clone_directory/android/README.md,13,0,33
+JSON,/tmp/clone_directory/tsconfig.json,0,0,33
+YAML,/tmp/clone_directory/.github/workflows/check-android.yml,2,0,32
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/receiver/AudioBecomingNoisyReceiver.java,8,1,32
+JavaScript,/tmp/clone_directory/examples/FabricExample/metro.config.js,6,2,32
+Swift,/tmp/clone_directory/ios/Video/Features/RCTVideoTVUtils.swift,9,7,32
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/ResizeMode.kt,8,15,31
+JavaScript,/tmp/clone_directory/examples/exampletvOS/metro.config.js,6,2,31
+ProGuard,/tmp/clone_directory/examples/video-caching/android/app/proguard-rules.pro,14,25,31
+C/C++ Header,/tmp/clone_directory/ios/VideoCaching/RCTVideoCache.h,6,0,31
+YAML,/tmp/clone_directory/.github/actions/setup-node/action.yml,4,0,30
+YAML,/tmp/clone_directory/.github/workflows/test-build-docs.yml,5,0,30
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/AudioOutput.java,8,0,30
+YAML,/tmp/clone_directory/.github/actions/setup-bun/action.yml,5,0,29
+YAML,/tmp/clone_directory/.github/workflows/check-clang.yml,2,0,29
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ReactExoplayerLoadErrorHandlingPolicy.java,6,1,29
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/DashMediaSource.java,8,0,28
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/hls/HlsMediaSource.java,6,0,28
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/smoothstreaming/DefaultSsChunkSource.java,6,0,28
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/smoothstreaming/SsMediaSource.java,6,0,28
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/DefaultReactExoplayerConfig.java,9,1,28
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ReactExoplayerSimpleCache.kt,4,1,28
+JSON,/tmp/clone_directory/docs/tsconfig.json,0,0,28
+XML,/tmp/clone_directory/examples/video-caching/android/app/src/main/AndroidManifest.xml,4,0,28
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/rtsp/RtspMediaSource.java,7,0,27
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/SideLoadedTextTrack.kt,3,4,27
+JSON,/tmp/clone_directory/.release-it.json,1,0,26
+C/C++ Header,/tmp/clone_directory/examples/FabricExample/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h,8,5,25
+C/C++ Header,/tmp/clone_directory/examples/basic/android/app/src/main/jni/MainApplicationTurboModuleManagerDelegate.h,8,5,25
+XML,/tmp/clone_directory/examples/exampletvOS/android/app/src/main/AndroidManifest.xml,2,5,25
+JavaScript,/tmp/clone_directory/examples/video-caching/App.js,3,5,25
+Swift,/tmp/clone_directory/ios/Video/DataStructures/CustomMetadata.swift,3,0,25
+TypeScript,/tmp/clone_directory/docs/components/PlatformsList/PlatformsList.tsx,4,0,24
+XML,/tmp/clone_directory/examples/FabricExample/android/app/src/main/AndroidManifest.xml,2,0,24
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS-tvOSTests/Info.plist,0,0,24
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOSTests/Info.plist,0,0,24
+XML,/tmp/clone_directory/examples/video-caching/ios/VideoCachingTests/Info.plist,0,0,24
+JSON,/tmp/clone_directory/examples/video-caching/package.json,0,0,24
+C/C++ Header,/tmp/clone_directory/examples/FabricExample/android/app/src/main/jni/MainComponentsRegistry.h,8,1,23
+C/C++ Header,/tmp/clone_directory/examples/basic/android/app/src/main/jni/MainComponentsRegistry.h,8,1,23
+Markdown,/tmp/clone_directory/windows/README.md,14,0,23
+Gradle,/tmp/clone_directory/examples/basic/android/build.gradle,4,5,22
+Objective-C++,/tmp/clone_directory/examples/basic/ios/videoplayer/AppDelegate.mm,7,2,22
+C/C++ Header,/tmp/clone_directory/examples/basic/windows/VideoPlayer/pch.h,4,0,22
+Objective-C++,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS/AppDelegate.mm,7,7,22
+Swift,/tmp/clone_directory/ios/Video/DataStructures/Chapter.swift,2,0,22
+Swift,/tmp/clone_directory/ios/Video/DataStructures/TextTrack.swift,2,0,22
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/BufferingStrategy.kt,8,18,21
+JSON,/tmp/clone_directory/docs/package.json,0,0,21
+JSON,/tmp/clone_directory/docs/pages/_meta.json,0,0,21
+Objective-C,/tmp/clone_directory/examples/embed-and-fullscreen/ios/VideoPlayer/AppDelegate.m,8,8,21
+Objective-C,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/AppDelegate.m,8,8,21
+Swift,/tmp/clone_directory/ios/Video/Features/URLSession+data.swift,3,0,21
+Swift,/tmp/clone_directory/ios/Video/RCTVideoSwiftLog/RCTVideoSwiftLog.swift,8,25,21
+YAML,/tmp/clone_directory/.github/stale.yml,15,25,20
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,11,0,20
+Markdown,/tmp/clone_directory/docs/pages/other/new-arch.md,5,0,20
+Java,/tmp/clone_directory/examples/exampletvOS/android/app/src/main/java/com/exampletvos/MainActivity.java,4,11,20
+Markdown,/tmp/clone_directory/examples/video-caching/README.md,4,0,20
+IDL,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactVideoView.idl,0,0,20
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/SideLoadedTextTrackList.kt,4,4,19
+JavaScript,/tmp/clone_directory/docs/next.config.js,5,4,19
+JavaScript,/tmp/clone_directory/examples/embed-and-fullscreen/Utils.js,5,7,19
+Objective-C,/tmp/clone_directory/examples/embed-and-fullscreen/ios/AppDelegate.m,10,23,19
+Objective-C,/tmp/clone_directory/ios/Video/RCTVideoSwiftLog/RCTVideoSwiftLog.m,8,0,19
+TypeScript,/tmp/clone_directory/src/types/FilterType.ts,1,0,19
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/ControlsConfig.kt,5,0,18
+Markdown,/tmp/clone_directory/docs/pages/component/ads.md,7,0,18
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeVideoCPP/pch.h,2,0,18
+C++,/tmp/clone_directory/examples/basic/windows/VideoPlayer/MainPage.cpp,3,0,17
+Gradle,/tmp/clone_directory/examples/exampletvOS/android/build.gradle,2,2,17
+Gradle,/tmp/clone_directory/examples/video-caching/android/build.gradle,3,4,17
+JavaScript,/tmp/clone_directory/scripts/bootstrap.js,5,4,17
+Markdown,/tmp/clone_directory/docs/pages/other/caching.md,14,0,16
+JavaScript,/tmp/clone_directory/examples/FabricExample/.eslintrc.js,0,0,16
+JavaScript,/tmp/clone_directory/examples/FabricExample/babel.config.js,1,0,16
+JavaScript,/tmp/clone_directory/examples/basic/.eslintrc.js,0,0,16
+Starlark,/tmp/clone_directory/examples/basic/android/app/build_defs.bzl,2,1,16
+C++,/tmp/clone_directory/examples/basic/android/app/src/main/jni/MainApplicationModuleProvider.cpp,6,10,16
+C/C++ Header,/tmp/clone_directory/examples/basic/windows/VideoPlayer/MainPage.h,3,0,16
+XAML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/MainPage.xaml,0,0,16
+JavaScript,/tmp/clone_directory/examples/exampletvOS/babel.config.js,1,0,16
+Swift,/tmp/clone_directory/ios/Video/DataStructures/SelectedTrackCriteria.swift,2,0,16
+JavaScript,/tmp/clone_directory/examples/basic/babel.config.js,1,0,15
+C/C++ Header,/tmp/clone_directory/examples/basic/windows/VideoPlayer/App.h,3,0,15
+JavaScript,/tmp/clone_directory/examples/video-caching/rn-cli.config.js,3,1,15
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE.md,4,0,14
+INI,/tmp/clone_directory/android/.editorconfig,0,0,14
+Properties,/tmp/clone_directory/android/gradle.properties,0,0,14
+YAML,/tmp/clone_directory/ios/.clang-format,5,6,14
+Swift,/tmp/clone_directory/ios/Video/UIView+FindUIViewController.swift,2,2,14
+JSON,/tmp/clone_directory/examples/FabricExample/tsconfig.json,0,0,13
+XML,/tmp/clone_directory/examples/basic/ios/videoplayer.xcworkspace/contents.xcworkspacedata,0,0,13
+Swift,/tmp/clone_directory/ios/Video/DataStructures/SubtitleStyle.swift,3,1,13
+XML,/tmp/clone_directory/examples/basic/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,12
+C++,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactPackageProvider.cpp,5,0,12
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactPackageProvider.h,8,0,12
+YAML,/tmp/clone_directory/.github/ISSUE_TEMPLATE/config.yml,0,0,11
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/manifest/DashManifest.java,4,0,11
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/VideoTrack.kt,2,3,11
+XML,/tmp/clone_directory/android/src/main/res/values/dimens.xml,2,3,11
+XML,/tmp/clone_directory/android/src/main/res/values/strings.xml,8,0,11
+Markdown,/tmp/clone_directory/docs/README.md,4,0,11
+C/C++ Header,/tmp/clone_directory/examples/basic/android/app/src/main/jni/MainApplicationModuleProvider.h,5,0,11
+JSON,/tmp/clone_directory/examples/basic/tsconfig.json,0,0,11
+C++,/tmp/clone_directory/examples/basic/windows/VideoPlayer/ReactPackageProvider.cpp,4,0,11
+XML,/tmp/clone_directory/examples/exampletvOS/android/app/src/debug/AndroidManifest.xml,2,0,11
+XML,/tmp/clone_directory/examples/exampletvOS/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,11
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/manifest/AdaptationSet.java,3,0,10
+Java,/tmp/clone_directory/android/src/main/java/com/google/ads/interactivemedia/v3/api/AdEvent.java,4,0,10
+Gradle,/tmp/clone_directory/examples/FabricExample/android/settings.gradle,1,0,10
+XML,/tmp/clone_directory/examples/FabricExample/ios/FabricExample.xcworkspace/contents.xcworkspacedata,0,0,10
+Kotlin,/tmp/clone_directory/examples/basic/android/app/src/main/java/com/videoplayer/MainActivity.kt,4,8,10
+C++,/tmp/clone_directory/examples/basic/android/app/src/main/jni/OnLoad.cpp,1,0,10
+XAML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/App.xaml,0,0,10
+C++,/tmp/clone_directory/examples/basic/windows/VideoPlayer/AutolinkedNativeModules.g.cpp,4,4,10
+C/C++ Header,/tmp/clone_directory/examples/basic/windows/VideoPlayer/ReactPackageProvider.h,3,0,10
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS.xcworkspace/contents.xcworkspacedata,0,0,10
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/DashUtil.java,3,0,9
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/manifest/Representation.java,3,0,9
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/Track.kt,2,4,9
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/exoplayer/ReactExoplayerConfig.java,4,3,9
+Markdown,/tmp/clone_directory/docs/pages/projects.md,2,0,9
+JavaScript,/tmp/clone_directory/examples/FabricExample/react-native.config.js,1,0,9
+JavaScript,/tmp/clone_directory/examples/exampletvOS/react-native.config.js,1,0,9
+JavaScript,/tmp/clone_directory/examples/video-caching/__tests__/App.js,2,1,9
+TypeScript,/tmp/clone_directory/src/types/index.ts,0,0,9
+IDL,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactPackageProvider.idl,0,0,9
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/DefaultDashChunkSource.java,2,0,8
+Java,/tmp/clone_directory/android/src/main/java/com/brentvatne/receiver/BecomingNoisyListener.java,4,1,8
+Java,/tmp/clone_directory/android/src/main/java/com/google/ads/interactivemedia/v3/api/AdError.java,2,0,8
+XML,/tmp/clone_directory/examples/basic/android/app/src/debug/AndroidManifest.xml,1,0,8
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/AutolinkedNativeModules.g.targets,0,2,8
+IDL,/tmp/clone_directory/examples/basic/windows/VideoPlayer/MainPage.idl,0,0,8
+XML,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+Objective-C,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS/main.m,2,0,8
+Java,/tmp/clone_directory/examples/video-caching/android/app/src/main/java/com/videocaching/MainActivity.java,3,4,8
+C/C++ Header,/tmp/clone_directory/ios/Video/RCTVideoSwiftLog/RCTVideoSwiftLog.h,3,0,8
+Bourne Shell,/tmp/clone_directory/scripts/clang-format.sh,1,0,8
+Java,/tmp/clone_directory/android/src/main/java/com/google/ads/interactivemedia/v3/api/AdErrorEvent.java,2,0,7
+XML,/tmp/clone_directory/android/src/main/res/values/styles.xml,0,0,7
+CSS,/tmp/clone_directory/docs/components/PlatformsList/PlatformsList.module.css,1,0,7
+JSON,/tmp/clone_directory/docs/pages/component/_meta.json,0,0,7
+TypeScript,/tmp/clone_directory/examples/FabricExample/App.tsx,3,9,7
+Properties,/tmp/clone_directory/examples/FabricExample/android/gradle.properties,9,26,7
+Properties,/tmp/clone_directory/examples/basic/android/gradle/wrapper/gradle-wrapper.properties,0,0,7
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/PropertySheet.props,1,8,7
+Objective-C,/tmp/clone_directory/examples/embed-and-fullscreen/ios/main.m,4,8,7
+JavaScript,/tmp/clone_directory/examples/exampletvOS/.prettierrc.js,0,0,7
+TypeScript,/tmp/clone_directory/examples/exampletvOS/__tests__/App-test.tsx,3,4,7
+Java,/tmp/clone_directory/examples/exampletvOS/android/app/src/release/java/com/exampletvos/ReactNativeFlipper.java,2,11,7
+Properties,/tmp/clone_directory/examples/exampletvOS/android/gradle.properties,9,28,7
+Objective-C,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/main.m,3,8,7
+TypeScript,/tmp/clone_directory/src/types/ResizeMode.ts,1,0,7
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP61/PropertySheet.props,1,8,7
+XML,/tmp/clone_directory/android/lint.xml,0,0,6
+JSON,/tmp/clone_directory/docs/pages/other/_meta.json,0,0,6
+Properties,/tmp/clone_directory/examples/basic/android/gradle.properties,8,27,6
+Gradle,/tmp/clone_directory/examples/basic/android/settings.gradle,2,0,6
+JavaScript,/tmp/clone_directory/examples/embed-and-fullscreen/rn-cli.config.js,1,0,6
+JSON,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/Images.xcassets/Contents.json,0,0,6
+Swift,/tmp/clone_directory/ios/Video/RCTVideoPlayerViewControllerDelegate.swift,1,0,6
+Bourne Shell,/tmp/clone_directory/scripts/kotlin-lint.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/scripts/swift-format.sh,1,0,6
+Bourne Shell,/tmp/clone_directory/scripts/swift-lint.sh,1,0,6
+TypeScript,/tmp/clone_directory/src/types/TextTrackType.ts,1,0,6
+Java,/tmp/clone_directory/android/src/main/java/androidx/media3/exoplayer/dash/manifest/Period.java,2,0,5
+Kotlin,/tmp/clone_directory/android/src/main/java/com/brentvatne/common/api/TimedMetadata.kt,2,3,5
+XML,/tmp/clone_directory/android/src/main/res/values/colors.xml,0,0,5
+C/C++ Header,/tmp/clone_directory/examples/FabricExample/ios/FabricExample/AppDelegate.h,3,0,5
+C/C++ Header,/tmp/clone_directory/examples/basic/windows/VideoPlayer/AutolinkedNativeModules.g.h,3,2,5
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/AutolinkedNativeModules.g.props,0,1,5
+XML,/tmp/clone_directory/examples/basic/windows/VideoPlayer/packages.config,0,0,5
+JSON,/tmp/clone_directory/examples/embed-and-fullscreen/.vscode/settings.json,0,0,5
+XML,/tmp/clone_directory/examples/exampletvOS/android/app/src/main/res/values/styles.xml,2,2,5
+Properties,/tmp/clone_directory/examples/exampletvOS/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Properties,/tmp/clone_directory/examples/video-caching/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Bourne Shell,/tmp/clone_directory/examples/video-caching/update.sh,0,0,5
+C/C++ Header,/tmp/clone_directory/ios/Video/RCTVideo-Bridging-Header.h,1,0,5
+TypeScript,/tmp/clone_directory/src/index.ts,0,0,5
+TypeScript,/tmp/clone_directory/src/types/Orientation.ts,1,0,5
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,7,14,4
+JSON,/tmp/clone_directory/examples/FabricExample/app.json,0,0,4
+JSON,/tmp/clone_directory/examples/basic/app.json,0,0,4
+JavaScript,/tmp/clone_directory/examples/basic/src/index.js,1,0,4
+JavaScript,/tmp/clone_directory/examples/exampletvOS/.eslintrc.js,0,0,4
+Gradle,/tmp/clone_directory/examples/exampletvOS/android/settings.gradle,0,0,4
+JSON,/tmp/clone_directory/examples/exampletvOS/app.json,0,0,4
+JavaScript,/tmp/clone_directory/examples/exampletvOS/index.js,2,3,4
+C/C++ Header,/tmp/clone_directory/examples/exampletvOS/ios/exampletvOS/AppDelegate.h,2,0,4
+XML,/tmp/clone_directory/examples/video-caching/android/app/src/main/res/values/styles.xml,2,2,4
+Properties,/tmp/clone_directory/examples/video-caching/android/keystores/debug.keystore.properties,0,0,4
+JSON,/tmp/clone_directory/examples/video-caching/app.json,0,0,4
+C/C++ Header,/tmp/clone_directory/examples/video-caching/ios/VideoCaching/AppDelegate.h,4,8,4
+JSON,/tmp/clone_directory/tsconfig.build.json,1,0,4
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP/packages.config,0,0,4
+XML,/tmp/clone_directory/windows/ReactNativeVideoCPP61/packages.config,0,0,4
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,0,0,3
+CMake,/tmp/clone_directory/examples/FabricExample/android/app/src/main/jni/CMakeLists.txt,2,2,3
+XML,/tmp/clone_directory/examples/FabricExample/android/app/src/main/res/values/strings.xml,0,0,3
+CMake,/tmp/clone_directory/examples/basic/android/app/src/main/jni/CMakeLists.txt,2,2,3
+XML,/tmp/clone_directory/examples/basic/android/app/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/examples/basic/jest.config.js,0,0,3
+IDL,/tmp/clone_directory/examples/basic/windows/VideoPlayer/App.idl,0,0,3
+XML,/tmp/clone_directory/examples/exampletvOS/android/app/src/main/res/values/strings.xml,0,0,3
+JSON,/tmp/clone_directory/examples/exampletvOS/tsconfig.json,0,0,3
+XML,/tmp/clone_directory/examples/video-caching/android/app/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/examples/video-caching/index.js,1,0,3
+Windows Module Definition,/tmp/clone_directory/windows/ReactNativeVideoCPP/ReactNativeVideoCPP.def,0,0,3
+XML,/tmp/clone_directory/android/src/main/AndroidManifestNew.xml,0,0,2
+Gradle,/tmp/clone_directory/examples/video-caching/android/settings.gradle,1,0,2
+JavaScript,/tmp/clone_directory/examples/basic/index.js,0,1,1
+C++,/tmp/clone_directory/examples/basic/windows/VideoPlayer/pch.cpp,0,0,1
+JSON,/tmp/clone_directory/examples/video-caching/.watchmanconfig,0,0,1
+Properties,/tmp/clone_directory/examples/video-caching/android/gradle.properties,5,14,1
+C++,/tmp/clone_directory/windows/ReactNativeVideoCPP/pch.cpp,0,0,1
+TypeScript,/tmp/clone_directory/docs/next-env.d.ts,1,4,0
+ProGuard,/tmp/clone_directory/examples/exampletvOS/android/app/proguard-rules.pro,1,9,0
+SUM,,3891,1998,23345

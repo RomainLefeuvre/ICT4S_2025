@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted,1832.8908073797963,176875102,False,
+##[group]Run ./gradlew bootJar,647.2630379421965,33097634,False,
+> Task :resolveMainClassName,33.907064504025726,1000148,False,
+##[group]GITHUB_TOKEN Permissions,30.83631000379862,2743054,False,
+##[group]Removing previously created refs_ to avoid conflicts,19.279603194125,652724,False,
+##[group]Fetching the repository,9.40757745426034,491041,False,
+##[group]Installed distributions,5.680619779380114,282811,False,
+##[group]Cleaning the repository,5.490530375960037,228013,False,
+> Task :classes,3.707215330550082,94278,False,
+##[group]Getting Git version info,1.9895165695967496,16239,False,
+##[group]Run actions/checkout@v4,1.9276199429224832,140755,False,

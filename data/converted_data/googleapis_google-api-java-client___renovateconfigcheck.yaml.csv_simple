@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run npm install -g npm@latest,768.5719680971298,100129822,False,
+##[group]GITHUB_TOKEN Permissions,59.8011558993042,2298180,False,
+##[group]Environment details,27.00218579740121,622690,False,
+##[group]Run actions/setup-node@v3,16.667903483828614,411377,False,
+##[group]Fetching the repository,15.334349769389748,449691,False,
+##[group]Run actions/checkout@v4,7.000398027475441,157467,False,
+##[group]Setting up auth,3.6668932280425786,60227,False,
+##[group]Cleaning the repository,3.6002155423206355,58017,False,
+Requested labels: self-hosted,0.6648794238979316,4715507,False,

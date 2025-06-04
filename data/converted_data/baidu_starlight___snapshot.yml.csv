@@ -1,0 +1,12 @@
+Requested labels: self-hosted, 0.6253394190222515, , , , 4674128, False, 
+##[group]GITHUB_TOKEN Permissions, 42.33958140543971, , , , 3375613, False, 
+##[group]Run actions/checkout@v3, 1.8879956528193376, , , , 171079, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.92095533726944, , , , 16910, False, 
+##[group]Cleaning the repository, 1.9539150217195425, , , , 80771, False, 
+##[group]Fetching the repository, 10.263970375349246, , , , 448426, False, 
+##[group]Run actions/cache@v3, 297.960603054215, , , , 38995241, False, 
+##[group]Run mvn -B deploy -P deploy -Dmaven.test.skip --file starlight/pom.xml --no-transfer-progress, 92.099400227334, , , , 16043929, True, [ERROR] Failed to execute goal org.apache.maven.plugins:maven-gpg-plugin:3.1.0:sign (sign-artifacts) on project starlight: Exit code: 2 -> [Help 1]
+[INFO] --- jacoco-maven-plugin:0.8.8:prepare-agent (prepare-agent) @ starlight ---, 1.3460646473835658, , , , 137117, False, 
+[INFO] --- spotless-maven-plugin:2.22.1:apply (default) @ starlight ---, 6.630417190890155, , , , 478105, False, 
+[INFO] --- maven-source-plugin:3.3.0:jar-no-fork (attach-sources) @ starlight ---, 1.306102228972496, , , , 150443, False, 
+[INFO] --- maven-javadoc-plugin:3.6.0:jar (attach-javadocs) @ starlight ---, 7.696744909396233, , , , 542530, False, 

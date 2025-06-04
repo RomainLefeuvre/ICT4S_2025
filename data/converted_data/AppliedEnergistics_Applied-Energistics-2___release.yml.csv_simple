@@ -1,0 +1,47 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==__dup_14,409.4657931097103,71511911,False,
+##[group]==END_FILE==,128.61342732455105,46360571,False,
+##[group]==END_FILE==__dup_15,118.75073611331334,40647186,False,
+##[group]Fetching the repository,68.80497151582662,2019312,True,"##[error]ArgumentError: The value cannot be null, undefined, or empty. (Parameter 'options.files')"
+##[group]==END_FILE==__dup_38,60.45483091899175,8787981,False,
+##[group]GITHUB_TOKEN Permissions,47.660029049987216,2332271,False,
+##[group]Run actions/upload-artifact@v4,40.6197357489974,2352601,False,
+##[group]Run gradle/gradle-build-action@v2,39.29752072196354,1249821,False,
+##[group]GITHUB_TOKEN Permissions__dup_39,35.23920160395002,2054938,False,
+##[group]Run actions/download-artifact@v4__dup_36,33.05096168593908,1464314,False,
+##[group]Run actions/download-artifact@v4__dup_40,28.70762523838172,1441172,False,
+##[group]GITHUB_TOKEN Permissions__dup_16,23.887844083134,2441278,False,
+##[group]GITHUB_TOKEN Permissions__dup_25,23.53051731052952,2417578,False,
+##[group]GITHUB_TOKEN Permissions__dup_44,23.10394605919368,2438003,False,
+##[group]Checking out the ref,22.65529549911364,1577088,False,
+##[group]Checking out the ref__dup_21,17.335749706045817,1075829,False,
+##[group]GITHUB_TOKEN Permissions__dup_28,16.712196547496667,2025334,False,
+##[group]Run ./gradlew build -x check --no-daemon --max-workers 1,12.852171711247678,502346,True,"##[error]ArgumentError: The value cannot be null, undefined, or empty. (Parameter 'options.files')"
+##[group]Run ./gradlew publishMavenPublicationToGitHubPackagesRepository --no-daemon --max-workers 1,12.369821283482583,862223,False,
+##[group]Run actions/upload-release-asset@v1.0.1__dup_43,11.88060206320187,141997,True,##[error]Process completed with exit code 1.
+##[group]Run actions/download-artifact@v4__dup_45,11.559207103495888,1421055,False,
+##[group]Run ./gradlew publishMavenPublicationToModmavenRepository --no-daemon --max-workers 1,10.989456868602243,882392,False,
+##[group]Run gradle/gradle-build-action@v2__dup_35,8.485556215428485,323697,True,"##[error]ArgumentError: The value cannot be null, undefined, or empty. (Parameter 'options.files')"
+##[group]Run actions/download-artifact@v4,7.958663716040518,1469079,False,
+##[group]Fetching the repository__dup_20,7.644110106602879,448370,False,
+##[group]Run actions/download-artifact@v4__dup_26,7.146530974855758,1450263,False,
+##[group]Installed distributions,6.79985886398408,144940,False,
+##[group]Fetching the repository__dup_32,6.021199887267991,448694,False,
+##[group]Run gradle/gradle-build-action@v2__dup_22,5.6670698779993645,317926,True,"##[error]ArgumentError: The value cannot be null, undefined, or empty. (Parameter 'options.files')"
+##[group]Run actions/checkout@v3,5.537961122005557,154845,False,
+##[group]Run Kir-Antipov/mc-publish@4db8bd126f74d5e143822181a2b1201308e2c796__dup_46,5.249755598526555,306495,True,##[error]Process completed with exit code 1.
+##[group]Checking out the ref__dup_33,4.949183399862996,1178592,False,
+##[group]Run tar -I zstd -cf build.tar.zst .gradle build src/generated,4.788961676729524,126208,False,
+"##[group]Run echo ""TAG=${TAG}"" >> $GITHUB_ENV",3.575882935876814,6068,False,
+##[group]Setting up auth,2.852889062851347,67694,True,##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v3__dup_17,2.702738930548876,157669,False,
+##[group]Installed distributions__dup_34,2.498718217147596,28631,False,
+##[group]Run actions/upload-release-asset@v1.0.1__dup_42,2.236085082574565,97014,False,
+##[group]Run actions/upload-release-asset@v1.0.1,2.096049752508757,112105,False,
+##[group]Setting up auth__dup_19,1.4469208416069737,71624,True,##[error]Process completed with exit code 1.
+##[group]Removing previously created refs_ to avoid conflicts,1.392320055131239,141086,False,
+##[group]==END_FILE==__dup_13,1.327252233532534,5857181,False,
+##[group]Run actions/checkout@v3__dup_29,1.3114416261940978,157538,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_30,1.290001296445998,66921,False,
+##[group]Disabling automatic garbage collection,1.268560966697898,4311,False,
+##[group]Run Kir-Antipov/mc-publish@4db8bd126f74d5e143822181a2b1201308e2c796,0.179411989609882,425954,True,##[error]Process completed with exit code 1.

@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 89.54128801003957, , , , 4011542, False, 
+##[group]GITHUB_TOKEN Permissions, 58.12127266293996, , , , 1913532, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/fsfe/reuse-action/v1.1/Dockerfile'., 48.16856073653873, , , , 14713889, False, 
+##[group]Run actions/checkout@v3, 1.379638784281275, , , , 169927, False, 
+##[group]Setting up auth, 0.6911363556194823, , , , 65742, False, 
+##[group]Fetching the repository, 2.769813276393309, , , , 448992, False, 
+##[group]Run fsfe/reuse-action@v1.1, 31.764885596214544, , , , 4523419, False, 

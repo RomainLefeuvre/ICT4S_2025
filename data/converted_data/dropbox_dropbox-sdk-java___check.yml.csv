@@ -1,0 +1,48 @@
+Requested labels: self-hosted, 0.0, , , , 5477800, False, 
+##[group]GITHUB_TOKEN Permissions, 21.295492873092886, , , , 3593757, False, 
+##[group]Run actions/checkout@v3, 1.739827849108896, , , , 158653, False, 
+##[group]Setting up auth, 0.8907918587437549, , , , 63293, False, 
+##[group]Fetching the repository, 10.7173395505108, , , , 1168131, False, 
+##[group]Checking out the ref, 2.1295492873092887, , , , 206861, False, 
+##[group]Run gradle/wrapper-validation-action@v1, 17.955023402803803, , , , 1543848, False, 
+##[group]Installed distributions, 1.3501064109085033, , , , 118914, False, 
+##[group]Run actions/setup-python@v3, 36.08546222921005, , , , 13303389, True, ##[error]WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+##[group]Run python -m pip install ply && pip install six, 24.938800607800715, , , , 3437319, False, 
+##[group]Run ./update-submodules, 6.793899539792375, , , , 2569166, False, 
+##[group]Run ./gradlew :core:generateStone, 2184.671866071695, , , , 130515152, False, 
+> Task :stone-java-gradle-plugin:processResources, 156.75854552782178, , , , 6996417, False, 
+> Task :stone-java-gradle-plugin:jar, 503.7761140807889, , , , 25301116, False, 
+> Task :core:generateStone, 315.76858365582177, , , , 19228161, True, ##[error]Process completed with exit code 2.
+##[group]Run ./scripts/check-clean-git-status, 2.9485758371561035, , , , 192493, False, 
+##[group]Run ./generate-ci-auth-file, 1.1236098411861732, , , , 16018, True, ##[error]Process completed with exit code 2.
+##[group]Run ./gradlew :core:apiCheck :android:apiCheck, 68.30145730732703, , , , 2194870, True, ##[error]Process completed with exit code 1.
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE, 62.23974835197221, , , , 2070954, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew dependencyGuard, 103.1675435532958, , , , 6321784, False, 
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE__dup_21, 73.3137216062029, , , , 5296328, False, 
+> Task :android:dependencyGuard, 2.6917078264442185, , , , 34094, False, 
+> Task :examples:java:dependencyGuard, 32.390664212898656, , , , 1009752, False, 
+##[group]Run ./gradlew check, 47.63185100287917, , , , 1315152, True, ##[error]Process completed with exit code 1.
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE__dup_25, 43.803840581023934, , , , 1332650, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :examples:examples:test :examples:java:test -Pci=true --info, 1480.0597899563302, , , , 64903302, True, ##[error]Process completed with exit code 1.
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE__dup_27, 86.62370902856985, , , , 4498102, False, 
+> Task :core:generateStone__dup_28, 290.7532033426797, , , , 18801201, False, 
+> Task :core:versionWriterTask, 51.50069156180082, , , , 1987300, False, 
+> Task :core:compileKotlin, 50.20243295379977, , , , 2500113, False, 
+> Task :core:compileJava, 558.6797963568208, , , , 19100369, False, 
+> Task :core:classes, 2.2915766402671727, , , , 89966, False, 
+> Task :core:inspectClassesForKotlinIC, 33.90537125435948, , , , 1700062, False, 
+> Task :core:osgiClasses, 48.12153049677888, , , , 2699781, False, 
+> Task :core:jar, 144.57717083590572, , , , 5402212, False, 
+> Task :examples:examples:processTestResources NO-SOURCE, 30.7828611536078, , , , 997782, False, 
+> Task :examples:java:compileJava, 3.42940896615341, , , , 98953, False, 
+> Task :examples:java:classes, 17.14704483076705, , , , 99521, False, 
+> Task :examples:java:testClasses, 16.819835461392714, , , , 497008, False, 
+> Task :examples:examples:compileKotlin, 34.904795187496866, , , , 1299881, False, 
+> Task :examples:java:test FAILED, 87.47869370130756, , , , 3999863, False, 
+> Task :examples:examples:compileKotlin__dup_42, 19.870484052586715, , , , 1506684, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -Pcom.dropbox.test.httpRequestor=OkHttpRequestor -Pcom.dropbox.test.authInfoFile=../auth_output integrationTest && ./gradlew -Pcom.dropbox.test.httpRequestor=OkHttpRequestor -Pcom.dropbox.test.authInfoFile=../auth_output proguardTest, 34.93701107660864, , , , 1777884, True, ##[error]Process completed with exit code 1.
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE__dup_44, 42.486242495707074, , , , 1357120, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -Pcom.dropbox.test.httpRequestor=OkHttp3Requestor -Pcom.dropbox.test.authInfoFile=../auth_output integrationTest && ./gradlew -Pcom.dropbox.test.httpRequestor=OkHttp3Requestor -Pcom.dropbox.test.authInfoFile=../auth_output proguardTest, 44.54655294767296, , , , 1848599, True, ##[error]Process completed with exit code 1.
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE__dup_46, 44.96029424975049, , , , 2007814, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew -Pcom.dropbox.test.httpRequestor=StandardHttpRequestor -Pcom.dropbox.test.authInfoFile=../auth_output integrationTest && ./gradlew -Pcom.dropbox.test.httpRequestor=StandardHttpRequestor -Pcom.dropbox.test.authInfoFile=../auth_output proguardTest, 58.91750811256034, , , , 2429403, True, ##[error]Process completed with exit code 1.
+> Task :stone-java-gradle-plugin:jar UP-TO-DATE__dup_48, 9.04996754590733, , , , 275271, False, 

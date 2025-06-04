@@ -1,0 +1,51 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (1233.0 files/s 264317.5 lines/s)"
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/Ansi.java,164,138,671
+C,/tmp/clone_directory/src/main/native/jansi_structs.c,61,15,619
+C,/tmp/clone_directory/src/main/native/jansi.c,64,15,523
+Maven,/tmp/clone_directory/pom.xml,22,12,395
+Markdown,/tmp/clone_directory/changelog.md,66,1,390
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/io/WindowsAnsiProcessor.java,45,28,351
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/internal/Kernel32.java,89,128,319
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiConsole.java,50,199,318
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/io/AnsiOutputStream.java,38,38,283
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiMain.java,32,35,277
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/io/AnsiProcessor.java,50,232,277
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/internal/JansiLoader.java,38,97,260
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-linux-armv6,46,41,191
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-linux-x86,45,39,172
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-static-x64,45,39,172
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-static-x86,45,39,172
+Text,/tmp/clone_directory/license.txt,33,0,169
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/AnsiTest.java,27,19,161
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiRenderer.java,39,67,152
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/internal/OSInfo.java,28,52,149
+C/C++ Header,/tmp/clone_directory/src/main/native/jansi.h,32,21,139
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/io/Colors.java,23,29,115
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/io/ColorsAnsiProcessor.java,9,23,113
+C/C++ Header,/tmp/clone_directory/src/main/native/jansi_structs.h,13,15,109
+make,/tmp/clone_directory/Makefile,34,22,108
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/internal/MingwSupport.java,8,29,100
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/AnsiRendererTest.java,14,20,91
+C,/tmp/clone_directory/src/main/native/jansi_isatty.c,19,25,83
+Markdown,/tmp/clone_directory/readme.md,26,0,69
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/EncodingTest.java,8,15,66
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/internal/CLibrary.java,30,66,64
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiPrintStream.java,16,24,56
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/io/FastBufferedOutputStream.java,8,18,42
+YAML,/tmp/clone_directory/.github/workflows/build.yml,2,16,31
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/io/AnsiOutputStreamTest.java,5,15,29
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/AnsiConsoleExample2.java,7,19,23
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/InstallUninstallTest.java,4,15,23
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/AnsiConsoleExample.java,6,19,19
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiType.java,4,20,15
+C,/tmp/clone_directory/src/main/native/jansi_ttyname.c,4,15,15
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiColors.java,4,20,13
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/AnsiMode.java,4,20,13
+Java,/tmp/clone_directory/src/main/java/org/fusesource/jansi/WindowsSupport.java,4,18,13
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/internal/Kernel32Test.java,4,15,13
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/AnsiStringTest.java,4,17,10
+Text,/tmp/clone_directory/src/main/resources/org/fusesource/jansi/jansi.txt,0,0,8
+Java,/tmp/clone_directory/src/test/java/org/fusesource/jansi/internal/JansiLoaderTest.java,3,15,8
+JSON,/tmp/clone_directory/src/main/resources/META-INF/native-image/jansi/resource-config.json,0,0,7
+Properties,/tmp/clone_directory/src/main/resources/org/fusesource/jansi/jansi.properties,0,0,1
+SUM,,1322,1765,7417

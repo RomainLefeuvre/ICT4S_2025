@@ -1,0 +1,12 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew :engines:tensorflow:tensorflow-native:uTNL,3515.0825635874494,312120336,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,133.3491521732374,5034771,False,
+##[group]Run actions/cache@v4,43.63267279144486,8581990,False,
+> Task :engines:tensorflow:tensorflow-native:uploadTensorflowNativeLibs FAILED,14.105407455698549,201510,False,
+##[group]Run aws-actions/configure-aws-credentials@v4,6.161074853915398,2202797,True,"##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers"
+##[group]Cleaning the repository,5.78439136370091,360334,False,
+##[group]Fetching the repository,5.334667407598765,449759,False,
+##[group]Run actions/checkout@v4,3.027112868681099,182376,False,
+Requested labels: self-hosted,1.81239961958696,3957608,False,
+##[group]Setting up auth,1.3898823464124594,66116,False,
+##[group]Checking out the ref,1.277451357386923,21620,False,

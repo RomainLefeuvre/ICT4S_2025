@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,25.181239239274294,2119157,False,
+##[group]Run DavidAnson/markdownlint-cli2-action@510b996878fc0d1a46c8a04ec86b06dbfba09de7,21.40356545362381,2351404,False,
+##[group]Run actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633,21.007794674861177,1837158,False,
+Requested labels: self-hosted,5.098545676674258,5478635,False,
+##[group]Fetching the repository,3.795693045874547,1432220,False,
+##[group]Setting up auth,2.079865674888892,60011,False,
+##[group]Checking out the ref,1.597166018277039,214018,False,

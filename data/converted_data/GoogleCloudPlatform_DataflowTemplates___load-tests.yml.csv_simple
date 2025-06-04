@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn test -PtemplatesLoadTests \\,8424.044493257668,448160706,True,"[ERROR[m] Tests run: 1[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE![m - in com.google.cloud.teleport.v2.templates.PubsubToBigQueryLT[m"
+##[group]Run TELEPORT_DIR=~/.m2/repository/com/google/cloud/teleport,378.4122575700789,28398661,False,
+##[group]GITHUB_TOKEN Permissions,114.30907928010087,1778534,False,
+##[group]Run actions/upload-artifact@0b7f8abb1508181956e8e162db84b466c27e18ce,62.67975496907536,4167039,True,[ERROR[m] Re-run Maven using the -X[m switch to enable full debug logging.
+##[group]Checking out the ref,53.200440124698666,1112864,False,
+##[group]Fetching the repository,51.40884517888136,3836589,False,
+##[group]Run actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9,17.13628172629378,175511,False,
+##[group]Setting up auth,9.072149149214358,62635,False,
+##[group]Run actions/setup-java@a12e082d834968c1847f782019214fadd20719f6,5.230535531442698,239195,False,
+"##[group]Run echo ""hostIP=$(gcloud compute instances list | grep $(hostname) | awk '{print $4; exit}' )"" >> $GITHUB_OUTPUT",1.7682463780893043,21798,False,
+##[group]Run actions/cache@72d1e4fdff0ff7b1b6e86b415f2d4f5941e5c006,0.5376685271150503,1819820,False,
+##[group]==END_FILE==,0.0,4720186,False,

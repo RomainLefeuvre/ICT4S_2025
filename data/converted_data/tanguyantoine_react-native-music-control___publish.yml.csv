@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0909565883669649, , , , 5306947, False, 
+##[group]GITHUB_TOKEN Permissions, 25.61491565207939, , , , 2186336, False, 
+##[group]Run actions/checkout@v2, 1.619915614360752, , , , 172641, False, 
+##[group]Initializing the repository, 1.6536638563266008, , , , 10824, False, 
+##[group]Fetching the repository, 10.630696219242434, , , , 545646, False, 
+##[group]Run actions/setup-node@v2, 5.872194102057726, , , , 327317, False, 
+##[group]Run yarn install --frozen-lockfile, 4.0835372778677295, , , , 197593, True, ##[error]Process completed with exit code 127.
+##[group]Run npm publish, 17.473878760809406, , , , 6155072, True, ##[error]Process completed with exit code 1.

@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,120.89103918991256,2801780,False,
+##[group]Fetching the repository,95.93493618453412,12352420,False,
+##[group]Checking out the ref,20.7876701029526,176799,False,
+##[group]Run ./gradlew lint,16.08511100083721,506087,True,##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2__dup_10,14.069728528502043,70262,False,
+Requested labels: self-hosted,12.889734985871286,4924301,False,
+##[group]Run ./gradlew --info androidJavadocs,11.241833653310277,438520,True,##[error]Process completed with exit code 1.
+##[group]Run reactivecircus/android-emulator-runner@v2.20.0,7.37455622075796,126444,True,##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Run actions/upload-artifact@v2,2.813945705700409,84050,False,
+##[group]Run actions/upload-artifact@v2__dup_11,2.8123957979791467,78188,False,
+##[group]Getting Git version info,1.5424851196135307,5390,False,
+##[group]Run actions/checkout@v2,1.4994831387237364,173833,False,

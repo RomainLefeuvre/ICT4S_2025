@@ -1,0 +1,84 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (2243.1 files/s 336762.1 lines/s)"
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/DeviceTest.java,211,187,2180
+C++,/tmp/clone_directory/test/arduino_leonardo_bridge_multi_cdc/USBCore.cpp,120,89,661
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java,76,34,508
+Java,/tmp/clone_directory/usbSerialForAndroid/src/test/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriverTest.java,39,45,462
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java,55,22,401
+Java,/tmp/clone_directory/usbSerialExamples/src/main/java/com/hoho/android/usbserial/examples/TerminalFragment.java,36,14,359
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/util/UsbWrapper.java,34,12,339
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/Cp21xxSerialDriver.java,51,29,332
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/Ch34xSerialDriver.java,67,4,316
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java,48,15,296
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/CommonUsbSerialPort.java,54,43,259
+C/C++ Header,/tmp/clone_directory/test/arduino_leonardo_bridge_multi_cdc/USBCore.h,55,42,220
+C++,/tmp/clone_directory/test/arduino_leonardo_bridge_multi_cdc/CDC.cpp,48,61,211
+C/C++ Header,/tmp/clone_directory/test/arduino_leonardo_bridge_castrated_cdc/USBCore.h,52,40,209
+C++,/tmp/clone_directory/test/arduino_leonardo_bridge_castrated_cdc/CDC.cpp,45,60,198
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/util/SerialInputOutputManager.java,35,50,193
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/CrossoverTest.java,34,16,166
+Java,/tmp/clone_directory/usbSerialExamples/src/main/java/com/hoho/android/usbserial/examples/DevicesFragment.java,16,0,148
+Markdown,/tmp/clone_directory/README.md,32,0,146
+Bourne Shell,/tmp/clone_directory/gradlew,22,37,129
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/util/TelnetWrapper.java,21,2,129
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/layout/fragment_terminal.xml,19,0,109
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/util/HexDump.java,32,20,106
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/GsmModemSerialDriver.java,19,0,83
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/ChromeCcdSerialDriver.java,15,0,76
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,74
+Java,/tmp/clone_directory/usbSerialForAndroid/src/test/java/com/hoho/android/usbserial/driver/FtdiSerialDriverTest.java,19,0,70
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/UsbSerialPort.java,43,218,62
+Gradle,/tmp/clone_directory/usbSerialForAndroid/coverage.gradle,5,12,61
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/ProbeTable.java,13,29,60
+XML,/tmp/clone_directory/.idea/misc.xml,0,0,58
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/UsbSerialProber.java,12,25,53
+Gradle,/tmp/clone_directory/usbSerialForAndroid/build.gradle,7,4,48
+C/C++ Header,/tmp/clone_directory/test/arduino_leonardo_bridge_multi_cdc/USBDesc.h,14,18,45
+Arduino Sketch,/tmp/clone_directory/test/arduino_leonardo_bridge/arduino_leonardo_bridge.ino,8,14,42
+Arduino Sketch,/tmp/clone_directory/test/arduino_leonardo_bridge_multi_cdc/arduino_leonardo_bridge_multi_cdc.ino,8,14,42
+Java,/tmp/clone_directory/usbSerialExamples/src/main/java/com/hoho/android/usbserial/examples/MainActivity.java,7,0,38
+Java,/tmp/clone_directory/usbSerialForAndroid/src/test/java/com/hoho/android/usbserial/util/HexDumpText.java,9,0,35
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/UsbId.java,11,13,32
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/util/XonXoffFilter.java,7,10,30
+Java,/tmp/clone_directory/usbSerialForAndroid/src/test/java/android/util/Pair.java,10,45,30
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/xml/device_filter.xml,4,5,29
+Gradle,/tmp/clone_directory/usbSerialExamples/build.gradle,6,0,27
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/util/TestBuffer.java,4,1,27
+XML,/tmp/clone_directory/usbSerialExamples/src/main/AndroidManifest.xml,1,5,26
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/util/UsbUtils.java,7,0,26
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/layout/activity_main.xml,5,0,23
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/layout/device_list_item.xml,3,0,23
+Java,/tmp/clone_directory/usbSerialForAndroid/src/test/java/android/util/Log.java,4,1,19
+Text,/tmp/clone_directory/LICENSE.txt,4,0,18
+Text,/tmp/clone_directory/CHANGELOG.txt,3,0,17
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/layout/device_list_header.xml,1,0,16
+Gradle,/tmp/clone_directory/build.gradle,2,1,15
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/values/arrays.xml,0,0,14
+YAML,/tmp/clone_directory/.github/workflows/build.yml,4,0,13
+diff,/tmp/clone_directory/test/rfc2217_server.diff,2,27,13
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/menu/menu_terminal.xml,0,0,13
+Java,/tmp/clone_directory/usbSerialExamples/src/main/java/com/hoho/android/usbserial/examples/CustomProber.java,4,6,12
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/menu/menu_devices.xml,0,0,12
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/driver/ProlificSerialPortWrapper.java,2,0,11
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/drawable/ic_delete_white_24dp.xml,0,0,9
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/drawable/ic_send_white_24dp.xml,0,0,9
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/values/colors.xml,1,0,9
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/util/MonotonicClock.java,5,0,9
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/SerialTimeoutException.java,2,6,8
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/values/styles.xml,0,0,7
+Java,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/java/com/hoho/android/usbserial/driver/CommonUsbSerialPortWrapper.java,1,0,7
+Java,/tmp/clone_directory/usbSerialForAndroid/src/main/java/com/hoho/android/usbserial/driver/UsbSerialDriver.java,8,23,7
+XML,/tmp/clone_directory/.idea/compiler.xml,0,0,6
+XML,/tmp/clone_directory/.idea/vcs.xml,0,0,6
+XML,/tmp/clone_directory/usbSerialExamples/src/main/res/values/strings.xml,0,0,6
+XML,/tmp/clone_directory/usbSerialForAndroid/src/androidTest/AndroidManifest.xml,0,0,6
+YAML,/tmp/clone_directory/codecov.yml,0,0,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,1,5
+YAML,/tmp/clone_directory/jitpack.yml,0,0,4
+Markdown,/tmp/clone_directory/test/arduino_leonardo_bridge_castrated_cdc/README.md,4,0,4
+Markdown,/tmp/clone_directory/test/arduino_leonardo_bridge_multi_cdc/README.md,4,0,4
+Properties,/tmp/clone_directory/gradle.properties,0,0,3
+Markdown,/tmp/clone_directory/test/pi_pico/README.md,3,0,3
+XML,/tmp/clone_directory/usbSerialForAndroid/src/main/AndroidManifest.xml,0,0,3
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+ProGuard,/tmp/clone_directory/usbSerialForAndroid/proguard-rules.pro,0,0,1
+SUM,,1517,1302,9492

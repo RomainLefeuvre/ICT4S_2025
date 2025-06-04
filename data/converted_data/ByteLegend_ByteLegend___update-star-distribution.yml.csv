@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 88.40711575723243, , , , 4135514, False, 
+##[group]GITHUB_TOKEN Permissions, 3.745333448100943, , , , 2625885, False, 
+##[group]Run actions/checkout@v3, 1.3861883690496788, , , , 149616, True, ##[error]Input required and not supplied: token
+##[group]Restore Gradle state from cache, 770.8198195655648, , , , 99786594, True, ##[error]Gradle build failed: see console output for details
+> Task :buildSrc:compilePluginsBlocks UP-TO-DATE, 2.917485143336408, , , , 97569, False, 
+> Task :buildSrc:generateScriptPluginAdapters UP-TO-DATE, 11.82956641461971, , , , 401115, False, 
+> Task :buildSrc:assemble UP-TO-DATE, 2.997298063973448, , , , 96820, False, 
+> Task :buildSrc:build UP-TO-DATE, 90.40515494698428, , , , 2796084, False, 
+##[group]Caching Gradle state, 31.805886456835363, , , , 4985657, False, 

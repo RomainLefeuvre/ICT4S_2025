@@ -1,0 +1,98 @@
+name,energy,seconds,has_error,error_msg
+Requested labels: self-hosted__dup_7,193107.0897176439,17355179262,False,
+Requested labels: self-hosted__dup_4,116876.02846037336,10333513373,False,
+Requested labels: self-hosted__dup_6,87831.64226722624,8264774478,False,
+Requested labels: self-hosted__dup_5,75324.43879849043,7429498351,False,
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND__dup_83,69718.21769289122,6724773543,True,"2024-05-14 12:59:58 [task-worker-2] [ERROR] o.a.h.t.TaskCallable - Failed to save task with error ""java.lang.IllegalStateException: Can't find task scheduler for graph 'standardhugegraph[hugegraph]'"": {task_name=test-gremlin-job, task_progress=0, task_create=2024-05-14T12:59:45.483+0200, task_status=success, task_update=2024-05-14T12:59:58.801+0200, task_retries=0, id=1, task_type=gremlin, task_server=server-test}"
+Requested labels: self-hosted,42120.12188077244,5949374639,False,
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND__dup_30,27775.934545369168,5230862595,True,"[ERROR[m] Tests run: 26[m, Failures: 0, Errors: 26[m, Skipped: 0, Time elapsed: 5,174.568 s <<< FAILURE![m - in org.apache.hugegraph.core.CoreTestSuite[m"
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND__dup_70,22594.402817840943,1769671674,True,"2024-05-14 11:06:47 [task-worker-2] [ERROR] o.a.h.t.TaskCallable - Failed to save task with error ""java.lang.IllegalStateException: Can't find task scheduler for graph 'standardhugegraph[hugegraph]'"": {task_name=test-gremlin-job, task_progress=0, task_create=2024-05-14T11:06:34.240+0200, task_status=success, task_update=2024-05-14T11:06:47.166+0200, task_retries=0, id=1, task_type=gremlin, task_server=server-test}"
+##[group]Run $TRAVIS_DIR/run-unit-test.sh $BACKEND,20308.81650878348,823140771,True,"2024-05-14 10:11:55 [main] [ERROR] o.a.l.AmbiguityLibrary - Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/home/power/actions-runner/_work/incubator-hugegraph/incubator-hugegraph/hugegraph-server/hugegraph-test/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic"
+Requested labels: self-hosted__dup_3,7381.349785213929,381983506,False,
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND__dup_60,6003.494440552446,526807478,True,2024-05-14 10:33:53 [db-open-2] [ERROR] o.a.h.b.s.r.RocksDBStore - Failed to open RocksDB 'rocksdb-index1/g'
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR__dup_48,5867.557288304821,215018579,False,
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND__dup_47,3984.135244975683,291752855,True,2024-05-14 10:19:08 [db-open-2] [ERROR] o.a.h.b.s.r.RocksDBStore - Failed to open RocksDB 'rocksdb-index1/g'
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR__dup_31,3942.690142959838,203651747,True,2024-05-14 09:57:00 [main] [ERROR] o.a.h.HugeFactory - Error while shutdown
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR__dup_96,3619.766039335207,136519812,True,2024-05-14 13:13:32 [main] [ERROR] o.a.h.d.HugeGraphServer - HugeRestServer start error: 
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR,3494.1349808099208,145087886,True,2024-05-14 08:25:15 [main] [ERROR] o.a.h.d.HugeGraphServer - HugeRestServer start error: 
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR__dup_84,3453.2099930620634,134172469,True,2024-05-14 13:08:00 [main] [ERROR] o.a.h.HugeFactory - Error while shutdown
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR__dup_61,3446.1858087279,138193522,True,2024-05-14 10:36:37 [main] [ERROR] o.a.h.d.HugeGraphServer - HugeRestServer start error: 
+##[group]Run $TRAVIS_DIR/run-api-test.sh $BACKEND $REPORT_DIR__dup_71,3446.167674410098,134374196,True,2024-05-14 11:11:08 [main] [ERROR] o.a.h.d.HugeGraphServer - HugeRestServer start error: 
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp__dup_29,2469.354640210654,79736825,False,
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp__dup_94,2458.853975050649,78374749,False,
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp__dup_45,2439.349872103195,82106601,False,
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp__dup_69,2361.763546064526,77702021,False,
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp__dup_82,2306.699904222009,78734472,False,
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp__dup_59,2279.075516714585,77850871,False,
+##[group]Run mvn clean compile -U -Dmaven.javadoc.skip=true -ntp,2163.707759774611,127774289,False,
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND__dup_95,1453.1806006622232,46284542,True,"[ERROR[m] Tests run: 13[m, Failures: 0, Errors: 13[m, Skipped: 0, Time elapsed: 3.487 s <<< FAILURE![m - in org.apache.hugegraph.core.CoreTestSuite[m"
+##[group]Run $TRAVIS_DIR/run-core-test.sh $BACKEND,1316.99673479494,46936343,True,"[ERROR[m] Tests run: 13[m, Failures: 0, Errors: 13[m, Skipped: 0, Time elapsed: 3.464 s <<< FAILURE![m - in org.apache.hugegraph.core.CoreTestSuite[m"
+##[group]Run actions/cache@v3__dup_58,463.7042883298016,69037815,False,
+##[group]Run actions/cache@v3__dup_44,300.5915619382058,43260582,False,
+##[group]Run actions/cache@v3__dup_81,271.41657660528034,24674446,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l__dup_92,255.02301549280992,19569849,True,##[error]Process completed with exit code 100.
+##[group]Run actions/cache@v3__dup_93,215.19737212620987,21149495,False,
+##[group]Run actions/cache@v3__dup_68,197.6548046420296,26076697,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l__dup_67,193.5724366456806,38762944,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l__dup_80,173.4937883489521,35028335,False,
+##[group]Run actions/cache@v3,172.3461704573979,20107512,False,
+##[group]Run actions/cache@v3__dup_28,171.0649417363999,19299435,False,
+##[group]Run codecov/codecov-action@v3__dup_32,121.77009627983506,7711413,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l,103.28281389544964,15351418,True,##[error]Process completed with exit code 1.
+##[group]Run codecov/codecov-action@v3__dup_62,95.24186978948792,5287893,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l__dup_26,93.80186902544509,7749376,True,##[error]Process completed with exit code 1.
+##[group]Run codecov/codecov-action@v3__dup_85,86.08659009928516,5114854,False,
+##[group]GITHUB_TOKEN Permissions__dup_73,79.35158152911441,6001023,False,
+##[group]GITHUB_TOKEN Permissions,75.58664652604848,3984741,False,
+##[group]GITHUB_TOKEN Permissions__dup_86,73.76168337360451,4667195,False,
+##[group]Run codecov/codecov-action@v3,70.16016738453247,4858902,False,
+##[group]Run codecov/codecov-action@v3__dup_97,70.13916459325574,5098355,False,
+##[group]Run codecov/codecov-action@v3__dup_72,64.78287385449318,5784761,False,
+##[group]GITHUB_TOKEN Permissions__dup_33,62.63522143866306,4463426,False,
+##[group]GITHUB_TOKEN Permissions__dup_63,56.40652472969112,4291761,False,
+##[group]Run codecov/codecov-action@v3__dup_49,50.47229642647152,5364460,False,
+##[group]GITHUB_TOKEN Permissions__dup_50,42.26504095939878,4183427,False,
+##[group]GITHUB_TOKEN Permissions__dup_21,28.57772748128121,4040043,False,
+##[group]Cleaning the repository__dup_37,21.069130356260334,851848,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l__dup_56,18.5845403869901,774153,False,
+##[group]Fetching the repository,15.557827714517956,462674,False,
+##[group]Run $TRAVIS_DIR/install-backend.sh $BACKEND && jps -l__dup_42,13.296283274480746,1262199,False,
+##[group]Fetching the repository__dup_54,13.062337577873771,688470,False,
+##[group]Setting up auth__dup_76,12.31030219860807,61987,False,
+##[group]Cleaning the repository__dup_88,12.159545218783231,438961,False,
+##[group]Fetching the repository__dup_66,11.169174916892622,458922,False,
+##[group]Fetching the repository__dup_90,10.44809634983107,537073,False,
+##[group]Cleaning the repository__dup_65,9.708650566934828,441962,False,
+##[group]Cleaning the repository__dup_75,9.331554665704031,433141,False,
+##[group]Run actions/checkout@v4__dup_51,9.315039319326624,253824,False,
+##[group]Fetching the repository__dup_39,9.117900929063124,505249,False,
+##[group]Installed distributions__dup_57,9.080000525401422,30505,False,
+##[group]Cleaning the repository,8.713391859345156,329672,False,
+##[group]Fetching the repository__dup_77,8.368489298400087,451186,False,
+##[group]Cleaning the repository__dup_52,8.040668058842744,821928,False,
+##[group]Cleaning the repository__dup_24,7.924084556674922,441700,False,
+##[group]Fetching the repository__dup_25,6.506086216121009,432719,False,
+##[group]Run actions/checkout@v4__dup_22,6.149777887697476,142225,False,
+##[group]Run actions/checkout@v4__dup_87,3.881241827343436,145271,False,
+##[group]Installed distributions__dup_41,3.579442324359197,290636,False,
+##[group]Installed distributions,3.360087450649838,27026,False,
+##[group]Run actions/checkout@v4__dup_64,3.201882196793628,162011,False,
+##[group]Setting up auth,2.9873045890304675,96416,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.821623317199636,13607,False,
+##[group]Run actions/checkout@v4,2.780202999241929,164227,False,
+##[group]Installed distributions__dup_55,2.214036115916482,30743,False,
+##[group]Setting up auth__dup_89,2.1576490455428923,71627,False,
+##[group]Checking out the ref,2.0473570670061707,19649,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_36,2.045694295441907,193571,False,
+##[group]Run actions/checkout@v4__dup_74,2.031487862069594,143639,False,
+##[group]Getting Git version info__dup_35,2.001404506234299,5263,False,
+##[group]Installed distributions__dup_27,1.9921152108123048,168113,False,
+##[group]Run actions/checkout@v4__dup_34,1.957114717026691,164483,False,
+##[group]Setting up auth__dup_38,1.9259689904455528,78132,False,
+##[group]Installed distributions__dup_79,1.9240448277834492,30723,False,
+##[group]Installed distributions__dup_91,1.7699923683596577,30369,False,
+##[group]Installed distributions__dup_43,1.75592206215878,34346,False,
+##[group]Checking out the ref__dup_78,1.7362846017058753,22174,False,
+##[group]Setting up auth__dup_53,1.694105149649212,137318,False,
+##[group]Getting Git version info,1.3009278442985928,28989,False,
+Requested labels: self-hosted__dup_2,0.4394116599546185,5302754,False,

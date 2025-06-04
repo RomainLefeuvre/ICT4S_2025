@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew clean assembleRelease --info --warning-mode all,254.3524607020828,56111200,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,20.08247361165328,2549997,False,
+##[group]Fetching the repository,16.301090775507834,1249516,False,
+##[group]Run actions/upload-artifact@v2,11.062552499086276,772963,False,
+##[group]Run actions/checkout@v2,2.213970261577386,182374,False,
+##[group]Run actions/setup-java@v1,1.4302639742933554,124706,False,
+##[group]Checking out the ref,1.391078659929154,83828,False,
+Requested labels: self-hosted,0.7746193573792038,5621441,False,

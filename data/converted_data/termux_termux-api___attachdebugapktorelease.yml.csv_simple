@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run exit_on_error() {,13.405431185034606,903070,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,10.757444778114191,1283804,False,
+##[group]Fetching the repository,9.819616258996543,838370,False,
+##[group]Checking out the ref,1.3515763951989626,69547,False,
+##[group]Setting up auth,1.1033276695501737,58821,False,
+##[group]Run actions/checkout@v4,1.0757444778114191,143850,False,
+Requested labels: self-hosted,0.0,5953605,False,

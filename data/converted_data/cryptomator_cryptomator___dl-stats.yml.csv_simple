@@ -1,0 +1,5 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,6.60657904872833,1820560,False,
+##[group]Run fjogeleit/http-request-action@v1,3.1873846287724388,442374,True,"##[error]{""code"":401,""message"":{""status"":""error"",""error"":""authentication error: no credentials provided""}}"
+##[group]Run TIME=$(($(date +%s) / $INTERVAL * $INTERVAL)),0.5563434988402803,9416,False,
+Requested labels: self-hosted,0.0170574500200379,4614919,False,

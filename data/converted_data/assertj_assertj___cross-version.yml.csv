@@ -1,0 +1,16 @@
+##[group]==END_FILE==, 873.8031184080087, , , , 124907927, False, 
+##[group]GITHUB_TOKEN Permissions, 230.56149133849172, , , , 3021063, False, 
+##[group]Run actions/checkout@v4, 11.088562427696814, , , , 161959, False, 
+##[group]Getting Git version info, 11.283029821015695, , , , 63152, False, 
+##[group]Cleaning the repository, 11.477497214334576, , , , 39908, False, 
+##[group]Setting up auth, 11.671964607653456, , , , 80117, False, 
+##[group]Fetching the repository, 48.63253236380265, , , , 420946, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java, 213.00061081198373, , , , 1485887, False, 
+##[group]Run ./mvnw $MAVEN_ARGS verify, 823.9670851825131, , , , 105600391, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_10, 6.119038292551384, , , , 2968560, False, 
+##[group]Run actions/checkout@v4__dup_11, 2.1591012445869247, , , , 154280, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 2.1204147303746663, , , , 25227, False, 
+##[group]Setting up auth__dup_13, 2.081728216162408, , , , 66251, False, 
+##[group]Fetching the repository__dup_14, 9.82834336762816, , , , 454678, False, 
+##[group]Run JAVA=$JAVA_HOME_21_X64/bin/java__dup_15, 8.667747941260405, , , , 521875, False, 
+##[group]Run ./mvnw $MAVEN_ARGS verify__dup_16, 31.200486552666906, , , , 2880647, True, ##[error]Process completed with exit code 1.

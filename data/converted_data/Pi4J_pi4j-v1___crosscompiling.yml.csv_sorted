@@ -1,0 +1,10 @@
+##[group]Run docker run --user "$(id -u):$(id -g)" --rm --volume $(pwd):/build pi4j/pi4j-builder:1.4, 535.1212633621441, , , , 33411473, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-antrun-plugin:3.0.0:run[m (pi4j-attach-native-library-artifacts)[m on project pi4j-native[m: An Ant BuildException has occured: File does not exist: /build/pi4j-native/target/native/lib/raspberrypi/dynamic/libpi4j-armhf.so[m
+##[group]Run docker pull pi4j/pi4j-builder:1.4, 150.932316724257, , , , 78451379, False, 
+##[group]Fetching the repository, 79.11366366315094, , , , 20784079, False, 
+##[group]Run actions/upload-artifact@v2, 21.969322898316296, , , , 1553564, False, 
+##[group]GITHUB_TOKEN Permissions, 14.328180820139952, , , , 1904032, False, 
+##[group]Run cp -r pi4j-distribution/target/*.deb staging, 5.7068381619664486, , , , 279368, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v2, 4.905436985801606, , , , 188970, False, 
+##[group]Setting up auth, 2.370134958675365, , , , 62499, False, 
+##[group]Checking out the ref, 1.7153600261452944, , , , 192997, False, 
+Requested labels: self-hosted, 0.0, , , , 5968315, False, 

@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 58.28652614855983, , , , 5985968, False, 
+##[group]GITHUB_TOKEN Permissions, 40.20545024235378, , , , 3370046, False, 
+##[group]Run actions/checkout@v2, 5.410469673783962, , , , 183336, True, ##[error]Input required and not supplied: token
+##[group]Run actions/setup-java@v1, 217.7599649077976, , , , 19716436, False, 
+##[group]Run crazy-max/ghaction-import-gpg@v3, 2.3099452287240405, , , , 174588, True, ##[error]Input required and not supplied: gpg-private-key
+##[group]Run mvn -f sidekick -DskipTests=true -q clean package release:clean release:prepare release:perform release:clean --batch-mode -P internal-release, 77.7344410189697, , , , 1616507, True, [ERROR] [ERROR] Some problems were encountered while processing the POMs:

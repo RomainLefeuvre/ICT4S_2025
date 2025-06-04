@@ -1,0 +1,11 @@
+##[group]Run mvn -T 8 clean test, 2108.54973124524, , , , 115184436, True, [ERROR[m] java.lang.RuntimeException: Could not find installation home path. Please make sure bin/idea.properties is present in the installation directory.
+##[group]Run actions/cache@v3, 654.6876971750418, , , , 65859621, False, 
+##[group]GITHUB_TOKEN Permissions, 100.66345937697317, , , , 3596536, False, 
+##[group]Fetching the repository, 19.030724070561064, , , , 476551, False, 
+##[group]Installed distributions, 15.849227366717148, , , , 391113, False, 
+##[group]Cleaning the repository, 13.327332464642993, , , , 257471, False, 
+##[group]Run mvn --version, 12.658386640753534, , , , 1362174, False, 
+##[group]Run actions/checkout@v3, 8.534625128918359, , , , 180704, False, 
+##[group]Checking out the ref, 4.932812608062083, , , , 27999, False, 
+##[group]Setting up auth, 4.58254942721845, , , , 85040, False, 
+Requested labels: self-hosted, 0.4959035620997346, , , , 4045094, False, 

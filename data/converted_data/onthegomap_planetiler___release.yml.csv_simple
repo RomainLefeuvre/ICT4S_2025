@@ -1,0 +1,25 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,236.09730466750867,31712856,False,
+##[group]GITHUB_TOKEN Permissions,222.9853848974872,3572735,False,
+[INFO] --- versions-maven-plugin:2.16.2:set-property (default-cli) @ planetiler-parent ---,79.21697050737652,2734848,False,
+"##[group]Run ./scripts/test-release.sh """"",62.17643324487274,3633626,True,[ERROR] 
+##[group]==END_FILE==,41.87683950584093,5337144,False,
+[INFO] --- versions-maven-plugin:2.16.2:commit (default-cli) @ planetiler-dist ---,38.5642189705281,2103729,False,
+##[group]Run actions/cache@v2,23.41337959361104,603900,False,
+[INFO] --- versions-maven-plugin:2.16.2:set-property (default-cli) @ planetiler-benchmarks ---,22.53723198876064,743858,False,
+##[group]Fetching the repository,20.302048089886803,429858,False,
+"##[group]Run ./scripts/set-versions.sh """"",19.344631149410183,16644709,False,
+##[group]Persisting credentials for submodules,19.324313014717475,342935,False,
+[INFO] --- versions-maven-plugin:2.16.2:set-property (default-cli) @ planetiler-core ---,16.284031035664988,227052,False,
+##[group]Run ./scripts/build-release.sh,13.901809794943746,1165536,True,"[ERROR] Internal error: java.lang.IllegalArgumentException: version can neither be null, empty nor blank -> [Help 1]"
+##[group]Run actions/github-script@v7,10.737665090045,161746,True,##[error]Unhandled error: TypeError: Cannot read properties of undefined (reading 'version')
+##[group]Run softprops/action-gh-release@v2,8.03162723356688,1597270,True,##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v4,5.2955024143848,118210,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.246615660626333,64560,False,
+##[group]Setting up auth,5.197728906867868,67059,False,
+##[group]Fetching submodules,4.953295138075535,93072,False,
+"##[group]Run echo ""::set-output name=hash::07b5c279cf76b07cb4055cf317984ccfd1c9322b3836803801da33375e852ad7""",4.1222203241816056,124894,False,
+[INFO] --- versions-maven-plugin:2.16.2:set-property (default-cli) @ planetiler-examples ---,3.0606001137451977,3958542,False,
+##[group]Run ./scripts/push-release.sh ,2.8404019030382184,3222498,True,"##[error]Validation Failed: {""resource"":""ReleaseAsset"",""code"":""custom"",""field"":""size"",""message"":""size must be greater than or equal to 1""}"
+"##[group]Run echo -n """" | base64 --decode | gpg --batch --import",1.0057678523524138,212545,True,##[error]Process completed with exit code 1.
+##[group]Run md5sum planetiler.jar > planetiler.jar.md5,0.462128612633027,39084,True,##[error]Process completed with exit code 1.

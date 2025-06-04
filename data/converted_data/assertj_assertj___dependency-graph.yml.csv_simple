@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,526.6294044974078,64313828,False,
+##[group]GITHUB_TOKEN Permissions,110.36456298212528,3231425,False,
+##[group]depgraph-maven-plugin:reactor,73.55123010930633,14564234,False,
+[INFO] --- depgraph:4.0.2:reactor (default-cli) @ assertj-build ---,73.55123010930633,10140268,False,
+##[group]depgraph-maven-plugin:aggregate,30.74573757888394,2892397,False,
+[INFO] --- depgraph:4.0.2:reactor (default-cli) @ assertj-build ---__dup_11,27.207519368076785,2407713,False,
+##[group]Fetching the repository,26.950279511927125,480225,False,
+##[group]Cleaning the repository,10.225493716429703,183876,False,
+##[group]Dependency Snapshot,8.489699687539687,1083700,True,##[error]HTTP Status 404 for request POST https://api.github.com/repos/diversepwmeasurement/assertj/dependency-graph/snapshots
+##[group]Checking out the ref,5.627749368817344,25165,False,
+##[group]Removing previously created refs_ to avoid conflicts,4.993900124998891,21408,False,
+##[group]Run actions/checkout@v4,4.914668969521585,159673,False,
+[INFO] --- depgraph:4.0.2:aggregate (default-cli) @ assertj-build ---,4.808272422943667,502475,False,
+##[group]==END_FILE==,0.0116866496429164,4339212,False,

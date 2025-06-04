@@ -1,0 +1,3 @@
+##[group]Run curl -f -k --retry 10 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/health, 443.3654645117614, , , , 300808612, True, ##[error]Process completed with exit code 7.
+##[group]Run (( $(curl -f -k --retry 5 --retry-connrefused --connect-timeout 30 --retry-delay 30 https://localhost:8443/fineract-provider/actuator/info | wc --chars) > 100 )), 253.43236905341664, , , , 151167503, True, ##[error]Process completed with exit code 1.
+##[group]Run docker ps, 13.154555488137795, , , , 925866, False, 

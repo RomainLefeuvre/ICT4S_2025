@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,166.3676387084667,1286153,False,
+##[group]Run thinkasany/pr-label-action@master,78.47752513993848,359648,True,##[error][2024-06-27 02:28:44] 错误：
+Requested labels: self-hosted,4.675583896927418,4832709,False,

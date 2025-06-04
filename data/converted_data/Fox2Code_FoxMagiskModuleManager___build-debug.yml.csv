@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 12.839463637945697, , , , 4121974, False, 
+##[group]GITHUB_TOKEN Permissions, 299.2358144730353, , , , 4752200, False, 
+##[group]Run actions/checkout@v3, 19.602421378375567, , , , 157170, False, 
+##[group]Setting up auth, 10.007006721168528, , , , 64551, False, 
+##[group]Fetching the repository, 41.4000004312124, , , , 441117, False, 
+##[group]Checking out the ref, 10.692993494437673, , , , 10435, False, 
+##[group]Fetching submodules, 10.8301908490915, , , , 93979, False, 
+##[group]Persisting credentials for submodules, 10.96738820374533, , , , 117407, False, 
+##[group]Run android-actions/setup-android@v2, 190.6623221260172, , , , 24552791, False, 
+##[group]Restore Gradle state from cache, 403.26105968004106, , , , 42334468, False, 
+##[group]Run ./gradlew app:assembleDefaultDebug, 374.146685785365, , , , 34411722, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew app:assembleFdroidDebug, 63.66616869317842, , , , 2418141, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v3, 10.518586423368356, , , , 87583, False, 
+##[group]Run actions/upload-artifact@v3__dup_14, 2.1248184268561783, , , , 100348, False, 
+##[group]Run actions/upload-artifact@v3__dup_15, 2.1459195690386856, , , , 85072, False, 
+##[group]Run actions/upload-artifact@v3__dup_16, 2.167020711221193, , , , 82097, False, 
+##[group]Run actions/upload-artifact@v3__dup_17, 42.06932377403759, , , , 1204907, False, 
+##[group]Caching Gradle state, 43.23880547298643, , , , 3644589, False, 

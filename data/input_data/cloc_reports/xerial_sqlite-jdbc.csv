@@ -1,0 +1,154 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.11 s (1419.4 files/s 406964.9 lines/s)"
+C/C++ Header,/tmp/clone_directory/lib/inc_mac/jni.h,213,54,1694
+C/C++ Header,/tmp/clone_directory/lib/inc_win/jni.h,206,52,1693
+C/C++ Header,/tmp/clone_directory/lib/inc_linux/jni.h,205,72,1682
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc3/JDBC3DatabaseMetaData.java,308,357,1585
+C,/tmp/clone_directory/src/main/java/org/sqlite/core/NativeDB.c,376,86,1504
+Java,/tmp/clone_directory/src/test/java/org/sqlite/DBMetaDataTest.java,220,46,1404
+C,/tmp/clone_directory/src/main/ext/extension-functions.c,244,398,1327
+Java,/tmp/clone_directory/src/test/java/org/sqlite/PrepStmtTest.java,112,32,737
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc3/JDBC3ResultSet.java,172,119,697
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/FastDatePrinter.java,136,394,662
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteConfig.java,115,421,643
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc4/JDBC4ResultSet.java,156,54,595
+Java,/tmp/clone_directory/src/test/java/org/sqlite/JSON1Test.java,134,5,580
+Java,/tmp/clone_directory/src/test/java/org/sqlite/StatementTest.java,99,24,571
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/FastDateParser.java,73,297,547
+Java,/tmp/clone_directory/src/test/java/org/sqlite/UDFTest.java,40,3,527
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/DB.java,122,709,436
+Maven,/tmp/clone_directory/pom.xml,25,18,431
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc3/JDBC3PreparedStatement.java,91,59,401
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteConnection.java,69,173,353
+Java,/tmp/clone_directory/src/main/java/org/sqlite/javax/SQLitePooledConnection.java,83,27,346
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ConnectionTest.java,66,6,340
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/NativeDB.java,107,128,333
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ResultSetTest.java,55,5,318
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc3/JDBC3Statement.java,78,78,312
+Java,/tmp/clone_directory/src/test/java/org/sqlite/MathFunctionsTest.java,37,1,310
+Java,/tmp/clone_directory/src/test/java/org/sqlite/TransactionTest.java,60,23,302
+Java,/tmp/clone_directory/src/test/java/org/sqlite/QueryTest.java,54,15,283
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteJDBCLoader.java,41,107,278
+Java,/tmp/clone_directory/src/test/java/org/sqlite/SerializeTest.java,25,1,229
+Java,/tmp/clone_directory/src/test/java/org/sqlite/JDBCTest.java,27,27,227
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,14,19,220
+Java,/tmp/clone_directory/src/test/java/org/sqlite/BusyHandlerTest.java,29,33,214
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ListenerTest.java,55,37,201
+Markdown,/tmp/clone_directory/NEWS.md,15,0,199
+Java,/tmp/clone_directory/src/main/java/org/sqlite/util/OSInfo.java,30,55,196
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-android-arm,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-android-arm64,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-android-x86,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-android-x86_64,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-arm64-lts,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-armv5,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-armv6-lts,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-armv7a-lts,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-musl-arm64,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-ppc64,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-arm64,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-armv7,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-x64,46,41,192
+Bourne Again Shell,/tmp/clone_directory/docker/dockcross-windows-x86,46,41,192
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc3/JDBC3Connection.java,35,64,188
+Java,/tmp/clone_directory/src/test/java/org/sqlite/RSMetaDataTest.java,34,1,186
+Java,/tmp/clone_directory/src/test/java/org/sqlite/CollationTest.java,25,1,185
+AsciiDoc,/tmp/clone_directory/README.adoc,60,6,183
+make,/tmp/clone_directory/Makefile,59,6,176
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteErrorCode.java,5,44,168
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/FastDateFormat.java,42,353,167
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteDataSource.java,50,305,158
+Java,/tmp/clone_directory/src/test/java/org/sqlite/InsertQueryTest.java,40,15,148
+Java,/tmp/clone_directory/src/test/java/org/sqlite/SavepointTest.java,40,14,148
+Markdown,/tmp/clone_directory/USAGE.md,41,0,146
+Java,/tmp/clone_directory/src/test/java/org/sqlite/MultipleClassLoaderTest.java,14,31,145
+Java,/tmp/clone_directory/src/test/java/org/sqlite/util/OSInfoTest.java,25,16,144
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/CoreDatabaseMetaData.java,15,45,143
+Java,/tmp/clone_directory/src/main/java/org/sqlite/Function.java,35,197,128
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/CoreStatement.java,29,53,126
+Java,/tmp/clone_directory/src/main/java9/org/sqlite/nativeimage/SqliteJdbcFeature.java,21,15,122
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/FormatCache.java,17,121,118
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ProgressHandlerTest.java,14,9,118
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteConnectionConfig.java,24,1,114
+YAML,/tmp/clone_directory/.github/workflows/build-native.yml,7,5,111
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/SafeStmtPtr.java,20,64,105
+Java,/tmp/clone_directory/src/test/java/org/sqlite/BackupTest.java,18,18,98
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/CoreResultSet.java,23,51,96
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ErrorMessageTest.java,20,0,96
+Java,/tmp/clone_directory/src/test/java/org/sqlite/SQLiteJDBCLoaderTest.java,13,32,95
+Java,/tmp/clone_directory/src/test/java/org/sqlite/PreparedStatementThreadTest.java,13,15,94
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/DateFormatUtils.java,28,199,85
+Java,/tmp/clone_directory/src/main/java/org/sqlite/ExtendedCommand.java,18,57,84
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc4/JDBC4PreparedStatement.java,22,19,81
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/CorePreparedStatement.java,15,35,80
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ExtensionTest.java,13,0,77
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc4/JDBC4Connection.java,22,12,74
+Java,/tmp/clone_directory/src/test/java/org/sqlite/SQLiteDataSourceTest.java,14,9,72
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,27,0,65
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ReadUncommittedTest.java,11,10,62
+Java,/tmp/clone_directory/src/test/java/org/sqlite/Utils.java,7,0,52
+Java,/tmp/clone_directory/src/main/java/org/sqlite/JDBC.java,15,43,50
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ExtendedCommandTest.java,13,9,50
+YAML,/tmp/clone_directory/jreleaser.yml,0,0,48
+Java,/tmp/clone_directory/src/test/java/org/sqlite/SQLiteConnectionPoolDataSourceTest.java,14,13,48
+Java,/tmp/clone_directory/src/test/java/org/sqlite/FetchSizeTest.java,8,4,46
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc4/JDBC4DatabaseMetaData.java,12,1,45
+Java,/tmp/clone_directory/src/test/java/org/sqlite/architecture/CodingRulesTest.java,8,0,45
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc4/JDBC4Statement.java,13,3,39
+Java,/tmp/clone_directory/src/test/java/org/sqlite/ResultSetWithoutResultsTest.java,6,8,39
+Java,/tmp/clone_directory/src/test/java/org/sqlite/SQLiteConfigTest.java,12,3,38
+Java,/tmp/clone_directory/src/test/java/org/sqlite/UDFCustomErrorTest.java,6,1,37
+Java,/tmp/clone_directory/src/main/java/org/sqlite/core/Codes.java,28,42,34
+Java,/tmp/clone_directory/demo/Sample.java,2,6,33
+Java,/tmp/clone_directory/src/main/java/org/sqlite/util/QueryUtils.java,2,7,32
+Java,/tmp/clone_directory/src/main/java/org/sqlite/Collation.java,7,57,29
+Java,/tmp/clone_directory/src/main/java/org/sqlite/util/ProcessRunner.java,6,0,29
+Java,/tmp/clone_directory/src/main/java/org/sqlite/util/ResourceFinder.java,8,59,27
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteOpenMode.java,3,31,25
+Java,/tmp/clone_directory/src/main/java/org/sqlite/BusyHandler.java,9,31,24
+Java,/tmp/clone_directory/src/test/java/org/sqlite/CachedRowSetTest.java,3,0,24
+Java,/tmp/clone_directory/src/test/java/org/sqlite/TypeMapTest.java,9,0,24
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteLimits.java,4,0,23
+Java,/tmp/clone_directory/src/test/java/org/sqlite/MetadataLeakTest.java,4,7,22
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,7,0,21
+Java,/tmp/clone_directory/src/main/java/org/sqlite/ProgressHandler.java,4,16,21
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc3/JDBC3Savepoint.java,8,0,21
+Java,/tmp/clone_directory/src/main/java/org/sqlite/javax/SQLiteConnectionPoolDataSource.java,6,24,20
+Bourne Shell,/tmp/clone_directory/amalgamation_version.sh,0,4,19
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/DatePrinter.java,12,90,18
+Java,/tmp/clone_directory/src/test/java/org/sqlite/architecture/TestCodingRulesTest.java,4,0,17
+JSON,/tmp/clone_directory/src/test/resources/META-INF/native-image/org.xerial/sqlite-jdbc/resource-config.json,0,0,17
+Java,/tmp/clone_directory/src/main/java/org/sqlite/util/LibraryLoaderUtil.java,6,5,16
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,5,0,15
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/DateParser.java,9,77,15
+Java,/tmp/clone_directory/src/test/java/org/sqlite/core/NativeDBHelper.java,4,25,15
+JSON,/tmp/clone_directory/src/test/resources/META-INF/native-image/org.xerial/sqlite-jdbc/reflect-config.json,0,0,15
+XML,/tmp/clone_directory/settings.xml,0,0,14
+Java,/tmp/clone_directory/src/main/java/org/sqlite/util/StringUtils.java,3,0,14
+Java,/tmp/clone_directory/src/main/java9/module-info.java,4,0,14
+INI,/tmp/clone_directory/.settings/org.eclipse.jdt.core.prefs,0,0,13
+C/C++ Header,/tmp/clone_directory/lib/inc_linux/jni_md.h,5,6,13
+C/C++ Header,/tmp/clone_directory/lib/inc_mac/jni_md.h,4,6,13
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteException.java,4,24,12
+YAML,/tmp/clone_directory/.github/dependabot.yml,2,2,10
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/ExceptionUtils.java,3,75,10
+INI,/tmp/clone_directory/.settings/org.eclipse.wst.validation.prefs,0,0,9
+C/C++ Header,/tmp/clone_directory/lib/inc_win/jni_md.h,4,6,9
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteUpdateListener.java,3,1,9
+Java,/tmp/clone_directory/src/main/java/org/sqlite/jdbc4/JDBC4PooledConnection.java,4,2,9
+Markdown,/tmp/clone_directory/SECURITY.md,4,0,8
+XML,/tmp/clone_directory/maven-eclipse.xml,0,0,8
+HTML,/tmp/clone_directory/demo/applet-demo.html,0,0,6
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.rcodesign,1,0,6
+Java,/tmp/clone_directory/src/main/java/org/sqlite/FileException.java,1,0,6
+Java,/tmp/clone_directory/src/main/java/org/sqlite/NativeLibraryNotFoundException.java,1,0,6
+Java,/tmp/clone_directory/src/main/java/org/sqlite/SQLiteCommitListener.java,3,1,5
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.alpine-linux_x86,2,0,4
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.alpine-linux_x86_64,2,0,4
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.linux_x86,2,0,4
+Dockerfile,/tmp/clone_directory/docker/Dockerfile.linux_x86_64,2,0,4
+Bourne Shell,/tmp/clone_directory/docker/updatescripts.sh,2,1,4
+INI,/tmp/clone_directory/.settings/org.eclipse.ltk.core.refactoring.prefs,0,0,3
+Properties,/tmp/clone_directory/src/main/resources/sqlite-jdbc.properties,0,0,2
+Java,/tmp/clone_directory/src/main/java/org/sqlite/date/package-info.java,0,29,1
+Properties,/tmp/clone_directory/src/main/resources/META-INF/native-image/org.xerial/sqlite-jdbc/native-image.properties,0,0,1
+SUM,,5765,7051,30765

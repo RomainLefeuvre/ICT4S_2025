@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,4.565608934823247,1348329,False,
+Requested labels: self-hosted,2.6107261316351305,4103039,False,
+##[group]Run eps1lon/actions-label-merge-conflict@releases/2.x,2.4941224834184363,921662,False,

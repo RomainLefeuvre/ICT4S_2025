@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Environment details,13.850720330195482,5191265,False,
+##[group]GITHUB_TOKEN Permissions,12.963917477165504,2286382,False,
+##[group]Run npm version ,11.253859223089076,1388874,False,
+##[group]Run git push origin main --follow-tags,5.120671440013952,823730,False,
+Requested labels: self-hosted,3.431547816316768,5170707,False,
+##[group]Fetching the repository,2.518968401455191,432947,False,
+##[group]Run actions/setup-node@v3.5.1,1.28806517992763,244826,False,
+##[group]Run actions/checkout@v3,1.2309032215275608,185800,False,
+##[group]Run git config user.name 'RNMapbox robot',0.9303913453248664,75884,False,
+##[group]Setting up auth,0.6208105443637869,61939,False,

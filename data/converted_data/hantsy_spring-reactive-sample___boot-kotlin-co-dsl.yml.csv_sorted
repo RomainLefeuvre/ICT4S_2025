@@ -1,0 +1,12 @@
+##[group]Run cd boot-kotlin-co-dsl, 1099.9451053685948, , , , 131801436, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.093 s <<< FAILURE! -- in com.example.demo.IntegrationTests
+[INFO] --- kotlin-maven-plugin:1.9.23:compile (compile) @ spring-reactive-sample-boot-kotlin-co-dsl ---, 288.68442656916847, , , , 36093819, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-reactive-sample-boot-kotlin-co-dsl ---, 92.25370060242072, , , , 10737836, False, 
+##[group]Installed distributions, 88.60342595660491, , , , 17409310, False, 
+##[group]GITHUB_TOKEN Permissions, 85.68402706310629, , , , 2210068, False, 
+##[group]Fetching the repository, 66.50460208003662, , , , 453496, False, 
+##[group]Run actions/checkout@v4, 29.47875457947509, , , , 150325, False, 
+[INFO] --- kotlin-maven-plugin:1.9.23:test-compile (test-compile) @ spring-reactive-sample-boot-kotlin-co-dsl ---, 17.765222385254553, , , , 1080656, False, 
+##[group]Cleaning the repository, 14.259891665160808, , , , 37900, False, 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-boot-kotlin-co-dsl ---, 0.7785811640138688, , , , 108714, False, 
+##[group]Run docker-compose up -d mongodb, 0.5671678371538372, , , , 47821, True, ##[error]Process completed with exit code 127.
+Requested labels: self-hosted, 0.0415869307052474, , , , 3650810, False, 

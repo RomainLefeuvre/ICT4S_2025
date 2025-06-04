@@ -1,0 +1,11 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run pip install -r ./docs/sphinx/requirements.txt,3579.903960208706,332003576,False,
+##[group]Run cd ./docs/sphinx,692.6391580580671,49012931,False,
+##[group]Run JamesIves/github-pages-deploy-action@releases/v3,161.38601561122712,18517855,False,
+Requested labels: self-hosted,62.12425192892582,5347796,False,
+##[group]GITHUB_TOKEN Permissions,56.50146767487679,16751914,False,
+##[group]Removing previously created refs_ to avoid conflicts,50.34406069633206,3026980,False,
+##[group]Fetching the repository,8.106108546394474,477978,False,
+##[group]Cleaning the repository,3.2436349537009184,273876,False,
+##[group]Run actions/checkout@v3,1.6261202426450911,120834,False,
+##[group]Setting up auth,1.6216188876599378,87595,False,

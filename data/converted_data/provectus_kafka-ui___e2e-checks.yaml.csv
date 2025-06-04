@@ -1,0 +1,18 @@
+Requested labels: self-hosted, 1.0768614169084934, , , , 4850063, False, 
+##[group]GITHUB_TOKEN Permissions, 16.815050211633046, , , , 4873164, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/simple-elf/allure-report-action/master/Dockerfile'., 43.62678323454131, , , , 6039316, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/jakejarvis/s3-sync-action/master/Dockerfile'., 33.546442689850096, , , , 6313975, False, 
+##[group]Run actions/checkout@v3, 0.2806345129049885, , , , 178294, False, 
+##[group]Setting up auth, 0.320552052410217, , , , 141583, False, 
+##[group]Fetching the repository, 0.76085672333612, , , , 467246, False, 
+##[group]Checking out the ref, 0.2151626430247978, , , , 54320, False, 
+##[group]Run aws-actions/configure-aws-credentials@v3, 2.023854778373168, , , , 2171633, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run docker pull selenoid/vnc_chrome:103.0, 5.907614278135813, , , , 811190, False, 
+##[group]Installed distributions, 736.6815176058735, , , , 81293955, False, 
+##[group]Run ./mvnw -B -ntp versions:set -DnewVersion=, 15.027953855090155, , , , 2524118, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project kafka-ui: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+[INFO] --- versions-maven-plugin:2.16.2:set (default-cli) @ kafka-ui ---, 455.86064106803497, , , , 90609947, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project kafka-ui: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]Run docker-compose -f kafka-ui-e2e-checks/docker/selenoid-git.yaml up -d, 455.86064106803497, , , , 88154399, True, ##[error]Process completed with exit code 1.
+##[group]Run ./mvnw -B -ntp versions:set -DnewVersion=__dup_15, 0.3023887293559185, , , , 2658112, True, [ERROR] Failed to execute goal org.codehaus.mojo:versions-maven-plugin:2.16.2:set (default-cli) on project kafka-ui: You must specify the new version, either by using the newVersion property (that is -DnewVersion=... on the command line) or run in interactive mode -> [Help 1]
+##[group]Run simple-elf/allure-report-action@master, 450.79001524489, , , , 37154417, False, 
+##[group]Run jakejarvis/s3-sync-action@master, 38.74866251935298, , , , 4955441, False, 
+##[group]Run Sibz/github-status-action@v1.1.6, 28.478127065796773, , , , 1155640, False, 

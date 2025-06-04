@@ -1,0 +1,31 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,2959.2506413549568,315150564,False,
+##[group]Installed distributions__dup_24,2315.331050158758,216371329,False,
+##[group]Installed distributions,1832.1920131179195,192400878,False,
+##[group]Run google-github-actions/setup-gcloud@v2,792.4132494059988,75243745,False,
+##[group]Run pip3 install -e ci/fireci__dup_26,176.05889039749022,15349641,False,
+##[group]Run fireci fireperf_e2e_test \\,113.0972194671689,10796027,True,"##[error]google-github-actions/auth failed with: the GitHub Action workflow must specify exactly one of ""workload_identity_provider"" or ""credentials_json""! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot."
+##[group]GITHUB_TOKEN Permissions__dup_16,65.5854007378941,6314237,False,
+##[group]Run fireci fireperf_e2e_test \\__dup_29,32.20389264017139,1712848,False,
+##[group]GITHUB_TOKEN Permissions,25.340647231111863,6863791,False,
+##[group]Run actions/upload-artifact@v4.3.3,21.822034079528947,2645477,True,##[error]Process completed with exit code 1.
+##[group]Run google-github-actions/setup-gcloud@v2__dup_28,19.848569060694327,1039142,True,"##[error]google-github-actions/auth failed with: the GitHub Action workflow must specify exactly one of ""workload_identity_provider"" or ""credentials_json""! If you are specifying input values via GitHub secrets, ensure the secret is being injected into the environment. By default, secrets are not passed to workflows triggered from forks, including Dependabot."
+##[group]Run pip3 install -e ci/fireci,17.0866240739017,10251795,False,
+##[group]Run actions/upload-artifact@v4.3.3__dup_30,13.576060698891594,1975494,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,12.867194953507743,465209,False,
+##[group]Fetching the repository__dup_21,10.79834984497499,474276,False,
+##[group]Setting up auth__dup_20,4.248144087420952,151989,False,
+##[group]Run actions/checkout@v4.1.1__dup_17,4.1342307265104825,147189,False,
+##[group]Run actions/checkout@v4.1.1__dup_8,2.670471016335564,113896,False,
+##[group]Setting up auth,2.5006649714760374,103804,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.4764069650675338,98336,False,
+##[group]Getting Git version info,2.45214895865903,3467,False,
+##[group]Run actions/checkout@v4.1.1,2.427890952250526,150656,False,
+##[group]Installed versions,2.1542300558067065,107428,False,
+##[group]Checking out the ref,2.1165187625484867,31239,False,
+##[group]Run google-github-actions/auth@v2__dup_27,2.1058751686450874,132470,False,
+##[group]Cleaning the repository,2.102713288539763,54753,False,
+##[group]Run actions/checkout@v4.1.1__dup_23,2.102135027066317,110586,False,
+##[group]Removing previously created refs_ to avoid conflicts__dup_18,2.0884741184259537,156893,False,
+##[group]Run google-github-actions/auth@v2,2.0229751942275325,133996,False,
+##[group]Run echo $PERF_E2E_GOOGLE_SERVICES | base64 -d > google-services.json,1.7682236261694844,11055,False,

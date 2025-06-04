@@ -1,0 +1,10 @@
+##[group]Run ./gradlew build, 158.91188279612155, , , , 21341250, True, ##[error]Process completed with exit code 1.
+Requested labels: self-hosted, 73.54361732342556, , , , 4521736, False, 
+##[group]Caching Gradle state, 70.53350375139874, , , , 5971474, False, 
+##[group]Restore Gradle state from cache, 32.58740323210725, , , , 1617721, False, 
+##[group]Run actions/upload-artifact@v4__dup_9, 16.320953946383533, , , , 751304, False, 
+##[group]GITHUB_TOKEN Permissions, 13.658710039504395, , , , 6446830, False, 
+##[group]Fetching the repository, 11.233603088837784, , , , 414102, False, 
+##[group]Run gradle/actions/setup-gradle@v3.3.2, 10.651577420677796, , , , 504970, False, 
+##[group]Run actions/upload-artifact@v4, 7.920727663105255, , , , 299707, False, 
+##[group]Run actions/checkout@v4, 4.668048935983109, , , , 129121, False, 

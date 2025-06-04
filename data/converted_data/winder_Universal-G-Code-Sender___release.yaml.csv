@@ -1,0 +1,20 @@
+Requested labels: self-hosted, 25.93987784682674, , , , 4410197, False, 
+##[group]GITHUB_TOKEN Permissions, 161.74986301726298, , , , 3816684, False, 
+##[group]Run actions/checkout@v3, 3.736442748369301, , , , 161570, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 11.064174963008298, , , , 294361, False, 
+##[group]Setting up auth, 3.615481679952964, , , , 74574, False, 
+##[group]Fetching the repository, 17.714525194515804, , , , 456878, False, 
+##[group]Run actions/cache@v3, 161.6148411615707, , , , 16633373, False, 
+##[group]Run export REVISION=${GITHUB_REF_NAME:1}, 256.9358211807599, , , , 56246271, True, [ERROR] Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.226 s <<< FAILURE! - in com.willwinder.universalgcodesender.listeners.LongPressKeyListenerTest
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ugs-parent ---, 0.942888311629498, , , , 31217, False, 
+[INFO] --- flatten-maven-plugin:1.2.2:clean (flatten.clean) @ ugs-parent ---, 0.9703070426392982, , , , 167124, False, 
+[INFO] --- jacoco-maven-plugin:0.8.7:prepare-agent (default) @ ugs-parent ---, 0.9977257736490988, , , , 68738, False, 
+[INFO] --- flatten-maven-plugin:1.2.2:flatten (flatten) @ ugs-parent ---, 1.025144504658899, , , , 51471, False, 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (testCompile) @ ugs-parent ---, 1.0525632356686994, , , , 1891, False, 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ ugs-parent ---, 1.0799819666784995, , , , 164564, False, 
+[INFO] --- download-maven-plugin:1.3.0:wget (Download GRBL error_codes_en_US) @ ugs-core ---, 1.1074006976883, , , , 115533, False, 
+[INFO] --- download-maven-plugin:1.3.0:wget (Download GRBL setting_codes_en_US) @ ugs-core ---, 1.1348194286981004, , , , 4363, False, 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (compile) @ ugs-core ---, 74.73535496928946, , , , 4252016, False, 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (testCompile) @ ugs-core ---, 40.7501452112451, , , , 1618140, False, 
+##[group]Run sudo apt-get install -qq genisoimage, 57.1951480203736, , , , 6930399, True, [ERROR[m] Failed to execute goal on project ugs-classic[m: Could not resolve dependencies for project com.willwinder.universalgcodesender:ugs-classic:jar:aster: The following artifacts could not be resolved: com.willwinder.universalgcodesender:ugs-core:jar:aster, com.willwinder.universalgcodesender:ugs-pendant:jar:aster, com.willwinder.universalgcodesender:ugs-cli:jar:aster: Could not find artifact com.willwinder.universalgcodesender:ugs-core:jar:aster in jogamp-remote (https://www.jogamp.org/deployment/maven/)[m -> [Help 1][m
+##[group]Run xresloader/upload-to-github-release@v1, 23.32725599780296, , , , 1411177, True, ##[error]Can not find any file by ugs-classic/target/UniversalGcodeSender.zip,ugs-platform/application/target/macosx-*-ugs-platform-app-*.dmg,ugs-platform/application/target/linux-*-ugs-platform-app*.tar.gz,ugs-platform/application/target/win-ugs-platform-app-*.zip,ugs-platform/application/target/win64-ugs-platform-app-*.zip,ugs-platform/application/target/ugs-platform-app-*.zip

@@ -1,0 +1,14 @@
+##[group]GITHUB_TOKEN Permissions, 537.0292496705639, , , , 4950629, False, 
+##[group]Run actions/cache@v2, 284.951460026616, , , , 19847230, False, 
+##[group]Run # export GPG_TTY=$(tty), 139.9683626513466, , , , 7643302, False, 
+##[group]Fetching the repository, 88.85720790132768, , , , 455230, False, 
+##[group]Run actions/setup-java@v2, 38.89091010665214, , , , 234193, False, 
+##[group]Run actions/checkout@v2, 33.53406699285843, , , , 205713, False, 
+##[group]Determining the checkout info, 22.103492765597597, , , , 1326915, True, ##[error]A branch or tag with the name 'v1' could not be found
+##[group]Run tibdex/github-app-token@v1, 18.44104696948975, , , , 127338, True, ##[error]Error: Input required and not supplied: app_id
+##[group]Setting up auth, 17.101836191041322, , , , 69017, False, 
+##[group]Fetching the repository__dup_13, 11.96321817327632, , , , 2448185, False, 
+##[group]Run actions/checkout@v2__dup_10, 4.457692611126326, , , , 142605, False, 
+Requested labels: self-hosted, 2.992392178142393, , , , 4426380, False, 
+##[group]Setting up auth__dup_12, 2.25366408269833, , , , 113451, False, 
+##[group]Cleaning the repository, 2.243736971844263, , , , 19575, False, 

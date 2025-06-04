@@ -1,0 +1,13 @@
+##[group]Run npm install --force, 1586.3544611749958, , , , 342342020, False, 
+##[group]Run actions/setup-node@v3.5.1, 91.70841830126632, , , , 9529943, False, 
+##[group]Fetching the repository, 85.25604954184622, , , , 2016344, False, 
+##[group]Run npm publish , 67.22754123182034, , , , 3751014, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions, 56.22066543349728, , , , 2281477, False, 
+##[group]Environment details__dup_11, 43.38749608929321, , , , 4857276, False, 
+##[group]Run actions/setup-node@v3.5.1__dup_10, 13.264436145930553, , , , 375176, False, 
+##[group]Checking out the ref, 10.094442829498806, , , , 138549, False, 
+Requested labels: self-hosted, 9.916855582752378, , , , 5554544, False, 
+##[group]Environment details, 9.38260452935966, , , , 367302, False, 
+##[group]Run actions/checkout@v3, 6.814145453841876, , , , 171966, False, 
+##[group]Run echo ::set-output name=NVMRC::$(cat .nvmrc), 5.154187633520825, , , , 24149, False, 
+##[group]Setting up auth, 3.5140389456923597, , , , 61096, False, 

@@ -1,0 +1,7 @@
+##[group]Run # export LOGFILE=$(mktemp yamllint-XXXXXX), 60.10878113827184, , , , 1117121, True, ##[error]Process completed with exit code 127.
+##[group]GITHUB_TOKEN Permissions, 55.89410568739847, , , , 1721292, False, 
+##[group]Fetching the repository, 23.158867559040583, , , , 474224, False, 
+##[group]Run actions/checkout@v4, 8.245850078240396, , , , 152709, False, 
+##[group]Setting up auth, 4.354219799432888, , , , 69655, False, 
+##[group]Cleaning the repository, 4.261701895307812, , , , 93707, False, 
+Requested labels: self-hosted, 0.0842603879313212, , , , 5245538, False, 

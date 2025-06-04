@@ -1,0 +1,4 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,34.525392728178986,1455892,False,
+##[group]Run actions/stale@v5,15.353520267768834,494021,False,
+Requested labels: self-hosted,0.6984766667841849,4997405,False,

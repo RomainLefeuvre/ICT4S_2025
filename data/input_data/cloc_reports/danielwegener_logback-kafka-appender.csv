@@ -1,0 +1,41 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2930.6 files/s 236473.4 lines/s)"
+Maven,/tmp/clone_directory/pom.xml,12,1,346
+Bourne Shell,/tmp/clone_directory/mvnw,33,62,215
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/KafkaAppenderIT.java,31,0,149
+DOS Batch,/tmp/clone_directory/mvnw.cmd,35,0,147
+Markdown,/tmp/clone_directory/README.md,74,12,146
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/KafkaAppender.java,35,15,145
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/KafkaAppenderTest.java,19,0,135
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/util/EmbeddedKafkaCluster.java,24,0,114
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/KafkaAppenderConfig.java,27,3,77
+Java,/tmp/clone_directory/.mvn/wrapper/MavenWrapperDownloader.java,10,31,76
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/util/EmbeddedZookeeper.java,16,2,71
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/util/TestKafka.java,22,1,67
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/delivery/AsynchronousDeliveryStrategyTest.java,19,0,58
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/LogbackIntegrationIT.java,20,0,55
+Markdown,/tmp/clone_directory/CHANGELOG.md,9,0,49
+XML,/tmp/clone_directory/src/example/resources/logback.xml,11,25,47
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/util/TestUtils.java,6,0,43
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/util/KafkaAppenderBenchmark.java,9,0,39
+YAML,/tmp/clone_directory/.github/workflows/maven.yml,4,4,35
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/delivery/BlockingDeliveryStrategy.java,8,14,35
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/keying/HostNameKeyingStrategy.java,9,6,35
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,10,30,31
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/delivery/AsynchronousDeliveryStrategy.java,4,3,27
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/keying/ContextNameKeyingStrategy.java,6,6,23
+XML,/tmp/clone_directory/src/test/resources/logback-test.xml,6,0,22
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/keying/ContextNameKeyingStrategyTest.java,10,0,21
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/keying/HostNameKeyingStrategyTest.java,10,0,21
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/keying/ThreadNameKeyingStrategyTest.java,9,0,19
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/keying/LoggerNameKeyingStrategyTest.java,10,0,18
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/keying/LoggerNameKeyingStrategy.java,5,6,15
+Java,/tmp/clone_directory/src/test/java/com/github/danielwegener/logback/kafka/keying/NoKeyKeyingStrategyTest.java,7,0,14
+INI,/tmp/clone_directory/.editorconfig,3,0,13
+YAML,/tmp/clone_directory/.travis.yml,3,1,13
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/keying/ThreadNameKeyingStrategy.java,4,6,9
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/keying/NoKeyKeyingStrategy.java,2,5,7
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/delivery/DeliveryStrategy.java,4,16,6
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/keying/KeyingStrategy.java,5,9,5
+Java,/tmp/clone_directory/src/main/java/com/github/danielwegener/logback/kafka/delivery/FailedDeliveryCallback.java,1,3,4
+Properties,/tmp/clone_directory/.mvn/wrapper/maven-wrapper.properties,0,0,2
+SUM,,532,261,2354

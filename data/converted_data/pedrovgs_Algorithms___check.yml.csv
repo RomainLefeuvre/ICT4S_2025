@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 0.0748852040684091, , , , 5377503, False, 
+##[group]GITHUB_TOKEN Permissions, 14.5541125622632, , , , 2820978, False, 
+##[group]Run actions/checkout@v3, 1.4133608507494764, , , , 168913, False, 
+##[group]Setting up auth, 0.7242014276567564, , , , 65126, False, 
+##[group]Fetching the repository, 3.796217161103965, , , , 538004, False, 
+##[group]Checking out the ref, 0.7942854367848297, , , , 35214, False, 
+##[group]Run mvn checkstyle:check, 65.56397921446565, , , , 13929552, False, 
+##[group]Run mvn install, 58.950484815901326, , , , 9600047, False, 

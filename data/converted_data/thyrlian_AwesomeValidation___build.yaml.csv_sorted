@@ -1,0 +1,10 @@
+##[group]Run actions/setup-java@v1, 301.25035181458924, , , , 17623669, False, 
+##[group]Run gradle/wrapper-validation-action@v1, 12.391534383672203, , , , 1309675, False, 
+##[group]Install Android SDK, 1.887067644841829, , , , 227853, False, 
+##[group]Terminate Emulator, 1.6626405957044423, , , , 376185, True, ##[error]The process '/usr/bin/sh' failed with exit code 1
+##[group]Run ./gradlew build, 1.5323448232846932, , , , 247541, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8-bin.zip.lck
+##[group]GITHUB_TOKEN Permissions, 1.3715963978652022, , , , 3129253, False, 
+##[group]Run ./gradlew check, 0.703831564659739, , , , 126450, True, ##[error]Exception in thread "main" java.lang.RuntimeException: Could not create parent directory for lock file /root/.gradle/wrapper/dists/gradle-6.8-bin/1jblhjyydfkclfzx1agp92nyl/gradle-6.8-bin.zip.lck
+##[group]Fetching the repository, 0.4878016221439953, , , , 625768, False, 
+##[group]Run actions/checkout@v2, 0.1294167568953456, , , , 187705, False, 
+Requested labels: self-hosted, 0.0092113050168388, , , , 6012671, False, 

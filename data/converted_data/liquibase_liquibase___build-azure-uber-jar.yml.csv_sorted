@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 141.97911633007269, , , , 7886967, False, 
+##[group]Installed distributions, 99.79250713877074, , , , 1475060, False, 
+##[group]Run stCarolas/setup-maven@v5, 39.73477674508324, , , , 864722, False, 
+##[group]Run actions/checkout@v4, 17.264955937973895, , , , 165391, True, ##[error]Input required and not supplied: token
+##[group]Run actions/upload-artifact@v3, 11.746297744783396, , , , 517470, False, 
+##[group]Run whelk-io/maven-settings-xml-action@v22, 5.275690045957079, , , , 76514, True, ##[error]Cannot read properties of undefined (reading 'nodeType')
+##[group]Run cd liquibase-pro/liquibase-azure-deps && mvn versions:set -DnewVersion=, 3.037831430603832, , , , 49558, True, ##[error]Process completed with exit code 1.
+Requested labels: self-hosted, 0.2623493642195455, , , , 4146625, False, 

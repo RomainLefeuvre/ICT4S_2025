@@ -1,0 +1,10 @@
+##[group]==END_FILE==, 1.2846961373538364, , , , 5033225, False, 
+##[group]GITHUB_TOKEN Permissions, 54.43030168900917, , , , 3984351, False, 
+##[group]Run actions/checkout@v3, 9.852434139651008, , , , 159660, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 9.68016310662587, , , , 25920, False, 
+##[group]Cleaning the repository, 9.507892073600733, , , , 135738, False, 
+##[group]Setting up auth, 9.335621040575594, , , , 77267, False, 
+##[group]Fetching the repository, 44.09403970750089, , , , 462860, False, 
+##[group]Run actions/cache@v3, 264.38243104273914, , , , 28436289, False, 
+##[group]Run sudo apt update, 0.6124731511591521, , , , 63853, False, 
+##[group]Run mvn -B -V -e -ntp "-Dstyle.color=always"  , 9.888835002630872, , , , 2225155, True, ##[error]Process completed with exit code 100.

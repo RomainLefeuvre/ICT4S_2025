@@ -1,0 +1,23 @@
+##[group]Run actions/cache@v2, 7853.392653119996, , , , 800076086, True, ##[error]Process completed with exit code 100.
+[INFO] --- go-offline-maven-plugin:1.2.8:resolve-dependencies (default-cli) @ presto-root ---, 2895.985252961239, , , , 198434414, True, [ERROR] Error downloading dependencies for project
+##[group]Run ./mvnw de.qaware.maven:go-offline-maven-plugin:resolve-dependencies --no-transfer-progress, 2375.389694094332, , , , 137083784, True, [ERROR] Error downloading dependencies for project
+##[group]Run export MAVEN_OPTS="${MAVEN_INSTALL_OPTS}", 989.7919270182256, , , , 68500826, False, 
+##[group]Run ./mvnw test ${MAVEN_TEST} -pl :presto-docs, 178.00404496086594, , , , 8518022, False, 
+##[group]==END_FILE==, 146.27740797383194, , , , 5217330, False, 
+##[group]GITHUB_TOKEN Permissions, 89.5715036443786, , , , 2824243, False, 
+##[group]Cleaning the repository, 69.71492386699704, , , , 898912, False, 
+##[group]Checking out the ref, 43.34251219145126, , , , 46279, False, 
+##[group]Fetching the repository, 42.420112405049565, , , , 508441, False, 
+##[group]Run actions/setup-java@v2, 24.201736390130357, , , , 253516, False, 
+[INFO] --- maven-enforcer-plugin:3.0.0-M2:enforce (default) @ presto-docs ---, 21.006413003364475, , , , 97408, False, 
+[INFO] --- exec-maven-plugin:1.6.0:java (validate-reserved) @ presto-docs ---, 20.32493613829758, , , , 457671, False, 
+[INFO] --- drift-maven-plugin:1.38:generate-thrift-idl (default) @ presto-docs ---, 17.599028678029992, , , , 535695, False, 
+[INFO] --- jacoco-maven-plugin:0.8.7:prepare-agent (default) @ presto-docs ---, 15.74997842524802, , , , 65109, False, 
+##[group]Run actions/checkout@v4, 14.29308558145492, , , , 163526, False, 
+[INFO] --- maven-checkstyle-plugin:3.0.0:check (checkstyle) @ presto-docs ---, 10.080759204522789, , , , 248432, False, 
+##[group]Run sudo apt-get update, 9.710740900901966, , , , 1150390, False, 
+[INFO] --- maven-dependency-plugin:3.1.1:analyze-only (default) @ presto-docs ---, 9.104784046080429, , , , 273486, False, 
+##[group]Setting up auth, 8.207302545089407, , , , 80022, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 7.284902758687713, , , , 79506, False, 
+[INFO] --- dependency-scope-maven-plugin:0.8:check (default) @ presto-docs ---, 3.780767834423578, , , , 69789, False, 
+[INFO] --- git-commit-id-plugin:4.0.3:revision (default) @ presto-docs ---, 3.111639795153117, , , , 52525, False, 

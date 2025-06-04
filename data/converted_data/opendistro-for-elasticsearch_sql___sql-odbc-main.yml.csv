@@ -1,0 +1,25 @@
+Requested labels: self-hosted, 4.82604952102668, , , , 3860188, False, 
+Requested labels: self-hosted__dup_2, 700.5500517209151, , , , 82055577, False, 
+Requested labels: self-hosted__dup_3, 847.3330202887335, , , , 111520085, False, 
+##[group]GITHUB_TOKEN Permissions, 11.780067055200243, , , , 1514408, False, 
+##[group]Run actions/checkout@v1, 6.258615780756208, , , , 954777, False, 
+##[group]Run brew install cppcheck, 0.6568577318762165, , , , 47744, True, ##[error]Process completed with exit code 127.
+##[group]Run ./build_mac_release64.sh, 638.745307408055, , , , 63664390, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v1, 24.59989860451923, , , , 1502359, False, 
+##[group]Run actions/upload-artifact@v1__dup_9, 6.746611806198804, , , , 1510042, False, 
+##[group]GITHUB_TOKEN Permissions__dup_10, 17.5790585142462, , , , 3194336, False, 
+##[group]Run actions/checkout@v1__dup_11, 14.443692024951394, , , , 1927984, False, 
+##[group]Restore from cache using key '685782585' into /home/power/actions-runner/_work/_temp/685782585, 4.093624575121028, , , , 1681978, False, 
+##[group]Download and extract CMake, 16.34264631161134, , , , 2996762, False, 
+##[group]Download and extract ninja, 9.739279103531011, , , , 735755, False, 
+##[group]Save to cache using key '685782585' into /home/power/actions-runner/_work/_temp/685782585, 52.8407529389043, , , , 5212230, False, 
+##[group]Run actions/upload-artifact@v1__dup_16, 2.297914495618139, , , , 427439, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/build
+##[group]Run actions/upload-artifact@v1__dup_17, 1.882373347628472, , , , 375667, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/installer
+##[group]GITHUB_TOKEN Permissions__dup_18, 15.65843284188598, , , , 2836519, False, 
+##[group]Run actions/checkout@v1__dup_19, 12.830473114564654, , , , 918770, False, 
+##[group]Run lukka/get-cmake@v3.18.3, 1.6285191323351889, , , , 469, False, 
+##[group]Restore from cache using key '685782585' into /home/power/actions-runner/_work/_temp/685782585__dup_21, 111.53507427106018, , , , 16865783, False, 
+##[group]Run microsoft/setup-msbuild@v1.0.2, 4.232082935706837, , , , 68267, True, ##[error]setup-msbuild can only be run on Windows runners
+##[group]Run .\\build_win_release64.ps1, 4.564158612303827, , , , 43714, True, ##[error]Process completed with exit code 127.
+##[group]Run actions/upload-artifact@v1__dup_24, 19.442852608552855, , , , 462802, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/build
+##[group]Run actions/upload-artifact@v1__dup_25, 11.50075354328276, , , , 399376, True, ##[error]Path does not exist /home/power/actions-runner/_work/sql/sql/sql-odbc/ci-output/installer

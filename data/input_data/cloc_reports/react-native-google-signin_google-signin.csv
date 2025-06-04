@@ -1,0 +1,65 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (4622.1 files/s 236974.6 lines/s)"
+Java,/tmp/clone_directory/android/src/main/java/com/reactnativegooglesignin/RNGoogleSigninModule.java,56,3,382
+Markdown,/tmp/clone_directory/README.md,102,0,237
+Objective-C,/tmp/clone_directory/ios/RNGoogleSignin.m,38,2,229
+TypeScript,/tmp/clone_directory/example/src/App.tsx,24,5,213
+JSON,/tmp/clone_directory/package.json,0,0,142
+Bourne Shell,/tmp/clone_directory/example/android/gradlew,28,109,103
+TypeScript,/tmp/clone_directory/src/GoogleSignin.ts,18,2,96
+Java,/tmp/clone_directory/android/src/main/java/com/reactnativegooglesignin/Utils.java,14,0,88
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,21,2,68
+Java,/tmp/clone_directory/android/src/main/java/com/reactnativegooglesignin/PromiseWrapper.java,16,0,54
+TypeScript,/tmp/clone_directory/jest/setup.tsx,6,0,54
+TypeScript,/tmp/clone_directory/src/GoogleSigninButton.tsx,8,2,53
+Gradle,/tmp/clone_directory/android/build.gradle,8,2,52
+TypeScript,/tmp/clone_directory/src/types.ts,15,55,45
+Java,/tmp/clone_directory/android/src/main/java/com/reactnativegooglesignin/RNGoogleSigninButtonViewManager.java,8,0,38
+JSON,/tmp/clone_directory/example/app.json,0,0,36
+YAML,/tmp/clone_directory/.github/workflows/test_lint_publish.yml,5,3,35
+Objective-C,/tmp/clone_directory/ios/RNGoogleSigninButtonManager.m,12,0,35
+JavaScript,/tmp/clone_directory/react-native.config.js,2,2,34
+TypeScript,/tmp/clone_directory/example/src/TokenClearingView.tsx,2,0,29
+Ruby,/tmp/clone_directory/expo/ios/ExpoAdapterGoogleSignIn.podspec,5,1,27
+JSON,/tmp/clone_directory/tsconfig.json,0,0,27
+JavaScript,/tmp/clone_directory/release.config.js,1,0,25
+Gradle,/tmp/clone_directory/example/android/build.gradle,3,1,23
+Java,/tmp/clone_directory/android/src/main/java/com/reactnativegooglesignin/RNGoogleSigninPackage.java,5,0,22
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/Custom.md,18,8,19
+Markdown,/tmp/clone_directory/example/README.md,7,0,19
+TypeScript,/tmp/clone_directory/plugin/src/withGoogleSignIn.ts,4,5,19
+TypeScript,/tmp/clone_directory/src/__tests__/index.test.tsx,1,0,19
+YAML,/tmp/clone_directory/.github/workflows/support.yml,4,0,18
+JavaScript,/tmp/clone_directory/metro.config.js,8,7,18
+JavaScript,/tmp/clone_directory/scripts/bootstrap.js,4,3,17
+Ruby,/tmp/clone_directory/RNGoogleSignin.podspec,5,0,15
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,11,0,14
+Objective-C,/tmp/clone_directory/ios/RCTConvert+RNGoogleSignin.m,4,0,12
+Java,/tmp/clone_directory/android/src/main/java/com/reactnativegooglesignin/PendingAuthRecovery.java,4,0,11
+Gradle,/tmp/clone_directory/example/android/settings.gradle,2,0,10
+JSON,/tmp/clone_directory/jest/tsconfig.json,0,0,10
+INI,/tmp/clone_directory/.editorconfig,2,0,9
+Handlebars,/tmp/clone_directory/.github/footer.hbs,3,0,9
+JSON,/tmp/clone_directory/expo-module.config.json,0,0,9
+Swift,/tmp/clone_directory/expo/ios/ExpoAdapterGoogleSignIn/GoogleSignInAppDelegate.swift,1,0,9
+JavaScript,/tmp/clone_directory/jest.config.js,1,1,8
+JSON,/tmp/clone_directory/plugin/tsconfig.json,0,0,8
+C/C++ Header,/tmp/clone_directory/ios/RNGoogleSignin.h,3,0,7
+C/C++ Header,/tmp/clone_directory/ios/RCTConvert+RNGoogleSignin.h,3,0,6
+diff,/tmp/clone_directory/patches/react-native-test-app+2.5.4.patch,3,11,6
+JSON,/tmp/clone_directory/.prettierrc.json,0,0,5
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,5
+C/C++ Header,/tmp/clone_directory/ios/RNGoogleSignInButton.h,3,0,5
+JavaScript,/tmp/clone_directory/example/index.js,2,3,4
+Objective-C,/tmp/clone_directory/ios/RNGoogleSignInButton.m,2,0,4
+JSON,/tmp/clone_directory/tsconfig.build.json,1,0,4
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,1,0,3
+Properties,/tmp/clone_directory/example/android/gradle.properties,10,32,3
+JavaScript,/tmp/clone_directory/example/babel.config.js,0,0,3
+TypeScript,/tmp/clone_directory/src/index.ts,0,0,3
+TypeScript,/tmp/clone_directory/src/RNGoogleSiginButton.ts,1,0,2
+YAML,/tmp/clone_directory/.github/FUNDING.yml,0,0,1
+JavaScript,/tmp/clone_directory/app.plugin.js,0,0,1
+JSON,/tmp/clone_directory/example/.watchmanconfig,0,0,1
+TypeScript,/tmp/clone_directory/example/src/config.example.ts,0,0,1
+JavaScript,/tmp/clone_directory/plugin/.eslintrc.js,0,1,1
+SUM,,505,260,2465

@@ -1,0 +1,173 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.04 s (4861.4 files/s 281164.9 lines/s)"
+JavaScript,/tmp/clone_directory/example/App.js,44,35,432
+Objective-C++,/tmp/clone_directory/ios/RNShare.mm,48,14,329
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/ShareIntent.java,52,5,296
+Objective-C,/tmp/clone_directory/ios/RNShareActivityItemSource.m,42,2,236
+Markdown,/tmp/clone_directory/website/docs/share-single.mdx,55,0,203
+Java,/tmp/clone_directory/android/src/main/java/cl/json/RNShareImpl.java,21,0,202
+Markdown,/tmp/clone_directory/website/docs/share-open.mdx,41,1,176
+YAML,/tmp/clone_directory/.circleci/config.yml,21,0,169
+XML,/tmp/clone_directory/windows/ReactNativeShare/ReactNativeShare.vcxproj,1,1,158
+Visual Studio Solution,/tmp/clone_directory/windows/ReactNativeShare.sln,1,1,154
+JSON,/tmp/clone_directory/package.json,0,0,151
+Markdown,/tmp/clone_directory/website/docs/installing.mdx,60,2,148
+Java,/tmp/clone_directory/android/src/main/java/cl/json/RNSharePathUtil.java,31,37,138
+Java,/tmp/clone_directory/android/src/main/java/cl/json/ShareFiles.java,17,18,138
+TypeScript,/tmp/clone_directory/src/types.ts,14,0,129
+Java,/tmp/clone_directory/android/src/main/java/cl/json/ShareFile.java,17,15,119
+JavaScript,/tmp/clone_directory/website/docusaurus.config.js,1,2,115
+Objective-C,/tmp/clone_directory/ios/InstagramShare.m,20,10,107
+Bourne Shell,/tmp/clone_directory/example/android/gradlew,27,115,102
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/InstagramShare.java,29,3,101
+Objective-C,/tmp/clone_directory/ios/EmailShare.m,33,15,99
+Markdown,/tmp/clone_directory/CHANGELOG.md,42,0,91
+TypeScript,/tmp/clone_directory/src/index.tsx,21,0,91
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/FacebookStoriesShare.java,27,4,88
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/xcshareddata/xcschemes/example-tvOS.xcscheme,0,0,88
+XML,/tmp/clone_directory/example/ios/example.xcodeproj/xcshareddata/xcschemes/example.xcscheme,0,0,88
+JavaScript,/tmp/clone_directory/website/src/pages/index.js,4,0,88
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/InstagramStoriesShare.java,27,4,87
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/SingleShareIntent.java,10,7,87
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/TargetChosenReceiver.java,14,4,86
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeShare/ReactNativeModule.h,20,2,86
+Objective-C,/tmp/clone_directory/ios/WhatsAppShare.m,15,8,71
+DOS Batch,/tmp/clone_directory/example/android/gradlew.bat,21,2,69
+TypeScript,/tmp/clone_directory/src/components/ShareSheet.tsx,7,0,67
+JSON,/tmp/clone_directory/tsconfig.json,7,0,67
+XML,/tmp/clone_directory/example/ios/example/Info.plist,0,0,65
+Objective-C,/tmp/clone_directory/ios/FacebookStories.m,20,14,65
+Objective-C,/tmp/clone_directory/ios/InstagramStories.m,19,14,64
+Objective-C,/tmp/clone_directory/ios/GenericShare.m,16,7,63
+Objective-C,/tmp/clone_directory/ios/SmsShare.m,16,4,61
+Java,/tmp/clone_directory/example/android/app/src/debug/java/com/example/ReactNativeFlipper.java,5,12,58
+Gradle,/tmp/clone_directory/android/build.gradle,6,6,56
+Markdown,/tmp/clone_directory/website/docs/share-remote-file.mdx,8,0,56
+Gradle,/tmp/clone_directory/example/android/app/build.gradle,13,57,53
+JSON,/tmp/clone_directory/example/ios/example/Images.xcassets/AppIcon.appiconset/Contents.json,0,0,53
+Objective-C,/tmp/clone_directory/example/ios/exampleTests/exampleTests.m,13,0,53
+TypeScript,/tmp/clone_directory/src/components/Button.tsx,4,0,52
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/example/MainApplication.java,9,3,50
+TypeScript,/tmp/clone_directory/src/components/Overlay.tsx,7,0,43
+XML,/tmp/clone_directory/example/ios/example/Base.lproj/LaunchScreen.xib,0,0,42
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/WhatsAppBusinessShare.java,14,8,41
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/WhatsAppShare.java,14,8,41
+Java,/tmp/clone_directory/android/src/newarch/cl/json/RNShare.java,14,0,41
+Java,/tmp/clone_directory/android/src/oldarch/cl/json/RNShare.java,12,0,40
+JavaScript,/tmp/clone_directory/website/static/js/code-block-buttons.js,5,2,40
+Objective-C,/tmp/clone_directory/ios/RNShareUtils.m,12,14,39
+Java,/tmp/clone_directory/android/src/main/java/cl/json/RNSharePackage.java,6,0,38
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/SMSShare.java,10,4,38
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/SnapChatShare.java,10,4,35
+TypeScript,/tmp/clone_directory/codegenSpec/NativeRNShare.ts,2,0,34
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/PinterestShare.java,9,4,33
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/DiscordShare.java,10,1,32
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/LinkedinShare.java,9,4,32
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/MessengerShare.java,9,4,32
+CSS,/tmp/clone_directory/website/static/css/code-block-buttons.css,6,1,32
+YAML,/tmp/clone_directory/.github/workflows/codeql-analysis.yml,7,0,31
+YAML,/tmp/clone_directory/.github/workflows/docs.yml,2,0,30
+Ruby,/tmp/clone_directory/RNShare.podspec,9,0,30
+JavaScript,/tmp/clone_directory/commitlint.config.js,0,0,30
+Objective-C,/tmp/clone_directory/ios/DiscordShare.m,11,0,30
+Objective-C,/tmp/clone_directory/ios/TelegramShare.m,11,7,30
+Objective-C,/tmp/clone_directory/ios/ViberShare.m,11,5,30
+JSON,/tmp/clone_directory/website/package.json,0,0,30
+Markdown,/tmp/clone_directory/README.md,16,0,29
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/GooglePlusShare.java,9,4,29
+Gradle,/tmp/clone_directory/example/android/build.gradle,2,1,29
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/FacebookPagesManagerShare.java,7,4,28
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/FacebookShare.java,8,4,28
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/TelegramShare.java,8,4,28
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/TwitterShare.java,7,4,28
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/ViberShare.java,9,4,28
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/EmailShare.java,8,4,27
+Java,/tmp/clone_directory/android/src/main/java/cl/json/social/GenericShare.java,7,4,26
+Markdown,/tmp/clone_directory/website/docs/contributing.mdx,15,0,26
+Markdown,/tmp/clone_directory/website/docs/share-package-installed.mdx,8,0,26
+CSS,/tmp/clone_directory/website/src/pages/styles.module.css,6,5,26
+XML,/tmp/clone_directory/example/android/app/src/main/AndroidManifest.xml,3,1,24
+XML,/tmp/clone_directory/example/ios/exampleTests/Info.plist,0,0,24
+Objective-C,/tmp/clone_directory/ios/MessengerShare.m,10,1,24
+Markdown,/tmp/clone_directory/website/docs/migrate-v3-to-v4.mdx,14,0,24
+Objective-C,/tmp/clone_directory/ios/GooglePlusShare.m,8,8,23
+TypeScript,/tmp/clone_directory/src/helpers/android.ts,6,1,23
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,6,0,21
+JavaScript,/tmp/clone_directory/.eslintrc.js,3,0,20
+XML,/tmp/clone_directory/windows/ReactNativeShare/ReactNativeShare.vcxproj.filters,0,0,20
+TypeScript,/tmp/clone_directory/src/components/Sheet.tsx,6,0,19
+TypeScript,/tmp/clone_directory/src/helpers/options.ts,5,2,19
+Java,/tmp/clone_directory/example/android/app/src/main/java/com/example/MainActivity.java,4,10,18
+Objective-C++,/tmp/clone_directory/example/ios/example/AppDelegate.mm,6,2,18
+YAML,/tmp/clone_directory/.github/workflows/stale.yml,4,0,16
+C/C++ Header,/tmp/clone_directory/ios/RNShare.h,4,1,16
+Markdown,/tmp/clone_directory/website/docs/migrate-v4-to-v5.mdx,10,1,16
+JavaScript,/tmp/clone_directory/website/sidebars.js,0,0,16
+JavaScript,/tmp/clone_directory/react-native.config.js,0,0,15
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeShare/ReactPackageProvider.h,6,0,15
+XML,/tmp/clone_directory/android/src/main/AndroidManifest.xml,1,0,14
+Markdown,/tmp/clone_directory/website/docs/language-support.mdx,3,0,14
+XML,/tmp/clone_directory/windows/NuGet.Config,0,0,14
+C++,/tmp/clone_directory/windows/ReactNativeShare/ReactPackageProvider.cpp,5,0,14
+C/C++ Header,/tmp/clone_directory/windows/ReactNativeShare/pch.h,4,0,14
+C/C++ Header,/tmp/clone_directory/ios/InstagramShare.h,2,11,12
+Markdown,/tmp/clone_directory/website/docs/troubleshooting-ios.mdx,3,0,12
+Markdown,/tmp/clone_directory/website/docs/ui-components.mdx,9,0,12
+XML,/tmp/clone_directory/example/android/app/src/debug/AndroidManifest.xml,2,0,11
+XML,/tmp/clone_directory/example/android/app/src/main/res/drawable/rn_edit_text_material.xml,7,18,11
+C/C++ Header,/tmp/clone_directory/ios/GenericShare.h,3,12,11
+TypeScript,/tmp/clone_directory/src/helpers/checkPermissions.ts,1,1,11
+TypeScript,/tmp/clone_directory/src/helpers/platform.ts,3,0,11
+XML,/tmp/clone_directory/example/ios/example.xcworkspace/contents.xcworkspacedata,0,0,10
+C/C++ Header,/tmp/clone_directory/ios/EmailShare.h,3,12,10
+C/C++ Header,/tmp/clone_directory/ios/SmsShare.h,1,5,10
+Markdown,/tmp/clone_directory/website/docs/testing.mdx,2,0,10
+C/C++ Header,/tmp/clone_directory/ios/DiscordShare.h,1,5,9
+C/C++ Header,/tmp/clone_directory/ios/FacebookStories.h,2,13,9
+C/C++ Header,/tmp/clone_directory/ios/GooglePlusShare.h,1,12,9
+C/C++ Header,/tmp/clone_directory/ios/InstagramStories.h,2,12,9
+C/C++ Header,/tmp/clone_directory/ios/TelegramShare.h,3,11,9
+C/C++ Header,/tmp/clone_directory/ios/ViberShare.h,3,9,9
+C/C++ Header,/tmp/clone_directory/ios/WhatsAppShare.h,2,12,9
+CSS,/tmp/clone_directory/website/src/css/custom.css,2,14,9
+IDL,/tmp/clone_directory/windows/ReactNativeShare/ReactPackageProvider.idl,0,0,9
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,3,3,8
+JavaScript,/tmp/clone_directory/example/images/imagesBase64.js,0,0,8
+XML,/tmp/clone_directory/example/ios/example.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,0,0,8
+Objective-C,/tmp/clone_directory/example/ios/example/main.m,2,0,8
+JavaScript,/tmp/clone_directory/example/.prettierrc.js,0,0,7
+Java,/tmp/clone_directory/example/android/app/src/release/java/com/example/ReactNativeFlipper.java,2,11,7
+Properties,/tmp/clone_directory/example/android/gradle.properties,9,28,7
+C/C++ Header,/tmp/clone_directory/ios/RNShareActivityItemSource.h,5,0,7
+XML,/tmp/clone_directory/windows/ReactNativeShare/PropertySheet.props,1,8,7
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/question.md,1,1,6
+XML,/tmp/clone_directory/android/src/main/res/xml/share_download_paths.xml,0,0,6
+Properties,/tmp/clone_directory/example/android/gradle/wrapper/gradle-wrapper.properties,0,0,6
+JSON,/tmp/clone_directory/example/ios/example/Images.xcassets/Contents.json,0,0,6
+C/C++ Header,/tmp/clone_directory/ios/RNShareUtils.h,1,0,6
+XML,/tmp/clone_directory/windows/ReactNativeShare/packages.config,0,0,6
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/styles.xml,2,2,5
+Gradle,/tmp/clone_directory/example/android/settings.gradle,0,0,5
+C/C++ Header,/tmp/clone_directory/ios/MessengerShare.h,3,0,5
+JSON,/tmp/clone_directory/.watchmanconfig,0,0,4
+Java,/tmp/clone_directory/android/src/main/java/cl/json/RNShareFileProvider.java,3,0,4
+Java,/tmp/clone_directory/android/src/main/java/cl/json/ShareApplication.java,3,0,4
+JavaScript,/tmp/clone_directory/example/.eslintrc.js,0,0,4
+JSON,/tmp/clone_directory/example/app.json,0,0,4
+JavaScript,/tmp/clone_directory/example/index.js,2,3,4
+C/C++ Header,/tmp/clone_directory/example/ios/example/AppDelegate.h,2,0,4
+JavaScript,/tmp/clone_directory/example/videos/videoBase64.js,0,0,4
+YAML,/tmp/clone_directory/.github/config.yml,2,2,3
+XML,/tmp/clone_directory/example/android/app/src/main/res/values/strings.xml,0,0,3
+JavaScript,/tmp/clone_directory/example/jest.config.js,0,0,3
+JSON,/tmp/clone_directory/example/tsconfig.json,0,0,3
+JavaScript,/tmp/clone_directory/metro.config.js,2,6,3
+XML,/tmp/clone_directory/windows/ExperimentalFeatures.props,2,5,3
+Windows Module Definition,/tmp/clone_directory/windows/ReactNativeShare/ReactNativeShare.def,0,0,3
+Markdown,/tmp/clone_directory/.github/PULL_REQUEST_TEMPLATE.md,2,4,2
+JavaScript,/tmp/clone_directory/example/images/pdfBase64.js,0,0,2
+SVG,/tmp/clone_directory/website/static/img/app_data.svg,0,0,1
+SVG,/tmp/clone_directory/website/static/img/attached_file.svg,0,0,1
+SVG,/tmp/clone_directory/website/static/img/react.svg,0,0,1
+C++,/tmp/clone_directory/windows/ReactNativeShare/pch.cpp,0,0,1
+ProGuard,/tmp/clone_directory/example/android/app/proguard-rules.pro,1,9,0
+SUM,,1437,784,7669

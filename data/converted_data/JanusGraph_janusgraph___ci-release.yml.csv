@@ -1,0 +1,13 @@
+Requested labels: self-hosted, 68.61673515877177, , , , 4421347, False, 
+##[group]GITHUB_TOKEN Permissions, 13.98342849373237, , , , 4325827, False, 
+##[group]Run actions/checkout@v4, 4.266161755673329, , , , 200694, False, 
+##[group]Initializing the repository, 2.098154308315096, , , , 74171, False, 
+##[group]Fetching the repository, 26.92930044990152, , , , 1409979, False, 
+##[group]Determining the checkout info, 1.7488886130994066, , , , 27097, False, 
+##[group]Checking out the ref, 3.427924087155675, , , , 183783, False, 
+##[group]Run actions/cache@v4, 18.49779486834192, , , , 1238317, False, 
+##[group]Installed distributions, 85.45201784266287, , , , 8134356, False, 
+##[group]Run mvn clean install --projects janusgraph-all -Pjanusgraph-cache -Dmaven.javadoc.skip=true -DskipTests=true --batch-mode --also-make, 75.31918581483721, , , , 14439474, True, [ERROR] Failed to execute goal org.apache.rat:apache-rat-plugin:0.16.1:check (rat-checks) on project janusgraph: Too many files with unapproved license: 21 See RAT report in: /home/power/actions-runner/_work/janusgraph/janusgraph/target/rat.txt -> [Help 1]
+[INFO] --- maven-clean-plugin:3.3.2:clean (default-clean) @ janusgraph ---, 5.485354783208519, , , , 210115, False, 
+[INFO] --- maven-enforcer-plugin:3.5.0:enforce (enforce-dependency-convergence) @ janusgraph ---, 22.75572683852759, , , , 903699, False, 
+##[group]Run mvn verify --projects janusgraph-all -Pjanusgraph-cache -Pcoverage, 84.72315025379326, , , , 15850601, True, [ERROR[m] Failed to execute goal on project janusgraph-all[m: Could not resolve dependencies for project org.janusgraph:janusgraph-all:jar:1.1.0-SNAPSHOT: The following artifacts could not be resolved: org.janusgraph:janusgraph-grpc:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-driver:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-core:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-server:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-inmemory:jar:1.1.0-SNAPSHOT, org.janusgraph:cassandra-hadoop-util:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-cql:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-berkeleyje:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-hbase:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-bigtable:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-hadoop:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-es:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-solr:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-lucene:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-mixed-index-utils:jar:1.1.0-SNAPSHOT, org.janusgraph:janusgraph-backend-testutils:jar:1.1.0-SNAPSHOT: Could not find artifact org.janusgraph:janusgraph-grpc:jar:1.1.0-SNAPSHOT in apache-snapshots (https://repository.apache.org/content/repositories/snapshots)[m -> [Help 1][m

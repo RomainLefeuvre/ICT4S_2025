@@ -1,0 +1,20 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run # Run CheckStyle,292.321412889513,27148708,False,
+##[group]==END_FILE==__dup_11,87.36979651150318,8613066,False,
+##[group]GITHUB_TOKEN Permissions,32.01995364699572,1832554,False,
+##[group]GITHUB_TOKEN Permissions__dup_13,19.239748625196917,1320005,False,
+##[group]==END_FILE==__dup_12,13.881337242221676,8593399,False,
+##[group]Change detection in last commit,12.714662832504674,406727,False,
+##[group]Fetching the repository__dup_17,12.61914719691444,743413,False,
+##[group]Fetching the repository,11.31488343810049,413815,False,
+"##[group]Run found=""NO""",10.498345458031382,351939,True,##[error]Process completed with exit code 127.
+##[group]Run actions/checkout@v4__dup_14,3.34323247426565,178312,True,##[error]Process completed with exit code 100.
+##[group]Filter src = true,3.3244760617099374,113440,False,
+##[group]Checking out the ref,2.974531213108892,24057,False,
+##[group]Setting up auth,2.6829105059413534,69596,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.624586364507845,20710,False,
+##[group]Run actions/checkout@v4,2.5662622230743377,179972,True,##[error]Process completed with exit code 100.
+##[group]Determining the checkout info,1.88342397643698,11351,False,
+##[group]Setting up auth__dup_16,1.7220466512528616,137088,False,
+##[group]Cleaning the repository,1.701874485604847,30215,False,
+##[group]==END_FILE==,0.0619790947274274,4408604,False,

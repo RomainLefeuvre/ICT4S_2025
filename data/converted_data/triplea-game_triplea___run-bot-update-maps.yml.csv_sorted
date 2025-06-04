@@ -1,0 +1,7 @@
+##[group]Run pip install ansible==2.9.13, 580.6256825985324, , , , 41893216, True, ##[error]Process completed with exit code 1.
+##[group]Checking out the ref, 18.72925742685745, , , , 350619, False, 
+##[group]GITHUB_TOKEN Permissions, 11.982638220850117, , , , 1372713, False, 
+##[group]Fetching the repository, 8.094899984787197, , , , 3211313, False, 
+Requested labels: self-hosted, 3.0927593031974703, , , , 5188091, False, 
+##[group]Setting up auth, 0.9538661584672524, , , , 57642, False, 
+##[group]Run actions/checkout@v4, 0.944536308142821, , , , 140337, False, 

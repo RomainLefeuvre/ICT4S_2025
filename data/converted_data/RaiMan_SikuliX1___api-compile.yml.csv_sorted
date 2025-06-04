@@ -1,0 +1,8 @@
+##[group]Fetching the repository, 442.8496856699723, , , , 1743989, False, 
+##[group]GITHUB_TOKEN Permissions, 198.3973678431993, , , , 2175339, False, 
+##[group]Run mvn -B -pl API compile | egrep -v "^\\[INFO\\].*?Download.*?http", 181.6604013732556, , , , 26806884, False, 
+##[group]Run actions/checkout@v2, 62.70067906560679, , , , 203990, False, 
+##[group]Run actions/setup-java@v2, 40.489654970042885, , , , 239817, False, 
+##[group]Setting up auth, 30.59314552954553, , , , 52643, False, 
+##[group]Checking out the ref, 21.50681749045121, , , , 115396, False, 
+Requested labels: self-hosted, 0.1057285219672763, , , , 5124218, False, 

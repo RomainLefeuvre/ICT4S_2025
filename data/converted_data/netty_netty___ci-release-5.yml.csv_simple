@@ -1,0 +1,56 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,4814.386419424516,627437826,False,
+##[group]Run actions/cache@v4,790.9137224004323,93258786,False,
+##[group]Run actions/cache@v4__dup_50,721.4486247666324,86082849,True,"##[error]servers must contain id, and username or configuration"
+##[group]Run actions/cache@v4__dup_28,706.5502410452285,84189690,True,##[error]Error: Input required and not supplied: key
+##[group]Run actions/cache@v4__dup_38,647.5003103269464,74202213,True,##[error]Error: Input required and not supplied: key
+##[group]Run actions/cache@v4__dup_18,608.34541621056,75536317,True,##[error]Error: Input required and not supplied: key
+##[group]Run actions/download-artifact@v4__dup_44,296.07431317611173,26767036,False,
+##[group]Run actions/download-artifact@v4__dup_24,205.75668441453604,21031125,False,
+##[group]Run actions/download-artifact@v4,191.44247682488836,14332173,False,
+##[group]Run actions/download-artifact@v4__dup_34,166.68654696730232,14469951,False,
+##[group]Run actions/upload-artifact@v4__dup_31,140.823672077218,12193974,False,
+##[group]Run actions/upload-artifact@v4,138.81026152164927,17308177,True,##[error]Error: Input required and not supplied: key
+##[group]Run ./mvnw -B -ntp --file pom.xml release:prepare -DpreparationGoals=clean -DskipTests=true,86.88370461626259,7435951,True,##[error]Process completed with exit code 2.
+##[group]Run docker-compose -f docker/docker-compose.ubuntu-20.04.yaml run cross-compile-riscv64-stage-release,77.4409581566243,28305494,False,
+##[group]GITHUB_TOKEN Permissions__dup_14,75.2664105399734,6188352,False,
+##[group]GITHUB_TOKEN Permissions__dup_33,71.35717887673276,6095631,False,
+##[group]GITHUB_TOKEN Permissions__dup_43,70.04646765912605,4911932,False,
+##[group]==END_FILE==__dup_22,69.74961769695868,8845271,False,
+##[group]Fetching the repository,66.52966227185871,34396526,False,
+##[group]Run docker-compose -f docker/docker-compose.centos-7.yaml run cross-compile-aarch64-stage-release,64.37280621869562,26716521,False,
+##[group]Run docker-compose -f docker/docker-compose.yaml -f docker/docker-compose.centos-6.111.yaml run stage-release,63.57288369057554,27693245,False,
+##[group]==END_FILE==__dup_32,45.19360679182101,8748203,False,
+##[group]GITHUB_TOKEN Permissions__dup_23,44.35528231768341,6004310,False,
+##[group]Run docker-compose -f docker/docker-compose.centos-7.yaml build,38.62639520612712,3923208,False,
+##[group]Run docker-compose -f docker/docker-compose.ubuntu-20.04.yaml build,37.99190449342835,5460176,False,
+##[group]Run ./mvnw -B -ntp --file pom.xml org.sonatype.plugins:nexus-staging-maven-plugin:deploy-staged -DnexusUrl=https://oss.sonatype.org -DserverId=sonatype-nexus-staging -DaltStagingDirectory=/home/runner/local-staging -DskipStagingRepositoryClose=true,33.05057662890642,4350399,True,##[error]Process completed with exit code 2.
+##[group]Run actions/upload-artifact@v4__dup_21,31.495406078896643,1823420,False,
+##[group]Run docker-compose -f docker/docker-compose.yaml -f docker/docker-compose.centos-6.111.yaml build,28.965359920833727,6484683,False,
+##[group]==END_FILE==__dup_42,26.367257029883515,5147133,False,
+##[group]GITHUB_TOKEN Permissions,23.370968752298424,6484257,False,
+##[group]==END_FILE==__dup_13,21.859782676391493,5460055,False,
+##[group]Run shimataro/ssh-key-action@v2,18.49089817714633,91024,False,
+##[group]Run actions/download-artifact@v4__dup_48,18.124131986464132,660447,False,
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-dev-tools ---,13.645730617456028,512230,True,##[error]No files were found with the provided path: ~/local-staging. No artifacts will be uploaded.
+##[group]Run actions/download-artifact@v4__dup_46,12.814986350797902,635755,False,
+##[group]Run shimataro/ssh-key-action@v2__dup_45,10.819248122718395,99538,False,
+##[group]Run actions/upload-artifact@v4__dup_41,9.18239582331486,1820938,False,
+##[group]Run actions/download-artifact@v4__dup_47,9.079375773855803,643543,False,
+##[group]Run ./.github/scripts/release_checkout_tag.sh release.properties,3.2352934670138724,17678,False,
+##[group]Run shimataro/ssh-key-action@v2__dup_36,2.6563016513219284,100469,False,
+##[group]Run chmod 755 ./prepare-release-workspace/mvnw,2.6423402696130074,8794,False,
+##[group]Run s4u/maven-settings-action@v3.0.0,2.6361767885022203,129317,False,
+##[group]Run s4u/maven-settings-action@v3.0.0__dup_37,2.403876120211518,142020,False,
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-parent ---,2.076703556965764,187354,False,
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-buffer ---,2.0202507343152183,3098,False,
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-testsuite-native ---,1.963797911664673,1143,False,
+##[group]Installed distributions,1.9208510648003856,56476,False,
+##[group]Run shimataro/ssh-key-action@v2__dup_26,1.8303831373143975,125363,False,
+##[group]Run s4u/maven-settings-action@v3.0.0__dup_49,1.7925176910734577,146421,True,##[error]Error: Input required and not supplied: key
+##[group]Run s4u/maven-settings-action@v3.0.0__dup_27,1.73991520982841,136497,False,
+##[group]Run shimataro/ssh-key-action@v2__dup_16,1.3226757904067843,88931,False,
+##[group]Run actions/checkout@v4,0.8841354571997876,180269,False,
+##[group]Cleaning the repository,0.7808759253252711,235661,False,
+##[group]Removing previously created refs_ to avoid conflicts,0.4227065663734219,83431,False,
+##[group]Setting up auth,0.3710768004361637,75114,False,

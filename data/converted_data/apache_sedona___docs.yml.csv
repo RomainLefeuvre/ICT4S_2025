@@ -1,0 +1,28 @@
+Requested labels: self-hosted, 0.0, , , , 4394284, False, 
+##[group]GITHUB_TOKEN Permissions, 391.46038090014105, , , , 47286019, False, 
+##[group]Run actions/checkout@v4, 7.737933400484866, , , , 147154, False, 
+##[group]Disabling automatic garbage collection, 3.7470532761554103, , , , 3178, False, 
+##[group]Fetching the repository, 570.0335262614253, , , , 56119259, False, 
+##[group]Installed distributions, 9.248291480687003, , , , 456094, False, 
+##[group]Run mvn -q clean install -DskipTests && mkdir -p docs/api/javadoc/spark && cp -r spark/common/target/apidocs/* docs/api/javadoc/spark/, 5065.242430597808, , , , 260753179, True, [ERROR[m] Error fetching link: /home/power/actions-runner/_work/sedona/sedona/common/target/target/apidocs/package-list. Ignored it.
+##[group]Run mvn scala:doc && mkdir -p docs/api/scaladoc/spark && cp -r spark/common/target/site/scaladocs/* docs/api/scaladoc/spark, 1957.4952255400465, , , , 61627454, False, 
+##[group]Run pip install mkdocs-material, 76.32622679011162, , , , 10339552, False, 
+##[group]Run pip install mkdocs-macros-plugin, 35.390400465262346, , , , 3074129, False, 
+##[group]Run pip install mkdocs-git-revision-date-localized-plugin, 61.76905478076404, , , , 6361206, False, 
+##[group]Run pip install mike, 64.05758918755086, , , , 6146871, False, 
+##[group]Run sudo apt update, 85.33766316304515, , , , 9578370, True, ##[error]Process completed with exit code 100.
+##[group]Downloading R, 29.975453004763217, , , , 1004293, False, 
+##[group]Updating system package data, 50.57138877439812, , , , 2883625, True, ##[error]Failed to get R release: Failed to get R 4.3.3: Failed to install R: Error: The process '/usr/bin/sudo' failed with exit code 100
+##[group]Install pak, 45.58874834540687, , , , 3680237, False, 
+##[group]Dependency resolution, 214.7681753118514, , , , 15986232, False, 
+##[group]Show Lockfile, 9.150611384247124, , , , 133269, False, 
+##[group]Run actions/cache@v4, 8.232533073678205, , , , 1231332, False, 
+##[group]Install/update packages, 292.4495020699243, , , , 18160616, True, ##[error]Process completed with exit code 1.
+##[group]Run Rscript -e 'pkgdown::build_site(pkg = "./R"_ preview = FALSE_ override = list(destination = "../docs/api/rdocs"))', 4.717007316979088, , , , 215959, True, ##[error]Process completed with exit code 1.
+##[group]Run git config --global user.email = "test@abc.com", 2.1501763267587712, , , , 8737, False, 
+##[group]Run mkdocs build, 228.59727889897803, , , , 16207967, False, 
+##[group]Run git fetch origin website --depth=1, 3.7962337383579614, , , , 517531, True, ##[error]Process completed with exit code 128.
+##[group]Run mike deploy latest-snapshot -b website -p, 241.71505096402907, , , , 10635112, False, 
+##[group]Run actions/upload-artifact@v3, 2773.520576982346, , , , 281774967, False, 
+##[group]Run actions/cache@v3, 11.890483074527245, , , , 675312, False, 
+##[group]Run actions/cache@v3__dup_28, 86187.09550746673, , , , 7658236167, True, ##[error]The operation was canceled.

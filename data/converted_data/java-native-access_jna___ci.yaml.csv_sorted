@@ -1,0 +1,106 @@
+##[group]==END_FILE==__dup_18, 4040.840946172029, , , , 296294860, False, 
+Requested labels: self-hosted, 3458.2532395896847, , , , 290208145, False, 
+##[group]==END_FILE==__dup_54, 2735.3580894120846, , , , 189476176, False, 
+##[group]==END_FILE==__dup_32, 1803.538937670089, , , , 141976341, False, 
+##[group]==END_FILE==__dup_10, 1321.897446699694, , , , 115565618, False, 
+##[group]==END_FILE==__dup_71, 1127.1675995104752, , , , 78557866, False, 
+##[group]==END_FILE==__dup_25, 1053.332463862459, , , , 87922061, False, 
+##[group]Run ant checkstyle, 958.461285624156, , , , 35943280, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==__dup_39, 789.0459394360888, , , , 61183547, False, 
+##[group]==END_FILE==__dup_47, 783.8316419089158, , , , 61780975, False, 
+##[group]==END_FILE==, 632.9684769693407, , , , 86542691, False, 
+##[group]Run ant test__dup_90, 351.2294178492673, , , , 18404916, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_79, 334.19001433801577, , , , 16376489, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_31, 308.5196768211928, , , , 15827937, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_97, 289.73734905126054, , , , 15185519, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_24, 277.82594720633733, , , , 15209347, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_70, 268.2591627661951, , , , 15382739, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_53, 264.5321040377087, , , , 15476508, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_85, 260.3926701894528, , , , 15745637, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_61, 259.44953605710003, , , , 15607411, True, ##[error]Process completed with exit code 1.
+##[group]Installed distributions__dup_77, 237.2337203306629, , , , 15355766, False, 
+##[group]Run ant test__dup_46, 230.6279313487196, , , , 14647076, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_38, 216.09614497506956, , , , 15060743, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test__dup_106, 210.7325020762485, , , , 14284366, True, ##[error]Process completed with exit code 127.
+##[group]Run ant test__dup_17, 176.40677526941002, , , , 14743541, True, ##[error]Process completed with exit code 1.
+##[group]Run ant test, 96.43228138300952, , , , 15951654, True, ##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions__dup_19, 47.81841506691004, , , , 2266421, False, 
+##[group]GITHUB_TOKEN Permissions__dup_11, 46.43295428153997, , , , 2292511, False, 
+##[group]Run sudo apt-get -y install texinfo, 33.57456066840122, , , , 1066304, True, ##[error]Process completed with exit code 100.
+##[group]GITHUB_TOKEN Permissions__dup_72, 30.31030272965573, , , , 2211469, False, 
+##[group]GITHUB_TOKEN Permissions__dup_86, 27.67441733506253, , , , 2228903, False, 
+##[group]GITHUB_TOKEN Permissions__dup_26, 27.613602693072856, , , , 2177892, False, 
+##[group]GITHUB_TOKEN Permissions__dup_80, 26.46287905773444, , , , 2241345, False, 
+##[group]GITHUB_TOKEN Permissions__dup_55, 22.827256244675503, , , , 2203194, False, 
+##[group]GITHUB_TOKEN Permissions__dup_48, 22.40736252047636, , , , 2272843, False, 
+##[group]GITHUB_TOKEN Permissions__dup_91, 21.5151433039641, , , , 2186005, False, 
+##[group]GITHUB_TOKEN Permissions__dup_62, 16.372611645693937, , , , 2271220, False, 
+##[group]GITHUB_TOKEN Permissions__dup_40, 15.576548367135546, , , , 2222531, False, 
+##[group]Fetching the repository__dup_23, 14.130049857970802, , , , 490359, False, 
+##[group]GITHUB_TOKEN Permissions__dup_98, 13.42566720466517, , , , 2295360, False, 
+##[group]Fetching the repository__dup_15, 13.261018090816403, , , , 445209, False, 
+##[group]GITHUB_TOKEN Permissions, 12.313235650651915, , , , 2292058, False, 
+##[group]Fetching the repository__dup_89, 12.093860587998876, , , , 424792, False, 
+##[group]Fetching the repository__dup_59, 11.853027305175033, , , , 434130, False, 
+##[group]GITHUB_TOKEN Permissions__dup_33, 11.748827933864224, , , , 2415397, False, 
+##[group]Fetching the repository__dup_83, 11.453293011396388, , , , 438819, False, 
+##[group]Installed distributions__dup_52, 11.39010279236744, , , , 29883, False, 
+##[group]Fetching the repository__dup_95, 11.2812426414487, , , , 430549, False, 
+##[group]Fetching the repository__dup_36, 11.075436229192658, , , , 449495, False, 
+##[group]Run actions/checkout@v4__dup_81, 10.830789190647348, , , , 181664, False, 
+##[group]Run sudo apt-get -y install texinfo__dup_69, 10.815172191866914, , , , 76882, True, ##[error]Process completed with exit code 100.
+##[group]Cleaning the repository__dup_65, 10.81101921939527, , , , 27072, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_74, 10.49916924656334, , , , 24800, False, 
+##[group]Setting up auth__dup_58, 10.463316666165568, , , , 65048, False, 
+##[group]Run actions/checkout@v4__dup_49, 10.312903550927016, , , , 211761, False, 
+##[group]Run actions/checkout@v4__dup_41, 9.9015305713105, , , , 193181, False, 
+##[group]Fetching the repository__dup_102, 8.545691778935133, , , , 428394, False, 
+##[group]Fetching the repository__dup_29, 8.148025552934616, , , , 450915, False, 
+##[group]Fetching the repository__dup_43, 8.074820784754584, , , , 437341, False, 
+##[group]Fetching the repository__dup_51, 7.716710237571493, , , , 470455, False, 
+##[group]Fetching the repository__dup_76, 6.964991519717968, , , , 456098, False, 
+##[group]Fetching the repository__dup_67, 6.526979996276822, , , , 452166, False, 
+##[group]Run actions/checkout@v4__dup_20, 5.034551945565108, , , , 175110, False, 
+##[group]Run actions/checkout@v4__dup_63, 4.231930726432845, , , , 209551, False, 
+##[group]Run actions/checkout@v4__dup_87, 4.136366125988973, , , , 182601, False, 
+##[group]Run actions/checkout@v4__dup_56, 4.131460715854925, , , , 202270, False, 
+##[group]Run actions/checkout@v4__dup_73, 4.0912614069023885, , , , 182393, False, 
+##[group]Run actions/checkout@v4__dup_92, 4.0833737359486895, , , , 188920, False, 
+##[group]Run actions/checkout@v4__dup_34, 3.934734480805288, , , , 197493, False, 
+##[group]Run actions/checkout@v4__dup_99, 3.189389883708964, , , , 190472, False, 
+##[group]Run actions/checkout@v4__dup_27, 3.1018743966678337, , , , 199510, False, 
+##[group]Installed distributions__dup_60, 2.926489716638794, , , , 30259, False, 
+##[group]Fetching the repository, 2.74857723073847, , , , 487314, False, 
+##[group]Setting up auth__dup_22, 2.6505076711546254, , , , 92639, False, 
+##[group]Installed distributions, 2.627516051816611, , , , 28683, False, 
+##[group]Cleaning the repository, 2.592006904341447, , , , 26785, False, 
+##[group]Setting up auth__dup_14, 2.552196325694982, , , , 120792, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_13, 2.5188605615388826, , , , 22045, False, 
+##[group]Run brew update__dup_96, 2.499351889434409, , , , 24023, True, ##[error]Process completed with exit code 100.
+##[group]Run actions/checkout@v4__dup_12, 2.485524797382783, , , , 187757, False, 
+##[group]Run sudo apt-get -y install texinfo__dup_45, 2.4624032584940574, , , , 73988, True, ##[error]Process completed with exit code 100.
+##[group]Installed distributions__dup_37, 2.436818546701077, , , , 26674, False, 
+##[group]Run sudo apt-get -y install texinfo__dup_104, 2.417029207071298, , , , 77974, True, ##[error]Process completed with exit code 100.
+##[group]Run actions/setup-java@v4, 2.3653590607691624, , , , 693, False, 
+##[group]Setting up auth__dup_88, 2.27853649575766, , , , 65174, False, 
+##[group]Setting up auth__dup_82, 2.2159581437893925, , , , 86335, False, 
+##[group]Setting up auth__dup_94, 2.194945196771056, , , , 65614, False, 
+##[group]Installed distributions__dup_103, 2.18029039597236, , , , 31288, False, 
+##[group]Installed distributions__dup_68, 2.1630344383733826, , , , 28392, False, 
+##[group]Getting Git version info, 2.162203843879054, , , , 5434, False, 
+##[group]Removing previously created refs_ to avoid conflicts__dup_93, 2.133641865252371, , , , 20062, False, 
+##[group]Disabling automatic garbage collection, 2.1159992436641764, , , , 4104, False, 
+##[group]Cleaning the repository__dup_57, 2.092663333233113, , , , 26727, False, 
+##[group]Setting up auth__dup_66, 1.990842274954316, , , , 74665, False, 
+##[group]Setting up auth__dup_75, 1.9584667402388531, , , , 64322, False, 
+##[group]Checking out the ref, 1.957172179781336, , , , 21892, False, 
+##[group]Run brew update__dup_78, 1.923208422334766, , , , 53253, True, ##[error]Process completed with exit code 100.
+##[group]Setting up auth__dup_50, 1.854885245116961, , , , 65914, False, 
+##[group]Setting up auth__dup_42, 1.834169331337627, , , , 65209, False, 
+##[group]Setting up auth__dup_101, 1.6467146754601842, , , , 163510, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 1.6393572195474777, , , , 320178, False, 
+##[group]Cleaning the repository__dup_100, 1.6259067820179034, , , , 26247, False, 
+##[group]Setting up auth__dup_28, 1.5771598357515857, , , , 84900, False, 
+##[group]Run actions/checkout@v4, 1.089641773399784, , , , 198160, False, 
+##[group]Run brew update, 0.5542837016323093, , , , 43268, True, ##[error]Process completed with exit code 100.
+##[group]Setting up auth, 0.5477576223685732, , , , 65213, False, 

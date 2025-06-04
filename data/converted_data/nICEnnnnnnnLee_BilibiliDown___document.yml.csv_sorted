@@ -1,0 +1,9 @@
+##[group]GITHUB_TOKEN Permissions, 104.85332168242093, , , , 3023150, False, 
+##[group]Environment details, 66.28287435479619, , , , 4637957, False, 
+##[group]Fetching the repository, 40.08201715839577, , , , 1975866, False, 
+##[group]Run npm ci, 10.894326106505355, , , , 2115545, True, ##[error]Dependencies lock file is not found in /home/power/actions-runner/_work/BilibiliDown/BilibiliDown. Supported file patterns: package-lock.json,npm-shrinkwrap.json,yarn.lock
+##[group]Run peaceiris/actions-gh-pages@main, 10.173596556337532, , , , 514035, True, ##[error]Process completed with exit code 254.
+##[group]Run actions/setup-node@v4, 7.535415111317863, , , , 436766, True, ##[error]A branch or tag with the name 'docs' could not be found
+##[group]Run npm run docs:build, 5.536735397879455, , , , 335210, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/checkout@v4, 4.211696774453971, , , , 154074, False, 
+##[group]==END_FILE==, 2.764949617472064, , , , 5611698, False, 

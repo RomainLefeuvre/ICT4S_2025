@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew assembleDebug,229.1144396368916,18866098,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew clean,132.48185160387953,41646098,True,##[error]Process completed with exit code 1.
+##[group]Installed distributions,30.46104129098332,1836118,False,
+##[group]Fetching the repository,11.270034999642402,626115,False,
+##[group]GITHUB_TOKEN Permissions,7.758081196681285,2200390,False,
+##[group]Run actions/checkout@v3,3.1722373775783823,188216,False,
+Requested labels: self-hosted,1.1686119744211725,6054098,False,

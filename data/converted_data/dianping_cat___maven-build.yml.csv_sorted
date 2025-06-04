@@ -1,0 +1,9 @@
+##[group]Run mvn clean package -DskipTests, 1251.9419944692918, , , , 84123972, True, [ERROR[m] Error fetching link: /home/power/actions-runner/_work/cat/cat/cat-client/target/target/apidocs/package-list. Ignored it.
+##[group]GITHUB_TOKEN Permissions, 244.6821999717075, , , , 2192838, False, 
+##[group]Installed distributions, 187.8748640342202, , , , 917101, False, 
+##[group]Fetching the repository, 69.12699915284604, , , , 480210, False, 
+##[group]Run actions/checkout@v3, 31.14137090549005, , , , 169597, False, 
+##[group]Checking out the ref, 18.137281955944754, , , , 27673, False, 
+##[group]Setting up auth, 16.426217620478266, , , , 74018, False, 
+##[group]Cleaning the repository, 16.084004753384967, , , , 39027, False, 
+Requested labels: self-hosted, 0.282182881338496, , , , 4337244, False, 

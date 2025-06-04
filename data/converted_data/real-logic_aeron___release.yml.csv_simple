@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run actions/cache@v4__dup_9,417.3390106929939,45904657,False,
+##[group]GITHUB_TOKEN Permissions,350.46556480442086,3455998,False,
+##[group]Run actions/cache@v4,323.55219154572035,37629951,False,
+##[group]Run ./gradlew tutorialPublish -Paeron.ci.apiKey= --stacktrace,140.70713148595726,30533202,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,85.19908963231055,3675733,False,
+> Task :aeron-samples:asciidoctorGithub,83.08011429661978,2800135,False,
+> Task :buildSrc:jar,34.7717108402976,7694885,False,
+##[group]Run actions/checkout@v4,29.47605635557121,193656,False,
+> Task :aeron-samples:removeWikiDirectory UP-TO-DATE,23.623043667768865,1199746,False,
+##[group]Determining the checkout info,15.571324188306154,165970,False,
+##[group]Cleaning the repository,15.343762322174156,96709,False,
+##[group]Checking out the ref,7.051205282065057,102632,False,
+> Task :buildSrc:classes,2.5744347800545886,100773,False,
+Requested labels: self-hosted,0.3963094179129985,3846328,False,

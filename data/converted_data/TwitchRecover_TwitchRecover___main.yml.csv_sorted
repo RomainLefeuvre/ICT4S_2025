@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 25.720331196755748, , , , 1377798, False, 
+##[group]Fetching the repository, 18.79518081323415, , , , 6401834, False, 
+##[group]Checking out the ref, 10.593659039937547, , , , 606916, False, 
+##[group]Run actions/checkout@v2, 4.578742274504598, , , , 187856, False, 
+##[group]Run echo Add other actions to build_, 3.230173413662142, , , , 303487, False, 
+Requested labels: self-hosted, 2.75847000038174, , , , 5265157, False, 
+##[group]Run echo Hello_ world!, 1.263862496203931, , , , 35436, False, 

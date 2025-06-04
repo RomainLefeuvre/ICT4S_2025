@@ -1,0 +1,7 @@
+##[group]GITHUB_TOKEN Permissions, 73.08593108119886, , , , 1304623, False, 
+##[group]Cleaning the repository, 37.06216566406443, , , , 610407, False, 
+##[group]Fetching the repository, 32.22132839738839, , , , 461864, False, 
+##[group]Run dev-support/ci/pr_title_check.sh "${TITLE}", 26.517106600742245, , , , 342252, True, ##[error]Process completed with exit code 1.
+##[group]==END_FILE==, 22.354076626301367, , , , 4447067, False, 
+##[group]Run actions/checkout@v4, 12.025146828985244, , , , 156976, False, 
+##[group]Setting up auth, 6.32092503233909, , , , 70980, False, 

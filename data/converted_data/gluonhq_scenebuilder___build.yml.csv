@@ -1,0 +1,22 @@
+Requested labels: self-hosted, 16.412287748666312, , , , 4654913, False, 
+Requested labels: self-hosted__dup_2, 639.7064420068419, , , , 94027966, False, 
+Requested labels: self-hosted__dup_3, 579.0448017381766, , , , 75758591, False, 
+##[group]GITHUB_TOKEN Permissions, 473.2280056360168, , , , 2948016, False, 
+##[group]Run actions/checkout@v2, 42.592475363082585, , , , 190425, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 21.78347040157136, , , , 27692, False, 
+##[group]Fetching the repository, 113.78967920815744, , , , 450287, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java, 123.53433360875874, , , , 511557, True, ##[error]Process completed with exit code 1.
+##[group]Run export DISPLAY=:90, 513.8475860183675, , , , 57798813, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile[m (default-compile)[m on project kit[m: Fatal error compiling[m: error: release version 21 not supported -> [Help 1][m
+##[group]GITHUB_TOKEN Permissions__dup_10, 8.089328426758831, , , , 3142209, False, 
+##[group]Run actions/checkout@v2__dup_11, 1.4692730722844725, , , , 189110, False, 
+##[group]Setting up auth, 0.7342276354113113, , , , 71315, False, 
+##[group]Fetching the repository__dup_13, 2.9341845367724115, , , , 446682, False, 
+##[group]Checking out the ref, 0.7328646329748945, , , , 27395, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java__dup_15, 3.658871155128805, , , , 495921, True, ##[error]Process completed with exit code 1.
+##[group]Run export DISPLAY=:90__dup_16, 31.904202839842014, , , , 4387195, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile[m (default-compile)[m on project kit[m: Fatal error compiling[m: error: release version 21 not supported -> [Help 1][m
+##[group]GITHUB_TOKEN Permissions__dup_17, 20.679236284854227, , , , 3224162, False, 
+##[group]Run actions/checkout@v2__dup_18, 2.6771803589601086, , , , 196599, False, 
+##[group]Fetching the repository__dup_19, 8.348430060070237, , , , 462080, False, 
+##[group]Checking out the ref__dup_20, 1.896898743237006, , , , 63891, False, 
+##[group]Run JAVA=$JAVA_HOME_17_X64/bin/java__dup_21, 11.75662102841461, , , , 514176, True, ##[error]Process completed with exit code 1.
+##[group]Run export DISPLAY=:90__dup_22, 100.1430066851076, , , , 4459566, True, [ERROR[m] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile[m (default-compile)[m on project kit[m: Fatal error compiling[m: error: release version 21 not supported -> [Help 1][m

@@ -1,0 +1,11 @@
+Requested labels: self-hosted, 0.1805635906238771, , , , 5613118, False, 
+##[group]GITHUB_TOKEN Permissions, 13.882686462176796, , , , 2159502, False, 
+##[group]Run actions/checkout@v2, 5.177118604993344, , , , 183986, False, 
+##[group]Setting up auth, 2.5509637045089346, , , , 62605, False, 
+##[group]Fetching the repository, 24.13113178553897, , , , 1013789, False, 
+##[group]Checking out the ref, 2.27526265259886, , , , 64137, False, 
+##[group]Run actions/setup-java@v2, 8.75015836250989, , , , 428986, False, 
+##[group]Run git fetch --unshallow, 38.83276338349455, , , , 2048393, True, ##[error]Process completed with exit code 1.
+##[group]Run ./gradlew :vertical-stepper-form:assembleRelease, 18.50024494339855, , , , 1309376, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.0.2-all/7era6s5ay7zsbhuvl0oc9g94s/gradle-7.0.2-all.zip.lck (Aucun fichier ou dossier de ce type)
+##[group]Run ./gradlew androidSourcesJar javadocJar, 3.5925665308511605, , , , 310034, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.0.2-all/7era6s5ay7zsbhuvl0oc9g94s/gradle-7.0.2-all.zip.lck (Aucun fichier ou dossier de ce type)
+##[group]Run ./gradlew publishReleasePublicationToSonatypeRepository --max-workers 1 closeAndReleaseSonatypeStagingRepository, 7.505424618938835, , , , 712319, True, ##[error]Exception in thread "main" java.io.FileNotFoundException: /root/.gradle/wrapper/dists/gradle-7.0.2-all/7era6s5ay7zsbhuvl0oc9g94s/gradle-7.0.2-all.zip.lck (Aucun fichier ou dossier de ce type)

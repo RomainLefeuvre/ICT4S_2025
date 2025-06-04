@@ -1,0 +1,10 @@
+##[group]Starting job container, 455.3400467025137, , , , 128097049, False, 
+##[group]Run peter-evans/create-pull-request@v6.0.4, 85.14523391822419, , , , 1965005, True, ##[error]Input 'token' not supplied. Unable to continue.
+##[group]Run actions/checkout@v4.1.1, 82.26603136858685, , , , 2379748, True, ##[error]Input required and not supplied: token
+##[group]GITHUB_TOKEN Permissions, 33.20535290055671, , , , 8109084, False, 
+##[group]Run ./gradlew :addons:languages:generatePacksMarkDown :addons:themes:generatePacksMarkDown :addons:quicktexts:generatePacksMarkDown, 7.1758736380904224, , , , 101942, True, ##[error]Process completed with exit code 127.
+##[group]Checking docker version, 5.894398692626488, , , , 753664, False, 
+##[group]Run ./scripts/ci/ci_setup.sh, 5.303997516340655, , , , 107984, True, ##[error]Process completed with exit code 127.
+Requested labels: self-hosted, 3.19365637851791, , , , 5509998, False, 
+##[group]Create local container network, 2.9509861748451405, , , , 642786, False, 
+##[group]Clean up resources from previous jobs, 0.6673564989739139, , , , 157236, False, 

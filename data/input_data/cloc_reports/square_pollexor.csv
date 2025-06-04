@@ -1,0 +1,30 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.01 s (2096.9 files/s 218975.2 lines/s)"
+Java,/tmp/clone_directory/src/test/java/com/squareup/pollexor/ThumborUrlBuilderTest.java,67,1,458
+Java,/tmp/clone_directory/src/main/java/com/squareup/pollexor/ThumborUrlBuilder.java,79,296,444
+Text,/tmp/clone_directory/LICENSE.txt,33,0,169
+HTML,/tmp/clone_directory/website/index.html,3,0,114
+Java,/tmp/clone_directory/src/main/java/com/squareup/pollexor/Utilities.java,16,53,100
+Bourne Shell,/tmp/clone_directory/gradlew,27,108,99
+Java,/tmp/clone_directory/src/test/java/com/squareup/pollexor/UtilitiesTest.java,14,1,96
+Markdown,/tmp/clone_directory/README.md,26,0,71
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Markdown,/tmp/clone_directory/CHANGELOG.md,36,0,52
+Java,/tmp/clone_directory/src/test/java/com/squareup/pollexor/ThumborTest.java,11,0,49
+CSS,/tmp/clone_directory/website/app.css,6,1,41
+Java,/tmp/clone_directory/src/main/java/com/squareup/pollexor/Thumbor.java,7,16,36
+Gradle,/tmp/clone_directory/build.gradle,8,0,33
+Java,/tmp/clone_directory/src/test/java/com/squareup/pollexor/UpstreamTest.java,7,1,28
+JavaScript,/tmp/clone_directory/website/prettify.js,0,0,28
+YAML,/tmp/clone_directory/.github/workflows/release.yaml,6,0,27
+YAML,/tmp/clone_directory/.github/workflows/build.yaml,6,0,24
+Markdown,/tmp/clone_directory/RELEASING.md,14,0,24
+Properties,/tmp/clone_directory/gradle.properties,5,0,16
+CSS,/tmp/clone_directory/website/prettify.css,1,0,13
+Markdown,/tmp/clone_directory/CONTRIBUTING.md,6,0,12
+INI,/tmp/clone_directory/.editorconfig,1,0,6
+YAML,/tmp/clone_directory/.github/dependabot.yaml,1,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+CSS,/tmp/clone_directory/website/bootstrap-responsive.min.css,0,9,1
+CSS,/tmp/clone_directory/website/bootstrap.min.css,0,8,1
+JavaScript,/tmp/clone_directory/website/jquery-maven-artifact.min.js,0,7,1
+SUM,,401,503,2020

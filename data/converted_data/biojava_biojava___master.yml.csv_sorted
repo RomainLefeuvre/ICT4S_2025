@@ -1,0 +1,8 @@
+##[group]Run mvn verify -pl '!biojava-integrationtest' org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=biojava_biojava -Dsonar.organization=biojava --no-transfer-progress, 1508.774252206858, , , , 126277519, True, [ERROR[m] Tests run: 7[m, Failures: 0, Errors: 1[m, Skipped: 0, Time elapsed: 0.827 s <<< FAILURE![m - in org.biojava.nbio.core.sequence.io.ABITracerTest[m
+##[group]GITHUB_TOKEN Permissions, 84.37995945238373, , , , 2167711, False, 
+##[group]Installed distributions, 64.36161105678738, , , , 10387796, False, 
+##[group]Fetching the repository, 22.87862865327588, , , , 432690, False, 
+##[group]Run actions/checkout@v4, 10.392534070561336, , , , 164623, False, 
+##[group]Setting up auth, 5.457962099299819, , , , 58151, False, 
+##[group]Cleaning the repository, 5.353284073692159, , , , 45568, False, 
+##[group]==END_FILE==, 0.612269763379242, , , , 4904199, False, 

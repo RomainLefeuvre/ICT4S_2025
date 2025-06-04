@@ -1,0 +1,22 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./mvnw ${MAVEN_ARGS} install -Pjacoco,976.3899878681556,130095501,True,[ERROR] DOCKER> containerPath of copy goal entry for example:latest image is not specified
+##[group]GITHUB_TOKEN Permissions,388.7758808170072,1975431,False,
+[INFO] --- maven-surefire-plugin:3.0.0-M2:test (default-test) @ docker-maven-plugin ---,329.0533704490703,47181816,True,[ERROR] DOCKER> containerPath of copy goal entry for example:latest image is not specified
+##[group]Fetching the repository,119.43983395897996,408065,False,
+[INFO] --- maven-plugin-plugin:3.6.0:helpmojo (help-goal) @ docker-maven-plugin ---,82.2622474185795,16104711,False,
+##[group]Run actions/checkout@v2,53.58982024484608,187802,False,
+[INFO] --- jacoco-maven-plugin:0.7.9:instrument (instrument) @ docker-maven-plugin ---,32.20656890286774,7884816,False,
+##[group]Run actions/setup-java@v1,32.00549234687035,126365,False,
+##[group]Setting up auth,28.32743430608401,68008,False,
+##[group]Removing previously created refs_ to avoid conflicts,27.714424632619625,69162,False,
+[INFO] --- jacoco-maven-plugin:0.7.9:report (restore) @ docker-maven-plugin ---,20.13912293902874,658425,False,
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ docker-maven-plugin ---,19.78975802844446,1232465,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (default-descriptor) @ docker-maven-plugin ---,17.20137221672078,1487096,False,
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ docker-maven-plugin ---,16.35158714831965,2054931,False,
+[INFO] --- sortpom-maven-plugin:3.0.1:sort (default) @ docker-maven-plugin ---,14.352909037243762,726244,False,
+[INFO] --- maven-plugin-plugin:3.6.0:descriptor (mojo-descriptor) @ docker-maven-plugin ---,14.106183163249044,1205493,False,
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ docker-maven-plugin ---,8.981987797235,6073695,False,
+[INFO] --- plexus-component-metadata:2.1.0:generate-metadata (default) @ docker-maven-plugin ---,6.021361897133943,1891194,False,
+Requested labels: self-hosted,3.784059041567977,4295327,False,
+[INFO] --- jacoco-maven-plugin:0.7.9:restore-instrumented-classes (restore) @ docker-maven-plugin ---,2.4907882179213114,64435,False,
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ docker-maven-plugin ---,1.7030573414959569,225871,False,

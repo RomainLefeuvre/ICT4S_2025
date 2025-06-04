@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 0.0134240827399422, , , , 4086557, False, 
+##[group]GITHUB_TOKEN Permissions, 31.66517074222826, , , , 2233217, False, 
+##[group]Run actions/checkout@v2, 11.449570793387648, , , , 181744, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.58442030013571, , , , 27418, False, 
+##[group]Setting up auth, 5.490843569096967, , , , 66284, False, 
+##[group]Fetching the repository, 26.0505668799037, , , , 471482, False, 
+##[group]Run crazy-max/ghaction-github-labeler@v3, 105.9134432285908, , , , 14197174, False, 

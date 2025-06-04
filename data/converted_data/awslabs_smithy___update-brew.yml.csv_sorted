@@ -1,0 +1,12 @@
+##[group]==END_FILE==__dup_4, 70.06025238476595, , , , 4545393, False, 
+##[group]GITHUB_TOKEN Permissions, 7.848398698054826, , , , 1518337, False, 
+##[group]GITHUB_TOKEN Permissions__dup_6, 6.619920453984555, , , , 2112765, False, 
+##[group]Run actions/download-artifact@v4, 3.037475597215753, , , , 671985, True, ##[error]Unable to download artifact(s): Artifact not found for name: brew-artifacts
+##[group]Run actions/upload-artifact@v4, 2.877746189286769, , , , 369569, True, ##[error]Unable to download artifact(s): Artifact not found for name: brew-artifacts
+##[group]Run git add bottle-configs/smithy-cli.json, 1.013742646265468, , , , 182023, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/smithy/smithy/homebrew-tap'. No such file or directory
+Requested labels: self-hosted, 0.6603303150464502, , , , 3875448, False, 
+##[group]Run git config user.name 'smithy-automation', 0.4939984576357579, , , , 29937, True, ##[error]An error occurred trying to start process '/usr/bin/bash' with working directory '/home/power/actions-runner/_work/smithy/smithy/homebrew-tap'. No such file or directory
+##[group]Run version="${GITHUB_REF##*/}"__dup_10, 0.4854165473044406, , , , 46220, True, ##[error]Process completed with exit code 2.
+##[group]Run version="${GITHUB_REF##*/}", 0.4768346369731231, , , , 60921, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/checkout@v4, 0.4682527266418057, , , , 100181, True, ##[error]Input required and not supplied: token
+##[group]==END_FILE==, 0.1405332866161807, , , , 4671896, False, 

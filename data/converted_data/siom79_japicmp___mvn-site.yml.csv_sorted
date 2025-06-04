@@ -1,0 +1,8 @@
+##[group]GITHUB_TOKEN Permissions, 0.9716622883942984, , , , 2281415, False, 
+##[group]Run git config --global user.name 'diversepwmeasurement', 0.8130461934856383, , , , 1967269, True, ##[error]Process completed with exit code 5.
+##[group]Run actions/setup-java@v2, 0.5111016977827297, , , , 1228692, False, 
+Requested labels: self-hosted, 0.2089874230007726, , , , 4502675, False, 
+##[group]Fetching the repository, 0.1699306578195467, , , , 436588, False, 
+##[group]Run actions/checkout@v2, 0.127247896592924, , , , 205296, False, 
+##[group]Setting up auth, 0.0424523467621994, , , , 63058, False, 
+##[group]Cleaning the repository, 0.0424402196851245, , , , 117340, False, 

@@ -1,0 +1,5 @@
+Requested labels: self-hosted, 0.3327164628508774, , , , 4313270, False, 
+##[group]GITHUB_TOKEN Permissions, 5.191133394091453, , , , 1605733, False, 
+##[group]Run aws-actions/configure-aws-credentials@v1, 34.394322940608355, , , , 7752616, True, ##[error]Credentials could not be loaded, please check your action inputs: Could not load credentials from any providers
+##[group]Run mkdir macos, 0.5142569754990655, , , , 31453, True, ##[error]Process completed with exit code 127.
+##[group]Run mkdir win64, 0.5041233125537403, , , , 131214, True, ##[error]Process completed with exit code 127.

@@ -1,0 +1,6 @@
+Requested labels: self-hosted, 0.0, , , , 5456027, False, 
+##[group]GITHUB_TOKEN Permissions, 4.437469646204326, , , , 1348862, False, 
+##[group]Run actions/checkout@v2, 0.8150454452212027, , , , 202633, False, 
+##[group]Initializing the repository, 0.4226161567813643, , , , 3448, False, 
+##[group]Fetching the repository, 36.35106862634434, , , , 7038615, False, 
+##[group]Run git config user.name github-actions, 5.070093565766147, , , , 492781, True, ##[error]Process completed with exit code 128.

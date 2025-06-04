@@ -1,0 +1,7 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,132.91440041480263,4329852,False,
+##[group]Starting postgres service container,98.87864214681876,47243977,True,##[error]Docker start fail with exit code 1
+##[group]Checking docker version,32.6436585614568,6322642,False,
+##[group]Create local container network,10.614225598981044,1608726,False,
+##[group]Clean up resources from previous jobs,5.782294699099271,470964,False,
+Requested labels: self-hosted,4.862411071010585,5755980,False,

@@ -1,0 +1,62 @@
+Requested labels: self-hosted__dup_5, 5584.4005870676665, , , , 349149152, False, 
+##[group]Run cd services/identity, 2217.5695514917857, , , , 99011794, False, 
+##[group]Run cd services/web, 1595.336691054602, , , , 101374998, True, ##[error]Process completed with exit code 1.
+##[group]Run cd services/community, 636.6991228783842, , , , 24657336, False, 
+##[group]Run cd services/workshop, 485.8448439135187, , , , 38331688, True, ##[error]Process completed with exit code 1.
+##[group]Run npm install -g newman, 213.0549174417092, , , , 12409791, False, 
+##[group]Run actions/setup-go@v5, 144.1117630807144, , , , 13356727, False, 
+##[group]run golangci-lint, 132.19969549729626, , , , 4739668, False, 
+> Task :classes, 129.50059036235152, , , , 4198042, False, 
+> Task :testClasses, 105.53627172347718, , , , 3801795, False, 
+##[group]Run actions/setup-node@v3, 98.95660113781032, , , , 5698056, False, 
+##[group]Installed versions, 82.8723905769571, , , , 19538137, True, ##[error]WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+##[group]GITHUB_TOKEN Permissions__dup_26, 64.52150621096975, , , , 6056603, False, 
+> Task :test, 54.7207594921056, , , , 3151698, False, 
+##[group]Booting builder, 46.52627573869185, , , , 14419732, False, 
+##[group]GITHUB_TOKEN Permissions__dup_6, 31.47867878787349, , , , 7314691, False, 
+##[group]Cleaning the repository, 30.5128025418578, , , , 2361486, False, 
+Requested labels: self-hosted__dup_4, 25.571413957184703, , , , 4407434, False, 
+##[group]Buildx version__dup_43, 22.810055347110787, , , , 1405181, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-identity:": invalid reference format
+##[group]Run EnricoMi/publish-unit-test-result-action@v2, 22.71213250922541, , , , 6999611, False, 
+##[group]Docker info, 22.65063476463662, , , , 1359827, False, 
+##[group]Removing builder, 17.682224255822433, , , , 7220333, False, 
+##[group]go env, 16.844288855618547, , , , 757474, False, 
+##[group]Buildx version__dup_45, 16.03271427315436, , , , 551404, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-workshop:": invalid reference format
+##[group]Buildx version__dup_47, 15.931137264798682, , , , 525772, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-community:": invalid reference format
+##[group]Buildx version__dup_49, 15.905327550887666, , , , 441580, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/crapi-web:": invalid reference format
+##[group]prepare environment, 15.874355946907082, , , , 2610556, False, 
+##[group]Buildx version__dup_51, 15.479531178687072, , , , 592879, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/mailhog:": invalid reference format
+##[group]Pull down action image 'ghcr.io/enricomi/publish-unit-test-result-action:v2.15.1', 13.06379075791162, , , , 9223446, False, 
+##[group]Run docker images, 12.64652148677148, , , , 2692277, False, 
+##[group]Docker info__dup_44, 11.489127344730443, , , , 145673, False, 
+##[group]Environment details, 11.111756572631869, , , , 221126, False, 
+##[group]Pulling binfmt Docker image, 10.95208601270221, , , , 1738942, False, 
+##[group]Fetching the repository__dup_29, 9.360223512273926, , , , 1263790, False, 
+##[group]Docker info__dup_42, 7.298073120193718, , , , 366237, False, 
+##[group]Extracting available platforms, 7.280139601166876, , , , 5692641, False, 
+##[group]Creating a new builder instance, 7.225464105759874, , , , 472505, False, 
+##[group]Buildx version__dup_50, 7.22053733974346, , , , 548439, True, ##[error]buildx failed with: ERROR: invalid tag "crapi/gateway-service:": invalid reference format
+##[group]Installing QEMU static binaries, 7.103593809180412, , , , 5242019, False, 
+##[group]Run docker-compose -f deploy/docker/docker-compose.yml down --volumes --remove-orphans, 6.309522106211454, , , , 344928, True, ##[error]Process completed with exit code 127.
+##[group]Cleaning up certificates, 5.492093837610538, , , , 234204, False, 
+##[group]Docker info__dup_46, 4.93125821784528, , , , 94213, False, 
+##[group]Docker info__dup_37, 3.7132858129599966, , , , 155088, False, 
+##[group]Buildx version, 3.5039056191121203, , , , 166601, False, 
+##[group]Docker info__dup_48, 3.183359706969624, , , , 74806, False, 
+##[group]Removing temp folder /tmp/docker-build-push-VWs9z8, 2.424366045345175, , , , 17423, False, 
+##[group]Image info, 2.3994398113200783, , , , 89419, False, 
+##[group]Removing temp folder /tmp/docker-build-push-JtNVjW, 2.3749877883692765, , , , 21052, False, 
+##[group]Inspect builder, 2.244638670860924, , , , 99989, False, 
+##[group]Removing temp folder /tmp/docker-build-push-aJLhLl, 2.2430562025795746, , , , 20422, False, 
+##[group]Run (newman run "./postman_collections/crAPI.postman_collection.json" -e ./postman_collections/crAPI.postman_environment.json --verbose) || true, 1.9993184821052412, , , , 94244, False, 
+##[group]Run echo "$GITHUB_CONTEXT", 1.898845308873873, , , , 154139, False, 
+##[group]GITHUB_TOKEN Permissions, 1.7180028985049327, , , , 148980, False, 
+##[group]Run actions/checkout@v4__dup_27, 1.3864911891367255, , , , 145287, False, 
+##[group]Run actions/checkout@v4, 1.3643524368348765, , , , 347826, False, 
+##[group]Run echo "Current Branch: develop", 1.3628161794773817, , , , 15939, False, 
+##[group]Run orgoro/coverage@v3.1, 1.0287549392241493, , , , 220694, True, ##[error]action support only pull requests but event is repository_dispatch
+##[group]Run env, 0.871187707157192, , , , 67055, False, 
+##[group]Checking out the ref, 0.8032097339969245, , , , 117110, False, 
+##[group]Setting up auth, 0.4181433475684626, , , , 56422, False, 
+##[group]Fetching the repository, 0.3502788307920724, , , , 1986153, False, 
+Requested labels: self-hosted, 0.0, , , , 5285636, False, 

@@ -1,0 +1,6 @@
+name,energy,seconds,has_error,error_msg
+##[group]GITHUB_TOKEN Permissions,92.97230023821722,1191934,False,
+##[group]Run sh update-bach-info.sh,67.63857821563421,1417882,True,##[error]Process completed with exit code 2.
+##[group]Run curl -sL https://raw.githubusercontent.com/jreleaser/jreleaser/main/.github/scripts/update-bach-info.sh --output update-bach-info.sh,10.084297115785464,8349,False,
+##[group]Run actions/checkout@v4,9.838338649546792,137737,True,##[error]Input required and not supplied: token
+Requested labels: self-hosted,0.0,4431829,False,

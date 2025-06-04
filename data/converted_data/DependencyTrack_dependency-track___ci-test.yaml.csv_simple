@@ -1,0 +1,9 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean,53429.694054126085,2157707493,False,
+##[group]Installed distributions,408.1357586621672,51169428,False,
+##[group]==END_FILE==,59.668168024268994,4762355,False,
+##[group]GITHUB_TOKEN Permissions,26.77806515239292,3454393,False,
+##[group]Fetching the repository,4.727994783295121,466893,False,
+##[group]Setting up auth,2.2618967091885094,112699,False,
+##[group]Run actions/checkout@1d96c772d19495a3b5c517cd2bc0cb401ea0529f,2.1938295875491423,159813,False,
+##[group]Checking out the ref,1.224540646848385,21726,False,

@@ -1,0 +1,8 @@
+Requested labels: self-hosted, 393.21784740013953, , , , 5509266, False, 
+##[group]Fetching the repository, 25.586636916545505, , , , 704413, False, 
+##[group]GITHUB_TOKEN Permissions, 22.58477716587923, , , , 1741862, False, 
+##[group]Cleaning the repository, 19.444901012666563, , , , 787298, False, 
+##[group]Run bazel test --config=remote //..., 17.213685783774263, , , , 359427, True, ##[error]Process completed with exit code 127.
+##[group]Removing previously created refs_ to avoid conflicts, 15.155696718399964, , , , 902568, False, 
+##[group]Run actions/checkout@v2, 5.242888365382783, , , , 185116, False, 
+##[group]Setting up auth, 3.740232520607159, , , , 86338, False, 

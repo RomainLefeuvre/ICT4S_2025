@@ -1,0 +1,10 @@
+##[group]Run cd boot-data-mongo-tailable, 772.6221531186093, , , , 113688218, True, [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.774 s <<< FAILURE! -- in com.example.demo.DemoApplicationTests
+##[group]Installed distributions, 123.32978476075178, , , , 14434984, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ spring-reactive-sample-boot-data-mongo-tailable ---, 87.35915940174847, , , , 11904765, False, 
+##[group]GITHUB_TOKEN Permissions, 49.91444536450826, , , , 2235123, False, 
+[INFO] --- maven-compiler-plugin:3.11.0:testCompile (default-testCompile) @ spring-reactive-sample-boot-data-mongo-tailable ---, 20.070341080605584, , , , 950032, False, 
+##[group]Fetching the repository, 16.609228067441222, , , , 429170, False, 
+##[group]Run actions/checkout@v4, 6.102144673235974, , , , 143005, False, 
+##[group]Cleaning the repository, 3.141330095574739, , , , 34185, False, 
+[INFO] --- maven-resources-plugin:3.3.1:resources (default-resources) @ spring-reactive-sample-boot-data-mongo-tailable ---, 1.3798223106869023, , , , 106843, False, 
+Requested labels: self-hosted, 0.3628314552257999, , , , 4134159, False, 

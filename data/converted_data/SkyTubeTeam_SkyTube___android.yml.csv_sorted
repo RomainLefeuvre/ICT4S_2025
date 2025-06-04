@@ -1,0 +1,13 @@
+##[group]Run ./gradlew testOssDebugUnitTest, 287.9877027409836, , , , 34294662, True, ##[error]Process completed with exit code 1.
+##[group]Run actions/upload-artifact@v2__dup_13, 103.3957493554304, , , , 9955330, False, 
+##[group]Fetching the repository, 21.001212601223774, , , , 2148853, False, 
+##[group]Run ./gradlew assembleSnapshot, 16.899970872499985, , , , 1149808, True, ##[error]Process completed with exit code 1.
+##[group]Run gradle/wrapper-validation-action@v1, 14.890592692910692, , , , 1495701, False, 
+##[group]GITHUB_TOKEN Permissions, 5.04229764822302, , , , 4496018, False, 
+##[group]Run actions/cache@v2, 4.919771591755719, , , , 1519449, False, 
+##[group]Run actions/setup-java@v2, 2.9686665285118043, , , , 226942, False, 
+##[group]Run actions/upload-artifact@v2, 2.754303423304527, , , , 78049, False, 
+##[group]Run actions/checkout@v2, 2.0088673470070706, , , , 200003, False, 
+##[group]Checking out the ref, 1.9920637735486983, , , , 212899, False, 
+##[group]Setting up auth, 1.0039085618329615, , , , 68744, False, 
+Requested labels: self-hosted, 0.7869946741649269, , , , 5606851, False, 

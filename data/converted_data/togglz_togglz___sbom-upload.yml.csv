@@ -1,0 +1,10 @@
+Requested labels: self-hosted, 17.93954939102787, , , , 5247948, False, 
+##[group]GITHUB_TOKEN Permissions, 178.45501850538602, , , , 2851513, False, 
+##[group]Run actions/checkout@v4, 7.743056220837249, , , , 141366, False, 
+##[group]Getting Git version info, 7.826066081612264, , , , 29742, False, 
+##[group]Setting up auth, 7.909075942387279, , , , 57194, False, 
+##[group]Fetching the repository, 32.46640237729927, , , , 434766, False, 
+##[group]Checking out the ref, 8.324125246262353, , , , 16851, False, 
+##[group]Run curl -Lo $RUNNER_TEMP/sbom-tool https://github.com/microsoft/sbom-tool/releases/latest/download/sbom-tool-linux-x64, 638.1893172266487, , , , 92030408, False, 
+##[group]Run actions/upload-artifact@v4, 10.994781845502349, , , , 1654800, False, 
+##[group]Run advanced-security/spdx-dependency-submission-action@v0.0.1, 2.958837521749766, , , , 1167092, True, ##[error]HTTP Status 404 for request POST https://api.github.com/repos/diversepwmeasurement/togglz/dependency-graph/snapshots

@@ -1,0 +1,15 @@
+name,energy,seconds,has_error,error_msg
+##[group]==END_FILE==,213.1085245839918,102889967,False,
+##[group]GITHUB_TOKEN Permissions,137.50472691207528,1939778,False,
+##[group]Pull down action image 'quay.io/ansible/creator-ee:v0.5.2',131.5140193686178,56321232,True,##[error]Process completed with exit code 127.
+##[group]Run ansible/ansible-lint-action@c00ea1b2ac047eaf7318275ac83a0cb846cea71a,48.37759940852003,30687573,False,
+"##[group]Run (cd tools/scripts/ansible && vagrant up || ( ( echo ""# WARNING vagrant failed—we are ignoring the failure until https://unicode-org.atlassian.net/browse/CLDR-17297 … Try it manually."" | tee -a $GITHUB_STEP_SUMMARY)  ; true ) )",16.098061324369926,317140,True,##[error]Process completed with exit code 127.
+##[group]Fetching the repository__dup_13,14.254373693879996,459593,False,
+##[group]GITHUB_TOKEN Permissions__dup_10,10.566998432900132,1329700,False,
+##[group]Run actions/checkout@v4__dup_11,5.038021930575622,139629,False,
+##[group]Cleaning the repository__dup_12,2.629632223117207,40465,False,
+##[group]Fetching the repository,2.0831278541848333,457788,False,
+##[group]Checking out the ref,1.225805002460522,152980,False,
+##[group]Run actions/checkout@v4,0.6730817763562048,148186,False,
+##[group]Setting up auth,0.4133080029148131,149480,False,
+##[group]Cleaning the repository,0.3826011570201288,41183,False,

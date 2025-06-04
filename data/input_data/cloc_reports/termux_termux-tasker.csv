@@ -1,0 +1,53 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (2385.6 files/s 327906.6 lines/s)"
+XML,/tmp/clone_directory/templates/plugin_hosts/tasker/Termux_Tasker_Plugin_Basic_Templates.tsk.xml,61,0,921
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/EditConfigurationActivity.java,147,87,555
+Markdown,/tmp/clone_directory/templates/plugin_hosts/tasker/Termux_Tasker_Plugin_Basic_Templates.tsk.md,158,0,486
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/utils/TaskerPlugin.java,196,379,464
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_edit_configuration.xml,61,6,308
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/utils/PluginUtils.java,72,236,239
+Markdown,/tmp/clone_directory/README.md,185,0,209
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/ArgumentTokenizer.java,10,92,127
+Bourne Shell,/tmp/clone_directory/gradlew,21,36,126
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/FireReceiver.java,37,39,124
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/PluginBundleManager.java,36,62,106
+Gradle,/tmp/clone_directory/app/build.gradle,18,7,83
+DOS Batch,/tmp/clone_directory/gradlew.bat,24,2,74
+XML,/tmp/clone_directory/app/src/main/res/layout/activity_termux_tasker.xml,7,0,62
+YAML,/tmp/clone_directory/.github/workflows/attach_debug_apk_to_release.yml,9,0,55
+YAML,/tmp/clone_directory/.github/workflows/debug_build.yml,10,2,54
+XML,/tmp/clone_directory/app/src/main/AndroidManifest.xml,7,21,53
+XML,/tmp/clone_directory/app/src/main/res/values/strings.xml,12,5,53
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/utils/LoggerUtils.java,15,0,47
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/activities/TermuxTaskerActivity.java,11,1,35
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/AbstractPluginActivity.java,8,18,32
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_launcher.xml,4,1,29
+XML,/tmp/clone_directory/app/src/main/res/drawable/ic_foreground.xml,3,1,24
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/TermuxTaskerApplication.java,11,3,22
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/PluginResultsService.java,9,5,21
+Java,/tmp/clone_directory/app/src/main/java/com/twofortyfouram/locale/Intent.java,15,159,21
+Gradle,/tmp/clone_directory/build.gradle,3,0,20
+Java,/tmp/clone_directory/app/src/main/java/com/termux/tasker/BundleScrubber.java,5,27,18
+Java,/tmp/clone_directory/app/src/androidTest/java/com/termux/tasker/ExampleInstrumentedTest.java,7,6,16
+XML,/tmp/clone_directory/app/src/main/res/menu/twofortyfouram_locale_save_dontsave.xml,3,18,16
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/bug_report.md,8,16,11
+Java,/tmp/clone_directory/app/src/main/java/com/twofortyfouram/locale/Constants.java,3,23,10
+XML,/tmp/clone_directory/app/src/main/res/menu/activity_edit_configuration.xml,3,1,10
+Python,/tmp/clone_directory/templates/scripts/termux_tasker_basic_python_test,5,1,10
+Java,/tmp/clone_directory/app/src/test/java/com/termux/tasker/ExampleUnitTest.java,3,5,9
+Bourne Again Shell,/tmp/clone_directory/templates/scripts/termux_tasker_basic_bash_test,3,1,9
+XML,/tmp/clone_directory/app/src/main/res/values/dimens.xml,1,1,8
+YAML,/tmp/clone_directory/.github/dependabot.yml,0,0,6
+XML,/tmp/clone_directory/app/src/main/res/values/colors.xml,0,0,6
+Markdown,/tmp/clone_directory/.github/ISSUE_TEMPLATE/feature_request.md,4,8,5
+XML,/tmp/clone_directory/app/src/main/res/drawable-anydpi-v26/ic_launcher.xml,0,0,5
+Text,/tmp/clone_directory/fastlane/metadata/android/en-US/full_description.txt,1,0,5
+Properties,/tmp/clone_directory/gradle.properties,5,12,5
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+XML,/tmp/clone_directory/app/src/main/res/values-w820dp/dimens.xml,0,3,3
+XML,/tmp/clone_directory/app/src/main/res/values/styles.xml,1,0,3
+Markdown,/tmp/clone_directory/LICENSE.md,0,0,1
+ProGuard,/tmp/clone_directory/app/proguard-rules.pro,1,8,1
+Text,/tmp/clone_directory/fastlane/metadata/android/en-US/changelogs/6.txt,0,0,1
+Text,/tmp/clone_directory/fastlane/metadata/android/en-US/short_description.txt,0,0,1
+Gradle,/tmp/clone_directory/settings.gradle,0,0,1
+SUM,,1203,1292,4515

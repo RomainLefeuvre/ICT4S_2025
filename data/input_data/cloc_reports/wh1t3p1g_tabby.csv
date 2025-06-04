@@ -1,0 +1,94 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.03 s (2775.5 files/s 290794.7 lines/s)"
+Java,/tmp/clone_directory/src/main/java/tabby/common/utils/SemanticUtils.java,67,41,462
+Java,/tmp/clone_directory/src/main/java/tabby/common/utils/FileUtils.java,48,29,362
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/data/TabbyVariable.java,70,30,360
+Java,/tmp/clone_directory/src/main/java/tabby/util/SemanticHelper.java,48,32,357
+Java,/tmp/clone_directory/src/main/java/tabby/core/container/DataContainer.java,46,79,307
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/Switcher.java,38,70,264
+Java,/tmp/clone_directory/src/main/java/tabby/core/container/RulesContainer.java,29,8,218
+JSON,/tmp/clone_directory/rules/commonJars.json,0,0,210
+Java,/tmp/clone_directory/src/main/java/tabby/config/GlobalConfiguration.java,29,12,196
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/data/Context.java,25,24,195
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/ref/MethodReference.java,30,34,186
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/PollutedVarsPointsToAnalysis.java,23,29,181
+Java,/tmp/clone_directory/src/main/java/tabby/core/Analyser.java,21,15,160
+Java,/tmp/clone_directory/src/main/java/tabby/core/collector/ClassInfoCollector.java,25,18,157
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/InvokeExprSwitcher.java,19,11,143
+JSON,/tmp/clone_directory/rules/system.json,3,0,137
+Markdown,/tmp/clone_directory/README_EN.md,76,0,132
+Bourne Shell,/tmp/clone_directory/gradlew,23,36,126
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/data/FileLocation.java,12,11,123
+Java,/tmp/clone_directory/src/main/java/tabby/core/scanner/ClassInfoScanner.java,19,12,101
+JSON,/tmp/clone_directory/rules/sinks.json,6,0,99
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/data/TabbyValue.java,23,11,97
+JSON,/tmp/clone_directory/rules/tags.json,0,0,94
+Java,/tmp/clone_directory/src/main/java/tabby/common/rule/TabbyRule.java,27,4,93
+Java,/tmp/clone_directory/src/main/java/tabby/common/utils/TickTock.java,13,5,91
+Java,/tmp/clone_directory/src/main/java/tabby/core/scanner/CallGraphScanner.java,11,5,90
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/value/SimpleLeftValueSwitcher.java,13,21,89
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/model/IgnoreInvokeModel.java,12,6,88
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/ref/ClassReference.java,15,17,87
+Java,/tmp/clone_directory/src/main/java/tabby/plugin/jsp/JspCompilePlugin.java,8,8,87
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/stmt/SimpleStmtSwitcher.java,9,18,85
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/model/DefaultInvokeModel.java,16,4,82
+Java,/tmp/clone_directory/src/main/java/tabby/App.java,10,1,80
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/value/SimpleRightValueSwitcher.java,15,18,80
+Markdown,/tmp/clone_directory/doc/Neo4j 环境配置  V5.md,16,0,79
+XML,/tmp/clone_directory/src/main/resources/logback-spring.xml,15,2,79
+Java,/tmp/clone_directory/src/main/java/tabby/dal/service/RelationshipsService.java,8,4,75
+Markdown,/tmp/clone_directory/doc/Neo4j 环境配置.md,18,0,74
+Java,/tmp/clone_directory/src/main/java/tabby/core/collector/CallGraphCollector.java,9,10,71
+Java,/tmp/clone_directory/src/main/java/tabby/core/collector/FileCollector.java,12,4,69
+Java,/tmp/clone_directory/src/main/java/tabby/core/collector/CallEdgeCollector.java,8,7,68
+DOS Batch,/tmp/clone_directory/gradlew.bat,21,2,66
+Markdown,/tmp/clone_directory/doc/Tabby 配置文件介绍.md,12,0,65
+Java,/tmp/clone_directory/src/main/java/tabby/common/utils/PositionUtils.java,9,4,63
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/edge/Call.java,14,20,54
+YAML,/tmp/clone_directory/.github/workflows/github-action-build-and-release.yml,7,1,53
+Markdown,/tmp/clone_directory/README.md,25,0,50
+Java,/tmp/clone_directory/src/main/java/tabby/config/AsyncConfiguration.java,8,4,46
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/model/CallEdgeBuilder.java,12,10,43
+Gradle,/tmp/clone_directory/build.gradle,10,6,42
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/data/TabbyStatus.java,8,11,41
+Java,/tmp/clone_directory/src/main/java/tabby/plugin/jmod/JModTransferPlugin.java,8,5,41
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/edge/Alias.java,10,4,39
+Java,/tmp/clone_directory/src/main/java/tabby/common/utils/JavaVersionUtils.java,9,4,39
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/edge/Has.java,9,4,38
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/edge/Interfaces.java,9,4,38
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/model/Model.java,10,5,36
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/edge/Extend.java,9,4,35
+Java,/tmp/clone_directory/src/main/java/tabby/dal/service/MethodRefService.java,11,4,35
+Java,/tmp/clone_directory/src/main/java/tabby/dal/service/ClassRefService.java,12,4,32
+Java,/tmp/clone_directory/src/main/java/tabby/common/rule/TagRule.java,10,4,31
+Markdown,/tmp/clone_directory/doc/Tabby 食用指北.md,12,0,29
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/converter/Map2JsonStringForAnnotationsConverter.java,5,4,28
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/converter/ListSet2JsonStringConverter.java,6,4,27
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/converter/List2JsonStringConverter.java,6,4,26
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/converter/ListInteger2JsonStringConverter.java,6,4,26
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/converter/Map2JsonStringConverter.java,5,4,26
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/converter/MethodRef2StringConverter.java,5,4,23
+YAML,/tmp/clone_directory/.github/workflows/ci.yml,4,0,22
+YAML,/tmp/clone_directory/.github/workflows/gradle-publish.yml,4,2,20
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/value/ValueSwitcher.java,4,4,20
+Properties,/tmp/clone_directory/config/settings.properties,4,6,19
+Java,/tmp/clone_directory/src/main/java/tabby/analysis/switcher/stmt/StmtSwitcher.java,3,4,18
+Java,/tmp/clone_directory/src/main/java/tabby/config/SootConfiguration.java,4,21,18
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/ClassRepository.java,8,4,18
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/MethodRepository.java,7,4,18
+JSON,/tmp/clone_directory/rules/basicClasses.json,0,0,17
+Properties,/tmp/clone_directory/src/main/resources/application.properties,3,12,17
+YAML,/tmp/clone_directory/env/docker-compose.yml,0,2,15
+Bourne Shell,/tmp/clone_directory/run.sh,0,0,13
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/AliasEdgeRepository.java,4,4,13
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/CallEdgeRepository.java,3,4,13
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/ExtendEdgeRepository.java,4,4,13
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/HasEdgeRepository.java,4,4,13
+Java,/tmp/clone_directory/src/main/java/tabby/dal/repository/InterfacesEdgeRepository.java,4,4,13
+Java,/tmp/clone_directory/src/main/java/tabby/common/utils/HashingUtils.java,4,5,10
+Text,/tmp/clone_directory/src/main/resources/banner.txt,0,0,10
+Java,/tmp/clone_directory/src/test/java/tabby/AppTests.java,4,0,9
+Gradle,/tmp/clone_directory/settings.gradle,1,0,8
+Dockerfile,/tmp/clone_directory/env/Dockerfile,1,0,6
+Properties,/tmp/clone_directory/gradle/wrapper/gradle-wrapper.properties,0,0,5
+Java,/tmp/clone_directory/src/main/java/tabby/common/bean/edge/Edge.java,1,4,3
+SUM,,1254,848,7537

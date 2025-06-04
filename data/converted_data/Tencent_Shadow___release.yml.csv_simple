@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Installed distributions,1219.7866373495472,128552525,False,
+##[group]Run actions/cache@v2,1111.557417359997,115240013,False,
+##[group]GITHUB_TOKEN Permissions,79.66118229331134,4770163,False,
+##[group]Run ./gradlew build,26.97803625587021,2714556,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew jvmTestSdk -S,25.46572606461336,1983829,True,##[error]Process completed with exit code 1.
+##[group]Run ./gradlew buildSdk,15.552163722178346,7282466,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,11.412135665614828,437761,False,
+##[group]Run ./gradlew --stop,6.548525851659788,2782726,False,
+##[group]Run actions/checkout@v2,5.333122222820001,181606,False,
+##[group]Setting up auth,2.759797513906854,72757,False,
+##[group]Removing previously created refs_ to avoid conflicts,2.7225029529081124,28928,False,
+Requested labels: self-hosted,0.0,4881806,False,

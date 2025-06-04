@@ -1,0 +1,16 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.02 s (807.9 files/s 648487.1 lines/s)"
+Properties,/tmp/clone_directory/compare/src/core.properties,385,460,4471
+Properties,/tmp/clone_directory/src/main/resources/org/sonar/l10n/core_zh.properties,385,460,4471
+Java,/tmp/clone_directory/compare/Main.java,28,22,174
+Maven,/tmp/clone_directory/pom.xml,19,0,150
+YAML,/tmp/clone_directory/.github/workflows/build.yml,0,0,37
+Java,/tmp/clone_directory/src/test/java/org/sonar/plugins/l10n/ChinesePackPluginTest.java,6,23,27
+Markdown,/tmp/clone_directory/README.md,8,0,25
+Java,/tmp/clone_directory/src/main/java/org/sonar/plugins/l10n/ChinesePackPlugin.java,4,19,13
+YAML,/tmp/clone_directory/.travis.yml,4,0,12
+INI,/tmp/clone_directory/.editorconfig,3,0,10
+DOS Batch,/tmp/clone_directory/compare/run.bat,3,0,5
+Bourne Shell,/tmp/clone_directory/compare/run.sh,3,0,5
+Text,/tmp/clone_directory/trigger-github-action.txt,1,0,2
+Properties,/tmp/clone_directory/.sonarsource.properties,0,1,1
+SUM,,849,985,9403

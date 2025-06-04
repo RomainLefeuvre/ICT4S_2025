@@ -1,0 +1,9 @@
+Requested labels: self-hosted, 0.0, , , , 4682380, False, 
+##[group]GITHUB_TOKEN Permissions, 144.75827820893917, , , , 3762292, False, 
+##[group]Run actions/checkout@v4, 11.383468317359302, , , , 173617, False, 
+##[group]Removing previously created refs_ to avoid conflicts, 5.826184571876808, , , , 31994, False, 
+##[group]Cleaning the repository, 18.01635536841905, , , , 346384, False, 
+##[group]Setting up auth, 6.184719007069226, , , , 79673, False, 
+##[group]Fetching the repository, 32.2680991673177, , , , 460890, False, 
+##[group]Run liquibase/action-download-artifact@v2-liquibase, 36.30161156323242, , , , 504325, True, ##[error]no matching workflow run found
+##[group]Run actions/upload-artifact@v3, 64.17766389944298, , , , 770955, False, 

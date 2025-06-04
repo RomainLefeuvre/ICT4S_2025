@@ -1,0 +1,18 @@
+##[group]Run gradle/gradle-build-action@937999e9cc2425eddc7fd62d1053baf041147db7__dup_9, 5255.502462805096, , , , 559310410, True, ##[error]Gradle build failed: process exited with status 1
+> Task :test, 4262.590529543347, , , , 503299485, False, 
+> Task :checkstyleTest, 261.2042480303603, , , , 19900337, False, 
+##[group]Caching Gradle state, 189.38339928557085, , , , 23821888, False, 
+> Task :compileTestJava, 183.19479385381072, , , , 6797043, False, 
+> Task :assemble, 103.0784567141677, , , , 3399876, False, 
+> Task :checkstyleMain, 102.82237716783996, , , , 8202734, False, 
+> Task :testClasses, 55.95895993440274, , , , 2899776, False, 
+Requested labels: self-hosted, 55.13013841697256, , , , 4690931, False, 
+##[group]Fetching the repository, 47.3189619837616, , , , 1222049, False, 
+##[group]Restore Gradle state from cache, 41.18842271071895, , , , 30113420, True, ##[error]Gradle build failed: process exited with status 1
+##[group]GITHUB_TOKEN Permissions, 18.21749001217386, , , , 4131750, False, 
+##[group]Run actions/setup-java@f0bb91606209742fe3ea40199be2f3ef195ecabf, 10.91362700092646, , , , 235478, False, 
+##[group]Run actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579, 7.284184837139903, , , , 173139, False, 
+##[group]Run gradle/gradle-build-action@937999e9cc2425eddc7fd62d1053baf041147db7, 7.2744735304375, , , , 174742, False, 
+##[group]Cache Entry details, 5.8803341968106, , , , 454583, False, 
+##[group]Cleaning the repository, 3.641709077515909, , , , 27319, False, 
+> Task :classes, 3.0392831058876784, , , , 100238, False, 

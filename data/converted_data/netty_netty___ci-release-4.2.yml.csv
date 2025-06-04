@@ -1,0 +1,53 @@
+##[group]==END_FILE==, 4335.960055344938, , , , 615409450, False, 
+##[group]GITHUB_TOKEN Permissions, 7.365616827446897, , , , 5092258, False, 
+##[group]Run actions/checkout@v4, 2.4163268343549253, , , , 194433, False, 
+##[group]Cleaning the repository, 1.1663276358650547, , , , 148501, False, 
+##[group]Setting up auth, 1.138437114990116, , , , 74531, False, 
+##[group]Fetching the repository, 79.32297273885465, , , , 27507009, False, 
+##[group]Installed distributions, 0.4767548165344821, , , , 21731, False, 
+##[group]Run shimataro/ssh-key-action@v2, 0.5202991152612337, , , , 84345, False, 
+##[group]Run actions/cache@v4, 600.5058322290676, , , , 79565369, True, ##[error]Error: Input required and not supplied: key
+##[group]Run ./mvnw -B -ntp --file pom.xml release:prepare -DpreparationGoals=clean -DskipTests=true, 20.207753062570266, , , , 3472020, True, ##[error]Process completed with exit code 2.
+##[group]Run actions/upload-artifact@v4, 10.958718166667069, , , , 7141651, False, 
+##[group]==END_FILE==__dup_12, 2481.893809861632, , , , 346540291, False, 
+##[group]GITHUB_TOKEN Permissions__dup_13, 76.59180632963586, , , , 11423448, False, 
+##[group]Run actions/download-artifact@v4, 179.7900796927234, , , , 19115931, False, 
+##[group]Installed distributions__dup_15, 3.044634974945235, , , , 240653, False, 
+##[group]Run shimataro/ssh-key-action@v2__dup_16, 1.08810876658136, , , , 105988, False, 
+##[group]Run s4u/maven-settings-action@v3.0.0, 2.212832753962528, , , , 144121, False, 
+##[group]Run actions/cache@v4__dup_18, 688.160246008531, , , , 83674504, True, ##[error]Error: Input required and not supplied: key
+##[group]Run docker-compose -f docker/docker-compose.ubuntu-20.04.yaml build, 30.34879268070302, , , , 4505454, False, 
+##[group]Run docker-compose -f docker/docker-compose.ubuntu-20.04.yaml run cross-compile-riscv64-stage-release, 49.647547377690415, , , , 32309072, False, 
+##[group]Run actions/upload-artifact@v4__dup_21, 18.59215761057112, , , , 1803619, False, 
+##[group]GITHUB_TOKEN Permissions__dup_22, 65.74567690908133, , , , 6617034, False, 
+##[group]Run actions/download-artifact@v4__dup_23, 295.83947553829285, , , , 29028981, False, 
+##[group]Run shimataro/ssh-key-action@v2__dup_24, 10.221554029986024, , , , 97284, False, 
+##[group]Run s4u/maven-settings-action@v3.0.0__dup_25, 4.032807919536356, , , , 138397, False, 
+##[group]Run actions/cache@v4__dup_26, 792.3275321738379, , , , 88854512, True, ##[error]Error: Input required and not supplied: key
+##[group]Run docker-compose -f docker/docker-compose.yaml -f docker/docker-compose.centos-6.18.yaml build, 34.953685833643135, , , , 3514341, False, 
+##[group]Run docker-compose -f docker/docker-compose.yaml -f docker/docker-compose.centos-6.18.yaml run stage-release, 40.51582554816509, , , , 27753007, False, 
+##[group]Run actions/upload-artifact@v4__dup_29, 24.320273527470803, , , , 1776128, False, 
+##[group]GITHUB_TOKEN Permissions__dup_30, 96.5802396478368, , , , 6791705, False, 
+##[group]Run actions/download-artifact@v4__dup_31, 181.3229836400359, , , , 13312402, False, 
+##[group]Installed distributions__dup_32, 2.458747648842987, , , , 56103, False, 
+##[group]Run shimataro/ssh-key-action@v2__dup_33, 2.2053041613580167, , , , 100633, False, 
+##[group]Run s4u/maven-settings-action@v3.0.0__dup_34, 9.759303369365233, , , , 127241, False, 
+##[group]Run actions/cache@v4__dup_35, 630.6604636526773, , , , 68203949, True, ##[error]Error: Input required and not supplied: key
+##[group]Run docker-compose -f docker/docker-compose.centos-7.yaml build, 28.13151708809605, , , , 5233643, False, 
+##[group]Run docker-compose -f docker/docker-compose.centos-7.yaml run cross-compile-aarch64-stage-release, 50.85756615289054, , , , 19940113, False, 
+##[group]Run actions/upload-artifact@v4__dup_38, 21.452985590642967, , , , 1796622, False, 
+##[group]==END_FILE==__dup_39, 13.06049344512331, , , , 4958758, False, 
+##[group]GITHUB_TOKEN Permissions__dup_40, 65.59156990117218, , , , 4984567, False, 
+##[group]Run actions/download-artifact@v4__dup_41, 242.43829158047637, , , , 21445455, False, 
+##[group]Installed distributions__dup_42, 9.354401265741084, , , , 58891, False, 
+##[group]Run shimataro/ssh-key-action@v2__dup_43, 2.0764208791562133, , , , 96478, False, 
+##[group]Run actions/download-artifact@v4__dup_44, 11.923659090841042, , , , 648488, False, 
+##[group]Run actions/download-artifact@v4__dup_45, 6.90670909863569, , , , 653846, False, 
+##[group]Run actions/download-artifact@v4__dup_46, 10.594574471343304, , , , 649305, False, 
+##[group]Run bash ./.github/scripts/merge_local_staging.sh /home/runner/local-staging/staging ~/linux-aarch64-local-staging/staging ~/linux-riscv64-local-staging/staging ~/linux-x86_64-java8-local-staging/staging, 1.9233259085022647, , , , 27610, False, 
+##[group]Run s4u/maven-settings-action@v3.0.0__dup_48, 1.8255314156190672, , , , 138377, True, ##[error]Error: Input required and not supplied: key
+##[group]Run actions/cache@v4__dup_49, 769.7916393523753, , , , 76958465, True, ##[error]servers must contain id, and username or configuration
+##[group]Run ./mvnw -B -ntp --file pom.xml org.sonatype.plugins:nexus-staging-maven-plugin:deploy-staged -DnexusUrl=https://oss.sonatype.org -DserverId=sonatype-nexus-staging -DaltStagingDirectory=/home/runner/local-staging -DskipStagingRepositoryClose=true, 53.35348688978629, , , , 4356774, True, ##[error]Process completed with exit code 2.
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-dev-tools ---, 19.14540247620309, , , , 452092, False, 
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-parent ---, 6.745170269136791, , , , 203023, True, ##[error]No files were found with the provided path: ~/local-staging. No artifacts will be uploaded.
+[INFO] --- nexus-staging:1.7.0:deploy-staged (default-cli) @ netty-transport-classes-kqueue ---, 3.176944265708872, , , , 1386, False, 

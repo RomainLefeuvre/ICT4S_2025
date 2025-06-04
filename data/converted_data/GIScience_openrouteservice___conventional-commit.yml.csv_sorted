@@ -1,0 +1,7 @@
+Requested labels: self-hosted, 202.63046591096867, , , , 59786776, False, 
+##[group]==END_FILE==, 84.737198168327, , , , 4155521, False, 
+##[group]Build container for action use: '/home/power/actions-runner/_work/_actions/aslafy-z/conventional-pr-title-action/v3/Dockerfile'., 66.46223916768243, , , , 41627718, False, 
+##[group]GITHUB_TOKEN Permissions__dup_6, 18.588107794451, , , , 1422002, False, 
+##[group]Run aslafy-z/conventional-pr-title-action@v3, 10.278806191245089, , , , 6411653, False, 
+##[group]Run MichaelsJP/action-conventional-commits@master, 4.888906933947313, , , , 215742, False, 
+##[group]GITHUB_TOKEN Permissions, 2.229105858420076, , , , 1139651, False, 

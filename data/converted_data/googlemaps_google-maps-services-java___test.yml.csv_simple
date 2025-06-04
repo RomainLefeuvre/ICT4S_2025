@@ -1,0 +1,13 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run ./gradlew check test jacocoTestReport --stacktrace,667.6832656012257,83114438,False,
+> Task :testClasses,260.07818619319835,18199819,False,
+> Task :test,72.55962388599295,11600293,False,
+> Task :classes,55.08985054782949,5004940,False,
+> Task :compileTestJava,16.718582810137946,1293451,False,
+##[group]GITHUB_TOKEN Permissions,8.995089142926863,1317196,False,
+##[group]Run bash <(curl -s https://codecov.io/bash),8.903265065995212,1960517,True,##[error]Process completed with exit code 1.
+##[group]Fetching the repository,5.226418198437424,726987,False,
+##[group]==END_FILE==,2.965280452272397,6775362,False,
+##[group]Run actions/checkout@v2,1.4531481018457229,181276,False,
+##[group]Checking out the ref,0.7612181677744259,67876,False,
+##[group]Setting up auth,0.7320441746362664,68075,False,

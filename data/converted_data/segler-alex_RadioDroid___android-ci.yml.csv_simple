@@ -1,0 +1,10 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run bash ./gradlew build --stacktrace,310.3358410212962,42507392,True,##[error]Process completed with exit code 1.
+##[group]GITHUB_TOKEN Permissions,13.809855692638155,2140751,False,
+##[group]Fetching the repository,8.555895297141165,952214,False,
+##[group]Run actions/checkout@v3,1.6650166613626254,176882,False,
+##[group]Installed distributions,1.0924310758169316,134666,False,
+##[group]Checking out the ref,1.0294195012385996,76855,False,
+##[group]Setting up auth,0.87189056479277,69213,False,
+##[group]Initializing the repository,0.8561376711481872,93535,False,
+##[group]==END_FILE==,0.2254041385275282,6280137,False,

@@ -1,0 +1,8 @@
+name,energy,seconds,has_error,error_msg
+##[group]Run mvn clean spotless:check,126.27172561017814,33687558,False,
+##[group]GITHUB_TOKEN Permissions,94.26144775657406,2387158,False,
+##[group]Fetching the repository,39.60097296750848,536120,False,
+##[group]Cleaning the repository,35.900447345578115,614398,False,
+##[group]Run actions/checkout@v4,10.733307241215911,144358,False,
+##[group]Removing previously created refs_ to avoid conflicts,5.5208421881883885,134710,False,
+Requested labels: self-hosted,2.267825000071193,2852057,False,
