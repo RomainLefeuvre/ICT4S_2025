@@ -21,6 +21,25 @@ Tasks Managed by Build Automation Tools: The Case of Apache Maven and Gradle"
   </ol>
 </details>
 
+## Authors  
+
+Sérgio Queiroz de Medeiros
+Federal University of Rio Grande do Norte
+Natal, Brazil
+
+
+Romain Lefeuvre,
+Univ. Rennes, IRISA, Inria
+Rennes, France
+
+Benoit Combemale
+Univ. Rennes, IRISA, Inria
+Rennes, France
+
+Quentin Perez
+INSA Rennes, Univ. Rennes, IRISA, Inria
+Rennes, France
+
 ## Structure
 
 ```python
